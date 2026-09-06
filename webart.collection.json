@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "templates": [
+    {
+      "id": "001",
+      "slug": "weight-of-light",
+      "title": "The Weight of Light",
+      "projectDir": ".",
+      "manifest": "webart.package.json",
+      "status": "accepted",
+      "stage": "accepted",
+      "records": {
+        "brief": "docs/pages/001-weight-of-light.md",
+        "reference": "docs/references/001-weight-of-light.md",
+        "assets": "docs/assets/001-weight-of-light.md",
+        "qa": "docs/qa/001-weight-of-light.md"
+      },
+      "approval": {
+        "date": "2026-08-28",
+        "record": "docs/DECISIONS.md",
+        "sourceSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0"
+      },
+      "release": {
+        "bytes": 5810208,
+        "sha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0"
+      }
+    },
+    {
+      "id": "002",
+      "slug": "objects-in-field",
+      "title": "Objects in Field",
+      "projectDir": "designs/002-objects-in-field",
+      "manifest": "webart.package.002.json",
+      "status": "frozen",
+      "stage": "reference_selection",
+      "records": {
+        "brief": "docs/pages/002-objects-in-field.md",
+        "reference": "docs/references/002-objects-in-field.md",
+        "assets": "docs/assets/002-objects-in-field.md",
+        "qa": "docs/qa/002-objects-in-field.md"
+      },
+      "approval": null,
+      "release": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Dependencies and generated builds, including individual templates.
+node_modules/
+dist/
+.webart/
+
+# Local experiments and rejected delivery archives; keep documented QA evidence.
+/review-*.png
+/docs/quarantine/**/*.zip
+# Full-resolution browser captures are local evidence artifacts.
+/docs/evidence/**/*.png
+/docs/evidence/**/*.jpg
+!/docs/evidence/**/contact-sheet.jpg
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Local credentials and environment overrides.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+auth.json
+cookies.json
+storage-state.json

@@ -1,0 +1,14 @@
+{
+  "slug": "weight-of-light",
+  "version": "0.1.0",
+  "output": "public/weight-of-light-source.zip",
+  "files": [
+    { "source": "index.html", "archive": "index.html" },
+    { "source": "distribution/package.json", "archive": "package.json" },
+    { "source": "package-lock.json", "archive": "package-lock.json" },
+    { "source": "src", "archive": "src" },
+    { "source": "public/assets", "archive": "public/assets" },
+    { "source": "distribution/README.md", "archive": "README.md" },
+    { "source": "distribution/THIRD_PARTY_NOTICES.md", "archive": "THIRD_PARTY_NOTICES.md" }
+  ]
+}

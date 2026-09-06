@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#eff0f7" />
+    <meta name="description" content="Objects in Field — an independent spatial practice for responsive environments." />
+    <title>Objects in Field — Spatial Practice</title>
+    <link rel="preload" href="/assets/field-assembly.png" as="image" fetchpriority="high" />
+    <link rel="preload" href="/assets/process-prototype.png" as="image" fetchpriority="low" />
+    <link rel="preload" href="/assets/blue-motion-field.png" as="image" fetchpriority="low" />
+    <link rel="preload" href="/assets/final-chamber.png" as="image" fetchpriority="low" />
+    <link rel="stylesheet" href="/src/style.css?v=12" />
+  </head>
+  <body>
+    <div class="cursor" aria-hidden="true"><i></i><span>VIEW</span></div>
+    <div class="page-progress" aria-hidden="true"><i></i></div>
+
+    <header class="site-header">
+      <div class="identity" aria-label="Objects in Field">
+        <span class="identity__full"><i>OBJECTS</i><i>IN FIELD</i></span>
+        <span class="identity__compact" aria-hidden="true"><b>O</b><i></i><b>F</b></span>
+      </div>
+      <div class="header-actions">
+        <span class="header-orbit visual-control" aria-hidden="true">
+          <i class="header-orbit__minus">−</i><i class="header-orbit__chapter">01</i>
+        </span>
+        <span class="pill pill--dark header-contact visual-control" aria-hidden="true"><em>CONTACT</em><i></i></span>
+        <span class="pill index-toggle visual-control" aria-hidden="true"><em>INDEX</em><b>••</b></span>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="chapter cover" id="cover" data-chapter="1" data-header="light">
+        <h1>Spatial matter<br />in motion.</h1>
+        <figure class="hero-stage interactive-media" data-cursor="EXPLORE" data-shader="assembly">
+          <img src="/assets/field-assembly.png" alt="Abstract porcelain, graphite and blue spatial assembly" />
+          <figcaption>SCROLL / 01</figcaption>
+        </figure>
+        <div class="ticks" aria-hidden="true"><i>+</i><i>+</i><i>+</i><i>+</i></div>
+      </section>
+
+      <section class="chapter approach" id="approach" data-chapter="2" data-header="light">
+        <div class="approach__heading" aria-label="Form responds.">
+          <span>FORM</span><span>RESPONDS.</span>
+        </div>
+        <svg class="route" viewBox="0 0 2048 912" preserveAspectRatio="none" aria-hidden="true">
+          <path d="M-80 640 C 190 210, 530 300, 720 630 S 1200 1020, 1370 470 S 1730 110, 2125 330" />
+        </svg>
+        <figure class="approach__image interactive-media" data-cursor="TRACE" data-shader="process">
+          <img src="/assets/process-prototype.png" alt="Hands calibrating a blue spatial light prototype" loading="eager" fetchpriority="low" />
+        </figure>
+        <div class="approach__copy">
+          <span>02 / METHOD</span>
+          <p>Light. Motion. Code.</p>
+        </div>
+      </section>
+
+      <section class="chapter field" id="field" data-chapter="3" data-header="light">
+        <figure class="field-stage interactive-media" data-cursor="DRIFT" data-shader="field">
+          <img src="/assets/blue-motion-field.png" alt="Ultramarine glass ribbons folding into light" loading="eager" fetchpriority="low" />
+          <div class="field-action visual-control" aria-hidden="true">
+            <span>ENTER</span><i><b>↗</b></i><span>FIELD</span>
+          </div>
+          <figcaption>03 / OPTICAL STATE</figcaption>
+        </figure>
+        <div class="ticks ticks--field" aria-hidden="true"><i>+</i><i>+</i><i>+</i><i>+</i></div>
+        <div class="field-bridge" aria-hidden="true"><i></i><span>03</span><b>04</b></div>
+      </section>
+
+      <section class="chapter ending interactive-media" id="contact" data-chapter="4" data-header="dark" data-cursor="FOCUS" data-shader="ending">
+        <img class="ending__image" src="/assets/final-chamber.png" alt="Dark faceted chamber converging on blue-white light" loading="eager" fetchpriority="low" />
+        <div class="ending__copy">
+          <span>04 / FRAME</span>
+          <h2>Stay responsive.</h2>
+          <span class="pill pill--white visual-control" aria-hidden="true">MAKE CONTACT <i></i></span>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="/src/main.js?v=12"></script>
+  </body>
+</html>

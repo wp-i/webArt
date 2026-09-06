@@ -1,0 +1,26 @@
+[
+  {
+    "path": "index.html",
+    "sha256": "04b03642708597170385fcf8ddba5d6444d7d61d623c44b72463e02fbe971d79"
+  },
+  {
+    "path": "src/main.js",
+    "sha256": "1f6b7449bf6441c09c23df03625e8c3930b8ac557b8b30a19b4be62a489dfa83"
+  },
+  {
+    "path": "src/styles.css",
+    "sha256": "54826900959af396a352bffd3412b822c7d080b2d55b878662d84689aa960aa8"
+  },
+  {
+    "path": "public/assets/hero-mineral-membrane.png",
+    "sha256": "b40ae3fd451e5641162f66b02c2bb0b256fe2e26b4bfa6c422eb4b0a35b1fd52"
+  },
+  {
+    "path": "public/assets/material-detail.png",
+    "sha256": "a77702fb16717ab30647b05cc0d83b17128528c6f9e5fdbfe1352f8dd36152de"
+  },
+  {
+    "path": "public/assets/coda-chamber.png",
+    "sha256": "1536385ffc9c19bc0812aeb2c18df9909397be4c868a8f88de62550b112d09b2"
+  }
+]

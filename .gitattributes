@@ -1,0 +1,2 @@
+# Approval and release receipts bind exact bytes; never normalize on checkout.
+* -text

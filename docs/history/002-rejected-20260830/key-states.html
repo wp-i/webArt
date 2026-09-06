@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Objects in Field — Key States</title>
+    <link rel="stylesheet" href="/key-states.css" />
+  </head>
+  <body>
+    <header class="frame" aria-label="Prototype navigation">
+      <a class="identity" href="?state=1">OBJECTS<br />IN FIELD</a>
+      <div class="frame__actions">
+        <span class="frame__counter">02 / 04</span>
+        <a class="pill pill--dark" href="?state=4">MAKE CONTACT <i></i></a>
+        <a class="pill" href="?state=1">INDEX <b>••</b></a>
+      </div>
+    </header>
+
+    <main>
+      <section class="state state--cover" data-state="1">
+        <h1>Spatial systems<br />for a responsive world</h1>
+        <figure class="hero-stage">
+          <img src="/assets/field-assembly.png" alt="Abstract porcelain, graphite and blue spatial assembly" />
+          <figcaption><span>FIELD STUDY 01</span><span>SCROLL TO EXPLORE</span><span>REALTIME / FORM</span></figcaption>
+        </figure>
+        <div class="ticks" aria-hidden="true"><i>+</i><i>+</i><i>+</i><i>+</i></div>
+      </section>
+
+      <section class="state state--transition" data-state="2">
+        <h2>FORM, MADE<br />RESPONSIVE.</h2>
+        <svg class="route" viewBox="0 0 2048 912" preserveAspectRatio="none" aria-hidden="true">
+          <path d="M-80 640 C 190 210, 530 300, 720 630 S 1200 1020, 1370 470 S 1730 110, 2125 330" />
+        </svg>
+        <figure><img src="/assets/process-prototype.png" alt="Hands calibrating a blue spatial light prototype" /></figure>
+        <div class="transition__copy">
+          <p>We shape light, motion and code into spaces that answer back.</p>
+          <a class="pill pill--light" href="?state=3"><i></i> OUR APPROACH</a>
+        </div>
+      </section>
+
+      <section class="state state--field" data-state="3">
+        <figure>
+          <img src="/assets/blue-motion-field.png" alt="Ultramarine glass ribbons folding into light" />
+          <button type="button"><span>ENTER</span><i>•</i><span>FIELD</span></button>
+        </figure>
+        <div class="ticks ticks--field" aria-hidden="true"><i>+</i><i>+</i><i>+</i><i>+</i></div>
+      </section>
+
+      <section class="state state--ending" data-state="4">
+        <img class="ending__image" src="/assets/final-chamber.png" alt="Dark faceted chamber converging on blue-white light" />
+        <div class="ending__copy">
+          <span>FIELD NOTE / 004</span>
+          <h2>Build for<br />the frame.</h2>
+          <a class="pill pill--white" href="mailto:studio@example.com">MAKE CONTACT <i></i></a>
+        </div>
+        <span class="ending__edition">OIF® / SPATIAL PRACTICE / 2026</span>
+      </section>
+    </main>
+
+    <script>
+      const state = new URLSearchParams(location.search).get('state') || '1';
+      document.documentElement.dataset.state = state;
+      document.querySelector('.frame__counter').textContent = `${state.padStart(2, '0')} / 04`;
+    </script>
+  </body>
+</html>

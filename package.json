@@ -1,0 +1,25 @@
+{
+  "name": "the-weight-of-light",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "package:source": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/package-template.ps1",
+    "verify:package": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/verify-package.ps1",
+    "collection:status": "node scripts/collection.mjs status",
+    "collection:check": "node scripts/collection.mjs check all",
+    "collection:audit": "node scripts/collection.mjs audit-public",
+    "test:collection": "node --test scripts/collection.test.mjs scripts/preview.test.mjs",
+    "release": "node scripts/release-collection.mjs"
+  },
+  "dependencies": {
+    "@fontsource/instrument-serif": "^5.3.0",
+    "@fontsource-variable/manrope": "^5.3.0"
+  },
+  "devDependencies": {
+    "vite": "^8.2.2"
+  }
+}

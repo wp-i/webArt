@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "templates": [
+    {
+      "id": "001",
+      "slug": "weight-of-light",
+      "title": "The Weight of Light",
+      "preview": "/",
+      "download": "/weight-of-light-source.zip",
+      "version": "0.1.0",
+      "bytes": 5810208,
+      "sha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0"
+    }
+  ]
+}
