@@ -10,6 +10,16 @@
       "version": "0.1.0",
       "bytes": 5810208,
       "sha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0"
+    },
+    {
+      "id": "002",
+      "slug": "objects-in-field",
+      "title": "Objects in Field",
+      "preview": "/designs/002-objects-in-field/",
+      "download": "/objects-in-field-source.zip",
+      "version": "0.2.0",
+      "bytes": 5270955,
+      "sha256": "fda60e90b208bfba46ac1f330cc02a12a0c6c109ba0116fa8b2928de3df18e4a"
     }
   ]
 }

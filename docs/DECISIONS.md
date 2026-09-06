@@ -1,5 +1,17 @@
 # Design decisions
 
+## 2026-09-06 — Short Design 002 internally accepted
+
+The final 0.2.0 passes the same Webpage Quality v2 rubric as its admitted mother: source 98.50, result 97.10, principal states 96–98, ending 97 versus cover 98. Scores are the primary's internal design judgment, not external certification or prior user approval. The full-state and independent defect evidence, source fingerprint and measured 2.79–3.24-screen lengths are in `docs/qa/002-short-studio.md`. The independent review found no blocking visual or runtime defect; obsolete README descriptions were corrected before approval.
+
+Authorize one source archive for the approved fingerprint only. Include the three used original images and local font/license; exclude the fourth historical image, old shader and internal prototype/evidence. Usage documentation permits modifying and using the delivered template in websites, which is the user-defined product purpose; separate resale remains governed by WebArt download terms. Package and HTTP verification must complete before the registry exposes the download.
+
+## 2026-09-06 — Short Design 002 prototype gate and GitHub checkpoint
+
+The primary reviewed the four runnable desktop states and mobile cover/editorial/ending against the recorded Lusion compositions. The three-image short reconstruction passes the implementation gate. Mobile cover and finale now each fill one viewport, and the static curve is confined above the editorial body copy. The editorial remains a naturally flowing composition of about 1.24 desktop viewports; native transitional crops are accepted under the documented short-page adaptation, while overlapping fixed layers, opacity mixing and accidental horizontal clipping remain failures. No release score or user acceptance is inferred from this prototype gate.
+
+The user authorizes browser creation of a GitHub repository and pushing the project before continued refinement. A private `wp-i/webArt` repository was created through the authenticated GitHub interface. Commit exact source bytes, production records and referenced review evidence; exclude dependencies, builds, transient screenshots and quarantined archives. Preserve Design 001's approved source and archive hashes.
+
 ## 2026-09-06 — Two-to-five-screen template scope; Design 002 short reconstruction starts
 
 The user confirms the workflow and authorizes Design 002 implementation. Adaptation applies to all content, structure and interaction that conflicts with a concise 2–5-screen page, not only 3D. Whole sections, repeated project lists, long prose, recruitment, subscription blocks and prolonged scroll sequences may be removed; local layout and handoff adjustments may reconnect the retained design. Record the cuts and evaluate the shortened result under the same webpage rubric. The former contiguous-excerpt-only restriction is superseded where it prevents this explicit shortening; invented filler and loss of whole-page quality remain unacceptable.

@@ -5,7 +5,7 @@ Product policy: one template, one editable source archive.
 
 ## Collection admission
 
-`webart.collection.json` is the release inventory. Only an `accepted` template with an approval record, QA record and matching approved source fingerprint may be packaged. The current rejected Design 002 is explicitly frozen. Approval is recorded after visual review, never inferred from a build or an old numeric score.
+`webart.collection.json` is the release inventory. Only an `accepted` template with an approval record, QA record and matching approved source fingerprint may be packaged. Design 002 version 0.2.0 passed a new internal review; the rejected 0.1.0 remains excluded. Approval is recorded after visual review, never inferred from a build or an old numeric score.
 
 Archive preparation and isolated build verification occur outside `public/` and `dist/`. A failed or interrupted attempt must not leave a temporary ZIP in a served directory. The public/build ZIP inventory must match accepted registry entries and their verified byte counts and hashes. Generated `public/templates.json` exposes only accepted, verified downloads; internal states and reference evidence stay internal.
 

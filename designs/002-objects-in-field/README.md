@@ -1,26 +1,35 @@
 # Objects in Field
 
-A one-page Vite template for a spatial-design or creative-technology studio. It uses original imagery, ordinary native document scrolling, event-driven optical lenses, pointer-responsive media and a custom cursor. Button-shaped labels are intentionally decorative in the supplied art-demo and the page contains no audio.
+An editable, concise homepage template for a spatial-design or creative studio. Three unique original images form an opening object stage, a process-led introduction and a blue media finale. Desktop and mobile layouts remain within 2–5 screens at the documented review sizes.
 
-## Run locally
+## Start
+
+Use Node.js 22.12 or newer, then:
 
 ```bash
-npm install
+npm ci
 npm run dev
 ```
 
-## Production build
+Open the local address printed by Vite.
+
+## Build and preview
 
 ```bash
 npm run build
+npm run preview
 ```
+
+Deploy the generated `dist/` directory with any static website host. For a subdirectory deployment, pass its public path to Vite, for example `npm run build -- --base=/studio/`.
 
 ## Customize
 
-- Edit copy and visual labels in `index.html`.
-- Replace the four unique images in `public/assets/` while keeping their aspect ratios and semantic roles.
-- Adjust color, type scale and composition tokens at the top of `src/style.css`.
-- Edit the event-driven pointer lenses, entry reveal and compositor progress behavior in `src/main.js`.
-- If the project needs live navigation later, replace the decorative control spans with application-specific links or buttons and add destinations deliberately. The distributed version has no chapter jumps, overlay, mail link or click state.
+- Change the identity, introduction, statement, captions and contact wording in `index.html`.
+- Edit palette, typography, gutters and responsive rules in `src/style.css`.
+- Replace `field-assembly.png`, `process-prototype.png` and `blue-motion-field.png` under `public/assets/`. Keep each image in its unique role and check its desktop and portrait crops.
+- Adjust or remove the optional pointer framing in `src/main.js`. The whole page remains readable without JavaScript.
+- CONTACT, MENU, OUR PRACTICE and the closing labels are deliberately decorative in this design edition. They do not open anything and are not keyboard controls. Replace the relevant spans with real links/buttons and your own destinations when adapting this template for a live business.
 
-Each image has one dominant page role. Reusing an image in a second section will weaken the intended progression.
+Scrolling is native. The template has no audio, autoplay video, 3D engine, custom cursor, scroll interception, loading screen or external asset requests. Pointer framing uses input events only and turns off on touch and when reduced motion is requested. The local Manrope font license is included in `public/assets/manrope-LICENSE.txt`.
+
+Use is described in `LICENSE.md`; dependency attribution is in `THIRD_PARTY_NOTICES.md`.

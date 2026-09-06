@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Design 002 — Desktop Contact Sheet</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 24px; color: white; background: #111218; font: 12px Arial, sans-serif; }
+    header { display: flex; justify-content: space-between; margin-bottom: 20px; letter-spacing: .1em; }
+    main { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+    figure { margin: 0; }
+    img { display: block; width: 100%; border: 1px solid #30323b; }
+    figcaption { display: flex; justify-content: space-between; padding: 8px 2px 0; color: #a7aabc; }
+  </style>
+</head>
+<body>
+  <header><strong>OBJECTS IN FIELD / FULL-STATE AUDIT</strong><span>2048 × 912 / 2026-08-28</span></header>
+  <main>
+    <figure><img src="qa-cover.png" alt="Cover"><figcaption><span>Cover</span><span>y 0000</span></figcaption></figure>
+    <figure><img src="qa-y0640.png" alt="Transition"><figcaption><span>Hero → Method</span><span>y 0640</span></figcaption></figure>
+    <figure><img src="qa-y0820.png" alt="Transition"><figcaption><span>Hero → Method</span><span>y 0820</span></figcaption></figure>
+    <figure><img src="qa-y1040.png" alt="Method"><figcaption><span>Method entry</span><span>y 1040</span></figcaption></figure>
+    <figure><img src="qa-y1420.png" alt="Method"><figcaption><span>Method middle</span><span>y 1420</span></figcaption></figure>
+    <figure><img src="qa-y1760.png" alt="Transition"><figcaption><span>Method → Field</span><span>y 1760</span></figcaption></figure>
+    <figure><img src="qa-y1980.png" alt="Field"><figcaption><span>Field entry</span><span>y 1980</span></figcaption></figure>
+    <figure><img src="qa-y2320.png" alt="Field"><figcaption><span>Field middle</span><span>y 2320</span></figcaption></figure>
+    <figure><img src="qa-y2520.png" alt="Dark visual handoff"><figcaption><span>Frame image handoff</span><span>y 2520</span></figcaption></figure>
+    <figure><img src="qa-y2680.png" alt="Transition"><figcaption><span>Field → Frame</span><span>y 2680</span></figcaption></figure>
+    <figure><img src="qa-ending.png" alt="Ending"><figcaption><span>Ending</span><span>y 2833</span></figcaption></figure>
+  </main>
+</body>
+</html>

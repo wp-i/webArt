@@ -3,7 +3,7 @@
 Status: active  
 Purpose: produce a small collection of reference-led single-page templates with repeatable efficiency and no decline from hero to ending.
 
-Product scope and current inventory: `docs/PRODUCT.md`. The execution registry is `webart.collection.json`; Design 001 is accepted and Design 002 is frozen. Historical candidate scores never override current rejection. A screenshot collection, successful build or generated archive does not create a released template.
+Product scope and current inventory: `docs/PRODUCT.md`. The execution registry is `webart.collection.json`; Design 001 is user-accepted and the new Design 002 0.2.0 is internally accepted. Its rejected 0.1.0 remains historical. A screenshot collection, successful build or generated archive does not create a released template without visual acceptance and verified delivery.
 
 ## Execution discipline — 2026-09-05 recovery
 
@@ -17,7 +17,7 @@ Product scope and current inventory: `docs/PRODUCT.md`. The execution registry i
 - Approval binds to the exact allowlisted source fingerprint. Any later source change requires review appropriate to the change before the fingerprint is updated. Packaging scripts cannot grant visual approval.
 - Measure accepted templates, time spent per stage, rejection reasons and rework rounds. Do not report screenshots captured or self-assigned scores as production output.
 
-For the current Design 002 recovery, use `docs/production/DESIGN2_RESET.md`; the rejected Lusion layout is historical, not a template for the next admission.
+The historical Design 002 reset is `docs/production/DESIGN2_RESET.md`. Its new short-page contract is `docs/pages/002-short-studio.md`, with final evidence in `docs/qa/002-short-studio.md`.
 
 ## Production thesis
 

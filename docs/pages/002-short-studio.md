@@ -1,6 +1,6 @@
 # Design 002 — Objects in Field / 0.2.0 short studio
 
-Status: implementation authorized under the 2026-09-06 user-confirmed workflow; four-state gate pending. Old 0.1.0 remains rejected.
+Status: internally accepted after focused implementation and full-state QA on 2026-09-06; see `docs/qa/002-short-studio.md`. Old 0.1.0 remains rejected. This status does not claim user acceptance.
 
 Purpose: a concise spatial/creative studio homepage template in 2–5 screens, built from the retained design language of https://lusion.co/. Active map: `docs/references/002-short-studio.md`. Prior failed implementations are archived under `docs/history/002-rejected-20260830/`.
 

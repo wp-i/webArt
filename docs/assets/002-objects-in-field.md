@@ -1,15 +1,15 @@
 # Asset manifest — Design 002 / Objects in Field
 
-Status: four original masters preserved; page roles unlocked pending replacement mother
+Status: three original images and local Manrope approved for the 0.2.0 short reconstruction; fourth master preserved outside the active page.
 
 | File | Unique page role | Source/provenance | Distribution right | Reuse allowed? |
 |---|---|---|---|---|
 | `public/assets/field-assembly.png` | Cover object stage | Original ImageGen output for Design 002; final prompt recorded below | Project-generated; include in source archive after approval | No |
 | `public/assets/process-prototype.png` | Editorial transition image | Original ImageGen output for Design 002; final prompt recorded below | Project-generated; include in source archive after approval | No |
 | `public/assets/blue-motion-field.png` | Full-width primary state | Original ImageGen output for Design 002; final prompt recorded below | Project-generated; include in source archive after approval | No |
-| `public/assets/final-chamber.png` | Dark ending | Original ImageGen output for Design 002; final prompt recorded below | Project-generated; include in source archive after approval | No |
+| `docs/assets/masters/002/final-chamber.png` | Historical unused master | Original ImageGen output for Design 002; final prompt recorded below | Excluded from active page and customer archive | No |
 
-Selected master paths are stored under `designs/002-objects-in-field/public/assets/`. No customer archive is authorized while the mother reference is unresolved.
+The three active images are under `designs/002-objects-in-field/public/assets/`. The admitted short-page map is `docs/references/002-short-studio.md`. The source archive is authorized only after the final page passes its release gate.
 
 ## Planned prompt records
 
@@ -23,7 +23,7 @@ Selected master paths are stored under `designs/002-objects-in-field/public/asse
 | Dependency | Version | License | Included in notices? |
 |---|---:|---|---|
 | Vite | lockfile version | MIT | Pending package creation |
-| Browser system sans-serif stack | n/a | system fonts | Not bundled |
+| Manrope variable Latin | Installed Fontsource 5.3.0 asset | SIL OFL 1.1 | Full license bundled as `public/assets/manrope-LICENSE.txt` |
 
 ## Asset gate
 
@@ -33,4 +33,4 @@ Selected master paths are stored under `designs/002-objects-in-field/public/asse
 - Asset resolution must support the 2048 × 912 QA viewport without visible softness in its intended crop.
 - PNG masters are retained because they remain clean at the largest target crop; any later compression requires a direct visual comparison before distribution.
 - The user has repeatedly confirmed the image quality. Do not regenerate these assets to compensate for layout or transition failures.
-- Unique page roles are provisional until a replacement mother passes the four-frame continuity gate.
+- The three unique active roles passed the runnable key-state gate on 2026-09-06. The unused fourth image and former shader are preserved in history and excluded from the source archive.

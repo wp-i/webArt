@@ -1,83 +1,60 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#eff0f7" />
-    <meta name="description" content="Objects in Field — an independent spatial practice for responsive environments." />
-    <title>Objects in Field — Spatial Practice</title>
-    <link rel="preload" href="/assets/field-assembly.png" as="image" fetchpriority="high" />
-    <link rel="preload" href="/assets/process-prototype.png" as="image" fetchpriority="low" />
-    <link rel="preload" href="/assets/blue-motion-field.png" as="image" fetchpriority="low" />
-    <link rel="preload" href="/assets/final-chamber.png" as="image" fetchpriority="low" />
-    <link rel="stylesheet" href="/src/style.css?v=12" />
-  </head>
-  <body>
-    <div class="cursor" aria-hidden="true"><i></i><span>VIEW</span></div>
-    <div class="page-progress" aria-hidden="true"><i></i></div>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#eff0f6" />
+  <title>Objects in Field — A spatial design practice</title>
+  <meta name="description" content="Objects in Field is an independent practice shaping ideas through form, light and digital craft." />
+  <link rel="preload" href="/assets/manrope-latin.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/assets/field-assembly.png" as="image" fetchpriority="high" />
+  <script type="module" src="/src/main.js"></script>
+</head>
+<body>
+  <main>
+    <section class="cover" aria-labelledby="introduction">
+      <header class="masthead">
+        <div class="wordmark">OBJECTS IN FIELD<span class="wordmark-dot" aria-hidden="true"></span></div>
+        <h1 id="introduction">We shape ideas into<br class="desktop-break" /> visual worlds and<br class="desktop-break" /> digital experiences.</h1>
+        <div class="masthead-labels" aria-label="Studio">
+          <span class="pill pill-dark">CONTACT <i aria-hidden="true"></i></span>
+          <span class="pill">MENU <b aria-hidden="true">••</b></span>
+        </div>
+      </header>
+      <figure class="cover-image media" data-depth="5">
+        <img src="/assets/field-assembly.png" alt="An original assembly of suspended porcelain, chrome and ultramarine forms" width="1774" height="887" fetchpriority="high" />
+      </figure>
+      <div class="register" aria-hidden="true"><span>+</span><span>+</span><small>SCROLL TO EXPLORE</small><span>+</span><span>+</span></div>
+    </section>
 
-    <header class="site-header">
-      <div class="identity" aria-label="Objects in Field">
-        <span class="identity__full"><i>OBJECTS</i><i>IN FIELD</i></span>
-        <span class="identity__compact" aria-hidden="true"><b>O</b><i></i><b>F</b></span>
+    <section class="approach" aria-labelledby="approach-title">
+      <svg class="thread" viewBox="0 0 2048 1050" fill="none" preserveAspectRatio="none" aria-hidden="true"><path d="M-120 100C200 95 390 260 470 490C550 740 335 970 130 820C-45 690 260 520 580 645C830 743 910 930 1190 818C1420 727 1600 900 1820 895C1935 895 2040 950 2160 1010" /></svg>
+      <h2 id="approach-title"><span>Ideas, given</span><span>new dimension.</span></h2>
+      <div class="approach-detail">
+        <figure class="process-image media" data-depth="3">
+          <img src="/assets/process-prototype.png" alt="Hands adjusting translucent blue planes in a physical light study" width="1586" height="992" loading="lazy" decoding="async" />
+        </figure>
+        <div class="approach-copy">
+          <p>We bring form, light and digital craft together to make the unexpected feel tangible.</p>
+          <span class="pill pill-white"><i aria-hidden="true"></i> OUR PRACTICE</span>
+        </div>
       </div>
-      <div class="header-actions">
-        <span class="header-orbit visual-control" aria-hidden="true">
-          <i class="header-orbit__minus">−</i><i class="header-orbit__chapter">01</i>
-        </span>
-        <span class="pill pill--dark header-contact visual-control" aria-hidden="true"><em>CONTACT</em><i></i></span>
-        <span class="pill index-toggle visual-control" aria-hidden="true"><em>INDEX</em><b>••</b></span>
-      </div>
-    </header>
+    </section>
 
-    <main id="main">
-      <section class="chapter cover" id="cover" data-chapter="1" data-header="light">
-        <h1>Spatial matter<br />in motion.</h1>
-        <figure class="hero-stage interactive-media" data-cursor="EXPLORE" data-shader="assembly">
-          <img src="/assets/field-assembly.png" alt="Abstract porcelain, graphite and blue spatial assembly" />
-          <figcaption>SCROLL / 01</figcaption>
-        </figure>
-        <div class="ticks" aria-hidden="true"><i>+</i><i>+</i><i>+</i><i>+</i></div>
-      </section>
-
-      <section class="chapter approach" id="approach" data-chapter="2" data-header="light">
-        <div class="approach__heading" aria-label="Form responds.">
-          <span>FORM</span><span>RESPONDS.</span>
+    <section class="closing" aria-labelledby="field-title">
+      <figure class="field-image media" data-depth="4">
+        <img src="/assets/blue-motion-field.png" alt="Light travelling through an expansive field of ultramarine glass" width="1774" height="887" loading="lazy" decoding="async" />
+        <div class="field-title" id="field-title" role="heading" aria-level="2">
+          <span>NEW</span><span class="field-pill" aria-hidden="true">↗</span><span>PERSPECTIVES</span>
         </div>
-        <svg class="route" viewBox="0 0 2048 912" preserveAspectRatio="none" aria-hidden="true">
-          <path d="M-80 640 C 190 210, 530 300, 720 630 S 1200 1020, 1370 470 S 1730 110, 2125 330" />
-        </svg>
-        <figure class="approach__image interactive-media" data-cursor="TRACE" data-shader="process">
-          <img src="/assets/process-prototype.png" alt="Hands calibrating a blue spatial light prototype" loading="eager" fetchpriority="low" />
-        </figure>
-        <div class="approach__copy">
-          <span>02 / METHOD</span>
-          <p>Light. Motion. Code.</p>
-        </div>
-      </section>
-
-      <section class="chapter field" id="field" data-chapter="3" data-header="light">
-        <figure class="field-stage interactive-media" data-cursor="DRIFT" data-shader="field">
-          <img src="/assets/blue-motion-field.png" alt="Ultramarine glass ribbons folding into light" loading="eager" fetchpriority="low" />
-          <div class="field-action visual-control" aria-hidden="true">
-            <span>ENTER</span><i><b>↗</b></i><span>FIELD</span>
-          </div>
-          <figcaption>03 / OPTICAL STATE</figcaption>
-        </figure>
-        <div class="ticks ticks--field" aria-hidden="true"><i>+</i><i>+</i><i>+</i><i>+</i></div>
-        <div class="field-bridge" aria-hidden="true"><i></i><span>03</span><b>04</b></div>
-      </section>
-
-      <section class="chapter ending interactive-media" id="contact" data-chapter="4" data-header="dark" data-cursor="FOCUS" data-shader="ending">
-        <img class="ending__image" src="/assets/final-chamber.png" alt="Dark faceted chamber converging on blue-white light" loading="eager" fetchpriority="low" />
-        <div class="ending__copy">
-          <span>04 / FRAME</span>
-          <h2>Stay responsive.</h2>
-          <span class="pill pill--white visual-control" aria-hidden="true">MAKE CONTACT <i></i></span>
-        </div>
-      </section>
-    </main>
-
-    <script type="module" src="/src/main.js?v=12"></script>
-  </body>
+        <figcaption><span>FORM / LIGHT / SPACE</span><span>A FIELD OF POSSIBILITIES</span></figcaption>
+      </figure>
+      <footer class="closing-row">
+        <p>Have something in mind?</p>
+        <span class="closing-contact">LET’S MAKE IT REAL <span aria-hidden="true">↗</span></span>
+        <span class="copyright">© OBJECTS IN FIELD 2026</span>
+      </footer>
+    </section>
+  </main>
+</body>
 </html>

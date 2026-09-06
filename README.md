@@ -2,17 +2,22 @@
 
 WebArt produces a collection of exceptional, editable single-page website templates. Each accepted design has an independent preview and one source ZIP. Product scope and production recovery are documented in [`docs/PRODUCT.md`](docs/PRODUCT.md).
 
-Current inventory: **Design 001 is accepted; Design 002 version 0.2.0 is undergoing its concise-page key-state review.** The rejected 0.1.0 remains historical and unavailable for download. The new scope and gate are recorded in [`docs/pages/002-short-studio.md`](docs/pages/002-short-studio.md). A historical candidate or internal score does not count as a downloadable product. The root page remains the accepted Design 001 preview. `webart.collection.json` tracks release eligibility; `public/templates.json` provides verified collection data, not a completed marketplace UI.
+Current inventory: **two accepted templates with verified editable source archives.** Design 001 preserves its prior user acceptance. Design 002 version 0.2.0 passed the newly authorized internal review and clean package verification; this does not claim user acceptance of its new appearance. Its rejected 0.1.0 remains historical. See [`Design 002 QA`](docs/qa/002-short-studio.md). The root page remains the accepted Design 001 preview. `webart.collection.json` tracks release eligibility; `public/templates.json` provides verified collection data, not a completed marketplace UI.
+
+| Template | Editable source |
+|---|---|
+| 001 — The Weight of Light | [Download ZIP](public/weight-of-light-source.zip) |
+| 002 — Objects in Field | [Download ZIP](public/objects-in-field-source.zip) |
 
 ## Repository layout
 
 - Root `index.html`, `src/`, `public/assets/`: accepted Design 001.
-- `designs/002-objects-in-field/`: Design 002 source and its current runnable key-state prototype.
+- `designs/002-objects-in-field/`: accepted Design 002 version 0.2.0 source.
 - `docs/`: production rules, briefs, reference maps, asset provenance and review evidence.
 - `scripts/`, `webart.collection.json`, `webart.package*.json`: approval, packaging and release checks.
 - `distribution/`: customer documentation for Design 001.
 
-The repository is the production workspace. Customer downloads are built from explicit allowlists and contain one editable project, without internal evidence, dependencies or rejected alternatives. Dependencies, build directories, temporary root screenshots and quarantined ZIPs stay local.
+The repository is the production workspace. Customer downloads are built from explicit allowlists and contain one editable project, without internal evidence, dependencies or rejected alternatives. Dependencies, builds, full-resolution review screenshots and quarantined ZIPs stay local. Compact review overviews and all QA/decision records are tracked; see [`evidence policy`](docs/evidence/README.md).
 
 ## Collection operations
 

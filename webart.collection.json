@@ -31,16 +31,23 @@
       "title": "Objects in Field",
       "projectDir": "designs/002-objects-in-field",
       "manifest": "webart.package.002.json",
-      "status": "frozen",
-      "stage": "reference_selection",
+      "status": "accepted",
+      "stage": "accepted",
       "records": {
-        "brief": "docs/pages/002-objects-in-field.md",
-        "reference": "docs/references/002-objects-in-field.md",
+        "brief": "docs/pages/002-short-studio.md",
+        "reference": "docs/references/002-short-studio.md",
         "assets": "docs/assets/002-objects-in-field.md",
-        "qa": "docs/qa/002-objects-in-field.md"
+        "qa": "docs/qa/002-short-studio.md"
       },
-      "approval": null,
-      "release": null
+      "approval": {
+        "date": "2026-09-06",
+        "record": "docs/qa/002-short-studio.md",
+        "sourceSha256": "d16a6a06246c19f7a447e4038462396713841c9eef200cbc29fb182afda90627"
+      },
+      "release": {
+        "bytes": 5270955,
+        "sha256": "fda60e90b208bfba46ac1f330cc02a12a0c6c109ba0116fa8b2928de3df18e4a"
+      }
     }
   ]
 }

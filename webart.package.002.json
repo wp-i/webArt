@@ -1,15 +1,39 @@
 {
   "slug": "objects-in-field",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "output": "public/objects-in-field-source.zip",
   "files": [
-    { "source": "designs/002-objects-in-field/index.html", "archive": "index.html" },
-    { "source": "designs/002-objects-in-field/package.json", "archive": "package.json" },
-    { "source": "designs/002-objects-in-field/package-lock.json", "archive": "package-lock.json" },
-    { "source": "designs/002-objects-in-field/src", "archive": "src" },
-    { "source": "designs/002-objects-in-field/public/assets", "archive": "public/assets" },
-    { "source": "designs/002-objects-in-field/README.md", "archive": "README.md" },
-    { "source": "designs/002-objects-in-field/THIRD_PARTY_NOTICES.md", "archive": "THIRD_PARTY_NOTICES.md" },
-    { "source": "designs/002-objects-in-field/LICENSE.md", "archive": "LICENSE.md" }
+    {
+      "source": "designs/002-objects-in-field/index.html",
+      "archive": "index.html"
+    },
+    {
+      "source": "designs/002-objects-in-field/package.json",
+      "archive": "package.json"
+    },
+    {
+      "source": "designs/002-objects-in-field/package-lock.json",
+      "archive": "package-lock.json"
+    },
+    {
+      "source": "designs/002-objects-in-field/src",
+      "archive": "src"
+    },
+    {
+      "source": "designs/002-objects-in-field/public/assets",
+      "archive": "public/assets"
+    },
+    {
+      "source": "designs/002-objects-in-field/README.md",
+      "archive": "README.md"
+    },
+    {
+      "source": "designs/002-objects-in-field/THIRD_PARTY_NOTICES.md",
+      "archive": "THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "source": "designs/002-objects-in-field/LICENSE.md",
+      "archive": "LICENSE.md"
+    }
   ]
 }
