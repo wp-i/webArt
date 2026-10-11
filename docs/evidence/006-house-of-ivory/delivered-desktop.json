@@ -1,0 +1,78 @@
+{
+  "url": "http://127.0.0.1:4173/designs/006-house-of-ivory/#studio",
+  "viewport": [
+    1440,
+    900
+  ],
+  "height": 3188,
+  "overflow": false,
+  "headings": [
+    {
+      "text": "HOUSE\nof\nIVORY",
+      "rect": {
+        "x": 0,
+        "y": 56,
+        "width": 1440,
+        "height": 222
+      },
+      "font": "Inter, Arial, sans-serif",
+      "size": "32px"
+    },
+    {
+      "text": "WE MAKE ROOMS FEEL LIKE YOU.\nTHOUGHTFUL INTERIORS, WITH AN EYE\nFOR THE UNEXPECTED.",
+      "rect": {
+        "x": 393.09375,
+        "y": 1257.9375,
+        "width": 653.796875,
+        "height": 149.015625
+      },
+      "font": "Instrument, Georgia, serif",
+      "size": "48.24px"
+    },
+    {
+      "text": "SPACES WITH FEELING",
+      "rect": {
+        "x": 12,
+        "y": 1684.203125,
+        "width": 1416,
+        "height": 66.390625
+      },
+      "font": "Instrument, Georgia, serif",
+      "size": "62.64px"
+    },
+    {
+      "text": "WE’D LOVE TO HEAR\nWHAT FEELS LIKE HOME.",
+      "rect": {
+        "x": 187.1875,
+        "y": 2711.25,
+        "width": 1065.625,
+        "height": 100.8125
+      },
+      "font": "Instrument, Georgia, serif",
+      "size": "48.96px"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://127.0.0.1:4173/designs/006-house-of-ivory/assets/hero-salon.png",
+      "alt": "Raspberry velvet sofa beneath a tall arched garden window in an ivory plaster salon",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:4173/designs/006-house-of-ivory/assets/project-table.png",
+      "alt": "Walnut dining table and burgundy chairs in an olive green room with raking window light",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:4173/designs/006-house-of-ivory/assets/project-blue.png",
+      "alt": "Powder-blue bedroom with ivory linen and a walnut table beside softly lit bedding",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:4173/designs/006-house-of-ivory/assets/project-stair.png",
+      "alt": "Butter-yellow sculptural curved staircase above terracotta tiles with geometric sunlight and shadow",
+      "loaded": true
+    }
+  ],
+  "videos": []
+}

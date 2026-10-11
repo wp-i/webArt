@@ -1,68 +1,48 @@
-# WebArt art-direction standard
+# WebArt 视觉约定
 
-Status: active  
-Last updated: 2026-09-06
+现行约定 · 2026-10-11。用户最新审查要求减少占位文字、恢复鼠标与滚动质感、优先获取优质现成素材。易复刻是工程条件，不能代替审美和交互表现。001 的已验收构图和交互保持冻结。
 
-## Product purpose
+## 设计目标
 
-WebArt sells downloadable single-page source templates through exceptional art direction. A page must look like a complete official website, not a wallpaper, but completeness is measured by usable design coverage—not by length or chapter count.
+交付好看、完整、易修改的短网页。视觉权威来自已经成熟的参考设计；优先选择排版、色彩、素材和鼠标/滚动表现共同成立的页面。默认由 WebArt 按用途匹配风格。
 
-The user-defined format is a concise 2–5-screen webpage. Adaptation covers all incompatible content and structure, not just technical effects. Whole blocks may be cut and retained blocks locally recomposed or reconnected; log the source sequence, cuts and final handoff. This replaces any earlier rule that only contiguous excerpts may be selected. Preserve design authority and useful closure without adding filler.
+质量要求包括第一眼好看、全页一致、交互有质感、信息适量、易修改和响应式可靠。复杂技术不是目标，但只做菜单开合、FAQ和链接悬停不满足本项目的动态展示要求。第一稿作为质感与过程完成度标杆，不要求复刻其舞台结构。
 
-## Quality hierarchy
+2026-10-08用户评005为85/100，方向与基本可用性成立，但低于95展示门槛。005已按最新清理要求删除工程/私有归档，仅保留85分及拒绝原因；不进入主题页或下载库存。新展示稿须同时满足易复刻和强视觉表现，总体内部审查以95为目标，首屏单独审查，注明主观评分来源；用户评价优先。直接对照001的已接受画面看主视觉尺度、字体/图像构图、色彩反差和整页密度变化，不要求沿用其黑金风格或复杂舞台技术。
 
-When priorities conflict, use this order:
+新候选的默认静态开场必须能指出具体视觉记忆点及其位置、比例和来源；它可以来自图片、文字或构图关系，不强制有图片或巨型标题。该记忆点在手机、具体素材/品牌替换后仍须成立。中段与结尾须保持表现力，整洁和熟悉的标准网格只是基本完成度；交互不能承担挽救普通静态画面的任务。
 
-1. Immediate visual authority: the first glance must feel authored, expensive, and specific.
-2. Concentration: every viewport must justify its existence.
-3. Distinct progression: every section introduces a different composition or behavior.
-4. Interaction character: motion and pointer response belong to the visual identity.
-5. Website usefulness: navigation, information, and a closing action make the template usable.
-6. Technical correctness: responsive, accessible, performant, and free of broken interactions.
+默认加载和普通滚动应直接呈现主要内容、作品/产品/服务证据和行动。不得把纯装饰图案占据主体、点击后才出现基本内容的实验页选作普通建站模板。文字主导页面仍可准入，但必须有成熟排版和有效内容；“没有图片、视频或 canvas”不是质量证据。素材替换后的本地默认画面须维持母版的视觉精度，不能仅有相同配色或结构角色。
 
-Technical completeness never compensates for diluted art direction.
+## 参考与替换
 
-## Reference reconstruction with evaluated adaptation
+- 每件只使用一个经过直接查看的母版，记录整页结构、关键构图、转场和移动端。
+- 独立实现布局，替换品牌、文字和原图；只使用原创或允许分发的代码、字体和素材。
+- 参考截图只作为内部证据。不可分发其品牌、文案、图像、视频、模型或源代码。
+- 选择原本就适合 1–5 屏的连贯页面。长页可以删去独立重复内容，前提是剩余结构直接成立，无需发明桥接或新的结尾。
+- 新候选的核心设计必须可以直接用 HTML/CSS、普通媒体和轻交互实现。若简化核心技术会改变美感，跳过整个候选。
+- 新增可见元素须有源站对应；为品牌/内容替换产生的必要调整记录在参考图谱中。
+- 保留固定构图只在源站确有此需要且易实现时使用；普通原生滚动是新模板默认。
+- 普通滚动可有渐变、局部视差、图像揭示和层级变化；轻交互可有鼠标响应和预览过渡。记录母版实际过程、作用对象及手机替代，不统一加淡入来冒充签名交互。
+- 素材默认先查现有授权库及可获取的优质摄影/材质。原创不等于每张都要生成；只有缺少关键构图才生成，质量不达标不能因已花成本而保留。按[素材获取标准](assets/SOURCING_STANDARD.md)核对源码包分发范围。
 
-WebArt selects an already exceptional website as the visual baseline and reconstructs a coherent webpage with distributable materials. The user explicitly permits selected content and technical adjustments, including replacing realtime 3D with static imagery. The resulting webpage must qualify under the same webpage-quality rubric used for the source.
+## 不变的视觉约束
 
-- Preserve the mother's composition, proportion, density, sequence and overall design language unless a specific local adaptation is recorded and approved internally.
-- Permitted work includes identity, concise copy, original/licensed assets, independent implementation, technical simplification, responsive accommodation, accessibility and performance.
-- Every visible element and transition must cite a source counterpart or a documented local adaptation tied to that counterpart. Record the original role, replacement, reason, affected neighboring states and validation evidence.
-- Observe the source route before shortening. Deleting intermediate content and locally reconnecting retained sections is allowed under a documented 2–5-screen plan. Test the new handoff as an adaptation rather than claim it was observed in the source. Unrelated sections, decorative motifs and padding remain out of scope.
-- An expensive technical behavior is a substitution candidate, not an automatic rejection. Test its intended replacement in the full composition and adjacent transitions before full implementation. Reject the replacement or candidate if the result falls below the quality floor.
-- Evaluate actual experience: 3D receives no automatic quality bonus, and static media receives no automatic penalty. Losing meaningful depth, storytelling or interaction must be reflected in the relevant scores.
+- 保留既有已接受的开场和标志交互。
+- 每段必须增加视觉想法、交互或有用内容；不为长度添加章节。
+- 同页不重复主要图片、支配构图、巨型标题处理或相同节奏。
+- 没有足够优质素材就结束页面，不填充空白。
+- 文字简洁，导航与行动有清楚用途；新模板不新增假按钮。
+- 文案用于展示层级和实际使用参考，默认短标题、短描述及必要标签；不得以长宣言、成组FAQ或占位段落填满屏幕。文字主导母版须有明确用途与用户依据，不因省素材成本默认采用。
+- 开场、中段和转场须实际查看鼠标与滚动过程，检查节奏、幅度和连续性。静止截图与功能通过不能替代动效审查。
+- 移动端保持层级、裁切和可读性；不依赖鼠标才能理解。
+- 原生滚动、键盘和减少动态效果下仍完整可用；静音。
+- 结尾与开场保持同等认真程度，不能落入空洞的巨型页脚。
 
-## Global design rules
+## 内部四状态审查
 
-- Prefer three or four excellent movements over seven average chapters.
-- Never reuse the same image in multiple sections or preview states.
-- Never repeat the same giant-heading-plus-copy composition on one page.
-- A new section requires at least one genuinely new ingredient: a new asset, a new information function, a new spatial composition, or a new interaction.
-- When no fresh ingredient exists, end the page.
-- Keep copy concise. Text supports proportion, rhythm, and hierarchy; it must not become filler.
-- Preserve an accepted signature interaction; for new templates, define coherent input behavior in the adaptation plan without adding a token effect merely to claim interactivity.
-- Motion should reveal material or structure, not decorate empty space.
-- Mobile is an intentional recomposition, not merely stacked desktop blocks.
-- No music or incidental audio.
-- All distributable visual assets and code must be original or appropriately licensed. Reference sites control the recorded macro composition and behavior, but may not supply their assets, copy, logos, source code or exact branded interface.
-- When a design page is reference-led, choose one complete site as its structural model. Preserve its macro rhythm, density curve and coherent ending; document and test any selected interaction or transition simplification.
-- Reference-led does not mean copying protected identity: original assets, copy, branding, and implementation remain mandatory.
-- A reference-led case retains the strongest useful moments within 2–5 screens. Completeness means a coherent beginning-to-ending experience, not reproducing every source chapter.
-- Record whether a reference is verified historical provenance or a newly selected prospective mother. Never convert visual similarity into a false claim about how an earlier asset was created.
+在全面实现前，参考图谱、素材计划和四个可运行状态须通过内部审查：开场、中段、过渡、收束。它们可以属于两至三个 section，不强制制作四章。审查的对象是含字体、文字、图片和实际交互的页面，不是四张素材图。
 
-## Review gate
+评判采用 [生产流程](PRODUCTION_PIPELINE.md) 中的具体质量清单。有可见缺陷就修复或拒绝，不靠主观分数盖过问题。实现阶段只允许一轮局部修正；如果需要推翻视觉结构，说明筛选失败，应停下并记录。
 
-Before delivery, the page must pass all five questions:
-
-1. Is the accepted hero at least as strong as its approved baseline?
-2. Does every later viewport contain a new visual reason to continue?
-3. Can any section be removed without losing a function? If yes, remove it.
-4. Are the retained or approved replacement interactions present, useful and responsive?
-5. Are there any repeated images, dominant layouts, or empty editorial gestures? If yes, revise or cut.
-
-These questions are necessary but not sufficient. Release also requires the quantitative and binary gates in `docs/PRODUCTION_PIPELINE.md`: a 98+ mother reference, a release score of at least 97, no principal viewport below 95, no unresolved critical defect, and a full-state transition audit. A strong average cannot hide one weak ending or broken intermediate state.
-
-## Collaboration policy
-
-Model switching is allowed for bounded work. Architecture and technical agents are advisers, not art directors. They receive this document and the page brief. Final visual decisions stay with the primary agent, and final reviewers are read-only.
+主负责人对整页视觉一致性负责。工程检查可以提出性能、可访问性和代码改进，但不能覆盖页面 brief。无需为每件模板强制启动额外代理或切换模型。

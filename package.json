@@ -4,7 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "predev": "node scripts/showcase.mjs catalog",
     "dev": "vite --host 0.0.0.0",
+    "prebuild": "node scripts/collection.mjs catalog && node scripts/showcase.mjs catalog",
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0",
     "package:source": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/package-template.ps1",
@@ -12,7 +14,7 @@
     "collection:status": "node scripts/collection.mjs status",
     "collection:check": "node scripts/collection.mjs check all",
     "collection:audit": "node scripts/collection.mjs audit-public",
-    "test:collection": "node --test scripts/collection.test.mjs scripts/preview.test.mjs",
+    "test:collection": "node --test scripts/collection.test.mjs scripts/preview.test.mjs scripts/staging.test.mjs scripts/showcase.test.mjs",
     "release": "node scripts/release-collection.mjs"
   },
   "dependencies": {

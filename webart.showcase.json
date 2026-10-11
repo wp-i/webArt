@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "authorization": {
+    "date": "2026-10-10",
+    "record": "docs/DECISIONS.md",
+    "trialIds": ["007", "008"]
+  },
+  "trialDownloads": [
+    { "id": "007", "bytes": 3253751, "sha256": "1598eae55f082b34c78b2915ebf6a9697fad9302b95345a18f44fb8279df1835" },
+    { "id": "008", "bytes": 11330768, "sha256": "be65a74004145f9d51f196c09cda7402f36bd84eca06dd611fc4904103e23cbe" }
+  ],
+  "items": [
+    { "id": "001", "category": "艺术与实验", "description": "光、纤维与材质的沉浸式探索。", "date": "2026-08-28", "background": "#090b0a" },
+    { "id": "006", "category": "空间与建筑", "description": "以色彩与空间，呈现有温度的室内设计。", "date": "2026-10-09", "background": "#efcebd" },
+    { "id": "007", "category": "生活与体验", "description": "从田野到餐桌，一场悠然的海岸体验。", "date": "2026-10-09", "background": "#fff5a3" },
+    { "id": "008", "category": "空间与建筑", "description": "以自然光与诚实材质，讲述建筑与生活。", "date": "2026-10-10", "background": "#ad7653" }
+  ]
+}

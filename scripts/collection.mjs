@@ -86,16 +86,44 @@ export function check(entry, root = ROOT) {
   if (digest !== entry.approval.sourceSha256) throw new Error(`Template ${entry.id} source changed since approval; review and approve the new fingerprint before release`);
   return digest;
 }
+export function checkTrial(entry, root = ROOT) {
+  if (entry.status !== 'draft' || entry.stage !== 'trial') throw new Error('Private trial requires draft/trial status');
+  for (const key of ['brief', 'reference', 'assets', 'qa']) if (!entry.records?.[key] || !fs.statSync(child(root, entry.records[key])).isFile()) throw new Error(`Missing ${key} trial record`);
+  const approval = entry.trialApproval;
+  if (!approval?.runtime || !/^[a-f0-9]{64}$/.test(approval.sourceSha256 || '')) throw new Error('Missing trial source/QA approval');
+  const qa = JSON.parse(fs.readFileSync(child(root, approval.runtime), 'utf8'));
+  if (qa.mode !== 'full' || qa.result !== 'passed-observable-checks' || qa.errors?.length !== 0 || qa.viewports?.length !== 5 || qa.states?.length !== 8 || qa.transitions?.length < 24 || qa.arbitrary?.length !== 8 || !qa.finished || !qa.checks?.desktopWheel || !qa.checks?.mobileWheel || !qa.checks?.reduced || !qa.checks?.noScript || !qa.checks?.touchScroll || qa.viewports.some(v => v.overflow || v.missing || v.clipped?.length || v.scenes?.some(s => !s.visible))) throw new Error('Private trial needs completed full QA');
+  const digest = fingerprint(entry, root);
+  if (digest !== approval.sourceSha256) throw new Error('Trial source changed since QA approval');
+  return digest;
+}
 export function receipt(entry, archive, root = ROOT) {
   const actual = archive || child(root, `public/${entry.slug}-source.zip`);
   const bytes = fs.readFileSync(actual);
   if (!entry.release || entry.release.bytes !== bytes.length || entry.release.sha256 !== sha(bytes)) throw new Error(`Archive receipt mismatch: ${entry.id}`);
   return { bytes: bytes.length, sha256: sha(bytes) };
 }
+export function authorizedTrials(data, root = ROOT) {
+  const configPath = path.join(root, 'webart.showcase.json');
+  if (!fs.existsSync(configPath)) return [];
+  const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
+  if (!config.authorization?.trialIds?.length) return [];
+  if (!config.authorization.date || !config.authorization.record || !fs.statSync(child(root, config.authorization.record)).isFile()) throw new Error('Showcase trial authorization record is missing');
+  return config.authorization.trialIds.map(id => {
+    const entry = template(data, id);
+    checkTrial(entry, root);
+    const delivery = config.trialDownloads?.find(record => record.id === id);
+    if (!delivery || !config.items?.some(item => item.id === id)) throw new Error(`Missing showcase trial receipt/item: ${id}`);
+    const authorized = { ...entry, release: delivery };
+    receipt(authorized, undefined, root);
+    return authorized;
+  });
+}
 export function auditPublic(data, root = ROOT) {
   const accepted = data.templates.filter(t => t.status === 'accepted' && t.release);
   for (const entry of accepted) { check(entry, root); receipt(entry, undefined, root); }
-  const allowed = new Map(accepted.map(t => [`${t.slug}-source.zip`, t]));
+  const trials = authorizedTrials(data, root);
+  const allowed = new Map([...accepted, ...trials].map(t => [`${t.slug}-source.zip`, t]));
   let count = 0;
   const visit = (directory, relative = '') => {
     if (!fs.existsSync(directory)) return;
@@ -112,13 +140,13 @@ export function auditPublic(data, root = ROOT) {
   };
   visit(path.join(root, 'public'));
   visit(path.join(root, 'dist'));
-  if (fs.existsSync(path.join(root, 'dist'))) for (const entry of accepted) receipt(entry, path.join(root, 'dist', `${entry.slug}-source.zip`), root);
-  return { archivesChecked: count, accepted: accepted.length };
+  if (fs.existsSync(path.join(root, 'dist'))) for (const entry of [...accepted, ...trials]) receipt(entry, path.join(root, 'dist', `${entry.slug}-source.zip`), root);
+  return { archivesChecked: count, accepted: accepted.length, ...(trials.length ? { userAuthorizedTrials: trials.length } : {}) };
 }
 export function writeCatalog(data, root = ROOT) {
   const templates = data.templates.filter(t => t.status === 'accepted' && t.release).map(entry => {
     check(entry, root); receipt(entry, undefined, root);
-    return { id: entry.id, slug: entry.slug, title: entry.title, preview: entry.projectDir === '.' ? '/' : `/${entry.projectDir}/`, download: `/${entry.slug}-source.zip`, version: manifestFiles(entry, root).config.version, bytes: entry.release.bytes, sha256: entry.release.sha256 };
+    return { id: entry.id, slug: entry.slug, title: entry.title, preview: entry.preview || (entry.projectDir === '.' ? '/' : `/${entry.projectDir}/`), download: `/${entry.slug}-source.zip`, version: manifestFiles(entry, root).config.version, bytes: entry.release.bytes, sha256: entry.release.sha256 };
   });
   fs.writeFileSync(path.join(root, 'public', 'templates.json'), JSON.stringify({ schemaVersion: 1, templates }, null, 2) + '\n');
   return { templates: templates.length };
@@ -148,6 +176,13 @@ export function main(args = process.argv.slice(2), root = ROOT) {
       const selected = !value || value === 'all' ? data.templates.filter(t => t.status === 'accepted') : [template(data, value)];
       if (!selected.length) throw new Error('No accepted templates to check');
       return selected.map(t => ({ id: t.id, sourceSha256: check(t, root), gate: 'passed' }));
+    }
+    case 'trial-files-manifest': {
+      relativePath(value);
+      const entry = data.templates.find(t => t.manifest === value);
+      if (!entry) throw new Error(`Unauthorized trial manifest: ${value}`);
+      checkTrial(entry, root);
+      return manifestFiles(entry, root);
     }
     case 'check-manifest':
     case 'files-manifest': {

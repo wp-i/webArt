@@ -6,6 +6,7 @@
       "slug": "weight-of-light",
       "title": "The Weight of Light",
       "projectDir": ".",
+      "preview": "/designs/001-weight-of-light/",
       "manifest": "webart.package.json",
       "status": "accepted",
       "stage": "accepted",
@@ -26,27 +27,67 @@
       }
     },
     {
-      "id": "002",
-      "slug": "objects-in-field",
-      "title": "Objects in Field",
-      "projectDir": "designs/002-objects-in-field",
-      "manifest": "webart.package.002.json",
+      "id": "006",
+      "slug": "house-of-ivory",
+      "title": "House of Ivory",
+      "projectDir": "designs/006-house-of-ivory",
+      "manifest": "webart.package.006.json",
       "status": "accepted",
       "stage": "accepted",
       "records": {
-        "brief": "docs/pages/002-short-studio.md",
-        "reference": "docs/references/002-short-studio.md",
-        "assets": "docs/assets/002-objects-in-field.md",
-        "qa": "docs/qa/002-short-studio.md"
+        "brief": "docs/pages/006-house-of-ivory.md",
+        "reference": "docs/references/006-house-of-ivory.md",
+        "assets": "docs/assets/006-house-of-ivory.md",
+        "qa": "docs/qa/006-house-of-ivory.md"
       },
       "approval": {
-        "date": "2026-09-06",
-        "record": "docs/qa/002-short-studio.md",
-        "sourceSha256": "d16a6a06246c19f7a447e4038462396713841c9eef200cbc29fb182afda90627"
+        "date": "2026-10-09",
+        "record": "docs/DECISIONS.md",
+        "sourceSha256": "bc7bccc337e0006d85221c5bcaea996a5b54735b5d08503d826b08c7e8d8fe94"
       },
       "release": {
-        "bytes": 5270955,
-        "sha256": "fda60e90b208bfba46ac1f330cc02a12a0c6c109ba0116fa8b2928de3df18e4a"
+        "bytes": 10108955,
+        "sha256": "24f4fcdfd87ae69290378c6eccf4d0481ce9d7a49a23b89de4a337c1208f8714"
+      }
+    },
+    {
+      "id": "007",
+      "slug": "campovivo",
+      "title": "Campovivo",
+      "projectDir": "designs/007-campovivo",
+      "manifest": "webart.package.007.json",
+      "status": "draft",
+      "stage": "trial",
+      "records": {
+        "brief": "docs/pages/007-campovivo.md",
+        "reference": "docs/references/007-campovivo.md",
+        "assets": "docs/assets/007-campovivo.md",
+        "qa": "docs/qa/007-campovivo.md"
+      },
+      "trialApproval": {
+        "sourceSha256": "24fbb2470867e4e4350cc44ee75cfb52e719746b0c8313648ecdf613eb51116d",
+        "runtime": "docs/evidence/007-campovivo/runtime.json",
+        "date": "2026-10-09"
+      }
+    },
+    {
+      "id": "008",
+      "slug": "sill",
+      "title": "Sill",
+      "projectDir": "designs/008-sill",
+      "manifest": "webart.package.008.json",
+      "status": "draft",
+      "stage": "trial",
+      "records": {
+        "brief": "docs/pages/008-sill.md",
+        "reference": "docs/references/008-sill.md",
+        "assets": "docs/assets/008-sill.md",
+        "qa": "docs/qa/008-sill.md"
+      },
+      "trialApproval": {
+        "sourceSha256": "9553f99f26d612ec00e55d30ed9ce6031733df669c69d14469c8f8036d8a5fed",
+        "runtime": "docs/evidence/008-sill/runtime.json",
+        "date": "2026-10-10"
       }
     }
   ]

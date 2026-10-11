@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
 import crypto from 'node:crypto';
-import { check, fingerprint, manifestFiles, auditPublic, main, writeCatalog } from './collection.mjs';
+import { check, checkTrial, fingerprint, manifestFiles, auditPublic, main, writeCatalog } from './collection.mjs';
 
 function fixture(t) {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'webart-gate-test-'));
@@ -37,6 +37,24 @@ test('accepted unchanged source passes; dirty source fails and cannot be catalog
   assert.throws(() => check(f.entry, f.root), /source changed/);
   assert.throws(() => writeCatalog(f.data, f.root), /source changed/);
   assert.equal(main(['status'], f.root)[0].downloadable, false);
+});
+test('verified private trials cannot use public packaging or enter the catalog', t => {
+  const f=fixture(t);
+  f.entry.status='draft';f.entry.stage='trial';f.entry.release=null;
+  const qa={mode:'full',result:'passed-observable-checks',finished:'2026-10-10',errors:[],viewports:Array.from({length:5},()=>({overflow:false,missing:0,clipped:[],scenes:[{visible:true}]})),states:Array(8).fill({}),transitions:Array(24).fill({}),arbitrary:Array(8).fill({}),checks:{desktopWheel:true,mobileWheel:true,reduced:true,noScript:{},touchScroll:100}};
+  f.write('docs/runtime.json',JSON.stringify(qa));
+  f.entry.trialApproval={runtime:'docs/runtime.json',sourceSha256:fingerprint(f.entry,f.root)};f.saveRegistry();
+  assert.equal(checkTrial(f.entry,f.root),f.entry.trialApproval.sourceSha256);
+  assert.ok(main(['trial-files-manifest','webart.package.json'],f.root).files.length);
+  assert.throws(()=>main(['files-manifest','webart.package.json'],f.root),/requires accepted/);
+  assert.equal(writeCatalog(f.data,f.root).templates,0);
+  assert.throws(()=>auditPublic(f.data,f.root),/Unapproved public archive/);
+  for(const change of [{mode:'gate'},{result:'failed'},{transitions:[]},{viewports:[{}]},{checks:{}}]){
+    f.write('docs/runtime.json',JSON.stringify({...qa,...change}));
+    assert.throws(()=>checkTrial(f.entry,f.root),/completed full QA/);
+  }
+  f.write('docs/runtime.json',JSON.stringify(qa));f.write('src/main.js','changed');
+  assert.throws(()=>checkTrial(f.entry,f.root),/source changed/);
 });
 test('frozen and unknown manifests cannot be packaged', t => {
   const f = fixture(t);

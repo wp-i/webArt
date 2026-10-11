@@ -1,0 +1,264 @@
+{
+  "updated": "2026-10-10",
+  "scope": "本项目短页/95展示目标，非网站客观评价",
+  "references": [
+    {
+      "name": "Studio Size",
+      "url": "https://studio-size.com/",
+      "status": "rejected",
+      "reason": "黑色大字开场、视频案例；DOM 有 41 个视频。大量成套视频无法用少量可分发素材直接保留，不进入替代实验。"
+    },
+    {
+      "name": "Park",
+      "url": "https://parkstudio.co/",
+      "status": "evidence-needed",
+      "reason": "访问超时，没有获得完整页面证据。跳过；不据历史荣誉判断当前设计。"
+    },
+    {
+      "name": "Studio DAD",
+      "url": "https://studiodad.biz/",
+      "status": "rejected",
+      "reason": "当前站是暂停营业/旅行告示，缺少完整介绍、证据、联系路径，不适合建站母版。"
+    },
+    {
+      "name": "Forner",
+      "url": "https://forner.studio/",
+      "status": "evidence-needed",
+      "reason": "访问后只有满屏品牌加载状态，滚动后仍未观察到完整内容；3 个视频、70 张图片。当前批次停止，不推断未见页面。"
+    },
+    {
+      "name": "Baubauwerk",
+      "url": "https://baubauwerk.com/",
+      "status": "rejected",
+      "reason": "完整截图有大量品牌摄影案例与变形字；首屏未正常出现。难以用少量独立素材完成整页，停止。"
+    },
+    {
+      "name": "Haus Otto",
+      "url": "https://www.hausotto.com/",
+      "status": "rejected",
+      "reason": "首页大字标和作品索引、321 张图片；信息页为高密度文字列表。未获得符合短介绍页目标的连贯路径，不改造首页来救选材。"
+    },
+    {
+      "name": "Michael Gatt",
+      "url": "https://michaelgatt.com/",
+      "status": "rejected",
+      "reason": "首屏要求开启声音或进入无声模式，电影作曲用途、核心开场不适合普通网站介绍；不深入。"
+    },
+    {
+      "name": "Nomad Labs",
+      "url": "https://nomadlabs.es/",
+      "status": "rejected",
+      "reason": "电影/制作公司，作品列表大量视频且出现媒体播放失败，不能以少量静态素材直接复刻。"
+    },
+    {
+      "name": "Monolog",
+      "url": "https://bymonolog.com/",
+      "status": "rejected",
+      "reason": "当前站 11,783px 长，2 个 canvas、9 个视频；多个媒体/加载状态留白，不是精选入口所暗示的简单短页。停止，不静态降级。"
+    },
+    {
+      "name": "Tiffany Devos",
+      "url": "https://tiffanydevos.be/",
+      "status": "rejected",
+      "reason": "对应004用户拒绝；装饰主体且默认内容隐藏"
+    },
+    {
+      "name": "Union Boulangerie",
+      "url": "https://unionboulangerie.com/",
+      "status": "rejected",
+      "reason": "视频与字体揭示"
+    },
+    {
+      "name": "ESR Bespoke",
+      "url": "https://www.esrbespoke.au/",
+      "status": "rejected",
+      "reason": "拒绝进入本轮，核心技术/媒体复杂"
+    },
+    {
+      "name": "Origin",
+      "url": "https://www.originbrand.io/",
+      "status": "evidence-needed",
+      "reason": "待补证，跳过"
+    },
+    {
+      "name": "Melius",
+      "url": "https://www.melius.com/",
+      "status": "rejected",
+      "reason": "拒绝，成套内容和界面不适合本次短介绍"
+    },
+    {
+      "name": "Unify",
+      "url": "https://www.unifygtm.com/",
+      "status": "rejected",
+      "reason": "拒绝本轮，不用只见的漂亮首屏推断可直接复制全页"
+    },
+    {
+      "name": "Onoera",
+      "url": "https://onoera.com/",
+      "status": "evidence-needed",
+      "reason": "待补证，本轮跳过"
+    },
+    {
+      "name": "Folk",
+      "url": "https://www.folk.app/",
+      "status": "rejected",
+      "reason": "拒绝本轮，范围和素材/界面组合过大"
+    },
+    {
+      "name": "Sort",
+      "url": "https://sort.to/",
+      "status": "rejected",
+      "reason": "对应005用户85分；首屏普通，不进入95展示库存"
+    },
+    {
+      "name": "Dropshot",
+      "url": "https://www.usedropshot.com/",
+      "status": "rejected",
+      "reason": "拒绝，不制作静态替身"
+    },
+    {
+      "name": "Hyll",
+      "url": "https://hyllhotel.com/",
+      "status": "evidence-needed",
+      "reason": "限时首屏未完成"
+    },
+    {
+      "name": "Roxoseco",
+      "url": "https://www.roxoseco.com/",
+      "status": "rejected",
+      "reason": "首屏力度不足"
+    },
+    {
+      "name": "Studio Boum",
+      "url": "https://studioboum.com/en",
+      "status": "evidence-needed",
+      "reason": "默认媒体未完成"
+    },
+    {
+      "name": "Anecdota",
+      "url": "https://www.anecdotarural.com/",
+      "status": "rejected",
+      "reason": "特殊波动字形和手机默认用途弱"
+    },
+    {
+      "name": "NKORA",
+      "url": "https://nkora.co.uk/",
+      "status": "rejected",
+      "reason": "首屏视频和99媒体"
+    },
+    {
+      "name": "Pimpinella",
+      "url": "https://www.pimpinella.cooking/",
+      "status": "trial",
+      "reason": "007整页92；删重复图文后体验证据薄"
+    },
+    {
+      "name": "Amour Liquide",
+      "url": "https://amourliquide.com/en/",
+      "status": "rejected",
+      "reason": "canvas及产品状态"
+    },
+    {
+      "name": "Focal Glow",
+      "url": "https://focalglow.co/",
+      "status": "rejected",
+      "reason": "日夜媒体与时钟；008误重复查站，已纳入索引"
+    },
+    {
+      "name": "House of Honey",
+      "url": "https://www.houseofhoney.com/",
+      "status": "accepted-internal",
+      "reason": "006内部95；用户尚未95验收"
+    },
+    {
+      "name": "Anne Boysen",
+      "url": "https://www.anneboysen.dk/",
+      "status": "rejected",
+      "reason": "漂浮图编排和9视频"
+    },
+    {
+      "name": "Faulkner Architects",
+      "url": "https://www.faulknerarchitects.com/",
+      "status": "rejected",
+      "reason": "当前目标下摄影替换与首屏识别度风险"
+    },
+    {
+      "name": "Cabalar",
+      "url": "https://www.eatcabalar.com/",
+      "status": "rejected",
+      "reason": "首屏电影视频和长媒体路径"
+    },
+    {
+      "name": "Celtic Sea Salt",
+      "url": "https://celticseasalt.com/",
+      "status": "rejected",
+      "reason": "电商/15视频"
+    },
+    {
+      "name": "Folk Kombucha",
+      "url": "https://www.folkkombucha.dk/",
+      "status": "rejected",
+      "reason": "首屏视频"
+    },
+    {
+      "name": "Care of Chan",
+      "url": "https://www.careofchan.com/",
+      "status": "evidence-needed",
+      "reason": "开场遮罩未证明退出路径"
+    },
+    {
+      "name": "Sonderdays",
+      "url": "https://www.sonderdays.com/",
+      "status": "rejected",
+      "reason": "检索产品范围大、首屏偏普通"
+    },
+    {
+      "name": "HER",
+      "url": "https://her.melbourne/",
+      "status": "rejected",
+      "reason": "核心canvas"
+    },
+    {
+      "name": "Bragg",
+      "url": "https://www.bragg.com/",
+      "status": "rejected",
+      "reason": "电商长路径和成套媒体"
+    },
+    {
+      "name": "Matheson",
+      "url": "https://www.mathesonfoodcompany.com/",
+      "status": "evidence-needed",
+      "reason": "长加载、多类商品未证明短路径"
+    },
+    {
+      "name": "Oma Appel",
+      "url": "https://oma-appel.nl/",
+      "status": "rejected",
+      "reason": "重复字标和视频开场"
+    },
+    {
+      "name": "Ulysses de Santi",
+      "url": "https://ulyssesdesanti.com/",
+      "status": "rejected",
+      "reason": "首屏视频字标"
+    },
+    {
+      "name": "Anuc Home",
+      "url": "https://www.anuchome.com/",
+      "status": "rejected",
+      "reason": "定制几何字标和长揭示路径"
+    },
+    {
+      "name": "SAFEHOUSE",
+      "url": "https://thesafehouse.studio/",
+      "status": "rejected",
+      "reason": "域名已转售，图库过期"
+    },
+    {
+      "name": "Arc",
+      "url": "https://www.arcprojects.build/",
+      "status": "trial",
+      "reason": "008首屏96整页94；中下段辨识度不足"
+    }
+  ]
+}

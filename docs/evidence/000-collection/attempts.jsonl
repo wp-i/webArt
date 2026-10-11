@@ -1,0 +1,9 @@
+{"started":"2026-10-10T02:21:03.949Z","finished":"2026-10-10T02:21:29.596Z","result":"failed","failure":"Page.captureScreenshot timed out","mode":"full","errors":0}
+{"started":"2026-10-10T02:21:52.287Z","finished":"2026-10-10T02:22:06.317Z","result":"failed","failure":"Runtime/resource errors","mode":"full","errors":1}
+{"started":"2026-10-10T02:24:38.341Z","finished":"2026-10-10T02:24:52.234Z","result":"passed-observable-checks","mode":"full","errors":0}
+{"started":"2026-10-10T12:01:09.902Z","finished":"2026-10-10T12:01:23.865Z","result":"passed-observable-checks","mode":"full","errors":0}
+{"started":"2026-10-10T12:06:47.040Z","finished":"2026-10-10T12:07:01.132Z","result":"passed-observable-checks","mode":"full","errors":0}
+{"started":"2026-10-10T12:21:08.126Z","finished":"2026-10-10T12:21:22.494Z","result":"failed","failure":"Viewport defect: {\"name\":\"desktop\",\"viewport\":[1440,900],\"height\":1590,\"overflow\":false,\"missing\":0,\"fonts\":[{\"family\":\"Manrope\",\"status\":\"loaded\"}],\"clipped\":[\"4 件作品\"],\"scenes\":[{\"selector\":\".intro\",\"visible\":true},{\"selector\":\".collection-tools\",\"visible\":true},{\"selector\":\".work:nth-child(3)\",\"visible\":true},{\"selector\":\".site-footer\",\"visible\":true}]}","mode":"full","errors":0}
+{"started":"2026-10-10T12:22:15.399Z","finished":"2026-10-10T12:22:29.728Z","result":"passed-observable-checks","mode":"full","errors":0}
+{"started":"2026-10-11T07:53:29.805Z","finished":"2026-10-11T07:53:44.551Z","result":"passed-observable-checks","mode":"full","errors":0}
+{"started":"2026-10-11T07:55:22.613Z","finished":"2026-10-11T07:55:41.023Z","result":"passed-observable-checks","mode":"full","errors":0}

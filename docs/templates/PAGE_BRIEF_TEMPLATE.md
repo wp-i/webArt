@@ -1,53 +1,43 @@
 # Design {ID} — {Title}
 
-Status: reference admission
+状态：reference admission
 
-## Product role
+## 用途与范围
 
-One sentence describing the kind of official website this template convincingly represents.
+- 网站用途 / 用户内容：
+- 母版 URL / reference map：
+- 1–5 屏内容范围：
+- 核心视觉如何由普通排版、配色、图片成立：
+- 95/100展示目标与默认首屏的具体记忆点；内部判断如何与用户评价区分：
+- 初筛与技术/素材可行性记录：
 
-## Immutable art direction
+## 锁定视觉
 
-- Identity and material world:
-- Primary type behavior:
-- Color and contrast behavior:
-- Signature interaction:
-- Silence/audio policy:
-- Maximum number of principal moments:
+- 身份、字体、颜色：
+- 开场 / 中段 / 收束：
+- 每段不同的视觉或内容作用：
+- 母版实际鼠标反馈 / 滚动变化及其视觉作用、实现范围、手机替代：
+- 短文案角色及每段必要性；不可用占位段落填屏：
+- 移动端裁切与文字层级：
 
-## Mother reference
+## 素材
 
-- Reference record: `docs/references/{id}-{slug}.md`
-- Qualification score:
-- Structural relationship:
+- 文件 / 来源与分发依据 / 唯一角色：
+- 需要替换的素材数 / 可行性；先获取/复用，须生成时的关键构图缺口：
+- 用户如何更换品牌、文字、图片和行动链接：
 
-## Selected arc
+## 四状态与执行预算
 
-1. Cover:
-2. Transition:
-3. Primary evidence/content state:
-4. Ending:
+- Reference map、asset plan 和四状态批准记录：
+- 筛选 / 实现 / QA 时间预算：
+- 实际墙钟 / 执行间暂停 / 共享工具准备 / 素材等待 / 实现与QA / 用量 / 素材替换 / 返工：
+- 删减后仍默认可见的服务/作品/产品证据；首屏与整页95双闸门：
+- 一次实现、最多一轮局部修正；结构或核心技术需重做则停止并记筛选失败。
 
-## Required assets
+## 禁止事项
 
-- Asset 01 / unique role:
-- Asset 02 / unique role:
-- Asset 03 / unique role:
+不添加源站无对应的可见元素；不重复主要素材/构图；不填充长度；不为复杂技术制作降级替身；不修改已锁定构图；新模板不新增假按钮。一个可编辑源码 ZIP。
 
-## Interaction contract
+## 验收
 
-- Persistent behavior:
-- Scene-specific behavior:
-- Reduced-motion behavior:
-- Mobile recomposition:
-
-## Anti-goals
-
-- No section outside the reference map.
-- No repeated dominant composition or asset.
-- No filler copy or utility footer added for length.
-- No unapproved change to a locked key state.
-
-## Acceptance notes
-
-Record explicit user acceptance and the immutable baseline once approved.
+内部 / 用户验收范围、日期、记录和源码指纹。总体视觉95展示目标和首屏表现单独记录，评分有具体截图/扣分证据及来源，不能用分数替代整页检查或用户评价。未达标则草稿、不进入公开库存。

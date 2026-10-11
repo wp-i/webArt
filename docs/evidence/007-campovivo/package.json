@@ -1,0 +1,11 @@
+{
+  "output": ".webart/trials/007/campovivo-source.zip",
+  "bytes": 3253751,
+  "sha256": "1598eae55f082b34c78b2915ebf6a9697fad9302b95345a18f44fb8279df1835",
+  "sourceSha256": "24fbb2470867e4e4350cc44ee75cfb52e719746b0c8313648ecdf613eb51116d",
+  "entries": 14,
+  "exactBytes": "passed",
+  "cleanInstall": "passed",
+  "cleanBuild": "passed",
+  "publicShowcase": false
+}

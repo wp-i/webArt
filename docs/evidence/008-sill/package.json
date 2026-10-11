@@ -1,0 +1,11 @@
+{
+  "output": ".webart/trials/008/sill-source.zip",
+  "bytes": 11330768,
+  "sha256": "be65a74004145f9d51f196c09cda7402f36bd84eca06dd611fc4904103e23cbe",
+  "sourceSha256": "9553f99f26d612ec00e55d30ed9ce6031733df669c69d14469c8f8036d8a5fed",
+  "entries": 14,
+  "exactBytes": "passed",
+  "cleanInstall": "passed",
+  "cleanBuild": "passed",
+  "publicShowcase": false
+}

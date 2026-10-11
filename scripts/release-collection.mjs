@@ -4,7 +4,7 @@ import os from 'node:os';
 import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { spawnSync } from 'node:child_process';
-import { ROOT, loadCollection, template, child, check, receipt, recordRelease, writeCatalog, auditPublic } from './collection.mjs';
+import { ROOT, loadCollection, template, child, check, receipt, recordRelease, writeCatalog, auditPublic, authorizedTrials } from './collection.mjs';
 
 function powershell(script, args = [], quiet = false) {
   const result = spawnSync('powershell.exe', ['-NoProfile', '-ExecutionPolicy', 'Bypass', '-File', path.join(ROOT, 'scripts', script), ...args], { cwd: ROOT, encoding: 'utf8', stdio: quiet ? 'pipe' : 'inherit', windowsHide: true });
@@ -14,7 +14,7 @@ function powershell(script, args = [], quiet = false) {
 }
 function rejectExtraArchives(data, selected) {
   const selectedIds = new Set(selected.map(t => t.id));
-  const allowed = new Set(data.templates.filter(t => t.status === 'accepted' && (t.release || selectedIds.has(t.id))).map(t => `${t.slug}-source.zip`));
+  const allowed = new Set([...data.templates.filter(t => t.status === 'accepted' && (t.release || selectedIds.has(t.id))), ...authorizedTrials(data)].map(t => `${t.slug}-source.zip`));
   const visit = (directory, prefix = '') => {
     if (!fs.existsSync(directory)) return;
     for (const item of fs.readdirSync(directory, { withFileTypes: true })) {
@@ -35,7 +35,7 @@ function buildProject(entry) {
   if (result.status !== 0) throw new Error(`Production build failed: ${entry.id}`);
 }
 export async function verifyHttp(data, root = ROOT) {
-  const accepted = data.templates.filter(t => t.status === 'accepted' && t.release);
+  const accepted = [...data.templates.filter(t => t.status === 'accepted' && t.release), ...authorizedTrials(data, root)];
   const { preview } = await import('vite');
   const server = await preview({ root, configFile: false, logLevel: 'silent', preview: { host: '127.0.0.1', port: 0, strictPort: true, open: false } });
   const origin = `http://127.0.0.1:${server.httpServer.address().port}`;
@@ -62,11 +62,11 @@ export async function verifyHttp(data, root = ROOT) {
       const bytes = Buffer.from(await response.arrayBuffer());
       const archiveDigest = digest(bytes);
       if (response.status !== 200 || response.headers.get('content-type')?.split(';')[0] !== 'application/zip' || bytes.length !== entry.release.bytes || archiveDigest !== entry.release.sha256) throw new Error(`Vite preview ZIP delivery failed: ${entry.id}`);
-      const previewPath = entry.projectDir === '.' ? '/' : `/${entry.projectDir}/`;
+      const previewPath = entry.preview || (entry.projectDir === '.' ? '/' : `/${entry.projectDir}/`);
       const pageUrl = `${origin}${previewPath}`;
       const page = await fetch(pageUrl);
       const html = Buffer.from(await page.arrayBuffer());
-      const expectedIndex = entry.projectDir === '.' ? path.join(root, 'dist', 'index.html') : child(path.join(root, 'dist'), `${entry.projectDir}/index.html`);
+      const expectedIndex = previewPath === '/' ? path.join(root, 'dist', 'index.html') : child(path.join(root, 'dist'), `${previewPath.slice(1)}index.html`);
       if (page.status !== 200 || digest(html) !== digest(fs.readFileSync(expectedIndex))) throw new Error(`Template preview route failed: ${entry.id}`);
       const assetsBefore = checkedAssets.size;
       for (const match of html.toString('utf8').matchAll(/<(?:script|link|img|source)\b[^>]*(?:src|href)=["']([^"']+)["']/g)) await verifyAsset(match[1], pageUrl);
@@ -108,14 +108,8 @@ async function release() {
       recordRelease(data, result.entry);
     }
     writeCatalog(data);
-    // The root is the collection host; accepted nested projects get separate preview paths.
+    // The collection's multi-page build scopes all independent previews without changing their approved sources.
     buildProject({ id: 'collection', projectDir: '.' });
-    for (const entry of data.templates.filter(t => t.status === 'accepted' && t.release && t.projectDir !== '.')) {
-      buildProject(entry);
-      const destination = child(path.join(ROOT, 'dist'), entry.projectDir);
-      fs.mkdirSync(destination, { recursive: true });
-      fs.cpSync(path.join(child(ROOT, entry.projectDir), 'dist'), destination, { recursive: true });
-    }
     const publicAudit = auditPublic(data);
     const delivery = await verifyHttp(data);
     const report = { verifiedAt: new Date().toISOString(), templates: results.map(({ id, mode, entry }) => ({ id, mode, ...entry.release, approvedSourceSha256: entry.approval.sourceSha256, cleanInstall: 'passed', cleanBuild: 'passed' })), publicAudit, localHttpDelivery: delivery };

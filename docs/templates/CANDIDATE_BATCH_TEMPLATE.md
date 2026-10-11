@@ -1,19 +1,23 @@
-# Candidate batch — {batch ID}
+# 候选批次 — {ID}
 
-Status: open / complete  
-Template use:  
-Started / ended:  
-Time spent: quick inspection / detailed inspection / evidence recovery  
-Existing evidence reviewed before new search:
+状态：open / complete
+用途：
+开始 / 结束：
+用时：初筛 / 深查
+已有证据：只作线索，记录本次核验方式
 
-Maximum six quick candidates and three detailed inspections. A rejected candidate can re-enter only with identified new evidence. When no candidate qualifies, close the batch with the common failure condition before choosing a different search criterion.
+每批最多6个快筛；每轮最多3批/18站且总筛选目标15分钟，只对1个母版深查桌面/手机。先查reference-index.json，已拒域名跳过；重新查看须有具体新证据。可复刻性先于分数；核心依赖 3D、电影视频、滚动导演或难替换素材的站直接淘汰，不做降级试验。
 
-| Candidate | Exact verified URL or unverified | Local evidence | Visual assessment and reviewer | Continuous route and ending | Core behavior / asset feasibility | Verdict | Reason and next bounded action |
+| 候选 / 核验 URL | 默认视觉与可见内容 | HTML/CSS + 轻 JS | 具体可分发素材计划 | 1–5 屏完整路径 | 原生输入 / 移动 | 原站与替换后画面差异 | 结论 / 原因 / 用时 |
 |---|---|---|---|---|---|---|---|
-| | | | | | | evidence-needed | |
+| | | | | | | | evidence-needed |
 
-Verdicts: admitted, rejected, evidence-needed. A numeric score must be explicitly labelled as internal visual judgment with its evidence; never use an unverified external score. A cover image alone does not establish whole-page quality.
+结论：admitted / rejected / evidence-needed。未知项不视为通过；原站奖项与内部判断分开记录。重复候选需有明确新证据。
 
-For an admitted candidate, link the completed reference map, adaptation plan and runnable four-state review. Use Webpage Quality v2 for both source and intended result. Permit content/technical substitutions such as 3D-to-static imagery when the full composition and adjacent handoffs pass. Do not begin full implementation until these are approved internally; no unresolved source gap or untested adaptation may be deferred to implementation.
+默认加载和普通滚动必须直接呈现网站用途、有效展示和行动。零 canvas/video/image 只描述技术，不是美感证据；主体为装饰、基本正文藏在展开状态时拒绝。具体替换内容和素材可行后才准入。
 
-Batch output: admitted candidates / rejection reasons / evidence gaps. Screenshot count is supporting inventory, not output. Record any source-scope reset and the reason in `docs/DECISIONS.md`.
+新展示稿以95/100视觉目标筛选，首屏单独审查：在“默认视觉”栏注明最强记忆点的位置、尺度及主图/排版/构图关系，并说明具体替换与手机如何保留；在“差异”栏比较001的力度，不能只写整洁或相同网格。001是力度标杆，不是风格/技术模板。005用户85、已退出展示，不能以其可用性代替视觉准入；内评分必须注明主观来源，不能虚构认证。
+
+选定一个候选后链接 brief、reference map、asset plan 与四状态审查；全部批准才进入全实现。无人通过就结束本批，记录共性问题，不无限开新批。旧 98+ 数值门槛和 3D-to-static 替换试验不适用于新候选。
+
+2026-10-11补充：候选需实际查看鼠标反馈与正反滚动，记录具体作用与手机替代；只看静态首屏不足以准入。文案仅承担层级示例，不选默认需要全文字占位填屏的母版。图片默认先获取授权成品，生成必须记录关键构图缺口。

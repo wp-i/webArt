@@ -1,0 +1,505 @@
+{
+  "started": "2026-10-09T16:37:56.888Z",
+  "origin": "http://127.0.0.1:4183/",
+  "mode": "full",
+  "viewports": [
+    {
+      "name": "desktop",
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 2149,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Studio",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".profile",
+          "visible": true
+        },
+        {
+          "selector": ".projects",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "wide",
+      "viewport": [
+        2048,
+        912
+      ],
+      "height": 2451,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Studio",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".profile",
+          "visible": true
+        },
+        {
+          "selector": ".projects",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "tablet",
+      "viewport": [
+        768,
+        1024
+      ],
+      "height": 1968,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Studio",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".profile",
+          "visible": true
+        },
+        {
+          "selector": ".projects",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "height": 2938,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Studio",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".profile",
+          "visible": true
+        },
+        {
+          "selector": ".projects",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "narrow",
+      "viewport": [
+        320,
+        844
+      ],
+      "height": 2618,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Studio",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".profile",
+          "visible": true
+        },
+        {
+          "selector": ".projects",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        }
+      ]
+    }
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "y": 900
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "y": 495
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "y": 1249
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "y": 591
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "y": 211
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "y": 2094
+    }
+  ],
+  "transitions": [
+    {
+      "viewport": "desktop",
+      "boundary": ".hero",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".hero",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".hero",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".profile",
+      "fraction": 0.25,
+      "y": 225
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".profile",
+      "fraction": 0.5,
+      "y": 450
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".profile",
+      "fraction": 0.75,
+      "y": 675
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".projects",
+      "fraction": 0.25,
+      "y": 427
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".projects",
+      "fraction": 0.5,
+      "y": 652
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".projects",
+      "fraction": 0.75,
+      "y": 877
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#contact",
+      "fraction": 0.25,
+      "y": 1225
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#contact",
+      "fraction": 0.5,
+      "y": 1249
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#contact",
+      "fraction": 0.75,
+      "y": 1249
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".hero",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".hero",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".hero",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".profile",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".profile",
+      "fraction": 0.5,
+      "y": 169
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".profile",
+      "fraction": 0.75,
+      "y": 380
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".projects",
+      "fraction": 0.25,
+      "y": 260
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".projects",
+      "fraction": 0.5,
+      "y": 471
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".projects",
+      "fraction": 0.75,
+      "y": 682
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#contact",
+      "fraction": 0.25,
+      "y": 1954
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#contact",
+      "fraction": 0.5,
+      "y": 2094
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#contact",
+      "fraction": 0.75,
+      "y": 2094
+    }
+  ],
+  "arbitrary": [
+    {
+      "viewport": "desktop",
+      "fraction": 0.14,
+      "y": 175
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.37,
+      "y": 462
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.61,
+      "y": 762
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.84,
+      "y": 1049
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.14,
+      "y": 293
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.37,
+      "y": 775
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.61,
+      "y": 1277
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.84,
+      "y": 1759
+    }
+  ],
+  "checks": {
+    "desktopWheel": true,
+    "mobileWheel": true,
+    "links": [
+      {
+        "href": "#profile",
+        "valid": true
+      },
+      {
+        "href": "#projects",
+        "valid": true
+      },
+      {
+        "href": "#profile",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "valid": true
+      },
+      {
+        "href": "#top",
+        "valid": true
+      },
+      {
+        "href": "#projects",
+        "valid": true
+      },
+      {
+        "href": "mailto:hello@example.com?subject=A%20considered%20home",
+        "valid": true
+      },
+      {
+        "href": "mailto:hello@example.com",
+        "valid": true
+      },
+      {
+        "href": "#top",
+        "valid": true
+      }
+    ],
+    "disclosures": 3,
+    "keyboard": true,
+    "reduced": true,
+    "noScript": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 2264,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Studio",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".profile",
+          "visible": true
+        },
+        {
+          "selector": ".projects",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        }
+      ]
+    },
+    "touch": [
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      }
+    ],
+    "touchScroll": 505
+  },
+  "errors": [],
+  "result": "passed-observable-checks",
+  "finished": "2026-10-09T16:38:18.659Z"
+}

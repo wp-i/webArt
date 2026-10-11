@@ -2,13 +2,15 @@
 param(
   [string]$ManifestPath = "webart.package.json",
   [string]$ArchivePath = "",
-  [switch]$SkipBuild
+  [switch]$SkipBuild,
+  [switch]$Trial
 )
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 $taskWorkspacePath = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot ".."))
-$validatedJson = & node (Join-Path $PSScriptRoot "collection.mjs") files-manifest $ManifestPath
+$filesCommand = if ($Trial) { "trial-files-manifest" } else { "files-manifest" }
+$validatedJson = & node (Join-Path $PSScriptRoot "collection.mjs") $filesCommand $ManifestPath
 if ($LASTEXITCODE -ne 0) { throw "Template approval/source gate failed." }
 $validated = ($validatedJson -join "`n") | ConvertFrom-Json
 if (-not $ArchivePath) { $ArchivePath = Join-Path $taskWorkspacePath $validated.config.output }

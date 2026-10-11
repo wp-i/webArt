@@ -1,0 +1,494 @@
+{
+  "date": "2026-10-08T19:34:14.111Z",
+  "origin": "http://127.0.0.1:4179/",
+  "method": "Chrome CDP native keyboard, mouse, wheel and touch; independent visual review required",
+  "viewports": [
+    {
+      "name": "desktop",
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 3181,
+      "overflow": false,
+      "missing": 0,
+      "fonts": true,
+      "clipped": [],
+      "mainVisible": true,
+      "wordmarkInside": true
+    },
+    {
+      "name": "wide",
+      "viewport": [
+        2048,
+        912
+      ],
+      "height": 3747,
+      "overflow": false,
+      "missing": 0,
+      "fonts": true,
+      "clipped": [],
+      "mainVisible": true,
+      "wordmarkInside": true
+    },
+    {
+      "name": "tablet",
+      "viewport": [
+        768,
+        1024
+      ],
+      "height": 2755,
+      "overflow": false,
+      "missing": 0,
+      "fonts": true,
+      "clipped": [],
+      "mainVisible": true,
+      "wordmarkInside": true
+    },
+    {
+      "name": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "height": 3712,
+      "overflow": false,
+      "missing": 0,
+      "fonts": true,
+      "clipped": [],
+      "mainVisible": true,
+      "wordmarkInside": true
+    },
+    {
+      "name": "narrow",
+      "viewport": [
+        320,
+        844
+      ],
+      "height": 3460,
+      "overflow": false,
+      "missing": 0,
+      "fonts": true,
+      "clipped": [],
+      "mainVisible": true,
+      "wordmarkInside": true
+    }
+  ],
+  "checks": {
+    "default": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 3188,
+      "overflow": false,
+      "missing": 0,
+      "fonts": true,
+      "clipped": [],
+      "mainVisible": true,
+      "wordmarkInside": true,
+      "projects": 3,
+      "expanded": 0
+    },
+    "keyboardProjects": true,
+    "projectContent": [
+      {
+        "visible": true,
+        "text": "Olive walls, velvet seats and a long walnut table. A room made for slow afternoons and one more conversation.\n\nPalette\nOlive, oxblood, walnut\nMaterials\nPlaster, velvet, aged brass",
+        "overflow": false
+      },
+      {
+        "visible": true,
+        "text": "Morning light on rumpled linen. Soft blue meets warm timber in a bedroom that asks very little of you.\n\nPalette\nPowder blue, ivory, oak\nMaterials\nLinen, limewash, ceramic",
+        "overflow": false
+      },
+      {
+        "visible": true,
+        "text": "A sweep of butter-yellow plaster and a floor of warm terracotta. Light turns an everyday journey into something special.\n\nPalette\nButter yellow, warm clay\nMaterials\nHand-finished plaster, terracotta",
+        "overflow": false
+      }
+    ],
+    "navigation": true,
+    "links": [
+      {
+        "text": "Skip to content",
+        "href": "#main",
+        "valid": true
+      },
+      {
+        "text": "House of Ivory, home",
+        "href": "#top",
+        "valid": true
+      },
+      {
+        "text": "The studio",
+        "href": "#studio",
+        "valid": true
+      },
+      {
+        "text": "Our spaces",
+        "href": "#spaces",
+        "valid": true
+      },
+      {
+        "text": "Let’s talk ↗",
+        "href": "#contact",
+        "valid": true
+      },
+      {
+        "text": "The studio",
+        "href": "#studio",
+        "valid": true
+      },
+      {
+        "text": "Our spaces",
+        "href": "#spaces",
+        "valid": true
+      },
+      {
+        "text": "Let’s talk ↗",
+        "href": "#contact",
+        "valid": true
+      },
+      {
+        "text": "Discover our spaces ↓",
+        "href": "#spaces",
+        "valid": true
+      },
+      {
+        "text": "Let’s make a space ↗",
+        "href": "mailto:studio@example.com?subject=Let%E2%80%99s%20make%20a%20space",
+        "valid": true
+      },
+      {
+        "text": "The studio",
+        "href": "#studio",
+        "valid": true
+      },
+      {
+        "text": "Our spaces",
+        "href": "#spaces",
+        "valid": true
+      },
+      {
+        "text": "studio@example.com ↗",
+        "href": "mailto:studio@example.com",
+        "valid": true
+      },
+      {
+        "text": "Back to top ↑",
+        "href": "#top",
+        "valid": true
+      }
+    ],
+    "contrast": [
+      {
+        "name": "paper text",
+        "fg": "rgb(53, 28, 23)",
+        "bg": "rgb(239, 206, 189)",
+        "ratio": 10.703074834856944
+      },
+      {
+        "name": "dark text",
+        "fg": "rgb(239, 206, 189)",
+        "bg": "rgb(53, 28, 23)",
+        "ratio": 10.703074834856944
+      }
+    ],
+    "transitions": [
+      {
+        "viewport": "desktop",
+        "boundary": "hero",
+        "fraction": 0.25,
+        "y": 94
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "hero",
+        "fraction": 0.5,
+        "y": 189
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "hero",
+        "fraction": 0.75,
+        "y": 283
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "studio",
+        "fraction": 0.25,
+        "y": 443
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "studio",
+        "fraction": 0.5,
+        "y": 668
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "studio",
+        "fraction": 0.75,
+        "y": 893
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "spaces",
+        "fraction": 0.25,
+        "y": 873
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "spaces",
+        "fraction": 0.5,
+        "y": 1098
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "spaces",
+        "fraction": 0.75,
+        "y": 1323
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "contact",
+        "fraction": 0.25,
+        "y": 1836
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "contact",
+        "fraction": 0.5,
+        "y": 1984
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "contact",
+        "fraction": 0.75,
+        "y": 2133
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "footer",
+        "fraction": 0.25,
+        "y": 2118
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "footer",
+        "fraction": 0.5,
+        "y": 2172
+      },
+      {
+        "viewport": "desktop",
+        "boundary": "footer",
+        "fraction": 0.75,
+        "y": 2227
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "hero",
+        "fraction": 0.25,
+        "y": 59
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "hero",
+        "fraction": 0.5,
+        "y": 118
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "hero",
+        "fraction": 0.75,
+        "y": 177
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "studio",
+        "fraction": 0.25,
+        "y": 230
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "studio",
+        "fraction": 0.5,
+        "y": 441
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "studio",
+        "fraction": 0.75,
+        "y": 652
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "spaces",
+        "fraction": 0.25,
+        "y": 580
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "spaces",
+        "fraction": 0.5,
+        "y": 791
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "spaces",
+        "fraction": 0.75,
+        "y": 1002
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "contact",
+        "fraction": 0.25,
+        "y": 2476
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "contact",
+        "fraction": 0.5,
+        "y": 2607
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "contact",
+        "fraction": 0.75,
+        "y": 2737
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "footer",
+        "fraction": 0.25,
+        "y": 2695
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "footer",
+        "fraction": 0.5,
+        "y": 2753
+      },
+      {
+        "viewport": "mobile",
+        "boundary": "footer",
+        "fraction": 0.75,
+        "y": 2810
+      }
+    ],
+    "arbitrary": [
+      {
+        "viewport": "desktop",
+        "fraction": 0.14,
+        "y": 319
+      },
+      {
+        "viewport": "desktop",
+        "fraction": 0.37,
+        "y": 844
+      },
+      {
+        "viewport": "desktop",
+        "fraction": 0.61,
+        "y": 1391
+      },
+      {
+        "viewport": "desktop",
+        "fraction": 0.84,
+        "y": 1916
+      },
+      {
+        "viewport": "mobile",
+        "fraction": 0.14,
+        "y": 402
+      },
+      {
+        "viewport": "mobile",
+        "fraction": 0.37,
+        "y": 1061
+      },
+      {
+        "viewport": "mobile",
+        "fraction": 0.61,
+        "y": 1749
+      },
+      {
+        "viewport": "mobile",
+        "fraction": 0.84,
+        "y": 2409
+      }
+    ],
+    "wheel": [
+      {
+        "viewport": "desktop",
+        "start": 0,
+        "end": 2281,
+        "reverse": 0
+      },
+      {
+        "viewport": "mobile",
+        "start": 0,
+        "end": 2868,
+        "reverse": 0
+      }
+    ],
+    "touchScroll": {
+      "after": 485,
+      "maxTouchPoints": 1,
+      "hover": false
+    },
+    "reduced": {
+      "active": true,
+      "transition": "0s",
+      "scroll": "auto"
+    },
+    "noScript": {
+      "projectWorks": true,
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 3361,
+      "overflow": false,
+      "missing": 0,
+      "fonts": true,
+      "clipped": [],
+      "mainVisible": true,
+      "wordmarkInside": true
+    },
+    "trustedTouch": {
+      "points": 1,
+      "pointers": [
+        {
+          "type": "touch",
+          "trusted": true
+        },
+        {
+          "type": "touch",
+          "trusted": true
+        },
+        {
+          "type": "touch",
+          "trusted": true
+        },
+        {
+          "type": "touch",
+          "trusted": true
+        }
+      ]
+    }
+  },
+  "errors": [],
+  "result": "passed observable checks; final visual review separate",
+  "harnessRepair": {
+    "reason": "No-script mode cannot await a page-script animation-frame/font promise; finish only the remaining no-script and trusted-touch checks",
+    "date": "2026-10-08T19:42:59.694Z"
+  },
+  "followUpRuns": [
+    {
+      "date": "2026-10-08T19:54:35.221Z",
+      "origin": "http://127.0.0.1:4173/designs/006-house-of-ivory/"
+    }
+  ]
+}

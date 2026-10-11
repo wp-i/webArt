@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "templates": [
+    {
+      "id": "001",
+      "slug": "weight-of-light",
+      "title": "The Weight of Light",
+      "category": "艺术与实验",
+      "description": "光、纤维与材质的沉浸式探索。",
+      "date": "2026-08-28",
+      "background": "#090b0a",
+      "trial": false,
+      "preview": "/designs/001-weight-of-light/",
+      "download": "/weight-of-light-source.zip",
+      "thumbnail": "/collection/001.webp",
+      "thumbnailSmall": "/collection/001-small.webp",
+      "version": "0.1.0",
+      "bytes": 5810208,
+      "sha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0"
+    },
+    {
+      "id": "006",
+      "slug": "house-of-ivory",
+      "title": "House of Ivory",
+      "category": "空间与建筑",
+      "description": "以色彩与空间，呈现有温度的室内设计。",
+      "date": "2026-10-09",
+      "background": "#efcebd",
+      "trial": false,
+      "preview": "/designs/006-house-of-ivory/",
+      "download": "/house-of-ivory-source.zip",
+      "thumbnail": "/collection/006.webp",
+      "thumbnailSmall": "/collection/006-small.webp",
+      "version": "0.1.0",
+      "bytes": 10108955,
+      "sha256": "24f4fcdfd87ae69290378c6eccf4d0481ce9d7a49a23b89de4a337c1208f8714"
+    },
+    {
+      "id": "007",
+      "slug": "campovivo",
+      "title": "Campovivo",
+      "category": "生活与体验",
+      "description": "从田野到餐桌，一场悠然的海岸体验。",
+      "date": "2026-10-09",
+      "background": "#fff5a3",
+      "trial": true,
+      "preview": "/designs/007-campovivo/",
+      "download": "/campovivo-source.zip",
+      "thumbnail": "/collection/007.webp",
+      "thumbnailSmall": "/collection/007-small.webp",
+      "version": "0.1.0",
+      "bytes": 3253751,
+      "sha256": "1598eae55f082b34c78b2915ebf6a9697fad9302b95345a18f44fb8279df1835"
+    },
+    {
+      "id": "008",
+      "slug": "sill",
+      "title": "Sill",
+      "category": "空间与建筑",
+      "description": "以自然光与诚实材质，讲述建筑与生活。",
+      "date": "2026-10-10",
+      "background": "#ad7653",
+      "trial": true,
+      "preview": "/designs/008-sill/",
+      "download": "/sill-source.zip",
+      "thumbnail": "/collection/008.webp",
+      "thumbnailSmall": "/collection/008-small.webp",
+      "version": "0.1.0",
+      "bytes": 11330768,
+      "sha256": "be65a74004145f9d51f196c09cda7402f36bd84eca06dd611fc4904103e23cbe"
+    }
+  ]
+}

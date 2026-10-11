@@ -2,6 +2,8 @@
 
 Status: accepted mother reference
 
+Preserved historical admission for the frozen template. Its 98/100 score and cinematic behavior are not current selection requirements for new templates; see `docs/PRODUCTION_PIPELINE.md`.
+
 ## Mother reference evidence
 
 - URL: https://symphonyofvines.unseen.co/

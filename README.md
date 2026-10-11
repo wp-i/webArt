@@ -1,61 +1,37 @@
 # WebArt
 
-WebArt produces a collection of exceptional, editable single-page website templates. Each accepted design has an independent preview and one source ZIP. Product scope and production recovery are documented in [`docs/PRODUCT.md`](docs/PRODUCT.md).
+快速挖掘易复刻的高质量设计，独立实现为可以下载、修改和使用的网站。用户通常只需说明用途和内容，风格匹配由流程完成。
 
-Current inventory: **two accepted templates with verified editable source archives.** Design 001 preserves its prior user acceptance. Design 002 version 0.2.0 passed the newly authorized internal review and clean package verification; this does not claim user acceptance of its new appearance. Its rejected 0.1.0 remains historical. See [`Design 002 QA`](docs/qa/002-short-studio.md). The root page remains the accepted Design 001 preview. `webart.collection.json` tracks release eligibility; `public/templates.json` provides verified collection data, not a completed marketplace UI.
+根首页现为 WebArt 作品目录，参考 Minimal Gallery 的展示方式，包含目前保留的四稿。按集合顺序连续编号展示，介绍直接连接预览网格；点击进入完整网页预览，可切换桌面、平板和手机，也可直接打开原稿、下载唯一源码包。目录和原稿均有独立 URL。
 
-| Template | Editable source |
-|---|---|
-| 001 — The Weight of Light | [Download ZIP](public/weight-of-light-source.zip) |
-| 002 — Objects in Field | [Download ZIP](public/objects-in-field-source.zip) |
+001 用户已接受、视觉冻结；006 内部整页/首屏95，用户尚未给出95验收。007 Campovivo、008 Sill 内部仍为trial，展示已移除试作标签；2026-10-10 用户明确要求展示及下载所有保留稿，因此纳入本次目录，不推断为视觉验收。旧002–005已撤回，不恢复。清理历史见[清理记录](docs/qa/2026-10-10-cleanup.md)。
 
-## Repository layout
+**用户Key配置与执行暂不进行。** 本轮仍由Codex交互式编排，不把本地用量折算成实际API账单，也不宣称稳定工业量产。三稿质量/时间/费用与优化依据见[试产评测](docs/production/TRIAL_REPORT.md)。
 
-- Root `index.html`, `src/`, `public/assets/`: accepted Design 001.
-- `designs/002-objects-in-field/`: accepted Design 002 version 0.2.0 source.
-- `docs/`: production rules, briefs, reference maps, asset provenance and review evidence.
-- `scripts/`, `webart.collection.json`, `webart.package*.json`: approval, packaging and release checks.
-- `distribution/`: customer documentation for Design 001.
+## 开发和交付
 
-The repository is the production workspace. Customer downloads are built from explicit allowlists and contain one editable project, without internal evidence, dependencies or rejected alternatives. Dependencies, builds, full-resolution review screenshots and quarantined ZIPs stay local. Compact review overviews and all QA/decision records are tracked; see [`evidence policy`](docs/evidence/README.md).
-
-## Collection operations
-
-```bash
-npm run collection:status
-npm run collection:check
-npm run release -- --id 001
 ```
-
-Releasing without `--id` handles all accepted entries. `--id` selects which source archive to release; the shared collection build revalidates and rebuilds all published previews. Accepted entries without a verified package are excluded until released. Release checks approval against the exact source, verifies the source ZIP in an isolated clean build, and verifies previews, assets and downloads through the actual local Vite preview server. Frozen templates and unexpected public ZIPs fail validation. This does not deploy to an external host.
-
-## Accepted template 001 — The Weight of Light
-
-The first WebArt design study, built with Vite. The piece treats light as a material: pointer movement exposes warmer layers of an imagined mineral-paper sculpture while four full-screen movements form a concise project website.
-
-All three photographic assets were created specifically for this project with OpenAI ImageGen. The four-movement pacing is informed by the reference documented in the project art-direction record; no reference-site assets, copy, branding, audio, or source code are included.
-
-## Run locally
-
-```bash
-npm install
+npm ci
 npm run dev
-```
-
-## Production build
-
-```bash
-npm run build
-```
-
-## Single-source release
-
-```bash
+npm run test:collection
+npm run collection:check
+npm run collection:audit
 npm run release
 ```
 
-The release command uses `webart.collection.json` and each template's package manifest. An unchanged approved archive is preserved; a new archive is prepared and verified privately before exposure. Customer-facing README and third-party notices for template 001 live under `distribution/`; internal art-direction and reference evidence are excluded by the package allowlist.
+源码包：[001](public/weight-of-light-source.zip)、[006](public/house-of-ivory-source.zip)、[007 Campovivo](public/campovivo-source.zip)、[008 Sill](public/sill-source.zip)。每件只有一个可编辑Vite源码ZIP。001 原HTML原字节迁至 designs/001-weight-of-light/index.html；其素材、交互、归档结构、源码批准指纹和原ZIP不变。
 
-The project uses OFL-licensed Instrument Serif and Manrope fonts distributed through Fontsource. The page contains no audio and respects reduced-motion preferences. Interaction and responsive behavior use browser-native JavaScript and CSS.
+## 新增作品
 
-The maintained visual contract lives in [`docs/ART_DIRECTION.md`](docs/ART_DIRECTION.md). The repeatable line and quality gate are in [`docs/PRODUCTION_PIPELINE.md`](docs/PRODUCTION_PIPELINE.md), while [`docs/DOWNLOAD_STANDARD.md`](docs/DOWNLOAD_STANDARD.md) defines the single-download policy. Page-specific constraints are in [`docs/pages/001-weight-of-light.md`](docs/pages/001-weight-of-light.md), with accepted and rejected directions recorded in [`docs/DECISIONS.md`](docs/DECISIONS.md).
+1. 按现有生产流程将新稿登记到 webart.collection.json，完成视觉/QA/源码与下载验证。
+2. 在 webart.showcase.json 的 items 增加该 id、用途分类、中文短说明和日期；分类、数量和网格自动扩展。试作仍需明确用户授权及验证回执，不会因添加 metadata 自动公开。
+3. 将真实首屏缩略图放到 public/collection/{id}.webp（1200×750）及 {id}-small.webp（600×375）。原稿的图片和字体保留在自己的工程里。
+4. 运行 npm run build 和集合检查。构建自动生成四类入口：目录、预览工具、各原稿和源码下载；不生成框架变体。
+
+目录源码为 index.html、gallery/，集合路由由 vite.config.js 在服务/构建时处理，不修改原稿的根资产路径。public/templates.json 继续仅包含 accepted 库存；public/showcase.json 是本次用户授权展示的集合。完整检查记录见[首页QA](docs/qa/000-collection.md)。
+
+[生产流程](docs/PRODUCTION_PIPELINE.md) · [产品现状](docs/PRODUCT.md) · [视觉约定](docs/ART_DIRECTION.md) · [源码规范](docs/DOWNLOAD_STANDARD.md) · [决策](docs/DECISIONS.md) · [下一步](docs/NEXT_STEPS.md)
+
+工程入口：scripts/inspect-reference.mjs（快筛/单母版深查与已拒参考跳过）、scripts/qa-page.mjs（通用整页检查）、scripts/production-meter.mjs（当前本地会话阶段计量）、白名单打包与集合发布脚本。工具可复用；完整自助运行器尚未实现。
+
+2026-10-11用户指出新稿占位文字过多、动效不足和生成素材质量差距。制作标准已改为短文案、母版鼠标/滚动过程验收、现成授权素材优先；见[具体质量修正](docs/production/2026-10-11-quality-correction.md)与[素材获取标准](docs/assets/SOURCING_STANDARD.md)。旧内部评分不覆盖用户反馈，三稿尚未据此重做。

@@ -1,148 +1,65 @@
-# WebArt production pipeline
+# WebArt 生产流程
 
-Status: active  
-Purpose: produce a small collection of reference-led single-page templates with repeatable efficiency and no decline from hero to ending.
+更新2026-10-11，依据用户对006–008文案、动效及素材的实际审查修正。核心是快速选到可直接复制且整页优秀的母版，不让模型从空白重新设计。用户Key暂缓；以下是已实测工具与执行合同，完整自助运行器尚未实现。
 
-Product scope and current inventory: `docs/PRODUCT.md`. The execution registry is `webart.collection.json`; Design 001 is user-accepted and the new Design 002 0.2.0 is internally accepted. Its rejected 0.1.0 remains historical. A screenshot collection, successful build or generated archive does not create a released template without visual acceptance and verified delivery.
+## 1. 有预算的筛选
 
-## Execution discipline — 2026-09-05 recovery
+先确定用途、短文案角色与交互目标，再优先看具备成熟鼠标/滚动表现的工作室/服务/品牌短页。只从真实出站链接取URL，图库截图、旧奖项与图片数不证明当前质量。先查[参考索引](production/reference-index.json)：已拒绝域名跳过；重新查看必须有明确新证据并记录原因。本次008重查Focal的问题不能再发生。
 
-- Work in bounded batches: at most six quick candidates and three detailed inspections. Finish a row for every inspected candidate before opening another batch. Reuse existing evidence first; do not repeatedly inspect a rejected candidate without new evidence.
-- Each candidate row records URL (or explicitly unverified), intended template use, evidence paths, continuous source route, technical/asset feasibility, verdict and one reason. Outcomes are `admitted`, `rejected`, or `evidence-needed`; the last outcome does not authorize implementation.
-- A candidate's high visual score is only one admission condition. Continuity and a feasible reproduction or adaptation plan are required. A technically expensive behavior may enter a bounded substitution prototype; lack of identical technology is not an automatic failure.
-- The four key review states are cover, middle, transition and ending. They are not a mandate to stretch every excerpt into four chapters. Three or four coherent principal moments remain the limit; inspect every actual transition.
-- A key-state approval requires a runnable local composition and matching source evidence at the same viewport, with typography, fixed interface and the intended final retained/replacement behavior present. Four beautiful image files alone cannot pass this gate.
-- After a valid key-state gate, implement one defined adapted reconstruction scope. Every deviation must be traceable to a source role and an internally approved adaptation. Missing scope or failed substitutions return to the relevant gate; do not enter an unbounded redesign loop.
-- Keep the primary art director responsible for visual acceptance and obtain a read-only independent defect review. Scores describe judgment and are never a substitute for testing the user's actual environment, input and reduced-motion preference.
-- Approval binds to the exact allowlisted source fingerprint. Any later source change requires review appropriate to the change before the fingerprint is updated. Packaging scripts cannot grant visual approval.
-- Measure accepted templates, time spent per stage, rejection reasons and rework rounds. Do not report screenshots captured or self-assigned scores as production output.
+快筛每批最多6站，单站浏览动作串行，最多3批/18站且总筛选目标15分钟；一旦找到一个合格母版停止搜索，只深入这一个。超过预算或无人通过就记录失败并结束本次运行，不无限换批。搜索/URL读取可并行，同一浏览器的前台、滚动、截图不能并行争抢当前页。
 
-The historical Design 002 reset is `docs/production/DESIGN2_RESET.md`. Its new short-page contract is `docs/pages/002-short-studio.md`, with final evidence in `docs/qa/002-short-studio.md`.
+先检查7条件：默认静止可看、信息直接显示、HTML/CSS/轻交互可保留美感、少量媒体可独立替换、短完整路径、原生输入/清楚手机方案、用户可直接修改。实时3D/shader、电影镜头叙事、长滚动导演、复杂跨镜头/产品一致性、需要重做核心技术的候选直接拒绝。普通静态图片里的立体物体可用，网页不得依赖实时几何。
 
-## Production thesis
+`scripts/inspect-reference.mjs`快筛只保存开场/metadata；等待字体和首屏图片并限定超时，视觉加载未完成标evidence-needed。域名转售/重定向检查后拒绝过期来源。只对唯一母版deep取完整路径和手机；无需给每个淘汰站生成四大截图。
 
-2026-09-06 scope update: every output is a concise 2–5-screen webpage. All content, structures and interactions may be cut or locally adapted to fit this format. The earlier contiguous-excerpt-only/three-or-four-moment restrictions below are superseded where they conflict. Inspect the original route, log whole-section cuts and local reconnections, then evaluate the actual shortened result. These cuts are deliberate adaptations, not missing evidence or permission for filler. Four key review states remain mandatory, even in a two- or three-section page.
+## 2. 审查替换后、删减后的整页
 
-WebArt industrializes selecting exceptional sites, decomposing their design, planning limited adaptations, reconstructing the intended final version, evaluating it under the source's same quality criteria, and packaging it. Each template uses one verified 98+ mother as its visual baseline. Preserve composition, proportions, density and coherent sequence; permit documented content and technical adjustments, including 3D-to-static imagery, when the adjusted result meets the quality floor. Do not build expensive technology merely to remove it later, or add unrelated visible design to fill a source gap.
+母版默认首屏要能指出具体记忆点、位置、比例，手机与原创品牌/字体/图片替换后仍成立。对照001的视觉力度，不复制其风格/复杂技术。按40构图、20字体、20素材/色彩、10整页节奏、10响应式记录整数内评；首屏整体另评。95为内部展示目标，非客观认证；用户评价优先。
 
-Original imagery, text, identity, code, and distributable assets remain mandatory. Reference screenshots are internal evidence only and never enter the customer archive.
+**删减后必须保留可见的服务/作品/产品证据。** 不能把“漂亮首屏→FAQ→CTA”自动当成整页95；007正是这个漏项。也不能认为有三张图就一定惊艳；008中下段字体/编排仍普通。字体许可与替代字形、图片角色/裁切、结尾内容功能在实施前锁定，禁止到实现阶段再美化救场。
 
-## Required artifacts
+结论admitted / rejected / evidence-needed，一行记录即足够；失败也计入本轮数据。工艺简单、零媒体、构建通过均不加审美分。
 
-Every design has four maintained records before release:
+## 3. 最终素材与四状态闸门
 
-1. `docs/pages/{id}-{slug}.md` — immutable page brief.
-2. `docs/references/{id}-{slug}.md` — direct reference inspection and selected moments.
-3. `docs/assets/{id}-{slug}.md` — asset provenance and unique role map.
-4. `docs/qa/{id}-{slug}.md` — visual, interaction, responsive, build, and package evidence.
+建立page brief、单母版reference map、asset plan和DECISIONS记录，再做开场/中段/真实过渡/收束的可运行状态。最终品牌、文案、可分发字体和实际媒体全部加载，至少1440×900与390×844。直接同时对照母版、成品及001；原图不等于页面、锚点不等于路径。
 
-Create them from the templates in `docs/templates/`. The documents replace long conversational context and are the visual handoff surface for implementation subtasks. The collection registry and short candidate records track execution status; they cannot override the page's accepted visual contract.
+素材按[获取标准](assets/SOURCING_STANDARD.md)先查已授权库存，再有限筛选成品摄影/材质；逐张核对构图、光线、色彩、裁切和源码包分发许可，选定后本地保存并复用来源记录。库存复用不得让各稿长得一样。
 
-## Seven-stage line
+仅在成品素材无法满足关键构图时生成，每角色一次、最多一次有明确构图原因的替换；仍不合适则停止，不围绕坏素材重设计。不以“新稿”自动触发生成，不复制母版图片。文件类型按实际字体签名/图片尺寸核验，不猜扩展名，不为不必要转换安装依赖。
 
-### 1. Reference admission
+四状态使用最终短文案及实际动效，记录来自母版的鼠标/局部反馈和有作用的滚动变化，说明桌面、触摸、键盘与减少动态方案；不适用项须有母版依据。首次与重复进入、正反滚动、中间进度均实际审看，可录短视频或连续帧。没有过程证据不得因截图好看就通过。
 
-- Inspect the live reference directly at the target desktop viewport.
-- Score the source using Webpage Quality v2 below; only a 98+ reference may become a mother. Record external award scores separately and never equate them with an internal score.
-- Use one mother reference per template. Secondary references may clarify a technical detail but may not contribute visible composition.
-- Record the exact URL, inspection date, viewport, page states, and why the site qualifies.
-- Confirm that all selected states are adjacent or connected by directly observed source transitions.
-- Identify the reference's principal source of visual authority, the retained elements and any content/technical substitutions to test. Record the expected quality risk and expected implementation savings.
+首屏与整页两个闸门同时达到95才准许常规完整实现。存在已知核心差距则停止并记录失败，不能批准“完整做完以后再调”。007/008是本轮用户指定的完整对照试产例外，低分结果只用于评测，不进入展示。
 
-Reject an excerpt without a coherent observed beginning, middle and ending. A technically complex source may proceed to the bounded adaptation prototype; reject it if neither direct reconstruction nor a feasible simplified result can meet the floor. The next gate uses the intended final technique, not the unreproduced original effect as a promise.
+## 4. 一次实现、有限收尾
 
-### 2. Reference map
+只实现已锁定视觉与交互，复用不可见工程，不跨页套用显眼构图。普通滚动保留母版的渐变、揭示、局部视差等质感；默认内容完整，原生details/锚点可用但不能取代签名交互。删除无用途脚本，保留有视觉目的的轻量脚本。每段有新内容/视觉作用，同页不重复主图、主构图、巨型标题或节奏；素材不够就结束，不增章填空。占位文案只保留示例作用，长宣言、成组FAQ、营销段须证明必要性。
 
-Extract one contiguous sequence of three or four moments. For each moment, record:
+最多一轮局部修正。核心结构/素材/签名交互要重做即记录筛选失败并停下。页面输入只携带本页合同、素材计划、选中参考和当前阶段证据，不重复整段长会话/废弃历史/所有原始工具回执；未来API逐次计量，缓存命中不能提前保证。
 
-- dominant composition and negative-space geometry;
-- image-to-text ratio and information density;
-- type scale, alignment, and fixed interface behavior;
-- transition into and out of the moment;
-- pointer, scroll, hold, drag, or ambient interaction category;
-- elements intentionally omitted from the excerpt.
-- a counterpart ledger for every visible element planned in the reconstruction.
+## 5. 同标准全页审核
 
-For each handoff, capture or record the source at 25%, 50% and 75%. A verbal guess about how two attractive screenshots might connect is not transition evidence.
+沿用同一记忆点与7条件，先实际默认页、再交互补充；功能与审美分别报告。五宽度1440、2048、768、390、320，四状态，每边界25/50/75，桌面/手机各4任意位置，原生正反滚动、键盘、可信触摸、实际减少动态、禁脚本、资源、错误、溢出、正文裁切与可用行动全部检查。摄影上文字直接检查各裁切，不能用纯色对比度代替复杂图像区域。
 
-Complete the source map and proposed adaptation ledger before production assets or page implementation. A bounded substitution prototype may then resolve its documented risks. Every visible element and transition must have a source counterpart or an approved local adaptation tied to one. Unrecorded scope changes fail the gate.
+通用工具`scripts/qa-page.mjs`按配置提供预期图数/字体/scene，120秒总期限、15秒单命令/连接期限，失败和超时写runtime及attempts。失效浏览器端点恢复任务浏览器后重试当前检查；不能记作页面通过。006特有菜单行为由其专项检查保留。自动检查只验证可观察行为，不自动给95。
 
-### 3. Original substitution plan
+**所有可见控件必须逐项审查交互状态。** 实现前列出按钮、筛选、输入、排序、菜单、展开说明及尺寸切换；按适用范围检查默认、悬停、键盘聚焦、展开、选中、空结果和异常状态。桌面与手机分别直接查看展开后的实际画面并留证，核对字体、配色、比例、选中标记、焦点、遮挡与边缘裁切。系统原生控件也必须展开审查，不能因原生实现而豁免。选择成功、截图生成和构建通过均不能替代视觉检查；有一项未检查，QA 状态就不能记为完成。
 
-Define substitutions for distribution, efficiency and template usability: identity, concise copy, original/licensed assets and selected technical simplifications. For every adjustment record the source role, intended replacement, saved implementation work, visual/functional loss risk, affected neighboring states and pass criteria. Examples include realtime 3D to an original static rendering, or an expensive material animation to a tested lightweight response. Preserve the source's visible hierarchy and coherent route. Each asset receives one dominant role; do not force old assets into unsuitable roles.
+完整QA记录在docs/qa，完成后锁定源码指纹。运行例：`node scripts/qa-page.mjs <任务浏览器本地CDP> <QA配置> [gate|full]`。
 
-Prototype the highest-risk adjustment first in its intended layout with incoming/outgoing transitions. Judge the actual replacement, including responsive crop and any lost interaction. Allow one bounded alternative if the first substitution fails, then reject or re-scope the candidate rather than repeatedly rescuing it. No complete 3D implementation is required when the approved deliverable uses a static image.
+2026-10-11补充：动态页另审鼠标离开/重入、滚动0/25/50/75/100%及反向、停止输入后的绘制、触摸替代和减少动态。正文逐段标用途，检查任意滚动位置是否被占位文字主导；以实际成品与001的过程质感对照，不能用淡入效果数量或内部评分代替。新候选不再优先静态处理，快筛须直接查看动态；简单工艺仍是条件，不是删掉动效的理由。
 
-Do not copy logos, text, source code, proprietary media, identifiable illustrations, 3D models, or a reference's exact branded interface. Record all third-party fonts and libraries for distribution notices.
+## 6. 一份包，两个资格
 
-### 4. Key-state gate
+公开模板：视觉批准→完整QA/指纹→白名单私有staging→精确条目/字节→独立安装构建→公开包/条目→预览与HTTP哈希/长度校验。只有accepted条目进入public/templates.json，详见[下载标准](DOWNLOAD_STANDARD.md)。
 
-Reconstruct the complete intended final states before building the full experience: cover, one middle material state, one transition state, and ending. Include the actual approved content/technical substitutions. Review them beside the corresponding reference frames at the same viewport using the shared quality criteria. These may be isolated HTML/CSS states; they do not need full navigation yet.
+完整工程试产：draft/trial、记录齐全、full QA/指纹通过后可用同一打包器`-Trial`与系统临时StagePath产一份私有ZIP，移入.webart/trials。没有95资格不能调用公开发布链；临时包校验后移走，不保留多个版本。可运行私人产物不等于主题展示。
 
-All four states must independently meet the accepted hero floor. If the ending is weaker, stop here. Do not spend implementation tokens attempting to rescue an unqualified visual plan.
+## 7. 计量与清理
 
-### 5. Focused implementation
+每轮start/reference-locked/assets-ready/implementation-complete/qa-complete/complete标阶段；`scripts/production-meter.mjs <run> <stage>`只提取当前本地Codex用量，支持显式--session、私有--ledger。不读入报告会话正文或Key。实际API接入后须记录逐响应usage/缓存写入/服务等级/图像模型与完整费用，本地差值只是参考折算。
 
-- Reuse invisible infrastructure: project shell, local fonts, accessibility primitives, pointer plumbing, progress utilities, build scripts, and packaging checks.
-- Do not reuse visible composition, dominant typography, signature motion, or section rhythm across templates.
-- The primary art director enforces the reference map and approved adaptations for all visible CSS and scene timing. Build the intended adapted result directly; there is no requirement to first build an expensive exact technical clone.
-- Bounded implementation agents may handle responsive mechanics, accessibility, performance, and deterministic engineering only after the key states are locked.
-- Work in patches against the brief; do not rewrite an accepted scene to simplify implementation.
-- When implementation exposes an unplanned change, return to the relevant map/adaptation gate and test that bounded change before continuing. A missing coherent source route returns to admission.
+记录真实墙钟、执行间暂停、工具异常、素材等待、工具准备/修复和返工；共享初始化/优化/清理另计不摊藏在最有利样本。不可将暂停当生产耗时，也不能把技术异常从真实用户体验中抹掉。失败样本进入分母，不用模型自评宣称工业稳定性。
 
-### 6. Full-state audit
-
-Anchor screenshots alone are invalid. The primary audit viewport is 2048 × 912, supplemented by 1440 × 900 and 390 × 844. Inspect:
-
-- every principal state;
-- every transition at 25%, 50%, and 75%;
-- at least four arbitrary desktop progress positions;
-- the first and final mobile screens plus one mid-page state;
-- pointer, keyboard, reduced-motion, navigation, CTA, and signature interaction behavior;
-- console errors, build result, asset loading, and layout overflow.
-
-Create a contact sheet for one-glance comparison. The final scene may not score more than two points below the hero. Any mixed principal scenes, accidental crop, blank filler, broken control, repeated dominant layout, or unsupported mobile composition is a critical failure.
-
-The audit also checks source counterparts and approved adaptations, including the actual losses caused by each substitution and both adjacent transitions. An uncited element or unapproved transition is a critical failure. A documented technical difference alone is not a defect; its actual visual, interaction and usability consequences determine its quality score.
-
-### 7. Release and packaging
-
-Complete the visual QA report and record acceptance of the current source in the collection registry. Prepare the single editable source archive defined in `docs/DOWNLOAD_STANDARD.md` outside publicly served directories. Inspect its entries and verify isolated extraction, installation and build before exposing a new ZIP. Rebuild the selected template, verify the produced ZIP through local HTTP (200, ZIP content type and matching bytes/hash), and generate the collection data from accepted verified artifacts only. Local verification is not evidence of a remote deployment; any actual hosted release also needs a check at its hosted URL.
-
-## Shared webpage score — Webpage Quality v2 (2026-09-06)
-
-Evaluate the source and adapted webpage independently using this same table, weights and scoring scale, at matching viewports and comparable input states. Record source/result scores and evidence side by side, plus the effect of each adaptation. Reviewers score the observable result: the presence of 3D/WebGL earns no automatic points, and its absence carries no automatic penalty. Lost spatial hierarchy or meaningful interaction lowers the relevant dimension; a still rendering that preserves the intended result may qualify.
-
-Historical scores from a different rubric remain historical and cannot establish a same-standard score difference. Source-counterpart fidelity and package completeness are separate pass/fail gates below, because neither can be scored symmetrically on a mother site and a downloadable template.
-
-| Dimension | Weight | Minimum expectation |
-|---|---:|---|
-| Composition and design language | 30 | Proportion, hierarchy, typography, negative space and composition work together with clear visual intent. |
-| Visual authority | 25 | Imagery, typography, color, material, and detail feel authored and premium in every principal state. |
-| Whole-page consistency | 20 | No hero-to-tail decline, filler, repetition, or improvised ending. |
-| Motion and interaction | 10 | Motion belongs to the design and remains pleasant under real input. |
-| Responsive and arbitrary states | 10 | Desktop, mobile, and intermediate positions remain composed. |
-| Webpage usability | 5 | Information is legible and useful, navigation and intended actions are clear, keyboard/accessibility behavior is appropriate. No source-archive requirement applies to the mother. |
-
-Release requires all of the following:
-
-- weighted total of at least 97/100;
-- every principal state at least 95/100;
-- ending no more than two points below the hero;
-- zero critical failures;
-- every required evidence row completed;
-- primary art-director approval before user delivery.
-
-Separate binary gates: all retained elements and adaptations trace to the map; original/licensed distributable materials; required functionality and accessibility; isolated source install/build; one archive with verified entries, bytes/hash and HTTP delivery. The existing registry/packager enforces recorded approval and artifact integrity, not visual scoring. This rubric change alone approves no new page or revised source fingerprint.
-
-Scores document judgment; they never overrule a visible defect. When a frame looks wrong, it fails regardless of arithmetic.
-
-## Efficiency and model allocation
-
-Use the strongest visual model for mother-reference selection, decomposition, key-state composition, visible implementation, and final review. Faster models may perform build checks, archive inspection, responsive diagnostics, accessibility checks, and screenshot collection. They may not add or redesign visible sections.
-
-Keep each template in a fresh task with only its brief, reference map, asset record, QA template, and relevant source files. Do not replay the full collection history. Automate deterministic checks and spend high-capability tokens only at the three visual gates: reference admission, key states, and final contact-sheet review.
-
-Expected production behavior is selective, not exhaustive. Start more reference candidates than the collection needs and reject weak candidates early. A rejected brief is inexpensive; a polished low-quality page is not.
-
-The efficient path is one evidence-backed reconstruction pass, not iterative art direction. Most candidates should be rejected during reference admission; implementation begins only when no visible decision remains for the implementation stage to invent.
+保留批准源码/唯一包、当前合同、紧凑QA和三稿实测；物理删除废弃工程、旧归档/重复ZIP、gate副本、淘汰站截图与无用脚本。参考拒绝知识保留在小索引，避免以长期堆积档案代替进展。每次清理核对001/006批准指纹与ZIP哈希不变。

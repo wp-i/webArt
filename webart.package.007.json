@@ -1,0 +1,39 @@
+{
+  "slug": "campovivo",
+  "version": "0.1.0",
+  "output": "public/campovivo-source.zip",
+  "files": [
+    {
+      "source": "designs/007-campovivo/index.html",
+      "archive": "index.html"
+    },
+    {
+      "source": "designs/007-campovivo/package.json",
+      "archive": "package.json"
+    },
+    {
+      "source": "designs/007-campovivo/package-lock.json",
+      "archive": "package-lock.json"
+    },
+    {
+      "source": "designs/007-campovivo/src",
+      "archive": "src"
+    },
+    {
+      "source": "designs/007-campovivo/public/assets",
+      "archive": "public/assets"
+    },
+    {
+      "source": "designs/007-campovivo/README.md",
+      "archive": "README.md"
+    },
+    {
+      "source": "designs/007-campovivo/LICENSE.md",
+      "archive": "LICENSE.md"
+    },
+    {
+      "source": "designs/007-campovivo/THIRD_PARTY_NOTICES.md",
+      "archive": "THIRD_PARTY_NOTICES.md"
+    }
+  ]
+}

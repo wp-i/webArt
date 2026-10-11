@@ -1,0 +1,45 @@
+{
+  "verifiedAt": "2026-10-10T02:31:41.137Z",
+  "templates": [
+    {
+      "id": "001",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 5810208,
+      "sha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0",
+      "previewPath": "/designs/001-weight-of-light/",
+      "previewStatus": 200,
+      "assetsChecked": 19
+    },
+    {
+      "id": "006",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 10108955,
+      "sha256": "24f4fcdfd87ae69290378c6eccf4d0481ce9d7a49a23b89de4a337c1208f8714",
+      "previewPath": "/designs/006-house-of-ivory/",
+      "previewStatus": 200,
+      "assetsChecked": 9
+    },
+    {
+      "id": "007",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 3253751,
+      "sha256": "1598eae55f082b34c78b2915ebf6a9697fad9302b95345a18f44fb8279df1835",
+      "previewPath": "/designs/007-campovivo/",
+      "previewStatus": 200,
+      "assetsChecked": 5
+    },
+    {
+      "id": "008",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 11330768,
+      "sha256": "be65a74004145f9d51f196c09cda7402f36bd84eca06dd611fc4904103e23cbe",
+      "previewPath": "/designs/008-sill/",
+      "previewStatus": 200,
+      "assetsChecked": 6
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "url": "http://127.0.0.1:4179/#studio",
+  "viewport": [
+    2048,
+    912
+  ],
+  "height": 3747,
+  "overflow": false,
+  "headings": [
+    {
+      "text": "HOUSE\nof\nIVORY",
+      "rect": {
+        "x": 0,
+        "y": 56,
+        "width": 2033,
+        "height": 327.671875
+      },
+      "font": "Inter, Arial, sans-serif",
+      "size": "32px"
+    },
+    {
+      "text": "WE MAKE ROOMS FEEL LIKE YOU.\nTHOUGHTFUL INTERIORS, WITH AN EYE\nFOR THE UNEXPECTED.",
+      "rect": {
+        "x": 596.34375,
+        "y": 1483.640625,
+        "width": 840.296875,
+        "height": 191.578125
+      },
+      "font": "Instrument, Georgia, serif",
+      "size": "62px"
+    },
+    {
+      "text": "SPACES WITH FEELING",
+      "rect": {
+        "x": 12,
+        "y": 1942.71875,
+        "width": 2009,
+        "height": 80.546875
+      },
+      "font": "Instrument, Georgia, serif",
+      "size": "76px"
+    },
+    {
+      "text": "WE’D LOVE TO HEAR\nWHAT FEELS LIKE HOME.",
+      "rect": {
+        "x": 266.234375,
+        "y": 3247.484375,
+        "width": 1500.53125,
+        "height": 123.59375
+      },
+      "font": "Instrument, Georgia, serif",
+      "size": "60px"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://127.0.0.1:4179/assets/hero-salon.png",
+      "alt": "Raspberry velvet sofa beneath a tall arched garden window in an ivory plaster salon",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:4179/assets/project-table.png",
+      "alt": "Walnut dining table and burgundy chairs in an olive green room with raking window light",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:4179/assets/project-blue.png",
+      "alt": "Powder-blue bedroom with ivory linen and a walnut table beside softly lit bedding",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:4179/assets/project-stair.png",
+      "alt": "Butter-yellow sculptural curved staircase above terracotta tiles with geometric sunlight and shadow",
+      "loaded": true
+    }
+  ],
+  "videos": []
+}

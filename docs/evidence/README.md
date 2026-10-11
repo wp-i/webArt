@@ -1,12 +1,7 @@
-# Visual review evidence
+# Internal visual evidence
 
-Full-resolution browser captures are retained in the local production workspace.
-They are excluded from Git to keep source synchronization practical; historical
-review records preserve their exact capture paths and context. This does not
-remove them from disk. Current compact `contact-sheet.jpg` overviews are tracked.
+保留001及006–008的最终默认视口、全页、关键输入状态、连续位置合览、QA运行记录与源码交付回执。选中的母版桌面/手机开场和全页只作内部比较，不进入下载包。
 
-The downloadable templates are fully self-contained and do not depend on these
-internal captures. Their original distributable images remain tracked under each
-template's `public/assets/`. QA reports, reference maps and accepted/rejected
-decisions remain in the repository. New audits can regenerate implementation
-captures from the checked-in source at the documented viewport and scroll offsets.
+连续位置原始图在实际审阅并合为transitions.jpg后删除，避免保存重复大图；runtime记录视口和位置，可按源码重新截图。废弃002–005设计证据与旧归档中的设计文件已删除，拒绝原因保留在当前决策/参考索引；旧归档仍剩23个只读Git文件，删除被自动审批拒绝，见[清理记录](../qa/2026-10-10-cleanup.md)。
+
+原始PNG/JPG保持本地、排除Git；紧凑contact-sheet.jpg、报告和机器记录可同步。客户源码只依赖模板public/assets中的原创媒体和字体。

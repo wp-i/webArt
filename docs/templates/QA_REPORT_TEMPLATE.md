@@ -1,91 +1,75 @@
-# QA report — Design {ID} / {Title}
+# QA — Design {ID} / {Title}
 
-Status: incomplete
+状态：incomplete
 
-## Build identity
+## 身份与范围
 
-- Commit/build identifier:
-- Package version:
-- Mother reference record:
-- Reviewer:
-- Review date:
-- Approved allowlisted source SHA-256:
-- Primary visual reviewer / read-only defect reviewer:
-- Actual browser and observed reduced-motion / pointer settings before emulation:
-- Runnable four-state approval and source-frame comparisons:
-- Shared webpage rubric version and source baseline evidence (do not inherit historical scores from another version):
+- 日期 / 审查人 / 浏览器实际输入与减少动态效果：
+- 版本 / brief / map / assets：
+- 四状态批准：
+- 批准源码指纹：
+- 内部验收还是用户验收：
+- 总体视觉 / 首屏单独评分（用户展示目标95/100；来源必须明确）：
 
-## Visual state matrix
+## 全页证据
 
-| Viewport | State/progress | Screenshot | Score / 100 | Defects |
-|---|---|---|---:|---|
-| 2048 × 912 | Cover |  |  |  |
-| 2048 × 912 | Transition 01 / 25% |  |  |  |
-| 2048 × 912 | Transition 01 / 50% |  |  |  |
-| 2048 × 912 | Transition 01 / 75% |  |  |  |
-| 2048 × 912 | Middle state |  |  |  |
-| 2048 × 912 | Ending |  |  |  |
-| 1440 × 900 | Cover / middle / ending |  |  |  |
-| 390 × 844 | Cover / middle / ending |  |  |  |
+| 视口 | 状态 / 进度 | 证据 | 通过 / 缺陷 |
+|---|---|---|---|
+| 1440×900 | 开场 / 中段 / 收束 | | |
+| 1440×900 | 每段转场 25% / 50% / 75% | | |
+| 1440×900 | 至少四个任意位置 | | |
+| 2048×912 | 宽屏构图 | | |
+| 390×844 | 开场 / 中段 / 收束 / 真实滚动 | | |
+| 320px 宽 | 可读性 / 溢出 | | |
 
-Add rows for every remaining transition and at least four arbitrary desktop progress positions.
+## 控件状态证据（必填）
 
-## Source and adapted-page scores — Webpage Quality v2
+逐项列出全部可见控件，桌面与手机都操作后直接查看。按适用范围填写默认、悬停、键盘聚焦、展开、选中、空结果和异常状态；不适用时写明原因。原生菜单不得豁免。未查看展开后的视觉状态，功能通过也不得标记 QA 完成。
 
-| Dimension | Weight | Source score | Adapted score | Adapted weighted result / evidence |
-|---|---:|---:|---:|---|
-| Composition and design language | 30 | | | |
-| Visual authority | 25 | | | |
-| Whole-page consistency | 20 | | | |
-| Motion and interaction | 10 | | | |
-| Responsive and arbitrary states | 10 | | | |
-| Webpage usability | 5 | | | |
+| 控件 | 实际审查状态 | 桌面 / 手机证据 | 视觉与行为结论 |
+|---|---|---|---|
+| | | | |
 
-- Total:
-- Weakest principal state:
-- Hero-to-ending difference:
-- Critical failures:
+## 动效、文案与素材过程证据
 
-## Adaptation verification (separate from technology similarity)
+- 鼠标实际响应、离开/重入，桌面与触摸/键盘替代：
+- 滚动0/25/50/75/100%、正反方向及停止输入；过程视频/连续帧：
+- 与001的质感和动态完成度差距；不能以菜单/FAQ或淡入数量代替：
+- 任意位置文字可见面积、每段示例用途、删掉长占位文案后内容是否成立：
+- 获取/复用/生成原因与次数、许可核对、桌面/手机裁切、素材细节质量：
 
-| Adjustment | Source role | Final replacement | Visible/functional consequences | Adjacent transitions and mobile | Verdict / evidence |
-|---|---|---|---|---|---|
-| | | | | | |
+## 质量结论
 
-Evaluate the actual result with the shared weights, including any loss of meaningful interaction. Do not award automatic points for 3D or automatically deduct points for static imagery. Source traceability, distributable materials and package validation remain separate binary gates; the mother site need not supply a downloadable ZIP.
+- 未经操作的默认页：用途、主要内容/展示、行动是否直接可见；默认页与母版并排证据：
+- 挖掘时指定的视觉记忆点在桌面、手机及替换后保留多少；对标001的力度和具体差距：
+- 结论区分基本可用与本次惊艳目标；新标杆不可用功能/下载通过覆盖表现力不足：
+- 品牌、文字、字体、素材替换后的视觉差异及影响（不能只写同色/同网格）：
+- 相对参考的构图、字号、间距、图片、配色：
+- 整页一致性 / 每段作用 / 无重复 / 无填充：
+- 开场与收束质量：
+- 内容、修改用途和真实 CTA：
+- 静态、键盘、触摸、实际减少动态效果：
+- 页面错误、资源、溢出和遮挡：
+- 分发素材权利和参考可追溯性：
 
-## Functional checks
+有阻塞视觉或内容表达缺陷必须拒绝，工程通过不能补偿。展示目标95/100，总体视觉与默认首屏分开记录，附扣分证据并明确内评/用户来源；达不到展示目标只保留草稿。先审未经操作的默认页，交互后状态作补充。构建、截图数和自评分不能单独证明质量，内评不能宣称用户验收；旧98+门槛不恢复。
 
-- Pointer and signature interaction:
-- Keyboard and focus behavior:
-- Reduced motion:
-- Real wheel/trackpad traversal, reverse traversal and settled arbitrary frames:
-- Pointer interaction in the user's actual reduced-motion state (do not force it off to obtain a pass):
-- Index/navigation:
-- CTA destination:
-- Console errors:
-- Overflow and asset loading:
+## 交付检查
 
-## Package checks
+- 白名单条目与字节：
+- 独立解压 / 安装 / 构建：
+- 唯一 ZIP 文件 / bytes / SHA-256：
+- HTTP 状态 / 类型 / 预览资源 / 字节哈希：
+- 验证范围：本地或真实部署 URL：
+- 包内无参考站素材、内部文档、旧稿、依赖、构建、密钥：
+- 包说明中的安装、修改和使用步骤：
 
-- Build command/result:
-- Archive filename:
-- Archive bytes:
-- SHA-256:
-- Entry allowlist verified:
-- Extracted clean build verified:
-- HTTP status/content type:
-- Public and production-build byte/hash equality:
-- Verification scope: local or exact hosted URL (do not conflate them):
-- Collection entry, preview route and single download verified:
-- Public inventory excludes rejected, unverified and temporary archives:
+## 效率与决定
 
-## Decision
+- 筛选 / 素材 / 实现 / QA 用时：
+- 模型用量和费用（可取得时）：
+- 素材替换次数 / 返工次数 / 失败阶段：
+- 通过 / 拒绝 / 待补证及具体原因：
+- 审查人 / 日期：
 
-Release only when total is at least 97, every principal state is at least 95, the ending is within two points of the hero, and critical failures equal zero.
-
-- Accepted / rejected:
-- Required cuts or corrections:
-- Art-director signature/date:
-
-Current decision takes precedence over historical scoring. An unresolved visible defect means rejection even when screenshots exist or the arithmetic passes. Record any later rejection at the top, freeze the collection entry, and remove its download from served directories; do not retain a published candidate on the strength of an old score.
+公开合集须登记视觉验收和批准源码指纹；用户自助结果只归个人任务，不自动公开。后来拒绝当前版本时撤掉其公开下载，历史评分不覆盖当前结论。

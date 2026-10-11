@@ -1,0 +1,513 @@
+{
+  "started": "2026-10-09T01:57:01.942Z",
+  "origin": "http://127.0.0.1:4181/",
+  "mode": "full",
+  "viewports": [
+    {
+      "name": "desktop",
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 1883,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Display",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".questions",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        },
+        {
+          "selector": "footer",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "wide",
+      "viewport": [
+        2048,
+        912
+      ],
+      "height": 2111,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Display",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".questions",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        },
+        {
+          "selector": "footer",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "tablet",
+      "viewport": [
+        768,
+        1024
+      ],
+      "height": 1837,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Display",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".questions",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        },
+        {
+          "selector": "footer",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "height": 1770,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Display",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".questions",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        },
+        {
+          "selector": "footer",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "narrow",
+      "viewport": [
+        320,
+        844
+      ],
+      "height": 1715,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Display",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".questions",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        },
+        {
+          "selector": "footer",
+          "visible": true
+        }
+      ]
+    }
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "y": 916
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "y": 511
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "y": 983
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "y": 922
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "y": 542
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "y": 926
+    }
+  ],
+  "transitions": [
+    {
+      "viewport": "desktop",
+      "boundary": ".hero",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".hero",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".hero",
+      "fraction": 0.75,
+      "y": 41
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".questions",
+      "fraction": 0.25,
+      "y": 241
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".questions",
+      "fraction": 0.5,
+      "y": 466
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".questions",
+      "fraction": 0.75,
+      "y": 691
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#contact",
+      "fraction": 0.25,
+      "y": 815
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#contact",
+      "fraction": 0.5,
+      "y": 983
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#contact",
+      "fraction": 0.75,
+      "y": 983
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "footer",
+      "fraction": 0.25,
+      "y": 983
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "footer",
+      "fraction": 0.5,
+      "y": 983
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "footer",
+      "fraction": 0.75,
+      "y": 983
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".hero",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".hero",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".hero",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".questions",
+      "fraction": 0.25,
+      "y": 289
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".questions",
+      "fraction": 0.5,
+      "y": 500
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".questions",
+      "fraction": 0.75,
+      "y": 711
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#contact",
+      "fraction": 0.25,
+      "y": 742
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#contact",
+      "fraction": 0.5,
+      "y": 926
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#contact",
+      "fraction": 0.75,
+      "y": 926
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "footer",
+      "fraction": 0.25,
+      "y": 926
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "footer",
+      "fraction": 0.5,
+      "y": 926
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "footer",
+      "fraction": 0.75,
+      "y": 926
+    }
+  ],
+  "arbitrary": [
+    {
+      "viewport": "desktop",
+      "fraction": 0.14,
+      "y": 138
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.37,
+      "y": 364
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.61,
+      "y": 600
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.84,
+      "y": 826
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.14,
+      "y": 130
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.37,
+      "y": 343
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.61,
+      "y": 565
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.84,
+      "y": 778
+    }
+  ],
+  "checks": {
+    "desktopWheel": true,
+    "mobileWheel": true,
+    "links": [
+      {
+        "href": "#experience",
+        "valid": true
+      },
+      {
+        "href": "mailto:hello@example.com?subject=Campovivo%20experience",
+        "valid": true
+      },
+      {
+        "href": "mailto:hello@example.com?subject=Campovivo%20experience",
+        "valid": true
+      },
+      {
+        "href": "#experience",
+        "valid": true
+      },
+      {
+        "href": "mailto:hello@example.com",
+        "valid": true
+      }
+    ],
+    "disclosures": 4,
+    "keyboard": true,
+    "reduced": true,
+    "noScript": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 2012,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Display",
+          "status": "loaded"
+        },
+        {
+          "family": "Editorial",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".questions",
+          "visible": true
+        },
+        {
+          "selector": "#contact",
+          "visible": true
+        },
+        {
+          "selector": "footer",
+          "visible": true
+        }
+      ]
+    },
+    "touch": [
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      }
+    ],
+    "touchScroll": 506
+  },
+  "errors": [],
+  "result": "passed-observable-checks",
+  "finished": "2026-10-09T01:57:16.066Z"
+}

@@ -1,0 +1,78 @@
+{
+  "url": "http://127.0.0.1:4173/designs/006-house-of-ivory/#studio",
+  "viewport": [
+    390,
+    844
+  ],
+  "height": 3712,
+  "overflow": false,
+  "headings": [
+    {
+      "text": "HOUSE\nof\nIVORY",
+      "rect": {
+        "x": 0,
+        "y": 62,
+        "width": 390,
+        "height": 84
+      },
+      "font": "Inter, Arial, sans-serif",
+      "size": "32px"
+    },
+    {
+      "text": "WE MAKE ROOMS FEEL LIKE YOU.\nTHOUGHTFUL INTERIORS, WITH AN EYE FOR THE UNEXPECTED.",
+      "rect": {
+        "x": 25,
+        "y": 983.703125,
+        "width": 340,
+        "height": 89.578125
+      },
+      "font": "Instrument, Georgia, serif",
+      "size": "29px"
+    },
+    {
+      "text": "SPACES WITH FEELING",
+      "rect": {
+        "x": 50,
+        "y": 1309.5,
+        "width": 290,
+        "height": 40.265625
+      },
+      "font": "Instrument, Georgia, serif",
+      "size": "38px"
+    },
+    {
+      "text": "WE’D LOVE TO HEAR\nWHAT FEELS LIKE HOME.",
+      "rect": {
+        "x": 24,
+        "y": 3279.75,
+        "width": 342,
+        "height": 74.15625
+      },
+      "font": "Instrument, Georgia, serif",
+      "size": "36px"
+    }
+  ],
+  "images": [
+    {
+      "src": "http://127.0.0.1:4173/designs/006-house-of-ivory/assets/hero-salon.png",
+      "alt": "Raspberry velvet sofa beneath a tall arched garden window in an ivory plaster salon",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:4173/designs/006-house-of-ivory/assets/project-table.png",
+      "alt": "Walnut dining table and burgundy chairs in an olive green room with raking window light",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:4173/designs/006-house-of-ivory/assets/project-blue.png",
+      "alt": "Powder-blue bedroom with ivory linen and a walnut table beside softly lit bedding",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:4173/designs/006-house-of-ivory/assets/project-stair.png",
+      "alt": "Butter-yellow sculptural curved staircase above terracotta tiles with geometric sunlight and shadow",
+      "loaded": true
+    }
+  ],
+  "videos": []
+}

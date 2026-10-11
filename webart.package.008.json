@@ -1,0 +1,39 @@
+{
+  "slug": "sill",
+  "version": "0.1.0",
+  "output": "public/sill-source.zip",
+  "files": [
+    {
+      "source": "designs/008-sill/index.html",
+      "archive": "index.html"
+    },
+    {
+      "source": "designs/008-sill/package.json",
+      "archive": "package.json"
+    },
+    {
+      "source": "designs/008-sill/package-lock.json",
+      "archive": "package-lock.json"
+    },
+    {
+      "source": "designs/008-sill/src",
+      "archive": "src"
+    },
+    {
+      "source": "designs/008-sill/public/assets",
+      "archive": "public/assets"
+    },
+    {
+      "source": "designs/008-sill/README.md",
+      "archive": "README.md"
+    },
+    {
+      "source": "designs/008-sill/LICENSE.md",
+      "archive": "LICENSE.md"
+    },
+    {
+      "source": "designs/008-sill/THIRD_PARTY_NOTICES.md",
+      "archive": "THIRD_PARTY_NOTICES.md"
+    }
+  ]
+}

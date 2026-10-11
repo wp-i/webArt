@@ -1,0 +1,409 @@
+{
+  "started": "2026-10-11T07:54:15.245Z",
+  "checks": {
+    "removedControlsAndLegacyParameters": true,
+    "returnRestores": {
+      "url": "/",
+      "scroll": 68
+    },
+    "keyboardAndDisclosure": true,
+    "touchViewports": [
+      {
+        "width": 390,
+        "trustedTouch": true,
+        "legacyParametersIgnored": true,
+        "preview": "006"
+      },
+      {
+        "width": 320,
+        "trustedTouch": true,
+        "legacyParametersIgnored": true,
+        "preview": "006"
+      }
+    ],
+    "invalidPreview": true,
+    "noScript": true,
+    "trustedTouch": true
+  },
+  "previews": [
+    {
+      "id": "001",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            }
+          ],
+          "title": "The Weight of Light"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            }
+          ],
+          "title": "The Weight of Light"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            }
+          ],
+          "title": "The Weight of Light"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "006",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Dela",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument",
+              "status": "loaded"
+            },
+            {
+              "family": "Inter",
+              "status": "loaded"
+            }
+          ],
+          "title": "House of Ivory — Interiors with feeling"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Dela",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument",
+              "status": "loaded"
+            },
+            {
+              "family": "Inter",
+              "status": "loaded"
+            }
+          ],
+          "title": "House of Ivory — Interiors with feeling"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Dela",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument",
+              "status": "loaded"
+            },
+            {
+              "family": "Inter",
+              "status": "loaded"
+            }
+          ],
+          "title": "House of Ivory — Interiors with feeling"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "007",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Display",
+              "status": "loaded"
+            },
+            {
+              "family": "Editorial",
+              "status": "loaded"
+            }
+          ],
+          "title": "Campovivo — From field to table"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Display",
+              "status": "loaded"
+            },
+            {
+              "family": "Editorial",
+              "status": "loaded"
+            }
+          ],
+          "title": "Campovivo — From field to table"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Display",
+              "status": "loaded"
+            },
+            {
+              "family": "Editorial",
+              "status": "loaded"
+            }
+          ],
+          "title": "Campovivo — From field to table"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "008",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Studio",
+              "status": "loaded"
+            }
+          ],
+          "title": "Sill. — Considered homes, carefully built"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Studio",
+              "status": "loaded"
+            }
+          ],
+          "title": "Sill. — Considered homes, carefully built"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Studio",
+              "status": "loaded"
+            }
+          ],
+          "title": "Sill. — Considered homes, carefully built"
+        }
+      ],
+      "mobileToolbar": "passed"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "001",
+      "bytes": 5810208,
+      "sha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0",
+      "nativeClick": true
+    },
+    {
+      "id": "006",
+      "bytes": 10108955,
+      "sha256": "24f4fcdfd87ae69290378c6eccf4d0481ce9d7a49a23b89de4a337c1208f8714",
+      "nativeClick": true
+    },
+    {
+      "id": "007",
+      "bytes": 3253751,
+      "sha256": "1598eae55f082b34c78b2915ebf6a9697fad9302b95345a18f44fb8279df1835",
+      "nativeClick": true
+    },
+    {
+      "id": "008",
+      "bytes": 11330768,
+      "sha256": "be65a74004145f9d51f196c09cda7402f36bd84eca06dd611fc4904103e23cbe",
+      "nativeClick": true
+    }
+  ],
+  "errors": [],
+  "currentPreview": {
+    "id": "008",
+    "device": "mobile",
+    "width": 390,
+    "overflow": false,
+    "missing": 0,
+    "fonts": [
+      {
+        "family": "Studio",
+        "status": "loaded"
+      }
+    ],
+    "title": "Sill. — Considered homes, carefully built"
+  },
+  "result": "passed",
+  "finished": "2026-10-11T07:54:27.576Z"
+}

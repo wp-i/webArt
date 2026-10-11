@@ -1,14 +1,17 @@
 [CmdletBinding()]
 param(
   [string]$ManifestPath = "webart.package.json",
-  [string]$StagePath = ""
+  [string]$StagePath = "",
+  [switch]$Trial
 )
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 $taskWorkspacePath = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot ".."))
 $collectionScript = Join-Path $PSScriptRoot "collection.mjs"
-$validatedJson = & node $collectionScript files-manifest $ManifestPath
+if ($Trial -and -not $StagePath) { throw "Private trial packaging requires a system-temp StagePath." }
+$filesCommand = if ($Trial) { "trial-files-manifest" } else { "files-manifest" }
+$validatedJson = & node $collectionScript $filesCommand $ManifestPath
 if ($LASTEXITCODE -ne 0) { throw "Template approval/source gate failed; no archive was written." }
 $validated = ($validatedJson -join "`n") | ConvertFrom-Json
 $packageConfig = $validated.config
@@ -39,8 +42,8 @@ try {
   finally { $archive.Dispose() }
 
   # Verify the exact approved bytes and a clean build while the ZIP is still private.
-  & (Join-Path $PSScriptRoot "verify-package.ps1") -ManifestPath $ManifestPath -ArchivePath $temporaryArchivePath
-  & node $collectionScript check-manifest $ManifestPath
+  & (Join-Path $PSScriptRoot "verify-package.ps1") -ManifestPath $ManifestPath -ArchivePath $temporaryArchivePath -Trial:$Trial
+  $null = & node $collectionScript $filesCommand $ManifestPath
   if ($LASTEXITCODE -ne 0) { throw "Approved source changed during packaging." }
   $outputDirectory = Split-Path -Parent $outputPath
   if (-not (Test-Path -LiteralPath $outputDirectory -PathType Container)) { throw "Output directory does not exist: $outputDirectory" }

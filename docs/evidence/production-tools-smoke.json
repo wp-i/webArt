@@ -1,0 +1,171 @@
+{
+  "checkedAt": "2026-10-09T20:01:04.975Z",
+  "referenceSkip": {
+    "result": "skipped-known-rejection",
+    "source": "https://focalglow.co/",
+    "browserConnected": false
+  },
+  "referenceQuick": {
+    "url": "http://127.0.0.1:4183/",
+    "title": "Sill. — Considered homes, carefully built",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 2149,
+    "images": 4,
+    "videos": 0,
+    "canvas": 0,
+    "headings": [
+      "Considered homes, carefully built.",
+      "Tell us what you have in mind."
+    ],
+    "recheckReason": null,
+    "mode": "quick"
+  },
+  "qaFailure": {
+    "started": "2026-10-09T19:57:19.125Z",
+    "origin": "http://127.0.0.1:4183/",
+    "mode": "gate",
+    "viewports": [],
+    "states": [],
+    "transitions": [],
+    "arbitrary": [],
+    "checks": {},
+    "errors": [],
+    "result": "failed",
+    "failure": "Browser connection unavailable; restore the task browser and retry",
+    "finished": "2026-10-09T19:57:19.142Z"
+  },
+  "qaGoodGate": {
+    "started": "2026-10-09T19:58:02.149Z",
+    "origin": "http://127.0.0.1:4183/",
+    "mode": "gate",
+    "viewports": [
+      {
+        "name": "desktop",
+        "viewport": [
+          1440,
+          900
+        ],
+        "height": 2149,
+        "overflow": false,
+        "missing": 0,
+        "fonts": [
+          {
+            "family": "Studio",
+            "status": "loaded"
+          }
+        ],
+        "clipped": [],
+        "scenes": [
+          {
+            "selector": ".hero",
+            "visible": true
+          },
+          {
+            "selector": ".profile",
+            "visible": true
+          },
+          {
+            "selector": ".projects",
+            "visible": true
+          },
+          {
+            "selector": "#contact",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "name": "mobile",
+        "viewport": [
+          390,
+          844
+        ],
+        "height": 2938,
+        "overflow": false,
+        "missing": 0,
+        "fonts": [
+          {
+            "family": "Studio",
+            "status": "loaded"
+          }
+        ],
+        "clipped": [],
+        "scenes": [
+          {
+            "selector": ".hero",
+            "visible": true
+          },
+          {
+            "selector": ".profile",
+            "visible": true
+          },
+          {
+            "selector": ".projects",
+            "visible": true
+          },
+          {
+            "selector": "#contact",
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "states": [
+      {
+        "viewport": "desktop",
+        "state": "opening",
+        "y": 0
+      },
+      {
+        "viewport": "desktop",
+        "state": "middle",
+        "y": 900
+      },
+      {
+        "viewport": "desktop",
+        "state": "transition",
+        "y": 495
+      },
+      {
+        "viewport": "desktop",
+        "state": "ending",
+        "y": 1249
+      },
+      {
+        "viewport": "mobile",
+        "state": "opening",
+        "y": 0
+      },
+      {
+        "viewport": "mobile",
+        "state": "middle",
+        "y": 591
+      },
+      {
+        "viewport": "mobile",
+        "state": "transition",
+        "y": 211
+      },
+      {
+        "viewport": "mobile",
+        "state": "ending",
+        "y": 2094
+      }
+    ],
+    "transitions": [],
+    "arbitrary": [],
+    "checks": {},
+    "errors": [],
+    "result": "passed-observable-checks",
+    "finished": "2026-10-09T19:58:12.392Z"
+  },
+  "regression": {
+    "tests": 11,
+    "passed": 11,
+    "failed": 0
+  },
+  "releaseReceipt": ".webart/releases/latest.json"
+}

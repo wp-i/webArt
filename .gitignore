@@ -10,6 +10,7 @@ dist/
 /docs/evidence/**/*.png
 /docs/evidence/**/*.jpg
 !/docs/evidence/**/contact-sheet.jpg
+/docs/evidence/**/*.cpuprofile
 *.log
 *.tmp
 *.temp

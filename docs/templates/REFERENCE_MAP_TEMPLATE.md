@@ -1,130 +1,54 @@
 # Reference map — Design {ID} / {Title}
 
-Status: incomplete
+状态：incomplete
 
-## Candidate decision row
+## 来源与可复刻性
 
-| Batch / candidate | Verified URL | Intended template use | Evidence paths | Continuous route | Direct reproduction or adaptation plan | Asset substitution feasible? | Outcome / reason |
-|---|---|---|---|---|---|---|---|
-| | | | | | | | evidence-needed |
+- 核验 URL / 日期 / 桌面与移动视口：
+- 候选批次：
+- 正常鼠标与滚动过程 / 减少动态时完整构图；实际过程证据：
+- 所需技术（HTML/CSS/普通媒体/轻 JS）：
+- 素材数量、摄影/材质获取来源、模板分发许可和裁切可行性；须生成时的原因：
+- 1–5 屏路径与真实结尾：
+- 原生滚动、轻交互和移动端：
+- 准入结论 / 审查人：
 
-Outcomes: admitted, rejected, evidence-needed. Complete existing rows before broadening search. Maximum six quick candidates and three detailed inspections per batch. A high cover score or a directory of screenshots alone is not admission. Evidence-needed does not authorize implementation.
+存在核心 3D、电影视频、滚动导演或难以替换的素材时拒绝，不填写“稍后降级”。
 
-## Mother reference evidence
+## 设计与内容对应
 
-- URL:
-- Inspected on:
-- Inspection viewport:
-- Qualification score / 100:
-- Shared rubric version (Webpage Quality v2); external award score recorded separately:
-- Why it qualifies as 98+:
-- Internal screenshot or recording paths:
-- Selected states are contiguous?:
-- Every actual transition directly observed?:
-- Principal source of authority:
-- Reproduced directly or adapted with planned stack?:
-- Highest-risk adjustment and bounded prototype:
+| 原站状态 / 元素 | 构图、排版、留白 | 实际转场与输入 | 品牌 / 文案 / 素材替换 | 桌面与移动证据 |
+|---|---|---|---|---|
+| 开场 | | | | |
+| 中段 | | | | |
+| 收束 | | | | |
 
-## Global grammar
+- 保留项：
+- 整段删减及其理由：
+- 删除后路径为何直接成立：
+- 必要局部调整和对应角色：
+- 禁止添加的界面、装饰、转场或结尾：
+- 默认静态视觉记忆点（具体位置、比例、构图关系）：
+- 具体素材/品牌替换和手机如何保留；对标001的视觉力度与差距（不要求同风格）：
+- 中段、收束的密度/尺度变化，避免仅开场突出：
+- 95展示目标与首屏单独判断；具体差异和扣分证据；内部 / 用户来源：
 
-- Page progression:
-- Density curve:
-- Negative-space strategy:
-- Type hierarchy:
-- Fixed interface:
-- Motion and input model:
-- Ending strategy:
+源站真实交接和删除后的本地交接分别记录；各转场检查 25% / 50% / 75%，不可从远处漂亮截图推断连续路径。
 
-## Selected moment 01 — Cover
+## 四个可运行审查状态
 
-- Reference state:
-- Dominant geometry:
-- Image/text ratio:
-- Interaction:
-- Original substitution:
-- Elements omitted:
-- Planned visible counterparts:
+| 审查状态 | 源站证据 / 视口 | 本地可运行状态 | 字体、内容、图片和实际行为 | 结论 / 缺陷 |
+|---|---|---|---|---|
+| 开场 | | | | |
+| 中段 | | | | |
+| 过渡 | | | | |
+| 收束 | | | | |
 
-## Selected moment 02 — Transition
+四状态不等于四章；素材图不算页面。批准前不全面实现。
+- 素材计划：
+- 不再需要实现阶段发明的视觉决定：
+- 内部批准 / 审查人 / 日期：
 
-- Reference state:
-- Dominant geometry:
-- Image/text ratio:
-- Interaction:
-- Original substitution:
-- Elements omitted:
-- Planned visible counterparts:
+## 权利边界
 
-## Selected moment 03 — Primary state
-
-- Reference state:
-- Dominant geometry:
-- Image/text ratio:
-- Interaction:
-- Original substitution:
-- Elements omitted:
-- Planned visible counterparts:
-
-## Selected moment 04 — Ending (or moment 03 for a three-moment excerpt)
-
-- Reference state:
-- Dominant geometry:
-- Image/text ratio:
-- Interaction:
-- Original substitution:
-- Elements omitted:
-- Planned visible counterparts:
-
-## Transition map
-
-Document the source handoff between each selected moment at 25%, 50% and 75%, its coordinate system, outgoing/incoming order, fixed interface and input behavior. Record any local adaptation and its tested final handoff separately. Do not infer a missing source route from distant attractive frames.
-
-## Counterpart ledger
-
-List every visible element and its source counterpart or approved local adaptation tied to a source role. An unrecorded deviation fails admission; a recorded technical simplification is evaluated by its actual result under the shared rubric.
-
-## Adaptation ledger
-
-| Source role / behavior | Retain or replace with | Reason / work saved | Quality or usability risk | Affected states / transitions | Runnable proof | Verdict / reviewer |
-|---|---|---|---|---|---|---|
-| | | | | | | |
-
-Test the highest-risk substitution before full implementation. Example: 3D to original static rendering must be judged in the final composition, responsive crop and adjacent handoffs. No prior exact 3D implementation is required.
-
-- Protected identity replaced:
-- Copy replaced and reduced without changing typographic mass:
-- Assets replaced in the same roles:
-- Independent implementation planned:
-- Responsive accommodation required:
-- Local layout/transition adjustments required by substitutions:
-- Unrelated sections, decorations or padding added: none
-
-## Unsupported-element ledger
-
-List tempting additions that are explicitly forbidden for this template, including any invented header state, bridge, CTA, cursor label, chapter marker, decorative path or ending treatment.
-
-## Rights boundary
-
-- Original identity:
-- Original assets:
-- Original copy:
-- Original implementation:
-- Reference elements explicitly forbidden from distribution:
-
-## Admission decision
-
-- Accepted or rejected:
-- Reason:
-- Missing visual decisions remaining for implementation (must be none if accepted):
-- Art-director signature/date:
-
-## Runnable key-state approval — required after original substitution
-
-| Review state | Source evidence / viewport | Runnable local state | Typography and fixed interface | Essential input behavior | Verdict / defect |
-|---|---|---|---|---|---|
-| Cover | | | | | |
-| Middle | | | | | |
-| Transition | | | | | |
-| Ending | | | | | |
-
-These are four review states, not necessarily four chapters. Use the intended final substitutions. Image masters alone cannot pass. Record source/result quality using the same rubric and the reviewer/date; missing source scope or unresolved adaptation returns to its gate before full implementation.
+原创身份、文字和实现；原图来源与分发权利；字体/库通知；不得分发的参考站品牌、文案、截图、媒体和代码。

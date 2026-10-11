@@ -1,0 +1,40 @@
+{
+  "verifiedAt": "2026-10-08T19:49:21.692Z",
+  "templates": [
+    {
+      "id": "006",
+      "mode": "packaged",
+      "bytes": 10108955,
+      "sha256": "24f4fcdfd87ae69290378c6eccf4d0481ce9d7a49a23b89de4a337c1208f8714",
+      "approvedSourceSha256": "bc7bccc337e0006d85221c5bcaea996a5b54735b5d08503d826b08c7e8d8fe94",
+      "cleanInstall": "passed",
+      "cleanBuild": "passed"
+    }
+  ],
+  "publicAudit": {
+    "archivesChecked": 4,
+    "accepted": 2
+  },
+  "localHttpDelivery": [
+    {
+      "id": "001",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 5810208,
+      "sha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0",
+      "previewPath": "/",
+      "previewStatus": 200,
+      "assetsChecked": 18
+    },
+    {
+      "id": "006",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 10108955,
+      "sha256": "24f4fcdfd87ae69290378c6eccf4d0481ce9d7a49a23b89de4a337c1208f8714",
+      "previewPath": "/designs/006-house-of-ivory/",
+      "previewStatus": 200,
+      "assetsChecked": 11
+    }
+  ]
+}

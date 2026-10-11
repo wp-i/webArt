@@ -1,0 +1,54 @@
+{
+  "verifiedAt": "2026-10-11T07:58:06.221Z",
+  "sha256": "a4b9ce2124f50d4f80c86972caaffccca04dade2d1082325f09c37609e3e43dc",
+  "files": [
+    "index.html",
+    "preview.html",
+    "gallery/styles.css",
+    "gallery/main.js",
+    "gallery/preview.css",
+    "gallery/preview.js",
+    "vite.config.js",
+    "webart.showcase.json",
+    "scripts/showcase.mjs",
+    "public/collection/001-small.webp",
+    "public/collection/001.webp",
+    "public/collection/006-small.webp",
+    "public/collection/006.webp",
+    "public/collection/007-small.webp",
+    "public/collection/007.webp",
+    "public/collection/008-small.webp",
+    "public/collection/008.webp",
+    "package.json",
+    "scripts/collection.mjs",
+    "scripts/release-collection.mjs",
+    "webart.collection.json",
+    "public/collection/favicon.svg",
+    "public/collection/fonts/manrope.woff2",
+    "public/collection/fonts/manrope-OFL.txt"
+  ],
+  "templates": [
+    {
+      "id": "001",
+      "sourceSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+      "unchanged": true
+    },
+    {
+      "id": "006",
+      "sourceSha256": "bc7bccc337e0006d85221c5bcaea996a5b54735b5d08503d826b08c7e8d8fe94",
+      "unchanged": true
+    },
+    {
+      "id": "007",
+      "sourceSha256": "24fbb2470867e4e4350cc44ee75cfb52e719746b0c8313648ecdf613eb51116d",
+      "unchanged": true
+    },
+    {
+      "id": "008",
+      "sourceSha256": "9553f99f26d612ec00e55d30ed9ce6031733df669c69d14469c8f8036d8a5fed",
+      "unchanged": true
+    }
+  ],
+  "previousSha256": "0eec38b4165ef04622de708ea14216ba2da980256aa9f4e7ede24af54f51aeb3",
+  "fingerprintAlgorithm": "sha256-length-prefixed-path-and-bytes-v1"
+}
