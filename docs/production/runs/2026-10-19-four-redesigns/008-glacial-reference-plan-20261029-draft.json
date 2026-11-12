@@ -1,0 +1,126 @@
+{
+  "id": "008",
+  "status": "reference-review-preparation",
+  "brief": "docs/pages/008-glacial-forms.md",
+  "referenceMap": "docs/references/008-glacial-forms.md",
+  "assetPlan": {
+    "record": "docs/assets/008-glacial-forms.md",
+    "rightsVerified": false,
+    "replacementCompared": false
+  },
+  "referenceCapture": {
+    "url": "https://www.igloo.inc/",
+    "output": "docs/evidence/redo-v2/2026-10-29/008-igloo-reference-01"
+  },
+  "referenceObservation": "母版为实际打开并观察的Igloo Inc.；2026-10-28的43幅原生过程保留在igloo-native-01/capture.json，2026-10-29补证记录igloo-observe-02/observation.json在本草案读取时仍为running。动作名称、截图数量和新标签不自动证明作品打开、粒子选择或减少动态过程有效；正式参考八状态及全部过程仍须实际看图核验。上述来源只提供内部视觉证据，不提供最终素材、模型、代码或字体的分发批准。",
+  "preparationNotes": [
+    "referenceCapture.output是下一份正式规范化采证的预留路径；本草案不声称该目录或通过记录已经存在，不覆盖原始观察文件。",
+    "本文件只准备参考审查，不是locked计划、参考准入、素材准入或用户视觉验收；不启动采证、模型审核、试片创建、完整实施、打包或发布。",
+    "四状态按真实正向观看顺序排列：opening冰构建筑，transition冻结作品到达与观看，middle断开的冰质空间开口，ending体积粒子作品与联系行动。来源循环边界单独记录，不能把回到开场当作正向结尾。",
+    "subjectSelectors仅预留未来候选的可读HTML场景与.visual主体接口，不声称源站封装渲染层含有这些选择器；源站八状态须由真实输入和实际画面确认。",
+    "transition至ending的同一作品身份是新版原创作品的明确提案要求；参考审查还须核实源站冻结内件与对应末段体积目标的实际身份联系，未经成对画面确认不得标为已保留。",
+    "拟采用有限原生文档并停在独立收束；该来源差异、两件原创作品及三个独立体积目标均须后续素材与真实试片比较，不提前宣布无损。"
+  ],
+  "coreSignatures": [
+    {
+      "name": "pointer-lifted-ice-construction",
+      "visualPurpose": "雪地中的具体冰构建筑先建立空间尺度，真实指针靠近时局部部件抬升并显露内光，使冰的厚度、霜面、接缝与内部空间成为被观看的对象；手机须以明确触摸保留同一观看作用。"
+    },
+    {
+      "name": "frozen-work-spatial-viewing",
+      "visualPurpose": "由外部空间进入两件具有不同冰形和具体内件的冻结作品，冰壳破口、折射与内部物件保持可辨纵深，真实到达、选择、观看和返回共同推进作品观看，不以静态产品卡或普通图片放大取代。"
+    },
+    {
+      "name": "broken-ice-spatial-aperture",
+      "visualPurpose": "分解的冰质开口在连续正反输入中组织成可穿行的空间交接，外冰、内表面、光源和观看尺度连续变化并保持材料身份，停止与重新进入仍有具体主体，不以白色遮罩或统一淡入替代。"
+    },
+    {
+      "name": "volumetric-work-contact-resolution",
+      "visualPurpose": "末段以完整体积粒子作品形成独立收束，指针或触摸实际引起分散、回归及不同作品形态的交接，选择与联系行动具有对应作用；其中一件目标须延续冻结内件的可辨作品身份，不以粒子数量或平面图标充数。"
+    }
+  ],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "具体冰构建筑与有限雪地构成默认主要观看对象，冰块的组织、入口与内光具有空间身份，不能先以宣言、导航或普通发光盒子占据首屏。",
+        "material": "冰的厚度、倒角、不同尺度霜面和内光透射须与雪地接触共同成立，指针抬升后仍可辨内外表面与真实接缝，不用噪点或暗色掩盖普通几何。",
+        "composition": "建筑、雪地、微小测量标签与简短身份形成有比例的完整空间，手机须独立安排主体尺度及接触面，不能只裁去建筑或将对象缩为文字旁的小装饰。",
+        "role": "默认静止已显示空间和材料研究主题，指针或明确触摸进一步揭示部件与内部光线；进入、离开、返回和减少动态均须保持可理解的当前建筑状态。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-opening .visual",
+            "minimumViewportArea": 0.45,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "正向进入冻结作品的观看状态，两件不同冰形包裹各自可辨的具体内件，当前作品的轮廓、破口与短标签须清楚，不能变成三张同节奏静态产品卡。",
+        "material": "外冰的折射、霜化、透明厚度与内部作品材质同时可辨，破口提供真实纵深与光线变化；不能用统一玻璃球、模糊内件或强发光消除作品区别。",
+        "composition": "由建筑外部进入作品近看时，冰壳边界、内部物件及少量标记共同组织主要构图，手机保留完整辨识轮廓与直接观看入口，不依靠桌面悬停显示内容。",
+        "role": "真实原生输入到达并改变被冻结作品的观看，打开、观看、返回、停止和重复进入须有实际证据；此处还需建立可在末段体积目标中认出的同一作品特征。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-transition .visual",
+            "minimumViewportArea": 0.4,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "断开的冰质表面组织成具有内外关系和可穿行深度的空间开口，开口边缘、断片及其内部光线共同成为当前主体，不重复首屏建筑或冻结作品卡片。",
+        "material": "开口的内外表面须保持冰的厚度、断裂、霜面与透光层次，光线沿空间深度交接；普通圆环、表面噪声或纯白遮罩不能承担材料与空间品质。",
+        "composition": "具有纵深的开口控制视线穿越方向，断片、中心空间与前后尺度形成完整构图；手机须重新组织入口和可见边缘，避免只见环形局部或过场黑白空屏。",
+        "role": "连续正向、反向输入真正推进进入与离开冰质空间，停止和再次进入仍能辨认当前材料及观看位置；此段承担作品与末段之间的真实交接，不以统一淡入代替。",
+        "visibleCharacters": {
+          "desktop": 160,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-middle .visual",
+            "minimumViewportArea": 0.4,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "独立完整的体积粒子作品成为最后主要观看对象，至少一个对应目标保留前段冻结内件的可辨作品身份，其他形态各有独立空间特征，联系行动具有具体对应。",
+        "material": "粒子组织须表达体积、内部密度、表面与空间光线，停止后主体仍精确可认；不能将平面图标撒点、复制源企鹅或提高粒子数量视为材料工艺已经成立。",
+        "composition": "粒子作品、有限形态选择与短联系共同形成区别于冰构开场的完整收束，手机保留足够体积与直接操控空间，不被导航遮挡，不退为通用文字邮箱页脚。",
+        "role": "指针与真实触摸能够使作品分散、回归并在不同体积目标之间交接，选择、返回、停止与减少动态均有清楚结果；新版拟在此有限收束，来源循环差异仍须试片核验。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-ending .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": [
+      {
+        "id": "featured-work-frozen-to-volume",
+        "identity": "参考审查须先以源站成对实图确认冻结作品内件与对应末段粒子目标的可辨身份联系；新版提案要求同一原创作品的轮廓、关键部件和比例在冻结内件与体积粒子目标中连续可认，不能凭同色或通用形状宣布身份已保留。",
+        "states": [
+          "transition",
+          "ending"
+        ],
+        "signature": "volumetric-work-contact-resolution"
+      }
+    ]
+  }
+}

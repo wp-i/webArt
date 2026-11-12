@@ -1,0 +1,10 @@
+{
+  "stage": "asset-study-only",
+  "referenceAdmission": ".webart/prototypes/007-campo-object-study-20261017/reference-admission.json",
+  "modelFiles": [
+    "coaster-high.obj",
+    "hand-right.glb"
+  ],
+  "imageGenerationCalls": 0,
+  "visualAcceptance": "pending-actual-render"
+}

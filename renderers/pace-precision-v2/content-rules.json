@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "totalCharacters": 600,
+  "fields": {
+    "brand": {
+      "editable": true,
+      "charset": "basic-latin",
+      "maxCharacters": 8,
+      "lines": 1,
+      "maxLineCharacters": 8
+    },
+    "study-label": {
+      "editable": false
+    },
+    "explore-label": {
+      "editable": false
+    },
+    "hero-title": {
+      "editable": true,
+      "charset": "basic-latin",
+      "maxCharacters": 29,
+      "lines": 2,
+      "maxLineCharacters": 16
+    },
+    "hero-note": {
+      "editable": true,
+      "charset": "basic-latin",
+      "maxCharacters": 45,
+      "lines": 1,
+      "maxLineCharacters": 45
+    },
+    "mechanism-title": {
+      "editable": true,
+      "charset": "basic-latin",
+      "maxCharacters": 29,
+      "lines": 2,
+      "maxLineCharacters": 16
+    },
+    "mechanism-note": {
+      "editable": true,
+      "charset": "basic-latin",
+      "maxCharacters": 45,
+      "lines": 1,
+      "maxLineCharacters": 45
+    },
+    "matrix-title": {
+      "editable": true,
+      "charset": "basic-latin",
+      "maxCharacters": 29,
+      "lines": 2,
+      "maxLineCharacters": 16
+    },
+    "matrix-note": {
+      "editable": true,
+      "charset": "basic-latin",
+      "maxCharacters": 45,
+      "lines": 1,
+      "maxLineCharacters": 45
+    },
+    "spring-title": {
+      "editable": true,
+      "charset": "basic-latin",
+      "maxCharacters": 29,
+      "lines": 2,
+      "maxLineCharacters": 16
+    },
+    "spring-note": {
+      "editable": true,
+      "charset": "basic-latin",
+      "maxCharacters": 45,
+      "lines": 1,
+      "maxLineCharacters": 45
+    },
+    "release-label": {
+      "editable": false
+    },
+    "back-label": {
+      "editable": false
+    },
+    "drag-label": {
+      "editable": false
+    },
+    "scroll-label": {
+      "editable": false
+    },
+    "count-1": {
+      "editable": false
+    },
+    "count-2": {
+      "editable": false
+    },
+    "count-3": {
+      "editable": false
+    },
+    "count-4": {
+      "editable": false
+    }
+  },
+  "limitations": "Only short Latin placeholder copy is supported by this reviewed revision. Accepted limits are an input ceiling, not visual approval. Changed content needs current 20-state responsive and full quality review."
+}

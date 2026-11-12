@@ -1,0 +1,955 @@
+{
+  "schemaVersion": 2,
+  "url": "https://landonorris.com/",
+  "sourceSha256": null,
+  "result": "captured-not-scored",
+  "errors": [],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 13577,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://landonorris.com/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-idle-control.jpg",
+          "sha256": "91d4893548d42ee21c25a5caa2c71ed28f67c0734f7792d7360c50ef10a1bac5"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 3800,
+        "documentHeight": 13577,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://landonorris.com/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-05.jpg",
+          "sha256": "857f822413bba93e39a76df0222a41213770d6bc04c1aea69f0e7c9b7c1d65ea"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 8000,
+        "documentHeight": null
+      },
+      "sourceUrl": "https://landonorris.com/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-default.jpg",
+          "sha256": "43bea43ed007e4c94e875b5cfff72d500d5be92c3d2d241b136f073633004a73"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 12677,
+        "documentHeight": 13577,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://landonorris.com/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-stop.jpg",
+          "sha256": "ad769994983fda5ec3686d9897ca18b93bc897e2ee1c0de0eaf140e2ef38f0f5"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 10078,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://landonorris.com/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-idle-control.jpg",
+          "sha256": "055584464ff5a451b0b33e892d030ef133eb87207116b7a401e293393fbba74a"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 2862,
+        "documentHeight": 10079,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://landonorris.com/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-04.jpg",
+          "sha256": "c728a51a3acd121313c3986335f3aca76fe3cff74e936ffdac334f98ba6e3acd"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 5526,
+        "documentHeight": 10079,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://landonorris.com/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-08.jpg",
+          "sha256": "e39741b2e236c480601271ce9bc844dfdb6f75a8f18c16ee14ab7a9d11e1deb2"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 9235,
+        "documentHeight": 10079,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://landonorris.com/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-ending-stop.jpg",
+          "sha256": "308b17a6c35a8c4a5a0c5846037b72f3de2879a84b6fe01a38febd0f3e0fbf0d"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "context": "desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state.",
+      "normal": true,
+      "forward": true,
+      "reverse": false,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-opening-settled.jpg",
+          "sha256": "840b9802796bb92f6f95c62f9eed2e6cc41b1b727f16b732f19b2a65054a80e6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-01.jpg",
+          "sha256": "196e601e5331164bc0b87cfe77e6d4c8dd30b74272246105281e42ee9fc8d4e2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-02.jpg",
+          "sha256": "48e4e0463438a357745e3a62ce6dc52d2896a142af24b1c90e251415cf145737"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-03.jpg",
+          "sha256": "ef80ad8ca1e4ae815ea3239c4c9197b2cd497bd956ab89505ecd8d0012b00ba7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-04.jpg",
+          "sha256": "1fc9356dfa3e67907ac92a1faaf1d1dea9a114f3e84b3405216f0ab20b85d610"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-05.jpg",
+          "sha256": "857f822413bba93e39a76df0222a41213770d6bc04c1aea69f0e7c9b7c1d65ea"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-06.jpg",
+          "sha256": "b584c0ad5bd4f34af93fa1d1a34ee70fc18c092c632722c45e216b78ad13609b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-07.jpg",
+          "sha256": "61b281ffa02f9e84202eb8c79d32669c524393e0cc2b4f5200f8640d3eb4cb22"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-08.jpg",
+          "sha256": "f494a52324b5d2a858358b729e6dcb87d503f31395fbda498843c8d9482c4ed5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-09.jpg",
+          "sha256": "4e2d9d5caae5f1b3b9d255082746c3164ca745341f2dbca422313b5fe999e6ef"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-10.jpg",
+          "sha256": "db3c2dc83457f46d755b09338c4000af7f4cda570b2ff3caecf6ab329833322b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-11.jpg",
+          "sha256": "5c66b4a2fcca555f9be25f5b87b8310990c492b1239db208b6a792ea287f68d0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-12.jpg",
+          "sha256": "439ae31565533887025e1437031c73b6dc0b401232686f68166328df9c5669ee"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-13.jpg",
+          "sha256": "1aa5aa1fbecc3b2684c0b777951d59251a5ee8656e6edfffbba561e299be4aca"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-14.jpg",
+          "sha256": "1dfd24d2d7cd8023b4c80e604d2ff68bca6a720385eb5755e99399214e7563df"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-15.jpg",
+          "sha256": "2b735383835072179ffa326d761cb006f1671e71c52e62a76475d48d6f3ab947"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-16.jpg",
+          "sha256": "c74f09f7c3c5396709a764cc71f825529aa9fd37394b540404b18950239f84bd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-17.jpg",
+          "sha256": "b3de8a4a56328da06a729726553a7f4afa09ef3dbc78a390fc30a424ee89c9c4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-stop.jpg",
+          "sha256": "ad769994983fda5ec3686d9897ca18b93bc897e2ee1c0de0eaf140e2ef38f0f5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-extra-input.jpg",
+          "sha256": "5b8b77cf5be73f943ffdbd69c07d5a8104cddb91a78fe6ffd523d0c5759541df"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-extra-stop.jpg",
+          "sha256": "79369a805cc5ffb846ac1e4301c18d7500814a10f1dbfa157238b9faaaeb23b4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "context": "phone-normal-full-forward; Actual held-finger full forward to finite end.",
+      "normal": true,
+      "forward": true,
+      "reverse": false,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-opening-settled.jpg",
+          "sha256": "c04904b61f8920707eb2c6c828ac48efcc17139fca2efece793e6f68b8315633"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-01.jpg",
+          "sha256": "1cc5329404c3cf16216ab79443e3b53b3213fd4ecb199a4b2438594b3d172368"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-02.jpg",
+          "sha256": "aa92d9718d9eb375bc87a27161309f2b0a62fb8013c9b2cb122b447a7f0e50eb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-03.jpg",
+          "sha256": "115029ac263731cfe783f5134594a992ae11d5a2989bdec3714b3818e167546a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-04.jpg",
+          "sha256": "c728a51a3acd121313c3986335f3aca76fe3cff74e936ffdac334f98ba6e3acd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-05.jpg",
+          "sha256": "0bd364a73e8ad2e76ce93f6fa27aa7b283afd4a32f553950737b23930e8ca0d5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-06.jpg",
+          "sha256": "42b485895835029a96b44218b0784f2a0922dc2ab74deb9b5991cff770de814d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-07.jpg",
+          "sha256": "9fddcf70ae67e3da05639f162efca2b88499863e5c1ebf8201d6afd95ae30f0a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-08.jpg",
+          "sha256": "e39741b2e236c480601271ce9bc844dfdb6f75a8f18c16ee14ab7a9d11e1deb2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-09.jpg",
+          "sha256": "34e21ede8ef41afc2cfb75e69c1ea2cdbc57ea46fcc7a3d09e07fc134b349e5e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-10.jpg",
+          "sha256": "a5080aa547aa1aa0f9971317cf249f9b80f12f240669076220ddc2462167ddaa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-11.jpg",
+          "sha256": "e52346ac42cfe0e8d5230514394850583bb09ed85d201fdff33297f8fb0f5126"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-12.jpg",
+          "sha256": "54b3aa655d512d5b9c28fff8b8b826f9eb7d039e7e29d7605799ad59ca6c2dfb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-13.jpg",
+          "sha256": "dcd68791a6a9237a3c95a84a7320d8d29189b4c5e6cb4e04f916a17196942312"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-14.jpg",
+          "sha256": "217b8496d0f1288de8ea035e38a5417449a143505057118db8390b33570e533a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-ending-stop.jpg",
+          "sha256": "308b17a6c35a8c4a5a0c5846037b72f3de2879a84b6fe01a38febd0f3e0fbf0d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-ending-extra-input.jpg",
+          "sha256": "3c9e853d09bbdb19199c4f9f72bc782e13cfceac41e18e99a98f970340a0f91a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-ending-extra-stop.jpg",
+          "sha256": "f530ffdcab763bdebc4405d654e8165d413ec454f83b3ac8c50804e2dd6f438d"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "context": "desktop-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry.",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reverse-1.jpg",
+          "sha256": "573659e77aea4d02051a23640a63f2f70fda9e3f81dc9bf81003ad70eb04cbc1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reverse-4.jpg",
+          "sha256": "3f10297ebd86ea89b8f7e7c15c8c9733994ac49807c7a31b33950889a9d19b14"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reverse-8.jpg",
+          "sha256": "f9086e13a9db4b6b722492e4bdb4efacdfebc5cd174e0b9c1f3eec337b9c670c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reverse-12.jpg",
+          "sha256": "920ad2fc64e445626ccca0aeeb35834703bb302e3d3a222e8de2e9bef71bed67"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reverse-opening-stop.jpg",
+          "sha256": "7f1b6a7cab5f0d8018fc05fd64e6edc47c726c14c4e6967c2d973cce5655a249"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reentry.jpg",
+          "sha256": "fba01da2cc6b922299f619b3e0f264e6cd67e2cc07fcc75da59fc97a2aabe7ec"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "context": "desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted.",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-settled.jpg",
+          "sha256": "14b9648c58ce1bc23bcb4d09b7985873e5d6afe57043927827ce83550e218d8e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-idle-control.jpg",
+          "sha256": "91d4893548d42ee21c25a5caa2c71ed28f67c0734f7792d7360c50ef10a1bac5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-paint-3.jpg",
+          "sha256": "5ccc5a990a3de48ad1c3270b1bcc20f9ee577a9e46f81640eca8646ca34c86a6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-paint-7.jpg",
+          "sha256": "3e9a5dce5d4b08e62ae164bf8b2d0e67da429e84df395ea8315903bf3e1ca962"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-paint-11.jpg",
+          "sha256": "b6caf970325b5a7313f0b52a640a45c2f30eab10aa1a60601615b0862006ff53"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-paint-15.jpg",
+          "sha256": "aeb58cfd0f830689bebcac34fd9f85a5b570fcf68c97f464ace0028ff6164905"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-leave-stop.jpg",
+          "sha256": "0918102120228997f8ea1185980b863ec2902bc70114fb49b9496c6065cfc88e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-race-hover.jpg",
+          "sha256": "8e7c4ba14da48e4c8f4df12d3c457c6852a92ee00e23606d82aad74fe1945c4a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-race-leave.jpg",
+          "sha256": "14d161a824036ac4d66c10e1cadf90d5f758b6acb07be2b8993dd2e631f58d92"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-reenter.jpg",
+          "sha256": "0f9e75b66028ea7f1f5a50a359c150193a294accb37e48c6f7aeb418b05b6db4"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "context": "desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted.",
+      "normal": false,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-settled.jpg",
+          "sha256": "9d73e72fbf77dc6b3a3507a1bf9312c455e15b163c2c3f97518175b8603c55f5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-idle-control.jpg",
+          "sha256": "c1af516d54e5908fc05f4ce1d2b4772348a7c69b418c2454631b12c40c54dbf7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-paint-3.jpg",
+          "sha256": "a8b4cb79d9490d8e1901174ab5e071685106a5ec95bcc48da7ac7327850e175c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-paint-7.jpg",
+          "sha256": "e0460dc9be1d7d4a7a13fd3688a01e1947face64e05d3ab33815af44922cec90"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-paint-11.jpg",
+          "sha256": "fc092a04c2c8d80fbfa21c81f5d93b9dc31a2864e76d6cbdfda5f9a2792c097e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-paint-15.jpg",
+          "sha256": "4a33555b3dc9000c428276e12a38b87879c91618cfb40c514cbd798fa91567da"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-leave-stop.jpg",
+          "sha256": "106f677e80baaf9bccb0e7875ae2f1522c0ff8c44c3fb6c52551ee4d9c51481c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-race-hover.jpg",
+          "sha256": "b3a508b2c4e9b1f7759c7a1b1ec6308db95946e9982c37af056571658bdbf998"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-race-leave.jpg",
+          "sha256": "07885426d693a1e504dce75060bbe3aefeb42355a6ded96b651401895f6da15d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-reenter.jpg",
+          "sha256": "62de14327f379621384ef1548d677a13c72b666a0893c43a66a05b313ef39762"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "context": "desktop-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop.",
+      "normal": false,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-opening.jpg",
+          "sha256": "eed6f018e2ebbc74b44b7fee1c3435836a25f8afef0b62b31e1a1a5d5beae548"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-forward-1.jpg",
+          "sha256": "2ef77e05c82ae9c7ef4f5bd80ed1b2f34ce41680958c2e9902b889173a0d6caa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-forward-4.jpg",
+          "sha256": "6762ba95108ef9884dbdb0debb8cc3a38ebc1fa743fa60729bf7b4e90735afea"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-forward-7.jpg",
+          "sha256": "43dba3744e6b5dda615d45851b9796f26d99eb3d628242d5fa8a4f4a99d6cbc4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-ending-stop.jpg",
+          "sha256": "9990944c0391ffe1a24fbf23b6b33e484de70f39a7c1e6c0fdae29feeb335056"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-ending-extra.jpg",
+          "sha256": "3b42bafb05a1c448dc820a4a80b89a24d608548ec4b06c2c1e31b8e26e796d14"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-reverse-from-ending.jpg",
+          "sha256": "c79a05cafcbb2454983669edd6fca678f28f3e5fb4abcfc695c4ff8fa5bc49c4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-reverse-stop.jpg",
+          "sha256": "7b6559842bfc92d4565c75b7e35376133f7766bcdcc7c1f9e13bd302e5eee3ab"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "context": "mobile-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry.",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reverse-1.jpg",
+          "sha256": "d6dd2fafb60eae456b94e7b73da12bff4b60f69740dd3cb2b25d03ba252167b6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reverse-4.jpg",
+          "sha256": "2db57e7132b7256722f748244adcc6f74b8e8c90afe2f04db7578cad8f35ad7b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reverse-8.jpg",
+          "sha256": "acf4655bbaeceaacb7be8afe0b960e79574bfa87068b4b3ca02112df8db49e02"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reverse-12.jpg",
+          "sha256": "3d419cbf05df0ed066459d5c74fd7433c3052e337ac7492d068a8de15b0d1007"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reverse-opening-stop.jpg",
+          "sha256": "6b8b7245dfedac733b457a9e52b018e9bac36a147308d5c63033a5a8e7ef6cce"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reentry.jpg",
+          "sha256": "d46b813bdf25e13c8cba165fa8d12f35d3dcd5777e0ebc86e1bf01e5978d3e9b"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "pointer",
+      "context": "mobile-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted.",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-settled.jpg",
+          "sha256": "1e67fdbf69485eca2abe80859aa42e5ae7c4e8f2195df849540d168bbca20dd8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-idle-control.jpg",
+          "sha256": "055584464ff5a451b0b33e892d030ef133eb87207116b7a401e293393fbba74a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-lock-tap.jpg",
+          "sha256": "06df80811c256b0252667dc041233fd215c53884fb129a953193e508b80c199a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-finger-5.jpg",
+          "sha256": "e2607d420c186021f7d842d5edece985ddc599775a50ed9e6a4ee9530fbd281a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-finger-9.jpg",
+          "sha256": "d820e013fb5d71f1221dd46e0f1157b9fc0076612f1fd85c5afb0d7ee8f3c78f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-finger-14.jpg",
+          "sha256": "a445d7cdc5575fb54a3132f8b756905311158ecb12284455d12aab4972b3641c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-finger-18.jpg",
+          "sha256": "60bd0bc88083525a707fdced385ece733669ec318570120aef37b34ea8383863"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-finger-release-stop.jpg",
+          "sha256": "4a5e38e0ce16647e7a257674ac4ec717b751d4beee0f83e33b604776e50b4de3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-unlock-tap.jpg",
+          "sha256": "28c9de166bc86f0b5ef0a57756e4bf8ca546b898acb17b2b6cb20ec81245e25e"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "pointer",
+      "context": "mobile-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted.",
+      "normal": false,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-settled.jpg",
+          "sha256": "9a165f52f213ee85fbe00ef48b458486c327193c92e95ee2a9e044b70569ca0c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-idle-control.jpg",
+          "sha256": "324efdde94b01305432f30ccf978e4751a31552eda8b265ed7da0a7804a8af3e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-lock-tap.jpg",
+          "sha256": "12599a6ded608a9dbfc1f6b74bce036a12483c82fbf35762dec0dc0fd4e9fe55"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-finger-5.jpg",
+          "sha256": "3d198f39f3bf8019cf8eb10ea113623e764b8f19b51343e28d97e378d8a9611f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-finger-9.jpg",
+          "sha256": "47fb7ce59a661c209e8855e03f2407bd9aa850b1793e6a4c86bedece206ef5c1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-finger-14.jpg",
+          "sha256": "ac8667e8aced13ac2559744368f42b67ff1f90d7c372166cd179a85ec5b3a727"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-finger-18.jpg",
+          "sha256": "091c4906a5e7e80891c0dc60a690fd3323f9e48619b958bf0bd57fb77af3933e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-finger-release-stop.jpg",
+          "sha256": "185f204d9f11767f3cc415f93eb3eac090cdbafe174b2b51784912b2c97c0d6c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-unlock-tap.jpg",
+          "sha256": "013810f17613a5217af239108c5e1c3193a79279f56fb55c641458dfb100acc2"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "context": "mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop.",
+      "normal": false,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-opening.jpg",
+          "sha256": "aac768f7135f6c5da0a362ad78d732b0ff4cd2667b9f053af7ffefd4ebe94ac2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-forward-1.jpg",
+          "sha256": "ea6e109882d02d918a568cad81082913755d6da152fbf85a299c0d7f8d220be2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-forward-4.jpg",
+          "sha256": "1660a9cea72ed95246c10dc81310bf2a7f66e9c12f0933e8290789a0673cd00c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-forward-7.jpg",
+          "sha256": "1d6b9129161a776b24fe7358f8331514b929bf5f08a2f7127b5eff20a84c00a8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-gallery-default.jpg",
+          "sha256": "ca661baee2fb352311e7dca9ada54eff045e8fedefbd6146327ef99c8b87e769"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-gallery-click-result.jpg",
+          "sha256": "62341f67f85ea8e2f14829d4beddcf00a1e717e4c07562523d948a39fd4ce63d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-ending-stop.jpg",
+          "sha256": "e09a2538679ece95594e6a71a40061dbae3e5e39d9a75d6e77c4227c312ad4fb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-ending-extra.jpg",
+          "sha256": "00e1aa18718b97ad12b4683006dafd23b98821e4331d52434a6993b88862f1b7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-reverse-from-ending.jpg",
+          "sha256": "a18cf6b9a8fbc7b1639b9c0322e4ef4dd0df0278e654f561585c56346579b5fc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-reverse-stop.jpg",
+          "sha256": "a18cf6b9a8fbc7b1639b9c0322e4ef4dd0df0278e654f561585c56346579b5fc"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "context": "desktop-collection-image-and-context; Real default/hover/move/leave/click/leave; first hover still loading, later move/click fully loaded.",
+      "normal": true,
+      "forward": true,
+      "reverse": false,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-default.jpg",
+          "sha256": "43bea43ed007e4c94e875b5cfff72d500d5be92c3d2d241b136f073633004a73"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-hover.jpg",
+          "sha256": "7767c24a22261838fc7464838fbed381f511b7f9107e7ef5a3a872bf778475d1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-move.jpg",
+          "sha256": "1d8a8a82ce101edc92d0fe431bad4908fed0644834a5b685db3ba4e100722aa0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-leave.jpg",
+          "sha256": "d36e4a81c8440e2f87c60fbe33e05e3f5b68fd03e9d74a46c4d11b5b4eec67c0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-click.jpg",
+          "sha256": "1d8a8a82ce101edc92d0fe431bad4908fed0644834a5b685db3ba4e100722aa0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-click-leave.jpg",
+          "sha256": "d36e4a81c8440e2f87c60fbe33e05e3f5b68fd03e9d74a46c4d11b5b4eec67c0"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "observation",
+      "context": "Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion.",
+      "normal": true,
+      "forward": false,
+      "reverse": false,
+      "leaveOrStop": false,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-hero-pointer-left.jpg",
+          "sha256": "e94f2326ffea7be6cd899e292f891beea544876be3e0f5ed9fdbc128f3f28925"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-hero-pointer-right.jpg",
+          "sha256": "6e5b474e243763abbf84581f7db97d6d88e5391f6045c21678b548e9609f399f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-hero-pointer-leave.jpg",
+          "sha256": "5672db9e33205f21cf007b308b44a5c6a6ed2180902709817151d9eaa4c56344"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-hero-pointer-reenter.jpg",
+          "sha256": "9225adace1947c349ed2f156ef776c7624f324e0e1521fdcc12ac71e02b7f474"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-pointer-left.jpg",
+          "sha256": "2789c195df92ba88330a1b0e67b3a87f520a3e6a6b426a5902816963050eae73"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-pointer-right.jpg",
+          "sha256": "2ca0d800d66c4ab7919eddd753d3428e50f1aff8ccd8028ebd4521df62ff4fac"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-pointer-leave.jpg",
+          "sha256": "ca1c177959deb49848ad2b44956200dc982d9de2c6e1a3445b22fc6b4c34463c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-reverse-from-ending.jpg",
+          "sha256": "16d277f6e999ba0417d4135efcafe68b93f7e2059b7ec25a26c362b1bfce6d10"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-reverse-stop.jpg",
+          "sha256": "e104ab35a58b053c8aa6b8ed79efd2a71f4065e3d63031d046efa8e101554896"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "observation",
+      "context": "Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion.",
+      "normal": true,
+      "forward": false,
+      "reverse": false,
+      "leaveOrStop": false,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-hero-finger-held.jpg",
+          "sha256": "67b5e512a2d7c1f07430fe885ad97124d78951896d68ab125c089ec73c760042"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-hero-finger-right-held.jpg",
+          "sha256": "6d0a25c39eb14e48f39acbe249280564f8c8431837c3936b69922aa61fc0ba01"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-hero-finger-released.jpg",
+          "sha256": "7dea53c46f07d7c2c22f46da01fa6baf9dfe449e36cd6532111ac3ad8c8d4cc8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-reverse-from-ending.jpg",
+          "sha256": "ec3bff02b4186d4469c57f8195a1a7d181f691536aa708e80f0ffd5dfc47cf6b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-reverse-stop.jpg",
+          "sha256": "1a9dcee858ed0dcd43989651da75709e4106b5aed5592b6e1935ca64ff919afb"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "observation",
+      "context": "Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion.",
+      "normal": true,
+      "forward": false,
+      "reverse": false,
+      "leaveOrStop": false,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-opening.jpg",
+          "sha256": "64d6b5388e073dfcf2514c87ee2365f4942bee4f0cfa34fd6e0b57d00d2e3764"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-forward-1.jpg",
+          "sha256": "96ce972560aa0b211b6537c84f5641b88f41ff997e12214157e9a2483e5cb84e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-forward-4.jpg",
+          "sha256": "f28afe58335003d3feada830b28a4b77cbf1233ed4f6c0a7f2466a0184a266a7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-forward-7.jpg",
+          "sha256": "ee0f53b4b529167095a5a9cfb8c2d5bd0c38a5be6285a6893f0018f096768edf"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-ending-stop.jpg",
+          "sha256": "c833e9b5403cbbd84cdc31ef3183f76bae7720471da498552a4553c10a4a6314"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-ending-extra.jpg",
+          "sha256": "2ec001f48194be17bc879e600d4cd7ea0f968e860095b4e087f7c48fa89ae382"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "observation",
+      "context": "Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion.",
+      "normal": true,
+      "forward": false,
+      "reverse": false,
+      "leaveOrStop": false,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-opening.jpg",
+          "sha256": "def7a52d6f8c8c00cd0e9b2fe3d29fb4baf071cd486136964bf5791a6ed70dcc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-forward-1.jpg",
+          "sha256": "45355bf558f3a7030728d4789ae76c8f53860c51b7e888ac063dd576a97b28ed"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-forward-4.jpg",
+          "sha256": "8945b9b6e3238017321ebf9fc66a00b1ab5863ae3c0bdf1e26dfe39f50d9494d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-forward-7.jpg",
+          "sha256": "56d8718217fb52fe407d763f04ee66f30f0df6b32a5991a27494271938220df5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-gallery-default.jpg",
+          "sha256": "f5b6b2cd97bc06ffbfed0ec31f4d9886c7144f68ef128a5ed67a3b4954de803b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-gallery-click-result.jpg",
+          "sha256": "d91858457c9b97ea1169b9f1800f54d05c83f2107406f8f1a80020fe82060510"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-ending-stop.jpg",
+          "sha256": "7650e7265d44ce959527f231d719bb5212689bb022dbe453df3d065a73b97b13"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-ending-extra.jpg",
+          "sha256": "569c8a78805639f8095293ef6017766f2c34dec7ef4bf83e0f7b11abafee958e"
+        }
+      ]
+    }
+  ],
+  "finished": "2026-10-31T08:26:54.392Z",
+  "normalization": {
+    "kind": "immutable-assembly-of-actually-viewed-source-evidence",
+    "sourceAudit": {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/007-lando-source-20261031.json",
+      "sha256": "7302fb5a92a584bc43332bcb5e3f5b03cce12fbc2076af30f51db23a8a8abaef"
+    },
+    "sourceObservations": [
+      {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/observation.json",
+        "sha256": "dcd70bad0317a4950debc16725a9d79db588b37c3d6806880867d8143f0f36d3",
+        "retainedResult": "captured-not-admitted"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/observation.json",
+        "sha256": "d24a9aae7d899d6e752cd635c5f022522e112d6fdbfcd6312b8a2461ea87d07b",
+        "retainedResult": "captured-not-admitted"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/observation.json",
+        "sha256": "50d65c2120580235954dd24fa8935b5993436a62ad66ea64443e6f115d5b2feb",
+        "retainedResult": "captured-not-admitted"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/observation.json",
+        "sha256": "93958e4721d920fd7378f3b7f5257b476a2597fa6326acad4a2e92561e5a7860",
+        "retainedResult": "captured-not-admitted"
+      }
+    ],
+    "allSelectedFramesActuallyViewed": true,
+    "framesUnmodified": true,
+    "noFinalAssetsAcquired": true,
+    "noCandidateCreated": true,
+    "limitations": [
+      "All 141 original source frames are retained in recorded order within their original groups; no model/texture/code was obtained.",
+      "The real helmet layer is Three.js; a separate human-head mesh is not established.",
+      "Stable desktop gallery hover uses first-move; first-hover is a retained incomplete loading transition.",
+      "Phone collection taps did not demonstrate photo reveal; normal/reduced hero finger control is proven separately.",
+      "Reduced preference was set, but source stop-rendering/performance compliance is not claimed.",
+      "Only normal reverse was followed all the way to opening; reduced reversal stops in an earlier scene."
+    ]
+  }
+}

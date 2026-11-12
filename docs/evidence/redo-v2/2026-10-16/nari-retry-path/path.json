@@ -1,0 +1,579 @@
+{
+  "url": "https://www.studionari.co.uk/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/nari-retry-path/opening.jpg",
+      "sha256": "764459a229f8518477ee7d554f9040ebde859da72c720b810d3f7aac7a67cdea"
+    },
+    {
+      "state": "early",
+      "y": 1658,
+      "path": "docs/evidence/redo-v2/2026-10-16/nari-retry-path/early.jpg",
+      "sha256": "deff345e085acd8e871e313a1dc44ecf46af27e8742d10127e4948fb68db9341"
+    },
+    {
+      "state": "middle",
+      "y": 4352,
+      "path": "docs/evidence/redo-v2/2026-10-16/nari-retry-path/middle.jpg",
+      "sha256": "1743934674fd7e5c4c67bd86ed3a371e62a0a2e47ee8daa9d38e7e618fd35d73"
+    },
+    {
+      "state": "late",
+      "y": 7771,
+      "path": "docs/evidence/redo-v2/2026-10-16/nari-retry-path/late.jpg",
+      "sha256": "ad86f915c9a5a62bd04733a10ff9958348836e2f815adef038126aedc43f3380"
+    },
+    {
+      "state": "ending",
+      "y": 10362,
+      "path": "docs/evidence/redo-v2/2026-10-16/nari-retry-path/ending.jpg",
+      "sha256": "a1daa1864de079944702cab686d30bf1030d6480ad9da5d0c4386c88d9425d14"
+    }
+  ],
+  "metadata": {
+    "height": 11262,
+    "headings": [
+      {
+        "text": "Lululemon",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 907
+      },
+      {
+        "text": "Threads",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 1275
+      },
+      {
+        "text": "Netflix House",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 1643
+      },
+      {
+        "text": "Atorie",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 2011
+      },
+      {
+        "text": "Brainstorm",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 2379
+      },
+      {
+        "text": "Blueberry",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 2747
+      },
+      {
+        "text": "AMA'S",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 3115
+      },
+      {
+        "text": "Vessi",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 3483
+      },
+      {
+        "text": "3TEMP",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 3851
+      },
+      {
+        "text": "Elvis",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 4219
+      },
+      {
+        "text": "Verne",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 4587
+      },
+      {
+        "text": "WUKA",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 4955
+      },
+      {
+        "text": "Tenzing",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 5323
+      },
+      {
+        "text": "Puma",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 5691
+      },
+      {
+        "text": "Desmond & Dempsey",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 6059
+      },
+      {
+        "text": "Netflix",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 6427
+      },
+      {
+        "text": "Nike Kids",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 6795
+      },
+      {
+        "text": "YTB",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 7163
+      },
+      {
+        "text": "Nike By You",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 7531
+      },
+      {
+        "text": "Living Things",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 7899
+      },
+      {
+        "text": "Mulberry",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 8267
+      },
+      {
+        "text": "Rafa Nadal",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 8635
+      },
+      {
+        "text": "Field Day",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 9003
+      },
+      {
+        "text": "Internet Made",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 9371
+      },
+      {
+        "text": "Netflix Fandom Reactive",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 9739
+      },
+      {
+        "text": "AYM",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 10107
+      },
+      {
+        "text": "Nike & JD SU24",
+        "tag": "H4",
+        "class": "",
+        "parent": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70",
+        "top": 10475
+      }
+    ],
+    "sections": [
+      {
+        "tag": "SECTION",
+        "class": "fixed left-1/2 top-1/2 w-[150vw] overflow-hidden sm:w-[110vw]",
+        "id": "",
+        "top": 0,
+        "height": 900
+      },
+      {
+        "tag": "SECTION",
+        "class": "",
+        "id": "",
+        "top": 900,
+        "height": 9928
+      },
+      {
+        "tag": "FOOTER",
+        "class": "pointer-events-none sticky bottom-0 !mt-[calc(var(--vh)*-50-1rem)] h-screen w-full overflow-hidden pl-3 pr-3 pb-3 sm:pl-nav-width-mini lg:pb-6",
+        "id": "",
+        "top": 434,
+        "height": 900
+      }
+    ],
+    "controls": [
+      {
+        "tag": "A",
+        "text": "Projects",
+        "class": "flex h-8 transform-gpu items-center justify-center rounded px-3 py-2.5 text-base"
+      },
+      {
+        "tag": "A",
+        "text": "News",
+        "class": "flex h-8 transform-gpu items-center justify-center rounded px-3 py-2.5 text-base"
+      },
+      {
+        "tag": "A",
+        "text": "About",
+        "class": "flex h-8 transform-gpu items-center justify-center rounded px-3 py-2.5 text-base"
+      },
+      {
+        "tag": "A",
+        "text": "Approach",
+        "class": "flex h-8 transform-gpu items-center justify-center rounded px-3 py-2.5 text-base"
+      },
+      {
+        "tag": "A",
+        "text": "World",
+        "class": "flex h-8 transform-gpu items-center justify-center rounded px-3 py-2.5 text-base"
+      },
+      {
+        "tag": "A",
+        "text": "Lululemon",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Threads",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Netflix House",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Atorie",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Brainstorm",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Blueberry",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "AMA'S",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Vessi",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "3TEMP",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Elvis",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Verne",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "WUKA",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Tenzing",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Puma",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Desmond & Dempsey",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Netflix",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      },
+      {
+        "tag": "A",
+        "text": "Nike Kids",
+        "class": "pointer-events-auto flex h-8 items-center justify-between bg-grey bg-opacity-50 px-3 transition duration-300 betterhover:group-hover:bg-opacity-70"
+      }
+    ]
+  },
+  "inventory": {
+    "images": 211,
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": -72,
+          "y": 0,
+          "width": 1584,
+          "height": 900,
+          "top": 0,
+          "right": 1512,
+          "bottom": 900,
+          "left": -72
+        },
+        "ready": 4,
+        "width": 3840,
+        "height": 2160,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 900,
+          "width": 640,
+          "height": 360,
+          "top": 900,
+          "right": 722,
+          "bottom": 1260,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 3840,
+        "height": 2160,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 1268,
+          "width": 640,
+          "height": 360,
+          "top": 1268,
+          "right": 722,
+          "bottom": 1628,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 3840,
+        "height": 2160,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 1636,
+          "width": 640,
+          "height": 360,
+          "top": 1636,
+          "right": 722,
+          "bottom": 1996,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 2400,
+        "height": 1350,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 2740,
+          "width": 316.65625,
+          "height": 360,
+          "top": 2740,
+          "right": 398.65625,
+          "bottom": 3100,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 720,
+        "height": 900,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 3108,
+          "width": 640,
+          "height": 360,
+          "top": 3108,
+          "right": 722,
+          "bottom": 3468,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 3476,
+          "width": 640,
+          "height": 360,
+          "top": 3476,
+          "right": 722,
+          "bottom": 3836,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 426,
+        "height": 240,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 3844,
+          "width": 640,
+          "height": 360,
+          "top": 3844,
+          "right": 722,
+          "bottom": 4204,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 4212,
+          "width": 640,
+          "height": 360,
+          "top": 4212,
+          "right": 722,
+          "bottom": 4572,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 7524,
+          "width": 640,
+          "height": 360,
+          "top": 7524,
+          "right": 722,
+          "bottom": 7884,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 3840,
+        "height": 2160,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 7892,
+          "width": 640,
+          "height": 360,
+          "top": 7892,
+          "right": 722,
+          "bottom": 8252,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 82,
+          "y": 9364,
+          "width": 640,
+          "height": 360,
+          "top": 9364,
+          "right": 722,
+          "bottom": 9724,
+          "left": 82
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      }
+    ],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": false
+  },
+  "result": "scouted-not-admitted"
+}

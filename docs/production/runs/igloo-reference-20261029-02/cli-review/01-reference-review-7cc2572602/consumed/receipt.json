@@ -1,0 +1,2939 @@
+{
+  "schemaVersion": 1,
+  "kind": "portable-cli-review-consumption",
+  "policyVersion": "portable-cli-review-consumption-v1",
+  "diagnosticPolicyVersion": "codex-cli-review-diagnostics-v1",
+  "requestId": "01-reference-review-7cc2572602",
+  "role": "reference-review",
+  "request": {
+    "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/request.json",
+    "sha256": "5a96b73a32269a4884c9ef1973aaff8bd5b12185c451f36d89b0c0686c7b5d5f"
+  },
+  "context": {
+    "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/consumption-context.json",
+    "sha256": "ed7f395d53e2553d6e79822bf1bf829db5ccb9e76cd27ff3cb823037b42c1c26"
+  },
+  "rawFiles": {
+    "request.json": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/request.json",
+      "sha256": "5a96b73a32269a4884c9ef1973aaff8bd5b12185c451f36d89b0c0686c7b5d5f"
+    },
+    "response.json": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/response.json",
+      "sha256": "b7d9d6e45ae66cac2866cbf386c857a399f52d16c1eed0907ed6b79414a2f871"
+    },
+    "events.jsonl": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/events.jsonl",
+      "sha256": "e75cf51ac59cceca1e30375a00afccb04f97fa11e091e74cf732a4207956e4d5"
+    },
+    "stderr.txt": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/stderr.txt",
+      "sha256": "0b1447163a1e67ac81eee4433902db075b2125549e8501ec8a9115d652945060"
+    },
+    "process.json": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/process.json",
+      "sha256": "c942af79c2173ab3a4ba52a877a0fd17aae1c1ef3ee24a6b24a48aaf3aa8caba"
+    },
+    "feature-probe.json": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/feature-probe.json",
+      "sha256": "cacf6838be7ca1e9a33171a72ddcb6762966efc3b57aa51a2a10b65041eb3837"
+    },
+    "feature-probe.stdout.txt": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/feature-probe.stdout.txt",
+      "sha256": "d4461d9844df47e6e93ab2032bc5f0e03221c874a0cee9f23f5c7de0aed223c3"
+    },
+    "feature-probe.stderr.txt": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/feature-probe.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "version.stdout.txt": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/version.stdout.txt",
+      "sha256": "311d79a9fd43dbb89fe50425a6c90fa50cdc0bea37d87a7394fc4fe6d727e79d"
+    },
+    "version.stderr.txt": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/version.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "prompt.txt": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/prompt.txt",
+      "sha256": "d9d935aefa2cb2c7b163f6f9be82bd015374dd6ab7340627b315a1da632d3898"
+    },
+    "private-source-map.json": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/private-source-map.json",
+      "sha256": "e72e1f5243ff546c9c1506fd7d1812be4ca7b3cd8bc5a241acde49b8b4f10671"
+    }
+  },
+  "inputs": [
+    {
+      "label": "benchmark-0 desktop opening\nbenchmark-8 desktop scroll process 0 (recorded order) capture 1440-opening\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6",
+      "bytes": 1333967,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/000.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      }
+    },
+    {
+      "label": "benchmark-1 desktop transition\nbenchmark-10 desktop scroll process 2 (recorded order) capture 1440-scroll-0.33-2\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7",
+      "bytes": 446069,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/001.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.33-2.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      }
+    },
+    {
+      "label": "benchmark-2 desktop middle\nbenchmark-12 desktop scroll process 4 (recorded order) capture 1440-scroll-0.67-4\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa",
+      "bytes": 929325,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/002.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      }
+    },
+    {
+      "label": "benchmark-3 desktop ending\nbenchmark-14 desktop scroll process 6 (recorded order) capture 1440-scroll-1-6\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556",
+      "bytes": 1054815,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/003.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      }
+    },
+    {
+      "label": "benchmark-4 mobile opening\nbenchmark-23 mobile scroll process 0 (recorded order) capture 390-opening\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d",
+      "bytes": 404267,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/004.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-opening.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      }
+    },
+    {
+      "label": "benchmark-5 mobile transition\nbenchmark-24 mobile scroll process 1 (recorded order) capture 390-scroll-0.33-12\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4",
+      "bytes": 144364,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/005.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      }
+    },
+    {
+      "label": "benchmark-6 mobile middle\nbenchmark-25 mobile scroll process 2 (recorded order) capture 390-scroll-0.67-13\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f",
+      "bytes": 288072,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/006.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      }
+    },
+    {
+      "label": "benchmark-7 mobile ending\nbenchmark-26 mobile scroll process 3 (recorded order) capture 390-scroll-1-14\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87",
+      "bytes": 372539,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/007.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      }
+    },
+    {
+      "label": "benchmark-9 desktop scroll process 1 (recorded order) capture 1440-scroll-0.16-1",
+      "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0",
+      "bytes": 310275,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/008.png",
+        "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+        "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0"
+      }
+    },
+    {
+      "label": "benchmark-11 desktop scroll process 3 (recorded order) capture 1440-scroll-0.5-3\nbenchmark-15 desktop scroll process 7 (recorded order) capture 1440-scroll-0.5-7\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "108e16a1777bd5b0c8034f94d73aa4e6715646c5a9ed513e1d7eb0ba7c4b6b64",
+      "bytes": 289385,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/009.png",
+        "sha256": "108e16a1777bd5b0c8034f94d73aa4e6715646c5a9ed513e1d7eb0ba7c4b6b64"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.5-3.png",
+        "sha256": "108e16a1777bd5b0c8034f94d73aa4e6715646c5a9ed513e1d7eb0ba7c4b6b64"
+      }
+    },
+    {
+      "label": "benchmark-13 desktop scroll process 5 (recorded order) capture 1440-scroll-0.84-5",
+      "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b",
+      "bytes": 292938,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/010.png",
+        "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.84-5.png",
+        "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b"
+      }
+    },
+    {
+      "label": "benchmark-16 desktop scroll process 8 (recorded order) capture 1440-scroll-0-8",
+      "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392",
+      "bytes": 1286649,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/011.png",
+        "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+        "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392"
+      }
+    },
+    {
+      "label": "benchmark-17 desktop pointer process 0 (recorded order) capture 1440-pointer-0.2",
+      "sha256": "3b8132ec2c6c9b369c3baf6b3d81cb602366b7270f1a010531f8beec4abc2415",
+      "bytes": 1357982,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/012.png",
+        "sha256": "3b8132ec2c6c9b369c3baf6b3d81cb602366b7270f1a010531f8beec4abc2415"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-pointer-0.2.png",
+        "sha256": "3b8132ec2c6c9b369c3baf6b3d81cb602366b7270f1a010531f8beec4abc2415"
+      }
+    },
+    {
+      "label": "benchmark-18 desktop pointer process 1 (recorded order) capture 1440-pointer-0.8",
+      "sha256": "c80249335437e1ba261da9d1d48fc8400d40865d16618ff342cd76a29bad286c",
+      "bytes": 1350853,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/013.png",
+        "sha256": "c80249335437e1ba261da9d1d48fc8400d40865d16618ff342cd76a29bad286c"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-pointer-0.8.png",
+        "sha256": "c80249335437e1ba261da9d1d48fc8400d40865d16618ff342cd76a29bad286c"
+      }
+    },
+    {
+      "label": "benchmark-19 desktop pointer process 2 (recorded order) capture 1440-pointer-leave",
+      "sha256": "7749114c96da0c658d751e608d01401111f096e71c71a49fecaafb323d75edeb",
+      "bytes": 1286484,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/014.png",
+        "sha256": "7749114c96da0c658d751e608d01401111f096e71c71a49fecaafb323d75edeb"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-pointer-leave.png",
+        "sha256": "7749114c96da0c658d751e608d01401111f096e71c71a49fecaafb323d75edeb"
+      }
+    },
+    {
+      "label": "benchmark-20 desktop hold-release process 0 (recorded order) capture 1440-held",
+      "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41",
+      "bytes": 1227939,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/015.png",
+        "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-held.png",
+        "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+      }
+    },
+    {
+      "label": "benchmark-21 desktop hold-release process 1 (recorded order) capture 1440-released",
+      "sha256": "de6e970b5fb0c3a3026e25250902d57e8ed691809fd6249d1a9f2752fa6b2bf9",
+      "bytes": 1220770,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/016.png",
+        "sha256": "de6e970b5fb0c3a3026e25250902d57e8ed691809fd6249d1a9f2752fa6b2bf9"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-released.png",
+        "sha256": "de6e970b5fb0c3a3026e25250902d57e8ed691809fd6249d1a9f2752fa6b2bf9"
+      }
+    },
+    {
+      "label": "benchmark-22 desktop reduced process 0 (recorded order) capture 1440-reduced",
+      "sha256": "3940d7abc19f9e8ec890061633dffaec2bc95ca18a69e0fdae8c0039f14c009a",
+      "bytes": 954468,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/017.png",
+        "sha256": "3940d7abc19f9e8ec890061633dffaec2bc95ca18a69e0fdae8c0039f14c009a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-reduced.png",
+        "sha256": "3940d7abc19f9e8ec890061633dffaec2bc95ca18a69e0fdae8c0039f14c009a"
+      }
+    },
+    {
+      "label": "benchmark-27 mobile scroll process 4 (recorded order) capture 390-scroll-0-15",
+      "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81",
+      "bytes": 404821,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/018.png",
+        "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+        "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81"
+      }
+    },
+    {
+      "label": "benchmark-28 mobile reduced process 0 (recorded order) capture 390-reduced",
+      "sha256": "d0cb5141e5a7cf80ea276e4785869dc8d0225f0991a7920c594d60834cf24c3c",
+      "bytes": 388250,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/019.png",
+        "sha256": "d0cb5141e5a7cf80ea276e4785869dc8d0225f0991a7920c594d60834cf24c3c"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-reduced.png",
+        "sha256": "d0cb5141e5a7cf80ea276e4785869dc8d0225f0991a7920c594d60834cf24c3c"
+      }
+    },
+    {
+      "label": "negative-29 user-rejected 1 desktop opening",
+      "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39",
+      "bytes": 894677,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/020.png",
+        "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-1440-opening.png",
+        "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+      }
+    },
+    {
+      "label": "negative-30 user-rejected 1 desktop ending",
+      "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210",
+      "bytes": 444366,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/021.png",
+        "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-1440-scroll-1-6.png",
+        "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+      }
+    },
+    {
+      "label": "negative-31 user-rejected 1 mobile opening",
+      "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686",
+      "bytes": 318943,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/022.png",
+        "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-390-opening.png",
+        "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+      }
+    },
+    {
+      "label": "negative-32 user-rejected 1 mobile ending",
+      "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f",
+      "bytes": 140142,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/023.png",
+        "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-390-scroll-1-14.png",
+        "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+      }
+    },
+    {
+      "label": "negative-33 user-rejected 2 desktop opening",
+      "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec",
+      "bytes": 859333,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/024.png",
+        "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-1440-opening.png",
+        "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+      }
+    },
+    {
+      "label": "negative-34 user-rejected 2 desktop ending",
+      "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451",
+      "bytes": 794650,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/025.png",
+        "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-1440-scroll-1-6.png",
+        "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+      }
+    },
+    {
+      "label": "negative-35 user-rejected 2 mobile opening",
+      "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42",
+      "bytes": 327208,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/026.png",
+        "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-390-opening.png",
+        "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+      }
+    },
+    {
+      "label": "negative-36 user-rejected 2 mobile ending",
+      "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788",
+      "bytes": 249524,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/027.png",
+        "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-390-scroll-1-14.png",
+        "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+      }
+    },
+    {
+      "label": "negative-37 user-rejected 3 desktop opening",
+      "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3",
+      "bytes": 1889089,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/028.png",
+        "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-1440-opening.png",
+        "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+      }
+    },
+    {
+      "label": "negative-38 user-rejected 3 desktop ending",
+      "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa",
+      "bytes": 796269,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/029.png",
+        "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-1440-scroll-1-6.png",
+        "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+      }
+    },
+    {
+      "label": "negative-39 user-rejected 3 mobile opening",
+      "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba",
+      "bytes": 494896,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/030.png",
+        "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-390-opening.png",
+        "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+      }
+    },
+    {
+      "label": "negative-40 user-rejected 3 mobile ending",
+      "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1",
+      "bytes": 139219,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/031.png",
+        "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-390-scroll-1-14.png",
+        "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+      }
+    },
+    {
+      "label": "negative-41 user-rejected 4 desktop opening",
+      "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb",
+      "bytes": 681261,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/032.png",
+        "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-1440-opening.png",
+        "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+      }
+    },
+    {
+      "label": "negative-42 user-rejected 4 desktop ending",
+      "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799",
+      "bytes": 617959,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/033.png",
+        "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-1440-scroll-1-6.png",
+        "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+      }
+    },
+    {
+      "label": "negative-43 user-rejected 4 mobile opening",
+      "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff",
+      "bytes": 159503,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/034.png",
+        "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-390-opening.png",
+        "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+      }
+    },
+    {
+      "label": "negative-44 user-rejected 4 mobile ending",
+      "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a",
+      "bytes": 153333,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/035.png",
+        "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-390-scroll-1-14.png",
+        "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+      }
+    },
+    {
+      "label": "negative-45 user-rejected 5 desktop opening",
+      "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90",
+      "bytes": 328195,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/036.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-1440-opening.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      }
+    },
+    {
+      "label": "negative-46 user-rejected 5 desktop ending",
+      "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94",
+      "bytes": 43515,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/037.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-1440-scroll-1-6.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      }
+    },
+    {
+      "label": "negative-47 user-rejected 5 mobile opening",
+      "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a",
+      "bytes": 115079,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/038.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-390-opening.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      }
+    },
+    {
+      "label": "negative-48 user-rejected 5 mobile ending",
+      "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a",
+      "bytes": 33760,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/039.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-390-scroll-1-14.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      }
+    },
+    {
+      "label": "reference-49 desktop opening\nreference-77 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 0 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076",
+      "bytes": 214697,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/040.jpg",
+        "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening.jpg",
+        "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+      }
+    },
+    {
+      "label": "reference-50 desktop transition\nreference-96 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 19 (ordered)\nreference-104 desktop pointer normal-frozen-work-real-click-detail-Escape-did-not-close-Close-return process 0 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c",
+      "bytes": 73407,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/041.jpg",
+        "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+        "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+      }
+    },
+    {
+      "label": "reference-51 desktop middle\nreference-69 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 12 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "06d0487defa7ef994361e864728a66e8e6b43df971a329fa30bedcede4f72854",
+      "bytes": 95623,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/042.jpg",
+        "sha256": "06d0487defa7ef994361e864728a66e8e6b43df971a329fa30bedcede4f72854"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-12.jpg",
+        "sha256": "06d0487defa7ef994361e864728a66e8e6b43df971a329fa30bedcede4f72854"
+      }
+    },
+    {
+      "label": "reference-52 desktop ending\nreference-116 desktop pointer normal-particle-pointer-movement-then-right-selection-and-left-return process 7 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992",
+      "bytes": 129614,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/043.jpg",
+        "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+        "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+      }
+    },
+    {
+      "label": "reference-53 mobile opening\nreference-148 mobile scroll normal-real-finger-arrival-both-frozen-works process 0 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "d23397ae64b1ffe3bd9fe68b81e535650244ec83ec533ff3d9dbd52c6733141c",
+      "bytes": 62243,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/044.jpg",
+        "sha256": "d23397ae64b1ffe3bd9fe68b81e535650244ec83ec533ff3d9dbd52c6733141c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-opening.jpg",
+        "sha256": "d23397ae64b1ffe3bd9fe68b81e535650244ec83ec533ff3d9dbd52c6733141c"
+      }
+    },
+    {
+      "label": "reference-54 mobile transition\nreference-151 mobile scroll normal-real-finger-arrival-both-frozen-works process 3 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1",
+      "bytes": 30469,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/045.jpg",
+        "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-3.jpg",
+        "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+      }
+    },
+    {
+      "label": "reference-55 mobile middle\nreference-162 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 3 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "e3354b47dcdb6adb8d67f7cdeb25961b6061957aa16bdf3434cffd0c48ff7102",
+      "bytes": 54302,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/046.jpg",
+        "sha256": "e3354b47dcdb6adb8d67f7cdeb25961b6061957aa16bdf3434cffd0c48ff7102"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-3.jpg",
+        "sha256": "e3354b47dcdb6adb8d67f7cdeb25961b6061957aa16bdf3434cffd0c48ff7102"
+      }
+    },
+    {
+      "label": "reference-56 mobile ending\nreference-168 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 9 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa",
+      "bytes": 57657,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/047.jpg",
+        "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-stop.jpg",
+        "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa"
+      }
+    },
+    {
+      "label": "reference-57 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 0 (ordered)",
+      "sha256": "5e23cf293ccf97a21eec82291d1f744adcc821a6dfe037335740232431c6e455",
+      "bytes": 174676,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/048.jpg",
+        "sha256": "5e23cf293ccf97a21eec82291d1f744adcc821a6dfe037335740232431c6e455"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-opening.jpg",
+        "sha256": "5e23cf293ccf97a21eec82291d1f744adcc821a6dfe037335740232431c6e455"
+      }
+    },
+    {
+      "label": "reference-58 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 1 (ordered)",
+      "sha256": "361bad38675f7f48a0cf86c92fadc472059f2baf01693a5bc98362860f80b820",
+      "bytes": 166282,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/049.jpg",
+        "sha256": "361bad38675f7f48a0cf86c92fadc472059f2baf01693a5bc98362860f80b820"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-01.jpg",
+        "sha256": "361bad38675f7f48a0cf86c92fadc472059f2baf01693a5bc98362860f80b820"
+      }
+    },
+    {
+      "label": "reference-59 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 2 (ordered)",
+      "sha256": "2c4569c8ad345c4b9cb26bef9e37bc6142ef05c18145f66677d5e16593d62190",
+      "bytes": 149395,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/050.jpg",
+        "sha256": "2c4569c8ad345c4b9cb26bef9e37bc6142ef05c18145f66677d5e16593d62190"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-02.jpg",
+        "sha256": "2c4569c8ad345c4b9cb26bef9e37bc6142ef05c18145f66677d5e16593d62190"
+      }
+    },
+    {
+      "label": "reference-60 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 3 (ordered)",
+      "sha256": "3882c04ce3377be06889c2099a09b6cb6b408ef491b7e215755d1f874e4b351a",
+      "bytes": 68379,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/051.jpg",
+        "sha256": "3882c04ce3377be06889c2099a09b6cb6b408ef491b7e215755d1f874e4b351a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-03.jpg",
+        "sha256": "3882c04ce3377be06889c2099a09b6cb6b408ef491b7e215755d1f874e4b351a"
+      }
+    },
+    {
+      "label": "reference-61 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 4 (ordered)",
+      "sha256": "f63a13a0c85e0ffd8b310a1db5fd757ac0026f30be8ed100c9c9627ae8570b14",
+      "bytes": 70360,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/052.jpg",
+        "sha256": "f63a13a0c85e0ffd8b310a1db5fd757ac0026f30be8ed100c9c9627ae8570b14"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-04.jpg",
+        "sha256": "f63a13a0c85e0ffd8b310a1db5fd757ac0026f30be8ed100c9c9627ae8570b14"
+      }
+    },
+    {
+      "label": "reference-62 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 5 (ordered)",
+      "sha256": "dff9f460c0bc2c6015037c7c0525dbd6913feb311e47f00c992e3857413e4efb",
+      "bytes": 60994,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/053.jpg",
+        "sha256": "dff9f460c0bc2c6015037c7c0525dbd6913feb311e47f00c992e3857413e4efb"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-05.jpg",
+        "sha256": "dff9f460c0bc2c6015037c7c0525dbd6913feb311e47f00c992e3857413e4efb"
+      }
+    },
+    {
+      "label": "reference-63 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 6 (ordered)",
+      "sha256": "f8bf48e44bfcdb1d6362fd78bea35b5df453e6258f62fab2e046f2a6d5d99555",
+      "bytes": 53448,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/054.jpg",
+        "sha256": "f8bf48e44bfcdb1d6362fd78bea35b5df453e6258f62fab2e046f2a6d5d99555"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-06.jpg",
+        "sha256": "f8bf48e44bfcdb1d6362fd78bea35b5df453e6258f62fab2e046f2a6d5d99555"
+      }
+    },
+    {
+      "label": "reference-64 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 7 (ordered)",
+      "sha256": "b4e722d17182efeeb4b3c43599c6e707a1dc15b410cefe83f1ec8faf84cca534",
+      "bytes": 73247,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/055.jpg",
+        "sha256": "b4e722d17182efeeb4b3c43599c6e707a1dc15b410cefe83f1ec8faf84cca534"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-07.jpg",
+        "sha256": "b4e722d17182efeeb4b3c43599c6e707a1dc15b410cefe83f1ec8faf84cca534"
+      }
+    },
+    {
+      "label": "reference-65 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 8 (ordered)",
+      "sha256": "8f555b3983b18d2c41c3e7766bb6c4789ab6f6c78801fb678a1cd395f75ae278",
+      "bytes": 71515,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/056.jpg",
+        "sha256": "8f555b3983b18d2c41c3e7766bb6c4789ab6f6c78801fb678a1cd395f75ae278"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-08.jpg",
+        "sha256": "8f555b3983b18d2c41c3e7766bb6c4789ab6f6c78801fb678a1cd395f75ae278"
+      }
+    },
+    {
+      "label": "reference-66 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 9 (ordered)",
+      "sha256": "809ac220293a27e10f4f2e6ec373a8f2da5db3c802620272292d9e66d9d020f5",
+      "bytes": 101745,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/057.jpg",
+        "sha256": "809ac220293a27e10f4f2e6ec373a8f2da5db3c802620272292d9e66d9d020f5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-09.jpg",
+        "sha256": "809ac220293a27e10f4f2e6ec373a8f2da5db3c802620272292d9e66d9d020f5"
+      }
+    },
+    {
+      "label": "reference-67 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 10 (ordered)",
+      "sha256": "7343be014f1cc342e933e8444ef55204cb5fadbb7ed922576b271d4f1eecd210",
+      "bytes": 131227,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/058.jpg",
+        "sha256": "7343be014f1cc342e933e8444ef55204cb5fadbb7ed922576b271d4f1eecd210"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-10.jpg",
+        "sha256": "7343be014f1cc342e933e8444ef55204cb5fadbb7ed922576b271d4f1eecd210"
+      }
+    },
+    {
+      "label": "reference-68 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 11 (ordered)",
+      "sha256": "1b7c3d7e526bdbe5cb6997a8452ed34f3ce532aa5500c78132edbd0d82aaaae0",
+      "bytes": 152125,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/059.jpg",
+        "sha256": "1b7c3d7e526bdbe5cb6997a8452ed34f3ce532aa5500c78132edbd0d82aaaae0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-11.jpg",
+        "sha256": "1b7c3d7e526bdbe5cb6997a8452ed34f3ce532aa5500c78132edbd0d82aaaae0"
+      }
+    },
+    {
+      "label": "reference-70 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 13 (ordered)",
+      "sha256": "c1c3564773d574e2e6ea6a2f84bd1ce213723d9de7a8726425073b43377d3ca1",
+      "bytes": 171316,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/060.jpg",
+        "sha256": "c1c3564773d574e2e6ea6a2f84bd1ce213723d9de7a8726425073b43377d3ca1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-13.jpg",
+        "sha256": "c1c3564773d574e2e6ea6a2f84bd1ce213723d9de7a8726425073b43377d3ca1"
+      }
+    },
+    {
+      "label": "reference-71 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 14 (ordered)",
+      "sha256": "171b49a3ea2fad376bd9b4419b6dee42012e4c29ba25cecb1e6097d1c474746c",
+      "bytes": 103466,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/061.jpg",
+        "sha256": "171b49a3ea2fad376bd9b4419b6dee42012e4c29ba25cecb1e6097d1c474746c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-14.jpg",
+        "sha256": "171b49a3ea2fad376bd9b4419b6dee42012e4c29ba25cecb1e6097d1c474746c"
+      }
+    },
+    {
+      "label": "reference-72 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 15 (ordered)",
+      "sha256": "1853cf150fdca995da7cad968840c21e6250276ffa25a04d08168dfdc46bedda",
+      "bytes": 105991,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/062.jpg",
+        "sha256": "1853cf150fdca995da7cad968840c21e6250276ffa25a04d08168dfdc46bedda"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-15.jpg",
+        "sha256": "1853cf150fdca995da7cad968840c21e6250276ffa25a04d08168dfdc46bedda"
+      }
+    },
+    {
+      "label": "reference-73 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 16 (ordered)",
+      "sha256": "35b4e130872478568a84976e8d13ce40aab623c3665933bfb58638632b62c092",
+      "bytes": 177865,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/063.jpg",
+        "sha256": "35b4e130872478568a84976e8d13ce40aab623c3665933bfb58638632b62c092"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-16.jpg",
+        "sha256": "35b4e130872478568a84976e8d13ce40aab623c3665933bfb58638632b62c092"
+      }
+    },
+    {
+      "label": "reference-74 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 17 (ordered)",
+      "sha256": "cbdb07deae9a7700720ba744f2fd9bde03e5460dd5a6baad9060ffe4899ea8aa",
+      "bytes": 171542,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/064.jpg",
+        "sha256": "cbdb07deae9a7700720ba744f2fd9bde03e5460dd5a6baad9060ffe4899ea8aa"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-17.jpg",
+        "sha256": "cbdb07deae9a7700720ba744f2fd9bde03e5460dd5a6baad9060ffe4899ea8aa"
+      }
+    },
+    {
+      "label": "reference-75 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 18 (ordered)",
+      "sha256": "5fa3194e606e5192211ce008123d8346a80f62d615bcf36e0472f5afe073aff2",
+      "bytes": 159343,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/065.jpg",
+        "sha256": "5fa3194e606e5192211ce008123d8346a80f62d615bcf36e0472f5afe073aff2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-18.jpg",
+        "sha256": "5fa3194e606e5192211ce008123d8346a80f62d615bcf36e0472f5afe073aff2"
+      }
+    },
+    {
+      "label": "reference-76 desktop scroll normal-original-whole-positive-path-to-particle-ending-not-finite-document process 19 (ordered)",
+      "sha256": "6303d009b28ea4b2380cf2c8df9375287cec50be24eda614a4d5d45544ddc181",
+      "bytes": 136699,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/066.jpg",
+        "sha256": "6303d009b28ea4b2380cf2c8df9375287cec50be24eda614a4d5d45544ddc181"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-stopped.jpg",
+        "sha256": "6303d009b28ea4b2380cf2c8df9375287cec50be24eda614a4d5d45544ddc181"
+      }
+    },
+    {
+      "label": "reference-78 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 1 (ordered)",
+      "sha256": "5218bdae79eb8642122b783186f3c902b1ff856788069a3aba5b78ca1c9c873e",
+      "bytes": 210125,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/067.jpg",
+        "sha256": "5218bdae79eb8642122b783186f3c902b1ff856788069a3aba5b78ca1c9c873e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-1.jpg",
+        "sha256": "5218bdae79eb8642122b783186f3c902b1ff856788069a3aba5b78ca1c9c873e"
+      }
+    },
+    {
+      "label": "reference-79 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 2 (ordered)",
+      "sha256": "373006e812bf5eb4f7f8ee5aa23b5bad51b2a025f97adb597e61ce1b803f27ce",
+      "bytes": 180174,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/068.jpg",
+        "sha256": "373006e812bf5eb4f7f8ee5aa23b5bad51b2a025f97adb597e61ce1b803f27ce"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-2.jpg",
+        "sha256": "373006e812bf5eb4f7f8ee5aa23b5bad51b2a025f97adb597e61ce1b803f27ce"
+      }
+    },
+    {
+      "label": "reference-80 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 3 (ordered)",
+      "sha256": "a7abb7e3e902ef12b258d7de4c3daf4f7ec4c5b1b5f835e6fcbe27cf1bc20220",
+      "bytes": 83874,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/069.jpg",
+        "sha256": "a7abb7e3e902ef12b258d7de4c3daf4f7ec4c5b1b5f835e6fcbe27cf1bc20220"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-3.jpg",
+        "sha256": "a7abb7e3e902ef12b258d7de4c3daf4f7ec4c5b1b5f835e6fcbe27cf1bc20220"
+      }
+    },
+    {
+      "label": "reference-81 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 4 (ordered)",
+      "sha256": "8879fbd6907a594b301f0e347d64d0f56f24ee7432ec925bb60bdd40ccb8b380",
+      "bytes": 65310,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/070.jpg",
+        "sha256": "8879fbd6907a594b301f0e347d64d0f56f24ee7432ec925bb60bdd40ccb8b380"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-4.jpg",
+        "sha256": "8879fbd6907a594b301f0e347d64d0f56f24ee7432ec925bb60bdd40ccb8b380"
+      }
+    },
+    {
+      "label": "reference-82 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 5 (ordered)",
+      "sha256": "eb1a66866e85b98cb7a2546d485f9aa0f3b2631ba7de1a561f444d6f5eaf74b0",
+      "bytes": 58314,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/071.jpg",
+        "sha256": "eb1a66866e85b98cb7a2546d485f9aa0f3b2631ba7de1a561f444d6f5eaf74b0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-5.jpg",
+        "sha256": "eb1a66866e85b98cb7a2546d485f9aa0f3b2631ba7de1a561f444d6f5eaf74b0"
+      }
+    },
+    {
+      "label": "reference-83 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 6 (ordered)",
+      "sha256": "76e9f3485cef8ecca802ee205de7246b8c39e9135456b7de4475f21020daeb06",
+      "bytes": 55299,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/072.jpg",
+        "sha256": "76e9f3485cef8ecca802ee205de7246b8c39e9135456b7de4475f21020daeb06"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-6.jpg",
+        "sha256": "76e9f3485cef8ecca802ee205de7246b8c39e9135456b7de4475f21020daeb06"
+      }
+    },
+    {
+      "label": "reference-84 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 7 (ordered)",
+      "sha256": "dee7fc9555bec2d6930f570a4e5b1fff3b67213b32e7f4ff1a9578f74a277ccd",
+      "bytes": 75366,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/073.jpg",
+        "sha256": "dee7fc9555bec2d6930f570a4e5b1fff3b67213b32e7f4ff1a9578f74a277ccd"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-7.jpg",
+        "sha256": "dee7fc9555bec2d6930f570a4e5b1fff3b67213b32e7f4ff1a9578f74a277ccd"
+      }
+    },
+    {
+      "label": "reference-85 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 8 (ordered)",
+      "sha256": "7d634d19bb43a7dabf0b089701a570ce8504616c730bccce0ca501737f3cdb9f",
+      "bytes": 63184,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/074.jpg",
+        "sha256": "7d634d19bb43a7dabf0b089701a570ce8504616c730bccce0ca501737f3cdb9f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-8.jpg",
+        "sha256": "7d634d19bb43a7dabf0b089701a570ce8504616c730bccce0ca501737f3cdb9f"
+      }
+    },
+    {
+      "label": "reference-86 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 9 (ordered)",
+      "sha256": "6e77c285b4d0d5b8a231d007d5e932c4d6b37be6f7cc0b4ad5e3e1043cd2f96f",
+      "bytes": 67435,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/075.jpg",
+        "sha256": "6e77c285b4d0d5b8a231d007d5e932c4d6b37be6f7cc0b4ad5e3e1043cd2f96f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reverse-1.jpg",
+        "sha256": "6e77c285b4d0d5b8a231d007d5e932c4d6b37be6f7cc0b4ad5e3e1043cd2f96f"
+      }
+    },
+    {
+      "label": "reference-87 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 10 (ordered)",
+      "sha256": "48c7ea9c2533e35882108685e847a34ec756f62a085bc738ba71f5afd8393715",
+      "bytes": 58613,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/076.jpg",
+        "sha256": "48c7ea9c2533e35882108685e847a34ec756f62a085bc738ba71f5afd8393715"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reverse-2.jpg",
+        "sha256": "48c7ea9c2533e35882108685e847a34ec756f62a085bc738ba71f5afd8393715"
+      }
+    },
+    {
+      "label": "reference-88 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 11 (ordered)",
+      "sha256": "aadcb1262e4506ad36c4861d155dc73e2468daad8447ea9bcc8f7c98548ad6b2",
+      "bytes": 62962,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/077.jpg",
+        "sha256": "aadcb1262e4506ad36c4861d155dc73e2468daad8447ea9bcc8f7c98548ad6b2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reverse-3.jpg",
+        "sha256": "aadcb1262e4506ad36c4861d155dc73e2468daad8447ea9bcc8f7c98548ad6b2"
+      }
+    },
+    {
+      "label": "reference-89 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 12 (ordered)",
+      "sha256": "4537013c9c36ee2015eaf1ae8de3e4c4c1e88e6fd38e3fa5569f1ce69db413b8",
+      "bytes": 76581,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/078.jpg",
+        "sha256": "4537013c9c36ee2015eaf1ae8de3e4c4c1e88e6fd38e3fa5569f1ce69db413b8"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reverse-4.jpg",
+        "sha256": "4537013c9c36ee2015eaf1ae8de3e4c4c1e88e6fd38e3fa5569f1ce69db413b8"
+      }
+    },
+    {
+      "label": "reference-90 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 13 (ordered)",
+      "sha256": "401c9dfaec9d67190b02af7717406d90b323be147ec055c87fbdd2f2d91ea4fb",
+      "bytes": 182457,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/079.jpg",
+        "sha256": "401c9dfaec9d67190b02af7717406d90b323be147ec055c87fbdd2f2d91ea4fb"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-stop.jpg",
+        "sha256": "401c9dfaec9d67190b02af7717406d90b323be147ec055c87fbdd2f2d91ea4fb"
+      }
+    },
+    {
+      "label": "reference-91 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 14 (ordered)",
+      "sha256": "7a9ead0cdde11fba934942a05decd986565d461523935da6bc4e36bb55a77bf8",
+      "bytes": 178013,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/080.jpg",
+        "sha256": "7a9ead0cdde11fba934942a05decd986565d461523935da6bc4e36bb55a77bf8"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reentry-2.jpg",
+        "sha256": "7a9ead0cdde11fba934942a05decd986565d461523935da6bc4e36bb55a77bf8"
+      }
+    },
+    {
+      "label": "reference-92 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 15 (ordered)",
+      "sha256": "9c9151fea8f835d3841388392cfcee55b5a056bd470aa1eb18a4f86473290f56",
+      "bytes": 78888,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/081.jpg",
+        "sha256": "9c9151fea8f835d3841388392cfcee55b5a056bd470aa1eb18a4f86473290f56"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reentry-3.jpg",
+        "sha256": "9c9151fea8f835d3841388392cfcee55b5a056bd470aa1eb18a4f86473290f56"
+      }
+    },
+    {
+      "label": "reference-93 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 16 (ordered)",
+      "sha256": "cd5e8103a09b137619cb6812e7ced19d46a36b118f7516e41f267d13f1164af5",
+      "bytes": 201659,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/082.jpg",
+        "sha256": "cd5e8103a09b137619cb6812e7ced19d46a36b118f7516e41f267d13f1164af5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reentry-stop.jpg",
+        "sha256": "cd5e8103a09b137619cb6812e7ced19d46a36b118f7516e41f267d13f1164af5"
+      }
+    },
+    {
+      "label": "reference-94 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 17 (ordered)",
+      "sha256": "f9d1f841f783c486122cc0cd7d68ad2b01d05a69850753716fb1749d943e64d4",
+      "bytes": 82515,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/083.jpg",
+        "sha256": "f9d1f841f783c486122cc0cd7d68ad2b01d05a69850753716fb1749d943e64d4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-next-3.jpg",
+        "sha256": "f9d1f841f783c486122cc0cd7d68ad2b01d05a69850753716fb1749d943e64d4"
+      }
+    },
+    {
+      "label": "reference-95 desktop scroll normal-live-forward-reverse-stop-and-reentry-separate-observation process 18 (ordered)",
+      "sha256": "fc5d0672543245f180c55034654a2f5148c8fce4505771f53353d10bb5840962",
+      "bytes": 84920,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/084.jpg",
+        "sha256": "fc5d0672543245f180c55034654a2f5148c8fce4505771f53353d10bb5840962"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-next-4.jpg",
+        "sha256": "fc5d0672543245f180c55034654a2f5148c8fce4505771f53353d10bb5840962"
+      }
+    },
+    {
+      "label": "reference-97 desktop pointer normal-ice-opening-pointer-left-right-leave process 0 (ordered)",
+      "sha256": "d4b2d119246604a0bcbf73175f4bcd6f2407c29050c6ccd57fbe80b205afffe6",
+      "bytes": 218684,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/085.jpg",
+        "sha256": "d4b2d119246604a0bcbf73175f4bcd6f2407c29050c6ccd57fbe80b205afffe6"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-left.jpg",
+        "sha256": "d4b2d119246604a0bcbf73175f4bcd6f2407c29050c6ccd57fbe80b205afffe6"
+      }
+    },
+    {
+      "label": "reference-98 desktop pointer normal-ice-opening-pointer-left-right-leave process 1 (ordered)",
+      "sha256": "49233d40a999675333853dd008bb44fda68a5560eb21ee6747a16b26258f9f96",
+      "bytes": 215487,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/086.jpg",
+        "sha256": "49233d40a999675333853dd008bb44fda68a5560eb21ee6747a16b26258f9f96"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-right.jpg",
+        "sha256": "49233d40a999675333853dd008bb44fda68a5560eb21ee6747a16b26258f9f96"
+      }
+    },
+    {
+      "label": "reference-99 desktop pointer normal-ice-opening-pointer-left-right-leave process 2 (ordered)",
+      "sha256": "c4c7fd11ac0acc45bcd1bc2c8fd992514cdfefbd2e28c504463c83b8a389446f",
+      "bytes": 202074,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/087.jpg",
+        "sha256": "c4c7fd11ac0acc45bcd1bc2c8fd992514cdfefbd2e28c504463c83b8a389446f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-leave.jpg",
+        "sha256": "c4c7fd11ac0acc45bcd1bc2c8fd992514cdfefbd2e28c504463c83b8a389446f"
+      }
+    },
+    {
+      "label": "reference-100 desktop pointer reduced-ice-opening-same-scene-pointer-left-right-leave process 0 (ordered)\nreference-117 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 0 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "51a6405ebaf8acc81b00879ae20b8642174173b3b87d7fea8d5a1485fb2dd214",
+      "bytes": 224557,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/088.jpg",
+        "sha256": "51a6405ebaf8acc81b00879ae20b8642174173b3b87d7fea8d5a1485fb2dd214"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-opening.jpg",
+        "sha256": "51a6405ebaf8acc81b00879ae20b8642174173b3b87d7fea8d5a1485fb2dd214"
+      }
+    },
+    {
+      "label": "reference-101 desktop pointer reduced-ice-opening-same-scene-pointer-left-right-leave process 1 (ordered)",
+      "sha256": "abd2695c572e46cb7f7c52e0d9ffab404ee6727a31f72d94b891181bddb25e2d",
+      "bytes": 187524,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/089.jpg",
+        "sha256": "abd2695c572e46cb7f7c52e0d9ffab404ee6727a31f72d94b891181bddb25e2d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-pointer-left.jpg",
+        "sha256": "abd2695c572e46cb7f7c52e0d9ffab404ee6727a31f72d94b891181bddb25e2d"
+      }
+    },
+    {
+      "label": "reference-102 desktop pointer reduced-ice-opening-same-scene-pointer-left-right-leave process 2 (ordered)",
+      "sha256": "cf189b7bc3daf2c928f99f58b382f007e76461dd4e729072f05835ae3817a918",
+      "bytes": 184579,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/090.jpg",
+        "sha256": "cf189b7bc3daf2c928f99f58b382f007e76461dd4e729072f05835ae3817a918"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-pointer-right.jpg",
+        "sha256": "cf189b7bc3daf2c928f99f58b382f007e76461dd4e729072f05835ae3817a918"
+      }
+    },
+    {
+      "label": "reference-103 desktop pointer reduced-ice-opening-same-scene-pointer-left-right-leave process 3 (ordered)",
+      "sha256": "556bdbb3d19835f642370c884f48f55818405bd7497a65e8153945c35785abd6",
+      "bytes": 179233,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/091.jpg",
+        "sha256": "556bdbb3d19835f642370c884f48f55818405bd7497a65e8153945c35785abd6"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-pointer-leave.jpg",
+        "sha256": "556bdbb3d19835f642370c884f48f55818405bd7497a65e8153945c35785abd6"
+      }
+    },
+    {
+      "label": "reference-105 desktop pointer normal-frozen-work-real-click-detail-Escape-did-not-close-Close-return process 1 (ordered)",
+      "sha256": "cf713e80a8adc0212cb4f0c2fed607bd8301003102c61a06e3e6d3c619b4320a",
+      "bytes": 38286,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/092.jpg",
+        "sha256": "cf713e80a8adc0212cb4f0c2fed607bd8301003102c61a06e3e6d3c619b4320a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-click.jpg",
+        "sha256": "cf713e80a8adc0212cb4f0c2fed607bd8301003102c61a06e3e6d3c619b4320a"
+      }
+    },
+    {
+      "label": "reference-106 desktop pointer normal-frozen-work-real-click-detail-Escape-did-not-close-Close-return process 2 (ordered)",
+      "sha256": "2e1736ce4b4abf5ae3fd7e191153125dd29950c2e5e86e16a2df22a2e01abf8a",
+      "bytes": 86442,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/093.jpg",
+        "sha256": "2e1736ce4b4abf5ae3fd7e191153125dd29950c2e5e86e16a2df22a2e01abf8a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-return.jpg",
+        "sha256": "2e1736ce4b4abf5ae3fd7e191153125dd29950c2e5e86e16a2df22a2e01abf8a"
+      }
+    },
+    {
+      "label": "reference-107 desktop pointer normal-frozen-work-real-click-detail-Escape-did-not-close-Close-return process 3 (ordered)",
+      "sha256": "935d9a38845b507bbc65f1d9b5d2af72ee3a1ff4cecaea7e8db98533a1b180f8",
+      "bytes": 87602,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/094.jpg",
+        "sha256": "935d9a38845b507bbc65f1d9b5d2af72ee3a1ff4cecaea7e8db98533a1b180f8"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-detail-stable.jpg",
+        "sha256": "935d9a38845b507bbc65f1d9b5d2af72ee3a1ff4cecaea7e8db98533a1b180f8"
+      }
+    },
+    {
+      "label": "reference-108 desktop pointer normal-frozen-work-real-click-detail-Escape-did-not-close-Close-return process 4 (ordered)",
+      "sha256": "f71d3cf237657c486a5ed7303662a0dd22b4302dc4f1c6ddf25d8dc2a26cc85b",
+      "bytes": 97079,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/095.jpg",
+        "sha256": "f71d3cf237657c486a5ed7303662a0dd22b4302dc4f1c6ddf25d8dc2a26cc85b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-close.jpg",
+        "sha256": "f71d3cf237657c486a5ed7303662a0dd22b4302dc4f1c6ddf25d8dc2a26cc85b"
+      }
+    },
+    {
+      "label": "reference-109 desktop pointer normal-particle-pointer-movement-then-right-selection-and-left-return process 0 (ordered)",
+      "sha256": "706f5ad243f9cf0903b5e5dcc0edd1fd7f644a645a94c124bdaffffd054eb27a",
+      "bytes": 142498,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/096.jpg",
+        "sha256": "706f5ad243f9cf0903b5e5dcc0edd1fd7f644a645a94c124bdaffffd054eb27a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-to-second-back-2.jpg",
+        "sha256": "706f5ad243f9cf0903b5e5dcc0edd1fd7f644a645a94c124bdaffffd054eb27a"
+      }
+    },
+    {
+      "label": "reference-110 desktop pointer normal-particle-pointer-movement-then-right-selection-and-left-return process 1 (ordered)",
+      "sha256": "8e9d90beaeeea1bf94416082242931c6e70c2a716596b670781c20d1d45406da",
+      "bytes": 110915,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/097.jpg",
+        "sha256": "8e9d90beaeeea1bf94416082242931c6e70c2a716596b670781c20d1d45406da"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-pointer-left.jpg",
+        "sha256": "8e9d90beaeeea1bf94416082242931c6e70c2a716596b670781c20d1d45406da"
+      }
+    },
+    {
+      "label": "reference-111 desktop pointer normal-particle-pointer-movement-then-right-selection-and-left-return process 2 (ordered)",
+      "sha256": "56c0f961428fa0fc708250bd4d0b479dd5152f09e51d6aee0495b0bb95d24333",
+      "bytes": 131701,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/098.jpg",
+        "sha256": "56c0f961428fa0fc708250bd4d0b479dd5152f09e51d6aee0495b0bb95d24333"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-pointer-right.jpg",
+        "sha256": "56c0f961428fa0fc708250bd4d0b479dd5152f09e51d6aee0495b0bb95d24333"
+      }
+    },
+    {
+      "label": "reference-112 desktop pointer normal-particle-pointer-movement-then-right-selection-and-left-return process 3 (ordered)",
+      "sha256": "2acff17679cdcfc9b99d3e169e2c835516f42221ff3d2f25f74e6f05c26271f2",
+      "bytes": 135927,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/099.jpg",
+        "sha256": "2acff17679cdcfc9b99d3e169e2c835516f42221ff3d2f25f74e6f05c26271f2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-pointer-leave.jpg",
+        "sha256": "2acff17679cdcfc9b99d3e169e2c835516f42221ff3d2f25f74e6f05c26271f2"
+      }
+    },
+    {
+      "label": "reference-113 desktop pointer normal-particle-pointer-movement-then-right-selection-and-left-return process 4 (ordered)",
+      "sha256": "22a45a6be6a70fe8c449c12105c169b69ccbf564fccf6b99dd012b3b8bd2a48c",
+      "bytes": 146932,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/100.jpg",
+        "sha256": "22a45a6be6a70fe8c449c12105c169b69ccbf564fccf6b99dd012b3b8bd2a48c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-next.jpg",
+        "sha256": "22a45a6be6a70fe8c449c12105c169b69ccbf564fccf6b99dd012b3b8bd2a48c"
+      }
+    },
+    {
+      "label": "reference-114 desktop pointer normal-particle-pointer-movement-then-right-selection-and-left-return process 5 (ordered)",
+      "sha256": "4b8706920f05c248b908b1374f7fbfb5d5e59a163c0495248e2b8e740f056a67",
+      "bytes": 134368,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/101.jpg",
+        "sha256": "4b8706920f05c248b908b1374f7fbfb5d5e59a163c0495248e2b8e740f056a67"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-next-stop.jpg",
+        "sha256": "4b8706920f05c248b908b1374f7fbfb5d5e59a163c0495248e2b8e740f056a67"
+      }
+    },
+    {
+      "label": "reference-115 desktop pointer normal-particle-pointer-movement-then-right-selection-and-left-return process 6 (ordered)",
+      "sha256": "f50cbff4fd2cf003f267658093da53940d8c7c415711470d94dd8262dc966552",
+      "bytes": 129747,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/102.jpg",
+        "sha256": "f50cbff4fd2cf003f267658093da53940d8c7c415711470d94dd8262dc966552"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev.jpg",
+        "sha256": "f50cbff4fd2cf003f267658093da53940d8c7c415711470d94dd8262dc966552"
+      }
+    },
+    {
+      "label": "reference-118 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 1 (ordered)",
+      "sha256": "423722ba326b3a2bbe01427a93fa08981abf6b492336c58a4b728795f8247705",
+      "bytes": 175720,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/103.jpg",
+        "sha256": "423722ba326b3a2bbe01427a93fa08981abf6b492336c58a4b728795f8247705"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-1.jpg",
+        "sha256": "423722ba326b3a2bbe01427a93fa08981abf6b492336c58a4b728795f8247705"
+      }
+    },
+    {
+      "label": "reference-119 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 2 (ordered)",
+      "sha256": "827d5057668f645e7f325c29f5b8583ac7b2e93fe737d82e9e82c3cc99024df0",
+      "bytes": 155120,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/104.jpg",
+        "sha256": "827d5057668f645e7f325c29f5b8583ac7b2e93fe737d82e9e82c3cc99024df0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-2.jpg",
+        "sha256": "827d5057668f645e7f325c29f5b8583ac7b2e93fe737d82e9e82c3cc99024df0"
+      }
+    },
+    {
+      "label": "reference-120 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 3 (ordered)",
+      "sha256": "16a4f28c958d70b939c5396ebac3cb390899085f3af776a39c4206285b522eb6",
+      "bytes": 69446,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/105.jpg",
+        "sha256": "16a4f28c958d70b939c5396ebac3cb390899085f3af776a39c4206285b522eb6"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-3.jpg",
+        "sha256": "16a4f28c958d70b939c5396ebac3cb390899085f3af776a39c4206285b522eb6"
+      }
+    },
+    {
+      "label": "reference-121 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 4 (ordered)",
+      "sha256": "5816d89a3a27da035d6e42f96ae420ad92cca4f30fa3e4bdb438c100f3db4edd",
+      "bytes": 67033,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/106.jpg",
+        "sha256": "5816d89a3a27da035d6e42f96ae420ad92cca4f30fa3e4bdb438c100f3db4edd"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-4.jpg",
+        "sha256": "5816d89a3a27da035d6e42f96ae420ad92cca4f30fa3e4bdb438c100f3db4edd"
+      }
+    },
+    {
+      "label": "reference-122 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 5 (ordered)",
+      "sha256": "3a138bd06c94a8f7ef797d22ced24fb04932bd6e2d3f0a06eb25576ab9ff2669",
+      "bytes": 66502,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/107.jpg",
+        "sha256": "3a138bd06c94a8f7ef797d22ced24fb04932bd6e2d3f0a06eb25576ab9ff2669"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-5.jpg",
+        "sha256": "3a138bd06c94a8f7ef797d22ced24fb04932bd6e2d3f0a06eb25576ab9ff2669"
+      }
+    },
+    {
+      "label": "reference-123 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 6 (ordered)",
+      "sha256": "5e2c76e97e975a9778daf44016da1e3d920a08df044b10974fa942cbd37be824",
+      "bytes": 77228,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/108.jpg",
+        "sha256": "5e2c76e97e975a9778daf44016da1e3d920a08df044b10974fa942cbd37be824"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-6.jpg",
+        "sha256": "5e2c76e97e975a9778daf44016da1e3d920a08df044b10974fa942cbd37be824"
+      }
+    },
+    {
+      "label": "reference-124 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 7 (ordered)",
+      "sha256": "f6a312a76904e4fd949564093b9311bfc2775807fa6bacfd54c9356311313cef",
+      "bytes": 63152,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/109.jpg",
+        "sha256": "f6a312a76904e4fd949564093b9311bfc2775807fa6bacfd54c9356311313cef"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-7.jpg",
+        "sha256": "f6a312a76904e4fd949564093b9311bfc2775807fa6bacfd54c9356311313cef"
+      }
+    },
+    {
+      "label": "reference-125 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 8 (ordered)",
+      "sha256": "9d92cbc26bd1e880a428e88f4766cd561f0919256a8e444377ec056f4368f25d",
+      "bytes": 79377,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/110.jpg",
+        "sha256": "9d92cbc26bd1e880a428e88f4766cd561f0919256a8e444377ec056f4368f25d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-8.jpg",
+        "sha256": "9d92cbc26bd1e880a428e88f4766cd561f0919256a8e444377ec056f4368f25d"
+      }
+    },
+    {
+      "label": "reference-126 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 9 (ordered)",
+      "sha256": "e5f12f5616484af33a33ef1e9215c9c7c2a2a93722a7d8d1287dd6dae6b048bc",
+      "bytes": 73663,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/111.jpg",
+        "sha256": "e5f12f5616484af33a33ef1e9215c9c7c2a2a93722a7d8d1287dd6dae6b048bc"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-9.jpg",
+        "sha256": "e5f12f5616484af33a33ef1e9215c9c7c2a2a93722a7d8d1287dd6dae6b048bc"
+      }
+    },
+    {
+      "label": "reference-127 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 10 (ordered)",
+      "sha256": "51340794f050f683fbdb0a82205a0a989a4bb8fc8686c6259f9c9c8ca0f4895c",
+      "bytes": 103294,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/112.jpg",
+        "sha256": "51340794f050f683fbdb0a82205a0a989a4bb8fc8686c6259f9c9c8ca0f4895c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-10.jpg",
+        "sha256": "51340794f050f683fbdb0a82205a0a989a4bb8fc8686c6259f9c9c8ca0f4895c"
+      }
+    },
+    {
+      "label": "reference-128 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 11 (ordered)",
+      "sha256": "be37c0493d4d998751738e6160c3c2015fd57cc73c3bf721bf1dd173708189e5",
+      "bytes": 117226,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/113.jpg",
+        "sha256": "be37c0493d4d998751738e6160c3c2015fd57cc73c3bf721bf1dd173708189e5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-11.jpg",
+        "sha256": "be37c0493d4d998751738e6160c3c2015fd57cc73c3bf721bf1dd173708189e5"
+      }
+    },
+    {
+      "label": "reference-129 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 12 (ordered)",
+      "sha256": "f3ea656171ddae8c11c1db99bcd4433c95771dfff7178e891094790f7d216ae5",
+      "bytes": 143954,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/114.jpg",
+        "sha256": "f3ea656171ddae8c11c1db99bcd4433c95771dfff7178e891094790f7d216ae5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-12.jpg",
+        "sha256": "f3ea656171ddae8c11c1db99bcd4433c95771dfff7178e891094790f7d216ae5"
+      }
+    },
+    {
+      "label": "reference-130 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 13 (ordered)",
+      "sha256": "c52141f2a9673282cec83b169502e6fa11a718183a6c3c1599e5a1674b810a17",
+      "bytes": 102826,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/115.jpg",
+        "sha256": "c52141f2a9673282cec83b169502e6fa11a718183a6c3c1599e5a1674b810a17"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-13.jpg",
+        "sha256": "c52141f2a9673282cec83b169502e6fa11a718183a6c3c1599e5a1674b810a17"
+      }
+    },
+    {
+      "label": "reference-131 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 14 (ordered)",
+      "sha256": "869674c7758cfd9d84ab86f362489206ab0c9356450401841d6f6ea4d5570457",
+      "bytes": 145924,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/116.jpg",
+        "sha256": "869674c7758cfd9d84ab86f362489206ab0c9356450401841d6f6ea4d5570457"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-14.jpg",
+        "sha256": "869674c7758cfd9d84ab86f362489206ab0c9356450401841d6f6ea4d5570457"
+      }
+    },
+    {
+      "label": "reference-132 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 15 (ordered)",
+      "sha256": "2f587ec042f4d68ffb678e1ce73b6eb1609696fa2d00dfac6b29805cd04a1f66",
+      "bytes": 107511,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/117.jpg",
+        "sha256": "2f587ec042f4d68ffb678e1ce73b6eb1609696fa2d00dfac6b29805cd04a1f66"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-15.jpg",
+        "sha256": "2f587ec042f4d68ffb678e1ce73b6eb1609696fa2d00dfac6b29805cd04a1f66"
+      }
+    },
+    {
+      "label": "reference-133 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 16 (ordered)",
+      "sha256": "f176e8453d2eaced72bb848ae1779faffc47e8400441ec5b8bb00364ed476b41",
+      "bytes": 128614,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/118.jpg",
+        "sha256": "f176e8453d2eaced72bb848ae1779faffc47e8400441ec5b8bb00364ed476b41"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-16.jpg",
+        "sha256": "f176e8453d2eaced72bb848ae1779faffc47e8400441ec5b8bb00364ed476b41"
+      }
+    },
+    {
+      "label": "reference-134 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 17 (ordered)",
+      "sha256": "5542566e2bf496cd587291704da5e050e3be6c75de2c29ca4491973538cdae9e",
+      "bytes": 185222,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/119.jpg",
+        "sha256": "5542566e2bf496cd587291704da5e050e3be6c75de2c29ca4491973538cdae9e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-17.jpg",
+        "sha256": "5542566e2bf496cd587291704da5e050e3be6c75de2c29ca4491973538cdae9e"
+      }
+    },
+    {
+      "label": "reference-135 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 18 (ordered)",
+      "sha256": "2a8c2bf468c260d17bbd6941c0d69afc914a46efc74c1ac6a06f5b6771ec89d5",
+      "bytes": 182798,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/120.jpg",
+        "sha256": "2a8c2bf468c260d17bbd6941c0d69afc914a46efc74c1ac6a06f5b6771ec89d5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-18.jpg",
+        "sha256": "2a8c2bf468c260d17bbd6941c0d69afc914a46efc74c1ac6a06f5b6771ec89d5"
+      }
+    },
+    {
+      "label": "reference-136 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 19 (ordered)",
+      "sha256": "b8afca31136885693da8e4f309cf64315ca813ed82fa6b6083f4f206ccd9029b",
+      "bytes": 144038,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/121.jpg",
+        "sha256": "b8afca31136885693da8e4f309cf64315ca813ed82fa6b6083f4f206ccd9029b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-arrive.jpg",
+        "sha256": "b8afca31136885693da8e4f309cf64315ca813ed82fa6b6083f4f206ccd9029b"
+      }
+    },
+    {
+      "label": "reference-137 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 20 (ordered)\nreference-142 desktop pointer reduced-particle-same-scene-pointer-and-actual-next-prev-selection process 0 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "dec957daaf021f0a30acd1bb5fbe0e8ddafcb95b17bbf5a4b698657f1d5e5d27",
+      "bytes": 133307,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/122.jpg",
+        "sha256": "dec957daaf021f0a30acd1bb5fbe0e8ddafcb95b17bbf5a4b698657f1d5e5d27"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-stop.jpg",
+        "sha256": "dec957daaf021f0a30acd1bb5fbe0e8ddafcb95b17bbf5a4b698657f1d5e5d27"
+      }
+    },
+    {
+      "label": "reference-138 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 21 (ordered)",
+      "sha256": "54cb1e4a279d7128b22845e6b0a92241d5c360081947fd9cf21ba44214f3d55a",
+      "bytes": 141640,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/123.jpg",
+        "sha256": "54cb1e4a279d7128b22845e6b0a92241d5c360081947fd9cf21ba44214f3d55a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-1.jpg",
+        "sha256": "54cb1e4a279d7128b22845e6b0a92241d5c360081947fd9cf21ba44214f3d55a"
+      }
+    },
+    {
+      "label": "reference-139 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 22 (ordered)",
+      "sha256": "11d6b8c16ca3ca505ba4b4fa4e77bf95958e2b46ea8b95fe90aaeca73ccc6ffd",
+      "bytes": 146142,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/124.jpg",
+        "sha256": "11d6b8c16ca3ca505ba4b4fa4e77bf95958e2b46ea8b95fe90aaeca73ccc6ffd"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-2.jpg",
+        "sha256": "11d6b8c16ca3ca505ba4b4fa4e77bf95958e2b46ea8b95fe90aaeca73ccc6ffd"
+      }
+    },
+    {
+      "label": "reference-140 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 23 (ordered)",
+      "sha256": "3f1ca277c10f810d8cdfe0a8c0a3073db9e36e6b05abd07952476eb0bb74e169",
+      "bytes": 184316,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/125.jpg",
+        "sha256": "3f1ca277c10f810d8cdfe0a8c0a3073db9e36e6b05abd07952476eb0bb74e169"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-3.jpg",
+        "sha256": "3f1ca277c10f810d8cdfe0a8c0a3073db9e36e6b05abd07952476eb0bb74e169"
+      }
+    },
+    {
+      "label": "reference-141 desktop scroll reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform process 24 (ordered)",
+      "sha256": "6a191cd28c6d41cb4a4a07b83f56675c7be7f9c52f645823bf3316f034f9a963",
+      "bytes": 136438,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/126.jpg",
+        "sha256": "6a191cd28c6d41cb4a4a07b83f56675c7be7f9c52f645823bf3316f034f9a963"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-4.jpg",
+        "sha256": "6a191cd28c6d41cb4a4a07b83f56675c7be7f9c52f645823bf3316f034f9a963"
+      }
+    },
+    {
+      "label": "reference-143 desktop pointer reduced-particle-same-scene-pointer-and-actual-next-prev-selection process 1 (ordered)",
+      "sha256": "cf04c2eaca0c0eb8710bc71574fc0ea5773887fa6dc2e119671cc203b84ee216",
+      "bytes": 126101,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/127.jpg",
+        "sha256": "cf04c2eaca0c0eb8710bc71574fc0ea5773887fa6dc2e119671cc203b84ee216"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-pointer-left.jpg",
+        "sha256": "cf04c2eaca0c0eb8710bc71574fc0ea5773887fa6dc2e119671cc203b84ee216"
+      }
+    },
+    {
+      "label": "reference-144 desktop pointer reduced-particle-same-scene-pointer-and-actual-next-prev-selection process 2 (ordered)",
+      "sha256": "cd8e2c7f9aedc151985c2dc6e72208efcff3f462afa6ecc4e653e3f1332a05c5",
+      "bytes": 133541,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/128.jpg",
+        "sha256": "cd8e2c7f9aedc151985c2dc6e72208efcff3f462afa6ecc4e653e3f1332a05c5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-pointer-right.jpg",
+        "sha256": "cd8e2c7f9aedc151985c2dc6e72208efcff3f462afa6ecc4e653e3f1332a05c5"
+      }
+    },
+    {
+      "label": "reference-145 desktop pointer reduced-particle-same-scene-pointer-and-actual-next-prev-selection process 3 (ordered)",
+      "sha256": "300594c45febcf740237f7aaf916ff08c0ab8c52d9a8eef75c1063605a3b361a",
+      "bytes": 138478,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/129.jpg",
+        "sha256": "300594c45febcf740237f7aaf916ff08c0ab8c52d9a8eef75c1063605a3b361a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-pointer-leave.jpg",
+        "sha256": "300594c45febcf740237f7aaf916ff08c0ab8c52d9a8eef75c1063605a3b361a"
+      }
+    },
+    {
+      "label": "reference-146 desktop pointer reduced-particle-same-scene-pointer-and-actual-next-prev-selection process 4 (ordered)",
+      "sha256": "492b7b99714f51a0d83bcba978a243448772b573039b3235e0ed092afa6ca66b",
+      "bytes": 137291,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/130.jpg",
+        "sha256": "492b7b99714f51a0d83bcba978a243448772b573039b3235e0ed092afa6ca66b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-next.jpg",
+        "sha256": "492b7b99714f51a0d83bcba978a243448772b573039b3235e0ed092afa6ca66b"
+      }
+    },
+    {
+      "label": "reference-147 desktop pointer reduced-particle-same-scene-pointer-and-actual-next-prev-selection process 5 (ordered)",
+      "sha256": "5777404411f42ec6e3f3ec6d4c281c4fc053416eb287a328ac7438bd6c1a5c4b",
+      "bytes": 130814,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/131.jpg",
+        "sha256": "5777404411f42ec6e3f3ec6d4c281c4fc053416eb287a328ac7438bd6c1a5c4b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-prev.jpg",
+        "sha256": "5777404411f42ec6e3f3ec6d4c281c4fc053416eb287a328ac7438bd6c1a5c4b"
+      }
+    },
+    {
+      "label": "reference-149 mobile scroll normal-real-finger-arrival-both-frozen-works process 1 (ordered)",
+      "sha256": "e119acd0c64d6da6e9b1a2646dea2a22a1b25335e3a786afce7cda060eb3f6ca",
+      "bytes": 60533,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/132.jpg",
+        "sha256": "e119acd0c64d6da6e9b1a2646dea2a22a1b25335e3a786afce7cda060eb3f6ca"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-1.jpg",
+        "sha256": "e119acd0c64d6da6e9b1a2646dea2a22a1b25335e3a786afce7cda060eb3f6ca"
+      }
+    },
+    {
+      "label": "reference-150 mobile scroll normal-real-finger-arrival-both-frozen-works process 2 (ordered)",
+      "sha256": "ce5ab569c96c59fe2195588c953577fdda75f8ae8d406faf7fc8d2de69caaf3b",
+      "bytes": 34040,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/133.jpg",
+        "sha256": "ce5ab569c96c59fe2195588c953577fdda75f8ae8d406faf7fc8d2de69caaf3b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-2.jpg",
+        "sha256": "ce5ab569c96c59fe2195588c953577fdda75f8ae8d406faf7fc8d2de69caaf3b"
+      }
+    },
+    {
+      "label": "reference-152 mobile scroll normal-real-finger-arrival-both-frozen-works process 4 (ordered)",
+      "sha256": "dece62d895c07d939b686f3844e40e42a55a5097125302daf0c6389c95468b46",
+      "bytes": 31968,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/134.jpg",
+        "sha256": "dece62d895c07d939b686f3844e40e42a55a5097125302daf0c6389c95468b46"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-4.jpg",
+        "sha256": "dece62d895c07d939b686f3844e40e42a55a5097125302daf0c6389c95468b46"
+      }
+    },
+    {
+      "label": "reference-153 mobile scroll normal-real-finger-arrival-both-frozen-works process 5 (ordered)",
+      "sha256": "1884024b05a7c7123a1a88be92ec9832e4e2552a45c33dad3cf5b5943c167b12",
+      "bytes": 27530,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/135.jpg",
+        "sha256": "1884024b05a7c7123a1a88be92ec9832e4e2552a45c33dad3cf5b5943c167b12"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-work-stop.jpg",
+        "sha256": "1884024b05a7c7123a1a88be92ec9832e4e2552a45c33dad3cf5b5943c167b12"
+      }
+    },
+    {
+      "label": "reference-154 mobile scroll normal-real-finger-arrival-both-frozen-works process 6 (ordered)",
+      "sha256": "05751bfe48f6ce8f06d88999344d2bef6ee42b348c6c40479253a6f014619d99",
+      "bytes": 34040,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/136.jpg",
+        "sha256": "05751bfe48f6ce8f06d88999344d2bef6ee42b348c6c40479253a6f014619d99"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-second-stop.jpg",
+        "sha256": "05751bfe48f6ce8f06d88999344d2bef6ee42b348c6c40479253a6f014619d99"
+      }
+    },
+    {
+      "label": "reference-155 mobile pointer normal-short-finger-open-and-Close-return-second-work process 0 (ordered)",
+      "sha256": "93ef9965f852ddf874c14e760b2bde99ce492ffdbaa8852423231e5335c235e0",
+      "bytes": 27413,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/137.jpg",
+        "sha256": "93ef9965f852ddf874c14e760b2bde99ce492ffdbaa8852423231e5335c235e0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-open/before.jpg",
+        "sha256": "93ef9965f852ddf874c14e760b2bde99ce492ffdbaa8852423231e5335c235e0"
+      }
+    },
+    {
+      "label": "reference-156 mobile pointer normal-short-finger-open-and-Close-return-second-work process 1 (ordered)",
+      "sha256": "0d65556030f63245255fe94cab4933acae280adb6b54863b96f97245a3b2e274",
+      "bytes": 68653,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/138.jpg",
+        "sha256": "0d65556030f63245255fe94cab4933acae280adb6b54863b96f97245a3b2e274"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-open/after.jpg",
+        "sha256": "0d65556030f63245255fe94cab4933acae280adb6b54863b96f97245a3b2e274"
+      }
+    },
+    {
+      "label": "reference-157 mobile pointer normal-short-finger-open-and-Close-return-second-work process 2 (ordered)",
+      "sha256": "e0d6d4bc74c5364121c1731eb23f67a9185898ce348b077a34d75eeda0cfae5b",
+      "bytes": 62564,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/139.jpg",
+        "sha256": "e0d6d4bc74c5364121c1731eb23f67a9185898ce348b077a34d75eeda0cfae5b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-close-02/before.jpg",
+        "sha256": "e0d6d4bc74c5364121c1731eb23f67a9185898ce348b077a34d75eeda0cfae5b"
+      }
+    },
+    {
+      "label": "reference-158 mobile pointer normal-short-finger-open-and-Close-return-second-work process 3 (ordered)",
+      "sha256": "8f185a3fc6f93b1ad17141f68d7be76328ca9dbd82043d9bc9bf3218504803a4",
+      "bytes": 38336,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/140.jpg",
+        "sha256": "8f185a3fc6f93b1ad17141f68d7be76328ca9dbd82043d9bc9bf3218504803a4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-close-02/after.jpg",
+        "sha256": "8f185a3fc6f93b1ad17141f68d7be76328ca9dbd82043d9bc9bf3218504803a4"
+      }
+    },
+    {
+      "label": "reference-159 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 0 (ordered)",
+      "sha256": "7d19670f06cfe4c259505ddfba3f9091009fe22e7f65c285a892d86c6cfe539c",
+      "bytes": 31888,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/141.jpg",
+        "sha256": "7d19670f06cfe4c259505ddfba3f9091009fe22e7f65c285a892d86c6cfe539c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-second-closed.jpg",
+        "sha256": "7d19670f06cfe4c259505ddfba3f9091009fe22e7f65c285a892d86c6cfe539c"
+      }
+    },
+    {
+      "label": "reference-160 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 1 (ordered)",
+      "sha256": "9ede5a10f3e762d658b0c794fe05f32d710af352c758e0a3ed003932129c368c",
+      "bytes": 37284,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/142.jpg",
+        "sha256": "9ede5a10f3e762d658b0c794fe05f32d710af352c758e0a3ed003932129c368c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-1.jpg",
+        "sha256": "9ede5a10f3e762d658b0c794fe05f32d710af352c758e0a3ed003932129c368c"
+      }
+    },
+    {
+      "label": "reference-161 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 2 (ordered)",
+      "sha256": "4c58d501673bbbe07f7fd6ba4dc7652eaf69c3451a76c6c1444b349f3f88c1fa",
+      "bytes": 49875,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/143.jpg",
+        "sha256": "4c58d501673bbbe07f7fd6ba4dc7652eaf69c3451a76c6c1444b349f3f88c1fa"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-2.jpg",
+        "sha256": "4c58d501673bbbe07f7fd6ba4dc7652eaf69c3451a76c6c1444b349f3f88c1fa"
+      }
+    },
+    {
+      "label": "reference-163 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 4 (ordered)",
+      "sha256": "8759f99694105a1fc8f2a3704c4d5466e50f5130f079b7a5966216668fa43665",
+      "bytes": 50692,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/144.jpg",
+        "sha256": "8759f99694105a1fc8f2a3704c4d5466e50f5130f079b7a5966216668fa43665"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-4.jpg",
+        "sha256": "8759f99694105a1fc8f2a3704c4d5466e50f5130f079b7a5966216668fa43665"
+      }
+    },
+    {
+      "label": "reference-164 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 5 (ordered)",
+      "sha256": "27ab84bf12c85ea737abfa824b6b9e3f22c24f67b154effab2b9b4d8ed78310d",
+      "bytes": 53465,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/145.jpg",
+        "sha256": "27ab84bf12c85ea737abfa824b6b9e3f22c24f67b154effab2b9b4d8ed78310d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-5.jpg",
+        "sha256": "27ab84bf12c85ea737abfa824b6b9e3f22c24f67b154effab2b9b4d8ed78310d"
+      }
+    },
+    {
+      "label": "reference-165 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 6 (ordered)",
+      "sha256": "15097baf5df77fe3a64ea5578c7fa5af06dc98958cc8d7c9b99af9f927c5afc3",
+      "bytes": 63264,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/146.jpg",
+        "sha256": "15097baf5df77fe3a64ea5578c7fa5af06dc98958cc8d7c9b99af9f927c5afc3"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-6.jpg",
+        "sha256": "15097baf5df77fe3a64ea5578c7fa5af06dc98958cc8d7c9b99af9f927c5afc3"
+      }
+    },
+    {
+      "label": "reference-166 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 7 (ordered)",
+      "sha256": "e5695503f45632d0be7372162ef573cac4fd276c18176967da402a3a01c202c4",
+      "bytes": 65386,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/147.jpg",
+        "sha256": "e5695503f45632d0be7372162ef573cac4fd276c18176967da402a3a01c202c4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-final-stop.jpg",
+        "sha256": "e5695503f45632d0be7372162ef573cac4fd276c18176967da402a3a01c202c4"
+      }
+    },
+    {
+      "label": "reference-167 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 8 (ordered)",
+      "sha256": "31bde42f5ed037675de11955eb9298cbae9f7e7fc00635124227e3837e89d231",
+      "bytes": 58239,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/148.jpg",
+        "sha256": "31bde42f5ed037675de11955eb9298cbae9f7e7fc00635124227e3837e89d231"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-arrive.jpg",
+        "sha256": "31bde42f5ed037675de11955eb9298cbae9f7e7fc00635124227e3837e89d231"
+      }
+    },
+    {
+      "label": "reference-169 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 10 (ordered)",
+      "sha256": "19848e9b6ee7dfdb6ae6af9f1d0cbdd85865354622e4ea5e9327b412259c68a3",
+      "bytes": 53664,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/149.jpg",
+        "sha256": "19848e9b6ee7dfdb6ae6af9f1d0cbdd85865354622e4ea5e9327b412259c68a3"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-returned.jpg",
+        "sha256": "19848e9b6ee7dfdb6ae6af9f1d0cbdd85865354622e4ea5e9327b412259c68a3"
+      }
+    },
+    {
+      "label": "reference-170 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 11 (ordered)",
+      "sha256": "710cea7ee04f5f91339432eb52feeb0fc4b73b986d6718bbe9f2fb198b781d12",
+      "bytes": 55755,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/150.jpg",
+        "sha256": "710cea7ee04f5f91339432eb52feeb0fc4b73b986d6718bbe9f2fb198b781d12"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-reverse-1.jpg",
+        "sha256": "710cea7ee04f5f91339432eb52feeb0fc4b73b986d6718bbe9f2fb198b781d12"
+      }
+    },
+    {
+      "label": "reference-171 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 12 (ordered)",
+      "sha256": "f2b529c71ab031906c0f8bf1298c29ef2ad1d592a343118cc5c50fbb8101a9b4",
+      "bytes": 70283,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/151.jpg",
+        "sha256": "f2b529c71ab031906c0f8bf1298c29ef2ad1d592a343118cc5c50fbb8101a9b4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-reverse-2.jpg",
+        "sha256": "f2b529c71ab031906c0f8bf1298c29ef2ad1d592a343118cc5c50fbb8101a9b4"
+      }
+    },
+    {
+      "label": "reference-172 mobile scroll normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse process 13 (ordered)",
+      "sha256": "f2c5a7973fdbb4b5c9b7066e478d4164a43f12791fddc16e33d8019a8b97c3d8",
+      "bytes": 59941,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/152.jpg",
+        "sha256": "f2c5a7973fdbb4b5c9b7066e478d4164a43f12791fddc16e33d8019a8b97c3d8"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-reverse-stop.jpg",
+        "sha256": "f2c5a7973fdbb4b5c9b7066e478d4164a43f12791fddc16e33d8019a8b97c3d8"
+      }
+    },
+    {
+      "label": "reference-173 mobile scroll normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry process 0 (ordered)",
+      "sha256": "84c1e9cdf5a13e5b4ca671abc01f00a14e76e807efe90ec2032cfc0ab26f7338",
+      "bytes": 71332,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/153.jpg",
+        "sha256": "84c1e9cdf5a13e5b4ca671abc01f00a14e76e807efe90ec2032cfc0ab26f7338"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-09.jpg",
+        "sha256": "84c1e9cdf5a13e5b4ca671abc01f00a14e76e807efe90ec2032cfc0ab26f7338"
+      }
+    },
+    {
+      "label": "reference-174 mobile scroll normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry process 1 (ordered)",
+      "sha256": "dfef9fcd3f434b43582825186e1788cb4fbe03619c36e1c82816ec951bc566bb",
+      "bytes": 65763,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/154.jpg",
+        "sha256": "dfef9fcd3f434b43582825186e1788cb4fbe03619c36e1c82816ec951bc566bb"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-10.jpg",
+        "sha256": "dfef9fcd3f434b43582825186e1788cb4fbe03619c36e1c82816ec951bc566bb"
+      }
+    },
+    {
+      "label": "reference-175 mobile scroll normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry process 2 (ordered)",
+      "sha256": "7a2c78df886aff79cf362085286576b12a4867b1d530ff27e2b4f430042ead1b",
+      "bytes": 53286,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/155.jpg",
+        "sha256": "7a2c78df886aff79cf362085286576b12a4867b1d530ff27e2b4f430042ead1b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-11.jpg",
+        "sha256": "7a2c78df886aff79cf362085286576b12a4867b1d530ff27e2b4f430042ead1b"
+      }
+    },
+    {
+      "label": "reference-176 mobile scroll normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry process 3 (ordered)",
+      "sha256": "3ce7a3c060d83eee134e35fcc79ace26c654bbfdfbb8d7053b75913c17326fcb",
+      "bytes": 46621,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/156.jpg",
+        "sha256": "3ce7a3c060d83eee134e35fcc79ace26c654bbfdfbb8d7053b75913c17326fcb"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-12.jpg",
+        "sha256": "3ce7a3c060d83eee134e35fcc79ace26c654bbfdfbb8d7053b75913c17326fcb"
+      }
+    },
+    {
+      "label": "reference-177 mobile scroll normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry process 4 (ordered)",
+      "sha256": "5204c419d6f7b21b60639bbf904aa752a921d39acb775cc2f2393f78738b8478",
+      "bytes": 50288,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/157.jpg",
+        "sha256": "5204c419d6f7b21b60639bbf904aa752a921d39acb775cc2f2393f78738b8478"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-13.jpg",
+        "sha256": "5204c419d6f7b21b60639bbf904aa752a921d39acb775cc2f2393f78738b8478"
+      }
+    },
+    {
+      "label": "reference-178 mobile scroll normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry process 5 (ordered)",
+      "sha256": "f5ab50b25841f8e79f2d6c79ee09f300d85a47937365e36708701f2339187aa7",
+      "bytes": 59436,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/158.jpg",
+        "sha256": "f5ab50b25841f8e79f2d6c79ee09f300d85a47937365e36708701f2339187aa7"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-14.jpg",
+        "sha256": "f5ab50b25841f8e79f2d6c79ee09f300d85a47937365e36708701f2339187aa7"
+      }
+    },
+    {
+      "label": "reference-179 mobile scroll normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry process 6 (ordered)",
+      "sha256": "044495c83f97a1c5b599586f41c48ed75d47dba6868a6f2951e67b18a359961c",
+      "bytes": 28370,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/159.jpg",
+        "sha256": "044495c83f97a1c5b599586f41c48ed75d47dba6868a6f2951e67b18a359961c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-16.jpg",
+        "sha256": "044495c83f97a1c5b599586f41c48ed75d47dba6868a6f2951e67b18a359961c"
+      }
+    },
+    {
+      "label": "reference-180 mobile scroll normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry process 7 (ordered)",
+      "sha256": "1be7b67b5b99fe789ab0361f74efe0162d6e9ecc19ef836f054dac5a1df541d1",
+      "bytes": 30130,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/160.jpg",
+        "sha256": "1be7b67b5b99fe789ab0361f74efe0162d6e9ecc19ef836f054dac5a1df541d1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-17.jpg",
+        "sha256": "1be7b67b5b99fe789ab0361f74efe0162d6e9ecc19ef836f054dac5a1df541d1"
+      }
+    },
+    {
+      "label": "reference-181 mobile scroll normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry process 8 (ordered)",
+      "sha256": "30cb6412862232a80df65f3a8fc4c982c522ab381423f09f11e46795d9a549e4",
+      "bytes": 30273,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/161.jpg",
+        "sha256": "30cb6412862232a80df65f3a8fc4c982c522ab381423f09f11e46795d9a549e4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-18.jpg",
+        "sha256": "30cb6412862232a80df65f3a8fc4c982c522ab381423f09f11e46795d9a549e4"
+      }
+    },
+    {
+      "label": "reference-182 mobile scroll normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry process 9 (ordered)",
+      "sha256": "cd702f01e1f9f8e74c5cf5147f5774c526c57465f660eeaed8417275eedf8d6f",
+      "bytes": 31899,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/162.jpg",
+        "sha256": "cd702f01e1f9f8e74c5cf5147f5774c526c57465f660eeaed8417275eedf8d6f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-stopped.jpg",
+        "sha256": "cd702f01e1f9f8e74c5cf5147f5774c526c57465f660eeaed8417275eedf8d6f"
+      }
+    },
+    {
+      "label": "reference-183 mobile pointer normal-short-finger-particle-next-X-and-prev-penguin-return process 0 (ordered)",
+      "sha256": "863112d3c7040689f305a37da5ece0259b4744bfbefda31a027d9eb1f5c34ed1",
+      "bytes": 56807,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/163.jpg",
+        "sha256": "863112d3c7040689f305a37da5ece0259b4744bfbefda31a027d9eb1f5c34ed1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/before.jpg",
+        "sha256": "863112d3c7040689f305a37da5ece0259b4744bfbefda31a027d9eb1f5c34ed1"
+      }
+    },
+    {
+      "label": "reference-184 mobile pointer normal-short-finger-particle-next-X-and-prev-penguin-return process 1 (ordered)",
+      "sha256": "0a3b15364076ab6883780114414b24423497bbb7d164da6b7b74e49208476352",
+      "bytes": 57732,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/164.jpg",
+        "sha256": "0a3b15364076ab6883780114414b24423497bbb7d164da6b7b74e49208476352"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/after.jpg",
+        "sha256": "0a3b15364076ab6883780114414b24423497bbb7d164da6b7b74e49208476352"
+      }
+    },
+    {
+      "label": "reference-185 mobile pointer normal-short-finger-particle-next-X-and-prev-penguin-return process 2 (ordered)",
+      "sha256": "200fe24198415afef2b8c3b41dd3d3ee6ad89dc6070586bb23cc775bf98844ce",
+      "bytes": 57692,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/165.jpg",
+        "sha256": "200fe24198415afef2b8c3b41dd3d3ee6ad89dc6070586bb23cc775bf98844ce"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/before.jpg",
+        "sha256": "200fe24198415afef2b8c3b41dd3d3ee6ad89dc6070586bb23cc775bf98844ce"
+      }
+    },
+    {
+      "label": "reference-186 mobile pointer normal-short-finger-particle-next-X-and-prev-penguin-return process 3 (ordered)",
+      "sha256": "0fc90c491640f40670a9a7a718cbd3ace159433618aa208d2b4793e74c638b0d",
+      "bytes": 55204,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/166.jpg",
+        "sha256": "0fc90c491640f40670a9a7a718cbd3ace159433618aa208d2b4793e74c638b0d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/after.jpg",
+        "sha256": "0fc90c491640f40670a9a7a718cbd3ace159433618aa208d2b4793e74c638b0d"
+      }
+    },
+    {
+      "label": "reference-187 mobile pointer reduced-short-finger-particle-next-X-and-prev-penguin-return process 0 (ordered)",
+      "sha256": "496495bdc01954aab06b481edcd155980e5692d467a905b889d394b0f63740b7",
+      "bytes": 50661,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/167.jpg",
+        "sha256": "496495bdc01954aab06b481edcd155980e5692d467a905b889d394b0f63740b7"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-next/before.jpg",
+        "sha256": "496495bdc01954aab06b481edcd155980e5692d467a905b889d394b0f63740b7"
+      }
+    },
+    {
+      "label": "reference-188 mobile pointer reduced-short-finger-particle-next-X-and-prev-penguin-return process 1 (ordered)",
+      "sha256": "a84d1bc81a6a2a6c21eae11b1f70b77c68da4d78c829f34980a1188364dbbe96",
+      "bytes": 58356,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/168.jpg",
+        "sha256": "a84d1bc81a6a2a6c21eae11b1f70b77c68da4d78c829f34980a1188364dbbe96"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-next/after.jpg",
+        "sha256": "a84d1bc81a6a2a6c21eae11b1f70b77c68da4d78c829f34980a1188364dbbe96"
+      }
+    },
+    {
+      "label": "reference-189 mobile pointer reduced-short-finger-particle-next-X-and-prev-penguin-return process 2 (ordered)",
+      "sha256": "174572d443820a42f5086f851dd2d11eb752493d0ccbcf8595cb3a5c3d2a09c2",
+      "bytes": 56429,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/169.jpg",
+        "sha256": "174572d443820a42f5086f851dd2d11eb752493d0ccbcf8595cb3a5c3d2a09c2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/before.jpg",
+        "sha256": "174572d443820a42f5086f851dd2d11eb752493d0ccbcf8595cb3a5c3d2a09c2"
+      }
+    },
+    {
+      "label": "reference-190 mobile pointer reduced-short-finger-particle-next-X-and-prev-penguin-return process 3 (ordered)",
+      "sha256": "f551ad52bd141b524640e299aea9db871fef290105069b504623f3ba52d6bb21",
+      "bytes": 50274,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/170.jpg",
+        "sha256": "f551ad52bd141b524640e299aea9db871fef290105069b504623f3ba52d6bb21"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/after.jpg",
+        "sha256": "f551ad52bd141b524640e299aea9db871fef290105069b504623f3ba52d6bb21"
+      }
+    },
+    {
+      "label": "reference-191 mobile pointer normal-horizontal-finger-opening-held-forward-held-reverse-release process 0 (ordered)",
+      "sha256": "87d8945b1303219f7f8874e71d4aafb3962677ea9b5f6061fa6be4ba2b14e4ac",
+      "bytes": 62135,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/171.jpg",
+        "sha256": "87d8945b1303219f7f8874e71d4aafb3962677ea9b5f6061fa6be4ba2b14e4ac"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening.jpg",
+        "sha256": "87d8945b1303219f7f8874e71d4aafb3962677ea9b5f6061fa6be4ba2b14e4ac"
+      }
+    },
+    {
+      "label": "reference-192 mobile pointer normal-horizontal-finger-opening-held-forward-held-reverse-release process 1 (ordered)",
+      "sha256": "adeb442b8b959a127e689dd7fccedb7937f400edee3099b20a2753d41f186a3e",
+      "bytes": 61954,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/172.jpg",
+        "sha256": "adeb442b8b959a127e689dd7fccedb7937f400edee3099b20a2753d41f186a3e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-forward.jpg",
+        "sha256": "adeb442b8b959a127e689dd7fccedb7937f400edee3099b20a2753d41f186a3e"
+      }
+    },
+    {
+      "label": "reference-193 mobile pointer normal-horizontal-finger-opening-held-forward-held-reverse-release process 2 (ordered)",
+      "sha256": "9c98dc57700dc13ae77bdbefd3325ae40269796d6a88aedd2d48a2799604e3e3",
+      "bytes": 61096,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/173.jpg",
+        "sha256": "9c98dc57700dc13ae77bdbefd3325ae40269796d6a88aedd2d48a2799604e3e3"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-reverse.jpg",
+        "sha256": "9c98dc57700dc13ae77bdbefd3325ae40269796d6a88aedd2d48a2799604e3e3"
+      }
+    },
+    {
+      "label": "reference-194 mobile pointer normal-horizontal-finger-opening-held-forward-held-reverse-release process 3 (ordered)",
+      "sha256": "948e0b6efbe9f478fd8f0f111849bbfe7cc2149a4ec4bd7c1632cf6cd1acab0d",
+      "bytes": 62333,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/174.jpg",
+        "sha256": "948e0b6efbe9f478fd8f0f111849bbfe7cc2149a4ec4bd7c1632cf6cd1acab0d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-released.jpg",
+        "sha256": "948e0b6efbe9f478fd8f0f111849bbfe7cc2149a4ec4bd7c1632cf6cd1acab0d"
+      }
+    },
+    {
+      "label": "reference-195 mobile pointer reduced-horizontal-finger-opening-held-forward-held-reverse-release process 0 (ordered)\nreference-199 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 0 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f",
+      "bytes": 62003,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/175.jpg",
+        "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening.jpg",
+        "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f"
+      }
+    },
+    {
+      "label": "reference-196 mobile pointer reduced-horizontal-finger-opening-held-forward-held-reverse-release process 1 (ordered)",
+      "sha256": "2bf04a349116db2fda00e6b01c76a6db9ec94997c5f2243123d74d786cd4308a",
+      "bytes": 61654,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/176.jpg",
+        "sha256": "2bf04a349116db2fda00e6b01c76a6db9ec94997c5f2243123d74d786cd4308a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-held-forward.jpg",
+        "sha256": "2bf04a349116db2fda00e6b01c76a6db9ec94997c5f2243123d74d786cd4308a"
+      }
+    },
+    {
+      "label": "reference-197 mobile pointer reduced-horizontal-finger-opening-held-forward-held-reverse-release process 2 (ordered)",
+      "sha256": "869d08b09abd812aecc9122e2eb0469a6a726ac5108affda3e5f8fa659e442e4",
+      "bytes": 61051,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/177.jpg",
+        "sha256": "869d08b09abd812aecc9122e2eb0469a6a726ac5108affda3e5f8fa659e442e4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-held-reverse.jpg",
+        "sha256": "869d08b09abd812aecc9122e2eb0469a6a726ac5108affda3e5f8fa659e442e4"
+      }
+    },
+    {
+      "label": "reference-198 mobile pointer reduced-horizontal-finger-opening-held-forward-held-reverse-release process 3 (ordered)",
+      "sha256": "c5f9cff2b9d1fe2170e42171e9977ed34bcac8e556ebbaa0d0dfaab6e08b4898",
+      "bytes": 62916,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/178.jpg",
+        "sha256": "c5f9cff2b9d1fe2170e42171e9977ed34bcac8e556ebbaa0d0dfaab6e08b4898"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-released.jpg",
+        "sha256": "c5f9cff2b9d1fe2170e42171e9977ed34bcac8e556ebbaa0d0dfaab6e08b4898"
+      }
+    },
+    {
+      "label": "reference-200 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 1 (ordered)",
+      "sha256": "315fa3bffe6c3141d02d54230b7174d15e84723837158371a71e15dc2ec27ee3",
+      "bytes": 59923,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/179.jpg",
+        "sha256": "315fa3bffe6c3141d02d54230b7174d15e84723837158371a71e15dc2ec27ee3"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-1.jpg",
+        "sha256": "315fa3bffe6c3141d02d54230b7174d15e84723837158371a71e15dc2ec27ee3"
+      }
+    },
+    {
+      "label": "reference-201 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 2 (ordered)",
+      "sha256": "0249cadfee158ca38597a56544b4203ad35259781f726c0a28f2186a44a47b4f",
+      "bytes": 33660,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/180.jpg",
+        "sha256": "0249cadfee158ca38597a56544b4203ad35259781f726c0a28f2186a44a47b4f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-2.jpg",
+        "sha256": "0249cadfee158ca38597a56544b4203ad35259781f726c0a28f2186a44a47b4f"
+      }
+    },
+    {
+      "label": "reference-202 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 3 (ordered)",
+      "sha256": "19bd0ab78c637ac27a6f1e2d8650cca0e633c8d982ab512b5e583d028b05d4b6",
+      "bytes": 26099,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/181.jpg",
+        "sha256": "19bd0ab78c637ac27a6f1e2d8650cca0e633c8d982ab512b5e583d028b05d4b6"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-3.jpg",
+        "sha256": "19bd0ab78c637ac27a6f1e2d8650cca0e633c8d982ab512b5e583d028b05d4b6"
+      }
+    },
+    {
+      "label": "reference-203 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 4 (ordered)",
+      "sha256": "640fb03aa35537fe588a23c8aa6ca9d8814aff3a101de6d8be6e6efe9f356aba",
+      "bytes": 30604,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/182.jpg",
+        "sha256": "640fb03aa35537fe588a23c8aa6ca9d8814aff3a101de6d8be6e6efe9f356aba"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-4.jpg",
+        "sha256": "640fb03aa35537fe588a23c8aa6ca9d8814aff3a101de6d8be6e6efe9f356aba"
+      }
+    },
+    {
+      "label": "reference-204 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 5 (ordered)",
+      "sha256": "e6c570e912841e7b2d583f298d1898b62f9f40eb93304d0ec9bb3a9e19b5257f",
+      "bytes": 28894,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/183.jpg",
+        "sha256": "e6c570e912841e7b2d583f298d1898b62f9f40eb93304d0ec9bb3a9e19b5257f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-5.jpg",
+        "sha256": "e6c570e912841e7b2d583f298d1898b62f9f40eb93304d0ec9bb3a9e19b5257f"
+      }
+    },
+    {
+      "label": "reference-205 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 6 (ordered)",
+      "sha256": "75e1c53576f05f5ba06f79f651dda071f900b7cc5f0c525acc43de204481e9f1",
+      "bytes": 36170,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/184.jpg",
+        "sha256": "75e1c53576f05f5ba06f79f651dda071f900b7cc5f0c525acc43de204481e9f1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-6.jpg",
+        "sha256": "75e1c53576f05f5ba06f79f651dda071f900b7cc5f0c525acc43de204481e9f1"
+      }
+    },
+    {
+      "label": "reference-206 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 7 (ordered)",
+      "sha256": "f87547494879a12e85109da1d1df37c9d33e392224011b37a8365e1945aee348",
+      "bytes": 50382,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/185.jpg",
+        "sha256": "f87547494879a12e85109da1d1df37c9d33e392224011b37a8365e1945aee348"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-7.jpg",
+        "sha256": "f87547494879a12e85109da1d1df37c9d33e392224011b37a8365e1945aee348"
+      }
+    },
+    {
+      "label": "reference-207 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 8 (ordered)",
+      "sha256": "bf5a0678a20b39da0b00799141e628df93af3b0e7062ab6b07b228cc40eaa500",
+      "bytes": 46311,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/186.jpg",
+        "sha256": "bf5a0678a20b39da0b00799141e628df93af3b0e7062ab6b07b228cc40eaa500"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-8.jpg",
+        "sha256": "bf5a0678a20b39da0b00799141e628df93af3b0e7062ab6b07b228cc40eaa500"
+      }
+    },
+    {
+      "label": "reference-208 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 9 (ordered)",
+      "sha256": "d0be9364e0fa6af70584bf73e9acdbd911050bae1443187502f4ea5b1e3207de",
+      "bytes": 35929,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/187.jpg",
+        "sha256": "d0be9364e0fa6af70584bf73e9acdbd911050bae1443187502f4ea5b1e3207de"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-9.jpg",
+        "sha256": "d0be9364e0fa6af70584bf73e9acdbd911050bae1443187502f4ea5b1e3207de"
+      }
+    },
+    {
+      "label": "reference-209 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 10 (ordered)",
+      "sha256": "6492a5c28f6571a3e9ad5276b40704f46bfc28acd6406a587c6f267ebde5f589",
+      "bytes": 50284,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/188.jpg",
+        "sha256": "6492a5c28f6571a3e9ad5276b40704f46bfc28acd6406a587c6f267ebde5f589"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-10.jpg",
+        "sha256": "6492a5c28f6571a3e9ad5276b40704f46bfc28acd6406a587c6f267ebde5f589"
+      }
+    },
+    {
+      "label": "reference-210 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 11 (ordered)",
+      "sha256": "5bf7a450b6eba52688c7d4d9c85ae056738df76f8a8ff7ad7a5c6f05443b6548",
+      "bytes": 62019,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/189.jpg",
+        "sha256": "5bf7a450b6eba52688c7d4d9c85ae056738df76f8a8ff7ad7a5c6f05443b6548"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-11.jpg",
+        "sha256": "5bf7a450b6eba52688c7d4d9c85ae056738df76f8a8ff7ad7a5c6f05443b6548"
+      }
+    },
+    {
+      "label": "reference-211 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 12 (ordered)",
+      "sha256": "44bf55005f1a59e41680c427c272953f6609215ed0d5dc43ce37f1a3c5b32c38",
+      "bytes": 67721,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/190.jpg",
+        "sha256": "44bf55005f1a59e41680c427c272953f6609215ed0d5dc43ce37f1a3c5b32c38"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-12.jpg",
+        "sha256": "44bf55005f1a59e41680c427c272953f6609215ed0d5dc43ce37f1a3c5b32c38"
+      }
+    },
+    {
+      "label": "reference-212 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 13 (ordered)",
+      "sha256": "44d9cb6b8a82cbd25988d484915f9bd540f618ee470b3ef264d0a1ac638bc8b6",
+      "bytes": 53964,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/191.jpg",
+        "sha256": "44d9cb6b8a82cbd25988d484915f9bd540f618ee470b3ef264d0a1ac638bc8b6"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-to-end-1.jpg",
+        "sha256": "44d9cb6b8a82cbd25988d484915f9bd540f618ee470b3ef264d0a1ac638bc8b6"
+      }
+    },
+    {
+      "label": "reference-213 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 14 (ordered)",
+      "sha256": "33a2e1d02a0876df8fbfda6818200c6c351f83dd373df6ccf5894b64503eba7f",
+      "bytes": 57287,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/192.jpg",
+        "sha256": "33a2e1d02a0876df8fbfda6818200c6c351f83dd373df6ccf5894b64503eba7f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-end-stop.jpg",
+        "sha256": "33a2e1d02a0876df8fbfda6818200c6c351f83dd373df6ccf5894b64503eba7f"
+      }
+    },
+    {
+      "label": "reference-214 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 15 (ordered)",
+      "sha256": "6c393b09bb836333c385a16286ec967540cb5e2f1fc1cfe6bcc5e243bc053899",
+      "bytes": 59106,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/193.jpg",
+        "sha256": "6c393b09bb836333c385a16286ec967540cb5e2f1fc1cfe6bcc5e243bc053899"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-1.jpg",
+        "sha256": "6c393b09bb836333c385a16286ec967540cb5e2f1fc1cfe6bcc5e243bc053899"
+      }
+    },
+    {
+      "label": "reference-215 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 16 (ordered)",
+      "sha256": "a80bebc47209b4d3d45b76a601ff230facf956e393223a1f038bbe0fb14ab03a",
+      "bytes": 65843,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/194.jpg",
+        "sha256": "a80bebc47209b4d3d45b76a601ff230facf956e393223a1f038bbe0fb14ab03a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-2.jpg",
+        "sha256": "a80bebc47209b4d3d45b76a601ff230facf956e393223a1f038bbe0fb14ab03a"
+      }
+    },
+    {
+      "label": "reference-216 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 17 (ordered)",
+      "sha256": "15fef3f4d24de26251ed9b550b117187a9a343195b3a63056119059275f78e29",
+      "bytes": 45933,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/195.jpg",
+        "sha256": "15fef3f4d24de26251ed9b550b117187a9a343195b3a63056119059275f78e29"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-3.jpg",
+        "sha256": "15fef3f4d24de26251ed9b550b117187a9a343195b3a63056119059275f78e29"
+      }
+    },
+    {
+      "label": "reference-217 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 18 (ordered)",
+      "sha256": "7a300fe507003ede7e82116c9ea1d89841dd33fb1b0e3169655d844929d72ee7",
+      "bytes": 35670,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/196.jpg",
+        "sha256": "7a300fe507003ede7e82116c9ea1d89841dd33fb1b0e3169655d844929d72ee7"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-4.jpg",
+        "sha256": "7a300fe507003ede7e82116c9ea1d89841dd33fb1b0e3169655d844929d72ee7"
+      }
+    },
+    {
+      "label": "reference-218 mobile scroll reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation process 19 (ordered)",
+      "sha256": "3877195995c5142e305caf879ff4b70d5b7f42f9cfde678f9dbbb3188a4e6ae9",
+      "bytes": 54883,
+      "retained": {
+        "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/inputs/197.jpg",
+        "sha256": "3877195995c5142e305caf879ff4b70d5b7f42f9cfde678f9dbbb3188a4e6ae9"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-stop.jpg",
+        "sha256": "3877195995c5142e305caf879ff4b70d5b7f42f9cfde678f9dbbb3188a4e6ae9"
+      }
+    }
+  ],
+  "implementations": [
+    {
+      "path": "scripts/production/cli-review-receipt.mjs",
+      "sha256": "e362e54680143d0fcc0098882feb6d5ce15197bca8aff98c777eab1b960cab55"
+    },
+    {
+      "path": "scripts/production/cli-review.mjs",
+      "sha256": "93b4c9b03feb5e90911d7b625a15b8bbe32c49ee50b654b7e623c2ed5c24bc79"
+    },
+    {
+      "path": "scripts/production/schemas.mjs",
+      "sha256": "f62b6b78ef4aee2d6803ee5ff87a456a7a45d4b7f558412b43504bc095dcee60"
+    },
+    {
+      "path": "scripts/production/session-review.mjs",
+      "sha256": "a2ec1b2ed775aec77af46a4a85c9c96e665ea98a999efb709fd9dbd58528afdd"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/api.mjs",
+      "sha256": "e78e43228b5e2e29b5078f2a0907d1f39edad7411c5f2f5b3b220111e8577b03"
+    }
+  ],
+  "canonicalReport": {
+    "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/consumed/canonical-report.json",
+    "sha256": "8f00ea656c5d5a4bd570078421180beae18995b2f4e1ee965faa9caf6e2ab51b"
+  },
+  "canonicalReportSha256": "e1fefba444ada1ed918ee0b921b4320cd995213cfcf51842a25d6d0a3c2cd216",
+  "resultProjection": "exact-role-projection-recomputed-at-validation",
+  "cliVersion": "codex-cli 0.165.0-alpha.1.2",
+  "provenance": {
+    "mode": "evidence-only-fresh-codex-cli",
+    "kind": "fresh-codex-cli",
+    "independent": false,
+    "contextIsolated": true,
+    "contextIsolationScope": "fresh conversation; implementation history not supplied",
+    "implementationContextIncluded": false,
+    "backendIndependenceEstablished": false,
+    "requestedModel": null,
+    "actualModel": null,
+    "modelIdentitySource": null
+  },
+  "threadId": "01a185a8-8570-7172-891b-f884f025097f",
+  "eventCount": 11,
+  "usage": {
+    "input_tokens": 241046,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 3809,
+    "reasoning_output_tokens": 58
+  },
+  "diagnostics": [
+    {
+      "eventIndex": 1,
+      "kind": "startup-skip-host-skill-discovery",
+      "message": "Under-development features enabled: skip_host_skill_discovery. Under-development features are incomplete and may behave unpredictably. To suppress this warning, set `suppress_unstable_features_warning = true` in C:\\Users\\11509\\.codex\\config.toml."
+    },
+    {
+      "eventIndex": 2,
+      "kind": "startup-code-mode-disabled",
+      "message": "Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."
+    },
+    {
+      "eventIndex": 4,
+      "kind": "recoverable-connection-reset",
+      "attempt": 2,
+      "message": "Reconnecting... 2/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 5,
+      "kind": "recoverable-connection-reset",
+      "attempt": 3,
+      "message": "Reconnecting... 3/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 6,
+      "kind": "recoverable-connection-reset",
+      "attempt": 4,
+      "message": "Reconnecting... 4/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 7,
+      "kind": "recoverable-connection-reset",
+      "attempt": 5,
+      "message": "Reconnecting... 5/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 8,
+      "kind": "https-fallback",
+      "message": "Falling back from WebSockets to HTTPS transport. stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054)"
+    }
+  ],
+  "stderrDiagnostics": {
+    "retryLogs": 5,
+    "fallbackLogs": 1,
+    "bannerModel": null
+  },
+  "cliInvocations": 1,
+  "automaticAdapterRetries": 0,
+  "backendRequestCount": null,
+  "toolsObserved": 0,
+  "effectiveFeatures": {
+    "agent_message_board": false,
+    "analytics_plan_history": false,
+    "api_key_cyber_access_programs": true,
+    "api_key_model_discovery": true,
+    "app_server_websocket_compression": false,
+    "apply_patch_freeform": false,
+    "apply_patch_preserve_line_endings": false,
+    "apply_patch_streaming_events": false,
+    "apps": false,
+    "apps_mcp_path_override": false,
+    "artifact": false,
+    "async_compaction": false,
+    "auth_elicitation": true,
+    "background_paginated_rollout_migration": false,
+    "bedrock_setup_wizard": true,
+    "browser_annotation_api": false,
+    "browser_use": false,
+    "browser_use_external": false,
+    "browser_use_full_cdp_access": false,
+    "chronicle": false,
+    "cli_daybreak": true,
+    "code_mode": false,
+    "code_mode_buffered_exec": false,
+    "code_mode_host": false,
+    "code_mode_host_grpc": false,
+    "code_mode_interrupt": true,
+    "code_mode_only": false,
+    "code_mode_only_strict_3p_tools": false,
+    "code_mode_prewarm": false,
+    "code_mode_tool_description_first": false,
+    "code_mode_tool_search": false,
+    "codex_apps_mcp_2026_07_28": false,
+    "codex_git_commit": false,
+    "collaboration_modes": true,
+    "compaction_image_budget": true,
+    "computer_use": false,
+    "concurrent_reasoning_summaries": false,
+    "content_item_kinds": true,
+    "context_management": false,
+    "credential_masking": false,
+    "current_time_reminder": false,
+    "cwd_relative_turn_diffs": false,
+    "daemon_auto_start": true,
+    "default_mode_request_user_input": false,
+    "defer_mailbox_preemption": false,
+    "deferred_executor": false,
+    "deferred_tool_world_state": false,
+    "elevated_windows_sandbox": false,
+    "enable_fanout": false,
+    "enable_mcp_apps": false,
+    "enable_request_compression": true,
+    "exec_permission_approvals": false,
+    "executed_tool_call_metadata": false,
+    "executor_capability_discovery": false,
+    "executor_capability_discovery_v2": false,
+    "experimental_windows_sandbox": false,
+    "external_agent_memory_import": false,
+    "external_migration": false,
+    "fast_mode": true,
+    "goals": false,
+    "guardian_approval": true,
+    "guardian_conversation_history_tools": false,
+    "guardian_enhanced_node_repl_transcripts": false,
+    "guardian_ext": false,
+    "guardian_node_repl_transcript_images": false,
+    "guardian_recorded_items": false,
+    "guardian_reuse_parent_compaction": true,
+    "guardian_root_handoff_context": false,
+    "guardian_trust_orchestrator_connectors": false,
+    "guardianv2": false,
+    "guardianv2.thread_context": false,
+    "guardianv2_decisions_comparison": false,
+    "guardianv3": false,
+    "hooks": false,
+    "image_detail_original": false,
+    "image_generation": false,
+    "image_resize_notice": false,
+    "in_app_browser": false,
+    "in_app_chat": true,
+    "in_app_dictation": true,
+    "in_app_local_automation": false,
+    "in_app_updates": true,
+    "in_app_voice": true,
+    "incremental_tools": true,
+    "instant_interrupt": true,
+    "item_ids": true,
+    "js_repl": false,
+    "js_repl_tools_only": false,
+    "local_thread_store_compression": false,
+    "local_thread_store_shared_compression": false,
+    "login_shell_package_path": false,
+    "mcp_2026_07_28": false,
+    "mcp_oauth_refresh_coordination": true,
+    "mcp_tool_list_changed": false,
+    "memories": false,
+    "mentions_v2": true,
+    "model_catalog_in_context": false,
+    "multi_agent": false,
+    "multi_agent_mode": false,
+    "multi_agent_v2": false,
+    "multi_agent_v2_dynamic_tools": false,
+    "multi_env_copy_file": false,
+    "network_proxy": false,
+    "non_prefixed_mcp_tool_names": false,
+    "nonfatal_clock_read_errors": false,
+    "omit_app_server_notification_media": false,
+    "output_token_replay": false,
+    "personality": false,
+    "plugin_hooks": false,
+    "plugin_sharing": true,
+    "plugins": false,
+    "powershell_shell_version": false,
+    "prediction_preserve_parent_tools": true,
+    "prefer_mxc": false,
+    "prevent_idle_sleep": false,
+    "psp": false,
+    "realtime_conversation": true,
+    "reasoning_effort_override": true,
+    "recommended_plugins": false,
+    "remote_compaction_v2": false,
+    "remote_control": false,
+    "remote_models": false,
+    "remote_plugin": false,
+    "request_permissions_tool": false,
+    "request_rule": false,
+    "resize_all_images": true,
+    "respect_system_proxy": false,
+    "responses_websockets": false,
+    "responses_websockets_v2": false,
+    "retain_client_developer_messages": false,
+    "retain_client_tool_outputs": false,
+    "rollout_budget": false,
+    "runtime_agent_instances": false,
+    "runtime_metrics": false,
+    "search_tool": false,
+    "secret_auth_storage": true,
+    "send_async_message": false,
+    "send_message_to_user_async": false,
+    "shell_snapshot": false,
+    "shell_snapshot_v2": false,
+    "shell_tool": false,
+    "shell_zsh_fork": false,
+    "skill_env_var_dependency_prompt": false,
+    "skill_mcp_dependency_install": false,
+    "skill_search": false,
+    "skip_host_skill_discovery": true,
+    "sleep_tool": false,
+    "sqlite": true,
+    "stable_environment_tools": false,
+    "standalone_web_search": false,
+    "steer": true,
+    "step_model_switching": false,
+    "subagent_default_context_limits": false,
+    "subagent_thread_environments": false,
+    "system_proxy_fallback": true,
+    "terminal_resize_reflow": true,
+    "terminal_visualization_instructions": false,
+    "token_budget": false,
+    "tool_call_mcp_elicitation": true,
+    "tool_search": false,
+    "tool_search_always_defer_mcp_tools": true,
+    "tool_suggest": false,
+    "transcript_v2": false,
+    "tui_app_server": true,
+    "tui_multi_backend": false,
+    "ultrafast_mode": true,
+    "unavailable_dummy_tools": false,
+    "unbounded_connection_retries": false,
+    "undo": false,
+    "unified_exec": true,
+    "unified_exec_tty": false,
+    "unified_exec_zsh_fork": false,
+    "unified_image_budget": false,
+    "use_agent_identity": false,
+    "use_legacy_landlock": false,
+    "use_linux_sandbox_bwrap": false,
+    "use_xaa": false,
+    "view_image": false,
+    "wake_on_agent_messages": false,
+    "web_search_cached": false,
+    "web_search_request": false,
+    "windows_sandbox_service": false,
+    "workspace_dependencies": false,
+    "workspace_owner_usage_nudge": false,
+    "worktrees": true,
+    "write_stdin_approval": true
+  },
+  "externalFilesystemSandboxCertified": false,
+  "historicalPacketFilesystemReverified": false,
+  "validationReadsExternalPacket": false,
+  "visualAdmissionGranted": false,
+  "createdAt": "2026-10-29T03:19:11.298Z"
+}

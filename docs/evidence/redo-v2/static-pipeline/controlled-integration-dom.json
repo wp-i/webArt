@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261016162257904-69284784",
+  "mode": "configuration-driven",
+  "execution": "controlled-fixture",
+  "started": "2026-10-16T16:22:57.906Z",
+  "model": "controlled-fixture",
+  "ids": [
+    "010"
+  ],
+  "status": "ready-for-user-review",
+  "stage": "packaging",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [
+    {
+      "id": "010",
+      "title": "Pace",
+      "directory": ".webart/prototypes/api-20261016162257904-69284784-010",
+      "archivePath": ".webart/trials/api-20261016162257904-69284784-010-source.zip",
+      "bytes": 35541,
+      "sha256": "17aab8e7b94aeb1161887242142637669b2ee44fe909b3962652c518632b3ecc",
+      "sourceSha256": "3faf2b71fe07cb3ea3dad84ab27f8be5dcc046ff597f764f86db8d93d492602a",
+      "qaRecord": "docs/qa/api-20261016162257904-69284784-010.md",
+      "capturePath": "docs/evidence/production/api-20261016162257904-69284784/010-prototype-0-0/capture.json",
+      "http": {
+        "previewAndAllAssets": "passed",
+        "archiveHttp": "passed"
+      },
+      "quality": "controlled-fixture-not-art-admitted"
+    }
+  ],
+  "inventoryChanged": false,
+  "visualAcceptance": "not-applicable-engineering-fixture",
+  "finished": "2026-10-16T16:24:13.337Z",
+  "integration": {
+    "purpose": "Controlled engineering test only. No live model calls, real visual admission, new design or public release.",
+    "modelRoleCalls": [
+      "reference-review",
+      "prototype-production",
+      "prototype-review",
+      "style-review",
+      "controls-review"
+    ],
+    "preservation": {
+      "changedContract": "correctly-blocked",
+      "openingUsedForEnding": "correctly-blocked"
+    }
+  }
+}

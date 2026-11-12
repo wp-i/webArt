@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-24",
+  "id": "007",
+  "url": "https://restaurant-amici.com/",
+  "scope": "bounded-reference-screen-not-seven-dimension-admission",
+  "reviewer": {
+    "identity": "current-conversation:2026-10-19-four-redesigns",
+    "independent": false,
+    "contextIsolated": false
+  },
+  "decision": "not-selected",
+  "finding": "稳定开场及原生整页/真实手机终点已实看，桌面主要为四行衬线宣言，摄影依赖指针轨迹进入并遮叠文字；中段为餐厅索引、照片组与预约纸卡。原生三次鼠标点击/三次手机触摸确实在末端纸卡追加品牌印章，但作用是装饰性盖章，未推进食物或空间观看。当前短页重做不选，不能以印刷风格或操作成功替代基准的主体权威与内容签名。",
+  "evidence": [
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/capture.json",
+      "sha256": "6434f2431a86157a29db4b21bf2109298097100a57f3c1c7997eb2a9e01b60c7"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/capture.json",
+      "sha256": "2fe87239f01acd2057a2baaecae6ee2454125b177ba6d7852fc16d5cca2562d1"
+    }
+  ],
+  "actualViewedFrames": [
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-opening.jpg",
+      "sha256": "6b3bf16ca5799a3b59c88d9774f181a7048ec001f29a540de7bbbd514aa90ec3"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-pointer-left.jpg",
+      "sha256": "b2789674ebeb16b40e198a22ef7b6cfcf2e3a3321fcf93bb9078e25cdd768cbe"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-pointer-right.jpg",
+      "sha256": "553018dc5767eb39f05553d909688d18aec13f3a8c6754076a46be05982cc5bf"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-pointer-center.jpg",
+      "sha256": "709c5ea03ab5477b861b3902d5057efd5b879d8cee803373da84df4ed4d4d15a"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-1.jpg",
+      "sha256": "25393c3fad0a8349662badd1be2f042de87bc021665ab564f3401d75202600ef"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-2.jpg",
+      "sha256": "3b1d496ef3d3e1dc90131134a63512d7f004da7a4e483a9329786287833a9d19"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-3.jpg",
+      "sha256": "dee790ccc3b477f9ea9259e1ebc984208a8d822ccd7593fd0dc09e24c99889a8"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-4.jpg",
+      "sha256": "062c798162499aef7323492850df8990a767b1b1d345c203eec635a7fa6a5736"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-5.jpg",
+      "sha256": "81ae26b667df556f769274c3dfaf0ac90b1cb6f915876e197d7190540d71a1d6"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-6.jpg",
+      "sha256": "3c99732d62a82ae5eb6ff420e1ed1fc534b0f6225d33f713137403959ade1cf9"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-7.jpg",
+      "sha256": "ae27bd0101b047e1fc0b0ae720e1165d605b43444c758fbb81f41104ecb2ca40"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-ending-stopped.jpg",
+      "sha256": "66160cb2bb54ca95d236d270e6e8eb7c45e940c98b6c82375cf8d215c06f2e47"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-opening.jpg",
+      "sha256": "c998077ba19c76312f4789c86f9d1a0a9506810d995bb421c9a20831445d5d90"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-1.jpg",
+      "sha256": "1b98a2d7f1ea3d79921ce2c3e6e9661adce27679ade9b05c13c12e54145c6de0"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-2.jpg",
+      "sha256": "2b1799adf23cb63df0ccd2545e76f1617d275b973103b912439f550090eccf4f"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-3.jpg",
+      "sha256": "848b9e90df11742e1706d6d8386133aa84c4b052fbb1cf011d93ff46f3652feb"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-4.jpg",
+      "sha256": "c18218190d0cacd3738c1d14bac8c42069b86ce10e8f45eb42fe29f8169aab3b"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-5.jpg",
+      "sha256": "44f0c72d76e015372c08d0e598fba57129e9d29400997c5f72a148bcf27eb194"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-6.jpg",
+      "sha256": "8cf14b82850177aadcf3ef8fc3080cc3cdd2526c014b72efa8c5b759cf9bebfb"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-7.jpg",
+      "sha256": "0d309f6e3a199c88397d0133da8a181ee862492d11773609c7669d5d9d12d7ac"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-ending-stopped.jpg",
+      "sha256": "e36bb5787ad55af27a721b1ea3f776c98401ba0bcf981ea4e945daccae1db990"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/desktop-opening-no-cookie.jpg",
+      "sha256": "8401171b1dca279aeff53036973e12393747274da5420e29515841664fa685e1"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/desktop-ending-before.jpg",
+      "sha256": "472738e8bf9c73970bf1e11b0a394b038173c67b1e56a119b03625e3c5291be4"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/desktop-stamp-0.jpg",
+      "sha256": "a46d00e9325bdb8a07c6385bd973f967d80d2e01d2696b4222feaf8ce9e58489"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/desktop-stamp-1.jpg",
+      "sha256": "926e2b1a17acc0e0234ac63518a7490f720eb1e31b691f026e439265fe170396"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/desktop-stamp-2.jpg",
+      "sha256": "546c70702e664c460d332e48d2147d66c485c34d9da9edffca4a94a06bca6551"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/mobile-opening-no-cookie.jpg",
+      "sha256": "025c949661e729d9d86e38720caee2a814903402458bc2432530f02504b83c55"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/mobile-ending-before.jpg",
+      "sha256": "532ce765123b61c820368c92f4ecb04e9c3860941c1ae7da8c1d96ee8bb5138f"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/mobile-stamp-0.jpg",
+      "sha256": "58bd572c91e2077ced849d99c8fab9a37d461f0d284946387e8a48db66a0e437"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/mobile-stamp-1.jpg",
+      "sha256": "84c82156a10acca2d669dff9ecf59fa6076480dbf23d5709fb61af766e5eddef"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/mobile-stamp-2.jpg",
+      "sha256": "86d8fb2a92757908b1b945506e7e4a1a91dc56e4e8201e0937d80449db854bdc"
+    }
+  ],
+  "reachedEnd": [
+    {
+      "viewport": "desktop",
+      "y": 3529,
+      "height": 4429
+    },
+    {
+      "viewport": "mobile",
+      "y": 2894,
+      "height": 3738
+    }
+  ],
+  "stampInputs": [
+    {
+      "viewport": "desktop",
+      "inputs": 3,
+      "finalStampElements": 7
+    },
+    {
+      "viewport": "mobile",
+      "inputs": 3,
+      "finalStampElements": 7
+    }
+  ],
+  "mediaAcquired": 0,
+  "candidateCreated": false,
+  "qualityAdmission": false
+}

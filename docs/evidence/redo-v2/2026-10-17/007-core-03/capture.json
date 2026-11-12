@@ -1,0 +1,465 @@
+{
+  "purpose": "Actual material/model study, not a page approval.",
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "data": {
+        "progress": 0,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          -3.6091486693187766,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/desktop-opening.jpg",
+          "sha256": "5057aa11300ad4cdc3bebacd58706995736fe8e8a7c6897cbbd9fcb08ad1ace4"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "data": {
+        "progress": 0.9998578176259485,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          -3.6091486693187766,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/desktop-transition.jpg",
+          "sha256": "f3b7c7b3a4c5301d6a3b9605ecca4575f3c22a9ba5b4b068501ea36cb3cf20d6"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "data": {
+        "progress": 1.9998522415928506,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          1.3908506624320016,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/desktop-middle.jpg",
+          "sha256": "f094d304044f697869f836ee23ec35951fd8d8cbb66ce13d1a9cfbf737f7de71"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "data": {
+        "progress": 2.999597712810944,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          -2.6091452180737185,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/desktop-ending.jpg",
+          "sha256": "a1ad99833b3a704a653629d3eea2f280deaeb8bccca5cf43e9d63d1d4a48cd52"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "data": {
+        "progress": 0,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          -3.6091486693187766,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/mobile-opening.jpg",
+          "sha256": "7d168b8f03e3aa6f10b6dfabdc6b659382182fe17e0f32bc2afcbcb2cc72ac66"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "data": {
+        "progress": 0.9998588376624766,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          -3.6091486693187766,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/mobile-transition.jpg",
+          "sha256": "0920356321967e5ecade9fb54be43014a8465c36199877ad47c00fdd2830a50f"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "data": {
+        "progress": 1.9998681080316696,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          1.3908507982330733,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/mobile-middle.jpg",
+          "sha256": "90987859e25b5547a4153d7168547ed4007f3f589f6f8e42bfa6d01ee989658a"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "data": {
+        "progress": 2.9998583743000946,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          -2.609148241472082,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/mobile-ending.jpg",
+          "sha256": "bcfd1d1af1f6b4abea45c1e662e9101bbb9f17392b183dd0acba2b83354aa105"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "opening",
+      "data": {
+        "progress": 0,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          -3.6091486693187766,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/tablet-opening.jpg",
+          "sha256": "524f23cc7b0ea5be4db17416282473eb5013704e3866da8a075a4bcbd67e0834"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "transition",
+      "data": {
+        "progress": 0.9998594011840323,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          -3.6091486693187766,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/tablet-transition.jpg",
+          "sha256": "566e58fd08fe063b223583cf4d56d0049458f9a6555352e13f8fd4c1df669fcd"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "middle",
+      "data": {
+        "progress": 1.9998586007208425,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          1.3908507187098862,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/tablet-middle.jpg",
+          "sha256": "2e98cc06d73a6b36228f1430bc70c970692ee62cc7ba89cb8344599f445698ac"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "ending",
+      "data": {
+        "progress": 2.9998590530991405,
+        "grip": 0,
+        "tip": [
+          0.7681602750254689,
+          -2.6091482455632593,
+          1.5901362251294313
+        ],
+        "handNodes": [
+          "wrist",
+          "index-proximal",
+          "index-intermediate",
+          "index-distal",
+          "middle-proximal",
+          "middle-intermediate",
+          "middle-distal",
+          "ring-proximal",
+          "ring-intermediate",
+          "ring-distal",
+          "pinky-proximal",
+          "pinky-intermediate",
+          "pinky-distal",
+          "thumb-proximal",
+          "thumb-intermediate",
+          "thumb-distal"
+        ]
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-03/tablet-ending.jpg",
+          "sha256": "b7721f6129aa9c7e773bb418981efabbd4f0470b0fa155488ad413751632e99a"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-visually-approved",
+  "files": [
+    {
+      "path": ".webart/prototypes/007-campo-material-study-03-20261017/src/core/campo-scene.js",
+      "sha256": "e634ccfb876304c03f8e28908824f4a1d28d6690e45ae88277cdbff461144e1e"
+    },
+    {
+      "path": ".webart/prototypes/007-campo-material-study-03-20261017/public/assets/hand-realistic.glb",
+      "sha256": "dcba3f127d3ec6b8d871faf2e71bf6dd38ea169eb0767b5ab0eb5ac4ba37ffaa"
+    },
+    {
+      "path": ".webart/prototypes/007-campo-material-study-03-20261017/public/assets/cork-plate.glb",
+      "sha256": "9d9b9501075e10e8f018ffe7be64db30a05a1f17cbcab783ce69691ed6d23f64"
+    }
+  ]
+}

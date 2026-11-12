@@ -1,0 +1,147 @@
+{
+  "purpose": "Native footer stamp detail, no quality admission",
+  "viewports": [
+    {
+      "name": "desktop",
+      "frames": [
+        {
+          "state": "opening-no-cookie",
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/desktop-opening-no-cookie.jpg",
+          "sha256": "8401171b1dca279aeff53036973e12393747274da5420e29515841664fa685e1"
+        },
+        {
+          "state": "ending-before",
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/desktop-ending-before.jpg",
+          "sha256": "472738e8bf9c73970bf1e11b0a394b038173c67b1e56a119b03625e3c5291be4"
+        },
+        {
+          "state": "stamp-0",
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/desktop-stamp-0.jpg",
+          "sha256": "a46d00e9325bdb8a07c6385bd973f967d80d2e01d2696b4222feaf8ce9e58489"
+        },
+        {
+          "state": "stamp-1",
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/desktop-stamp-1.jpg",
+          "sha256": "926e2b1a17acc0e0234ac63518a7490f720eb1e31b691f026e439265fe170396"
+        },
+        {
+          "state": "stamp-2",
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/desktop-stamp-2.jpg",
+          "sha256": "546c70702e664c460d332e48d2147d66c485c34d9da9edffca4a94a06bca6551"
+        }
+      ],
+      "after": {
+        "y": 3529,
+        "stampCount": 7,
+        "stamps": [
+          {
+            "tag": "IMG",
+            "opacity": "0.4",
+            "transform": "matrix(0.984808, 0.173648, -0.173648, 0.984808, 0, -25.9609)"
+          },
+          {
+            "tag": "IMG",
+            "opacity": "0.6",
+            "transform": "matrix(0.994522, -0.104528, 0.104528, 0.994522, -95, -15.5766)"
+          },
+          {
+            "tag": "IMG",
+            "opacity": "0",
+            "transform": "none"
+          },
+          {
+            "tag": "IMG",
+            "opacity": "0.3",
+            "transform": "matrix(0.990268, 0.139173, -0.139173, 0.990268, 0, -51.9219)"
+          },
+          {
+            "tag": "DIV",
+            "opacity": "0.6614",
+            "transform": "matrix(0.987117, 0.16, -0.16, 0.987117, 208.297, 88.5078)"
+          },
+          {
+            "tag": "DIV",
+            "opacity": "0.592",
+            "transform": "matrix(0.997793, 0.0664061, -0.0664061, 0.997793, 511.297, 88.5078)"
+          },
+          {
+            "tag": "DIV",
+            "opacity": "0.8236",
+            "transform": "matrix(0.99533, -0.09959, 0.09959, 0.99533, 814.297, 88.5078)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "mobile",
+      "frames": [
+        {
+          "state": "opening-no-cookie",
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/mobile-opening-no-cookie.jpg",
+          "sha256": "025c949661e729d9d86e38720caee2a814903402458bc2432530f02504b83c55"
+        },
+        {
+          "state": "ending-before",
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/mobile-ending-before.jpg",
+          "sha256": "532ce765123b61c820368c92f4ecb04e9c3860941c1ae7da8c1d96ee8bb5138f"
+        },
+        {
+          "state": "stamp-0",
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/mobile-stamp-0.jpg",
+          "sha256": "58bd572c91e2077ced849d99c8fab9a37d461f0d284946387e8a48db66a0e437"
+        },
+        {
+          "state": "stamp-1",
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/mobile-stamp-1.jpg",
+          "sha256": "84c82156a10acca2d669dff9ecf59fa6076480dbf23d5709fb61af766e5eddef"
+        },
+        {
+          "state": "stamp-2",
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-stamp-followup/mobile-stamp-2.jpg",
+          "sha256": "86d8fb2a92757908b1b945506e7e4a1a91dc56e4e8201e0937d80449db854bdc"
+        }
+      ],
+      "after": {
+        "y": 2894,
+        "stampCount": 7,
+        "stamps": [
+          {
+            "tag": "IMG",
+            "opacity": "0.4",
+            "transform": "matrix(0.984808, 0.173648, -0.173648, 0.984808, 0, -13.6953)"
+          },
+          {
+            "tag": "IMG",
+            "opacity": "0.6",
+            "transform": "none"
+          },
+          {
+            "tag": "IMG",
+            "opacity": "0",
+            "transform": "matrix(0.994522, -0.104528, 0.104528, 0.994522, -34.1641, -20.4984)"
+          },
+          {
+            "tag": "IMG",
+            "opacity": "0.3",
+            "transform": "matrix(0.990268, 0.139173, -0.139173, 0.990268, 0, -27.3906)"
+          },
+          {
+            "tag": "DIV",
+            "opacity": "0.6969",
+            "transform": "matrix(0.946078, 0.32394, -0.32394, 0.946078, 23.3594, 91.2109)"
+          },
+          {
+            "tag": "DIV",
+            "opacity": "0.9605",
+            "transform": "matrix(0.900833, -0.434166, 0.434166, 0.900833, 96.3594, 91.2109)"
+          },
+          {
+            "tag": "DIV",
+            "opacity": "0.7153",
+            "transform": "matrix(0.878768, -0.478505, 0.478505, 0.878768, 169.359, 91.2109)"
+          }
+        ]
+      }
+    }
+  ]
+}

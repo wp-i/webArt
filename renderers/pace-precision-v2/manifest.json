@@ -1,0 +1,43 @@
+{
+  "slug": "pace",
+  "version": "0.3.0",
+  "output": "public/pace-source.zip",
+  "files": [
+    {
+      "source": "renderers/pace-precision-v2/source/index.html",
+      "archive": "index.html"
+    },
+    {
+      "source": "renderers/pace-precision-v2/source/package.json",
+      "archive": "package.json"
+    },
+    {
+      "source": "renderers/pace-precision-v2/source/package-lock.json",
+      "archive": "package-lock.json"
+    },
+    {
+      "source": "renderers/pace-precision-v2/source/vite.config.js",
+      "archive": "vite.config.js"
+    },
+    {
+      "source": "renderers/pace-precision-v2/source/src",
+      "archive": "src"
+    },
+    {
+      "source": "renderers/pace-precision-v2/source/public/assets",
+      "archive": "public/assets"
+    },
+    {
+      "source": "renderers/pace-precision-v2/source/README.md",
+      "archive": "README.md"
+    },
+    {
+      "source": "renderers/pace-precision-v2/source/LICENSE.md",
+      "archive": "LICENSE.md"
+    },
+    {
+      "source": "renderers/pace-precision-v2/source/THIRD_PARTY_NOTICES.md",
+      "archive": "THIRD_PARTY_NOTICES.md"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "008-glacial-materials-20261029",
+  "recordedOn": "2026-10-29",
+  "scope": "Acquisition, file provenance, licensing and observed map bindings for the private 008 material trials. This is not a material, prototype, renderer, package or publication approval.",
+  "rights": {
+    "ambientCGFilesVerified": true,
+    "fontFilesVerified": true,
+    "originalGeometryBlanketClearance": false,
+    "visualAdmissionGranted": false,
+    "fullImplementationAuthorized": false,
+    "packageAuthorized": false,
+    "showcaseAuthorized": false,
+    "limitations": "CC0 verification concerns the identified ambientCG files. It does not certify the independent identity, shape quality or reference fidelity of the authored geometry, scene, materials or sampled point data. Version-specific visual decisions remain in their actual review receipts."
+  },
+  "stageReferences": {
+    "referenceGate": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/reference-gate.json",
+      "sha256": "ceb903c653d8d7743278560e6a187809489b2aab7f44f673a913c285b09c95a0",
+      "decision": "reference-admitted-for-prototype-only"
+    },
+    "v1MaterialRejection": {
+      "path": "docs/assets/008-glacial-material-rejection-01.json",
+      "sha256": "440e5942e4bd5cc40c8d6224b4a4fae0882d539e6d75fc9b958e9429bfe82bc9",
+      "decision": "reject"
+    },
+    "v2VisualDecision": "Separate actual evidence review required; no approval is asserted by this provenance record."
+  },
+  "verification": {
+    "officialPagesOpenedOn": "2026-10-29",
+    "officialPages": [
+      "https://ambientcg.com/view?id=Ice004",
+      "https://ambientcg.com/view?id=Snow004",
+      "https://docs.ambientcg.com/license/",
+      "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
+    ],
+    "fileMethod": "SHA-256 and byte counts read from actual local files. All eight JPG hashes and byte counts also match their named entries in the retained upstream ZIPs. JPG dimensions decoded from the files; retained WebP dimensions independently decoded with Pillow.",
+    "bindingSource": {
+      "path": "assets/owned/sill-glacial-20261029/v2/materials.js",
+      "sha256": "4af955a70d9a4516296b57f4bc2d1909d1ef5ff39616f64b94940d594b1e029e"
+    },
+    "cropAndVisualReview": "Texture maps repeat on 3D surfaces rather than use photograph crops. Desktop/mobile framing, lighting, material appearance and four-state adequacy are not approved here."
+  },
+  "textureLicense": {
+    "spdx": "CC0-1.0",
+    "name": "Creative Commons CC0 1.0 Universal",
+    "officialStatementUrl": "https://docs.ambientcg.com/license/",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "fullLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "verifiedOn": "2026-10-29",
+    "distributionBasis": "ambientCG explicitly covers downloadable assets and their material preview renders with CC0, including commercial redistribution and raw files inside a project. Attribution is optional. This supports including the identified maps in an editable template source package after its separate production and package gates pass.",
+    "processing": "The eight selected 1K JPG maps were extracted without re-encoding or pixel editing; their hashes match the archive entries. Shader color, normal strength, repeat and displacement settings do not modify those source files."
+  },
+  "materials": [
+    {
+      "id": "Ice004",
+      "creator": "ambientCG",
+      "sourcePage": "https://ambientcg.com/view?id=Ice004",
+      "downloadUrl": "https://ambientcg.com/get?file=Ice004_1K-JPG.zip",
+      "acquiredOn": "2026-10-29",
+      "licenseRef": "textureLicense",
+      "role": "Surface detail for the pavilion panels, transparent frozen-object shells, aperture surfaces and ending platform in the private material trial; no reference geometry is supplied by this texture set.",
+      "archive": {
+        "path": ".webart/glacial-downloads-20261029/Ice004_1K-JPG.zip",
+        "bytes": 5766935,
+        "sha256": "1a6772c5de0cb7bc634757f008b1b0dba8cad80fbd668fb42f253475cd4a650a",
+        "purpose": "Retained acquisition provenance, not a proposed additional download product."
+      },
+      "preview": {
+        "path": ".webart/glacial-downloads-20261029/Ice004-preview.webp",
+        "downloadUrl": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Ice004.webp",
+        "bytes": 161638,
+        "sha256": "105d7e9a4e7a2a08c0f5cabbbf78fbf5f55759e3cb3515b4d16a5e67c45ddd2b",
+        "width": 2048,
+        "height": 2048,
+        "usage": "Retained source preview; not a page image or runtime texture."
+      },
+      "files": [
+        {
+          "path": "assets/owned/sill-glacial-20261029/Ice004/Ice004_1K-JPG_Color.jpg",
+          "map": "Color",
+          "bytes": 1043198,
+          "sha256": "b252fa104968ba8becd90b3f48477d98ac125e908c7ba56db0860e55774b916d",
+          "width": 1024,
+          "height": 1024,
+          "v1Binding": "ice.map and crystal.map",
+          "v2Binding": "Not loaded or bound; retained acquired file."
+        },
+        {
+          "path": "assets/owned/sill-glacial-20261029/Ice004/Ice004_1K-JPG_NormalGL.jpg",
+          "map": "NormalGL",
+          "bytes": 1174326,
+          "sha256": "c7445c3885956e122bf02a11bfb7af0f34e5cbe915aa6bded30c1a0131d20c43",
+          "width": 1024,
+          "height": 1024,
+          "v1Binding": "ice.normalMap and crystal.normalMap",
+          "v2Binding": "ice.normalMap and crystal.normalMap; repeat 0.7."
+        },
+        {
+          "path": "assets/owned/sill-glacial-20261029/Ice004/Ice004_1K-JPG_Roughness.jpg",
+          "map": "Roughness",
+          "bytes": 478299,
+          "sha256": "d6697da559ec80300bcb3867e765ea620722e955a3a001c997d8b94bcf56233f",
+          "width": 1024,
+          "height": 1024,
+          "v1Binding": "ice.roughnessMap and crystal.roughnessMap",
+          "v2Binding": "Loaded as iceRough and disposed; not assigned to a material property."
+        },
+        {
+          "path": "assets/owned/sill-glacial-20261029/Ice004/Ice004_1K-JPG_Displacement.jpg",
+          "map": "Displacement",
+          "bytes": 549268,
+          "sha256": "ed55871483e7e524ad4a15634e721e517703b1daa6c80cc8517765d7a9b11a00",
+          "width": 1024,
+          "height": 1024,
+          "v1Binding": "Not loaded or bound.",
+          "v2Binding": "Not loaded or bound; retained acquired file."
+        }
+      ]
+    },
+    {
+      "id": "Snow004",
+      "creator": "ambientCG",
+      "sourcePage": "https://ambientcg.com/view?id=Snow004",
+      "downloadUrl": "https://ambientcg.com/get?file=Snow004_1K-JPG.zip",
+      "acquiredOn": "2026-10-29",
+      "licenseRef": "textureLicense",
+      "role": "Limited snow-ground surface under the opening pavilion in the private material trial.",
+      "archive": {
+        "path": ".webart/glacial-downloads-20261029/Snow004_1K-JPG.zip",
+        "bytes": 6369066,
+        "sha256": "8d954173843674de72662459d79dbaa145e8562ede541f457c8460724a8d67e3",
+        "purpose": "Retained acquisition provenance, not a proposed additional download product."
+      },
+      "preview": {
+        "path": ".webart/glacial-downloads-20261029/Snow004-preview.webp",
+        "downloadUrl": "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-WEBP/Snow004.webp",
+        "bytes": 135700,
+        "sha256": "f7823e2a7aacf2fc1ea8288b91fa295d2b1406fb73fa8d8596817b850ec4a9ad",
+        "width": 2048,
+        "height": 2048,
+        "usage": "Retained source preview; not a page image or runtime texture."
+      },
+      "files": [
+        {
+          "path": "assets/owned/sill-glacial-20261029/Snow004/Snow004_1K-JPG_Color.jpg",
+          "map": "Color",
+          "bytes": 843052,
+          "sha256": "b60fcabb3f85a85235ed6b9dbea96f4ec4af6ede8ff5db8c3dff9c2a58102217",
+          "width": 1024,
+          "height": 1024,
+          "v1Binding": "snow.map",
+          "v2Binding": "snow.map; sRGB; repeat 9."
+        },
+        {
+          "path": "assets/owned/sill-glacial-20261029/Snow004/Snow004_1K-JPG_NormalGL.jpg",
+          "map": "NormalGL",
+          "bytes": 1555147,
+          "sha256": "e2c74adaf4449634eb9d02b2dc12769465711c6d0c1e1e64d1221779d3e3ee3e",
+          "width": 1024,
+          "height": 1024,
+          "v1Binding": "snow.normalMap",
+          "v2Binding": "snow.normalMap; repeat 9."
+        },
+        {
+          "path": "assets/owned/sill-glacial-20261029/Snow004/Snow004_1K-JPG_Roughness.jpg",
+          "map": "Roughness",
+          "bytes": 803579,
+          "sha256": "15c01157eab42dc870ca2bb2bbd0777676fba7e7b6b3e050b3c68a7beeb02ea0",
+          "width": 1024,
+          "height": 1024,
+          "v1Binding": "snow.roughnessMap",
+          "v2Binding": "snow.roughnessMap; repeat 9."
+        },
+        {
+          "path": "assets/owned/sill-glacial-20261029/Snow004/Snow004_1K-JPG_Displacement.jpg",
+          "map": "Displacement",
+          "bytes": 319270,
+          "sha256": "1666422316dad7ac658aafe95c24be9f5da6fe81b9048c23aee114324f338f36",
+          "width": 1024,
+          "height": 1024,
+          "v1Binding": "Not loaded or bound.",
+          "v2Binding": "snow.displacementMap; repeat 9; displacementScale 0.10; displacementBias -0.025."
+        }
+      ]
+    }
+  ],
+  "font": {
+    "id": "jetbrains-mono",
+    "creator": "The JetBrains Mono Project Authors",
+    "sourcePage": "https://github.com/JetBrains/JetBrainsMono",
+    "sourcePageBasis": "Upstream project URL in the retained OFL copyright statement; this font was reused locally, not newly downloaded in this task.",
+    "role": "Local monospace labels, navigation and Sill wordmark in the private material trial.",
+    "license": "SIL Open Font License 1.1",
+    "licenseUrl": "http://scripts.sil.org/OFL",
+    "verifiedOn": "2026-10-29",
+    "distributionBasis": "OFL permits bundling and redistribution with software when the copyright statement and full OFL are included. The font retains OFL and is not sold by itself.",
+    "processing": "Unmodified byte-for-byte local copies from the registered 010 font and license files.",
+    "registry": {
+      "path": "docs/assets/font-registry.json",
+      "sha256": "898d5b37d249af0ed1f29d1c3ec011c50ffff633ac9eb0086e4df2952c58b073",
+      "id": "jetbrains-mono",
+      "source": "designs/010-pace/public/assets/jetbrains-mono.woff2",
+      "licenseSource": "designs/010-pace/public/assets/JETBRAINS-MONO-OFL.txt",
+      "fontHashMatchesRegistryAndSource": true,
+      "licenseHashMatchesRegistryAndSource": true
+    },
+    "file": {
+      "path": "assets/owned/sill-glacial-20261029/jetbrains-mono.woff2",
+      "bytes": 21168,
+      "sha256": "14425ba9c695763c1547f48a206b7aa60350a33ae23de09f0407877f3fcd89eb"
+    },
+    "licenseFile": {
+      "path": "assets/owned/sill-glacial-20261029/JETBRAINS-MONO-OFL.txt",
+      "bytes": 4524,
+      "sha256": "403581b69dac5cff4079205e01c6b467e56af449ecbd7247693ddb1baafa005b"
+    }
+  },
+  "authoredModules": {
+    "creator": "WebArt contributors; model-assisted code authored in the current conversation",
+    "creationMode": "One-time authorized new-style material trial and its bounded correction; not a prebuilt admitted renderer or zero-LLM production instance.",
+    "declaredLicense": "MIT",
+    "provenanceScope": "The versioned geometry.js, materials.js and scene.js below were authored for this trial. Their MIT notices do not relicense ambientCG maps, the OFL font or Three.js. Authorship and licensing declarations do not approve material appearance, original geometry, sampled volumes or production admission.",
+    "environment": "RoomEnvironment imported from the locally installed Three.js add-on generates the trial environment; no downloaded HDRI or reference-site environment map is declared.",
+    "versions": [
+      {
+        "version": "v1",
+        "visualStatus": "rejected; preserve the actual rejection receipt",
+        "files": [
+          { "path": "assets/owned/sill-glacial-20261029/v1/geometry.js", "bytes": 5729, "sha256": "2d8a9a5f07465898bc2e6c4d2adbba74d0824aa251d3f61fa055e8d297602d76" },
+          { "path": "assets/owned/sill-glacial-20261029/v1/materials.js", "bytes": 2352, "sha256": "37c1e14d61e62f052bdc6e0a594fa2c3ddbe04bf63f0c8e0cca945aa38f4c2e7" },
+          { "path": "assets/owned/sill-glacial-20261029/v1/scene.js", "bytes": 10168, "sha256": "0bbfe4458123e8e5e2d8bcf6246a7c0aad2132041b68b91d0b87510548580dec" }
+        ],
+        "licenseFile": { "path": "assets/owned/sill-glacial-20261029/v1/LICENSE.md", "bytes": 1416, "sha256": "7c95ab13732438874ff8085b538e2a9af4c893668c56b7d17419bf55aec49fc5" }
+      },
+      {
+        "version": "v2",
+        "visualStatus": "separate version-specific evidence review; this record grants no admission",
+        "files": [
+          { "path": "assets/owned/sill-glacial-20261029/v2/geometry.js", "bytes": 6705, "sha256": "8ea7e9dd059b080e7715ba9336b7615189cef2a2547b483769a9e3fa4259ecbd" },
+          { "path": "assets/owned/sill-glacial-20261029/v2/materials.js", "bytes": 2721, "sha256": "4af955a70d9a4516296b57f4bc2d1909d1ef5ff39616f64b94940d594b1e029e" },
+          { "path": "assets/owned/sill-glacial-20261029/v2/scene.js", "bytes": 10198, "sha256": "f727c2a4093ff886226675ddd912a4201096bffc161cdabadf6f579c34eca418" }
+        ],
+        "licenseFile": { "path": "assets/owned/sill-glacial-20261029/v2/LICENSE.md", "bytes": 1416, "sha256": "7c95ab13732438874ff8085b538e2a9af4c893668c56b7d17419bf55aec49fc5" }
+      }
+    ]
+  },
+  "thirdPartyRuntime": {
+    "name": "Three.js",
+    "version": "0.186.1",
+    "creator": "three.js authors",
+    "license": "MIT",
+    "sourcePage": "https://threejs.org/",
+    "componentsObserved": ["three", "three/addons/environments/RoomEnvironment.js"],
+    "localLicense": {
+      "path": ".webart/prototypes/010-performance-20261018/node_modules/three/LICENSE",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    "distributionBasis": "Retain the upstream MIT copyright and permission notice with any included Three.js code; this record does not create or authorize a source package."
+  },
+  "noticeFile": "assets/owned/sill-glacial-20261029/THIRD_PARTY_NOTICES.md"
+}

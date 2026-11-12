@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-12",
+  "baseline": "535693e",
+  "templates": [
+    {
+      "id": "006",
+      "slug": "house-of-ivory",
+      "version": "0.2.0",
+      "bytes": 1599284,
+      "sha256": "56c58f16e8fe4fa84b86036bdb59b62ee333f6481808077c3f46343f7890f122",
+      "entries": 20,
+      "cleanInstall": "passed",
+      "cleanBuild": "passed"
+    },
+    {
+      "id": "007",
+      "slug": "campovivo",
+      "version": "0.2.0",
+      "bytes": 2313424,
+      "sha256": "9aa7e97c355ee902f33ef3199afff7657ea7a54ffdec49709e95e8e301770fcf",
+      "entries": 17,
+      "cleanInstall": "passed",
+      "cleanBuild": "passed"
+    },
+    {
+      "id": "008",
+      "slug": "sill",
+      "version": "0.2.0",
+      "bytes": 1740847,
+      "sha256": "f3054f5f8f18982234d039a1a3b4bbef79693ad402a57bba24b88f657341141c",
+      "entries": 15,
+      "cleanInstall": "passed",
+      "cleanBuild": "passed"
+    }
+  ]
+}

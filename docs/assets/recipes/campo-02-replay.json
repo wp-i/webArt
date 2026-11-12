@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "recipe": "campo-hand-and-cork-v1",
+  "inputs": [
+    {
+      "path": ".webart/asset-preparation/human-base-meshes-v1.4.1/human-base-meshes-bundle-v1.4.1/human_base_meshes_bundle.blend",
+      "sha256": "3c121505651140ceb4d69fd1d8923f7788ffadd81672f5be14845a5f2c75c137"
+    },
+    {
+      "path": "assets/candidates/campo/coaster-high.obj",
+      "sha256": "45b47e3161a4bad0546698c14d8f7f8c915a62789052003b57a3890b796c6637"
+    },
+    {
+      "path": ".webart/asset-preparation/Cork001/Cork001_2K-JPG_Color.jpg",
+      "sha256": "de8fb6a641619a12135f3e3fa51c7f5378e1e828bcd1be705bd881e651ee96c0"
+    },
+    {
+      "path": ".webart/asset-preparation/Cork001/Cork001_2K-JPG_NormalGL.jpg",
+      "sha256": "75a5ace445753703076136dd43fab7b422f0d6bece0036f094643932124fb158"
+    },
+    {
+      "path": ".webart/asset-preparation/Cork001/Cork001_2K-JPG_Roughness.jpg",
+      "sha256": "0223930135cb116826749fd77837d9ad332dd4571ea950475937f6c7ba5194ea"
+    }
+  ],
+  "hand": {
+    "input": ".webart/asset-preparation/human-base-meshes-v1.4.1/human-base-meshes-bundle-v1.4.1/human_base_meshes_bundle.blend",
+    "object": "Hand  - Realistic",
+    "output": "assets/candidates/campo-v2/hand-realistic-rigged.glb",
+    "skinColor": [
+      0.19,
+      0.078,
+      0.046
+    ],
+    "nailColor": [
+      0.27,
+      0.12,
+      0.074
+    ],
+    "nailFaceSets": [
+      10
+    ],
+    "extraSubdivision": 1,
+    "bones": {
+      "wrist": {
+        "head": [
+          0,
+          0,
+          0.078
+        ],
+        "tail": [
+          0,
+          0,
+          -0.04
+        ],
+        "faceSets": [
+          24
+        ]
+      },
+      "index-proximal": {
+        "head": [
+          0.044,
+          0,
+          -0.108
+        ],
+        "tail": [
+          0.044,
+          0.006,
+          -0.14
+        ],
+        "faceSets": [
+          19
+        ],
+        "parent": "wrist"
+      },
+      "index-intermediate": {
+        "head": [
+          0.044,
+          0.006,
+          -0.14
+        ],
+        "tail": [
+          0.044,
+          0.006,
+          -0.165
+        ],
+        "faceSets": [
+          16
+        ],
+        "parent": "index-proximal"
+      },
+      "index-distal": {
+        "head": [
+          0.044,
+          0.006,
+          -0.165
+        ],
+        "tail": [
+          0.044,
+          0.016,
+          -0.187
+        ],
+        "faceSets": [
+          3
+        ],
+        "parent": "index-intermediate"
+      },
+      "middle-proximal": {
+        "head": [
+          0.015,
+          0,
+          -0.107
+        ],
+        "tail": [
+          0.015,
+          0.006,
+          -0.149
+        ],
+        "faceSets": [
+          18
+        ],
+        "parent": "wrist"
+      },
+      "middle-intermediate": {
+        "head": [
+          0.015,
+          0.006,
+          -0.149
+        ],
+        "tail": [
+          0.015,
+          0.006,
+          -0.179
+        ],
+        "faceSets": [
+          15
+        ],
+        "parent": "middle-proximal"
+      },
+      "middle-distal": {
+        "head": [
+          0.015,
+          0.006,
+          -0.179
+        ],
+        "tail": [
+          0.015,
+          0.016,
+          -0.203
+        ],
+        "faceSets": [
+          4
+        ],
+        "parent": "middle-intermediate"
+      },
+      "ring-proximal": {
+        "head": [
+          -0.014,
+          0,
+          -0.102
+        ],
+        "tail": [
+          -0.014,
+          0.006,
+          -0.145
+        ],
+        "faceSets": [
+          17
+        ],
+        "parent": "wrist"
+      },
+      "ring-intermediate": {
+        "head": [
+          -0.014,
+          0.006,
+          -0.145
+        ],
+        "tail": [
+          -0.014,
+          0.006,
+          -0.17
+        ],
+        "faceSets": [
+          14
+        ],
+        "parent": "ring-proximal"
+      },
+      "ring-distal": {
+        "head": [
+          -0.014,
+          0.006,
+          -0.17
+        ],
+        "tail": [
+          -0.014,
+          0.016,
+          -0.192
+        ],
+        "faceSets": [
+          5
+        ],
+        "parent": "ring-intermediate"
+      },
+      "pinky-proximal": {
+        "head": [
+          -0.043,
+          0,
+          -0.098
+        ],
+        "tail": [
+          -0.043,
+          0.006,
+          -0.127
+        ],
+        "faceSets": [
+          13
+        ],
+        "parent": "wrist"
+      },
+      "pinky-intermediate": {
+        "head": [
+          -0.043,
+          0.006,
+          -0.127
+        ],
+        "tail": [
+          -0.043,
+          0.006,
+          -0.146
+        ],
+        "faceSets": [
+          12
+        ],
+        "parent": "pinky-proximal"
+      },
+      "pinky-distal": {
+        "head": [
+          -0.043,
+          0.006,
+          -0.146
+        ],
+        "tail": [
+          -0.043,
+          0.016,
+          -0.164
+        ],
+        "faceSets": [
+          11
+        ],
+        "parent": "pinky-intermediate"
+      },
+      "thumb-proximal": {
+        "head": [
+          0.034,
+          0.013,
+          -0.04
+        ],
+        "tail": [
+          0.066,
+          0.018,
+          -0.074
+        ],
+        "faceSets": [
+          23
+        ],
+        "parent": "wrist"
+      },
+      "thumb-intermediate": {
+        "head": [
+          0.066,
+          0.018,
+          -0.074
+        ],
+        "tail": [
+          0.079,
+          0.021,
+          -0.094
+        ],
+        "faceSets": [
+          22
+        ],
+        "parent": "thumb-proximal"
+      },
+      "thumb-distal": {
+        "head": [
+          0.079,
+          0.021,
+          -0.094
+        ],
+        "tail": [
+          0.09,
+          0.021,
+          -0.111
+        ],
+        "faceSets": [
+          21
+        ],
+        "parent": "thumb-intermediate"
+      }
+    }
+  },
+  "cork": {
+    "input": "assets/candidates/campo/coaster-high.obj",
+    "output": "assets/candidates/campo-v2/cork-plate.glb",
+    "grainScale": 0.12,
+    "maps": {
+      "color": ".webart/asset-preparation/Cork001/Cork001_2K-JPG_Color.jpg",
+      "normal": ".webart/asset-preparation/Cork001/Cork001_2K-JPG_NormalGL.jpg",
+      "roughness": ".webart/asset-preparation/Cork001/Cork001_2K-JPG_Roughness.jpg"
+    }
+  },
+  "log": ".webart/asset-preparation/campo-02-preparation.log",
+  "receipt": "docs/production/runs/2026-10-17-reference-trial/007-asset-preparation-02.json",
+  "referenceReview": "docs/production/runs/2026-10-17-reference-trial/007-oryzo-reference-review.json",
+  "calibrationReview": "docs/production/runs/2026-10-16-actual-trial/reviewer-calibration.json",
+  "sourceUrl": "https://oryzo.ai/"
+}

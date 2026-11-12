@@ -1,0 +1,22 @@
+{
+  "at": "2026-10-12T13:45:28.0190156Z",
+  "process": 28696,
+  "checks": [
+    {
+      "url": "http://127.0.0.1:4180/",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4180/designs/001-weight-of-light/",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4180/preview.html?id=010",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4180/pace-source.zip",
+      "status": 200
+    }
+  ]
+}

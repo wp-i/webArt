@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261018121135178-bfc2ff60",
+  "mode": "configuration-driven",
+  "productionMode": "frozen-renderer",
+  "codeGenerationCalls": 0,
+  "execution": "controlled-fixture",
+  "started": "2026-10-18T12:11:35.180Z",
+  "model": "controlled-fixture",
+  "ids": [
+    "010"
+  ],
+  "status": "ready-for-user-review",
+  "stage": "packaging",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [
+    {
+      "id": "010",
+      "title": "Pace",
+      "directory": ".webart/prototypes/api-20261018121135178-bfc2ff60-010",
+      "archivePath": ".webart/trials/api-assisted-20261018-010-source.zip",
+      "bytes": 710412,
+      "sha256": "bb150313c0142dd37ee4cdf9cd227cf858d45272a160fabc05d4cd51eed5c351",
+      "archiveReused": true,
+      "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+      "qaRecord": "docs/qa/api-20261018121135178-bfc2ff60-010.md",
+      "capturePath": "docs/evidence/production/api-20261018121135178-bfc2ff60/010-prototype-0-0/capture.json",
+      "http": {
+        "previewAndAllAssets": "passed",
+        "archiveHttp": "passed"
+      },
+      "quality": "controlled-fixture-not-art-admitted"
+    }
+  ],
+  "inventoryChanged": false,
+  "visualAcceptance": "not-applicable-engineering-fixture",
+  "finished": "2026-10-18T12:14:52.539Z",
+  "integration": {
+    "purpose": "Controlled engineering test only. No live model calls, real visual admission, new design or public release.",
+    "modelRoleCalls": [
+      "reference-review",
+      "prototype-review",
+      "style-review",
+      "controls-review"
+    ],
+    "preservation": {
+      "changedContract": "correctly-blocked",
+      "openingUsedForEnding": "correctly-blocked"
+    },
+    "rendering": {
+      "realFailureCases": 6,
+      "capturedStates": 24,
+      "tamperedSource": "correctly-blocked",
+      "tamperedImage": "correctly-blocked"
+    },
+    "renderer": {
+      "id": "pace-precision-v2",
+      "defaultWriter": "actual",
+      "exactSource": "preserved",
+      "archiveReused": true,
+      "newArchives": 0,
+      "totalPrivateArchives": 1,
+      "visualAdmission": false
+    },
+    "performance": {
+      "checks": 20,
+      "result": "passed-performance-budget",
+      "evidence": "docs/evidence/redo-v2/static-pipeline/api-20261018121135178-bfc2ff60-performance.json",
+      "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+      "policySha256": "eab0ccf3412ae64cfffdcaf76c7839f9c7cace8ba86441a2c39428caf56cabc9",
+      "missingReport": "correctly-blocked",
+      "tamperedReport": "correctly-blocked",
+      "excessiveGeometryEvenAfterRepinning": "correctly-blocked",
+      "visualAdmission": false
+    }
+  }
+}

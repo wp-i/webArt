@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "id": "007",
+  "phase": "bounded-stock-portrait-set-check",
+  "startedAt": "2026-11-01T01:50:14+08:00",
+  "finishedAt": "2026-10-31T17:56:23.587Z",
+  "decision": "no-role-complete-coherent-portrait-set-found",
+  "reviewer": {
+    "id": "current-conversation-subagent-stock-source-check",
+    "independent": false,
+    "contextIsolated": false
+  },
+  "scope": "Same fictional male studio-designer presentation: frontal upper-body portrait, compatible profile and concrete work/life context; no Lando/F1 source imagery, login, paid assets, final image acquisition or image generation.",
+  "inputs": [
+    "docs/pages/007-shell-studies.md",
+    "docs/assets/007-shell-studies.md",
+    "docs/assets/sourced-media.json",
+    "docs/assets/SOURCING_STANDARD.md"
+  ],
+  "existingInventoryFinding": "The existing12-image sourced-media inventory contains interior/architecture and pasta/dining/coast photographs, not a coherent male portrait set for these roles.",
+  "bounds": {
+    "maximumCandidatePreviews": 12,
+    "actualCandidatePreviewsViewed": 11,
+    "maximumMinutes": 8,
+    "researchStoppedWithinBounds": true,
+    "originalFullResolutionDownloads": 0,
+    "adoptedAssets": 0,
+    "imageGenerationCalls": 0
+  },
+  "access": {
+    "sourcePages": "Original Pexels photo pages, original author gallery pages and official license were actually read through the web tool. Browser photo/license pages returned Cloudflare verification; no challenge was operated or bypassed.",
+    "previews": "Only bounded research previews at maximum600px were saved, following primary-page image/download URLs with preview sizing. Each was actually viewed full preview size and in one contact sheet. They are evidence, not deliverable media or asset approval."
+  },
+  "license": {
+    "sourceUrl": "https://www.pexels.com/license/",
+    "checkedAt": "2026-11-01",
+    "primaryPageRead": true,
+    "summary": "Pexels permits free use and modification, including use in a website or template sold. Its restrictions include endorsement implications, offensive portrayal, unmodified resale and competing image libraries. This source check does not grant a model endorsement or establish the depicted person as a designer.",
+    "photographRoleApproval": false
+  },
+  "portraitCandidates": [
+    {
+      "id": "15014092",
+      "author": "Casey Bebernes",
+      "authorIsNotAssertedToBeDepictedPerson": true,
+      "sourceUrl": "https://www.pexels.com/photo/close-up-shot-of-a-man-wearing-black-shirt-on-white-background-15014092/",
+      "authorPage": "https://www.pexels.com/@casey-bebernes-413079848/",
+      "sourceListedDimensions": [
+        2048,
+        2048
+      ],
+      "sourceLicense": "Free / Pexels license",
+      "visualObservation": "A near-frontal, clear head-and-upper-torso portrait in a plain dark crew-neck T-shirt against pale warm background. Head top, both ears and shoulders are present; no hat or glasses covers the face. Camera view is close to eye level with no obvious wide-angle distortion in the600px preview. A cast shadow is visible behind the head/shoulder; full-resolution edge and skin detail have not been reviewed.",
+      "status": "potential-frontal-only-not-selected",
+      "sameSessionSetFinding": "The original author gallery currently lists9 items, all9 linked previews were inspected. The other8 show horses/chicken/dog/eagle/bison/mountains/lake; one horse scene includes a distant figure wearing a hat and vest. No compatible same-outfit side portrait or clear work/life image was established in that bounded original gallery.",
+      "remainingGaps": [
+        "No compatible profile source image.",
+        "No clear contextual shot linked to this portrait session/outfit.",
+        "No same-person same-outfit complete helmet closing; eventual head/helmet fit and cutout remain untested."
+      ]
+    },
+    {
+      "id": "15288743",
+      "author": "Mehmet Ağırman",
+      "sourceUrl": "https://www.pexels.com/photo/portrait-of-man-in-black-shirt-15288743/",
+      "authorPage": "https://www.pexels.com/@mehmetagirmanx/",
+      "sourceListedDimensions": [
+        4480,
+        6720
+      ],
+      "sourceLicense": "Free / Pexels license",
+      "visualObservation": "Standing fashion pose in an open dark-green shirt and white trousers, photographed from above; head tilted and face small relative to full body. This does not provide the required neutral eye-level frontal bust or helmet-fitting pose.",
+      "status": "not-selected-at-preview",
+      "sameSessionSetFinding": "Author page was read, but no compatible set was established. No extra gallery candidates were viewed beyond the bounded11."
+    },
+    {
+      "id": "13026171",
+      "author": "Luciana Mesquita",
+      "sourceUrl": "https://www.pexels.com/photo/close-up-shot-of-a-man-wearing-black-long-sleeves-on-white-background-13026171/",
+      "authorPage": "https://www.pexels.com/@luciana-mesquita-280718243/",
+      "sourceLicense": "Free / Pexels license",
+      "visualObservation": "Dark-shirt upper-body pose with head bent down and hand covering mouth/chin, crossed arms; the face view and hand obstruction fail the frontal helmet-fitting role.",
+      "status": "not-selected-at-preview",
+      "sameSessionSetFinding": "Author page was read; no additional pose was adopted or claimed to depict a matched person."
+    }
+  ],
+  "inspectedCaseyGallery": {
+    "sourceUrl": "https://www.pexels.com/@casey-bebernes-413079848/",
+    "galleryListedCount": 9,
+    "ids": [
+      "15014101",
+      "15014100",
+      "15014099",
+      "15014097",
+      "15014096",
+      "15014095",
+      "15014094",
+      "15014093",
+      "15014092"
+    ],
+    "matchingMethod": "Primary author-gallery grouping and visible clothing/scene suitability only; no personal identity or biometric identification is asserted.",
+    "findings": {
+      "15014092": "Only compatible frontal portrait in the checked gallery.",
+      "15014093": "Mountain lake landscape; no person.",
+      "15014094": "Bison in field; no portrait.",
+      "15014095": "Cliff/waterfall landscape; no person.",
+      "15014096": "Eagle over water; no person.",
+      "15014097": "Saddled horse and distant hat/vest figure; no clear head/compatible clothing/profile.",
+      "15014099": "Dog; no person.",
+      "15014100": "Chicken in backlight; no person.",
+      "15014101": "Grazing horses and autumn tree; no portrait."
+    }
+  },
+  "previewEvidence": {
+    "manifest": {
+      "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/preview-manifest.json",
+      "sha256": "602a970c1e5cb3a8f2bdb7d9fed2576a81ea98bd2358176bcad098e22fafe098"
+    },
+    "contactSheet": {
+      "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/contact-sheet.jpg",
+      "sha256": "16b37f14681a9d67061c87338bc1b54c5470ea6fc2f481f518fc7d481511fc4b"
+    },
+    "previews": [
+      {
+        "id": "15014092",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/15014092-preview.jpg",
+        "sha256": "41899f376644e352e006e6efe5c089dbdee2fa648eb8e407b2bd3ebceac4a7b5",
+        "width": 600,
+        "height": 600,
+        "bytes": 26100,
+        "purpose": "research-preview-only-not-final-asset"
+      },
+      {
+        "id": "15288743",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/15288743-preview.jpg",
+        "sha256": "cfeb52585df465f86598c387d2d69ab6eabacda2c76a06596267d84dea771ead",
+        "width": 400,
+        "height": 600,
+        "bytes": 19715,
+        "purpose": "research-preview-only-not-final-asset"
+      },
+      {
+        "id": "13026171",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/13026171-preview.jpg",
+        "sha256": "79786dab3b5e4b7fb4b1aefe6fe4196fa691c9a9ac1fd8756e93484151402e47",
+        "width": 400,
+        "height": 600,
+        "bytes": 22950,
+        "purpose": "research-preview-only-not-final-asset"
+      },
+      {
+        "id": "15014101",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/15014101-preview.jpg",
+        "sha256": "a9fb79854f97138a6af21a78eeb64421400bb69f2ffca0652a1d7ad24a280cc7",
+        "width": 600,
+        "height": 450,
+        "bytes": 83175,
+        "purpose": "research-preview-only-not-final-asset"
+      },
+      {
+        "id": "15014100",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/15014100-preview.jpg",
+        "sha256": "96d5f8f2db9f1b653d6a5c1858402826c748bff3279e1f9bb658ff5a5c45c544",
+        "width": 400,
+        "height": 600,
+        "bytes": 30851,
+        "purpose": "research-preview-only-not-final-asset"
+      },
+      {
+        "id": "15014099",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/15014099-preview.jpg",
+        "sha256": "88f4d1720d05c4f7ef8550d79fd79c329b74044629e9787393431a6a9b93359c",
+        "width": 461,
+        "height": 600,
+        "bytes": 45579,
+        "purpose": "research-preview-only-not-final-asset"
+      },
+      {
+        "id": "15014097",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/15014097-preview.jpg",
+        "sha256": "b93601d40d1645cb694e924c743ce6d926796d13abc6199a0460f06c49c2dd20",
+        "width": 600,
+        "height": 400,
+        "bytes": 41536,
+        "purpose": "research-preview-only-not-final-asset"
+      },
+      {
+        "id": "15014096",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/15014096-preview.jpg",
+        "sha256": "b631aebb6ed0032455bede37e0741e5a2667044516c0b7bef23b30a6d4648587",
+        "width": 600,
+        "height": 338,
+        "bytes": 32142,
+        "purpose": "research-preview-only-not-final-asset"
+      },
+      {
+        "id": "15014095",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/15014095-preview.jpg",
+        "sha256": "b80f27a173c726f313daa1254858c1ceff425334ed865a6842c363351387831c",
+        "width": 400,
+        "height": 600,
+        "bytes": 65723,
+        "purpose": "research-preview-only-not-final-asset"
+      },
+      {
+        "id": "15014094",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/15014094-preview.jpg",
+        "sha256": "7b221d0a78bef80e295ffc743528f0ff43f6e10e4c582918e99d719cd95ace85",
+        "width": 600,
+        "height": 400,
+        "bytes": 43093,
+        "purpose": "research-preview-only-not-final-asset"
+      },
+      {
+        "id": "15014093",
+        "path": "docs/evidence/redo-v2/2026-11-01/007-portrait-stock-check/15014093-preview.jpg",
+        "sha256": "bfc195bb8d4f123d88906aa4ee85b1bb7f9af284a70e24f6ef00540e4ee7cf1a",
+        "width": 600,
+        "height": 400,
+        "bytes": 67899,
+        "purpose": "research-preview-only-not-final-asset"
+      }
+    ]
+  },
+  "concreteRoleGap": "The frontal pose can be sourced individually, but this bounded stock check did not supply the coherent profile, dark clothing, specific studio/life context and complete helmet closing needed to retain one visual identity across the admitted reference roles. Unrelated men, repeated frontal crops or a hand-covered face are not substitutes.",
+  "nextAction": "Chief decides the actual selected mature helmet and portrait framing first. If coherent stock remains unavailable, the recorded gap can support consideration of the limited directed-generation exception under the sourcing standard; this report does not itself authorize generation, asset adoption or module/page production.",
+  "assetsApproved": false,
+  "fullImplementationAuthorized": false,
+  "inventoryChanged": false,
+  "showcaseChanged": false
+}

@@ -1,0 +1,45 @@
+{
+  "observedAt": "2026-10-15T01:53:05.019Z",
+  "result": "passed-engineering-only",
+  "realFailureCases": [
+    {
+      "mode": "context-unavailable",
+      "width": 1440,
+      "triggered": true,
+      "states": 4
+    },
+    {
+      "mode": "context-unavailable",
+      "width": 390,
+      "triggered": true,
+      "states": 4
+    },
+    {
+      "mode": "context-unavailable",
+      "width": 320,
+      "triggered": true,
+      "states": 4
+    },
+    {
+      "mode": "context-lost",
+      "width": 1440,
+      "triggered": true,
+      "states": 4
+    },
+    {
+      "mode": "context-lost",
+      "width": 390,
+      "triggered": true,
+      "states": 4
+    },
+    {
+      "mode": "context-lost",
+      "width": 320,
+      "triggered": true,
+      "states": 4
+    }
+  ],
+  "missingLossHandler": "correctly-blocked",
+  "realModelCalls": 0,
+  "visualAdmission": false
+}

@@ -1,0 +1,1254 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Dopo actual source evidence provenance and known capture-path limitations; no quality verdict",
+  "created": "2026-10-25T15:03:54.609Z",
+  "source": {
+    "url": "https://mydopo.com/",
+    "distribution": "Visual inspection only; source models, textures, fonts and implementation code were not acquired for a source package"
+  },
+  "result": "captured-awaiting-visual-review",
+  "formalCapture": {
+    "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/capture.json",
+    "sha256": "c73a461dc4b27298d1d31d418b554ad271872490546d734cba4e7fff08b6a28c"
+  },
+  "inputSupplement": {
+    "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/input-proof.json",
+    "sha256": "f22232e726e935e40434afa2b1cd16dfe849b9f6567d8fe0863730d9ad9f9d69"
+  },
+  "staticCaptureConfig": {
+    "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/capture-config-02.json",
+    "sha256": "dac5a1f9f870d1ef2577fe2541c07d4b1bb44fef5c5f69749d75c613ab647722"
+  },
+  "runner": {
+    "path": "scripts/capture-production.mjs",
+    "sha256": "1cfb50d967421640ae30328256549434a871366490d83f01431206dc3bd75d40"
+  },
+  "taskBrowser": {
+    "session": "webart-dopo-reference-20261025",
+    "configuration": {
+      "path": "webart.browser.json",
+      "sha256": "bdefaa68a5a6f24faa7b431a92d7b4ed3da7558773322ee24b7b54aa9e4c1307"
+    },
+    "headed": false
+  },
+  "formalRun": {
+    "started": "2026-10-25T15:00:31.169Z",
+    "finished": "2026-10-25T15:01:50.282Z",
+    "elapsedMs": 79113,
+    "deadlineMs": 240000,
+    "states": [
+      {
+        "viewport": "desktop",
+        "state": "opening",
+        "y": 0,
+        "evidence": [
+          {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-opening/contact-sheet.jpg",
+            "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+          }
+        ]
+      },
+      {
+        "viewport": "desktop",
+        "state": "transition",
+        "y": 900,
+        "evidence": [
+          {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-transition/contact-sheet.jpg",
+            "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+          }
+        ]
+      },
+      {
+        "viewport": "desktop",
+        "state": "middle",
+        "y": 1800,
+        "evidence": [
+          {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-middle/contact-sheet.jpg",
+            "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+          }
+        ]
+      },
+      {
+        "viewport": "desktop",
+        "state": "ending",
+        "y": 3732,
+        "evidence": [
+          {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-ending/contact-sheet.jpg",
+            "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+          }
+        ]
+      },
+      {
+        "viewport": "mobile",
+        "state": "opening",
+        "y": 0,
+        "evidence": [
+          {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-opening/contact-sheet.jpg",
+            "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+          }
+        ]
+      },
+      {
+        "viewport": "mobile",
+        "state": "transition",
+        "y": 844,
+        "evidence": [
+          {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-transition/contact-sheet.jpg",
+            "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+          }
+        ]
+      },
+      {
+        "viewport": "mobile",
+        "state": "middle",
+        "y": 2532,
+        "evidence": [
+          {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-middle/contact-sheet.jpg",
+            "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+          }
+        ]
+      },
+      {
+        "viewport": "mobile",
+        "state": "ending",
+        "y": 4334,
+        "evidence": [
+          {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-ending/contact-sheet.jpg",
+            "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+          }
+        ]
+      }
+    ],
+    "runtimeExceptions": 0
+  },
+  "sourceGeometry": [
+    {
+      "viewport": "desktop",
+      "identity": {
+        "url": "https://mydopo.com/",
+        "y": 0,
+        "documentHeight": 4617,
+        "innerHeight": 900,
+        "clientHeight": 885,
+        "innerWidth": 1440,
+        "clientWidth": 1425,
+        "maxUsingInnerHeight": 3717,
+        "maxUsingClientHeight": 3732,
+        "screen": {
+          "width": 1440,
+          "height": 900
+        },
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "reduced": false,
+        "loaderHidden": true
+      },
+      "firstNormalFinal": {
+        "state": "normal-final-blue-default",
+        "url": "https://mydopo.com/",
+        "y": 3732,
+        "documentHeight": 4617,
+        "innerHeight": 900,
+        "clientHeight": 885,
+        "innerWidth": 1440,
+        "clientWidth": 1425,
+        "maxUsingInnerHeight": 3717,
+        "maxUsingClientHeight": 3732,
+        "screen": {
+          "width": 1440,
+          "height": 900
+        },
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "reduced": false,
+        "loaderHidden": true,
+        "evidence": {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-final-blue-default.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        }
+      }
+    },
+    {
+      "viewport": "mobile",
+      "identity": {
+        "url": "https://mydopo.com/",
+        "y": 0,
+        "documentHeight": 5178,
+        "innerHeight": 844,
+        "clientHeight": 844,
+        "innerWidth": 390,
+        "clientWidth": 390,
+        "maxUsingInnerHeight": 4334,
+        "maxUsingClientHeight": 4334,
+        "screen": {
+          "width": 390,
+          "height": 844
+        },
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+        "reduced": false,
+        "loaderHidden": true
+      },
+      "firstNormalFinal": {
+        "state": "normal-final-blue-default",
+        "url": "https://mydopo.com/",
+        "y": 4334,
+        "documentHeight": 5178,
+        "innerHeight": 844,
+        "clientHeight": 844,
+        "innerWidth": 390,
+        "clientWidth": 390,
+        "maxUsingInnerHeight": 4334,
+        "maxUsingClientHeight": 4334,
+        "screen": {
+          "width": 390,
+          "height": 844
+        },
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+        "reduced": false,
+        "loaderHidden": true,
+        "evidence": {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-final-blue-default.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        }
+      }
+    }
+  ],
+  "actualInputProof": [
+    {
+      "viewport": "desktop",
+      "frames": 41,
+      "actions": 33,
+      "keyboard": {
+        "attempted": true,
+        "focuses": [
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "shopee-link w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "shopee-link w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "BODY",
+            "class": "body",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "shopee-link w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "shopee-link w-inline-block",
+            "palette": false
+          }
+        ],
+        "paletteReached": false,
+        "paletteDom": [
+          {
+            "tag": "DIV",
+            "tabIndex": -1,
+            "role": null,
+            "label": null
+          },
+          {
+            "tag": "DIV",
+            "tabIndex": -1,
+            "role": null,
+            "label": null
+          }
+        ],
+        "result": "source-palette-not-keyboard-reachable"
+      },
+      "palette": [
+        {
+          "state": "normal-gray-selected",
+          "input": "trusted-mouse-palette",
+          "actualHit": {
+            "selector": ".col-gray",
+            "x": 1350,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 11426.299999952316
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 11434.099999904633
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 11434.199999928474
+            }
+          ]
+        },
+        {
+          "state": "normal-blue-selected",
+          "input": "trusted-mouse-palette",
+          "actualHit": {
+            "selector": ".col-blue",
+            "x": 1299.609375,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-blue",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 21766.299999952316
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 21770.899999976158
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 21770.899999976158
+            }
+          ]
+        },
+        {
+          "state": "normal-gray-selected-again",
+          "input": "trusted-mouse-palette",
+          "actualHit": {
+            "selector": ".col-gray",
+            "x": 1350,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 23073.599999904633
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 23081.299999952316
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 23081.399999976158
+            }
+          ]
+        },
+        {
+          "state": "reduced-gray-selected",
+          "input": "trusted-mouse-palette",
+          "actualHit": {
+            "selector": ".col-gray",
+            "x": 1350,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 25279
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 25285.199999928474
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 25285.199999928474
+            }
+          ]
+        },
+        {
+          "state": "reduced-blue-selected",
+          "input": "trusted-mouse-palette",
+          "actualHit": {
+            "selector": ".col-blue",
+            "x": 1299.609375,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-blue",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 35520.39999997616
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 35526.299999952316
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 35526.39999997616
+            }
+          ]
+        },
+        {
+          "state": "reduced-gray-selected-again",
+          "input": "trusted-mouse-palette",
+          "actualHit": {
+            "selector": ".col-gray",
+            "x": 1350,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 36776.699999928474
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 36781.799999952316
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 36781.799999952316
+            }
+          ]
+        }
+      ],
+      "colorPersistence": [
+        {
+          "state": "normal-gray-opening-persistent",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-opening-persistent.jpg",
+            "sha256": "1a94a7587f452afedf84d5475a20e5b09c7061cd6c9090cc0fddc5d16aaad5f1"
+          }
+        },
+        {
+          "state": "normal-gray-return-final-persistent",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-return-final-persistent.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "reduced-gray-opening-persistent",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-opening-persistent.jpg",
+            "sha256": "6bff0adaf4adbb7e4edb5d138ba885b7d24fb8b0ca2e0acce8c5fd087851aa02"
+          }
+        },
+        {
+          "state": "reduced-gray-return-final-persistent",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-return-final-persistent.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        }
+      ],
+      "stop": [
+        {
+          "state": "normal-gray-stopped-after-leave",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-stopped-after-leave.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "reduced-gray-stopped-after-leave",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-stopped-after-leave.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "frames": 46,
+      "actions": 38,
+      "keyboard": {
+        "attempted": true,
+        "focuses": [
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "BODY",
+            "class": "body",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "BODY",
+            "class": "body",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "BODY",
+            "class": "body",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          }
+        ],
+        "paletteReached": false,
+        "paletteDom": [
+          {
+            "tag": "DIV",
+            "tabIndex": -1,
+            "role": null,
+            "label": null
+          },
+          {
+            "tag": "DIV",
+            "tabIndex": -1,
+            "role": null,
+            "label": null
+          }
+        ],
+        "result": "source-palette-not-keyboard-reachable"
+      },
+      "palette": [
+        {
+          "state": "normal-gray-selected",
+          "input": "trusted-touch-palette",
+          "actualHit": {
+            "selector": ".col-gray",
+            "x": 345.828125,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 12750.200000047684
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 12858.100000023842
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 12858.900000095367
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 12859.600000023842
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 12859.700000047684
+            }
+          ]
+        },
+        {
+          "state": "normal-blue-selected",
+          "input": "trusted-touch-palette",
+          "actualHit": {
+            "selector": ".col-blue",
+            "x": 288.0625,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-blue",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 28024.400000095367
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 28124.900000095367
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 28125.700000047684
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 28125.800000071526
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 28125.900000095367
+            }
+          ]
+        },
+        {
+          "state": "normal-gray-selected-again",
+          "input": "trusted-touch-palette",
+          "actualHit": {
+            "selector": ".col-gray",
+            "x": 345.828125,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 29216.700000047684
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 29324.600000023842
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 29325.400000095367
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 29325.5
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 29325.5
+            }
+          ]
+        },
+        {
+          "state": "reduced-gray-selected",
+          "input": "trusted-touch-palette",
+          "actualHit": {
+            "selector": ".col-gray",
+            "x": 345.828125,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 31182.900000095367
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 31282.900000095367
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 31284.200000047684
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 31284.400000095367
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 31284.400000095367
+            }
+          ]
+        },
+        {
+          "state": "reduced-blue-selected",
+          "input": "trusted-touch-palette",
+          "actualHit": {
+            "selector": ".col-blue",
+            "x": 288.0625,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-blue",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 46450.40000009537
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 46557.90000009537
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 46561.10000002384
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 46561.40000009537
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 46561.40000009537
+            }
+          ]
+        },
+        {
+          "state": "reduced-gray-selected-again",
+          "input": "trusted-touch-palette",
+          "actualHit": {
+            "selector": ".col-gray",
+            "x": 345.828125,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 47679
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 47782.200000047684
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 47783.300000071526
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 47783.60000002384
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 47783.60000002384
+            }
+          ]
+        }
+      ],
+      "colorPersistence": [
+        {
+          "state": "normal-gray-opening-persistent",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-opening-persistent.jpg",
+            "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8"
+          }
+        },
+        {
+          "state": "normal-gray-return-final-persistent",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-return-final-persistent.jpg",
+            "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+          }
+        },
+        {
+          "state": "reduced-gray-opening-persistent",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-opening-persistent.jpg",
+            "sha256": "29d581174b010eaa430db9e8110bef3f833dd837caa111bc8bf9968095d47675"
+          }
+        },
+        {
+          "state": "reduced-gray-return-final-persistent",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-return-final-persistent.jpg",
+            "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+          }
+        }
+      ],
+      "stop": [
+        {
+          "state": "normal-gray-stopped-after-leave",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-stopped-after-leave.jpg",
+            "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+          }
+        },
+        {
+          "state": "reduced-gray-stopped-after-leave",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-stopped-after-leave.jpg",
+            "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+          }
+        }
+      ]
+    }
+  ],
+  "captureLimitations": [
+    "Attempt-01 is preserved unchanged and invalid as a four-state mobile capture: its Input.synthesizeScrollGesture state branch left all four mobile states at y=0. Its captured-not-scored result is not a visual pass. Attempt-02 replaces only the formal evidence choice, using the existing exact mobile anchors and native end.",
+    "Desktop source has a horizontal scrollbar: innerHeight=900, clientHeight=885, documentHeight=4617. The true native end is y=3732; using scrollHeight-innerHeight gives y=3717 and cannot represent the physical end. No source DOM, scrolling tolerance or production driver was changed.",
+    "Source snapping moves 900px desktop / 844px phone per normal section. Fractions between snap points cannot substitute for actual reached states. Complete numbered-scene motion and the separate real finger forward/reverse path supply full-process evidence.",
+    "The generic reduced pointer capture moves the pointer on the same final canvas but does not click swatches. Actual normal and reduced gray/blue/gray mouse and touch activation, stopped frames, and persistence through reverse/forward are in inputSupplement.",
+    "Plain pointer movement did not visibly change the body; the actual signature control is color selection. Gray and blue actual product-body changes were directly viewed in the corresponding source screenshots.",
+    "Actual Tab cycles did not reach the two source palette divs (tabIndex=-1, no role or accessible label). No keyboard palette success is claimed; purchase and external links were not activated.",
+    "The phone true native endpoint y=4334 crops the top of the product in the final scene. The stable final section at y=4220 is separately retained in the scene-process evidence. This observed source limitation requires visual review and is not repaired in source capture."
+  ],
+  "performance": {
+    "fpsMeasured": false,
+    "result": "not-measured",
+    "passClaimed": false
+  },
+  "evidenceIntegrity": {
+    "verifiedReferences": 139,
+    "uniquePaths": 137,
+    "allHashesMatch": true
+  },
+  "preservedAttempt": {
+    "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-01/capture.json",
+    "sha256": "7713cc1a1153e255c6f6356ffe8e110c3f14ebc6051344b84865f2aacd4e0517"
+  },
+  "actualImagesViewed": {
+    "note": "Inspection observations only, without a seven-dimension rating or admission decision",
+    "formalStates": [
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-opening/contact-sheet.jpg",
+        "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-transition/contact-sheet.jpg",
+        "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-middle/contact-sheet.jpg",
+        "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-ending/contact-sheet.jpg",
+        "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-opening/contact-sheet.jpg",
+        "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-transition/contact-sheet.jpg",
+        "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-middle/contact-sheet.jpg",
+        "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-ending/contact-sheet.jpg",
+        "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+      }
+    ],
+    "supplementSelected": [
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-selected.jpg",
+        "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-opening-persistent.jpg",
+        "sha256": "1a94a7587f452afedf84d5475a20e5b09c7061cd6c9090cc0fddc5d16aaad5f1"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-blue-selected.jpg",
+        "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-selected.jpg",
+        "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-opening-persistent.jpg",
+        "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-blue-selected.jpg",
+        "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+      }
+    ]
+  },
+  "admission": {
+    "reference": false,
+    "prototype": false,
+    "assets": false,
+    "production": false,
+    "publication": false
+  }
+}

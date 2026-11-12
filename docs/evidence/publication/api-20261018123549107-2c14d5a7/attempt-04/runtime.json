@@ -1,0 +1,326 @@
+{
+  "started": "2026-10-19T04:05:24.659Z",
+  "origin": "http://127.0.0.1:4180/",
+  "mode": "full",
+  "viewports": [
+    {
+      "name": "desktop",
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 1965,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".intro",
+          "visible": true
+        },
+        {
+          "selector": ".work-grid",
+          "visible": true
+        },
+        {
+          "selector": ".work:nth-child(3)",
+          "visible": true
+        },
+        {
+          "selector": ".site-footer",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "wide",
+      "viewport": [
+        2048,
+        912
+      ],
+      "height": 1456,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".intro",
+          "visible": true
+        },
+        {
+          "selector": ".work-grid",
+          "visible": true
+        },
+        {
+          "selector": ".work:nth-child(3)",
+          "visible": true
+        },
+        {
+          "selector": ".site-footer",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "tablet",
+      "viewport": [
+        768,
+        1024
+      ],
+      "height": 1338,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".intro",
+          "visible": true
+        },
+        {
+          "selector": ".work-grid",
+          "visible": true
+        },
+        {
+          "selector": ".work:nth-child(3)",
+          "visible": true
+        },
+        {
+          "selector": ".site-footer",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "height": 2240,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".intro",
+          "visible": true
+        },
+        {
+          "selector": ".work-grid",
+          "visible": true
+        },
+        {
+          "selector": ".work:nth-child(3)",
+          "visible": true
+        },
+        {
+          "selector": ".site-footer",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    }
+  ],
+  "states": [],
+  "responsive": [],
+  "transitions": [],
+  "arbitrary": [],
+  "checks": {},
+  "errors": [],
+  "paintedImages": [
+    {
+      "name": "desktop-full",
+      "images": [
+        {
+          "src": "/collection/001.webp",
+          "expectedVariance": 43.413402175255115,
+          "actualVariance": 40.47920827379545,
+          "missing": false
+        },
+        {
+          "src": "/collection/006.webp",
+          "expectedVariance": 63.50685658039251,
+          "actualVariance": 69.69910255802027,
+          "missing": false
+        },
+        {
+          "src": "/collection/007.webp",
+          "expectedVariance": 74.48523821028508,
+          "actualVariance": 67.63451856699011,
+          "missing": false
+        },
+        {
+          "src": "/collection/008.webp",
+          "expectedVariance": 45.422395922915435,
+          "actualVariance": 53.74433381173072,
+          "missing": false
+        },
+        {
+          "src": "/collection/009.webp",
+          "expectedVariance": 28.470272627048757,
+          "actualVariance": 61.713310405498106,
+          "missing": false
+        },
+        {
+          "src": "/collection/010.webp",
+          "expectedVariance": 33.55372777051964,
+          "actualVariance": 22.04195797165822,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "name": "wide-full",
+      "images": [
+        {
+          "src": "/collection/001.webp",
+          "expectedVariance": 44.72997557919158,
+          "actualVariance": 43.224025268429585,
+          "missing": false
+        },
+        {
+          "src": "/collection/006.webp",
+          "expectedVariance": 66.95611859586235,
+          "actualVariance": 70.92193814676135,
+          "missing": false
+        },
+        {
+          "src": "/collection/007.webp",
+          "expectedVariance": 78.36264255952612,
+          "actualVariance": 69.79474248847562,
+          "missing": false
+        },
+        {
+          "src": "/collection/008.webp",
+          "expectedVariance": 46.53868004396284,
+          "actualVariance": 56.3401963605807,
+          "missing": false
+        },
+        {
+          "src": "/collection/009.webp",
+          "expectedVariance": 27.016729526338597,
+          "actualVariance": 61.939241482399304,
+          "missing": false
+        },
+        {
+          "src": "/collection/010.webp",
+          "expectedVariance": 41.95079681989593,
+          "actualVariance": 21.467744812042753,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "name": "tablet-full",
+      "images": [
+        {
+          "src": "/collection/001.webp",
+          "expectedVariance": 9.256984609020892,
+          "actualVariance": 39.24056304289219,
+          "missing": false
+        },
+        {
+          "src": "/collection/006.webp",
+          "expectedVariance": 77.32329763254384,
+          "actualVariance": 68.26957129406352,
+          "missing": false
+        },
+        {
+          "src": "/collection/007-small.webp",
+          "expectedVariance": 70.48310240047539,
+          "actualVariance": 65.4966706650328,
+          "missing": false
+        },
+        {
+          "src": "/collection/008-small.webp",
+          "expectedVariance": 45.03756350497686,
+          "actualVariance": 53.48169222198372,
+          "missing": false
+        },
+        {
+          "src": "/collection/009-small.webp",
+          "expectedVariance": 31.34496871159204,
+          "actualVariance": 61.493139146638136,
+          "missing": false
+        },
+        {
+          "src": "/collection/010-small.webp",
+          "expectedVariance": 31.271772458491988,
+          "actualVariance": 21.323238470285684,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "name": "mobile-full",
+      "images": [
+        {
+          "src": "/collection/001.webp",
+          "expectedVariance": 9.074867450737417,
+          "actualVariance": 40.212508526539146,
+          "missing": false
+        },
+        {
+          "src": "/collection/006.webp",
+          "expectedVariance": 76.92483221253522,
+          "actualVariance": 0.00003578503234728569,
+          "missing": true
+        },
+        {
+          "src": "/collection/007-small.webp",
+          "expectedVariance": 68.6106413886275,
+          "actualVariance": 66.34128240895042,
+          "missing": false
+        },
+        {
+          "src": "/collection/008-small.webp",
+          "expectedVariance": 44.833888285439784,
+          "actualVariance": 54.05748087802519,
+          "missing": false
+        },
+        {
+          "src": "/collection/009-small.webp",
+          "expectedVariance": 32.61104599298532,
+          "actualVariance": 61.55400696611918,
+          "missing": false
+        },
+        {
+          "src": "/collection/010-small.webp",
+          "expectedVariance": 29.349431089757104,
+          "actualVariance": 20.21430387094415,
+          "missing": false
+        }
+      ]
+    }
+  ],
+  "result": "failed",
+  "failure": "Actual screenshot has an undrawn image surface",
+  "finished": "2026-10-19T04:05:32.423Z"
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "enabled": true,
+  "revision": "2026-10-12-user-calibration-v2",
+  "calibration": "docs/production/quality-calibration.json",
+  "retainedForComparison": [
+    {
+      "id": "006",
+      "sourceSha256": "3be6deb3cc6893ce3a225c43d7cdd330a3aed8b945269cd77056577262e1f99a",
+      "bytes": 1599284,
+      "sha256": "56c58f16e8fe4fa84b86036bdb59b62ee333f6481808077c3f46343f7890f122"
+    },
+    {
+      "id": "007",
+      "sourceSha256": "46c7d81838525a79057b4d7a98f030222a2befb44b0b7b8719e63c3224d2121f",
+      "bytes": 2313424,
+      "sha256": "9aa7e97c355ee902f33ef3199afff7657ea7a54ffdec49709e95e8e301770fcf"
+    },
+    {
+      "id": "008",
+      "sourceSha256": "31892bf10228f07d305ed4bee795c10bed76c5514a06429ab545d10eaeddcd99",
+      "bytes": 1740847,
+      "sha256": "f3054f5f8f18982234d039a1a3b4bbef79693ad402a57bba24b88f657341141c"
+    },
+    {
+      "id": "009",
+      "sourceSha256": "057d1fff49885ed00ccd2bae36abcd33ae87fffc4bd7fdbc13b9b31f0444c147",
+      "bytes": 1714403,
+      "sha256": "ff3b0b4e3f12ba528866f26e1f1ab667ea9caa3c4497047515456b207be47203"
+    },
+    {
+      "id": "010",
+      "sourceSha256": "4fcd045081962375d946130e871d1fd95df9e1d91a301aa3471016962436abd4",
+      "bytes": 64837,
+      "sha256": "0d70e3c91c8b5436d147d8af7da1de1a7d905333f6f04cfd70cc65cb1a57e377"
+    }
+  ],
+  "calibrationAudit": "docs/evidence/quality-calibration/review.json",
+  "rejectedSources": "docs/production/rejected-sources.json",
+  "visualContractRequired": true,
+  "rejectedCoreModules": "docs/production/rejected-core-modules.json"
+}

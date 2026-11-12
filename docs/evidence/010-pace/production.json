@@ -1,0 +1,47 @@
+{
+  "run": "trial-010",
+  "started": "2026-10-12T06:01:34.030Z",
+  "finished": "2026-10-12T12:03:05.573Z",
+  "wallMinutes": 361.53,
+  "observedInactiveExecutionGap": {
+    "from": "2026-10-12T06:59:57.177Z",
+    "to": "2026-10-12T11:55:53.966Z",
+    "minutes": 295.95,
+    "reason": "Between completed control QA and resumed packaging after user continuation. No explicit pause request; no tool execution observed in this interval."
+  },
+  "wallExcludingObservedGapMinutes": 65.58,
+  "stages": [
+    {
+      "stage": "start",
+      "at": "2026-10-12T06:01:34.030Z"
+    },
+    {
+      "stage": "reference-locked",
+      "at": "2026-10-12T06:30:25.197Z"
+    },
+    {
+      "stage": "assets-ready",
+      "at": "2026-10-12T06:35:08.732Z"
+    },
+    {
+      "stage": "implementation-complete",
+      "at": "2026-10-12T06:41:55.684Z"
+    },
+    {
+      "stage": "qa-complete",
+      "at": "2026-10-12T11:55:53.966Z"
+    },
+    {
+      "stage": "complete",
+      "at": "2026-10-12T12:03:05.573Z"
+    }
+  ],
+  "imageGenerations": 0,
+  "photographs": 0,
+  "fontsDownloaded": 2,
+  "actualCandidates": 2,
+  "sourceBytes": 64837,
+  "localUsageDelta": null,
+  "usageRecordFresh": false,
+  "limits": "Local thread metering is not per-response API billing. An unchanged usage timestamp is unavailable, not zero token consumption. Includes browser/tool recovery, missed nested clipping and repeated failed QA attempts; the 15-minute reference target was exceeded, not declared met."
+}

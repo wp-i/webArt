@@ -1,0 +1,15 @@
+{
+  "started": "2026-10-21T11:13:19.409Z",
+  "origin": "http://127.0.0.1:4450/",
+  "mode": "full",
+  "viewports": [],
+  "states": [],
+  "responsive": [],
+  "transitions": [],
+  "arbitrary": [],
+  "checks": {},
+  "errors": [],
+  "result": "failed",
+  "failure": "Not ready: performance.timeOrigin!==1792581199463.5&&document.readyState==='complete'&&document.images.length===6&&[...document.images].every(i=>i.complete&&i.naturalWidth)&&document.fonts.status==='loaded'",
+  "finished": "2026-10-21T11:13:25.125Z"
+}

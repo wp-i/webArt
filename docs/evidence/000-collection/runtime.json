@@ -1,5 +1,5 @@
 {
-  "started": "2026-10-11T07:55:22.613Z",
+  "started": "2026-10-19T03:58:12.049Z",
   "origin": "http://127.0.0.1:4180/",
   "mode": "full",
   "viewports": [
@@ -9,7 +9,7 @@
         1440,
         900
       ],
-      "height": 1502,
+      "height": 1965,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -36,7 +36,8 @@
           "selector": ".site-footer",
           "visible": true
         }
-      ]
+      ],
+      "controlClipping": []
     },
     {
       "name": "wide",
@@ -44,7 +45,7 @@
         2048,
         912
       ],
-      "height": 1508,
+      "height": 1456,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -71,7 +72,8 @@
           "selector": ".site-footer",
           "visible": true
         }
-      ]
+      ],
+      "controlClipping": []
     },
     {
       "name": "tablet",
@@ -79,7 +81,7 @@
         768,
         1024
       ],
-      "height": 1077,
+      "height": 1338,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -106,7 +108,8 @@
           "selector": ".site-footer",
           "visible": true
         }
-      ]
+      ],
+      "controlClipping": []
     },
     {
       "name": "mobile",
@@ -114,7 +117,7 @@
         390,
         844
       ],
-      "height": 1712,
+      "height": 2240,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -141,7 +144,8 @@
           "selector": ".site-footer",
           "visible": true
         }
-      ]
+      ],
+      "controlClipping": []
     },
     {
       "name": "narrow",
@@ -149,7 +153,7 @@
         320,
         844
       ],
-      "height": 1537,
+      "height": 1977,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -176,7 +180,8 @@
           "selector": ".site-footer",
           "visible": true
         }
-      ]
+      ],
+      "controlClipping": []
     }
   ],
   "states": [
@@ -198,7 +203,7 @@
     {
       "viewport": "desktop",
       "state": "ending",
-      "y": 602
+      "y": 1065
     },
     {
       "viewport": "mobile",
@@ -218,9 +223,10 @@
     {
       "viewport": "mobile",
       "state": "ending",
-      "y": 868
+      "y": 1396
     }
   ],
+  "responsive": [],
   "transitions": [
     {
       "viewport": "desktop",
@@ -262,37 +268,37 @@
       "viewport": "desktop",
       "boundary": ".work:nth-child(3)",
       "fraction": 0.25,
-      "y": 191
+      "y": 165
     },
     {
       "viewport": "desktop",
       "boundary": ".work:nth-child(3)",
       "fraction": 0.5,
-      "y": 416
+      "y": 390
     },
     {
       "viewport": "desktop",
       "boundary": ".work:nth-child(3)",
       "fraction": 0.75,
-      "y": 602
+      "y": 615
     },
     {
       "viewport": "desktop",
       "boundary": ".site-footer",
       "fraction": 0.25,
-      "y": 602
+      "y": 1065
     },
     {
       "viewport": "desktop",
       "boundary": ".site-footer",
       "fraction": 0.5,
-      "y": 602
+      "y": 1065
     },
     {
       "viewport": "desktop",
       "boundary": ".site-footer",
       "fraction": 0.75,
-      "y": 602
+      "y": 1065
     },
     {
       "viewport": "mobile",
@@ -334,79 +340,79 @@
       "viewport": "mobile",
       "boundary": ".work:nth-child(3)",
       "fraction": 0.25,
-      "y": 298
+      "y": 252
     },
     {
       "viewport": "mobile",
       "boundary": ".work:nth-child(3)",
       "fraction": 0.5,
-      "y": 509
+      "y": 463
     },
     {
       "viewport": "mobile",
       "boundary": ".work:nth-child(3)",
       "fraction": 0.75,
-      "y": 720
+      "y": 674
     },
     {
       "viewport": "mobile",
       "boundary": ".site-footer",
       "fraction": 0.25,
-      "y": 868
+      "y": 1396
     },
     {
       "viewport": "mobile",
       "boundary": ".site-footer",
       "fraction": 0.5,
-      "y": 868
+      "y": 1396
     },
     {
       "viewport": "mobile",
       "boundary": ".site-footer",
       "fraction": 0.75,
-      "y": 868
+      "y": 1396
     }
   ],
   "arbitrary": [
     {
       "viewport": "desktop",
       "fraction": 0.14,
-      "y": 84
+      "y": 149
     },
     {
       "viewport": "desktop",
       "fraction": 0.37,
-      "y": 223
+      "y": 394
     },
     {
       "viewport": "desktop",
       "fraction": 0.61,
-      "y": 367
+      "y": 650
     },
     {
       "viewport": "desktop",
       "fraction": 0.84,
-      "y": 506
+      "y": 895
     },
     {
       "viewport": "mobile",
       "fraction": 0.14,
-      "y": 122
+      "y": 195
     },
     {
       "viewport": "mobile",
       "fraction": 0.37,
-      "y": 321
+      "y": 517
     },
     {
       "viewport": "mobile",
       "fraction": 0.61,
-      "y": 529
+      "y": 852
     },
     {
       "viewport": "mobile",
       "fraction": 0.84,
-      "y": 729
+      "y": 1173
     }
   ],
   "checks": {
@@ -419,7 +425,7 @@
       },
       {
         "href": "/",
-        "valid": true
+        "valid": false
       },
       {
         "href": "#collection",
@@ -431,97 +437,84 @@
       },
       {
         "href": "/preview.html?id=001",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/preview.html?id=001",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/weight-of-light-source.zip",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/preview.html?id=006",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/preview.html?id=006",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/house-of-ivory-source.zip",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/preview.html?id=007",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/preview.html?id=007",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/campovivo-source.zip",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/preview.html?id=008",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/preview.html?id=008",
-        "valid": true
+        "valid": false
       },
       {
         "href": "/sill-source.zip",
-        "valid": true
+        "valid": false
+      },
+      {
+        "href": "/preview.html?id=009",
+        "valid": false
+      },
+      {
+        "href": "/preview.html?id=009",
+        "valid": false
+      },
+      {
+        "href": "/near-and-far-source.zip",
+        "valid": false
+      },
+      {
+        "href": "/preview.html?id=010",
+        "valid": false
+      },
+      {
+        "href": "/preview.html?id=010",
+        "valid": false
+      },
+      {
+        "href": "/pace-source.zip",
+        "valid": false
       },
       {
         "href": "#top",
         "valid": true
       }
-    ],
-    "disclosures": 0,
-    "reduced": true,
-    "intentionalNoScriptBlocks": 1,
-    "noScript": {
-      "viewport": [
-        1440,
-        900
-      ],
-      "height": 1502,
-      "overflow": false,
-      "missing": 0,
-      "fonts": [
-        {
-          "family": "Manrope",
-          "status": "loaded"
-        }
-      ],
-      "clipped": [],
-      "scenes": [
-        {
-          "selector": ".intro",
-          "visible": true
-        },
-        {
-          "selector": ".work-grid",
-          "visible": true
-        },
-        {
-          "selector": ".work:nth-child(3)",
-          "visible": true
-        },
-        {
-          "selector": ".site-footer",
-          "visible": true
-        }
-      ]
-    },
-    "touchScroll": 506
+    ]
   },
   "errors": [],
-  "result": "passed-observable-checks",
-  "finished": "2026-10-11T07:55:41.023Z"
+  "result": "failed",
+  "failure": "Invalid template link",
+  "finished": "2026-10-19T03:58:29.759Z"
 }

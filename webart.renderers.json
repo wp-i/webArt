@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "renderers": [
+    {
+      "id": "pace-precision-v1",
+      "definition": {
+        "path": "renderers/pace-precision-v1/renderer.json",
+        "sha256": "da1c26edcd949e7421346ee966ee8a028a5231feda5356be8f3865c1539b0e2f"
+      }
+    },
+    {
+      "id": "pace-precision-v2",
+      "definition": {
+        "path": "renderers/pace-precision-v2/renderer.json",
+        "sha256": "6a18964d7edc0640ee34efe4b9216f147e5ae9e7cfc54af0704b23b3410efe66"
+      }
+    },
+    {
+      "id": "ivory-woven-v1",
+      "definition": {
+        "path": "renderers/ivory-woven-v1/renderer.json",
+        "sha256": "afe63e05048697861e29ac27e05fd8d16db6b5b6014283e78ccdcb81df2c86e3"
+      }
+    },
+    {
+      "id": "near-and-far-editorial-v1",
+      "definition": {
+        "path": "renderers/near-and-far-editorial-v1/renderer.json",
+        "sha256": "64508a6d14e49618f3bfd894559442a553d1b714eff1a4fad88000e6fe4133cf"
+      }
+    }
+  ]
+}

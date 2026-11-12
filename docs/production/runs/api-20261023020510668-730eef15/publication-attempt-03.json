@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261023020510668-730eef15",
+  "execution": "current-conversation-evidence-review",
+  "sourceRun": "docs/production/runs/api-20261023020510668-730eef15/run.json",
+  "started": "2026-10-24T02:41:09.049Z",
+  "items": [
+    {
+      "id": "009",
+      "rendererId": "near-and-far-editorial-v1",
+      "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+      "archiveSha256": "f374433f4392eaef7acd6a063977de853eba1a9d2f452581ae281fb071adcf0d",
+      "items": 6,
+      "newArchives": 0,
+      "comparisonSourceChanged": false
+    }
+  ],
+  "result": "passed",
+  "attempt": 3,
+  "http": [
+    {
+      "id": "001",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 5810208,
+      "sha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0",
+      "previewPath": "/designs/001-weight-of-light/",
+      "previewStatus": 200,
+      "assetsChecked": 19
+    },
+    {
+      "id": "006",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 4415983,
+      "sha256": "b6b5d5958a084c3cf0f6c2cbca910c01893e788cbf93f9a3132843b310e9524a",
+      "previewPath": "/designs/006-ivory-woven-v1/",
+      "previewStatus": 200,
+      "assetsChecked": 10
+    },
+    {
+      "id": "007",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 2313424,
+      "sha256": "9aa7e97c355ee902f33ef3199afff7657ea7a54ffdec49709e95e8e301770fcf",
+      "previewPath": "/designs/007-campovivo/",
+      "previewStatus": 200,
+      "assetsChecked": 8
+    },
+    {
+      "id": "008",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 1740847,
+      "sha256": "f3054f5f8f18982234d039a1a3b4bbef79693ad402a57bba24b88f657341141c",
+      "previewPath": "/designs/008-sill/",
+      "previewStatus": 200,
+      "assetsChecked": 7
+    },
+    {
+      "id": "009",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 2399890,
+      "sha256": "f374433f4392eaef7acd6a063977de853eba1a9d2f452581ae281fb071adcf0d",
+      "previewPath": "/designs/009-near-and-far-editorial-v1/",
+      "previewStatus": 200,
+      "assetsChecked": 10
+    },
+    {
+      "id": "010",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 710412,
+      "sha256": "bb150313c0142dd37ee4cdf9cd227cf858d45272a160fabc05d4cd51eed5c351",
+      "previewPath": "/designs/010-pace-precision-v2/",
+      "previewStatus": 200,
+      "assetsChecked": 8
+    }
+  ],
+  "evidence": [
+    {
+      "path": "docs/evidence/publication/api-20261023020510668-730eef15/attempt-03/runtime.json",
+      "sha256": "9d696a79608420dbd7a65c7cf715652b9fbc84e2bb030ae6c06e2ef8c1b1c906"
+    },
+    {
+      "path": "docs/evidence/publication/api-20261023020510668-730eef15/attempt-03/functional.json",
+      "sha256": "a306a30a548fbe761fe3bbb318a74206aae663c3638cb7fc3e28a3c48c99b56d"
+    }
+  ],
+  "finished": "2026-10-24T02:43:53.681Z"
+}

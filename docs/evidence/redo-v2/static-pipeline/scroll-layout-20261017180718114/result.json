@@ -1,0 +1,29 @@
+{
+  "result": "passed-engineering-layout-regression",
+  "runId": "scroll-layout-20261017180718114",
+  "checks": [
+    {
+      "viewport": "desktop",
+      "y": 4085,
+      "actualEnd": 4085,
+      "documentGrew": true,
+      "evidence": {
+        "path": "docs/evidence/redo-v2/static-pipeline/scroll-layout-20261017180718114/desktop-ending/contact-sheet.jpg",
+        "sha256": "99986c81c60bd9241b2213d04b935d57b9f464621b747c33743bc15b591b969e"
+      }
+    },
+    {
+      "viewport": "mobile",
+      "y": 2911,
+      "actualEnd": 2911,
+      "documentGrew": true,
+      "evidence": {
+        "path": "docs/evidence/redo-v2/static-pipeline/scroll-layout-20261017180718114/mobile-ending/contact-sheet.jpg",
+        "sha256": "d70d2419ace9316e674a261fbb991b0e7e2063efe121ddd921e9cf6bc9b5fa3a"
+      }
+    }
+  ],
+  "modelCalls": 0,
+  "visualAdmission": false,
+  "capture": "docs/evidence/redo-v2/static-pipeline/scroll-layout-20261017180718114/capture.json"
+}

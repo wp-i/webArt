@@ -1,0 +1,142 @@
+{
+  "label": "focalglow",
+  "url": "https://focalglow.co/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-02/focalglow-opening.jpg",
+      "sha256": "0cd6ba3f8dad133b1e7292f3d7ad1c4cab7135f43c3095e565ae409e752139ca"
+    },
+    {
+      "state": "middle",
+      "y": 1855,
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-02/focalglow-middle.jpg",
+      "sha256": "4f7163706e633f9c06cbb3d60fece4651b05610d2a48a135b24cdbb30aa9d07f"
+    },
+    {
+      "state": "ending",
+      "y": 3709,
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-02/focalglow-ending.jpg",
+      "sha256": "424041ec2fcbc888f42b66c4dda4c4f7e6ee14a6a0e12ea908765cb9f0ddf6c1"
+    }
+  ],
+  "metadata": {
+    "url": "https://focalglow.co/",
+    "height": 4609,
+    "text": "AM\nPM\n12:00\n1:00\n2:00\n3:00\n4:00\n5:00\n6:00\n7:00\n8:00\n9:00\n10:00\n11:00\nAbout\nWhat we do\nHow we work\nProjects\nPartners\n\nTrade\n\nContact\n\nAbout\n\nWhat we do\n\nHow we work\n\nProjects\n\nPartners\n\nTrade\n\nContact\n\nFriday 2:19 pm\n\nClose\n\nGeneral Enquiries\n\nUpload documents ↑\n\nPlease keep uploads to 8MB and in .pdf or Excel/CSV format\n\nSubmit\n*General project enquiries only.\nFor product-related requests, click here for trade contact.\n\nEmail\n\nhello@focalglow.co\n\nPhone\n\nGeneral\n\n(07) 4801 6337\n\nShowrooms\n\nBrisbane\n\n1 | 72 McLachlan St,\nFortitude Valley Qld 4006\n\nNoosa\n\n12 | 28 Lionel Donovan Dr, \nNoosaville Qld 4566\n\nLight is more than illumination — it is the invisible architecture that shapes how we feel, move, and connect within a space. As a design-led lighting consultancy specialising in high-end residential architecture, we combine design sensitivity with technical precision to deliver considered, integrated lighting that enhances architecture quietly, intuitively, and over the course of a day.\nMore about us\n\nAMAR\n\nSjøhavn House\n\nOne W\n\nView all projects\n\nWhat We Do\n\nWork from first sketch to final scene\n\nDeliver your design with precision\n\nRealise your plan perfectly\n\nOption 1\n\nLighting Design Turn-key Service\n\nRead more\n\nOption 2\n\nConsultation & Specification\n\nRead more\n\nOption 3\n\nSupply & Coordination\n\nRead more\n\nHow We Work With You\n\nStep 1\n\nDiscover\n\nRead more\n\nStep 2\n\nDesign & Specify\n\nRead more\n\nStep 3\n\nCollaborate & Refine\n\nRead more\n\nStep 4\n\nDeliver, Adjust & Illuminate\n\nRead more\nAbout\nWhat we do\nHow we work\nProjects\nPartners\n\nTrade\n\nContact\n\nInstagram\nFacebook\n\nShowrooms\n\nBrisbane\n\n1 | 72 McLachlan St,\nFortitude Valley Qld 4006\n\nNoosa\n\n12 | 28 Lionel Donovan Dr, \nNoosaville Qld 4566\n\nContact\n\nPhone\n\n(07) 4801 6337\n\nEmail\n\nhello@focalglow.co\n\nNewsletter\n\nBy submitting, you agree to the Terms of Use and Privacy Policy.\n\nSubmit\n\nThank you for subscribing!\n\nSite by Studio Bland\nPrivacy Policy\nTerms of Use",
+    "headings": [],
+    "scenes": [
+      {
+        "tag": "MAIN",
+        "id": "",
+        "class": "",
+        "top": 0,
+        "height": 4288
+      },
+      {
+        "tag": "FOOTER",
+        "id": "",
+        "class": "bg-white",
+        "top": 4288,
+        "height": 321
+      }
+    ]
+  },
+  "inventory": {
+    "images": 51,
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1425,
+          "height": 900,
+          "top": 0,
+          "right": 1425,
+          "bottom": 900,
+          "left": 0
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1425,
+          "height": 900,
+          "top": 0,
+          "right": 1425,
+          "bottom": 900,
+          "left": 0
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 0,
+          "y": 2252.4375,
+          "width": 1425,
+          "height": 900,
+          "top": 2252.4375,
+          "right": 1425,
+          "bottom": 3152.4375,
+          "left": 0
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 485.65625,
+          "y": 3412.265625,
+          "width": 923.34375,
+          "height": 615.5625,
+          "top": 3412.265625,
+          "right": 1409,
+          "bottom": 4027.828125,
+          "left": 485.65625
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 485.65625,
+          "y": 3412.265625,
+          "width": 923.34375,
+          "height": 615.5625,
+          "top": 3412.265625,
+          "right": 1409,
+          "bottom": 4027.828125,
+          "left": 485.65625
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": true
+      }
+    ],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": false
+  },
+  "result": "scouted-not-admitted"
+}

@@ -1,0 +1,393 @@
+{
+  "source": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+  "scope": "bounded-observation-only",
+  "independent": false,
+  "contextIsolated": false,
+  "started": "2026-10-27T16:53:27.251Z",
+  "targetUrl": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+  "steps": [
+    {
+      "action": {
+        "capture": "essence-mobile-opening"
+      },
+      "at": "2026-10-27T16:53:34.449Z",
+      "state": {
+        "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 3759,
+        "ready": "complete",
+        "text": "←\nNEBUNOOK CONCEPT\nBack to case study\nESSENCE\nDISCOVER\nLIFT THE CAP\nPREPARING THE ESSENCE\n\nOLFACTIVE STUDY / 2026\n\nShape the\ninvisible.\nA scent you can almost see.\n02\n\nA quiet reveal.\nOne deliberate motion.\n\n03\n\nPress the atomizer.\nGive scent a direction.\n\n04\n\nThe visible fades.\nThe atmosphere remains.\n\nPRODUCT\nREVEAL\nSCENT\nATMOSPHERE\n\nA SENSORY INTERFACE\n\nNot an image\nof fragrance.\nIts behaviour.\n\nBurgundy lacquer. Mineral air. A tactile perfume study shaped by material, motion, and a scent field that remembers every press.\n\nVIEW THE CASE STUDY\n↗\nESSENCE\nMORE INTERACTIVE WORK →",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 400,
+            "height": 400
+          }
+        ],
+        "buttons": [
+          "LIFT THE CAP"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-opening.png",
+        "sha256": "bde9f45a7df036f878b01a576219d5128d2a441dfafe42012f841c35cdb5d6b8",
+        "bytes": 121498
+      }
+    },
+    {
+      "action": {
+        "button": "LIFT THE CAP",
+        "capture": "essence-mobile-cap-lift"
+      },
+      "at": "2026-10-27T16:53:35.121Z",
+      "actualTarget": {
+        "x": 187.5,
+        "y": 761.359375,
+        "w": 150,
+        "h": 33.28125
+      },
+      "state": {
+        "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 3759,
+        "ready": "complete",
+        "text": "←\nNEBUNOOK CONCEPT\nBack to case study\nESSENCE\nDISCOVER\nLIFT THE CAP\nPREPARING THE ESSENCE\n\nOLFACTIVE STUDY / 2026\n\nShape the\ninvisible.\nA scent you can almost see.\n02\n\nA quiet reveal.\nOne deliberate motion.\n\n03\n\nPress the atomizer.\nGive scent a direction.\n\n04\n\nThe visible fades.\nThe atmosphere remains.\n\nPRODUCT\nREVEAL\nSCENT\nATMOSPHERE\n\nA SENSORY INTERFACE\n\nNot an image\nof fragrance.\nIts behaviour.\n\nBurgundy lacquer. Mineral air. A tactile perfume study shaped by material, motion, and a scent field that remembers every press.\n\nVIEW THE CASE STUDY\n↗\nESSENCE\nMORE INTERACTIVE WORK →",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 400,
+            "height": 400
+          }
+        ],
+        "buttons": [
+          "LIFT THE CAP"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-cap-lift.png",
+        "sha256": "bde9f45a7df036f878b01a576219d5128d2a441dfafe42012f841c35cdb5d6b8",
+        "bytes": 121498
+      }
+    },
+    {
+      "action": {
+        "button": "PRESS THE ATOMIZER",
+        "waitMs": 250,
+        "capture": "essence-mobile-spray"
+      },
+      "at": "2026-10-27T16:53:35.819Z",
+      "actualTarget": null,
+      "state": {
+        "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 3759,
+        "ready": "complete",
+        "text": "←\nNEBUNOOK CONCEPT\nBack to case study\nESSENCE\nDISCOVER\nLIFT THE CAP\nPREPARING THE ESSENCE\n\nOLFACTIVE STUDY / 2026\n\nShape the\ninvisible.\nA scent you can almost see.\n02\n\nA quiet reveal.\nOne deliberate motion.\n\n03\n\nPress the atomizer.\nGive scent a direction.\n\n04\n\nThe visible fades.\nThe atmosphere remains.\n\nPRODUCT\nREVEAL\nSCENT\nATMOSPHERE\n\nA SENSORY INTERFACE\n\nNot an image\nof fragrance.\nIts behaviour.\n\nBurgundy lacquer. Mineral air. A tactile perfume study shaped by material, motion, and a scent field that remembers every press.\n\nVIEW THE CASE STUDY\n↗\nESSENCE\nMORE INTERACTIVE WORK →",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 400,
+            "height": 400
+          }
+        ],
+        "buttons": [
+          "LIFT THE CAP"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-spray.png",
+        "sha256": "bde9f45a7df036f878b01a576219d5128d2a441dfafe42012f841c35cdb5d6b8",
+        "bytes": 121498
+      }
+    },
+    {
+      "action": {
+        "touch": -650,
+        "capture": "essence-mobile-transition"
+      },
+      "at": "2026-10-27T16:53:36.133Z",
+      "state": {
+        "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 3759,
+        "ready": "complete",
+        "text": "←\nNEBUNOOK CONCEPT\nBack to case study\nESSENCE\nDISCOVER\nPRESS THE ATOMIZER\nPREPARING THE ESSENCE\n\nOLFACTIVE STUDY / 2026\n\nShape the\ninvisible.\nA scent you can almost see.\n02\n\nA quiet reveal.\nOne deliberate motion.\n\n03\n\nPress the atomizer.\nGive scent a direction.\n\n04\n\nThe visible fades.\nThe atmosphere remains.\n\nPRODUCT\nREVEAL\nSCENT\nATMOSPHERE\n\nA SENSORY INTERFACE\n\nNot an image\nof fragrance.\nIts behaviour.\n\nBurgundy lacquer. Mineral air. A tactile perfume study shaped by material, motion, and a scent field that remembers every press.\n\nVIEW THE CASE STUDY\n↗\nESSENCE\nMORE INTERACTIVE WORK →",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 400,
+            "height": 400
+          }
+        ],
+        "buttons": [
+          "PRESS THE ATOMIZER"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-transition.png",
+        "sha256": "4f4af2af0843c8985f6e7d2d40a05374d8fe5b9f05ba517b950e6c299054a809",
+        "bytes": 128351
+      }
+    },
+    {
+      "action": {
+        "touch": -650
+      },
+      "at": "2026-10-27T16:53:37.917Z",
+      "state": {
+        "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 3759,
+        "ready": "complete",
+        "text": "←\nNEBUNOOK CONCEPT\nBack to case study\nESSENCE\nDISCOVER\nPRESS THE ATOMIZER\nPREPARING THE ESSENCE\n\nOLFACTIVE STUDY / 2026\n\nShape the\ninvisible.\nA scent you can almost see.\n02\n\nA quiet reveal.\nOne deliberate motion.\n\n03\n\nPress the atomizer.\nGive scent a direction.\n\n04\n\nThe visible fades.\nThe atmosphere remains.\n\nPRODUCT\nREVEAL\nSCENT\nATMOSPHERE\n\nA SENSORY INTERFACE\n\nNot an image\nof fragrance.\nIts behaviour.\n\nBurgundy lacquer. Mineral air. A tactile perfume study shaped by material, motion, and a scent field that remembers every press.\n\nVIEW THE CASE STUDY\n↗\nESSENCE\nMORE INTERACTIVE WORK →",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 400,
+            "height": 400
+          }
+        ],
+        "buttons": [
+          "PRESS THE ATOMIZER"
+        ]
+      }
+    },
+    {
+      "action": {
+        "touch": -650,
+        "capture": "essence-mobile-middle"
+      },
+      "at": "2026-10-27T16:53:39.616Z",
+      "state": {
+        "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 3759,
+        "ready": "complete",
+        "text": "←\nNEBUNOOK CONCEPT\nBack to case study\nESSENCE\nDISCOVER\nPRESS THE ATOMIZER\nPREPARING THE ESSENCE\n\nOLFACTIVE STUDY / 2026\n\nShape the\ninvisible.\nA scent you can almost see.\n02\n\nA quiet reveal.\nOne deliberate motion.\n\n03\n\nPress the atomizer.\nGive scent a direction.\n\n04\n\nThe visible fades.\nThe atmosphere remains.\n\nPRODUCT\nREVEAL\nSCENT\nATMOSPHERE\n\nA SENSORY INTERFACE\n\nNot an image\nof fragrance.\nIts behaviour.\n\nBurgundy lacquer. Mineral air. A tactile perfume study shaped by material, motion, and a scent field that remembers every press.\n\nVIEW THE CASE STUDY\n↗\nESSENCE\nMORE INTERACTIVE WORK →",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 400,
+            "height": 400
+          }
+        ],
+        "buttons": [
+          "PRESS THE ATOMIZER"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-middle.png",
+        "sha256": "4f4af2af0843c8985f6e7d2d40a05374d8fe5b9f05ba517b950e6c299054a809",
+        "bytes": 128351
+      }
+    },
+    {
+      "action": {
+        "touch": -650
+      },
+      "at": "2026-10-27T16:53:41.392Z",
+      "state": {
+        "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 3759,
+        "ready": "complete",
+        "text": "←\nNEBUNOOK CONCEPT\nBack to case study\nESSENCE\nDISCOVER\nPRESS THE ATOMIZER\nPREPARING THE ESSENCE\n\nOLFACTIVE STUDY / 2026\n\nShape the\ninvisible.\nA scent you can almost see.\n02\n\nA quiet reveal.\nOne deliberate motion.\n\n03\n\nPress the atomizer.\nGive scent a direction.\n\n04\n\nThe visible fades.\nThe atmosphere remains.\n\nPRODUCT\nREVEAL\nSCENT\nATMOSPHERE\n\nA SENSORY INTERFACE\n\nNot an image\nof fragrance.\nIts behaviour.\n\nBurgundy lacquer. Mineral air. A tactile perfume study shaped by material, motion, and a scent field that remembers every press.\n\nVIEW THE CASE STUDY\n↗\nESSENCE\nMORE INTERACTIVE WORK →",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 400,
+            "height": 400
+          }
+        ],
+        "buttons": [
+          "PRESS THE ATOMIZER"
+        ]
+      }
+    },
+    {
+      "action": {
+        "touch": -650,
+        "capture": "essence-mobile-ending"
+      },
+      "at": "2026-10-27T16:53:43.076Z",
+      "state": {
+        "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 3759,
+        "ready": "complete",
+        "text": "←\nNEBUNOOK CONCEPT\nBack to case study\nESSENCE\nDISCOVER\nPRESS THE ATOMIZER\nPREPARING THE ESSENCE\n\nOLFACTIVE STUDY / 2026\n\nShape the\ninvisible.\nA scent you can almost see.\n02\n\nA quiet reveal.\nOne deliberate motion.\n\n03\n\nPress the atomizer.\nGive scent a direction.\n\n04\n\nThe visible fades.\nThe atmosphere remains.\n\nPRODUCT\nREVEAL\nSCENT\nATMOSPHERE\n\nA SENSORY INTERFACE\n\nNot an image\nof fragrance.\nIts behaviour.\n\nBurgundy lacquer. Mineral air. A tactile perfume study shaped by material, motion, and a scent field that remembers every press.\n\nVIEW THE CASE STUDY\n↗\nESSENCE\nMORE INTERACTIVE WORK →",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 400,
+            "height": 400
+          }
+        ],
+        "buttons": [
+          "PRESS THE ATOMIZER"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-ending.png",
+        "sha256": "4f4af2af0843c8985f6e7d2d40a05374d8fe5b9f05ba517b950e6c299054a809",
+        "bytes": 128351
+      }
+    },
+    {
+      "action": {
+        "touch": -650,
+        "capture": "essence-mobile-end-proof"
+      },
+      "at": "2026-10-27T16:53:44.864Z",
+      "state": {
+        "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 3759,
+        "ready": "complete",
+        "text": "←\nNEBUNOOK CONCEPT\nBack to case study\nESSENCE\nDISCOVER\nPRESS THE ATOMIZER\nPREPARING THE ESSENCE\n\nOLFACTIVE STUDY / 2026\n\nShape the\ninvisible.\nA scent you can almost see.\n02\n\nA quiet reveal.\nOne deliberate motion.\n\n03\n\nPress the atomizer.\nGive scent a direction.\n\n04\n\nThe visible fades.\nThe atmosphere remains.\n\nPRODUCT\nREVEAL\nSCENT\nATMOSPHERE\n\nA SENSORY INTERFACE\n\nNot an image\nof fragrance.\nIts behaviour.\n\nBurgundy lacquer. Mineral air. A tactile perfume study shaped by material, motion, and a scent field that remembers every press.\n\nVIEW THE CASE STUDY\n↗\nESSENCE\nMORE INTERACTIVE WORK →",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 400,
+            "height": 400
+          }
+        ],
+        "buttons": [
+          "PRESS THE ATOMIZER"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-end-proof.png",
+        "sha256": "4f4af2af0843c8985f6e7d2d40a05374d8fe5b9f05ba517b950e6c299054a809",
+        "bytes": 128351
+      }
+    }
+  ],
+  "finished": "2026-10-27T16:53:46.636Z"
+}

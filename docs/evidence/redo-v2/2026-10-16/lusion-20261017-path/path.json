@@ -1,0 +1,19 @@
+{
+  "url": "https://lusion.co/",
+  "evidence": [
+    {
+      "state": "failed-readiness-not-approval",
+      "path": "docs/evidence/redo-v2/2026-10-16/lusion-20261017-path/diagnostic.jpg",
+      "sha256": "afb021ed554ac5ae6560de02aec39ef5c9ac2648d84b5145e95baa507ed11500"
+    }
+  ],
+  "result": "evidence-needed",
+  "failure": "页面未完成加载，不能当作已审查",
+  "diagnostic": {
+    "url": "https://lusion.co/",
+    "ready": "interactive",
+    "fonts": "loaded",
+    "text": "BACK\n\nLET'S TALK\nMENU\nCLOSE\nHOME\nHOME\nABOUT US\nABOUT US\nPROJECTS\nPROJECTS\nCONTACT\nCONTACT\nSubscribe to\nour newsletter\nLABS\nLABS\nWe create 3D visual storytelling and interactive web experiences that help brands stand out\nSCROLL TO EXPLORE\nBold Ideas,\nBrought to Life\nWe combine design, motion, 3D, and development to create digital experiences that feel visually striking and technically seamless. From campaign launches to immersive brand worlds, we build work that captures attention and invites int",
+    "missing": 0
+  }
+}

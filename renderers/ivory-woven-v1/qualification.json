@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "006",
+  "manifest": "renderers/ivory-woven-v1/manifest.json",
+  "qualityReview": "renderers/ivory-woven-v1/contract.json",
+  "records": {
+    "brief": "docs/pages/006-woven-spaces.md",
+    "reference": "docs/references/006-woven-spaces.md",
+    "assets": "docs/assets/006-woven-spaces.md",
+    "qa": "docs/qa/api-20261020121901603-234fa897-006.md"
+  },
+  "trialApproval": {
+    "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d",
+    "runtime": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/runtime.json"
+  },
+  "controls": {
+    "capture": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/controls.json",
+    "review": "docs/production/runs/api-20261020121901603-234fa897/006-controls-review.json"
+  },
+  "rendering": {
+    "mode": "dom"
+  },
+  "performance": {
+    "capture": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/performance.json",
+    "sha256": "a159d9d07985b5218096697ed95150ccf24342271c59ad90682ab4c79e292b03"
+  },
+  "styleReview": "docs/production/runs/api-20261020121901603-234fa897/006-style-review.json"
+}

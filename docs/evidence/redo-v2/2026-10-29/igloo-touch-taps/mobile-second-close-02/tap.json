@@ -1,0 +1,51 @@
+{
+  "purpose": "Actual short finger tap in the root-owned live Igloo observation target; no admission",
+  "started": "2026-10-28T17:56:33.998Z",
+  "input": {
+    "type": "native-touch-tap",
+    "x": 320,
+    "y": 40,
+    "holdMs": 70
+  },
+  "frames": [
+    {
+      "phase": "before",
+      "state": {
+        "url": "https://www.igloo.inc/portfolio/overpass",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-close-02/before.jpg",
+        "sha256": "e0d6d4bc74c5364121c1731eb23f67a9185898ce348b077a34d75eeda0cfae5b"
+      }
+    },
+    {
+      "phase": "after",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-close-02/after.jpg",
+        "sha256": "8f185a3fc6f93b1ad17141f68d7be76328ca9dbd82043d9bc9bf3218504803a4"
+      }
+    }
+  ],
+  "sourceTargetUrl": "https://www.igloo.inc/portfolio/overpass",
+  "result": "tap-observed-not-admitted",
+  "finished": "2026-10-28T17:56:36.576Z"
+}

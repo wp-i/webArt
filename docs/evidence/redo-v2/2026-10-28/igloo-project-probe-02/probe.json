@@ -1,0 +1,88 @@
+{
+  "purpose": "Actual source project action probe only; no candidate or admission",
+  "url": "https://www.igloo.inc/",
+  "started": "2026-10-28T04:09:43.304Z",
+  "frames": [
+    {
+      "label": "opening",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "y": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-project-probe-02/opening.jpg",
+        "sha256": "d0ec6d9b4a3847b1d41de8c16259773026aa196cc48e03995c55c3a238e62130"
+      }
+    },
+    {
+      "label": "first-frozen-project",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "y": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-project-probe-02/first-frozen-project.jpg",
+        "sha256": "a88dff70b364159a5989694706d06b5d5138ce4c84da82c5305994df3e4b35e6"
+      }
+    },
+    {
+      "label": "project-after-click",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "y": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-project-probe-02/project-after-click.jpg",
+        "sha256": "767bb8277519d65f96d719bfc9c569d88eb8b379e64b3145ff3fc2b39d6a6a5d"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "native-wheel",
+      "deltaY": 520
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 520
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 520
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 520
+    },
+    {
+      "type": "native-mouse-click",
+      "x": 720,
+      "y": 450
+    }
+  ],
+  "errors": [],
+  "newTargets": [],
+  "result": "action-observed-not-admitted",
+  "finished": "2026-10-28T04:10:01.315Z"
+}

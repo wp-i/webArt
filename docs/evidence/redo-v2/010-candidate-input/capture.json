@@ -1,0 +1,113 @@
+{
+  "mode": "candidate",
+  "viewports": [
+    {
+      "viewport": "desktop",
+      "from": {
+        "x": 712.5,
+        "y": 441.03125
+      },
+      "to": {
+        "x": 957.3,
+        "y": 315.03125
+      },
+      "held": {
+        "x": 882.2999877929688,
+        "y": 240.03125,
+        "width": 150.00006103515625,
+        "height": 150,
+        "top": 240.03125,
+        "right": 1032.300048828125,
+        "bottom": 390.03125,
+        "left": 882.2999877929688
+      },
+      "returned": {
+        "x": 637.5,
+        "y": 366.03125,
+        "width": 150,
+        "height": 150,
+        "top": 366.03125,
+        "right": 787.5,
+        "bottom": 516.03125,
+        "left": 637.5
+      },
+      "frames": [
+        {
+          "path": "docs/evidence/redo-v2/010-candidate-input/1440-rest.jpg",
+          "sha256": "e649b6b8e790155d1da31b418c8fa0b47d589b39ac120311954819f405b6c65d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-candidate-input/1440-held.jpg",
+          "sha256": "ad709fa49e2ee3e63385de554e6fa1b57b4f53664d3e6cad7c2f8b4fbec48d38"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-candidate-input/1440-release.jpg",
+          "sha256": "63f20e746ff20ac91d2f6b8678dec354efda40c853c6efa70106db8a9614eb4c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-candidate-input/1440-returned.jpg",
+          "sha256": "370a0d7fba5868e948166725ee11d3ffb866b73b67f8af80fd3ba4486709e37d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-candidate-input/1440-reduced.jpg",
+          "sha256": "e8bb1c60f68335740ab8cd9a72e3a4d683e6512a0160a73019181339804ec65b"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "from": {
+        "x": 195,
+        "y": 418.09375
+      },
+      "to": {
+        "x": 261.3,
+        "y": 299.93375
+      },
+      "held": {
+        "x": 206.29998779296875,
+        "y": 244.93374633789062,
+        "width": 110,
+        "height": 110,
+        "top": 244.93374633789062,
+        "right": 316.29998779296875,
+        "bottom": 354.9337463378906,
+        "left": 206.29998779296875
+      },
+      "returned": {
+        "x": 140,
+        "y": 363.09375,
+        "width": 110,
+        "height": 110,
+        "top": 363.09375,
+        "right": 250,
+        "bottom": 473.09375,
+        "left": 140
+      },
+      "frames": [
+        {
+          "path": "docs/evidence/redo-v2/010-candidate-input/390-rest.jpg",
+          "sha256": "eee134f53a753242533146d1b53072191ec1fe4cc34c1fa1ad2b5a828cf1fec3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-candidate-input/390-held.jpg",
+          "sha256": "e5d315012336485155198747943065b319497efeac8ba8a8108522afde92e6f1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-candidate-input/390-release.jpg",
+          "sha256": "441f3bd62df26397cd87058a0682b71b3026002479f0d2a8530a1889313d1cbb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-candidate-input/390-returned.jpg",
+          "sha256": "7b64610d6ba80b4a9ac297ea5f8152f4006148d7e87c9ae02d46582823018090"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-candidate-input/390-reduced.jpg",
+          "sha256": "84994760ca5846ef934ee14a98e2f30ecd1395430d560ac7b62bb40f4843c82c"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-scored"
+}

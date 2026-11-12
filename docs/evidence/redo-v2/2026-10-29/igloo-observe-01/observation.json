@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Actual source input observation; no candidate, assets or admission",
+  "url": "https://www.igloo.inc/",
+  "started": "2026-10-28T17:46:00.796Z",
+  "frames": [
+    {
+      "label": "desktop-opening",
+      "at": "2026-10-28T17:46:11.348Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 900,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-01/desktop-opening.jpg",
+        "sha256": "b561857b7f36d2ba842ef5d52bd900553be68269a1751e07f880cc5655d32866"
+      }
+    }
+  ],
+  "actions": [],
+  "errors": [
+    "Observation launched without persistent stdin; own target and exact worker closed, no source quality conclusion"
+  ],
+  "result": "incomplete",
+  "finished": "2026-10-28T17:46:50.3947364Z"
+}

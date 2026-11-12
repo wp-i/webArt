@@ -1,0 +1,541 @@
+{
+  "purpose": "Actual bounded full-path discovery; no quality admission",
+  "url": "https://fluid.glass/",
+  "viewports": [
+    {
+      "name": "desktop",
+      "frames": [
+        {
+          "state": "opening",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-opening.jpg",
+          "sha256": "357cbf643a7becffa2389d155b6352cd1d59bd04ea4d28a82d9caaa008f6a223"
+        },
+        {
+          "state": "forward-1",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-1.jpg",
+          "sha256": "314335b6240f6dfeea0058de1d113ecf65ee08ecb56292683856eaf3aed37ce7"
+        },
+        {
+          "state": "forward-2",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-2.jpg",
+          "sha256": "6ce94fb887f007f14e6dc068e18afd8beb52b156c1f14b83a4c4c40c5f2bdb55"
+        },
+        {
+          "state": "forward-3",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-3.jpg",
+          "sha256": "ee041b6c74798aebcdd8d2b72b838a56ebe6f7cfd66df9937a5f7f0a95152215"
+        },
+        {
+          "state": "forward-4",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-4.jpg",
+          "sha256": "435c089e52c5fa4b39b2686e7825f58369af151cbdac5ace1c283f7413f5b032"
+        },
+        {
+          "state": "forward-5",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-5.jpg",
+          "sha256": "ce04c9bdf8f94dd1897c66d29828a11e41b1ea6a375ee0c9d530daa5d287c46f"
+        },
+        {
+          "state": "forward-6",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-6.jpg",
+          "sha256": "9d458b63c3dc121beb993e878f1a8e9b18d3f131e6e7111e6e1417c8bc20e01e"
+        },
+        {
+          "state": "forward-7",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-7.jpg",
+          "sha256": "420b024259d0e0b1b91c92733523b190cfb02dff11c4d7dd67c7de2df4fe205f"
+        },
+        {
+          "state": "forward-8",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-8.jpg",
+          "sha256": "c8293080eaaffe886f9fd036f21432376cfb40ffaddf16563de45d7fedbad0bd"
+        },
+        {
+          "state": "forward-9",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-9.jpg",
+          "sha256": "3189476f0bc80b62f87022ca7ec2e75215af23bf26dffa6d67b8907b84f6e080"
+        },
+        {
+          "state": "forward-10",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-10.jpg",
+          "sha256": "6efeab92693b4d05c398228b99dc9342efd5704864ee9dc36fd7970123674d17"
+        },
+        {
+          "state": "forward-11",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-11.jpg",
+          "sha256": "00687cd743426f7d48164d77677c65852dca32f3933cbd47058aa3245a41b34e"
+        },
+        {
+          "state": "ending-stopped",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-ending-stopped.jpg",
+          "sha256": "bc82943cf65a8fc17291e2857dfefbb557d4179e5da9db408bd681fe4da98dfd"
+        }
+      ],
+      "actions": [
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [
+            "GLAZING SPECIALISTS",
+            "ABOUT FLUID GLASS"
+          ],
+          "footer": [
+            {
+              "top": 8418.078125,
+              "bottom": 8434.4375,
+              "width": 109.21875
+            }
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [
+            "PRODUCT COLLECTION"
+          ],
+          "footer": [
+            {
+              "top": 7570.078125,
+              "bottom": 7586.4375,
+              "width": 109.21875
+            }
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [],
+          "footer": [
+            {
+              "top": 6719.078125,
+              "bottom": 6735.4375,
+              "width": 109.21875
+            }
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [
+            "SHOWROOM"
+          ],
+          "footer": [
+            {
+              "top": 5869.078125,
+              "bottom": 5885.4375,
+              "width": 109.21875
+            }
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [],
+          "footer": [
+            {
+              "top": 5018.078125,
+              "bottom": 5034.4375,
+              "width": 109.21875
+            }
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [
+            "FEATURED PROJECTS"
+          ],
+          "footer": [
+            {
+              "top": 4168.078125,
+              "bottom": 4184.4375,
+              "width": 109.21875
+            }
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [],
+          "footer": [
+            {
+              "top": 3318.078125,
+              "bottom": 3334.4375,
+              "width": 109.21875
+            }
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [
+            "CLIENT STORIES"
+          ],
+          "footer": [
+            {
+              "top": 2470.078125,
+              "bottom": 2486.4375,
+              "width": 109.21875
+            }
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [
+            "WHERE VISION MEETS EXECUTION"
+          ],
+          "footer": [
+            {
+              "top": 1619.078125,
+              "bottom": 1635.4375,
+              "width": 109.21875
+            }
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [],
+          "footer": [
+            {
+              "top": 1032.578125,
+              "bottom": 1048.9375,
+              "width": 109.21875
+            }
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "scrollY": 0,
+          "headings": [],
+          "footer": [
+            {
+              "top": 850.0783081054688,
+              "bottom": 866.4376831054688,
+              "width": 109.21875
+            }
+          ]
+        }
+      ],
+      "initial": {
+        "title": "Bespoke Architectural & Structural Glazing UK | Fluid Glass",
+        "height": 900,
+        "body": "",
+        "text": "COOKIES\nWe use cookies to enhance site navigation, analyze site usage, and assist in our marketing efforts. view our Privacy Policy for more details.\nACCEPT\nACCEPT\nDENY\nDENY\nHOME\nExceptional glazing for those who build with vision\nGET A QUOTE\nGET A QUOTE\n\nExceptional glazing for those\nwho build with vision.\n\nGLAZING SPECIALISTS\n\nWe design and install bespoke glass systems for ambitious architectural projects. Every pane reflects our commitment to clarity, quality, and collaboration.\n\nABOUT FLUID GLASS\n\nWe bring architecture to life through\ncraft and innovation. Trusted by\narchitects who demand precision,\nbeauty, and care.\n\nWHO WE ARE\nWHO WE ARE\nPRODUCT COLLECTION\n\nOur glazing collection is defined by exceptional craftsmanship, refined design, and enduring quality. Made for bold architecture and uncompromising vision.\n\nPRODUCT OVERVIEW\nPRODUCT OVERVIEW\nDoors\nWindows\nAdditional\nStructural\nSHOWROOM\n\nA place where precision\nand creativity connect.\n\nADDRESS\n\nOrbital 25 Business Park, Unit 11\nWatford WD18 9DA, UK\n\nSHOWROOM\nSHOWROOM\nFEATURED PROJECTS\n\nEach project tells its own story\nof collaboration and precision.\n\nVIEW PROJECTS\nVIEW PROJECTS\nOrchard House\nFLUID TIMELESS WINDOW\nFLUID TIMELESS DOOR\nFLUID X MINIMAL SLIDING DOORS\nFLUID X VERTICAL STRUCTURAL GLAZING\nAshmead Barn\nFLUID SLIDING DOOR\nFLUID GLASS BALUSTRADE\nFLUID X PIVOT DOOR\nFLUID WINDOW\nKeepers Cottage\nFLUID SLIDING DOOR\nFLUID WINDOW\nFLUID X VERTICAL STRUCTURAL GLAZING\nFLUID SKYLIGHT AND RIDGELIGHT\nSea Breeze\nFLUID X VERTICAL STRUCTURAL GLAZING\nFLUID X MINIMAL SLIDING DOORS\nFLUID WINDOW\nRusty House\nFLUID WINDOW\nFLUID X VERTICAL STRUCTURAL GLAZING\nFLUID X MINIMAL SLIDING DOORS\nCLIENT STORIES\n\nWhat our Clients say about us\n\n5.0 / 58 REVIEWS\n\nSteph F\n\nFluid glass were efficient in getting back to us and the service and knowledge is outstanding. I completely trusted their advise and will certainly use them again for architectural glass - walk on glass\nREAD MORE\nREAD MORE\n\nDanny Mehta\n\nThey coordinated and resourced the removal and replacement of a 4m x 3m double glazed roof light. The move was well planned and the whole procedure went very smoothly without any incident. The plant and equipment at their disposal effectively de-risked the manoeuvre and negated the need for a huge mobile crane. Highly recommended\nREAD MORE\nREAD MORE\n\nGill Menage\n\nFrom the initial contact to the completed works, Fluid Glass were easy to communicate with and very professional. The job needed the use of a crane and the necessary parking permits and was all organised so that the works went smoothly and with no hitches. The engineers doing the work were friendly, and very considerate - staying late one day to finish the job so that I didn’t have to make a long journey to come back to the property for another day. This was very thoughtful and much appreciated. A very good job done well!\nREAD MORE\nREAD MORE\n\nEllis Fraser\n\nFluid Glass provide a high class service and I would highly recommend them. Nothing seemed to be too much trouble and the product provided second to none. Communication with the team was outstanding, all aspects ran like clock work. Very pleased.\nREAD MORE\nREAD MORE\n\nVerena Carmichael\n\nJake and his team installed large tilt and turn floor to ceiling windows for our upstairs bedrooms. We went with the hidden handles and the integrated glass balustrades and the windows create a real wow factor and the desired effect of bringing the outside into the house. We are also very pleased how smooth the opening mechanisms are given the large window size. Having used IQ Glass previously, we could not fault the service Jake and his team provided. Our project was delivered on time and installation was smooth. Both Jake and Valerio were highly responsive to our queries throughout and helped us with the design when we visited the showroom. While one specific detail got missed in the ordering process, Fluid Glass sorted this very quickly for us. Professional, highly responsive and friendly service overall. We would gladly recommend Fluid Glass.\nREAD MORE\nREAD MORE\n\nNicholas Kirk\n\nFluid Glass oversaw the production and installation of new Critall style internal doors to our home and they are great. They really work in the house, allowing a visual connection through the ground floor, yet providing a cosy space to the front when needed. On a practical level, they help to provide acoustic separation without being to dominant too as tested last night whilst cooking and TV was on! The team have be",
+        "videos": [
+          {
+            "ready": 4,
+            "width": 3876,
+            "height": 2160,
+            "paused": false
+          },
+          {
+            "ready": 4,
+            "width": 1920,
+            "height": 1080,
+            "paused": true
+          }
+        ]
+      },
+      "end": {
+        "text": " a very tight urban setting. The team attention to detail (3 surveys, multiple engagements to agree every single tiny detail) was impressive – Fluid clearly values their reputation and takes a pride in what they do. The installation process went smoothly, the 2 fitters were excellent – again, incredible attention to detail. The end result is truly awesome as the pictures below show. Highly recommended\nREAD MORE\nREAD MORE\n\nB M\n\nWe’re delighted with both the windows and the service we had from Fluid Glass. From the outset, the process was very straightforward, and the team ensured we were totally comfortable with the order and installation arrangements. The windows themselves are absolutely first-rate, we couldn’t be more thrilled!\nREAD MORE\nREAD MORE\n\nMichael Harvey\n\nConsummate professionals from start to finish. Thanks guys.\nREAD MORE\nREAD MORE\n\nMitesh Patelia\n\nThe slim aluminium doors look great and we are extremely happy with the level of service and the communication throughout. During the ordering process Jake gave very good advice about what doors made sense for our new extension. The installation was extremely professional and quick and they left the house in great shape afterwards. We are looking forward to working with Jake and the team again for some other windows in the house.\nREAD MORE\nREAD MORE\n\na\n\nI recently had the pleasure of working with Fluid Glass and was genuinely impressed by their craftsmanship and professionalism. Their attention to detail, particularly in handling bespoke glazing solutions, was excellent. The team was knowledgeable, responsive, and supportive throughout — offering valuable advice at every stage and delivering a high-quality final result.\nREAD MORE\nREAD MORE\n\nKenny W\n\nWe built a small but fairly complex garden dining room. The roof design is unusual and was challenging but Fluid Glass were thoughtful and patient as the design evolved and was built. The finished product is terrific with the glass roof they supplied and fitted integrating beautifully with the rest of the building.\nREAD MORE\nREAD MORE\nWHERE VISION MEETS EXECUTION\n\nEvery great build begins\nwith understanding\n\nOUR APPROACH\nOUR APPROACH\nGET IN TOUCH\nGET IN TOUCH\n©2026, Fluid Glass\nInstagram\nYouTube\nLinkedIn\nX\nPrivacy policy\nTerms & conditions\nCrafted by Exo Ape",
+        "height": 900,
+        "y": 0
+      }
+    },
+    {
+      "name": "mobile",
+      "frames": [
+        {
+          "state": "opening",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-opening.jpg",
+          "sha256": "75ed63fce1ff0a729fb2c46c4292637b5a581b9be59a477c1af07cbf4d4b5fd0"
+        },
+        {
+          "state": "forward-1",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-1.jpg",
+          "sha256": "f3a9ddbb5345bb85624abf588b69113faa0ffa6ccc8ec6c91eebc10e5b24d3b6"
+        },
+        {
+          "state": "forward-2",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-2.jpg",
+          "sha256": "87ef51f06cae151600d8c317ef0d355c6884b1c6a63af38685f7169f6d591dae"
+        },
+        {
+          "state": "forward-3",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-3.jpg",
+          "sha256": "962bdfb57c7ed3fe77818c3c22c7f5b799f6b4fbc6df4d868db09cca17591503"
+        },
+        {
+          "state": "forward-4",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-4.jpg",
+          "sha256": "4af7cd97b99cc86ccb37d167dc27d793f374bc747c0b2ae1fc058f11d89d69e8"
+        },
+        {
+          "state": "forward-5",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-5.jpg",
+          "sha256": "0e7cfc85d2945a266f0e012c58b62c2e035859386b1eefb2dca93a05c0452210"
+        },
+        {
+          "state": "forward-6",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-6.jpg",
+          "sha256": "41a822bcab6abfd2ec8d1a739e7137662ccb59a42996a2e668d6932ae989cf9e"
+        },
+        {
+          "state": "forward-7",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-7.jpg",
+          "sha256": "e980b94ca673c908b943ba99891632a30b4ee3f697b092366c2121c2291c633b"
+        },
+        {
+          "state": "forward-8",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-8.jpg",
+          "sha256": "be7175ba809e435424dbc3a5bdf7c4ebea3addf73741c8f5e51182dbd6e16674"
+        },
+        {
+          "state": "forward-9",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-9.jpg",
+          "sha256": "d125eb738ce89e4676ef45759cadde105040542aa90c281b833d6d0c546a1369"
+        },
+        {
+          "state": "forward-10",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-10.jpg",
+          "sha256": "b996b0a5594e6837f2e9bf0ba0b945a85277a2733c090b8d2544d6621b04bb29"
+        },
+        {
+          "state": "forward-11",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-11.jpg",
+          "sha256": "de89ef4c7f6944dbc9a4a12e13fb9d4e444a54f97c5577d3592b4e3ec0ee41bd"
+        },
+        {
+          "state": "forward-12",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-12.jpg",
+          "sha256": "c59e8e0cc796aae26d81acfb3d239e984b5e01396cb221293e525e6b9a1951da"
+        },
+        {
+          "state": "ending-stopped",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-ending-stopped.jpg",
+          "sha256": "c59e8e0cc796aae26d81acfb3d239e984b5e01396cb221293e525e6b9a1951da"
+        }
+      ],
+      "actions": [
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [
+            "GLAZING SPECIALISTS",
+            "ABOUT FLUID GLASS"
+          ],
+          "footer": [
+            {
+              "top": 5860.921875,
+              "bottom": 5879.84375,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [
+            "ABOUT FLUID GLASS",
+            "PRODUCT COLLECTION"
+          ],
+          "footer": [
+            {
+              "top": 5347.921875,
+              "bottom": 5366.84375,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [
+            "PRODUCT COLLECTION"
+          ],
+          "footer": [
+            {
+              "top": 4834.921875,
+              "bottom": 4853.84375,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [
+            "SHOWROOM"
+          ],
+          "footer": [
+            {
+              "top": 4321.921875,
+              "bottom": 4340.84375,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [
+            "FEATURED PROJECTS"
+          ],
+          "footer": [
+            {
+              "top": 3808.921875,
+              "bottom": 3827.84375,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [
+            "FEATURED PROJECTS"
+          ],
+          "footer": [
+            {
+              "top": 3295.921875,
+              "bottom": 3314.84375,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [],
+          "footer": [
+            {
+              "top": 2782.921875,
+              "bottom": 2801.84375,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [
+            "CLIENT STORIES"
+          ],
+          "footer": [
+            {
+              "top": 2269.921875,
+              "bottom": 2288.84375,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [],
+          "footer": [
+            {
+              "top": 1756.921875,
+              "bottom": 1775.84375,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [
+            "WHERE VISION MEETS EXECUTION"
+          ],
+          "footer": [
+            {
+              "top": 1243.921875,
+              "bottom": 1262.84375,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [
+            "WHERE VISION MEETS EXECUTION"
+          ],
+          "footer": [
+            {
+              "top": 968.4217529296875,
+              "bottom": 987.3436279296875,
+              "width": 126.203125
+            }
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "scrollY": 0,
+          "headings": [],
+          "footer": [
+            {
+              "top": 783.921875,
+              "bottom": 802.84375,
+              "width": 126.203125
+            }
+          ]
+        }
+      ],
+      "initial": {
+        "title": "Bespoke Architectural & Structural Glazing UK | Fluid Glass",
+        "height": 844,
+        "body": "",
+        "text": "HOME\nExceptional glazing for those who build with vision\n\nExceptional glazing\nfor those who build\nwith vision.\n\nSCROLL TO EXPLORE\nGLAZING SPECIALISTS\n\nWe design and install bespoke glass systems for ambitious architectural projects. Every pane reflects our commitment to clarity, quality, and collaboration.\n\nABOUT FLUID GLASS\n\nWe bring architecture to\nlife through craft and\ninnovation. Trusted by\narchitects who demand\nprecision, beauty, and\ncare.\n\nWHO WE ARE\nWHO WE ARE\nPRODUCT COLLECTION\n\nOur glazing collection is defined by exceptional craftsmanship, refined design, and enduring quality. Made for bold architecture and uncompromising vision.\n\nPRODUCT OVERVIEW\nPRODUCT OVERVIEW\nDoors\nWindows\nAdditional\nStructural\nSHOWROOM\n\nA place where precision and\ncreativity connect.\n\nADDRESS\n\nOrbital 25 Business Park, Unit 11\nWatford WD18 9DA, UK\n\nSHOWROOM\nSHOWROOM\nFEATURED PROJECTS\n\nEach project tells its\nown story of\ncollaboration and\nprecision.\n\nVIEW PROJECTS\nVIEW PROJECTS\nOrchard House\nAshmead Barn\nKeepers Cottage\nSea Breeze\nRusty House\nCLIENT STORIES\n\nWhat our Clients say about us\n\n5.0 / 58 REVIEWS\n\nSteph F\n\nFluid glass were efficient in getting back to us and the service and knowledge is outstanding. I completely trusted their advise and will certainly use them again for architectural glass - walk on glass\nREAD MORE\nREAD MORE\n\nDanny Mehta\n\nThey coordinated and resourced the removal and replacement of a 4m x 3m double glazed roof light. The move was well planned and the whole procedure went very smoothly without any incident. The plant and equipment at their disposal effectively de-risked the manoeuvre and negated the need for a huge mobile crane. Highly recommended\nREAD MORE\nREAD MORE\n\nGill Menage\n\nFrom the initial contact to the completed works, Fluid Glass were easy to communicate with and very professional. The job needed the use of a crane and the necessary parking permits and was all organised so that the works went smoothly and with no hitches. The engineers doing the work were friendly, and very considerate - staying late one day to finish the job so that I didn’t have to make a long journey to come back to the property for another day. This was very thoughtful and much appreciated. A very good job done well!\nREAD MORE\nREAD MORE\n\nEllis Fraser\n\nFluid Glass provide a high class service and I would highly recommend them. Nothing seemed to be too much trouble and the product provided second to none. Communication with the team was outstanding, all aspects ran like clock work. Very pleased.\nREAD MORE\nREAD MORE\n\nVerena Carmichael\n\nJake and his team installed large tilt and turn floor to ceiling windows for our upstairs bedrooms. We went with the hidden handles and the integrated glass balustrades and the windows create a real wow factor and the desired effect of bringing the outside into the house. We are also very pleased how smooth the opening mechanisms are given the large window size. Having used IQ Glass previously, we could not fault the service Jake and his team provided. Our project was delivered on time and installation was smooth. Both Jake and Valerio were highly responsive to our queries throughout and helped us with the design when we visited the showroom. While one specific detail got missed in the ordering process, Fluid Glass sorted this very quickly for us. Professional, highly responsive and friendly service overall. We would gladly recommend Fluid Glass.\nREAD MORE\nREAD MORE\n\nNicholas Kirk\n\nFluid Glass oversaw the production and installation of new Critall style internal doors to our home and they are great. They really work in the house, allowing a visual connection through the ground floor, yet providing a cosy space to the front when needed. On a practical level, they help to provide acoustic separation without being to dominant too as tested last night whilst cooking and TV was on! The team have been very professional and communicated very effectively. Would recommend.\nREAD MORE\nREAD MORE\n\nTiyasha Dutta Paul\n\nWe were referred to Fluid Glass from Lumi Windows for a French Bifold and a window for our new kitchen extension. Fluid Glass did an incredible job of managing the entire project, working through lots of issues that came up on the way and did an extremely meticulous and thorough job of the installation. We are incredibly happy with our new window and bifold and would recommend Fluid Glass to anyone! Special thanks to Jake and Chris, Valerio, who managed the project and all the installers.\nREAD MORE\n",
+        "videos": [
+          {
+            "ready": 4,
+            "width": 3876,
+            "height": 2160,
+            "paused": false
+          },
+          {
+            "ready": 4,
+            "width": 1920,
+            "height": 1080,
+            "paused": true
+          }
+        ]
+      },
+      "end": {
+        "text": " a very tight urban setting. The team attention to detail (3 surveys, multiple engagements to agree every single tiny detail) was impressive – Fluid clearly values their reputation and takes a pride in what they do. The installation process went smoothly, the 2 fitters were excellent – again, incredible attention to detail. The end result is truly awesome as the pictures below show. Highly recommended\nREAD MORE\nREAD MORE\n\nB M\n\nWe’re delighted with both the windows and the service we had from Fluid Glass. From the outset, the process was very straightforward, and the team ensured we were totally comfortable with the order and installation arrangements. The windows themselves are absolutely first-rate, we couldn’t be more thrilled!\nREAD MORE\nREAD MORE\n\nMichael Harvey\n\nConsummate professionals from start to finish. Thanks guys.\nREAD MORE\nREAD MORE\n\nMitesh Patelia\n\nThe slim aluminium doors look great and we are extremely happy with the level of service and the communication throughout. During the ordering process Jake gave very good advice about what doors made sense for our new extension. The installation was extremely professional and quick and they left the house in great shape afterwards. We are looking forward to working with Jake and the team again for some other windows in the house.\nREAD MORE\nREAD MORE\n\na\n\nI recently had the pleasure of working with Fluid Glass and was genuinely impressed by their craftsmanship and professionalism. Their attention to detail, particularly in handling bespoke glazing solutions, was excellent. The team was knowledgeable, responsive, and supportive throughout — offering valuable advice at every stage and delivering a high-quality final result.\nREAD MORE\nREAD MORE\n\nKenny W\n\nWe built a small but fairly complex garden dining room. The roof design is unusual and was challenging but Fluid Glass were thoughtful and patient as the design evolved and was built. The finished product is terrific with the glass roof they supplied and fitted integrating beautifully with the rest of the building.\nREAD MORE\nREAD MORE\nWHERE VISION MEETS EXECUTION\n\nEvery great build\nbegins with\nunderstanding\n\nOUR APPROACH\nOUR APPROACH\nGET IN TOUCH\nGET IN TOUCH\n©2026, Fluid Glass\nInstagram\nYouTube\nLinkedIn\nX\nPrivacy policy\nTerms & conditions\nCrafted by Exo Ape",
+        "height": 844,
+        "y": 0
+      }
+    }
+  ]
+}

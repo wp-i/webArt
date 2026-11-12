@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "006",
+  "identity": "52333eea0a0d3978ee12e18f9f7e55294b3468f7fc9aaa662099c79a9afdcc6b",
+  "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d",
+  "dependencies": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/006-workflow-03.json",
+      "sha256": "d88a9ce83b8282859647959405926e060fc2489673e1af477fcbfe58353c3e19"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/006-plan-03.json",
+      "sha256": "ab726053d6dba71342f864c0eef7c8db9a7341ceec524d6da0df935c660dd7f9"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/006-reference-review.json",
+      "sha256": "fbd82233ed947339668cdfe60267671cc04bed5101d306f739e7771247eb8161"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/calibration-review.json",
+      "sha256": "5062704d49c1c462e82777e4a02d5f89dd073ff4f7900f0c537b869b1d114eb3"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04/capture.json",
+      "sha256": "e2f1edc1d8ec923fd36c83445c1583d62bf601a620b60abbb6f382f2e33a5e90"
+    },
+    {
+      "path": "scripts/capture-production.mjs",
+      "sha256": "af3a84691cafd25f4ce49cb20e7cbcecce2213c40ac092ffb3eb802e93a53acd"
+    },
+    {
+      "path": "scripts/production/native-scroll.mjs",
+      "sha256": "7e9318efcda6575c1d62cac65ad6eaca4f575c4097732d00abb272b4d9e95d46"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/evidence.mjs",
+      "sha256": "5db64dc482d63cc2397bfa71a91733d75be5fc38a6409b7617b0124a71e96923"
+    },
+    {
+      "path": "docs/production/prompts/REVIEW_PAIR.md",
+      "sha256": "6010b0ee21174984b4f4b7aab4a9a1972e03baba3be5452e5c84c83c8ca90281"
+    }
+  ],
+  "createdAt": "2026-10-20T08:09:39.715Z",
+  "stages": [
+    {
+      "status": "capturing",
+      "at": "2026-10-20T08:09:43.828Z"
+    },
+    {
+      "status": "reviewing",
+      "at": "2026-10-20T08:10:28.726Z"
+    },
+    {
+      "status": "awaiting-review",
+      "at": "2026-10-20T08:10:31.646Z"
+    },
+    {
+      "status": "reviewing",
+      "at": "2026-10-20T12:18:58.846Z"
+    },
+    {
+      "status": "prototype-admitted",
+      "at": "2026-10-20T12:19:01.027Z"
+    }
+  ],
+  "captures": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-006-52333eea0a0d3978/capture-0.json",
+      "sha256": "a07a4271a4791a7b01c39f0fa99467cc385dedf2984f25ec5771ce3386c4627e"
+    }
+  ],
+  "reviews": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-006-52333eea0a0d3978/review-0.json",
+      "sha256": "d78592b927c3a83f83a659d54817823411e2857ed8d925306557f3748e31a4de"
+    }
+  ],
+  "modelCodeGenerationCalls": 0,
+  "packageAuthorized": false,
+  "attempt": 0,
+  "status": "prototype-admitted",
+  "updatedAt": "2026-10-20T12:19:01.027Z",
+  "nextAction": "full-implementation-and-full-qa",
+  "review": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-006-52333eea0a0d3978/review-0.json",
+    "sha256": "d78592b927c3a83f83a659d54817823411e2857ed8d925306557f3748e31a4de"
+  },
+  "capture": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-006-52333eea0a0d3978/capture-0.json",
+    "sha256": "a07a4271a4791a7b01c39f0fa99467cc385dedf2984f25ec5771ce3386c4627e"
+  }
+}

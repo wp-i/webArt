@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-24",
+  "id": "008",
+  "url": "https://fluid.glass/",
+  "scope": "bounded-reference-screen-not-seven-dimension-admission",
+  "reviewer": {
+    "identity": "current-conversation:2026-10-19-four-redesigns",
+    "independent": false,
+    "contextIsolated": false
+  },
+  "decision": "not-selected",
+  "reason": "已实际等待加载结束，查看1440/390原生滚轮/真实手指到可见版权与自动展开菜单的完整有限路径。开场为玻璃建筑实拍影片，后接介绍、四幅产品摄影、展厅影片、项目与客户评价；真实结尾为室内背景上的展开工具菜单。该完整短页替换仍缺等价影片和内容耦合指针方案，不能以普通图库、图片放大或导航岛代替。本轮不选，不是对加载层的审美判断或七维完整准入。",
+  "evidence": [
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/capture.json",
+      "sha256": "4629918ce5661bc8c89181ae82e1e527928f407f55528b12858a84a4a81cbe86"
+    }
+  ],
+  "actualViewedFrames": [
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-opening.jpg",
+      "sha256": "357cbf643a7becffa2389d155b6352cd1d59bd04ea4d28a82d9caaa008f6a223"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-1.jpg",
+      "sha256": "314335b6240f6dfeea0058de1d113ecf65ee08ecb56292683856eaf3aed37ce7"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-2.jpg",
+      "sha256": "6ce94fb887f007f14e6dc068e18afd8beb52b156c1f14b83a4c4c40c5f2bdb55"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-3.jpg",
+      "sha256": "ee041b6c74798aebcdd8d2b72b838a56ebe6f7cfd66df9937a5f7f0a95152215"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-4.jpg",
+      "sha256": "435c089e52c5fa4b39b2686e7825f58369af151cbdac5ace1c283f7413f5b032"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-5.jpg",
+      "sha256": "ce04c9bdf8f94dd1897c66d29828a11e41b1ea6a375ee0c9d530daa5d287c46f"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-6.jpg",
+      "sha256": "9d458b63c3dc121beb993e878f1a8e9b18d3f131e6e7111e6e1417c8bc20e01e"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-7.jpg",
+      "sha256": "420b024259d0e0b1b91c92733523b190cfb02dff11c4d7dd67c7de2df4fe205f"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-8.jpg",
+      "sha256": "c8293080eaaffe886f9fd036f21432376cfb40ffaddf16563de45d7fedbad0bd"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-9.jpg",
+      "sha256": "3189476f0bc80b62f87022ca7ec2e75215af23bf26dffa6d67b8907b84f6e080"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-10.jpg",
+      "sha256": "6efeab92693b4d05c398228b99dc9342efd5704864ee9dc36fd7970123674d17"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-forward-11.jpg",
+      "sha256": "00687cd743426f7d48164d77677c65852dca32f3933cbd47058aa3245a41b34e"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-ending-stopped.jpg",
+      "sha256": "bc82943cf65a8fc17291e2857dfefbb557d4179e5da9db408bd681fe4da98dfd"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-opening.jpg",
+      "sha256": "75ed63fce1ff0a729fb2c46c4292637b5a581b9be59a477c1af07cbf4d4b5fd0"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-1.jpg",
+      "sha256": "f3a9ddbb5345bb85624abf588b69113faa0ffa6ccc8ec6c91eebc10e5b24d3b6"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-2.jpg",
+      "sha256": "87ef51f06cae151600d8c317ef0d355c6884b1c6a63af38685f7169f6d591dae"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-3.jpg",
+      "sha256": "962bdfb57c7ed3fe77818c3c22c7f5b799f6b4fbc6df4d868db09cca17591503"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-4.jpg",
+      "sha256": "4af7cd97b99cc86ccb37d167dc27d793f374bc747c0b2ae1fc058f11d89d69e8"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-5.jpg",
+      "sha256": "0e7cfc85d2945a266f0e012c58b62c2e035859386b1eefb2dca93a05c0452210"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-6.jpg",
+      "sha256": "41a822bcab6abfd2ec8d1a739e7137662ccb59a42996a2e668d6932ae989cf9e"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-7.jpg",
+      "sha256": "e980b94ca673c908b943ba99891632a30b4ee3f697b092366c2121c2291c633b"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-8.jpg",
+      "sha256": "be7175ba809e435424dbc3a5bdf7c4ebea3addf73741c8f5e51182dbd6e16674"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-9.jpg",
+      "sha256": "d125eb738ce89e4676ef45759cadde105040542aa90c281b833d6d0c546a1369"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-10.jpg",
+      "sha256": "b996b0a5594e6837f2e9bf0ba0b945a85277a2733c090b8d2544d6621b04bb29"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-11.jpg",
+      "sha256": "de89ef4c7f6944dbc9a4a12e13fb9d4e444a54f97c5577d3592b4e3ec0ee41bd"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-forward-12.jpg",
+      "sha256": "c59e8e0cc796aae26d81acfb3d239e984b5e01396cb221293e525e6b9a1951da"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-ending-stopped.jpg",
+      "sha256": "c59e8e0cc796aae26d81acfb3d239e984b5e01396cb221293e525e6b9a1951da"
+    }
+  ],
+  "endProof": [
+    {
+      "viewport": "desktop",
+      "lastNativeAction": {
+        "input": "native-wheel",
+        "scrollY": 0,
+        "headings": [],
+        "footer": [
+          {
+            "top": 850.0783081054688,
+            "bottom": 866.4376831054688,
+            "width": 109.21875
+          }
+        ]
+      },
+      "stopped": {
+        "state": "ending-stopped",
+        "y": 0,
+        "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/desktop-ending-stopped.jpg",
+        "sha256": "bc82943cf65a8fc17291e2857dfefbb557d4179e5da9db408bd681fe4da98dfd"
+      }
+    },
+    {
+      "viewport": "mobile",
+      "lastNativeAction": {
+        "input": "trusted-finger",
+        "scrollY": 0,
+        "headings": [],
+        "footer": [
+          {
+            "top": 783.921875,
+            "bottom": 802.84375,
+            "width": 126.203125
+          }
+        ]
+      },
+      "stopped": {
+        "state": "ending-stopped",
+        "y": 0,
+        "path": "docs/evidence/redo-v2/2026-10-24/fluid-native-screen/mobile-ending-stopped.jpg",
+        "sha256": "c59e8e0cc796aae26d81acfb3d239e984b5e01396cb221293e525e6b9a1951da"
+      }
+    }
+  ],
+  "mediaAcquired": 0,
+  "candidateCreated": false,
+  "qualityAdmission": false
+}

@@ -1,0 +1,136 @@
+{
+  "source": "https://tabasco.hilostudiolab.com/",
+  "scope": "bounded-observation-only",
+  "independent": false,
+  "contextIsolated": false,
+  "started": "2026-10-27T17:02:19.460Z",
+  "targetUrl": "https://tabasco.hilostudiolab.com/",
+  "steps": [
+    {
+      "action": {
+        "touch": -650,
+        "capture": "tabasco-mobile-correct-tail-synth"
+      },
+      "at": "2026-10-27T17:02:19.462Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 3426,
+        "width": 474,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nONE ICON\nSTARTED IT...\nA legendary sauce that has conquered the globe\nThe bottle that started it all. A simple, powerful combination of three ingredients that has conquered over 195 countries. It is the definitive choice for those who seek authentic flavor and an unmistakable kick of heat.\n\nThis is the most recognized hot sauce in history. From professional kitchens to family tables, this bottle has become the universal reference for spice, maintaining the exact same quality and character since its creation in 1868.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 459,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 459,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-correct-tail-synth.png",
+        "sha256": "d7190f93feba055b66195f06bf1deb81f684ebacdf1184509f59d24af88cf615",
+        "bytes": 68144
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "fingerX": 20,
+        "capture": "tabasco-mobile-correct-tail-edge-finger"
+      },
+      "at": "2026-10-27T17:02:21.336Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 3786,
+        "width": 474,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\n\nTHREE INGREDIENTS · THREE YEARS · ONE LEGACY\n\nIT WAS ONLY THE START\nMEET THE EVOLUTION\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 459,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 459,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-correct-tail-edge-finger.png",
+        "sha256": "974eab13c60fd688d783c55e07055770a376d5771c08e5b0b2f0549e5fdef06c",
+        "bytes": 108173
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "fingerX": 20,
+        "capture": "tabasco-mobile-correct-tail-end-proof"
+      },
+      "at": "2026-10-27T17:02:23.121Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 4159,
+        "width": 474,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\n\nTHREE INGREDIENTS · THREE YEARS · ONE LEGACY\n\nIT WAS ONLY THE START\nMEET THE EVOLUTION\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 459,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 459,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-correct-tail-end-proof.png",
+        "sha256": "eaaa7175fca2ee588f5871af17af13b8f3eefb761563794d2f5311e4b726d605",
+        "bytes": 105257
+      }
+    }
+  ],
+  "finished": "2026-10-27T17:02:25.033Z"
+}

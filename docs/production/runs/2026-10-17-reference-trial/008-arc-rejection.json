@@ -1,0 +1,492 @@
+{
+  "schemaVersion": 2,
+  "phase": "reference",
+  "sourceUrl": "https://www.arcprojects.build/",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "reviewer": {
+    "id": "current-task-art-director-2026-10-16",
+    "mode": "blind-evidence-only",
+    "implementationContextIncluded": false,
+    "calibrationRunId": "2026-10-16-current-task-calibration",
+    "inputScope": "benchmark+negative+reference"
+  },
+  "decision": "reject",
+  "vetoes": [
+    "Core pointer effect is utility crop/label feedback rather than a primary visual signature.",
+    "Repeated photo/text progression and the phone barcode/utility ending do not meet the user-calibrated complete-path bar."
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "9deabc3da0d4f19b6938c494e8d9168750860f41dd57ddd0484f95934f759cb9"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1221,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "378a8b0be90456450c39d4c09323dba307d9ac0e241bfd1597e3ca6f14867d79"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 3425,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "2f33ff008d23f958d4da1eda0a750981caae70cff472773d54d35ca97a5406e6"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 6746,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "336c6035b11836d78722fe02d65b9fd526e4cac3386eaa5c2619530f021e2a88"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-opening/contact-sheet.jpg",
+          "sha256": "fb6c12951c93ed6438bc093a9bdc3d12aed019479cf6aff3002fdc9bebc3e1d6"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 810,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-transition/contact-sheet.jpg",
+          "sha256": "b8393ef9406aa47a22d4446d380e75f17adc17c279ec2a1bfb2dd6d1fa0672a5"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2416,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-middle/contact-sheet.jpg",
+          "sha256": "064df9f07a01b946b20b1dc2d0492a483b6183ae755a0bc956835962251e0f7f"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 5576,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "58456fe90656bccdb1ac42be8af9133afb81f11886abc99835e5410d13d00827"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "The full-bleed architecture and foreground tree establish a coherent spatial opening. This is the source’s strongest default composition; its quality does not establish the quality of the rest of the page.",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "9deabc3da0d4f19b6938c494e8d9168750860f41dd57ddd0484f95934f759cb9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-opening/contact-sheet.jpg",
+          "sha256": "fb6c12951c93ed6438bc093a9bdc3d12aed019479cf6aff3002fdc9bebc3e1d6"
+        }
+      ]
+    },
+    {
+      "key": "type-image-craft",
+      "againstBenchmark": "below",
+      "finding": "Tiny captions and repeated photo/heading sections give most of the hierarchy to standard image listings. Compared with the baseline’s controlled type and changing material relationship, this remains ordinary editorial catalog presentation.",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.84-5.png",
+          "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "2f33ff008d23f958d4da1eda0a750981caae70cff472773d54d35ca97a5406e6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-middle/contact-sheet.jpg",
+          "sha256": "064df9f07a01b946b20b1dc2d0492a483b6183ae755a0bc956835962251e0f7f"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "The source photographs contain clear timber, stair and glazing relationships, and the selected projects use distinct views. Photograph availability is not the decisive reason for rejecting this source.",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+          "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "378a8b0be90456450c39d4c09323dba307d9ac0e241bfd1597e3ca6f14867d79"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-transition/contact-sheet.jpg",
+          "sha256": "b8393ef9406aa47a22d4446d380e75f17adc17c279ec2a1bfb2dd6d1fa0672a5"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "below",
+      "finding": "The actual forward/reverse document path repeats full image, short text, image list and then the pattern again. The progression introduces projects but lacks the baseline’s deepening and continuous change of the primary visual.",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.84-5.png",
+          "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "2f33ff008d23f958d4da1eda0a750981caae70cff472773d54d35ca97a5406e6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-middle/contact-sheet.jpg",
+          "sha256": "064df9f07a01b946b20b1dc2d0492a483b6183ae755a0bc956835962251e0f7f"
+        }
+      ]
+    },
+    {
+      "key": "pointer-detail",
+      "againstBenchmark": "below",
+      "finding": "Native movement across the first project changes local image crop and caption color. It remains utility hover feedback; the underlying architectural view and composition do not develop as the baseline’s material does.",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+          "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "378a8b0be90456450c39d4c09323dba307d9ac0e241bfd1597e3ca6f14867d79"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-transition/contact-sheet.jpg",
+          "sha256": "b8393ef9406aa47a22d4446d380e75f17adc17c279ec2a1bfb2dd6d1fa0672a5"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-closure",
+      "againstBenchmark": "below",
+      "finding": "The desktop barcode-like letterform is a distinct graphic ending and was wrongly removed in the old adaptation. The actual mobile ending becomes tall stacked bars beneath an email field and above a dense utility list; restoring it alone does not meet the calibrated closure standard.",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+          "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+          "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "336c6035b11836d78722fe02d65b9fd526e4cac3386eaa5c2619530f021e2a88"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "58456fe90656bccdb1ac42be8af9133afb81f11886abc99835e5410d13d00827"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "below",
+      "finding": "The mobile path relies on stacked project photographs, a large introductory paragraph and the tall striped footer. It is usable, but important image/type and closure relationships fall below the baseline’s composed phone states.",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+          "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+          "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "336c6035b11836d78722fe02d65b9fd526e4cac3386eaa5c2619530f021e2a88"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "58456fe90656bccdb1ac42be8af9133afb81f11886abc99835e5410d13d00827"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "barcode-letterform-footer",
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "visualPurpose": "The source has a full-width barcode-like brand shape as a distinct desktop graphic closure; the tall stacked mobile rendering must be judged separately.",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "336c6035b11836d78722fe02d65b9fd526e4cac3386eaa5c2619530f021e2a88"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "58456fe90656bccdb1ac42be8af9133afb81f11886abc99835e5410d13d00827"
+        }
+      ]
+    },
+    {
+      "name": "project-crop-hover",
+      "core": false,
+      "retained": true,
+      "role": "utility",
+      "sceneLevel": false,
+      "visualPurpose": "Native pointer movement changes project crop and label color but does not transform the primary architecture or the overall composition.",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "e95d6d52228463fce0b9276ec9ceda5a83911142e8daf5f71f8761d2ba285f59"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "365b4ca56421fa94eb77eb92a571b592588703f27de9adfa7a283af1f4b3e085"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "365b4ca56421fa94eb77eb92a571b592588703f27de9adfa7a283af1f4b3e085"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "642e78cd299694becba06e0e7a61cc8bec7bc8a93f90aa14f40ed2d60b834b92"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-reduced/contact-sheet.jpg",
+          "sha256": "9deabc3da0d4f19b6938c494e8d9168750860f41dd57ddd0484f95934f759cb9"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": false,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "9deabc3da0d4f19b6938c494e8d9168750860f41dd57ddd0484f95934f759cb9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "21bc8129f14e0ce0c6e64c3ae13b3fa338f23441f702246369b6fe6c828f865c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "e8f8a5dca39a3c42a7b75440435c4955b3d31e478dc9ca839f91fa5fdf17dfbe"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "e66eab1e623b1f1414a8a8f0ec37b41a3bb318831406200ec7cda8e477067098"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "336c6035b11836d78722fe02d65b9fd526e4cac3386eaa5c2619530f021e2a88"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "630e737bb62cb5c9d400721c85435f5a8bb4042fae5b0ba5de1ba3954b44b4b5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "213f0f7383a5262abf8d18a842b1989a81665e3fbf29d853dd60d741a91154a7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "bca2718236dfc5ca0d07f92d185196a5130a8a38592684cc7034578eac2feb8b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "9deabc3da0d4f19b6938c494e8d9168750860f41dd57ddd0484f95934f759cb9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-reduced/contact-sheet.jpg",
+          "sha256": "9deabc3da0d4f19b6938c494e8d9168750860f41dd57ddd0484f95934f759cb9"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": false,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "e95d6d52228463fce0b9276ec9ceda5a83911142e8daf5f71f8761d2ba285f59"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "365b4ca56421fa94eb77eb92a571b592588703f27de9adfa7a283af1f4b3e085"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "365b4ca56421fa94eb77eb92a571b592588703f27de9adfa7a283af1f4b3e085"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "642e78cd299694becba06e0e7a61cc8bec7bc8a93f90aa14f40ed2d60b834b92"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/desktop-reduced/contact-sheet.jpg",
+          "sha256": "9deabc3da0d4f19b6938c494e8d9168750860f41dd57ddd0484f95934f759cb9"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": false,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "5e92c1cec379f836a33fe953ddae527b38a4d8059ec2ae4072b6a6dfc3249e70"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "f0685370f07108ceae178d862866cf9d19cac42839ef8d31c75330e051e3ab6e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "f894be2e2f5cbfa466b0d45b51fb168dc90391de2c7c0dcfa15d1a9506c6a584"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "2ea36b5cd49abf822186a6f020ba0ffc26fc1a31c0485b2a91f93b708ab909f5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "58456fe90656bccdb1ac42be8af9133afb81f11886abc99835e5410d13d00827"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-scroll-5/contact-sheet.jpg",
+          "sha256": "2ea36b5cd49abf822186a6f020ba0ffc26fc1a31c0485b2a91f93b708ab909f5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "f894be2e2f5cbfa466b0d45b51fb168dc90391de2c7c0dcfa15d1a9506c6a584"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-scroll-7/contact-sheet.jpg",
+          "sha256": "f0685370f07108ceae178d862866cf9d19cac42839ef8d31c75330e051e3ab6e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "5e92c1cec379f836a33fe953ddae527b38a4d8059ec2ae4072b6a6dfc3249e70"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/008-arc-reference/mobile-reduced/contact-sheet.jpg",
+          "sha256": "5e92c1cec379f836a33fe953ddae527b38a4d8059ec2ae4072b6a6dfc3249e70"
+        }
+      ]
+    }
+  ],
+  "limitations": "Current conversation assisted visual audit of actual eight source states and native inputs. Not an independent API review, website objective score or user acceptance. Initial loader failure was excluded; the completed source was reviewed.",
+  "nextAction": "select-a-different-complete-reference"
+}

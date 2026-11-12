@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "id": "008",
+  "phase": "bounded-mature-asset-path-check",
+  "checkedAt": "2026-11-01T06:46:31.643946+00:00",
+  "decision": "three-paths-exhausted-no-role-complete-asset-selected",
+  "scope": "成熟冰构、独立屋面/立面、内部空间与作品的替换可行性；允许检查成熟建筑几何结合已核验CC0冰材质是否足以承担角色。不是新母版、素材模块、试片、整页或打包准入。",
+  "bounds": {
+    "maximumCandidatePaths": 3,
+    "candidatePathsInspected": 3,
+    "actualAuthorPreviewsViewed": 3,
+    "finalModelsDownloaded": 0,
+    "newGeometryAuthored": false,
+    "newShaderAuthored": false,
+    "candidatePageChanged": false,
+    "reviewModelCalls": 0
+  },
+  "reviewer": {
+    "id": "current-conversation-subagent-glacial-asset-path",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "priorMaterialDecision": "Glacial v1/v2 remain rejected and stopped. No third procedural geometry/material repair is authorized by this report.",
+  "inputSnapshot": [
+    {
+      "path": "docs/pages/008-glacial-forms.md",
+      "sha256": "5e2b6be3b048f1eea24f48d9e8197f17694bd1777c446b1427330a07506f65f0"
+    },
+    {
+      "path": "docs/references/008-glacial-forms.md",
+      "sha256": "41f7dce9bc316403626abddd764b93b7d599ce893fb995e1e902e415a003d574"
+    },
+    {
+      "path": "docs/assets/008-glacial-forms.md",
+      "sha256": "42ee7ec3242a7dc389b73cb19690a986f1e1a5f187ff2e764ab95d6c79be0857"
+    },
+    {
+      "path": "docs/assets/008-glacial-material-rejection-02.json",
+      "sha256": "7ace7e96057bf30ef3566a83961a866480f765b30d93e9f835bd2e6ac14ec21f"
+    },
+    {
+      "path": "docs/assets/008-glacial-mature-asset-check-20261029.json",
+      "sha256": "9bbdb5cc348d63b69099620f8bbe057233cae26f59c287f74ae99c2904ff8c06"
+    },
+    {
+      "path": "docs/production/runs/igloo-reference-20261029-02/reference-gate.json",
+      "sha256": "ceb903c653d8d7743278560e6a187809489b2aab7f44f673a913c285b09c95a0"
+    }
+  ],
+  "models": [
+    {
+      "uid": "e581c2f769f64515b54ab1d5bc348bd4",
+      "name": "Igloo",
+      "author": "marsmicro",
+      "authorUsername": "marsmicro775071",
+      "sourceUrl": "https://sketchfab.com/3d-models/igloo-e581c2f769f64515b54ab1d5bc348bd4",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/e581c2f769f64515b54ab1d5bc348bd4",
+      "licenseIndicated": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "rightsStatus": "official-public-model-API-indicates-CC-BY-4.0; no-file-level-adoption-clearance",
+      "licenseObservation": "Official public model API returns CC Attribution, commercial allowed, credit required; indexed original uploader page agrees. Direct web text fetch of uploader page returned 403, so no claim of successful full-page inspection.",
+      "listedDownloadable": true,
+      "catalogFaces": 4218,
+      "catalogVertices": 2808,
+      "preview": {
+        "path": "docs/evidence/redo-v2/2026-11-01/008-mature-asset-paths-01/e581c2f769f64515b54ab1d5bc348bd4-preview.jpg",
+        "sha256": "e850b147d59b1479490ce5763b2ced3af7b211b9e7ddebadbcaf9930f82d36db",
+        "sourceUrl": "https://media.sketchfab.com/models/e581c2f769f64515b54ab1d5bc348bd4/thumbnails/3f744b5476f74b91abacc5be64e94721/8412c5d18f8648a2af7d1d89d5465ec1.jpeg",
+        "dimensions": [
+          1024,
+          576
+        ],
+        "actuallyViewed": true,
+        "use": "internal-source-evidence-only; not-deliverable-media"
+      },
+      "metadata": {
+        "path": "docs/evidence/redo-v2/2026-11-01/008-mature-asset-paths-01/e581c2f769f64515b54ab1d5bc348bd4-metadata.json",
+        "sha256": "9a7f9bea27a949b59dd95a5a5e5c4e1ba8c555b914a5a6e969e22eb1c76d1984"
+      },
+      "visualObservation": "实际原作者预览为白色分块半球冰屋与多边形入口拱；砖缝、外壳分块和一定边缘厚度清楚，但表面是无纹理的平白低多边形材质，没有霜层、透射深度或内光。作者明确说明Basic shaders / No texture maps。",
+      "geometryPotential": "可见外壳分块，可能给出可抬升部件；预览不能证明各块为独立节点、封闭底面或完整室内。",
+      "reasonNotSelected": "几何题材相近，但不是已经完成工艺的冰构素材。将无纹理模型重新制作霜化、体积与内部光仍把被否决的核心材料工作交给现场修补。未证明成熟素材可直接承担锁定角色。",
+      "status": "not-selected-for-locked-role",
+      "fileInspection": {
+        "modelDownloaded": false,
+        "hiddenSurfacesVerified": false,
+        "separableClosedPartsVerified": false,
+        "runtimeMaterialVerified": false
+      }
+    },
+    {
+      "uid": "af5de962f7e3454881ed0fff651a67c0",
+      "name": "pavilion",
+      "author": "DENNISS75",
+      "authorUsername": "DENNISS75",
+      "sourceUrl": "https://sketchfab.com/3d-models/pavilion-af5de962f7e3454881ed0fff651a67c0",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/af5de962f7e3454881ed0fff651a67c0",
+      "licenseIndicated": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "rightsStatus": "official-public-model-API-indicates-CC-BY-4.0; no-file-level-adoption-clearance",
+      "licenseObservation": "Official public model API returns CC Attribution, commercial allowed, credit required; indexed original uploader page agrees. Direct web text fetch of uploader page returned 403, so no claim of successful full-page inspection.",
+      "listedDownloadable": true,
+      "catalogFaces": 126912,
+      "catalogVertices": 67682,
+      "preview": {
+        "path": "docs/evidence/redo-v2/2026-11-01/008-mature-asset-paths-01/af5de962f7e3454881ed0fff651a67c0-preview.jpg",
+        "sha256": "a0fd1a93c5846050b5991be484b1b801f1261f0f5e9a5927730f3951779b7a62",
+        "sourceUrl": "https://media.sketchfab.com/models/af5de962f7e3454881ed0fff651a67c0/thumbnails/6063cf8dbe7346129b051d8ae556ea0c/4de63e0536dc40bc8ebf7afebd35a27e.jpeg",
+        "dimensions": [
+          1024,
+          576
+        ],
+        "actuallyViewed": true,
+        "use": "internal-source-evidence-only; not-deliverable-media"
+      },
+      "metadata": {
+        "path": "docs/evidence/redo-v2/2026-11-01/008-mature-asset-paths-01/af5de962f7e3454881ed0fff651a67c0-metadata.json",
+        "sha256": "4e7634e9666020a1ebec67ce413411b5bab9b9f866a9263c31ea979b5697652b"
+      },
+      "visualObservation": "实际原作者预览为木制百叶凉亭：横向屋檐格栅、木地台/踏步、白色纱帘、坐具、人物及草地。具有可见木纹、织物、真实尺度与具体空间构件，不是冰或玻璃建筑。",
+      "geometryPotential": "屋面、柱、帘与地台在外观上可辨；无文件检查，不宣称可分离封闭模块。",
+      "reasonNotSelected": "将薄木格栅、帘幕和家具整体换成冰不能保留冰构建筑的厚度和内部体积，也不会解决两件冻结作品或冰质开口。需大规模结构/材料重做，非本轮有限成熟资产替换。",
+      "status": "not-selected-for-locked-role",
+      "fileInspection": {
+        "modelDownloaded": false,
+        "hiddenSurfacesVerified": false,
+        "separableClosedPartsVerified": false,
+        "runtimeMaterialVerified": false
+      }
+    },
+    {
+      "uid": "8ce32155bef54f559eb023e085b21d33",
+      "name": "Pavilion 2",
+      "author": "rmichels",
+      "authorUsername": "rmichels",
+      "sourceUrl": "https://sketchfab.com/3d-models/pavilion-2-8ce32155bef54f559eb023e085b21d33",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/8ce32155bef54f559eb023e085b21d33",
+      "licenseIndicated": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "rightsStatus": "official-public-model-API-indicates-CC-BY-4.0; no-file-level-adoption-clearance",
+      "licenseObservation": "Official public model API returns CC Attribution, commercial allowed, credit required; indexed original uploader page agrees. Direct web text fetch of uploader page returned 403, so no claim of successful full-page inspection.",
+      "listedDownloadable": true,
+      "catalogFaces": 41558,
+      "catalogVertices": 15610,
+      "preview": {
+        "path": "docs/evidence/redo-v2/2026-11-01/008-mature-asset-paths-01/8ce32155bef54f559eb023e085b21d33-preview.jpg",
+        "sha256": "622da05f8315e3935d6dfb06b0d473f1cf7560cdfa4456a0abf995aded08a47e",
+        "sourceUrl": "https://media.sketchfab.com/models/8ce32155bef54f559eb023e085b21d33/thumbnails/10f8db5cec9b462db759181fb5d7bfc7/dbb5e5df9d294431adfbc39005e3fefa.jpeg",
+        "dimensions": [
+          1024,
+          576
+        ],
+        "actuallyViewed": true,
+        "use": "internal-source-evidence-only; not-deliverable-media"
+      },
+      "metadata": {
+        "path": "docs/evidence/redo-v2/2026-11-01/008-mature-asset-paths-01/8ce32155bef54f559eb023e085b21d33-metadata.json",
+        "sha256": "6299f2d6e1e2bb36e0b830b5cc500295cf2400e3008decd37bbac064aa2b3715"
+      },
+      "visualObservation": "实际原作者预览为两组相互交错的白色梁柱格构、台阶与底座；大量空心方框构成稠密网格，材质为均匀不透明白色。作者说明beam + infills模块化设计及抽象人体空间主题。",
+      "geometryPotential": "独立梁/填板只在设计说明与外观上成立，节点、内面和连接关系未从文件验证。",
+      "reasonNotSelected": "格构自身是反复方框，不是有实心深度与霜化尺度的冰建筑。换透明材质会重新引入通用白色/透明几何问题，不能作为已完成冰构工艺采用。",
+      "status": "not-selected-for-locked-role",
+      "fileInspection": {
+        "modelDownloaded": false,
+        "hiddenSurfacesVerified": false,
+        "separableClosedPartsVerified": false,
+        "runtimeMaterialVerified": false
+      }
+    }
+  ],
+  "licenseBasis": {
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "checkedAt": "2026-11-01T06:46:31.643946+00:00",
+    "summary": "CC BY 4.0 permits copying, redistribution and adaptation including commercial uses with appropriate attribution, license link and change indication; other rights may remain. This general grant does not itself verify the contents or provenance of an unacquired model file."
+  },
+  "remainingGap": [
+    "No checked replacement supplies mature transmissive ice depth, varied frost, grounded architecture and separable complete pieces together.",
+    "No final mesh was sufficiently role-matching to justify download. Separate-node topology, undersides and PBR channels remain untested rather than passed.",
+    "These three paths do not supply the distinct frozen interior objects, ice aperture or volume target identities."
+  ],
+  "nextAction": "Stop this three-path asset search. Preserve admitted Igloo source and rejected Glacial modules. Chief must decide another independently viable mature asset route or a newly admitted single mother; no fourth search or third procedural repair is created here.",
+  "referenceAdmissionChanged": false,
+  "assetApprovalGranted": false,
+  "prototypeApprovalGranted": false,
+  "inventoryChanged": false,
+  "packageAuthorized": false,
+  "homepageChanged": false,
+  "evidenceLimitations": "Three API-listed original author previews were actually viewed locally at 1024x576, not interactive whole-model inspections or native website QA. Raw source thumbnails remain internal evidence only; no source preview is licensed for page delivery by this report. Catalog triangle counts are not parsed mesh counts."
+}

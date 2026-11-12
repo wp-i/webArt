@@ -1,0 +1,35 @@
+{
+  "records": [
+    {
+      "x": 220,
+      "y": 430,
+      "path": "docs/evidence/redo-v2/007-source-pointer/move-0.jpg",
+      "sha256": "a10aa0c52939569c1cc443f87f96c660893a85fc691904cef53733f4d2544553"
+    },
+    {
+      "x": 460,
+      "y": 620,
+      "path": "docs/evidence/redo-v2/007-source-pointer/move-1.jpg",
+      "sha256": "6cf33e1fc75aa121b27019de26b11dafd8ed024109135fce2e3ebb61c5d77d0d"
+    },
+    {
+      "x": 610,
+      "y": 380,
+      "path": "docs/evidence/redo-v2/007-source-pointer/move-2.jpg",
+      "sha256": "bb0f17bbf9307d9e5f998905aeb86c0a359c0a7bbefc79f146c6117288710086"
+    },
+    {
+      "x": 220,
+      "y": 430,
+      "path": "docs/evidence/redo-v2/007-source-pointer/move-3.jpg",
+      "sha256": "9873f26d38182fab10af6e5eb156326664ca730d3567293c4fdf3806fcaee7be"
+    },
+    {
+      "x": 1380,
+      "y": 90,
+      "path": "docs/evidence/redo-v2/007-source-pointer/move-4.jpg",
+      "sha256": "3f9f97ab4a1dff59221f2a7328a9199f9c2e1ffeac51fa3cfe98d534bbd7a1cf"
+    }
+  ],
+  "elements": []
+}

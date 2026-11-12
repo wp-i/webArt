@@ -1,0 +1,38 @@
+{
+  "observedAt": "2026-10-18T12:15:39.920Z",
+  "rendererId": "pace-precision-v2",
+  "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+  "previewStatus": 200,
+  "downloadStatus": 200,
+  "bytes": 710412,
+  "sha256": "bb150313c0142dd37ee4cdf9cd227cf858d45272a160fabc05d4cd51eed5c351",
+  "previewAndAllAssets": "passed",
+  "archiveHttp": "passed",
+  "officialSources": [
+    {
+      "id": "001",
+      "sourceSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0"
+    },
+    {
+      "id": "006",
+      "sourceSha256": "3be6deb3cc6893ce3a225c43d7cdd330a3aed8b945269cd77056577262e1f99a"
+    },
+    {
+      "id": "007",
+      "sourceSha256": "46c7d81838525a79057b4d7a98f030222a2befb44b0b7b8719e63c3224d2121f"
+    },
+    {
+      "id": "008",
+      "sourceSha256": "31892bf10228f07d305ed4bee795c10bed76c5514a06429ab545d10eaeddcd99"
+    },
+    {
+      "id": "009",
+      "sourceSha256": "057d1fff49885ed00ccd2bae36abcd33ae87fffc4bd7fdbc13b9b31f0444c147"
+    },
+    {
+      "id": "010",
+      "sourceSha256": "4fcd045081962375d946130e871d1fd95df9e1d91a301aa3471016962436abd4"
+    }
+  ],
+  "inventoryChanged": false
+}

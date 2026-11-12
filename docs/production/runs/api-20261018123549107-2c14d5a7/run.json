@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261018123549107-2c14d5a7",
+  "mode": "configuration-driven",
+  "productionMode": "frozen-renderer",
+  "codeGenerationCalls": 0,
+  "execution": "current-conversation-evidence-review",
+  "started": "2026-10-18T12:35:49.108Z",
+  "model": "current-conversation",
+  "ids": [
+    "010"
+  ],
+  "status": "ready-for-user-review",
+  "stage": "packaging",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [
+    {
+      "id": "010",
+      "title": "Pace",
+      "directory": ".webart/prototypes/api-20261018123549107-2c14d5a7-010",
+      "archivePath": ".webart/trials/api-assisted-20261018-010-source.zip",
+      "bytes": 710412,
+      "sha256": "bb150313c0142dd37ee4cdf9cd227cf858d45272a160fabc05d4cd51eed5c351",
+      "archiveReused": true,
+      "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+      "qaRecord": "docs/qa/api-20261018123549107-2c14d5a7-010.md",
+      "capturePath": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-prototype-0-0/capture.json",
+      "http": {
+        "previewAndAllAssets": "passed",
+        "archiveHttp": "passed"
+      },
+      "quality": "calibrated-review-passed-user-review-pending"
+    }
+  ],
+  "inventoryChanged": false,
+  "visualAcceptance": "pending-user-review",
+  "resumes": [
+    {
+      "at": "2026-10-19T03:47:25.863Z",
+      "fromStage": "style-review",
+      "previousFailure": null
+    },
+    {
+      "at": "2026-10-19T03:49:19.751Z",
+      "fromStage": "calibration",
+      "previousFailure": {
+        "code": "stage-timeout",
+        "message": "当前阶段超时，没有记为通过"
+      }
+    }
+  ],
+  "finished": "2026-10-19T03:58:01.517Z"
+}

@@ -1,0 +1,232 @@
+{
+  "decision": "reject",
+  "responsiveComposition": "reject",
+  "responsiveChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-190"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-191"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-192"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-193"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-194"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-195"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-196"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "ending",
+      "subject": "lost",
+      "composition": "lost",
+      "actions": "preserved",
+      "finding": "2048×912的结尾放大了人物竖幅，头顶被截，托相机手部与机身底缘贴近并越出底边；不符合预先锁定的完整人物及相机取景范围。应只调整极宽比例下的人物面板宽度与裁切。",
+      "frames": [
+        "responsive-composition-197"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-198"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-199"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-200"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-201"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-202"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-203"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-204"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-205"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-206"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-207"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-208"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "frames": [
+        "responsive-composition-209"
+      ]
+    }
+  ],
+  "renderingFallback": "not-applicable",
+  "findings": [
+    "宽屏结尾的头顶、手部及相机范围不符合已锁定构图，需要有限局部裁切修正。",
+    "另行实际关闭脚本后，桌面Photographs导航改变hash到display:none/height=0的标记，未抵达可见内容，记录在009-no-script-actions-01/actions.json；原生备用入口需要修正。",
+    "本轮已因明确缺陷提前退回；其余控件的133个去重载荷未全部审看，不记为控件视觉通过，不创建包或更新首页。"
+  ]
+}

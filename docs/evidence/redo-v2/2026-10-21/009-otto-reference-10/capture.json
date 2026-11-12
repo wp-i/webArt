@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-21T03:59:40.962Z",
+  "url": "https://www.ottografie.nl/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/",
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/",
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-transition/contact-sheet.jpg",
+          "sha256": "74083a96f9f51d8c9a4c08ab7cb7c15b9ca98f757d0ed4ef8a047c4d656acb05"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/beauty/soft-elegance/gallery",
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/about",
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending/contact-sheet.jpg",
+          "sha256": "3b8847a4a52cd6f2cfc6113c3d3eb7f1a4c477b33b57265fe6c0c747843f3dfc"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/",
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/",
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-transition/contact-sheet.jpg",
+          "sha256": "1ec7982706adf96141373c7e0d564f42d7bc8a3ba35584dbfcc9adc43511feed"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/beauty/soft-elegance/gallery",
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-middle/contact-sheet.jpg",
+          "sha256": "49224ee97d1e98db7ae064b7fcdb96115ee3899f53c4a5b16f1d9b2c08e40a8a"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/about",
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-ending/contact-sheet.jpg",
+          "sha256": "b31fda6b81cba5150115ac93fbffc96f548c5cd6e6debec8324f94cedc4ed789"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-zoom-forward/contact-sheet.jpg",
+          "sha256": "5f19061a321495c8eaaba335acc4e5549745bd605eea1c7b6b46e5b6c8732a12"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-pan-forward/contact-sheet.jpg",
+          "sha256": "c73c8a3ce01a07398eb485ea7d67bf268aad51229876f88e9211618699b8d77d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-pan-reverse/contact-sheet.jpg",
+          "sha256": "c73c8a3ce01a07398eb485ea7d67bf268aad51229876f88e9211618699b8d77d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-zoom-reverse/contact-sheet.jpg",
+          "sha256": "79fc052bb3c0dadc848d2883abcea31e8828af7a163cbbe5e326b4192f24e448"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "5ab1cf583e7816fb2f8e39cf555f99a4bf746e28e7444a9904eee7c5c338ee66"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-reduced-forward/contact-sheet.jpg",
+          "sha256": "ce71187165fbca51472ad663bef02b5a211f66dbfdd79b25c12c4bb8491e2462"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-reduced-reverse/contact-sheet.jpg",
+          "sha256": "c73c8a3ce01a07398eb485ea7d67bf268aad51229876f88e9211618699b8d77d"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-forward-0/contact-sheet.jpg",
+          "sha256": "5ca6b29957354faa779536d60ff31a5e15e2f8b2d73e4c4d24444259b5451ed5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-forward-1/contact-sheet.jpg",
+          "sha256": "8e2cf6d1dbece2a7a6ef98bcac3a361f53623cb8c27163c9ea951fedd9efd72c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-reverse-0/contact-sheet.jpg",
+          "sha256": "cd4acab497034ea8898bcd21382a275888d20050b3b29ebc6ad1776441dd8a33"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-reverse-1/contact-sheet.jpg",
+          "sha256": "1f656f7558e37c1c7cbee00c1b38389f631e90e6309e8e8f83308b7262f0b7a3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-stop/contact-sheet.jpg",
+          "sha256": "ce529643ec5625fe2cf4740150608a73a8cd9bddddc2d076b980d145b0aa172f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-reduced-forward/contact-sheet.jpg",
+          "sha256": "77bcdd93ccf61912b29b46cb7cd3804c27f1d39c34688bbf0ce6aac37a509bad"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-reduced-reverse/contact-sheet.jpg",
+          "sha256": "850a5d2019b747909147558bc57882a1ce8e79f6310588df331521a3f0746483"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-case-opening/contact-sheet.jpg",
+          "sha256": "38d15f9370ae9523aa7d08a59953685e715d19dac9b19db4ac1dc2de2059dc87"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-case-arrival/contact-sheet.jpg",
+          "sha256": "086129053da416dc60c5134dfbf8a721075c2e127e90c712dcb64a13fa470610"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-start/contact-sheet.jpg",
+          "sha256": "ae16cf220ff5d350cefc7692d9b15cb5dad0ba67a2ecc1aadbedd54ee6995f98"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-5/contact-sheet.jpg",
+          "sha256": "607dbaf351f73462c382aadf5e224bea33ca3203432506b5929bc419ac6a6fc3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-11/contact-sheet.jpg",
+          "sha256": "9b13ce5489150318cd0967e6c0aa3b5ba9b5e484ce79ce78a9fb9625e08af945"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending/contact-sheet.jpg",
+          "sha256": "3b8847a4a52cd6f2cfc6113c3d3eb7f1a4c477b33b57265fe6c0c747843f3dfc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending-stop/contact-sheet.jpg",
+          "sha256": "0c5c13364281a31b2e109b6faba07ed6f9ea4fad4ec3f4dd9bc4e6e5f7dfe7dc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-reverse/contact-sheet.jpg",
+          "sha256": "1f47587f6ebb7a7e23a383c8f68ecd3d33f57cbd0bc289ac2bb9dd88002176a0"
+        }
+      ],
+      "trace": []
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-forward-0/contact-sheet.jpg",
+          "sha256": "e0bafbe2c9ea3c6d5449afacc3b58fe9e84c59cb8cab3563226394110f14b7a8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-forward-1/contact-sheet.jpg",
+          "sha256": "1ec7982706adf96141373c7e0d564f42d7bc8a3ba35584dbfcc9adc43511feed"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-reverse-0/contact-sheet.jpg",
+          "sha256": "570e1b1c4ff8a4b2b5026ea3664070bf3044cf5aa4a6c15558d6207c3f05227c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-reverse-1/contact-sheet.jpg",
+          "sha256": "a107d3f39c846fa6da4628b47ea3ae97315085a2669c6a41f3ffc6895b7a0991"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-stop/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-reduced-forward/contact-sheet.jpg",
+          "sha256": "a20e16fce96020572b47051f0f9b8f92cd5405b53f875668e92be074b5556514"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-reduced-reverse/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-case-opening/contact-sheet.jpg",
+          "sha256": "45a7a919cae877a8fb565bac71e9da532684239df5dc70dad140b6440a772993"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-case-arrival/contact-sheet.jpg",
+          "sha256": "b0ae0ead44150274049650e2db7e51bc65a890dd10c4bd234a8285a46ef92fc0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-touch-gallery-open/contact-sheet.jpg",
+          "sha256": "6eafe2376fa675a7b57b8a773cc8dce33d34472f214aad825281b9ee9d960653"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-touch-gallery-next/contact-sheet.jpg",
+          "sha256": "3a7d980b5a1dcfbaa5a34f9dcff0f4a0a9b7b9ee481b7f8df4afcfe4c24c6827"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-touch-gallery-return/contact-sheet.jpg",
+          "sha256": "9d1777565a58948ca339a2d8ab3895840bbd4c6a4a7d9d1de3f2b2938d9eb407"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-start/contact-sheet.jpg",
+          "sha256": "346eaddf36c4a22ff3fbf5f2db266ba1859648244be9e96ecd3aad42c814b023"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-0/contact-sheet.jpg",
+          "sha256": "15431cdcb4e6811e9c65c01debc2376ca2021ecb1a3d1f2c73272b08883aa368"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-2/contact-sheet.jpg",
+          "sha256": "120e80351471d467a74e6de0454244863e642d710943e072a7f3a61634823086"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-ending/contact-sheet.jpg",
+          "sha256": "b31fda6b81cba5150115ac93fbffc96f548c5cd6e6debec8324f94cedc4ed789"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-ending-stop/contact-sheet.jpg",
+          "sha256": "b31fda6b81cba5150115ac93fbffc96f548c5cd6e6debec8324f94cedc4ed789"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-reverse/contact-sheet.jpg",
+          "sha256": "346eaddf36c4a22ff3fbf5f2db266ba1859648244be9e96ecd3aad42c814b023"
+        }
+      ],
+      "trace": []
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-scored",
+  "sourceRoutes": [
+    "/",
+    "/beauty/soft-elegance",
+    "/about"
+  ],
+  "scope": "Current full photographic browsing, actual gallery entry/zoom and the complete biography ending. This captures evidence only.",
+  "finished": "2026-10-21T04:02:18.929Z"
+}

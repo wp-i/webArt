@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "reviewer": {
+    "id": "primary-art-reviewer-2026-10-13",
+    "calibrationRunId": "2026-10-13-redo-primary-01",
+    "mode": "blind-evidence-only",
+    "inputScope": "benchmark+negative+reference+candidate",
+    "implementationContextIncluded": false
+  },
+  "limitations": "Single primary reviewer retains conversation context. Separated evidence excludes implementation reasons, expense and old self-scores; this is not an independent blind model or a guaranteed user score.",
+  "phase": "reference",
+  "decision": "admit",
+  "vetoes": [],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-opening/contact-sheet.jpg",
+          "sha256": "70855da2609f27f08b09f5c8f50653b57d8f5f12db1ff8a7e67cffd15f6c3f06"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4232,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-transition/contact-sheet.jpg",
+          "sha256": "bb53fc79a18358c8b1775a9539bcc663db3653690df0c79c0a6c9e8ea659f617"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 9000,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-middle/contact-sheet.jpg",
+          "sha256": "dd6d7dd559314d95c962749773acb4a35a7c2f29068d328c9787635ba0f9ba20"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 10800,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-ending/contact-sheet.jpg",
+          "sha256": "be9799cea6148fcbe9317db686fbda9b6bc282942a96913e80d21a11e4b8ad9d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/mobile-opening/contact-sheet.jpg",
+          "sha256": "57986ba98d9a639476a84951c257b8ff1a261184cafb8d400112525548d403b4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4065,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/mobile-transition/contact-sheet.jpg",
+          "sha256": "2ccce9f384a7727ede17917796c4feb970d7fc2eda91874407bb4d0807920ef1"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 8440,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/mobile-middle/contact-sheet.jpg",
+          "sha256": "0841168a2d8390ed7069db962aa050921b794e3735410a01844154f237c2ebcf"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 10128,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/mobile-ending/contact-sheet.jpg",
+          "sha256": "54c659c78e8d186d2142ac864ac792219abc05757339598cbfe26f1fe5e8b369"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "母版机械环的发光刻度、黑色显示面与侧面短文字共同形成开场权威，与001材料/字形构图有不同但同等级的明确记忆点。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-opening/contact-sheet.jpg",
+          "sha256": "70855da2609f27f08b09f5c8f50653b57d8f5f12db1ff8a7e67cffd15f6c3f06"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "母版技术字体和金属凹槽、线框轮廓共同形成精确语言，与001字形/材料关系一样具备可见工艺，不能仅因字体简洁就称通过。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-middle/contact-sheet.jpg",
+          "sha256": "dd6d7dd559314d95c962749773acb4a35a7c2f29068d328c9787635ba0f9ba20"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "母版外壳、凹槽、齿形和独立部件具有专门形态，展开仍有具体身份；这种特异性可与001具体膜片/空间相比较，模型本身不能复制分发。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-transition/contact-sheet.jpg",
+          "sha256": "bb53fc79a18358c8b1775a9539bcc663db3653690df0c79c0a6c9e8ea659f617"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "原生滚动实际拆解机械部件、改变材质和视角，再进入点阵与弹性对象；它推进观看机制，和001连续材料交接一样超出统一淡入。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-transition/contact-sheet.jpg",
+          "sha256": "bb53fc79a18358c8b1775a9539bcc663db3653690df0c79c0a6c9e8ea659f617"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "可信桌面拖动和手机触摸改变显示圆的位置，释放后回位；输入直接作用于主视觉对象，可与001移动/按住改变材料观看作用比较。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-held",
+          "path": "docs/evidence/quality-calibration/001-1440-held.png",
+          "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-ending/contact-sheet.jpg",
+          "sha256": "be9799cea6148fcbe9317db686fbda9b6bc282942a96913e80d21a11e4b8ad9d"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "所选短路径止于真实Springs/Draggable模块，保留对象操控作视觉终点；赞助/API目录/订阅独立删减，不将普通完整源站页脚当作同级依据。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-ending/contact-sheet.jpg",
+          "sha256": "be9799cea6148fcbe9317db686fbda9b6bc282942a96913e80d21a11e4b8ad9d"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "手机保留光环、机制展开和触摸圆形主体；源站图谱标注局部拥挤，适配需要实际检查。核心对象尺度与运动身份成立，非仅复制桌面缩小。",
+      "benchmarkEvidence": [
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/mobile-opening/contact-sheet.jpg",
+          "sha256": "57986ba98d9a639476a84951c257b8ff1a261184cafb8d400112525548d403b4"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "visualPurpose": "真实几何随原生滚动拆解、材质进入线框，随后点阵和弹性对象响应输入；保留这项机制不自动补偿整体工艺和收束差距。",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-transition/contact-sheet.jpg",
+          "sha256": "bb53fc79a18358c8b1775a9539bcc663db3653690df0c79c0a6c9e8ea659f617"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "f13f4925e4df4de32eb8ff49366bde8eb9a51f6afd32f959b6594deb55dea151"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "79776818246f80c66d513147a373aefd1cfa39574b8c85728c80d6805af473f2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "e929917fa03bde746e6f6990dc9b486b10d50c2bbf459054adaba8490e41afaa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "940d063856fff69d93651f9fc1935b19b50a8c7554aff26423b25afb7adfca78"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "a1309187a0b7bc117480a4af766f7b679efe60b77eb424e61f963dcb1e12ed4e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "4700ba84278c4a67d2650ef0cba3581d75191ef60d638b73196b84b2a194f457"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "31d3617b2f99ce5cd0d8363c40d28e4506c2f01c8ed39779900e781742fe0085"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "6883cd125398b36fec1a745bc293767bcf7ff39c73e61843c3ad068a3ca67b7a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "7620deeabbbdb651815c47dc0aa1e21ddd786dd39b51eb958490f4a2089149ce"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-reduced/contact-sheet.jpg",
+          "sha256": "b3182841d7fa939f38088bd746131ce85e72cfad42bae12da3aa130b24c5fb29"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-source-input/1440-rest.jpg",
+          "sha256": "8f9bf5108de7bbe4fdd62bf1270f7a53381aafe05b1dfe1fca5d3fbe5a827587"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-source-input/1440-held.jpg",
+          "sha256": "21a7cb5a78e53c036fe460bd81986960693ca94b165c0a0b4b0c2f46aba7765c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-source-input/1440-release.jpg",
+          "sha256": "77059f6e658cea3b8e3b20e9a84535c8c2f61a958c462d26f6c7cb4b51fbcca9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-source-input/1440-returned.jpg",
+          "sha256": "e955f0416c83f82fdf92bf0a60d125364f7fd220ffa9d8861d51805106211448"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-source-input/1440-reduced.jpg",
+          "sha256": "1f6de2b7959d369d1d535ef3e607ead7d5e6a069b8c0741e3dbee7241d3cdee2"
+        }
+      ],
+      "note": "Trusted forward drag, release/reverse spring return, settled rest and reduced-media state inspected."
+    }
+  ]
+}

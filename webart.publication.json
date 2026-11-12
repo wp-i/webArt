@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "authorization": {
+    "date": "2026-10-21",
+    "record": "docs/DECISIONS.md"
+  },
+  "items": [
+    {
+      "id": "006",
+      "rendererId": "ivory-woven-v1",
+      "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d",
+      "description": "织物、色彩与光线的空间研究。",
+      "background": "#193537"
+    },
+    {
+      "id": "009",
+      "rendererId": "near-and-far-editorial-v1",
+      "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+      "description": "人物、色彩与观看距离的摄影研究。",
+      "background": "#e8e6de"
+    },
+    {
+      "id": "010",
+      "rendererId": "pace-precision-v2",
+      "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+      "description": "精密仪表的形态、拆解与弹性运动研究。",
+      "background": "#242523"
+    }
+  ]
+}

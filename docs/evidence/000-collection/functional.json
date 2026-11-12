@@ -1,5 +1,5 @@
 {
-  "started": "2026-10-11T07:54:15.245Z",
+  "started": "2026-10-18T12:32:32.678Z",
   "checks": {
     "removedControlsAndLegacyParameters": true,
     "returnRestores": {
@@ -278,7 +278,7 @@
               "status": "loaded"
             }
           ],
-          "title": "Campovivo — From field to table"
+          "title": "Campovivo — A day well spent"
         },
         {
           "device": "tablet",
@@ -295,7 +295,7 @@
               "status": "loaded"
             }
           ],
-          "title": "Campovivo — From field to table"
+          "title": "Campovivo — A day well spent"
         },
         {
           "device": "mobile",
@@ -312,7 +312,7 @@
               "status": "loaded"
             }
           ],
-          "title": "Campovivo — From field to table"
+          "title": "Campovivo — A day well spent"
         }
       ],
       "mobileToolbar": "passed"
@@ -331,7 +331,7 @@
               "status": "loaded"
             }
           ],
-          "title": "Sill. — Considered homes, carefully built"
+          "title": "Sill. — Spaces to live in"
         },
         {
           "device": "tablet",
@@ -344,7 +344,7 @@
               "status": "loaded"
             }
           ],
-          "title": "Sill. — Considered homes, carefully built"
+          "title": "Sill. — Spaces to live in"
         },
         {
           "device": "mobile",
@@ -357,7 +357,121 @@
               "status": "loaded"
             }
           ],
-          "title": "Sill. — Considered homes, carefully built"
+          "title": "Sill. — Spaces to live in"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "009",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Condensed",
+              "status": "loaded"
+            },
+            {
+              "family": "Manrope",
+              "status": "loaded"
+            }
+          ],
+          "title": "Near & Far — A way of looking"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Condensed",
+              "status": "loaded"
+            },
+            {
+              "family": "Manrope",
+              "status": "loaded"
+            }
+          ],
+          "title": "Near & Far — A way of looking"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Condensed",
+              "status": "loaded"
+            },
+            {
+              "family": "Manrope",
+              "status": "loaded"
+            }
+          ],
+          "title": "Near & Far — A way of looking"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "010",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Space Grotesk",
+              "status": "loaded"
+            },
+            {
+              "family": "JetBrains Mono",
+              "status": "loaded"
+            }
+          ],
+          "title": "Pace — Precision in motion"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Space Grotesk",
+              "status": "loaded"
+            },
+            {
+              "family": "JetBrains Mono",
+              "status": "loaded"
+            }
+          ],
+          "title": "Pace — Precision in motion"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Space Grotesk",
+              "status": "loaded"
+            },
+            {
+              "family": "JetBrains Mono",
+              "status": "loaded"
+            }
+          ],
+          "title": "Pace — Precision in motion"
         }
       ],
       "mobileToolbar": "passed"
@@ -372,38 +486,54 @@
     },
     {
       "id": "006",
-      "bytes": 10108955,
-      "sha256": "24f4fcdfd87ae69290378c6eccf4d0481ce9d7a49a23b89de4a337c1208f8714",
+      "bytes": 1599284,
+      "sha256": "56c58f16e8fe4fa84b86036bdb59b62ee333f6481808077c3f46343f7890f122",
       "nativeClick": true
     },
     {
       "id": "007",
-      "bytes": 3253751,
-      "sha256": "1598eae55f082b34c78b2915ebf6a9697fad9302b95345a18f44fb8279df1835",
+      "bytes": 2313424,
+      "sha256": "9aa7e97c355ee902f33ef3199afff7657ea7a54ffdec49709e95e8e301770fcf",
       "nativeClick": true
     },
     {
       "id": "008",
-      "bytes": 11330768,
-      "sha256": "be65a74004145f9d51f196c09cda7402f36bd84eca06dd611fc4904103e23cbe",
+      "bytes": 1740847,
+      "sha256": "f3054f5f8f18982234d039a1a3b4bbef79693ad402a57bba24b88f657341141c",
+      "nativeClick": true
+    },
+    {
+      "id": "009",
+      "bytes": 1714403,
+      "sha256": "ff3b0b4e3f12ba528866f26e1f1ab667ea9caa3c4497047515456b207be47203",
+      "nativeClick": true
+    },
+    {
+      "id": "010",
+      "bytes": 710412,
+      "sha256": "bb150313c0142dd37ee4cdf9cd227cf858d45272a160fabc05d4cd51eed5c351",
       "nativeClick": true
     }
   ],
   "errors": [],
   "currentPreview": {
-    "id": "008",
+    "id": "010",
     "device": "mobile",
     "width": 390,
     "overflow": false,
     "missing": 0,
     "fonts": [
       {
-        "family": "Studio",
+        "family": "Space Grotesk",
+        "status": "loaded"
+      },
+      {
+        "family": "JetBrains Mono",
         "status": "loaded"
       }
     ],
-    "title": "Sill. — Considered homes, carefully built"
+    "title": "Pace — Precision in motion"
   },
   "result": "passed",
-  "finished": "2026-10-11T07:54:27.576Z"
+  "finished": "2026-10-18T12:32:50.462Z"
 }

@@ -1,0 +1,136 @@
+{
+  "source": "https://tabasco.hilostudiolab.com/",
+  "scope": "bounded-observation-only",
+  "independent": false,
+  "contextIsolated": false,
+  "started": "2026-10-27T17:01:54.372Z",
+  "targetUrl": "https://tabasco.hilostudiolab.com/",
+  "steps": [
+    {
+      "action": {
+        "touch": -650,
+        "capture": "tabasco-mobile-tail-synth"
+      },
+      "at": "2026-10-27T17:01:54.376Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nTHE ROOT OF\nA\nLEGACY\nGreatness begins in silence\n\nIn 1868, Edmund McIlhenny saw potential where others saw ruins. By planting the first Tabasco seeds on Avery Island, he wasn't just creating a recipe; he was designing a timeless identity. This is the story of how a single ingredient, cultivated with patience, became a global standard of excellence.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-tail-synth.png",
+        "sha256": "71e00605262d159abdf1abe11d36c51a83662ea7f0651638f77e40a60e8b399a",
+        "bytes": 104924
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "fingerX": 20,
+        "capture": "tabasco-mobile-tail-edge-finger"
+      },
+      "at": "2026-10-27T17:01:56.878Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nTHE ROOT OF\nA\nLEGACY\nGreatness begins in silence\n\nIn 1868, Edmund McIlhenny saw potential where others saw ruins. By planting the first Tabasco seeds on Avery Island, he wasn't just creating a recipe; he was designing a timeless identity. This is the story of how a single ingredient, cultivated with patience, became a global standard of excellence.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-tail-edge-finger.png",
+        "sha256": "71e00605262d159abdf1abe11d36c51a83662ea7f0651638f77e40a60e8b399a",
+        "bytes": 104924
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "fingerX": 20,
+        "capture": "tabasco-mobile-tail-end-proof"
+      },
+      "at": "2026-10-27T17:01:58.445Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nTHE ROOT OF\nA\nLEGACY\nGreatness begins in silence\n\nIn 1868, Edmund McIlhenny saw potential where others saw ruins. By planting the first Tabasco seeds on Avery Island, he wasn't just creating a recipe; he was designing a timeless identity. This is the story of how a single ingredient, cultivated with patience, became a global standard of excellence.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 375,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 375,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-tail-end-proof.png",
+        "sha256": "71e00605262d159abdf1abe11d36c51a83662ea7f0651638f77e40a60e8b399a",
+        "bytes": 104924
+      }
+    }
+  ],
+  "finished": "2026-10-27T17:01:59.929Z"
+}

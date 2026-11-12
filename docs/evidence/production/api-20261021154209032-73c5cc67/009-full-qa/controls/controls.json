@@ -1,0 +1,1427 @@
+{
+  "result": "captured-not-visually-approved",
+  "viewports": [
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "controls": [
+        {
+          "selector": "[data-webart-audit=\"0\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "Skip to photographs",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-0-default.jpg",
+              "sha256": "c502f5318dad5883e6634e6ac9ec44fa5eef65730da18e8f9bb3ef4cec6ee51e"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-0-hover.jpg",
+              "sha256": "c502f5318dad5883e6634e6ac9ec44fa5eef65730da18e8f9bb3ef4cec6ee51e"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-0-focus.jpg",
+              "sha256": "d9b4dce02f534ea835e3a64dabab39851e990ed1c7751cd312923d1f610c4298"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-0-navigated.jpg",
+              "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"1\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Near and Far, back to beginning",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-1-default.jpg",
+              "sha256": "c502f5318dad5883e6634e6ac9ec44fa5eef65730da18e8f9bb3ef4cec6ee51e"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-1-hover.jpg",
+              "sha256": "c502f5318dad5883e6634e6ac9ec44fa5eef65730da18e8f9bb3ef4cec6ee51e"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-1-focus.jpg",
+              "sha256": "f480a6fa436100ac2c340ddc000505b79326bbe62ab49dd069ef991ee6f6deb1"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-1-navigated.jpg",
+              "sha256": "c502f5318dad5883e6634e6ac9ec44fa5eef65730da18e8f9bb3ef4cec6ee51e"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"2\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "Photographs 03",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-2-default.jpg",
+              "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-2-hover.jpg",
+              "sha256": "4b23262b100913813cd940b6f94ab939655bfcdcf6787acad2d1917c3e2275a9"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-2-focus.jpg",
+              "sha256": "6a28b70194df0bfef826a2360fa7877a9241ccd2e92fbbc26e0b9a718ff53969"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-2-navigated.jpg",
+              "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"3\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#about",
+          "label": "The other side",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-3-default.jpg",
+              "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-3-hover.jpg",
+              "sha256": "4579b533ea06f0f3901bd34b746a2f46639e5b23a0b58642b3a52088501e9db0"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-3-focus.jpg",
+              "sha256": "bc10d0a2b882ce8bfc50d13087a373b4ecb86dc0c2e763e7d3adb0951af02e7b"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-3-navigated.jpg",
+              "sha256": "160d08fcdcbf6514ca9c000563cfd913049d136206e44a4ce636b048631410af"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"4\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-ending",
+          "label": "Contact ↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-4-default.jpg",
+              "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-4-hover.jpg",
+              "sha256": "e221c2a858005a80d3f33b75e21719a2e94a1aca147bfd3c382428a60a47cfd4"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-4-focus.jpg",
+              "sha256": "439522657e82c0f3ca385f4be4bf64f9d4a65e56b7275c666ce3d9d76bc15657"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-4-navigated.jpg",
+              "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"5\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "View Red thread, photograph 1 of 3",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-5-default.jpg",
+              "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-5-hover.jpg",
+              "sha256": "72ffdd8fbef67ea842739b2cb76e42a9881c3f19a05bd82d5eeed7de4091a235"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-5-focus.jpg",
+              "sha256": "96b5836294769eb300279206d4fef45f5f5ce5766b4690130809250f7be8692a"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-5-navigated.jpg",
+              "sha256": "c9e85c6b964ae60a935049ee4b12c288de03a1aa07e87ba013f0d72ac233488c"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"6\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "View Through the red, photograph 2 of 3",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-6-default.jpg",
+              "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-6-hover.jpg",
+              "sha256": "d15738b9b0da66d066b487ffa254f85cb855fad10df53ce5e7e93a6a37892ab9"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-6-focus.jpg",
+              "sha256": "903315ee25f8c268df470277db94026d0687e844c7d23171782768c2010259a5"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-6-navigated.jpg",
+              "sha256": "e9c4a8bc394c9a3498b29b6c4f58a2d4c79a0dbe83247b7def6d587d56181453"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"7\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "View Out of the blue, photograph 3 of 3",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-7-default.jpg",
+              "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-7-hover.jpg",
+              "sha256": "861bdc9202918a1937622606202395fc11e245cbfc75066cc6640747eb1aa2d9"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-7-focus.jpg",
+              "sha256": "35e62b778ae579e7bb70533c1c6cd55d74a7fc098b9e93120a9dec24b02ebd7e"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-7-navigated.jpg",
+              "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"8\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Take a closer look ↓",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-8-default.jpg",
+              "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-8-hover.jpg",
+              "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-8-focus.jpg",
+              "sha256": "e28d07be6f6114aaaa94abc9c5086c764264b51f25c9cef54949ed3b1be22dd2"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-8-navigated.jpg",
+              "sha256": "79cbaf88b8d66a3de6c14b9a1d1d2b76298ab93ce0cc3bcf320e1ef421f3c627"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"9\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-9-default.jpg",
+              "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-9-hover.jpg",
+              "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-9-focus.jpg",
+              "sha256": "1b439d1cb297c9366c998d095b22e8dc5ef671dc8830409f967f3820420e1ede"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-9-navigated.jpg",
+              "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"10\"]",
+          "tag": "INPUT",
+          "type": "range",
+          "href": null,
+          "label": "Viewing distance",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-10-default.jpg",
+              "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-10-hover.jpg",
+              "sha256": "5ad669537be30b4de49e85ac3bc973e8f47081b4c96a8aaec3da0d7d6044ec6e"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-10-focus.jpg",
+              "sha256": "34de33752ba3aafd0d0e7b5193926377673eeafa33bd1c0dd65ee172456addea"
+            },
+            {
+              "state": "range-minimum",
+              "value": 1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/10/desktop-range-minimum.jpg",
+              "sha256": "34de33752ba3aafd0d0e7b5193926377673eeafa33bd1c0dd65ee172456addea"
+            },
+            {
+              "state": "range-keyboard-step",
+              "value": 1.1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/10/desktop-range-keyboard-step.jpg",
+              "sha256": "0d118e0d120481fbfc07ed240c850e93193ca49cf1ecd8458fb1565b8202699e"
+            },
+            {
+              "state": "range-maximum",
+              "value": 2.4,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/10/desktop-range-maximum.jpg",
+              "sha256": "ac6822ff6dcb0c0d2e14cb54c1e4b436f3c6f578ef6e9c539bfdff37f6bbf5bd"
+            },
+            {
+              "state": "range-keyboard-return",
+              "value": 1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/10/desktop-range-keyboard-return.jpg",
+              "sha256": "34de33752ba3aafd0d0e7b5193926377673eeafa33bd1c0dd65ee172456addea"
+            },
+            {
+              "state": "range-mouse-forward",
+              "value": 2.2,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/10/desktop-range-mouse-forward.jpg",
+              "sha256": "2c081d1a64c8428270e23e6c01865a66fce498f1c72df5a3061dd76e00e3fc64"
+            },
+            {
+              "state": "range-mouse-reverse",
+              "value": 1.3,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/10/desktop-range-mouse-reverse.jpg",
+              "sha256": "ef4adcdb82c656b09ccc77548ad5622a4ac26578940e55cbb09cf632d93337ee"
+            },
+            {
+              "state": "range-physical-return",
+              "value": 1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/10/desktop-range-physical-return.jpg",
+              "sha256": "34de33752ba3aafd0d0e7b5193926377673eeafa33bd1c0dd65ee172456addea"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"11\"]",
+          "tag": "BUTTON",
+          "type": "button",
+          "href": null,
+          "label": "",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-11-default.jpg",
+              "sha256": "ac6822ff6dcb0c0d2e14cb54c1e4b436f3c6f578ef6e9c539bfdff37f6bbf5bd"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-11-hover.jpg",
+              "sha256": "591ebbe45e2470f1c738e8b008712c9c9090717991197a1194ff36249c3def4b"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-11-focus.jpg",
+              "sha256": "d34be39e7c7d756aa9596825743baef0b3c9138e9532bd5be8f0730b269a9bc6"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-11-activated.jpg",
+              "sha256": "c37902cb8969c907d86f42b2361241d23b31d1ebd7e4282595929ae2e5ef254e"
+            },
+            {
+              "state": "mouse-result",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-11-physical.jpg",
+              "sha256": "c37902cb8969c907d86f42b2361241d23b31d1ebd7e4282595929ae2e5ef254e"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"12\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#about",
+          "label": "",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-12-default.jpg",
+              "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-12-hover.jpg",
+              "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-12-focus.jpg",
+              "sha256": "251c43c5a38330105b817bd2e47155585615285df1b0d404a1edec84946f9835"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-12-navigated.jpg",
+              "sha256": "160d08fcdcbf6514ca9c000563cfd913049d136206e44a4ce636b048631410af"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"13\"]",
+          "tag": "A",
+          "type": "",
+          "href": "mailto:hello@example.com",
+          "label": "hello@example.com\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-13-default.jpg",
+              "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-13-hover.jpg",
+              "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-13-focus.jpg",
+              "sha256": "6d3d3e9cf75f2bdbad722a91ecea6f86f3c8151e6e64627a1b90dc8e0d650f1d"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"14\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Back to the beginning ↑",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-14-default.jpg",
+              "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-14-hover.jpg",
+              "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-14-focus.jpg",
+              "sha256": "e5adae5dcb29e32ed2c194fbd48fbdafec2d8e688d746fca3c010d23f728324b"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/desktop-14-navigated.jpg",
+              "sha256": "f8036f224d85fef81ef3a23d1945c15d98410c0f661405399d0e85869903cee2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "controls": [
+        {
+          "selector": "[data-webart-audit=\"0\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "Skip to photographs",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-0-default.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-0-hover.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-0-focus.jpg",
+              "sha256": "9283ec8a2a6fc5205ae7639018462ff4ed7d016d34f0eb2f3a307fbac03db483"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-0-navigated.jpg",
+              "sha256": "3fb18be83196a4a9219a79fffca3e2242a0ca581e6532bf7973cdaf51f83d341"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"1\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Near and Far, back to beginning",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-1-default.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-1-hover.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-1-focus.jpg",
+              "sha256": "640bff4b555a817cf736bd177fda46f6a6818a9a7a1df4e8d5e0c08371b1a8c4"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-1-navigated.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"3\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#about",
+          "label": "The other side",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-2-default.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-2-hover.jpg",
+              "sha256": "df2dba65e1dfee16320b259345bb727656df5b31f9419780e336531c5e7248ff"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-2-focus.jpg",
+              "sha256": "93c8320df77f14ff7141aedac02db7548fdd7db3db9115dc2889954aec526aa7"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-2-navigated.jpg",
+              "sha256": "8b8e2327a07754548bce2697572711ef824fe377367fdadf145c08eb16c544e8"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"4\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-ending",
+          "label": "Contact ↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-3-default.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-3-hover.jpg",
+              "sha256": "c546c9bdb5e911564d51f5b36f80d685bbfed17b800f39107f9b2fea1a6d81bf"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-3-focus.jpg",
+              "sha256": "fe78abbfacf670139f5f6ea220e9cb3451eb3e0ad94599dfcbcf44b6291ad108"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-3-navigated.jpg",
+              "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"5\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "View Red thread, photograph 1 of 3",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-4-default.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-4-hover.jpg",
+              "sha256": "aa19b805d55151d9afd08682f688177d4a82f95f303cd179f648d3cf3e41e4e5"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-4-focus.jpg",
+              "sha256": "07b4b9751ba39e2f609ef4390e57e0a090a36113098708941faf524232c6b139"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-4-navigated.jpg",
+              "sha256": "2af165629ab28311a4112311d6b8b7a50b3297274b73eec8edc136328490ebde"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"6\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "View Through the red, photograph 2 of 3",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-5-default.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-5-hover.jpg",
+              "sha256": "924bea1025738f35e4640241e68148c669aa53e2470ba87c8505dbfe6c8719b4"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-5-focus.jpg",
+              "sha256": "04391a6482b77ea856df0ddbc6b9c63a252d6895944482798191c268f2a7038c"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-5-navigated.jpg",
+              "sha256": "ffced3a8be9e66dafe218cf1b7a4186e13cd37059910671daaf5027739790cee"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"7\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "View Out of the blue, photograph 3 of 3",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-6-default.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-6-hover.jpg",
+              "sha256": "48b4c72a760a2f8365eee5905fa9b31e0bd9b7f6ed390e4332de0a80ede772d5"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-6-focus.jpg",
+              "sha256": "22016745d84a6379e6d8879d64def3b755d48d3664631e6d50a014501e097029"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-6-navigated.jpg",
+              "sha256": "e5855eb9a136e24e6d54845b7a4083549cf9be7343a195965783b277fe237edc"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"8\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Take a closer look ↓",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-7-default.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-7-hover.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-7-focus.jpg",
+              "sha256": "a326a2f1d13b8c508969400fa3eefe088c5ea479bfdcd2189e40e9443301337b"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-7-navigated.jpg",
+              "sha256": "76c8a9808a06ef9e3cf8cf41d68fb191819ca1fae39f3fe9ca06d8e97b4d8958"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"9\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-8-default.jpg",
+              "sha256": "ad537f05bbb02fe8d5cec92153c600de07e9235e5110d20c329efcd0c7b752e0"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-8-hover.jpg",
+              "sha256": "ad537f05bbb02fe8d5cec92153c600de07e9235e5110d20c329efcd0c7b752e0"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-8-focus.jpg",
+              "sha256": "1a54dfdebb44f10dd6698237712185cad39fbb4d7b7b4e6ed485b7db3685f239"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-8-navigated.jpg",
+              "sha256": "349ac1c2dc4a9e19ec09e45584833068c8a6721877530d5af1015e2cf0616b6c"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"10\"]",
+          "tag": "INPUT",
+          "type": "range",
+          "href": null,
+          "label": "Viewing distance",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-9-default.jpg",
+              "sha256": "a9ac92b0d720cf925b1fd298ae69539bf2cac0181bf2484fb933ef8bf21ff755"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-9-hover.jpg",
+              "sha256": "a9ac92b0d720cf925b1fd298ae69539bf2cac0181bf2484fb933ef8bf21ff755"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-9-focus.jpg",
+              "sha256": "3f996287aace4edf5aac90c01a6f6eab35e6225f30b72c8d40820c9b9b54672f"
+            },
+            {
+              "state": "range-minimum",
+              "value": 1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/mobile-range-minimum.jpg",
+              "sha256": "3f996287aace4edf5aac90c01a6f6eab35e6225f30b72c8d40820c9b9b54672f"
+            },
+            {
+              "state": "range-keyboard-step",
+              "value": 1.1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/mobile-range-keyboard-step.jpg",
+              "sha256": "897a2314da3ba23836c88d0a69b2ba0075b1447364307dcf9d9eb470a3e6dcd1"
+            },
+            {
+              "state": "range-maximum",
+              "value": 2.4,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/mobile-range-maximum.jpg",
+              "sha256": "1160647e1272253883b0c9a0781cd2dcb2d138badc0b03d2784ee2b5f1e79c82"
+            },
+            {
+              "state": "range-keyboard-return",
+              "value": 1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/mobile-range-keyboard-return.jpg",
+              "sha256": "3f996287aace4edf5aac90c01a6f6eab35e6225f30b72c8d40820c9b9b54672f"
+            },
+            {
+              "state": "range-touch-forward",
+              "value": 2.2,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/mobile-range-touch-forward.jpg",
+              "sha256": "3195f4be28c96cb5a8b5f88f8d61c61398de01946046473559dd59a3c4cd1c4e"
+            },
+            {
+              "state": "range-touch-reverse",
+              "value": 1.3,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/mobile-range-touch-reverse.jpg",
+              "sha256": "6372630142adf5dc25e1c8f595011309bbf18d0a09d10ee57fb105f06b6ae875"
+            },
+            {
+              "state": "range-physical-return",
+              "value": 1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/mobile-range-physical-return.jpg",
+              "sha256": "3f996287aace4edf5aac90c01a6f6eab35e6225f30b72c8d40820c9b9b54672f"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"11\"]",
+          "tag": "BUTTON",
+          "type": "button",
+          "href": null,
+          "label": "",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-10-default.jpg",
+              "sha256": "1160647e1272253883b0c9a0781cd2dcb2d138badc0b03d2784ee2b5f1e79c82"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-10-hover.jpg",
+              "sha256": "1160647e1272253883b0c9a0781cd2dcb2d138badc0b03d2784ee2b5f1e79c82"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-10-focus.jpg",
+              "sha256": "e924044698c769356ef8aec63c9abe888aa9167eee2c26ec1464987c750d3154"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-10-activated.jpg",
+              "sha256": "32058932141413932a1df058a9403696b4d5c38f7b87d82ae5396f0b55863d83"
+            },
+            {
+              "state": "touch-result",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-10-physical.jpg",
+              "sha256": "32058932141413932a1df058a9403696b4d5c38f7b87d82ae5396f0b55863d83"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"12\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#about",
+          "label": "",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-11-default.jpg",
+              "sha256": "dbdc3da4d825665a9e05ea64405c52cea23a609dd1e6d7bbbf9b481e8cad5233"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-11-hover.jpg",
+              "sha256": "dbdc3da4d825665a9e05ea64405c52cea23a609dd1e6d7bbbf9b481e8cad5233"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-11-focus.jpg",
+              "sha256": "dc73b5d31c1b243f9e4639470cac6e0500149d5782041d3019c835b04932715e"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-11-navigated.jpg",
+              "sha256": "8b8e2327a07754548bce2697572711ef824fe377367fdadf145c08eb16c544e8"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"13\"]",
+          "tag": "A",
+          "type": "",
+          "href": "mailto:hello@example.com",
+          "label": "hello@example.com\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-12-default.jpg",
+              "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-12-hover.jpg",
+              "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-12-focus.jpg",
+              "sha256": "cc281608111451a489e5179e4f6733392aa05fb525e620046e9fbcd8f12f8313"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"14\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Back to the beginning ↑",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-13-default.jpg",
+              "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-13-hover.jpg",
+              "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-13-focus.jpg",
+              "sha256": "2a45a4db78243ba815a86855e6e6f04f3915280df562e5ce26cf2710f5c389ef"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/mobile-13-navigated.jpg",
+              "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "controls": [
+        {
+          "selector": "[data-webart-audit=\"0\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "Skip to photographs",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-0-default.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-0-hover.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-0-focus.jpg",
+              "sha256": "10afe048262a1a0a64e3200a1feb100b4f6d629a69b46f2300e21a81effcaa7a"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-0-navigated.jpg",
+              "sha256": "32c2ffdff5acc525ee23ee08cdc72d8ac0b74a474a6b0d0c6b39dffa46b6ee1b"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"1\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Near and Far, back to beginning",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-1-default.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-1-hover.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-1-focus.jpg",
+              "sha256": "018cd4ff63380e84e9a404a6346aec8782ac6e084ffde6b27937f8758b21e9fe"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-1-navigated.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"3\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#about",
+          "label": "The other side",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-2-default.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-2-hover.jpg",
+              "sha256": "832f7dfe16a4d9367caaa3fbf8c239a7c97271a4a9fa331911a509d7054ae4fe"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-2-focus.jpg",
+              "sha256": "a318d639a5b5dd240b2a0088561e30d527da19b90a7eac08119830365bbbb7c7"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-2-navigated.jpg",
+              "sha256": "d6f766e4e77c209e97d642dba45276e5c52c0c19a7df75fc8c11cac906e8152d"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"4\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-ending",
+          "label": "Contact ↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-3-default.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-3-hover.jpg",
+              "sha256": "d0cf105cbccb2bfb4e37b33d36b963286ee458cb3b3cf77ca627766c1ba8b64b"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-3-focus.jpg",
+              "sha256": "83e80582bcc011bd6f48f282b37ade3a49b8a5791a808193e3c37813832d2f39"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-3-navigated.jpg",
+              "sha256": "a9cd70f7e99e717c3bff7e292d491497d0115d54208d8278eb039e18c38120b7"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"5\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "View Red thread, photograph 1 of 3",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-4-default.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-4-hover.jpg",
+              "sha256": "a4e0fedd2c5124cd9de31f61c44771214c9deadc7d6953d3330efed5aaf58627"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-4-focus.jpg",
+              "sha256": "2db56d7db35af2569c2b44fb7d1670fecd5958f1057310c9ea521bc2843525b0"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-4-navigated.jpg",
+              "sha256": "2e23cd5e41bf672c93f03820721c73408aef9f3e04edc3b32e4ad6992467dcc2"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"6\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "View Through the red, photograph 2 of 3",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-5-default.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-5-hover.jpg",
+              "sha256": "c33f560a546c3bdcf45ad2997a47dadecc9b73d044b3314f9dfba68da9eed925"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-5-focus.jpg",
+              "sha256": "225e9dd869ec91e30ebc7720aa72e4925743a9d6c31ccccc4e25d2ca06a400c7"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-5-navigated.jpg",
+              "sha256": "ab4e424836ed7bed4211db4c61eeabd5a2bb72787a6cbb1366e00494e165fcb3"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"7\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "View Out of the blue, photograph 3 of 3",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-6-default.jpg",
+              "sha256": "78d5357a52112f3c9ff802db5c6e493acf56de5f7af302445c746daced76bfef"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-6-hover.jpg",
+              "sha256": "fa7b1d03ad70aef767ad3a8dce2751a87d034c5b77c00b8a3f60ba3cfe1aa2f8"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-6-focus.jpg",
+              "sha256": "065ec95b991405c6171b947ad8999fb70f1f752273232ca87b44541601a47fea"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-6-navigated.jpg",
+              "sha256": "5ffd6ddaab23136050563844af9c5856cb28fbbeef1e4c5ec060440ba0eef287"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"8\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Take a closer look ↓",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-7-default.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-7-hover.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-7-focus.jpg",
+              "sha256": "d5268c814ca9c1e5a59faf45ecdbdaa2655f149969666f30d6aeb6927a065123"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-7-navigated.jpg",
+              "sha256": "26ecb367d1af8ed9699dbd323e51d1766d74cda153bf6fe42cf8eeb70bbc5ba4"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"9\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-8-default.jpg",
+              "sha256": "fe35b497f765a16ce93a768215cac52328d355994574556072c70af8cc51b55f"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-8-hover.jpg",
+              "sha256": "fe35b497f765a16ce93a768215cac52328d355994574556072c70af8cc51b55f"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-8-focus.jpg",
+              "sha256": "92154b70ede032aed40421ce56cd6868aa48b9d104e2fd56c6d5be0aa8041d6a"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-8-navigated.jpg",
+              "sha256": "0f3fe06d0f5cf20c127fcf61b3d19c7e626da9b9afe85f64ae02b0f3d0596329"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"10\"]",
+          "tag": "INPUT",
+          "type": "range",
+          "href": null,
+          "label": "Viewing distance",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-9-default.jpg",
+              "sha256": "fe6e1d744667f4531e9c1e53653607cecb8b9937be9d032c377706feb2eaff3e"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-9-hover.jpg",
+              "sha256": "fe6e1d744667f4531e9c1e53653607cecb8b9937be9d032c377706feb2eaff3e"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-9-focus.jpg",
+              "sha256": "424ad482d1662eeb7d1fe1ab2a33f351508df7be47edfc1afd00cc5388abc63b"
+            },
+            {
+              "state": "range-minimum",
+              "value": 1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/narrow-range-minimum.jpg",
+              "sha256": "424ad482d1662eeb7d1fe1ab2a33f351508df7be47edfc1afd00cc5388abc63b"
+            },
+            {
+              "state": "range-keyboard-step",
+              "value": 1.1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/narrow-range-keyboard-step.jpg",
+              "sha256": "c2ccb1e2dcda78efd1bf35665d922bc1e367c5d4e38dc521851bcf9ef96e89f4"
+            },
+            {
+              "state": "range-maximum",
+              "value": 2.4,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/narrow-range-maximum.jpg",
+              "sha256": "82479ed53fc20a5db960e88497cf45ba09b3a8671ce9f5a2dcf4aa260e6b9fa2"
+            },
+            {
+              "state": "range-keyboard-return",
+              "value": 1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/narrow-range-keyboard-return.jpg",
+              "sha256": "424ad482d1662eeb7d1fe1ab2a33f351508df7be47edfc1afd00cc5388abc63b"
+            },
+            {
+              "state": "range-touch-forward",
+              "value": 2.2,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/narrow-range-touch-forward.jpg",
+              "sha256": "6415f1b998ead770a2c50e0e3a09dc31324f942dbf1bbb68442b42cfa3b2b085"
+            },
+            {
+              "state": "range-touch-reverse",
+              "value": 1.3,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/narrow-range-touch-reverse.jpg",
+              "sha256": "65f6acb6b16828d91992a3f1d9c28d20bb0f4988fafb732e5da88f6e28b919d7"
+            },
+            {
+              "state": "range-physical-return",
+              "value": 1,
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/9/narrow-range-physical-return.jpg",
+              "sha256": "424ad482d1662eeb7d1fe1ab2a33f351508df7be47edfc1afd00cc5388abc63b"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"11\"]",
+          "tag": "BUTTON",
+          "type": "button",
+          "href": null,
+          "label": "",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-10-default.jpg",
+              "sha256": "d9b4af2e8d03672ee9291314cf0264716d98eff40bb611068b2c779a07e874f2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-10-hover.jpg",
+              "sha256": "d9b4af2e8d03672ee9291314cf0264716d98eff40bb611068b2c779a07e874f2"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-10-focus.jpg",
+              "sha256": "1ada622b6ea94b0b6ce3e1fecb027a4a176a03329a6d6fedb72a0f8a53f9d6f2"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-10-activated.jpg",
+              "sha256": "59428f2610b38e72a933a48cc832e810736316cd26258a61a7363342da16e6fe"
+            },
+            {
+              "state": "touch-result",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-10-physical.jpg",
+              "sha256": "65dab52ace5ce85c0252632d28355a111bc0913aa25d9b73faea8f0bc1e51e24"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"12\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#about",
+          "label": "",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-11-default.jpg",
+              "sha256": "53ce18997834914d3ee9d30b0fb7c2cf3745a9643933add134fc656e9cbb2c6c"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-11-hover.jpg",
+              "sha256": "53ce18997834914d3ee9d30b0fb7c2cf3745a9643933add134fc656e9cbb2c6c"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-11-focus.jpg",
+              "sha256": "8df095e038ddf1a6f113b142567fbeb56aca931bcb513596d5a20c744a31ddd9"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-11-navigated.jpg",
+              "sha256": "d6f766e4e77c209e97d642dba45276e5c52c0c19a7df75fc8c11cac906e8152d"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"13\"]",
+          "tag": "A",
+          "type": "",
+          "href": "mailto:hello@example.com",
+          "label": "hello@example.com\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-12-default.jpg",
+              "sha256": "a9cd70f7e99e717c3bff7e292d491497d0115d54208d8278eb039e18c38120b7"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-12-hover.jpg",
+              "sha256": "a9cd70f7e99e717c3bff7e292d491497d0115d54208d8278eb039e18c38120b7"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-12-focus.jpg",
+              "sha256": "6a004859c6f90a6eae797d48861e1345c8592b3a1ecce9a153302a960901d7c4"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"14\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Back to the beginning ↑",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-13-default.jpg",
+              "sha256": "a9cd70f7e99e717c3bff7e292d491497d0115d54208d8278eb039e18c38120b7"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-13-hover.jpg",
+              "sha256": "a9cd70f7e99e717c3bff7e292d491497d0115d54208d8278eb039e18c38120b7"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-13-focus.jpg",
+              "sha256": "8596e16a26146bd89460be81fc085e08100a3ccb238a01335fa1aecb9f4e26d0"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa/controls/narrow-13-navigated.jpg",
+              "sha256": "51a9bcfb0700ab1b72f6ea037af8e829abb66814f52659e04b8420bdeff05fec"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "started": "2026-10-21T15:44:15.675Z",
+  "finished": "2026-10-21T15:47:51.554Z",
+  "sourceSha256": "f955a16f31e4555b2c68f1ca3f3691f51293024356b5c1df356f3519aa32416b"
+}

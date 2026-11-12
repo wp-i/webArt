@@ -1,0 +1,29 @@
+{
+  "url": "https://www.durup.com/",
+  "output": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04",
+  "enterMs": 8000,
+  "ready": "document.documentElement.scrollHeight>9000 && document.fonts.status==='loaded'",
+  "readyTimeoutMs": 20000,
+  "states": {
+    "opening": 0,
+    "transition": 0.26,
+    "middle": {
+      "selector": "main section:nth-of-type(3)",
+      "offset": 0
+    },
+    "ending": 1
+  },
+  "pointer": {
+    "settleMs": 900,
+    "axis": "vertical",
+    "retainPosition": true,
+    "position": 0.76,
+    "selector": "main section:nth-of-type(3) ul"
+  },
+  "settleMs": 550,
+  "deadlineMs": 240000,
+  "initialPointer": {
+    "y": 0.02,
+    "x": 0.98
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collection": {
+    "directory": ".",
+    "port": 4180,
+    "title": "WebArt"
+  },
+  "pace-review": {
+    "directory": "renderers/pace-precision-v2/source",
+    "port": 4323,
+    "title": "Pace",
+    "rendererId": "pace-precision-v2"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "origin": "http://127.0.0.1:4180/",
+  "output": "docs/evidence/publication/api-20261023020510668-730eef15/attempt-03",
+  "images": 6,
+  "paintedImages": ".work-preview img",
+  "fonts": [
+    "Manrope"
+  ],
+  "scenes": [
+    ".intro",
+    ".work-grid",
+    ".work:nth-child(3)",
+    ".site-footer"
+  ],
+  "documentPaths": [
+    "/",
+    "/preview.html",
+    "/designs/001-weight-of-light/",
+    "/weight-of-light-source.zip",
+    "/designs/006-ivory-woven-v1/",
+    "/house-of-ivory-source.zip",
+    "/designs/007-campovivo/",
+    "/campovivo-source.zip",
+    "/designs/008-sill/",
+    "/sill-source.zip",
+    "/designs/009-near-and-far-editorial-v1/",
+    "/near-and-far-source.zip",
+    "/designs/010-pace-precision-v2/",
+    "/pace-source.zip"
+  ]
+}

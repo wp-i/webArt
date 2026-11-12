@@ -1,0 +1,133 @@
+{
+  "id": "007",
+  "status": "reference-review",
+  "brief": "docs/pages/007-shell-studies.md",
+  "referenceMap": "docs/references/007-shell-studies.md",
+  "assetPlan": {
+    "record": "docs/assets/007-shell-studies.md",
+    "rightsVerified": false,
+    "replacementCompared": false
+  },
+  "referenceCapture": {
+    "url": "https://landonorris.com/",
+    "output": "docs/evidence/redo-v2/2026-10-31/007-lando-reference-01"
+  },
+  "referenceObservation": "本次正常/减少动态、实际连续鼠标和真实手指、有限终点、正常完整反向重入及桌面作品到佩戴照片均有实图；手机集合照片展开未证，早期hover尚在加载，保留这些限制。",
+  "preparationNotes": [
+    "此计划是参考审查输入；没有取得最终资产、创建候选或授予素材准入。",
+    "候选选择器预留未来语义接口，不声称源站在相同选择器下绘制。",
+    "源站完整路径全部进入证据；拟精简独立推广与作品数量仍须试片比较，不提前宣布删减无损。"
+  ],
+  "coreSignatures": [
+    {
+      "name": "portrait-fitted-spatial-shell-disclosure",
+      "visualPurpose": "默认完整正面肖像与贴合头型的实时头盔壳层形成一个观看对象，真实连续鼠标或明确操控模式下的手指运动在脸部显现反光护目镜及壳片，停止和返回有可辨结果；不以普通二维照片擦除或整体微动替代。"
+    },
+    {
+      "name": "signature-portrait-to-work-image-transition",
+      "visualPurpose": "原生滚动将主肖像收成署名影像，并经过深底到浅底的连续交接进入错落工作/人物/物件影像；不同尺度与色彩层次推进具体身份观看，不以独立长宣言或无关图库填充中段。"
+    },
+    {
+      "name": "helmet-surface-to-worn-context-collection",
+      "visualPurpose": "具体头盔表面作品以不同设计和工艺形成集合，桌面真实进入从独立物件切到同盔佩戴照片并在离开时复原；手机默认保持完整物件集合，源站手机照片展开未证，不称该操作通过。"
+    },
+    {
+      "name": "same-person-whole-helmet-visual-closure",
+      "visualPurpose": "同一人物、服装和完整头盔进入独立深色异形框，署名及简短字形与主体形成完整有限收束，并容纳明确联系行动；不复制源商标，不改为普通工具页脚或重复开场。"
+    }
+  ],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "具体正面人物占据默认主要构图，成熟全罩头盔壳层与眼、鼻、下颌和服装位置相合；人物在无输入时完整可见，不能隐藏在入口、普通几何或模糊占位后。",
+        "material": "人物肌肤、发丝和服装的摄影细节与头盔硬壳、反光护目镜及透明线框层形成明确工艺差别，实际运动显露仍保有真实高光和厚度，不能用统一塑料表面冒充。",
+        "composition": "浅底大幅肖像与小型身份/行动形成精确比例，壳片作用落在对应脸部，手机仍保持面部、服装和明确操控入口，不将主体缩为大标题旁的小装饰。",
+        "role": "默认即有具体人物和主题，连续鼠标或真实手指进一步揭示同一人物的佩戴身份；进入、离开、停止、返回及减少动态需要同场景真实过程，不能从文件变化推断。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 150
+        },
+        "subjectSelectors": [
+          {
+            "selector": "[data-visual=\"head-shell\"]",
+            "minimumViewportArea": 0.45,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "由署名肖像进入同一人物、其工作和具体物件的错落影像，当前主要照片有可辨人物/作品而非随机背景；不能以长宣言或重复同一主图撑起过渡。",
+        "material": "彩色人物和物件摄影与灰阶辅助照片有清楚表面/光线差别，深浅底交接维持主体身份和边缘工艺；不能将未加载照片、泛化纹理或统一淡入当作材料完成。",
+        "composition": "不同尺度、错落位置和底色连续变化共同形成实际空间交接，手机以独立两列节奏保留至少一个完整主要主体，标题、说明与照片不可互相遮挡或被固定工具压住。",
+        "role": "真实正反滚动连接开场身份、署名与作品过程，停止和重入仍可解释当前关系；精选影像须有新内容，不能删成无关图片列表后提前宣布保留源站节奏。",
+        "visibleCharacters": {
+          "desktop": 200,
+          "mobile": 180
+        },
+        "subjectSelectors": [
+          {
+            "selector": "[data-visual=\"work-timeline\"]",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "具体且有差别的全罩头盔表面作品形成精选集合，至少可辨外壳、护目镜、开口和各自设计内容；不以同一物件仅改颜色、普通卡片或无关模型凑数。",
+        "material": "各件作品的反射、表面设计、边缘和工艺可辨，桌面进入真实佩戴/制作照片仍能确认是同一件作品，不能用普通高亮、通用塑料或错误品牌纹样代替。",
+        "composition": "深色集合与邻接大幅佩戴影像形成独立章节，物件大小、卡框和短标签有秩序；手机保留具体主体和清晰标签，不将一排微小图标或工具菜单当作作品场景。",
+        "role": "独立物件与其实际佩戴/使用状态形成对应的观看深化，桌面进入和离开可逆；手机源站首卡点击照片未证，新版触摸查看需另行实作验证，不据点击成功当保留。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 220
+        },
+        "subjectSelectors": [
+          {
+            "selector": "[data-visual=\"surface-collection\"]",
+            "minimumViewportArea": 0.4,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "开场同一人物及服装佩戴与集合对应的完整头盔，构成真正有限终点的主要作品；不是无关新人物、重复开场照片或普通联系图标。",
+        "material": "完整头盔的护目镜反射、壳体细节和服装纹理相互协调，边缘、遮挡与人物肩颈可信；手机仍有同等具体的材质和可辨身份，不能靠强发光或深色掩盖缺陷。",
+        "composition": "深色异形框、署名/短字形和完整佩戴主体形成独立收束，联系工具服从主要作品；手机重排必要行动与主体而不裁断头盔、压住说明或缩成装饰。",
+        "role": "真实滚动到有限终点且额外输入仍维持完整结果，反向、停止和减少动态有实际证据；主体延续之前身份同时完成新的佩戴观看，不另加空洞页脚制造长度。",
+        "visibleCharacters": {
+          "desktop": 220,
+          "mobile": 220
+        },
+        "subjectSelectors": [
+          {
+            "selector": "[data-visual=\"worn-closure\"]",
+            "minimumViewportArea": 0.3,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": [
+      {
+        "id": "person-and-outfit-through-the-work",
+        "signature": "same-person-whole-helmet-visual-closure",
+        "states": [
+          "opening",
+          "transition",
+          "ending"
+        ],
+        "identity": "开场人物、错落工作影像和末段佩戴主体须可辨为同一人物及一致关键服装/形态，不能仅凭同一配色、同类人物或相同标签声称身份保留。"
+      },
+      {
+        "id": "collected-shell-to-worn-closure",
+        "signature": "helmet-surface-to-worn-context-collection",
+        "states": [
+          "middle",
+          "ending"
+        ],
+        "identity": "精选集合中对应的头盔须与末段实际佩戴的同一件作品保持轮廓、护目镜、开口及具体表面设计身份，不能用无关绿色头盔或通用形状建立联系。"
+      }
+    ]
+  }
+}

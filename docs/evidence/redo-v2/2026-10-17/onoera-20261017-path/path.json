@@ -1,0 +1,309 @@
+{
+  "url": "https://onoera.com/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-17/onoera-20261017-path/opening.jpg",
+      "sha256": "218efc86d9d1c6a403b80ad4d553a016fd38f146f464822d656a8642a6ff3b8f"
+    },
+    {
+      "state": "early",
+      "y": 1489,
+      "path": "docs/evidence/redo-v2/2026-10-17/onoera-20261017-path/early.jpg",
+      "sha256": "c170c78b3dfdf309d9ef307112306cb30a87b65d5ce8ec83c25459f1a0531085"
+    },
+    {
+      "state": "middle",
+      "y": 3910,
+      "path": "docs/evidence/redo-v2/2026-10-17/onoera-20261017-path/middle.jpg",
+      "sha256": "d3c000f9070acf6295ceb9726e79a6bf1d18ab16e2d2b98516c7c854b41775f9"
+    },
+    {
+      "state": "late",
+      "y": 6981,
+      "path": "docs/evidence/redo-v2/2026-10-17/onoera-20261017-path/late.jpg",
+      "sha256": "11d488342aa7d53df89bf4355842f53669ceb5d6ff44b19af907e20176e5c857"
+    },
+    {
+      "state": "ending",
+      "y": 9308,
+      "path": "docs/evidence/redo-v2/2026-10-17/onoera-20261017-path/ending.jpg",
+      "sha256": "86b1aa700b6eb6377b9901d548a95b148fb6941a4e6a9316d58258a386aee7af"
+    }
+  ],
+  "metadata": {
+    "height": 10208,
+    "headings": [
+      {
+        "text": "1:1 work",
+        "tag": "H2",
+        "class": "framer-text framer-styles-preset-1x4zx4v",
+        "parent": "framer-ah5cmt",
+        "top": 1633
+      },
+      {
+        "text": "1:1 Coaching",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1xr7b40",
+        "parent": "framer-om4vzy",
+        "top": 1860
+      },
+      {
+        "text": "w/ Sophie",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1xr7b40",
+        "parent": "framer-18jjpa4",
+        "top": 1884
+      },
+      {
+        "text": "Private FBR Breathwork Session",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1xr7b40",
+        "parent": "framer-om4vzy",
+        "top": 1860
+      },
+      {
+        "text": "w/ Sophie & Bjoern",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1xr7b40",
+        "parent": "framer-18jjpa4",
+        "top": 1884
+      },
+      {
+        "text": "1:1 Mentoring",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1xr7b40",
+        "parent": "framer-om4vzy",
+        "top": 1860
+      },
+      {
+        "text": "w/ Bjoern",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1xr7b40",
+        "parent": "framer-18jjpa4",
+        "top": 1884
+      },
+      {
+        "text": "Group circles",
+        "tag": "H2",
+        "class": "framer-text framer-styles-preset-1x4zx4v",
+        "parent": "framer-ah5cmt",
+        "top": 2669
+      },
+      {
+        "text": "Find the session that feels right for you.",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1x4zx4v",
+        "parent": "framer-d4s5s9",
+        "top": 2913
+      },
+      {
+        "text": "Couples work",
+        "tag": "H2",
+        "class": "framer-text framer-styles-preset-1x4zx4v",
+        "parent": "framer-ah5cmt",
+        "top": 3921
+      },
+      {
+        "text": "Retreats",
+        "tag": "H2",
+        "class": "framer-text framer-styles-preset-1x4zx4v",
+        "parent": "framer-ah5cmt",
+        "top": 4824
+      },
+      {
+        "text": "Upcoming retreats",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1x4zx4v",
+        "parent": "framer-1hqzycj",
+        "top": 4988
+      },
+      {
+        "text": "Buchenberg Retreat (past)",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1xr7b40",
+        "parent": "framer-123rm1t",
+        "top": 5053
+      },
+      {
+        "text": "Ibiza Weekend Retreat",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1xr7b40",
+        "parent": "framer-123rm1t",
+        "top": 5681
+      },
+      {
+        "text": "Ibiza Couples Retreat (Valentine's Day)",
+        "tag": "H3",
+        "class": "framer-text framer-styles-preset-1xr7b40",
+        "parent": "framer-123rm1t",
+        "top": 6309
+      },
+      {
+        "text": "A six-month journey for young entrepreneurs.",
+        "tag": "H2",
+        "class": "framer-text framer-styles-preset-1xr7b40",
+        "parent": "framer-rg8185",
+        "top": 7613
+      },
+      {
+        "text": "About us",
+        "tag": "H2",
+        "class": "framer-text framer-styles-preset-1x4zx4v",
+        "parent": "framer-rjrq7n",
+        "top": 9026
+      }
+    ],
+    "sections": [],
+    "controls": [
+      {
+        "tag": "A",
+        "text": "Learn more",
+        "class": "framer-mAjoX framer-Qo0pG framer-lol2av framer-v-lol2av framer-n5pfuv"
+      },
+      {
+        "tag": "A",
+        "text": "1:1 work",
+        "class": "framer-38kbF framer-Qo0pG framer-avhddc framer-v-avhddc framer-11mcp8e"
+      },
+      {
+        "tag": "A",
+        "text": "1:1 Coaching\nw/ Sophie\n\n50–60 mins",
+        "class": "framer-8bCdS framer-nZkOo framer-35l6I framer-u8SHX framer-flBrG framer-1z9wsq framer-v-1z9wsq framer-m4ulsp"
+      },
+      {
+        "tag": "A",
+        "text": "Private FBR Breathwork Session\nw/ Sophie & Bj",
+        "class": "framer-8bCdS framer-nZkOo framer-35l6I framer-u8SHX framer-flBrG framer-1z9wsq framer-v-1z9wsq framer-m4ulsp"
+      },
+      {
+        "tag": "A",
+        "text": "1:1 Mentoring\nw/ Bjoern\n\n60–90 min",
+        "class": "framer-8bCdS framer-nZkOo framer-35l6I framer-u8SHX framer-flBrG framer-1z9wsq framer-v-1z9wsq framer-m4ulsp"
+      },
+      {
+        "tag": "A",
+        "text": "Group circles",
+        "class": "framer-38kbF framer-Qo0pG framer-avhddc framer-v-avhddc framer-11mcp8e"
+      },
+      {
+        "tag": "A",
+        "text": "Breathwork Circle in Moabit, Berlin\n\nOctober ",
+        "class": "framer-WumPc framer-35l6I framer-u8SHX framer-1awr9qg framer-v-1awr9qg framer-1kyir01"
+      },
+      {
+        "tag": "A",
+        "text": "View all dates",
+        "class": "framer-mAjoX framer-Qo0pG framer-lol2av framer-v-lol2av framer-n5pfuv"
+      },
+      {
+        "tag": "A",
+        "text": "Couples work",
+        "class": "framer-38kbF framer-Qo0pG framer-avhddc framer-v-avhddc framer-11mcp8e"
+      },
+      {
+        "tag": "A",
+        "text": "Learn more",
+        "class": "framer-mAjoX framer-Qo0pG framer-lol2av framer-v-lol2av framer-n5pfuv"
+      },
+      {
+        "tag": "A",
+        "text": "Retreats",
+        "class": "framer-38kbF framer-Qo0pG framer-avhddc framer-v-avhddc framer-11mcp8e"
+      },
+      {
+        "tag": "A",
+        "text": "Buchenberg Retreat (past)\n\nAug 21–25, 2026\n\nA",
+        "class": "framer-3G256 framer-Qo0pG framer-nZkOo framer-u8SHX framer-11vf3ua framer-v-11vf3ua framer-16s3hdz"
+      },
+      {
+        "tag": "A",
+        "text": "Ibiza Weekend Retreat\n\nJan 20-24, 2027 \n\nFour",
+        "class": "framer-3G256 framer-Qo0pG framer-nZkOo framer-u8SHX framer-11vf3ua framer-v-11vf3ua framer-16s3hdz"
+      },
+      {
+        "tag": "A",
+        "text": "Ibiza Couples Retreat (Valentine's Day)\n\nFeb ",
+        "class": "framer-3G256 framer-Qo0pG framer-nZkOo framer-u8SHX framer-11vf3ua framer-v-11vf3ua framer-16s3hdz"
+      },
+      {
+        "tag": "A",
+        "text": "View all retreats",
+        "class": "framer-mAjoX framer-Qo0pG framer-lol2av framer-v-lol2av framer-n5pfuv"
+      },
+      {
+        "tag": "A",
+        "text": "Learn more",
+        "class": "framer-mAjoX framer-Qo0pG framer-lol2av framer-v-lol2av framer-n5pfuv"
+      },
+      {
+        "tag": "A",
+        "text": "Learn more",
+        "class": "framer-mAjoX framer-Qo0pG framer-lol2av framer-v-lol2av framer-n5pfuv"
+      },
+      {
+        "tag": "A",
+        "text": "Join",
+        "class": "framer-mAjoX framer-Qo0pG framer-lol2av framer-v-ejera1 framer-n5pfuv"
+      },
+      {
+        "tag": "A",
+        "text": "Legal info",
+        "class": "framer-text framer-styles-preset-18dt312"
+      },
+      {
+        "tag": "A",
+        "text": "Privacy policy",
+        "class": "framer-text framer-styles-preset-18dt312"
+      },
+      {
+        "tag": "A",
+        "text": "Terms of service",
+        "class": "framer-text framer-styles-preset-18dt312"
+      }
+    ]
+  },
+  "inventory": {
+    "images": 15,
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1425,
+          "height": 900,
+          "top": 0,
+          "right": 1425,
+          "bottom": 900,
+          "left": 0
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1108,
+        "paused": false
+      }
+    ],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [
+      {
+        "src": "https://framer.com/edit?framerSiteId=e1d662398e7b9ba5e08928823179911182766dc58c8fa6d3f8834af590f9fce6&source=onoera.com&features=%7B%22editorBarDisableFrameAncestorsSecurity%22%3Afalse%2C%22onPageLocalizationSupport%22%3Atrue%2C%22onPageMoveTool%22%3Atrue%2C%22onPageRichTextBlockSelection%22%3Atrue%7D&loadStart=1792211581755",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      }
+    ],
+    "manualRenderReviewRequired": false
+  },
+  "result": "scouted-not-admitted"
+}

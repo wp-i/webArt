@@ -1,0 +1,16 @@
+{
+  "images": 4,
+  "fonts": [
+    "Space Grotesk",
+    "JetBrains Mono"
+  ],
+  "scenes": [
+    "#scene-opening",
+    "#scene-transition",
+    "#scene-middle",
+    "#scene-ending"
+  ],
+  "clipBounds": [],
+  "origin": "http://127.0.0.1:4322/",
+  "output": "docs/evidence/redo-v2/2026-10-16/010-full-qa"
+}

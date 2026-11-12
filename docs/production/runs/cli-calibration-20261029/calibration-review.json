@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 2,
+  "purpose": "reviewer-calibration",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "runId": "2026-10-29-cli-calibration",
+  "reviewer": {
+    "id": "codex-account-default:2026-10-29-cli-calibration",
+    "mode": "evidence-only-fresh-codex-cli",
+    "kind": "fresh-codex-cli",
+    "independent": false,
+    "contextIsolated": true,
+    "contextIsolationScope": "fresh conversation; implementation history not supplied",
+    "implementationContextIncluded": false,
+    "backendIndependenceEstablished": false,
+    "requestedModel": null,
+    "actualModel": null,
+    "modelIdentitySource": null
+  },
+  "samples": [
+    {
+      "id": "008",
+      "sourceSha256": "31892bf10228f07d305ed4bee795c10bed76c5514a06429ab545d10eaeddcd99",
+      "verdict": "below-benchmark",
+      "finding": "开场庭院照片质感自然，但标志、左侧导航与底部标语仅贴边分布，字体与空间影像的关系较弱。中段三张照片等宽齐排，住宅、外楼梯与暗部楼梯之间缺少进一步的视觉组织。页尾有完整联系入口；手机也能顺读，但项目连续堆叠，橙色箭头与标题旁加号重复争夺注意力，整体精修程度未达基准。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/008-1440-opening.png",
+          "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0.16-1.png",
+          "sha256": "fe8aeee474c125ff4803387be57cfcc0d97de139ce10637185050526374dd35b"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0.5-3.png",
+          "sha256": "6f289796234c1b4f0a41c683897a81f23c0d5e70c16ad3cf93994fe1b58c2e20"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-1-6.png",
+          "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/008-390-opening.png",
+          "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/008-390-scroll-0.33-12.png",
+          "sha256": "725d0ce2e02aad7abf3c22717d8a117fa24a847fa4225e15b68f054a1591127e"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/008-390-scroll-0.67-13.png",
+          "sha256": "76ade37796cb70b5519c410b1b046729f5a7d33a5423e87ca16808ad0e777234"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/008-390-scroll-1-14.png",
+          "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "sourceSha256": "057d1fff49885ed00ccd2bae36abcd33ae87fffc4bd7fdbc13b9b31f0444c147",
+      "verdict": "below-benchmark",
+      "finding": "海岸、树影和沙丘照片各有质感，但开场巨大的N、下一段的F与中央照片、右侧导航形成多个分散重心。粗黑窄体贯穿标题和导航，层级变化有限，背景渐变比内容衔接更显眼。桌面结尾左右两区的分量失衡；手机把导航放到宣言之后，开场照片上下留白较大，整页叙事组织未达基准。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/009-1440-opening.png",
+          "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0.16-1.png",
+          "sha256": "79225b087a2179d007d2bb13d0293391e1426073913a399df1a0d8b7c642ad58"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0.5-3.png",
+          "sha256": "2cecfa82a5723f3357fe5517a1c087d409ae32b3423d7c553f64a2a4d2fff7ba"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-1-6.png",
+          "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/009-390-opening.png",
+          "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/009-390-scroll-0.33-12.png",
+          "sha256": "107d89b7bf04722fbe9f90e7c797b05a31189dbedaa3ace351325c3974ffa5d5"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/009-390-scroll-0.67-13.png",
+          "sha256": "2e32bfffef0cd0be6322ace9c614740bf8caf38addbfa93d072cff3f00929edb"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/009-390-scroll-1-14.png",
+          "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "sourceSha256": "4fcd045081962375d946130e871d1fd95df9e1d91a301aa3471016962436abd4",
+      "verdict": "below-benchmark",
+      "finding": "开场大标题与手机模型关系清楚，紫、绿、橙的习惯格也形成统一产品语言，但主要媒体长期局限在细小界面的机身内，大量辅助文字在桌面和手机都显得微弱。主题选择栏到反思段之间留白明显松散，手机需要经过很长的模型展示才进入下一层内容。反思卡和页尾行动区完整，但内容密度与段落节奏仍未达基准。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/010-1440-opening.png",
+          "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0.16-1.png",
+          "sha256": "096b1dba498c71a836865f71b728f2edfb30320c3378dce425a8001336c42aa1"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0.5-3.png",
+          "sha256": "212b9f29139e99ce7c10f7a9ebb194982adabe950e092dc887215c2edf9c467d"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-1-6.png",
+          "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/010-390-opening.png",
+          "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/010-390-scroll-0.33-12.png",
+          "sha256": "23fe83b3fa2ad42d36f02147b08f02ed403f68b675f19f980d8aed983549ec9a"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/010-390-scroll-0.67-13.png",
+          "sha256": "44ee25ef006f9d461bdfcf0f19fad7222a18ddb3170850f31d18d80eff5f9150"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/010-390-scroll-1-14.png",
+          "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "sourceSha256": "3be6deb3cc6893ce3a225c43d7cdd330a3aed8b945269cd77056577262e1f99a",
+      "verdict": "below-benchmark",
+      "finding": "开场超大字标与室内照片有鲜明关系，陶瓷灯、织物和木地板的素材质感可靠，但字标、极窄衬线副标题与正文之间的比例跨度较大。中段宣言后直接进入三张齐排图片，图文编排变化有限。联系区和页脚收束完整；手机字标缩小后表现力下降，两句副标题挤成连续文字，项目之间又出现较长空档，细节控制未达基准。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/006-1440-opening.png",
+          "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0.16-1.png",
+          "sha256": "ed1fd1ce2b24d92a65136664902601cd488c98fa16394c3b99301d0330df1e8f"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0.5-3.png",
+          "sha256": "88cf9cb0605777251c76626a66765c25179fa1cddd526e2cee2472a525f1f813"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-1-6.png",
+          "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/006-390-opening.png",
+          "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/006-390-scroll-0.33-12.png",
+          "sha256": "250546a585a19eccdc9943ff412525f4ea1f3721e96c6d503c95d84ee5a26888"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/006-390-scroll-0.67-13.png",
+          "sha256": "5b15f3778491fa59b09793385cec86c56ff1e583204e4eca4663fb509566bcb7"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/006-390-scroll-1-14.png",
+          "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+        }
+      ]
+    },
+    {
+      "id": "001",
+      "sourceSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+      "verdict": "benchmark",
+      "finding": "开场错位叠合的衬线标题与悬挂薄片的斜向结构相互呼应，细小索引、章节编号及铜色线条形成明确的次级秩序。素材持续呈现纤维、毛边、透光和表面起伏，章节标题、局部放大与最终Remain画面构成完整推进和收束。手机重新安排标题错位与图片裁切，仍保留材质主角和章节节奏；辅助文字偏小，但整体构图与媒体整合最完整。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.33-2.png",
+          "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+          "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "sourceSha256": "46c7d81838525a79057b4d7a98f030222a2befb44b0b7b8719e63c3224d2121f",
+      "verdict": "below-benchmark",
+      "finding": "巨大衬线字标、淡黄文案区与海岸照片建立了清楚开场，制作面食的照片也有可信触感，但后续细长字体与大幅媒体之间的分量差距较大，小号说明难以承接图片。桌面横向图带在右侧露出很窄的第三张，手机标题旁双箭头挤占文字宽度，图注也在横向边缘截断。粉色预约区完成收束，但整页排版精度未达基准。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/007-1440-opening.png",
+          "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0.16-1.png",
+          "sha256": "656cf2ba107a86312b4d986733b6133928e043d50a9520fcc6bb43e6bd48da2a"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0.5-3.png",
+          "sha256": "4d8c3010953e979b1ea8822cf71f9ff8c567f851ad9e0c20062aa57000bba907"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-1-6.png",
+          "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/007-390-opening.png",
+          "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/007-390-scroll-0.33-12.png",
+          "sha256": "f06e68c4a582bd4676403cd01d98f144581d049d40a8839459b600f06408ca9c"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/007-390-scroll-0.67-13.png",
+          "sha256": "9ce0ea2a19b47b9cc09abf49312165e65fd69f762f9ee2663159a09f02d3c41c"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/007-390-scroll-1-14.png",
+          "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+        }
+      ]
+    }
+  ],
+  "reviewReceipt": {
+    "path": "docs/production/runs/cli-calibration-20261029/cli-review/01-calibration-cef4dd63e4/consumed/receipt.json",
+    "sha256": "6860ef92fa8aa5bb33fcd81ee434fc2d09d7d59c603181bd9c67ba2ac49b4b7a"
+  }
+}

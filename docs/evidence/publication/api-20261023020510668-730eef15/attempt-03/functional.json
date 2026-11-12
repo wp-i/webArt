@@ -1,0 +1,525 @@
+{
+  "started": "2026-10-24T02:43:24.980Z",
+  "checks": {
+    "removedControlsAndLegacyParameters": true,
+    "returnRestores": {
+      "url": "/",
+      "scroll": 68
+    },
+    "keyboardAndDisclosure": true,
+    "touchViewports": [
+      {
+        "width": 390,
+        "trustedTouch": true,
+        "legacyParametersIgnored": true,
+        "preview": "006"
+      },
+      {
+        "width": 320,
+        "trustedTouch": true,
+        "legacyParametersIgnored": true,
+        "preview": "006"
+      }
+    ],
+    "previewWarmups": [
+      {
+        "id": "009",
+        "pendingLazy": 1,
+        "wheelSteps": 8,
+        "openingScrollY": 0,
+        "endingScrollY": 4170,
+        "restoredScrollY": 0
+      }
+    ],
+    "invalidPreview": true,
+    "noScript": true,
+    "trustedTouch": true
+  },
+  "previews": [
+    {
+      "id": "001",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            }
+          ],
+          "title": "The Weight of Light"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            }
+          ],
+          "title": "The Weight of Light"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            }
+          ],
+          "title": "The Weight of Light"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "006",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Manrope",
+              "status": "loaded"
+            }
+          ],
+          "title": "House of Ivory — Woven spaces"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Manrope",
+              "status": "loaded"
+            }
+          ],
+          "title": "House of Ivory — Woven spaces"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Manrope",
+              "status": "loaded"
+            }
+          ],
+          "title": "House of Ivory — Woven spaces"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "007",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Display",
+              "status": "loaded"
+            },
+            {
+              "family": "Editorial",
+              "status": "loaded"
+            }
+          ],
+          "title": "Campovivo — A day well spent"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Display",
+              "status": "loaded"
+            },
+            {
+              "family": "Editorial",
+              "status": "loaded"
+            }
+          ],
+          "title": "Campovivo — A day well spent"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Display",
+              "status": "loaded"
+            },
+            {
+              "family": "Editorial",
+              "status": "loaded"
+            }
+          ],
+          "title": "Campovivo — A day well spent"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "008",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Studio",
+              "status": "loaded"
+            }
+          ],
+          "title": "Sill. — Spaces to live in"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Studio",
+              "status": "loaded"
+            }
+          ],
+          "title": "Sill. — Spaces to live in"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Studio",
+              "status": "loaded"
+            }
+          ],
+          "title": "Sill. — Spaces to live in"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "009",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Bodoni Moda",
+              "status": "loaded"
+            },
+            {
+              "family": "Inter",
+              "status": "loaded"
+            }
+          ],
+          "title": "Near & Far — A study in character"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Bodoni Moda",
+              "status": "loaded"
+            },
+            {
+              "family": "Inter",
+              "status": "loaded"
+            }
+          ],
+          "title": "Near & Far — A study in character"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Bodoni Moda",
+              "status": "loaded"
+            },
+            {
+              "family": "Inter",
+              "status": "loaded"
+            }
+          ],
+          "title": "Near & Far — A study in character"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "010",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Space Grotesk",
+              "status": "loaded"
+            },
+            {
+              "family": "JetBrains Mono",
+              "status": "loaded"
+            }
+          ],
+          "title": "Pace — Precision in motion"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Space Grotesk",
+              "status": "loaded"
+            },
+            {
+              "family": "JetBrains Mono",
+              "status": "loaded"
+            }
+          ],
+          "title": "Pace — Precision in motion"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Space Grotesk",
+              "status": "loaded"
+            },
+            {
+              "family": "JetBrains Mono",
+              "status": "loaded"
+            }
+          ],
+          "title": "Pace — Precision in motion"
+        }
+      ],
+      "mobileToolbar": "passed"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "001",
+      "bytes": 5810208,
+      "sha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0",
+      "nativeClick": true
+    },
+    {
+      "id": "006",
+      "bytes": 4415983,
+      "sha256": "b6b5d5958a084c3cf0f6c2cbca910c01893e788cbf93f9a3132843b310e9524a",
+      "nativeClick": true
+    },
+    {
+      "id": "007",
+      "bytes": 2313424,
+      "sha256": "9aa7e97c355ee902f33ef3199afff7657ea7a54ffdec49709e95e8e301770fcf",
+      "nativeClick": true
+    },
+    {
+      "id": "008",
+      "bytes": 1740847,
+      "sha256": "f3054f5f8f18982234d039a1a3b4bbef79693ad402a57bba24b88f657341141c",
+      "nativeClick": true
+    },
+    {
+      "id": "009",
+      "bytes": 2399890,
+      "sha256": "f374433f4392eaef7acd6a063977de853eba1a9d2f452581ae281fb071adcf0d",
+      "nativeClick": true
+    },
+    {
+      "id": "010",
+      "bytes": 710412,
+      "sha256": "bb150313c0142dd37ee4cdf9cd227cf858d45272a160fabc05d4cd51eed5c351",
+      "nativeClick": true
+    }
+  ],
+  "errors": [],
+  "currentPreview": {
+    "id": "010",
+    "device": "mobile",
+    "width": 390,
+    "overflow": false,
+    "missing": 0,
+    "fonts": [
+      {
+        "family": "Space Grotesk",
+        "status": "loaded"
+      },
+      {
+        "family": "JetBrains Mono",
+        "status": "loaded"
+      }
+    ],
+    "title": "Pace — Precision in motion"
+  },
+  "result": "passed",
+  "finished": "2026-10-24T02:43:47.306Z"
+}

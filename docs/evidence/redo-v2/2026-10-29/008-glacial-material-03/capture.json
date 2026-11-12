@@ -1,0 +1,513 @@
+{
+  "purpose": "Actual material/geometry trial; no visual admission, full template or publication",
+  "url": "http://127.0.0.1:4337/",
+  "started": "2026-10-29T15:44:34.140Z",
+  "version": "v2",
+  "files": [
+    {
+      "path": "assets/owned/sill-glacial-20261029/v2/geometry.js",
+      "sha256": "8ea7e9dd059b080e7715ba9336b7615189cef2a2547b483769a9e3fa4259ecbd"
+    },
+    {
+      "path": "assets/owned/sill-glacial-20261029/v2/materials.js",
+      "sha256": "4af955a70d9a4516296b57f4bc2d1909d1ef5ff39616f64b94940d594b1e029e"
+    },
+    {
+      "path": "assets/owned/sill-glacial-20261029/v2/scene.js",
+      "sha256": "f727c2a4093ff886226675ddd912a4201096bffc161cdabadf6f579c34eca418"
+    }
+  ],
+  "harnessFiles": [
+    {
+      "path": ".webart/material-trials/008-glacial-01/index.html",
+      "sha256": "a55ed486904071a3662d2385574a29a9b9058bcca109337666b67908c900d642"
+    },
+    {
+      "path": ".webart/material-trials/008-glacial-01/src/main.js",
+      "sha256": "36fd79b7e11b4d4b583e48d68fddbd0d91a891c547dd8f2cfa070d4f1d9c2b47"
+    },
+    {
+      "path": ".webart/material-trials/008-glacial-01/src/styles.css",
+      "sha256": "0b963cc388598568d3056ee10027027a375331dbc8630c21f974c3f1f3f7cf7a"
+    },
+    {
+      "path": ".webart/material-trials/008-glacial-01/vite.config.js",
+      "sha256": "6faa6661d945ec4bd59402d81b4c255e4f6fce6b1b7c865d114f935044bfed78"
+    }
+  ],
+  "frames": [
+    {
+      "label": "desktop-opening",
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 0,
+        "view": "0",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-opening.jpg",
+        "sha256": "94b839cbb47da3d15a69726851267e07cbef4b3cafb88568474fb373e2410e72"
+      }
+    },
+    {
+      "label": "desktop-pointer-left",
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 0,
+        "view": "0",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-pointer-left.jpg",
+        "sha256": "1c4b0bddb030fc74fe9dd1b6677fc9f68ddd4039a63b453d4321faf47e2f3631"
+      }
+    },
+    {
+      "label": "desktop-pointer-right",
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 0,
+        "view": "0",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-pointer-right.jpg",
+        "sha256": "4f50c87635df04d8a28a9810ff3b30ee19b96e514ab2ce41e519b380b8297e5f"
+      }
+    },
+    {
+      "label": "desktop-pointer-leave",
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 0,
+        "view": "0",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-pointer-leave.jpg",
+        "sha256": "94b839cbb47da3d15a69726851267e07cbef4b3cafb88568474fb373e2410e72"
+      }
+    },
+    {
+      "label": "desktop-transition",
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 1,
+        "view": "1",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-transition.jpg",
+        "sha256": "c84d6efaf88ec70787660c6251a53c1cb966722e738c5681fb37eb303af4ff02"
+      }
+    },
+    {
+      "label": "desktop-middle",
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 2,
+        "view": "2",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-middle.jpg",
+        "sha256": "558cf9f9a9bd7eea20cb58a21edf8060188dcf81790a87316c765dccebbf3f94"
+      }
+    },
+    {
+      "label": "desktop-ending",
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 3,
+        "view": "3",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-ending.jpg",
+        "sha256": "17b192cb72df00c5e9c591fd9b156447804bb814eeb49a77377d03e25c3022f3"
+      }
+    },
+    {
+      "label": "desktop-ending-fold",
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 3,
+        "view": "3",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-ending-fold.jpg",
+        "sha256": "14fb697db3d7f969390ffd15595d6aad04be93834a0e2064dba28b4d2d91ce32"
+      }
+    },
+    {
+      "label": "desktop-ending-tide-return",
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 3,
+        "view": "3",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-ending-tide-return.jpg",
+        "sha256": "97bb64bce1f4a67c7c9d22079a19723ac29c84b523fb374d7ae44aca3e4906d3"
+      }
+    },
+    {
+      "label": "desktop-reduced-opening",
+      "state": {
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": true,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 0,
+        "view": "0",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-reduced-opening.jpg",
+        "sha256": "94b839cbb47da3d15a69726851267e07cbef4b3cafb88568474fb373e2410e72"
+      }
+    },
+    {
+      "label": "mobile-opening",
+      "state": {
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 0,
+        "view": "0",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-opening.jpg",
+        "sha256": "f9c149046c62e13b20a5a1a7b237df47d9b9b615e758fc32fd9543405f6d00de"
+      }
+    },
+    {
+      "label": "mobile-transition",
+      "state": {
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 1,
+        "view": "1",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-transition.jpg",
+        "sha256": "d48cdffb10886010b718caae62a20bfdec1bacfbc25685ed022d07e5d98e7346"
+      }
+    },
+    {
+      "label": "mobile-middle",
+      "state": {
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 2,
+        "view": "2",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-middle.jpg",
+        "sha256": "3f8d25416884ea295bd6c90fd6b4448fa5c5a0a754cc9622f1fdb7e0236b1e8a"
+      }
+    },
+    {
+      "label": "mobile-ending",
+      "state": {
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 3,
+        "view": "3",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-ending.jpg",
+        "sha256": "0e6fd8b60b50602f22ad02fa41c937ac5a95c3f4b584e1069f97eb1cddaa6a03"
+      }
+    },
+    {
+      "label": "mobile-ending-fold",
+      "state": {
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 3,
+        "view": "3",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-ending-fold.jpg",
+        "sha256": "acb0348de05273b0b2bf4e0759a7131f18d2b3d69d462ef6e5d8c73d3a13c824"
+      }
+    },
+    {
+      "label": "mobile-ending-tide-return",
+      "state": {
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 3,
+        "view": "3",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-ending-tide-return.jpg",
+        "sha256": "73396b60c55c67216fe22ad8ccbca2a35b135fc1aa824f04507ecc238651ea95"
+      }
+    },
+    {
+      "label": "mobile-reduced-opening",
+      "state": {
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "ready": true,
+        "rendering": "ready",
+        "progress": 0,
+        "view": "0",
+        "overlay": 0
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-reduced-opening.jpg",
+        "sha256": "f9c149046c62e13b20a5a1a7b237df47d9b9b615e758fc32fd9543405f6d00de"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "native-mouse-move",
+      "x": 600,
+      "y": 430
+    },
+    {
+      "type": "native-mouse-move",
+      "x": 850,
+      "y": 430
+    },
+    {
+      "type": "native-mouse-move",
+      "x": 15,
+      "y": 850
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-view=\"1\"]",
+      "at": {
+        "x": 517.671875,
+        "y": 850
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-view=\"2\"]",
+      "at": {
+        "x": 922.328125,
+        "y": 850
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-view=\"3\"]",
+      "at": {
+        "x": 1327,
+        "y": 850
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-form=\"1\"]",
+      "at": {
+        "x": 1330,
+        "y": 742
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-form=\"0\"]",
+      "at": {
+        "x": 1282,
+        "y": 742
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-view=\"0\"]",
+      "at": {
+        "x": 113,
+        "y": 850
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-view=\"1\"]",
+      "at": {
+        "x": 141.328125,
+        "y": 798
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-view=\"2\"]",
+      "at": {
+        "x": 236.671875,
+        "y": 798
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-view=\"3\"]",
+      "at": {
+        "x": 341,
+        "y": 798
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-form=\"1\"]",
+      "at": {
+        "x": 308.7890625,
+        "y": 602
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-form=\"0\"]",
+      "at": {
+        "x": 271.1796875,
+        "y": 602
+      }
+    },
+    {
+      "type": "native-mouse-click",
+      "selector": "[data-view=\"0\"]",
+      "at": {
+        "x": 46,
+        "y": 798
+      }
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-approved",
+  "finished": "2026-10-29T15:45:04.379Z"
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261021154209032-73c5cc67",
+  "mode": "configuration-driven",
+  "productionMode": "first-style-qualification",
+  "codeGenerationCalls": 0,
+  "execution": "current-conversation-evidence-review",
+  "started": "2026-10-21T15:42:09.034Z",
+  "model": "current-conversation",
+  "ids": [
+    "009"
+  ],
+  "status": "failed",
+  "stage": "engineering-reused",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [],
+  "inventoryChanged": false,
+  "visualAcceptance": "pending-user-review",
+  "qualificationContinuationOf": "docs/production/runs/2026-10-19-four-redesigns",
+  "inputIdentity": "0d966109ce42426dcfdee3f9c1464172f811f8483d57c7e9de514c0d43aed272",
+  "scope": "Deterministic qualification of an already authored and visually admitted prototype. New-style authoring and actual visual judgments are not zero-LLM.",
+  "resumes": [
+    {
+      "at": "2026-10-21T15:43:05.529Z",
+      "fromStage": "style-review",
+      "previousFailure": null
+    },
+    {
+      "at": "2026-10-22T10:26:06.177Z",
+      "fromStage": "performance-qa",
+      "previousFailure": null
+    },
+    {
+      "at": "2026-10-22T15:38:50.058Z",
+      "fromStage": "full-qa",
+      "previousFailure": null
+    },
+    {
+      "at": "2026-10-23T01:58:29.894Z",
+      "fromStage": "performance-qa",
+      "previousFailure": null
+    }
+  ],
+  "qaAttempts": [
+    {
+      "id": "009",
+      "attempt": 1,
+      "directory": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa",
+      "binding": "a9d9f5c81f626782f80d04033279b3dbc314003df69077897c1693d68cc3c07d",
+      "sourceSha256": "f955a16f31e4555b2c68f1ca3f3691f51293024356b5c1df356f3519aa32416b"
+    },
+    {
+      "id": "009",
+      "attempt": 2,
+      "directory": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-02",
+      "binding": "c5cf07194f82318af60d7da611c01543a1975ee3a6bc318529a71dd5a6dd7aa3",
+      "sourceSha256": "f955a16f31e4555b2c68f1ca3f3691f51293024356b5c1df356f3519aa32416b"
+    },
+    {
+      "id": "009",
+      "attempt": 3,
+      "directory": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03",
+      "binding": "69440bf21ba7b8efba79f17acb97174a5b39ae6419af55e6d5bfb196d82ef31a",
+      "sourceSha256": "f955a16f31e4555b2c68f1ca3f3691f51293024356b5c1df356f3519aa32416b"
+    }
+  ],
+  "failure": {
+    "code": "controls-review-failed",
+    "message": "五宽度构图、控件或渲染失败备用的视觉检查未通过"
+  },
+  "finished": "2026-10-23T01:59:04.697Z"
+}

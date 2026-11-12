@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-30T05:35:10.351Z",
+  "kind": "retained-execution-and-test-evidence-audit",
+  "result": "verified",
+  "auditor": {
+    "id": "current-conversation-subagent-qa-record",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "newModelCalls": 0,
+  "methods": [
+    "validateCliReviewConsumptionReceipt(calibration)",
+    "validateCliReviewConsumptionReceipt(reference-review)",
+    "validateCalibration",
+    "referencePreflight",
+    "resolveCalibratedCliRuntime (read-only --version)",
+    "fingerprint verification for source bindings, replay references and both material rejections",
+    "byte-identical test log preservation"
+  ],
+  "calibration": {
+    "report": {
+      "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+      "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+    },
+    "validation": {
+      "path": "docs/production/runs/cli-calibration-20261029/validation.json",
+      "sha256": "7feb779334e42107c41f775c139b339ed10b8ef13373647ba198b965ce0d252f"
+    },
+    "reviewReceipt": {
+      "path": "docs/production/runs/cli-calibration-20261029/cli-review/01-calibration-cef4dd63e4/consumed/receipt.json",
+      "sha256": "6860ef92fa8aa5bb33fcd81ee434fc2d09d7d59c603181bd9c67ba2ac49b4b7a"
+    },
+    "labels": [
+      {
+        "id": "008",
+        "verdict": "below-benchmark"
+      },
+      {
+        "id": "009",
+        "verdict": "below-benchmark"
+      },
+      {
+        "id": "010",
+        "verdict": "below-benchmark"
+      },
+      {
+        "id": "006",
+        "verdict": "below-benchmark"
+      },
+      {
+        "id": "001",
+        "verdict": "benchmark"
+      },
+      {
+        "id": "007",
+        "verdict": "below-benchmark"
+      }
+    ],
+    "inputImages": 48,
+    "cliVersion": "codex-cli 0.165.0-alpha.1.2",
+    "usage": {
+      "input_tokens": 60156,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 805,
+      "reasoning_output_tokens": 18
+    },
+    "cliInvocations": 1,
+    "automaticAdapterRetries": 0,
+    "backendRequestCount": null,
+    "toolsObserved": 0,
+    "provenance": {
+      "mode": "evidence-only-fresh-codex-cli",
+      "kind": "fresh-codex-cli",
+      "independent": false,
+      "contextIsolated": true,
+      "contextIsolationScope": "fresh conversation; implementation history not supplied",
+      "implementationContextIncluded": false,
+      "backendIndependenceEstablished": false,
+      "requestedModel": null,
+      "actualModel": null,
+      "modelIdentitySource": null
+    },
+    "stderrDiagnostics": {
+      "retryLogs": 5,
+      "fallbackLogs": 1,
+      "bannerModel": null
+    }
+  },
+  "reference": {
+    "report": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/reference-review.json",
+      "sha256": "fe41730624232abae50de2eadfaa52e359938d0f5b65c82444dcf4b51873ccca"
+    },
+    "gate": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/reference-gate.json",
+      "sha256": "ceb903c653d8d7743278560e6a187809489b2aab7f44f673a913c285b09c95a0"
+    },
+    "decision": "reference-admitted-for-prototype-only",
+    "reviewReceipt": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/consumed/receipt.json",
+      "sha256": "663e364a3c195bf179d4b698b5e149cf082a081f3ee5b14cbad5b70d5002b8f0"
+    },
+    "inputBinding": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/input-binding.json",
+      "sha256": "a63607e67f9f2932ee32fa200d39b3496652cb2f9e9d721f4b1f3e300936508a"
+    },
+    "capture": {
+      "path": "docs/evidence/redo-v2/2026-10-29/008-igloo-reference-02/capture.json",
+      "sha256": "d9aa0e2882b966a63d43c80b75736c856494552777994d36c42777d1063d3ffe"
+    },
+    "plan": {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/008-glacial-reference-plan-20261029-02.json",
+      "sha256": "53c58e54658c29547e67db819f8b53ef1bad057f44988e8074b879c13764edaa"
+    },
+    "contextFrames": 219,
+    "frameRoles": {
+      "benchmark": 29,
+      "negative": 20,
+      "reference": 170
+    },
+    "inputImages": 198,
+    "sourceMotionGroups": 17,
+    "reviewMotionGroups": 4,
+    "dimensions": [
+      {
+        "key": "opening-authority",
+        "againstBenchmark": "peer"
+      },
+      {
+        "key": "type-media-craft",
+        "againstBenchmark": "peer"
+      },
+      {
+        "key": "asset-specificity",
+        "againstBenchmark": "above"
+      },
+      {
+        "key": "scroll-choreography",
+        "againstBenchmark": "above"
+      },
+      {
+        "key": "pointer-finish",
+        "againstBenchmark": "above"
+      },
+      {
+        "key": "whole-page-resolution",
+        "againstBenchmark": "peer"
+      },
+      {
+        "key": "mobile-composition",
+        "againstBenchmark": "peer"
+      }
+    ],
+    "stateChecks": 8,
+    "continuityChecks": [
+      {
+        "viewport": "desktop",
+        "status": "preserved"
+      },
+      {
+        "viewport": "mobile",
+        "status": "preserved"
+      }
+    ],
+    "usage": {
+      "input_tokens": 241046,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 3809,
+      "reasoning_output_tokens": 58
+    },
+    "cliInvocations": 1,
+    "automaticAdapterRetries": 0,
+    "backendRequestCount": null,
+    "toolsObserved": 0,
+    "provenance": {
+      "mode": "evidence-only-fresh-codex-cli",
+      "kind": "fresh-codex-cli",
+      "independent": false,
+      "contextIsolated": true,
+      "contextIsolationScope": "fresh conversation; implementation history not supplied",
+      "implementationContextIncluded": false,
+      "backendIndependenceEstablished": false,
+      "requestedModel": null,
+      "actualModel": null,
+      "modelIdentitySource": null
+    },
+    "stderrDiagnostics": {
+      "retryLogs": 5,
+      "fallbackLogs": 1,
+      "bannerModel": null
+    },
+    "inventoryChanged": false,
+    "packageAuthorized": false,
+    "fullImplementationAuthorized": false
+  },
+  "runtime": {
+    "executable": ".webart/review-runtime/0c09e45bc76433756eb2d492f6db0ce6f269967e6618f4a6ae73e2fa239694b8/codex.exe",
+    "sha256": "0c09e45bc76433756eb2d492f6db0ce6f269967e6618f4a6ae73e2fa239694b8",
+    "bytes": 357330736,
+    "cliVersion": "codex-cli 0.165.0-alpha.1.2",
+    "pinned": true,
+    "metadata": {
+      "path": ".webart/review-runtime/0c09e45bc76433756eb2d492f6db0ce6f269967e6618f4a6ae73e2fa239694b8/runtime.json",
+      "sha256": "1208b86b78691fa8fb8e06c634bc52781ed203ecb9e9127c21352a43ad4e35c3"
+    },
+    "purpose": "private review runtime, not a template asset or source-package input",
+    "selection": "exact executable recorded by the validated calibration; no PATH fallback"
+  },
+  "replay": {
+    "proof": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/replay-proof.json",
+      "sha256": "f4a7c2c550c3b4005a0cedf3be272e64eeaa72008a301849fcca8067d2f76ba6"
+    },
+    "result": "same-actual-review-revalidated",
+    "processSpawns": 0,
+    "newCliInvocations": 0,
+    "newModelCalls": 0,
+    "retainedAttemptCount": 1,
+    "afterAttemptCount": 1,
+    "auditLimitation": "This audit verifies the preserved replay proof and its exact original raw execution/receipt/report. It does not run another cache request or manufacture a second replay event."
+  },
+  "previousFailure": {
+    "pending": {
+      "path": "docs/production/runs/igloo-reference-20261029/pending.json",
+      "sha256": "4b3746e8f8a93115cc6babea18132524aa9b36adfaf5b7115c1ae56074f109e3"
+    },
+    "failure": {
+      "path": "docs/production/runs/igloo-reference-20261029/cli-review/01-reference-review-e2f0b12df3/failure.json",
+      "sha256": "36fe7163b957e00dec7972b7839b9f97e062441607ea7f0f7d56befb714d018e"
+    },
+    "request": {
+      "path": "docs/production/runs/igloo-reference-20261029/cli-review/01-reference-review-e2f0b12df3/request.json",
+      "sha256": "f4b4d37644821233cce51666946deea1fa9ca51945b10a2f7a9dd4af19865036"
+    },
+    "code": "cli-review-version",
+    "phase": "version-probe-before-model-bearing-exec",
+    "elapsedMs": 420,
+    "oldExecutablePresentAtAudit": false,
+    "emptyVersionOutputs": true,
+    "eventsAndResponseAbsent": true,
+    "newModelCalls": 0,
+    "qualityDecision": "none; transport failure preserved"
+  },
+  "tests": {
+    "result": "recorded-passed-log-preserved",
+    "sourceLog": {
+      "path": ".webart/test-suite-20261029.log",
+      "sha256": "9ff5ec4e1c6d888cfba8b4217c65854ca4da0568c9cc4bcfe5b078756fc57c89"
+    },
+    "durableLog": {
+      "path": "docs/production/runs/cli-calibration-20261029/verification/full-suite.txt",
+      "sha256": "9ff5ec4e1c6d888cfba8b4217c65854ca4da0568c9cc4bcfe5b078756fc57c89"
+    },
+    "tests": 350,
+    "pass": 350,
+    "fail": 0,
+    "cancelled": 0,
+    "skipped": 0,
+    "todo": 0,
+    "duration_ms": 91397.6078,
+    "invocationCommandEmbeddedInLog": false,
+    "exactSourceFingerprintAtExecution": null,
+    "limitation": "The retained TAP log proves its reported 350/350 result. It has no execution-time source manifest; this audit does not bind later entry-point changes or current working-tree bytes to that earlier suite."
+  },
+  "validatedConsumptionImplementations": [
+    {
+      "path": "scripts/production/cli-review-receipt.mjs",
+      "sha256": "e362e54680143d0fcc0098882feb6d5ce15197bca8aff98c777eab1b960cab55"
+    },
+    {
+      "path": "scripts/production/cli-review.mjs",
+      "sha256": "93b4c9b03feb5e90911d7b625a15b8bbe32c49ee50b654b7e623c2ed5c24bc79"
+    },
+    {
+      "path": "scripts/production/schemas.mjs",
+      "sha256": "f62b6b78ef4aee2d6803ee5ff87a456a7a45d4b7f558412b43504bc095dcee60"
+    },
+    {
+      "path": "scripts/production/session-review.mjs",
+      "sha256": "a2ec1b2ed775aec77af46a4a85c9c96e665ea98a999efb709fd9dbd58528afdd"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/api.mjs",
+      "sha256": "e78e43228b5e2e29b5078f2a0907d1f39edad7411c5f2f5b3b220111e8577b03"
+    }
+  ],
+  "materialRejections": [
+    {
+      "report": {
+        "path": "docs/assets/008-glacial-material-rejection-01.json",
+        "sha256": "440e5942e4bd5cc40c8d6224b4a4fae0882d539e6d75fc9b958e9429bfe82bc9"
+      },
+      "decision": "reject",
+      "reviewer": {
+        "id": "current-conversation-chief",
+        "independent": false,
+        "contextIsolated": false,
+        "implementationContextIncluded": true
+      },
+      "files": [
+        {
+          "path": "assets/owned/sill-glacial-20261029/v1/geometry.js",
+          "sha256": "2d8a9a5f07465898bc2e6c4d2adbba74d0824aa251d3f61fa055e8d297602d76"
+        },
+        {
+          "path": "assets/owned/sill-glacial-20261029/v1/materials.js",
+          "sha256": "37c1e14d61e62f052bdc6e0a594fa2c3ddbe04bf63f0c8e0cca945aa38f4c2e7"
+        },
+        {
+          "path": "assets/owned/sill-glacial-20261029/v1/scene.js",
+          "sha256": "0bbfe4458123e8e5e2d8bcf6246a7c0aad2132041b68b91d0b87510548580dec"
+        }
+      ],
+      "states": 8
+    },
+    {
+      "report": {
+        "path": "docs/assets/008-glacial-material-rejection-02.json",
+        "sha256": "7ace7e96057bf30ef3566a83961a866480f765b30d93e9f835bd2e6ac14ec21f"
+      },
+      "decision": "reject",
+      "reviewer": {
+        "id": "current-conversation-chief",
+        "independent": false,
+        "contextIsolated": false,
+        "implementationContextIncluded": true
+      },
+      "files": [
+        {
+          "path": "assets/owned/sill-glacial-20261029/v2/geometry.js",
+          "sha256": "8ea7e9dd059b080e7715ba9336b7615189cef2a2547b483769a9e3fa4259ecbd"
+        },
+        {
+          "path": "assets/owned/sill-glacial-20261029/v2/materials.js",
+          "sha256": "4af955a70d9a4516296b57f4bc2d1909d1ef5ff39616f64b94940d594b1e029e"
+        },
+        {
+          "path": "assets/owned/sill-glacial-20261029/v2/scene.js",
+          "sha256": "f727c2a4093ff886226675ddd912a4201096bffc161cdabadf6f579c34eca418"
+        }
+      ],
+      "states": 8
+    }
+  ],
+  "boundaries": [
+    "Known-label calibration does not prove aesthetic prediction for unseen candidates.",
+    "Fresh input conversation and no tools observed do not prove backend independence or external filesystem isolation.",
+    "Actual model identity and backend request counts remain unknown; each actual invocation retained five stderr retry logs and one HTTPS fallback log.",
+    "Reference admission authorizes assets/private prototype only. Both tested material versions remain rejected; no completed 008 prototype, package or homepage replacement is proven.",
+    "Production fresh/resume runtime selection is under separate maintenance and is not claimed complete by this record."
+  ]
+}

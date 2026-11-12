@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "scope": "bounded-source-observations-not-seven-dimension-admission",
+  "reviewer": {
+    "kind": "current-conversation",
+    "independent": false,
+    "contextIsolated": false
+  },
+  "actualNewMotherCount": 3,
+  "actualRootViewedFrames": 59,
+  "references": [
+    {
+      "name": "Essence",
+      "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+      "status": "evidence-needed",
+      "finding": "红色瓶体、金色喷头与衬线字有统一材料主题，掀盖/喷头操作存在，但观察中主要保持同一正面构图，收束为大段宣言和链接。",
+      "rootViewedFrames": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-atmosphere.png",
+          "sha256": "d85c2876a972eeb1353ddcb056cd5543d838821b1c135b1100032b3014d56740",
+          "label": "essence-desktop-atmosphere"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-atomizer-pressed.png",
+          "sha256": "d0aa144721dbf9820ac08850c9f51e2cf8e4e6cf93bcec5dd059274d5a83ace3",
+          "label": "essence-desktop-atomizer-pressed"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-cap-lift.png",
+          "sha256": "b9a0a515daaf846cce92b0994a59e6f668204a4492b20740edb9f0b2e15871ff",
+          "label": "essence-desktop-cap-lift"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-end-proof.png",
+          "sha256": "ef614cac55c7c4c4fbede531e80929de960716149d5ecea1496d90640de61527",
+          "label": "essence-desktop-end-proof"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-ending.png",
+          "sha256": "ef614cac55c7c4c4fbede531e80929de960716149d5ecea1496d90640de61527",
+          "label": "essence-desktop-ending"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-middle.png",
+          "sha256": "700cb01a230242ae0f14a6b3c999299a5b65414632d7591e5f43941912e74b75",
+          "label": "essence-desktop-middle"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-opening.png",
+          "sha256": "b9a0a515daaf846cce92b0994a59e6f668204a4492b20740edb9f0b2e15871ff",
+          "label": "essence-desktop-opening"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-pointer-left.png",
+          "sha256": "700cb01a230242ae0f14a6b3c999299a5b65414632d7591e5f43941912e74b75",
+          "label": "essence-desktop-pointer-left"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-pointer-right.png",
+          "sha256": "700cb01a230242ae0f14a6b3c999299a5b65414632d7591e5f43941912e74b75",
+          "label": "essence-desktop-pointer-right"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-spray.png",
+          "sha256": "24f03c290a5d96ed82bef87254d2b848942007541a1170bec19799e55f8c5a59",
+          "label": "essence-desktop-spray"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-transition.png",
+          "sha256": "6a9640f35c0a21ddaf0d9c0a2c670ac2546f03bb33535713d2e0aa46a260f061",
+          "label": "essence-desktop-transition"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-physical-end-proof.png",
+          "sha256": "e9692ef9da5c071fe4d9c87b55d9b1a1623971f3616233bfe91b8ea57517458a",
+          "label": "essence-mobile-physical-end-proof"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-physical-ending.png",
+          "sha256": "e9692ef9da5c071fe4d9c87b55d9b1a1623971f3616233bfe91b8ea57517458a",
+          "label": "essence-mobile-physical-ending"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-physical-first-finger.png",
+          "sha256": "c0c6ce8ebae86d4911a4ba4e925b40d8c683b6888367de42a3dc2ec1f29eb39a",
+          "label": "essence-mobile-physical-first-finger"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-physical-middle.png",
+          "sha256": "b320362e5b35a3c59d2775f41f3a817e1ce89c5ec1e0a0ebb72579b902958861",
+          "label": "essence-mobile-physical-middle"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-physical-opening.png",
+          "sha256": "cc17af486e3142b6b4b9f6a5f43ab80d8d7188900461443f98ddfb1be706f31f",
+          "label": "essence-mobile-physical-opening"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-desktop-path.json",
+          "sha256": "09c009b9c446fe1e5c238e034029c201cc8310e70736de936c419699f070d7d4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/essence-mobile-physical-path.json",
+          "sha256": "6c0abb7aeb2d4a6b3478e1a344be51c4407197716a387d92f8ce495961dcf870"
+        }
+      ],
+      "limitations": [
+        "早期手机采证未匹配物理屏幕，原地不动是采证失败；后续physical路径已修复，不据早期帧否决源站。",
+        "本批未逐帧记录并核验普通动态偏好，不能把默认减少动态下的指针无变化判成源站缺失；正常过程及减少动态仍待分开。"
+      ],
+      "visualAdmissionGranted": false,
+      "finalAssetsAcquired": false,
+      "candidateCreated": false
+    },
+    {
+      "name": "EIDOLON",
+      "url": "https://eidolon-c.netlify.app/",
+      "status": "evidence-needed",
+      "finding": "深绿森林与透明瓶体开场有身份，后续主要为大衬线宣言、森林、编号列表及联系页脚；当前操控章节的可用性未得到充分证明。",
+      "rootViewedFrames": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-collection.png",
+          "sha256": "1a8953492cd9f40a5626b8731630fd1661f0eb2d91a007efd0c629af023f7448",
+          "label": "eidolon-desktop-collection"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-end-proof.png",
+          "sha256": "02ba15773b5ccfe2b08ec4ef5d914923ec60fdc72be5ff43baac5cb7a2538f35",
+          "label": "eidolon-desktop-end-proof"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-ending.png",
+          "sha256": "d9de0aeeb926e5fa2bb5397512cb8b66f8ec783bf060f8857b7417adbe9af694",
+          "label": "eidolon-desktop-ending"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-landscape.png",
+          "sha256": "02271ba5a9df7e1b4b6b7c90a95fe0d5027f99f22a7395be2a12426957b512ad",
+          "label": "eidolon-desktop-landscape"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-liquid-transition.png",
+          "sha256": "eecc66ae272a17f02bae9b32bd744162082b52377c248b0713e4172d0cb73ad9",
+          "label": "eidolon-desktop-liquid-transition"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-memory-interaction-before.png",
+          "sha256": "d812a9bdd2ef24ed1ba9dc83247fe4433295d127b77c7740569984d07c5ad7ab",
+          "label": "eidolon-desktop-memory-interaction-before"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-memory.png",
+          "sha256": "35ef1637ebd8fa44cf0c9e6dff438a974397706c283fb2024d596dfe8706709c",
+          "label": "eidolon-desktop-memory"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-object.png",
+          "sha256": "06a745f84981fa308df066679c6b432e39741dfa7b9722e3d0a790fcc03835a4",
+          "label": "eidolon-desktop-object"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-opening-left.png",
+          "sha256": "c3f7e087527129d085a71ebd5b0202e99deea77574264ccc869339bf491a062d",
+          "label": "eidolon-desktop-opening-left"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-opening-right.png",
+          "sha256": "c3f7e087527129d085a71ebd5b0202e99deea77574264ccc869339bf491a062d",
+          "label": "eidolon-desktop-opening-right"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-opening.png",
+          "sha256": "c3f7e087527129d085a71ebd5b0202e99deea77574264ccc869339bf491a062d",
+          "label": "eidolon-desktop-opening"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-touch-chapter.png",
+          "sha256": "3466b0aa349cdf24b153a0af4646238f56149dddb759f80c167a0d011b7821cb",
+          "label": "eidolon-desktop-touch-chapter"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-end-proof.png",
+          "sha256": "195280e47ad1fb554bb3b80a7a707dbaa395eb9adf242c597712a5a50bf53fa4",
+          "label": "eidolon-mobile-physical-end-proof"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-ending.png",
+          "sha256": "195280e47ad1fb554bb3b80a7a707dbaa395eb9adf242c597712a5a50bf53fa4",
+          "label": "eidolon-mobile-physical-ending"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-interaction.png",
+          "sha256": "e82747338c860c33f9d9a030f0e4247bff757fcf6279f880a4cae8fc22a788c4",
+          "label": "eidolon-mobile-physical-interaction"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-landscape.png",
+          "sha256": "23a72d1c519afbbd517e3f56aca8c23fe0c50dea450ccea5b94a471f63aad5db",
+          "label": "eidolon-mobile-physical-landscape"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-liquid.png",
+          "sha256": "c89677454f36605ca928aeeb4bf5acf0aa7443f117672611596d3e623a72bdc3",
+          "label": "eidolon-mobile-physical-liquid"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-list.png",
+          "sha256": "b2a66b9d4fe60b43923fac1337d97beb6fbb353884d18a6c40936248df3f7e67",
+          "label": "eidolon-mobile-physical-list"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-memory.png",
+          "sha256": "6e533e67e818c47d11af4cbca5e94d374b5f819d31054fe0928b07e1eb9be88b",
+          "label": "eidolon-mobile-physical-memory"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-object.png",
+          "sha256": "195280e47ad1fb554bb3b80a7a707dbaa395eb9adf242c597712a5a50bf53fa4",
+          "label": "eidolon-mobile-physical-object"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-opening.png",
+          "sha256": "a7464c7735b30fb05f2d212b5a3e132121d74f2d220fce78936dd9e3bdf061fb",
+          "label": "eidolon-mobile-physical-opening"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-desktop-path.json",
+          "sha256": "d259c795ebf061721de7f92737cc5ef0689ba85515dcbabe8b4421c20a774e03"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-path.json",
+          "sha256": "2847c349a93172138b35a35130b1aa0b82a32c5d8082f9244245bf4c08c20b72"
+        }
+      ],
+      "limitations": [
+        "早期手机采证未匹配物理屏幕，原地不动是采证失败；后续physical路径已修复，不据早期帧否决源站。",
+        "本批未逐帧记录并核验普通动态偏好，不能把默认减少动态下的指针无变化判成源站缺失；正常过程及减少动态仍待分开。"
+      ],
+      "visualAdmissionGranted": false,
+      "finalAssetsAcquired": false,
+      "candidateCreated": false
+    },
+    {
+      "name": "Tabasco / Hilo Studio",
+      "url": "https://tabasco.hilostudiolab.com/",
+      "status": "evidence-needed",
+      "finding": "绿椒到红椒、红色时间章和五瓶组合有具体食材/产品推进，部分中间观察为空场或模糊文字；末段已补到五瓶组合，但未证明全部模型与交接在普通动态下稳定。",
+      "rootViewedFrames": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-after-visible-click.png",
+          "sha256": "96fee16c722a51bfad4657db17cbe12478a190c902d71484e8f94bdab9ccafeb",
+          "label": "tabasco-desktop-after-visible-click"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-barrel-transition.png",
+          "sha256": "10423d9c0a0c4d23f712cac0274f4f9a2fe3ab37ea150b1c468bc85654ac44be",
+          "label": "tabasco-desktop-barrel-transition"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-barrel.png",
+          "sha256": "4e194bac1e21223285fae115da0fa03deb42e6e746ce7728262f2f88e0639bba",
+          "label": "tabasco-desktop-barrel"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-bottle.png",
+          "sha256": "72e98da05c398d51faeb6d429d41c41d87586742812a783dfbd2fb48859f2326",
+          "label": "tabasco-desktop-bottle"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-end-proof.png",
+          "sha256": "8763a4f5b468eed756b49cd4355d37ce5f87ea5a01abd3205ed0f0c89aa839bf",
+          "label": "tabasco-desktop-end-proof"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-ending.png",
+          "sha256": "234d53ef56435b43ab9827cf55728426eaff8f6928d2360eee449649d9b1c34d",
+          "label": "tabasco-desktop-ending"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-opening.png",
+          "sha256": "b4857cae806e1acebb4296236a4dc8bb29ccf84a98dac330381eabdc14135228",
+          "label": "tabasco-desktop-opening"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-pepper-transition.png",
+          "sha256": "955d3576849c0a4092b3aafd09655213bd26fdae585ec6626a6649de80d986d3",
+          "label": "tabasco-desktop-pepper-transition"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-pointer-left.png",
+          "sha256": "96fee16c722a51bfad4657db17cbe12478a190c902d71484e8f94bdab9ccafeb",
+          "label": "tabasco-desktop-pointer-left"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-pointer-right.png",
+          "sha256": "96fee16c722a51bfad4657db17cbe12478a190c902d71484e8f94bdab9ccafeb",
+          "label": "tabasco-desktop-pointer-right"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-red-pepper.png",
+          "sha256": "95d12540484c8b8fa25fbc53f0f11195b04b9e0389f248ac7eccadc266669698",
+          "label": "tabasco-desktop-red-pepper"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-correct-tail-edge-finger.png",
+          "sha256": "974eab13c60fd688d783c55e07055770a376d5771c08e5b0b2f0549e5fdef06c",
+          "label": "tabasco-mobile-correct-tail-edge-finger"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-correct-tail-end-proof.png",
+          "sha256": "eaaa7175fca2ee588f5871af17af13b8f3eefb761563794d2f5311e4b726d605",
+          "label": "tabasco-mobile-correct-tail-end-proof"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-correct-tail-synth.png",
+          "sha256": "d7190f93feba055b66195f06bf1deb81f684ebacdf1184509f59d24af88cf615",
+          "label": "tabasco-mobile-correct-tail-synth"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-barrel.png",
+          "sha256": "a10e76e3d72c57e02813c003e40e8da185ba45e9b9e82d79593ee360db5727ea",
+          "label": "tabasco-mobile-physical-barrel"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-bottle.png",
+          "sha256": "8264699cf4b2b2c7399767148a5e98f331798e62ae043f5ff8e1e7f4c5f0d302",
+          "label": "tabasco-mobile-physical-bottle"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-end-proof.png",
+          "sha256": "2fd130cf4827c2d4c9d4347a2e77fd9f9efcbd93e64d1458f78e1cd78ce5ad1d",
+          "label": "tabasco-mobile-physical-end-proof"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-ending.png",
+          "sha256": "2fd130cf4827c2d4c9d4347a2e77fd9f9efcbd93e64d1458f78e1cd78ce5ad1d",
+          "label": "tabasco-mobile-physical-ending"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-opening.png",
+          "sha256": "6f7648c672e1bf6d181fe093119aee22bfe4e01086161a0c6a638148b32930c9",
+          "label": "tabasco-mobile-physical-opening"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-pepper-transition.png",
+          "sha256": "c956eb17ebcd0f0458b3018447e9d356cef65e7799ab75a533c9d67be92eaca5",
+          "label": "tabasco-mobile-physical-pepper-transition"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-red-pepper.png",
+          "sha256": "2bc858969591306ebc7508db9e0599f293cc212f1527558ae1670a01f7e5098d",
+          "label": "tabasco-mobile-physical-red-pepper"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-time.png",
+          "sha256": "98388815864157127b2c0177c376a0e67ccf8105d22238f68d0b8b9395d579fe",
+          "label": "tabasco-mobile-physical-time"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-desktop-path.json",
+          "sha256": "18da91929ca4db1e82fd031f2353c217542840bad7f47d62579bdaca4a6276ce"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-path.json",
+          "sha256": "427b3d5357a56f7ba62a08eb24678802e10b303cb8a86154eb0bb194fe72fa32"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-correct-tail-path.json",
+          "sha256": "c9fbb7d8c2f7f1b4b58528c9e966c77707386da0f562675d099d04f4d13ded8f"
+        }
+      ],
+      "limitations": [
+        "早期手机采证未匹配物理屏幕，原地不动是采证失败；后续physical路径已修复，不据早期帧否决源站。",
+        "本批未逐帧记录并核验普通动态偏好，不能把默认减少动态下的指针无变化判成源站缺失；正常过程及减少动态仍待分开。"
+      ],
+      "visualAdmissionGranted": false,
+      "finalAssetsAcquired": false,
+      "candidateCreated": false
+    }
+  ],
+  "decision": "no-admission-follow-igloo-separate-evidence",
+  "agentCompletion": "Source capture completed partially; subagent stopped at account usage limit before final report. Root inspected and preserved actual files without retrying that agent.",
+  "newModelReviewCalls": 0
+}

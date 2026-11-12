@@ -1,0 +1,517 @@
+{
+  "source": "https://tabasco.hilostudiolab.com/",
+  "scope": "bounded-observation-only",
+  "independent": false,
+  "contextIsolated": false,
+  "started": "2026-10-27T17:00:18.349Z",
+  "targetUrl": "about:blank",
+  "steps": [
+    {
+      "action": {
+        "capture": "tabasco-mobile-physical-loader"
+      },
+      "at": "2026-10-27T17:00:28.501Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TABASCO\nBOTTLING...\n100%\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-loader.png",
+        "sha256": "caadbf6eb29747bda6c8e87be5939e18154cf72374f9152d3886591120ad795c",
+        "bytes": 51667
+      }
+    },
+    {
+      "action": {
+        "tap": [
+          195,
+          422
+        ],
+        "waitMs": 1600,
+        "capture": "tabasco-mobile-physical-opening"
+      },
+      "at": "2026-10-27T17:00:30.003Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nTHE ROOT OF\nA\nLEGACY\nGreatness begins in silence\n\nIn 1868, Edmund McIlhenny saw potential where others saw ruins. By planting the first Tabasco seeds on Avery Island, he wasn't just creating a recipe; he was designing a timeless identity. This is the story of how a single ingredient, cultivated with patience, became a global standard of excellence.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-opening.png",
+        "sha256": "6f7648c672e1bf6d181fe093119aee22bfe4e01086161a0c6a638148b32930c9",
+        "bytes": 70544
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "tabasco-mobile-physical-pepper-transition"
+      },
+      "at": "2026-10-27T17:00:31.849Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 374,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nTHE\nSTAND\nART\n\nThis is where integrity is measured. On Avery Island, the harvest is a ritual of precision, not a race. Every pepper is hand-picked only at its peak, ensuring the legacy remains as vibrant as it was in 1868. We don't just grow; we curate.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-pepper-transition.png",
+        "sha256": "c956eb17ebcd0f0458b3018447e9d356cef65e7799ab75a533c9d67be92eaca5",
+        "bytes": 91755
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "tabasco-mobile-physical-red-pepper"
+      },
+      "at": "2026-10-27T17:00:34.181Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 757,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nREADY TO EVOLVE...\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-red-pepper.png",
+        "sha256": "2bc858969591306ebc7508db9e0599f293cc212f1527558ae1670a01f7e5098d",
+        "bytes": 86684
+      }
+    },
+    {
+      "action": {
+        "finger": -600
+      },
+      "at": "2026-10-27T17:00:36.344Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 1139,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "tabasco-mobile-physical-time"
+      },
+      "at": "2026-10-27T17:00:38.252Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 1522,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nTHREE\nINGREDIENTS\n\nSalt from the island + Distilled vinegar + Aged peppers\n\nBecause, if you have the essence,\nyou don't need the noise\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-time.png",
+        "sha256": "98388815864157127b2c0177c376a0e67ccf8105d22238f68d0b8b9395d579fe",
+        "bytes": 11305
+      }
+    },
+    {
+      "action": {
+        "finger": -600
+      },
+      "at": "2026-10-27T17:00:39.892Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 1904,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nTHE ARCHITECT OF FLAVOR:\nTIME\n\nWhile most sauces are rushed to the shelf, Tabasco mash rests in white oak barrels for up to three years. This long, silent fermentation is what develops its complex aroma and unmistakable depth.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "tabasco-mobile-physical-barrel"
+      },
+      "at": "2026-10-27T17:00:41.522Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 2287,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nTHE ARCHITECT OF FLAVOR:\nTIME\n\nWhile most sauces are rushed to the shelf, Tabasco mash rests in white oak barrels for up to three years. This long, silent fermentation is what develops its complex aroma and unmistakable depth.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-barrel.png",
+        "sha256": "a10e76e3d72c57e02813c003e40e8da185ba45e9b9e82d79593ee360db5727ea",
+        "bytes": 132421
+      }
+    },
+    {
+      "action": {
+        "finger": -600
+      },
+      "at": "2026-10-27T17:00:43.782Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 2670,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nTHE ARCHITECT OF FLAVOR:\nTIME\n\nWhile most sauces are rushed to the shelf, Tabasco mash rests in white oak barrels for up to three years. This long, silent fermentation is what develops its complex aroma and unmistakable depth.\n\nAnd finally...\nPatience becomes perfection\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "tabasco-mobile-physical-bottle"
+      },
+      "at": "2026-10-27T17:00:45.344Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 3044,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nAnd finally...\nPatience becomes perfection\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-bottle.png",
+        "sha256": "8264699cf4b2b2c7399767148a5e98f331798e62ae043f5ff8e1e7f4c5f0d302",
+        "bytes": 14869
+      }
+    },
+    {
+      "action": {
+        "finger": -600
+      },
+      "at": "2026-10-27T17:00:46.979Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 3426,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nONE ICON\nSTARTED IT...\nA legendary sauce that has conquered the globe\nThe bottle that started it all. A simple, powerful combination of three ingredients that has conquered over 195 countries. It is the definitive choice for those who seek authentic flavor and an unmistakable kick of heat.\n\nThis is the most recognized hot sauce in history. From professional kitchens to family tables, this bottle has become the universal reference for spice, maintaining the exact same quality and character since its creation in 1868.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "tabasco-mobile-physical-ending"
+      },
+      "at": "2026-10-27T17:00:49.727Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 3426,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nONE ICON\nSTARTED IT...\nA legendary sauce that has conquered the globe\nThe bottle that started it all. A simple, powerful combination of three ingredients that has conquered over 195 countries. It is the definitive choice for those who seek authentic flavor and an unmistakable kick of heat.\n\nThis is the most recognized hot sauce in history. From professional kitchens to family tables, this bottle has become the universal reference for spice, maintaining the exact same quality and character since its creation in 1868.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-ending.png",
+        "sha256": "2fd130cf4827c2d4c9d4347a2e77fd9f9efcbd93e64d1458f78e1cd78ce5ad1d",
+        "bytes": 67360
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "tabasco-mobile-physical-end-proof"
+      },
+      "at": "2026-10-27T17:00:51.245Z",
+      "state": {
+        "url": "https://tabasco.hilostudiolab.com/",
+        "y": 3426,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 5064,
+        "ready": "complete",
+        "text": "TIME\nDiseñado e implementado por Hilo Studio\nONE ICON\nSTARTED IT...\nA legendary sauce that has conquered the globe\nThe bottle that started it all. A simple, powerful combination of three ingredients that has conquered over 195 countries. It is the definitive choice for those who seek authentic flavor and an unmistakable kick of heat.\n\nThis is the most recognized hot sauce in history. From professional kitchens to family tables, this bottle has become the universal reference for spice, maintaining the exact same quality and character since its creation in 1868.\n\nDiseñado e implementado por Hilo Studio · estudio creativo de branding y experiencias web WebGL. Desarrollo 3D: Abdurrahim Ali.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 390,
+            "height": 101
+          }
+        ],
+        "buttons": []
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/tabasco-mobile-physical-end-proof.png",
+        "sha256": "2fd130cf4827c2d4c9d4347a2e77fd9f9efcbd93e64d1458f78e1cd78ce5ad1d",
+        "bytes": 67360
+      }
+    }
+  ],
+  "finished": "2026-10-27T17:00:52.771Z"
+}

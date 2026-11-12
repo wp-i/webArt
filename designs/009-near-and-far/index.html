@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5eeeb">
+  <meta name="description" content="Near & Far. A photographic study of light, place and passing moments.">
+  <title>Near & Far — A way of looking</title>
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="/assets/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/src/styles.css">
+  <script type="module" src="/src/main.js"></script>
+</head>
+<body id="top">
+  <a class="skip" href="#series">Skip to photographs</a>
+  <main>
+    <section class="hero" aria-labelledby="identity">
+      <h1 class="sr-only" id="identity">Near & Far — Photography studio</h1>
+      <a class="letter letter-n" href="#top" aria-label="Near & Far, back to top">N</a>
+      <span class="letter letter-f" aria-hidden="true">F</span>
+      <figure class="hero-picture">
+        <div class="picture-link" data-photo="coast" aria-label="View the full Coast photograph">
+          <img src="/assets/coast.webp" width="2000" height="1166" alt="Clear turquoise water meeting a quiet pale beach, seen from above" fetchpriority="high">
+          <span class="view-hint" aria-hidden="true">View ↗</span>
+        </div>
+        <figcaption><span>Near & Far</span><span>Field note 01 / Coast</span></figcaption>
+      </figure>
+      <nav class="hero-nav" aria-label="Main navigation"><a href="#series">Series</a><span aria-hidden="true">·</span><a href="#studio">Studio</a><span aria-hidden="true">·</span><a href="#contact">Contact</a></nav>
+      <p class="hero-note">Looking closer.<br>Going further.</p>
+    </section>
+    <section class="series" id="series" aria-labelledby="series-title">
+      <header class="series-heading"><h2 id="series-title">Selected observations</h2><span>02 — 03</span></header>
+      <div class="series-grid">
+        <figure class="project project-street">
+          <div class="picture-link" data-photo="street" aria-label="View the full Passing shadows photograph"><img src="/assets/street.webp" width="2000" height="1333" alt="A pedestrian crossing a sunlit pavement patterned by long tree shadows"><span class="view-hint" aria-hidden="true">View ↗</span></div>
+          <figcaption><h3>Passing shadows</h3><span>02 / Street</span></figcaption>
+        </figure>
+        <figure class="project project-dunes">
+          <div class="picture-link" data-photo="dunes" aria-label="View the full Lines of silence photograph"><img src="/assets/dunes.webp" width="2000" height="1329" alt="A sweeping orange dune with deep blue shadows and a fine wind-carved crest"><span class="view-hint" aria-hidden="true">View ↗</span></div>
+          <figcaption><h3>Lines of silence</h3><span>03 / Landscape</span></figcaption>
+        </figure>
+      </div>
+    </section>
+    <section class="studio" id="studio" aria-labelledby="studio-title">
+      <div class="studio-left"><span class="eyebrow">Near & Far / Studio</span><h2 id="studio-title">A way of looking.</h2></div>
+      <div class="studio-right" id="contact">
+        <h3>New perspectives.<br>Shared stories.</h3>
+        <a class="contact-link" href="mailto:hello@nearandfar.example">Let’s talk <span aria-hidden="true">↗</span></a>
+        <details><summary>Studio notes <span aria-hidden="true">+</span></summary><p>A photography studio exploring the quiet relationship between people, light and place.</p><p class="mediums">Editorial · Travel · Collaboration</p></details>
+        <footer><span>Near & Far © 2026</span><a href="#top">Back to top ↑</a></footer>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

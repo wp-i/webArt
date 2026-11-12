@@ -1,0 +1,3903 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Actual source input supplement; no aesthetic admission or candidate implementation",
+  "source": {
+    "url": "https://mydopo.com/"
+  },
+  "started": "2026-10-25T14:58:47.834Z",
+  "result": "captured-not-visually-approved",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900,
+      "identity": {
+        "url": "https://mydopo.com/",
+        "y": 0,
+        "documentHeight": 4617,
+        "innerHeight": 900,
+        "clientHeight": 885,
+        "innerWidth": 1440,
+        "clientWidth": 1425,
+        "maxUsingInnerHeight": 3717,
+        "maxUsingClientHeight": 3732,
+        "screen": {
+          "width": 1440,
+          "height": 900
+        },
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "reduced": false,
+        "loaderHidden": true
+      },
+      "frames": [
+        {
+          "state": "normal-opening",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-opening.jpg",
+            "sha256": "d97f634a6a7a711ce94f42641dd3471f954f82d172c842b677a77c13147b15be"
+          }
+        },
+        {
+          "state": "normal-forward-0",
+          "url": "https://mydopo.com/",
+          "y": 900,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-0.jpg",
+            "sha256": "fed815397ceaa74dbe5bfb58c97ec8744529ad79360977071fd3d6549920c718"
+          }
+        },
+        {
+          "state": "normal-forward-1",
+          "url": "https://mydopo.com/",
+          "y": 1800,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-1.jpg",
+            "sha256": "d7cf33d42fcf0876c99fde7d933dcef8a3b723bfceea036f2470b0b03c29f2a2"
+          }
+        },
+        {
+          "state": "normal-forward-2",
+          "url": "https://mydopo.com/",
+          "y": 2700,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-2.jpg",
+            "sha256": "a1103ebb733e88f1f2c353734f6860f2b6e0fc51acc0dbccb9f486cae36cf108"
+          }
+        },
+        {
+          "state": "normal-forward-3",
+          "url": "https://mydopo.com/",
+          "y": 3600,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-3.jpg",
+            "sha256": "7f8cb876990dc331f22a252bc9e529947d46aec859ed6fb9a5967a1fef7500c4"
+          }
+        },
+        {
+          "state": "normal-forward-4",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-4.jpg",
+            "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+          }
+        },
+        {
+          "state": "normal-final-blue-default",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-final-blue-default.jpg",
+            "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+          }
+        },
+        {
+          "state": "normal-same-final-scene-before",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-same-final-scene-before.jpg",
+            "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80"
+          }
+        },
+        {
+          "state": "normal-gray-selected",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-selected.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "normal-gray-stopped-after-leave",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-stopped-after-leave.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-0",
+          "url": "https://mydopo.com/",
+          "y": 2715,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-0.jpg",
+            "sha256": "ce22e0777277c8ca3b325932f06333e51737b98b1a40f8a82c25e81e37cdf048"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-1",
+          "url": "https://mydopo.com/",
+          "y": 1815,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-1.jpg",
+            "sha256": "77f11466a70522d723d2763e6e1cf67e430b4dbd541f99524134fd04da292878"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-2",
+          "url": "https://mydopo.com/",
+          "y": 915,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-2.jpg",
+            "sha256": "44c3fe075313e662d3a732b540bd886d011e88bf38397d95008ff22a1dd7d2b0"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-3",
+          "url": "https://mydopo.com/",
+          "y": 15,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-3.jpg",
+            "sha256": "9f4a43508f49d5cbb5e034c537c41ee553617fccda1b95b35a19893397e0e6ce"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-4",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-4.jpg",
+            "sha256": "42deb7fe80ee46f972cae42d642caee561e09764717441e6d8ee7deec7f9e377"
+          }
+        },
+        {
+          "state": "normal-gray-opening-persistent",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-opening-persistent.jpg",
+            "sha256": "1a94a7587f452afedf84d5475a20e5b09c7061cd6c9090cc0fddc5d16aaad5f1"
+          }
+        },
+        {
+          "state": "normal-gray-forward-0",
+          "url": "https://mydopo.com/",
+          "y": 900,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-forward-0.jpg",
+            "sha256": "292b940660bda72b3c69522de4f886528484c8dba79a554b055306deb19049b7"
+          }
+        },
+        {
+          "state": "normal-gray-forward-1",
+          "url": "https://mydopo.com/",
+          "y": 1800,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-forward-1.jpg",
+            "sha256": "07fa257593e5c3bec23859a20a1fed5671f83e953b30f522da23b997a75115a0"
+          }
+        },
+        {
+          "state": "normal-gray-forward-2",
+          "url": "https://mydopo.com/",
+          "y": 2700,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-forward-2.jpg",
+            "sha256": "9c87bc0c3c861461dd64e04f681b12fb61d68248e76364c123a343d5573079dc"
+          }
+        },
+        {
+          "state": "normal-gray-forward-3",
+          "url": "https://mydopo.com/",
+          "y": 3600,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-forward-3.jpg",
+            "sha256": "70f12488fddc30dbb6b710d81a9688f06fcddaca1b2e7ba89de9a392094c8f29"
+          }
+        },
+        {
+          "state": "normal-gray-forward-4",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-forward-4.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "normal-gray-return-final-persistent",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-return-final-persistent.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "normal-blue-selected",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-blue-selected.jpg",
+            "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+          }
+        },
+        {
+          "state": "normal-gray-selected-again",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-selected-again.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "reduced-same-final-scene-before",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-same-final-scene-before.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "reduced-gray-selected",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-selected.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "reduced-gray-stopped-after-leave",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-stopped-after-leave.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-0",
+          "url": "https://mydopo.com/",
+          "y": 2715,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-0.jpg",
+            "sha256": "73d4017f6d393af5906628a90080841f1f10d3cbec192252377bb6b8406dae72"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-1",
+          "url": "https://mydopo.com/",
+          "y": 1815,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-1.jpg",
+            "sha256": "ff2b63a6207c92c0331b08e53f84a2719cb39bd78325329fec182f5dbac64f5a"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-2",
+          "url": "https://mydopo.com/",
+          "y": 915,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-2.jpg",
+            "sha256": "c83ed17bfe0527ab9745f86bb3a472184c3f3938e76a8ba0c23d126f1fabe71b"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-3",
+          "url": "https://mydopo.com/",
+          "y": 15,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-3.jpg",
+            "sha256": "bb674aaa592713dd55c2d038affe60d18734d3ead6ffce432a4f485f266fd4d2"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-4",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-4.jpg",
+            "sha256": "e0b8059444fc00c5f6126425958dfa9ef2ea876f35cf3866872d13ed5a16ed05"
+          }
+        },
+        {
+          "state": "reduced-gray-opening-persistent",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-opening-persistent.jpg",
+            "sha256": "6bff0adaf4adbb7e4edb5d138ba885b7d24fb8b0ca2e0acce8c5fd087851aa02"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-0",
+          "url": "https://mydopo.com/",
+          "y": 900,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-forward-0.jpg",
+            "sha256": "3a66af653e25295ccde18b0025da11f1a22f4b98d2655572836b884bc61a4044"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-1",
+          "url": "https://mydopo.com/",
+          "y": 1800,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-forward-1.jpg",
+            "sha256": "ba8d8c2653c1d45c458f9cd6ff9bcedc114834d9fd10bb2de28ed0eaa7cff9cd"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-2",
+          "url": "https://mydopo.com/",
+          "y": 2700,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-forward-2.jpg",
+            "sha256": "30b2691d01763a79d3d516f7381187e33fc27b6cecd4899feaaca459434e8db0"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-3",
+          "url": "https://mydopo.com/",
+          "y": 3600,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-forward-3.jpg",
+            "sha256": "11fcd22f085a6e1ef86de922474ce5e6997422261f0cb1a3c7741bad4390bdff"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-4",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-forward-4.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "reduced-gray-return-final-persistent",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-return-final-persistent.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        },
+        {
+          "state": "reduced-blue-selected",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-blue-selected.jpg",
+            "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+          }
+        },
+        {
+          "state": "reduced-gray-selected-again",
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-selected-again.jpg",
+            "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 900,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 1800,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 2700,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 3600,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "trusted-mouse-palette",
+          "state": "normal-gray-selected",
+          "geometry": {
+            "selector": ".col-gray",
+            "x": 1350,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 11426.299999952316
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 11434.099999904633
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 11434.199999928474
+            }
+          ]
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 2715,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 1815,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 915,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 15,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 900,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 1800,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 2700,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 3600,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "trusted-mouse-palette",
+          "state": "normal-blue-selected",
+          "geometry": {
+            "selector": ".col-blue",
+            "x": 1299.609375,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-blue",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 21766.299999952316
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 21770.899999976158
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 21770.899999976158
+            }
+          ]
+        },
+        {
+          "input": "trusted-mouse-palette",
+          "state": "normal-gray-selected-again",
+          "geometry": {
+            "selector": ".col-gray",
+            "x": 1350,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 23073.599999904633
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 23081.299999952316
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 23081.399999976158
+            }
+          ]
+        },
+        {
+          "mode": "normal",
+          "actualFinalScene": {
+            "url": "https://mydopo.com/",
+            "y": 3732,
+            "documentHeight": 4617,
+            "innerHeight": 900,
+            "clientHeight": 885,
+            "innerWidth": 1440,
+            "clientWidth": 1425,
+            "maxUsingInnerHeight": 3717,
+            "maxUsingClientHeight": 3732,
+            "screen": {
+              "width": 1440,
+              "height": 900
+            },
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "loaderHidden": true
+          },
+          "note": "Visible product body colors require actual image review; input receipt alone does not award a visual pass."
+        },
+        {
+          "input": "trusted-mouse-palette",
+          "state": "reduced-gray-selected",
+          "geometry": {
+            "selector": ".col-gray",
+            "x": 1350,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 25279
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 25285.199999928474
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 25285.199999928474
+            }
+          ]
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 2715,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 1815,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 915,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 15,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 900,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 1800,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 2700,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 3600,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchMouseEvent:mouseWheel",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 3732,
+          "documentHeight": 4617,
+          "innerHeight": 900,
+          "clientHeight": 885,
+          "innerWidth": 1440,
+          "clientWidth": 1425,
+          "maxUsingInnerHeight": 3717,
+          "maxUsingClientHeight": 3732,
+          "screen": {
+            "width": 1440,
+            "height": 900
+          },
+          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "trusted-mouse-palette",
+          "state": "reduced-blue-selected",
+          "geometry": {
+            "selector": ".col-blue",
+            "x": 1299.609375,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-blue",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 35520.39999997616
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 35526.299999952316
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 35526.39999997616
+            }
+          ]
+        },
+        {
+          "input": "trusted-mouse-palette",
+          "state": "reduced-gray-selected-again",
+          "geometry": {
+            "selector": ".col-gray",
+            "x": 1350,
+            "y": 304.390625,
+            "width": 36,
+            "height": 36,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 36776.699999928474
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 36781.799999952316
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 36781.799999952316
+            }
+          ]
+        },
+        {
+          "mode": "reduced",
+          "actualFinalScene": {
+            "url": "https://mydopo.com/",
+            "y": 3732,
+            "documentHeight": 4617,
+            "innerHeight": 900,
+            "clientHeight": 885,
+            "innerWidth": 1440,
+            "clientWidth": 1425,
+            "maxUsingInnerHeight": 3717,
+            "maxUsingClientHeight": 3732,
+            "screen": {
+              "width": 1440,
+              "height": 900
+            },
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": true,
+            "loaderHidden": true
+          },
+          "note": "Visible product body colors require actual image review; input receipt alone does not award a visual pass."
+        }
+      ],
+      "keyboard": {
+        "attempted": true,
+        "focuses": [
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "shopee-link w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "shopee-link w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "BODY",
+            "class": "body",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "shopee-link w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "shopee-link w-inline-block",
+            "palette": false
+          }
+        ],
+        "paletteReached": false,
+        "paletteDom": [
+          {
+            "tag": "DIV",
+            "tabIndex": -1,
+            "role": null,
+            "label": null
+          },
+          {
+            "tag": "DIV",
+            "tabIndex": -1,
+            "role": null,
+            "label": null
+          }
+        ],
+        "result": "source-palette-not-keyboard-reachable"
+      }
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "identity": {
+        "url": "https://mydopo.com/",
+        "y": 0,
+        "documentHeight": 5178,
+        "innerHeight": 844,
+        "clientHeight": 844,
+        "innerWidth": 390,
+        "clientWidth": 390,
+        "maxUsingInnerHeight": 4334,
+        "maxUsingClientHeight": 4334,
+        "screen": {
+          "width": 390,
+          "height": 844
+        },
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+        "reduced": false,
+        "loaderHidden": true
+      },
+      "frames": [
+        {
+          "state": "normal-opening",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-opening.jpg",
+            "sha256": "f92ceb7598dd1b2ad0fbc01e982542ea323f2d8341089ac109d087f6292527d3"
+          }
+        },
+        {
+          "state": "normal-forward-0",
+          "url": "https://mydopo.com/",
+          "y": 844,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-0.jpg",
+            "sha256": "6db6e1f3ea4711b045796b81976663addf1980feb5607ec5d7343992d313a7b1"
+          }
+        },
+        {
+          "state": "normal-forward-1",
+          "url": "https://mydopo.com/",
+          "y": 1688,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-1.jpg",
+            "sha256": "f73274c50a51556f21fbf027b6170b7b231ef7f806801100ee56625e5d9648a3"
+          }
+        },
+        {
+          "state": "normal-forward-2",
+          "url": "https://mydopo.com/",
+          "y": 2532,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-2.jpg",
+            "sha256": "caf6018d66f100fd37920107fc51ce980fb7a4ffa71e4c6ac2250fd8e1c0157f"
+          }
+        },
+        {
+          "state": "normal-forward-3",
+          "url": "https://mydopo.com/",
+          "y": 3376,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-3.jpg",
+            "sha256": "7bddafa3ed3837316ea762e90c757e523c9c5f2062d0f48ffa439e5950c169f2"
+          }
+        },
+        {
+          "state": "normal-forward-4",
+          "url": "https://mydopo.com/",
+          "y": 4220,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-4.jpg",
+            "sha256": "9e3fb5abb89c74405787c196a2f27ab153c692b97d0ea77aa8bf9578ac0342c2"
+          }
+        },
+        {
+          "state": "normal-forward-5",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-5.jpg",
+            "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+          }
+        },
+        {
+          "state": "normal-final-blue-default",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-final-blue-default.jpg",
+            "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+          }
+        },
+        {
+          "state": "normal-same-final-scene-before",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-same-final-scene-before.jpg",
+            "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c"
+          }
+        },
+        {
+          "state": "normal-gray-selected",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-selected.jpg",
+            "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+          }
+        },
+        {
+          "state": "normal-gray-stopped-after-leave",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-stopped-after-leave.jpg",
+            "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-0",
+          "url": "https://mydopo.com/",
+          "y": 4220,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-0.jpg",
+            "sha256": "ae527a0f020979dedd164fd9fd13ba85e65b88e616a3ccb379fcb6719cb7cc75"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-1",
+          "url": "https://mydopo.com/",
+          "y": 3376,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-1.jpg",
+            "sha256": "ef3592b21e12f38ffa0532cb914616747b85dabb9abc425a15df9b4e48f6e4fd"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-2",
+          "url": "https://mydopo.com/",
+          "y": 2532,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-2.jpg",
+            "sha256": "356c887dcb41314b7c4db19f14da403d764bedd59126f79dea47653f0224e881"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-3",
+          "url": "https://mydopo.com/",
+          "y": 1688,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-3.jpg",
+            "sha256": "90c6442310b818a5f939e458264cf3340f6885431bcdbab37a08a570606717c5"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-4",
+          "url": "https://mydopo.com/",
+          "y": 844,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-4.jpg",
+            "sha256": "d233f2f6190200880ec8f49597ae46aa1046256303a7c7dca93a0232b6e70fbb"
+          }
+        },
+        {
+          "state": "normal-gray-reverse-5",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-5.jpg",
+            "sha256": "b4d0ba98f3ddd44f9b90489701c1ac4ccf225a6b295bcfcf7cb250da95f61bcb"
+          }
+        },
+        {
+          "state": "normal-gray-opening-persistent",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-opening-persistent.jpg",
+            "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8"
+          }
+        },
+        {
+          "state": "normal-gray-forward-0",
+          "url": "https://mydopo.com/",
+          "y": 844,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-0.jpg",
+            "sha256": "1872e866c4692e896218fc63e9637eb5e4fea9869610134c57509065404419ff"
+          }
+        },
+        {
+          "state": "normal-gray-forward-1",
+          "url": "https://mydopo.com/",
+          "y": 1688,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-1.jpg",
+            "sha256": "467c8e8a879bacc4f88a82c2e98951b87bdaccaba0dbb80f567c89df8eb400c8"
+          }
+        },
+        {
+          "state": "normal-gray-forward-2",
+          "url": "https://mydopo.com/",
+          "y": 2532,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-2.jpg",
+            "sha256": "18eef7ea726189a67f7e3d7b17c39cad2939af6512ee761b963d177b4383a090"
+          }
+        },
+        {
+          "state": "normal-gray-forward-3",
+          "url": "https://mydopo.com/",
+          "y": 3376,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-3.jpg",
+            "sha256": "8929ff25fb813304b11519cb863098fcf6cdf0f1ddac8be4cfa7abbf099ddc77"
+          }
+        },
+        {
+          "state": "normal-gray-forward-4",
+          "url": "https://mydopo.com/",
+          "y": 4220,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-4.jpg",
+            "sha256": "e83480e2a1320197e00b7feeb5a57882bd187acb159646be8adb92fd5591ae80"
+          }
+        },
+        {
+          "state": "normal-gray-forward-5",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-5.jpg",
+            "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+          }
+        },
+        {
+          "state": "normal-gray-return-final-persistent",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-return-final-persistent.jpg",
+            "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+          }
+        },
+        {
+          "state": "normal-blue-selected",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-blue-selected.jpg",
+            "sha256": "7c16b5a5774d2593c3863b2bbf6c591f7f31f75eee40da0ad6449e755713ac26"
+          }
+        },
+        {
+          "state": "normal-gray-selected-again",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-selected-again.jpg",
+            "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+          }
+        },
+        {
+          "state": "reduced-same-final-scene-before",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-same-final-scene-before.jpg",
+            "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+          }
+        },
+        {
+          "state": "reduced-gray-selected",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-selected.jpg",
+            "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+          }
+        },
+        {
+          "state": "reduced-gray-stopped-after-leave",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-stopped-after-leave.jpg",
+            "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-0",
+          "url": "https://mydopo.com/",
+          "y": 4220,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-0.jpg",
+            "sha256": "2662750d064b9ca5d3cc453dc0472cbc4dae84c0cf120d015cc61967f2bd830d"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-1",
+          "url": "https://mydopo.com/",
+          "y": 3376,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-1.jpg",
+            "sha256": "01251f0fc117a39eb11936c851f562437e0cc957b34082ecd9259e8212a68d35"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-2",
+          "url": "https://mydopo.com/",
+          "y": 2532,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-2.jpg",
+            "sha256": "6ca7ed91ccb7380da6c07d9a6e88c9b6a612c10422bd922240df17237de24ef8"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-3",
+          "url": "https://mydopo.com/",
+          "y": 1688,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-3.jpg",
+            "sha256": "6d325127b0a9ad464bc58e878a8fe5d4472469b55af6f68d958f4d6e4de3cc96"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-4",
+          "url": "https://mydopo.com/",
+          "y": 844,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-4.jpg",
+            "sha256": "bd85ab4b0471dbc2298d0e87e1206793d4d04386f9a4517a941961a65f9e01b9"
+          }
+        },
+        {
+          "state": "reduced-gray-reverse-5",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-5.jpg",
+            "sha256": "035c3cfed8175c620e49d53f125a978a1b78dc18d8ae91f133f2570ca77139b7"
+          }
+        },
+        {
+          "state": "reduced-gray-opening-persistent",
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-opening-persistent.jpg",
+            "sha256": "29d581174b010eaa430db9e8110bef3f833dd837caa111bc8bf9968095d47675"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-0",
+          "url": "https://mydopo.com/",
+          "y": 844,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-0.jpg",
+            "sha256": "14a3d8ad0d9c988de4dd90f13a613d8e201fd71cf0d668e7f5a016a9fcbf5c98"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-1",
+          "url": "https://mydopo.com/",
+          "y": 1688,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-1.jpg",
+            "sha256": "3b81554dad9da4decfb7c0b70955d31d1e2cc7ee53efef9e954652a8807a908d"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-2",
+          "url": "https://mydopo.com/",
+          "y": 2532,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-2.jpg",
+            "sha256": "8fdda56d4a6ab2d9c44c53240f2e1623d1ff1127a80b3ece739ef5799d64237c"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-3",
+          "url": "https://mydopo.com/",
+          "y": 3376,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-3.jpg",
+            "sha256": "9bbf190713cf33cb070ac20779836fad5ad3accbdfce628127136c90ba2ab166"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-4",
+          "url": "https://mydopo.com/",
+          "y": 4220,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-4.jpg",
+            "sha256": "c3d578bc00cff184b87326377d82f1876e5d3b6161de71bf04326d5e579617f2"
+          }
+        },
+        {
+          "state": "reduced-gray-forward-5",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-5.jpg",
+            "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+          }
+        },
+        {
+          "state": "reduced-gray-return-final-persistent",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-return-final-persistent.jpg",
+            "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+          }
+        },
+        {
+          "state": "reduced-blue-selected",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-blue-selected.jpg",
+            "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+          }
+        },
+        {
+          "state": "reduced-gray-selected-again",
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-selected-again.jpg",
+            "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 844,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 1688,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 2532,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 3376,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 4220,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "trusted-touch-palette",
+          "state": "normal-gray-selected",
+          "geometry": {
+            "selector": ".col-gray",
+            "x": 345.828125,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 12750.200000047684
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 12858.100000023842
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 12858.900000095367
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 12859.600000023842
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 12859.700000047684
+            }
+          ]
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 4220,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 3376,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 2532,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 1688,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 844,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 844,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 1688,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 2532,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 3376,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 4220,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": false,
+          "loaderHidden": true
+        },
+        {
+          "input": "trusted-touch-palette",
+          "state": "normal-blue-selected",
+          "geometry": {
+            "selector": ".col-blue",
+            "x": 288.0625,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-blue",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 28024.400000095367
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 28124.900000095367
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 28125.700000047684
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 28125.800000071526
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 28125.900000095367
+            }
+          ]
+        },
+        {
+          "input": "trusted-touch-palette",
+          "state": "normal-gray-selected-again",
+          "geometry": {
+            "selector": ".col-gray",
+            "x": 345.828125,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 29216.700000047684
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 29324.600000023842
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 29325.400000095367
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 29325.5
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 29325.5
+            }
+          ]
+        },
+        {
+          "mode": "normal",
+          "actualFinalScene": {
+            "url": "https://mydopo.com/",
+            "y": 4334,
+            "documentHeight": 5178,
+            "innerHeight": 844,
+            "clientHeight": 844,
+            "innerWidth": 390,
+            "clientWidth": 390,
+            "maxUsingInnerHeight": 4334,
+            "maxUsingClientHeight": 4334,
+            "screen": {
+              "width": 390,
+              "height": 844
+            },
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+            "reduced": false,
+            "loaderHidden": true
+          },
+          "note": "Visible product body colors require actual image review; input receipt alone does not award a visual pass."
+        },
+        {
+          "input": "trusted-touch-palette",
+          "state": "reduced-gray-selected",
+          "geometry": {
+            "selector": ".col-gray",
+            "x": 345.828125,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 31182.900000095367
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 31282.900000095367
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 31284.200000047684
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 31284.400000095367
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 31284.400000095367
+            }
+          ]
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 4220,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 3376,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 2532,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 1688,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 844,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": -1,
+          "url": "https://mydopo.com/",
+          "y": 0,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 844,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 1688,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 2532,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 3376,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 4220,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "Input.dispatchTouchEvent:touchStart+8touchMove+touchEnd",
+          "direction": 1,
+          "url": "https://mydopo.com/",
+          "y": 4334,
+          "documentHeight": 5178,
+          "innerHeight": 844,
+          "clientHeight": 844,
+          "innerWidth": 390,
+          "clientWidth": 390,
+          "maxUsingInnerHeight": 4334,
+          "maxUsingClientHeight": 4334,
+          "screen": {
+            "width": 390,
+            "height": 844
+          },
+          "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+          "reduced": true,
+          "loaderHidden": true
+        },
+        {
+          "input": "trusted-touch-palette",
+          "state": "reduced-blue-selected",
+          "geometry": {
+            "selector": ".col-blue",
+            "x": 288.0625,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-blue",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 46450.40000009537
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 46557.90000009537
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 46561.10000002384
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 46561.40000009537
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-blue",
+              "key": null,
+              "time": 46561.40000009537
+            }
+          ]
+        },
+        {
+          "input": "trusted-touch-palette",
+          "state": "reduced-gray-selected-again",
+          "geometry": {
+            "selector": ".col-gray",
+            "x": 345.828125,
+            "y": 522.59375,
+            "width": 33.75,
+            "height": 33.75,
+            "hit": "col-gray",
+            "visible": true,
+            "hitMatches": true
+          },
+          "events": [
+            {
+              "type": "touchstart",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 47679
+            },
+            {
+              "type": "touchend",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 47782.200000047684
+            },
+            {
+              "type": "mousedown",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 47783.300000071526
+            },
+            {
+              "type": "mouseup",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 47783.60000002384
+            },
+            {
+              "type": "click",
+              "isTrusted": true,
+              "target": "col-gray",
+              "key": null,
+              "time": 47783.60000002384
+            }
+          ]
+        },
+        {
+          "mode": "reduced",
+          "actualFinalScene": {
+            "url": "https://mydopo.com/",
+            "y": 4334,
+            "documentHeight": 5178,
+            "innerHeight": 844,
+            "clientHeight": 844,
+            "innerWidth": 390,
+            "clientWidth": 390,
+            "maxUsingInnerHeight": 4334,
+            "maxUsingClientHeight": 4334,
+            "screen": {
+              "width": 390,
+              "height": 844
+            },
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.47 Mobile Safari/537.36",
+            "reduced": true,
+            "loaderHidden": true
+          },
+          "note": "Visible product body colors require actual image review; input receipt alone does not award a visual pass."
+        }
+      ],
+      "keyboard": {
+        "attempted": true,
+        "focuses": [
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "BODY",
+            "class": "body",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "BODY",
+            "class": "body",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          },
+          {
+            "tag": "BODY",
+            "class": "body",
+            "palette": false
+          },
+          {
+            "tag": "A",
+            "class": "bottom-btn bottom w-inline-block",
+            "palette": false
+          }
+        ],
+        "paletteReached": false,
+        "paletteDom": [
+          {
+            "tag": "DIV",
+            "tabIndex": -1,
+            "role": null,
+            "label": null
+          },
+          {
+            "tag": "DIV",
+            "tabIndex": -1,
+            "role": null,
+            "label": null
+          }
+        ],
+        "result": "source-palette-not-keyboard-reachable"
+      }
+    }
+  ],
+  "limitations": [
+    "Source color controls are plain divs; keyboard reachability is tested without invoking purchase or social links.",
+    "Generic production reduced pointer frames move the pointer only; actual reduced swatch activation is documented here.",
+    "No source models, textures, fonts or code are acquired for distribution."
+  ],
+  "performance": {
+    "measured": false,
+    "result": "not-measured-no-performance-pass-claimed"
+  }
+}

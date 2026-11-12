@@ -1,0 +1,17 @@
+{
+  "purpose": "Native wheel/touch quickscreen only; not full reference admission",
+  "records": [
+    {
+      "url": "https://www.clouarchitects.com/",
+      "label": "home",
+      "viewports": [],
+      "failure": "页面未完成加载，不能当作已审查"
+    },
+    {
+      "url": "https://www.clouarchitects.com/projects/",
+      "label": "projects",
+      "viewports": [],
+      "failure": "页面未完成加载，不能当作已审查"
+    }
+  ]
+}

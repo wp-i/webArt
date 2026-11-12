@@ -1,0 +1,104 @@
+{
+  "ready": "document.documentElement.dataset.ready==='true' && document.fonts.status==='loaded'",
+  "requireVisibleImages": true,
+  "enterMs": 450,
+  "states": {
+    "opening": 0,
+    "transition": 0.36,
+    "middle": {
+      "selector": "#scene-middle",
+      "offset": 0
+    },
+    "ending": 1
+  },
+  "pointer": {
+    "selector": ".index-options",
+    "scene": "#scene-middle",
+    "axis": "vertical",
+    "settleMs": 450
+  },
+  "initialPointer": {
+    "x": 0.98,
+    "y": 0.02
+  },
+  "settleMs": 450,
+  "deadlineMs": 120000,
+  "url": "http://127.0.0.1:4914/",
+  "manifest": ".webart/prototypes/006-woven-spaces-20261020/manifest.json",
+  "slug": "house-of-ivory",
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "完整摄影呈现织物、设计者或材料在室内的具体关系，品牌与一句用途直接叠置；默认不可只剩抽象装饰、导航或缺少主体的文字。",
+        "material": "摄影须保留柔软织物、褶皱、纤维或空间中的触感和光线，黑白人物和室内色彩是可见的源站开场变体，不以统一塑料质感替代。",
+        "composition": "宏观材质占主要画面，衬线身份位于有控制的空隙，窄导航和短用途保持次级；手机仍保留材质交界和可辨字形。",
+        "role": "默认静止已呈现工作室身份和织物主题，首屏不靠滚动或鼠标才显示主体，后续过程由近距离材料自然带向实际空间。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-opening .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "独立室内空间照片以横向卷轴相邻呈现，窗帘、家具和空间深度可辨，不把同一主图切成多张来增加数量。",
+        "material": "织物处于室内光线与木材、金属之间，保留真实材料反差和细节；不使用统一暗罩掩盖普通照片或欠清晰素材。",
+        "composition": "摄影贯穿视口且边界显露相邻空间的方向，侧边短标签给出当前主题；手机以有足够幅面的单幅空间和直接横滑保持主体。",
+        "role": "原生纵向输入推进横向观看和空间尺度的交接，正向、反向、停止和重复进入均稳定，不用普通统一淡入取代卷轴编排。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-transition .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "竖幅材料或空间细节为索引主图，右侧选择项目与画面有具体对应，不以抽象装饰或孤立文字清单承担主要内容。",
+        "material": "主图需保留织纹、光线和周围结构的材质差异，画面选择带来不同材料观看，不能只变色或在同一照片内小幅取景。",
+        "composition": "白底竖幅主图和轻字索引形成与前段满高卷轴不同的观看比例，手机上下组织清楚，短选择项和主图均在正常路径可到达。",
+        "role": "指针进入、离开、选择和返回实际改变主图，触摸和键盘可得到同一内容；主要材料默认有一项清楚可见，不先要求用户点击。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-middle .visual",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "独立的窗帘、木地板与自然光形成完整室内结果，须使用前段没有承担主构图的新画面，避免重复首图充当结尾。",
+        "material": "透光织物、垂坠厚料和地板接触光影共同保持开场材料主题，细节与明暗有层次，不能以通用纯色邮箱块结束。",
+        "composition": "结尾以有空间深度的摄影和紧凑联系形成完整收束，行动不遮住重要褶皱与光线；手机保留窗、地面及材料相接的结构。",
+        "role": "由近景触感最终回到可居住空间，联系与返回行动直接可用；品牌在末段缩小，不再次重复开场巨大字标或加入无功能空段。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-ending .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": []
+  },
+  "output": "docs/evidence/production/prototype-006-3f7b83d29a186625/attempt-0"
+}

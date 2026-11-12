@@ -1,0 +1,21 @@
+{
+  "capture": {
+    "path": "docs/evidence/redo-v2/2026-10-31/007-lando-reference-01/capture.json",
+    "sha256": "ab4d806e00a6933943891b48699b89a012e2806cbb6448a94f1d48cff3ab0c23"
+  },
+  "plan": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/007-shell-reference-plan-20261031.json",
+    "sha256": "dc58b35ea44a53016f38da8bb2df187ab6a71fb30459bfc4f55cffdef6cc10dc"
+  },
+  "calibration": {
+    "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+    "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+  },
+  "frameContexts": 198,
+  "actualImagePayloads": 178,
+  "sourceModes": 15,
+  "sourceStates": 8,
+  "originalSourceFrames": 141,
+  "newModelCalls": 0,
+  "visualAdmissionGranted": false
+}

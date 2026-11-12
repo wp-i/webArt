@@ -1,0 +1,23 @@
+{
+  "decision": "reference-admitted-for-prototype-only",
+  "referenceReview": {
+    "path": "docs/production/runs/lando-reference-20261031/reference-review.json",
+    "sha256": "b603a763ef713d6554b3b23736d1a0faadbb71e61c238898741e54e032275ee2"
+  },
+  "calibrationReview": {
+    "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+    "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+  },
+  "reviewerId": "codex-account-default:2026-10-29-cli-calibration",
+  "inventoryChanged": false,
+  "packageAuthorized": false,
+  "limitations": "Checks evidence and the recorded comparison; it does not predict visual quality or authorize full implementation.",
+  "reference": {
+    "path": "docs/production/runs/lando-reference-20261031/reference-review.json",
+    "sha256": "b603a763ef713d6554b3b23736d1a0faadbb71e61c238898741e54e032275ee2"
+  },
+  "calibration": {
+    "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+    "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+  }
+}

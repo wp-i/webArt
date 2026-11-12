@@ -1,0 +1,495 @@
+{
+  "started": "2026-10-16T06:02:07.951Z",
+  "origin": "http://127.0.0.1:4322/",
+  "mode": "full",
+  "viewports": [
+    {
+      "name": "desktop",
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 3600,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "wide",
+      "viewport": [
+        2048,
+        912
+      ],
+      "height": 3648,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "tablet",
+      "viewport": [
+        768,
+        1024
+      ],
+      "height": 4096,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "height": 3376,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "narrow",
+      "viewport": [
+        320,
+        844
+      ],
+      "height": 3376,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    }
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "y": 900
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "y": 495
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "y": 2700
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "y": 844
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "y": 464
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "y": 2532
+    }
+  ],
+  "transitions": [
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-opening",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-opening",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-opening",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-transition",
+      "fraction": 0.25,
+      "y": 225
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-transition",
+      "fraction": 0.5,
+      "y": 450
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-transition",
+      "fraction": 0.75,
+      "y": 675
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-middle",
+      "fraction": 0.25,
+      "y": 1125
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-middle",
+      "fraction": 0.5,
+      "y": 1350
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-middle",
+      "fraction": 0.75,
+      "y": 1575
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-ending",
+      "fraction": 0.25,
+      "y": 2025
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-ending",
+      "fraction": 0.5,
+      "y": 2250
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-ending",
+      "fraction": 0.75,
+      "y": 2475
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-opening",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-opening",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-opening",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-transition",
+      "fraction": 0.25,
+      "y": 211
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-transition",
+      "fraction": 0.5,
+      "y": 422
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-transition",
+      "fraction": 0.75,
+      "y": 633
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-middle",
+      "fraction": 0.25,
+      "y": 1055
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-middle",
+      "fraction": 0.5,
+      "y": 1266
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-middle",
+      "fraction": 0.75,
+      "y": 1477
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-ending",
+      "fraction": 0.25,
+      "y": 1899
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-ending",
+      "fraction": 0.5,
+      "y": 2110
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-ending",
+      "fraction": 0.75,
+      "y": 2321
+    }
+  ],
+  "arbitrary": [
+    {
+      "viewport": "desktop",
+      "fraction": 0.14,
+      "y": 378
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.37,
+      "y": 999
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.61,
+      "y": 1647
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.84,
+      "y": 2268
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.14,
+      "y": 354
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.37,
+      "y": 937
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.61,
+      "y": 1545
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.84,
+      "y": 2127
+    }
+  ],
+  "checks": {
+    "desktopWheel": true,
+    "mobileWheel": true,
+    "links": [
+      {
+        "href": "#scene-transition",
+        "valid": true
+      },
+      {
+        "href": "#scene-opening",
+        "valid": true
+      }
+    ],
+    "disclosures": 0,
+    "reduced": true,
+    "noScript": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 3600,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ]
+    },
+    "touchScroll": 485
+  },
+  "errors": [],
+  "result": "passed-observable-checks",
+  "finished": "2026-10-16T06:02:43.932Z"
+}

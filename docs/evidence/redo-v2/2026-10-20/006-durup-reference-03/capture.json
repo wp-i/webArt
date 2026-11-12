@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-20T01:18:26.220Z",
+  "url": "https://www.durup.com/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 11646,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-opening/contact-sheet.jpg",
+          "sha256": "35a44cacf4b300e71474c93fb5636a0c91585788f22d793400a131d823c988bb"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2794,
+      "layout": {
+        "y": 2794,
+        "documentHeight": 11646,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-transition/contact-sheet.jpg",
+          "sha256": "036f0244a2362e64b9137505f8614bfe4426db676284da241480749c91da7867"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 7822,
+      "layout": {
+        "y": 7822,
+        "documentHeight": 11646,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-middle/contact-sheet.jpg",
+          "sha256": "0bdc116a183930c40750899f5beafe5c54f6dd9249cbebad3975d207feed8da3"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 10746,
+      "layout": {
+        "y": 10746,
+        "documentHeight": 11646,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-ending/contact-sheet.jpg",
+          "sha256": "c97816cec662c90e6df3fc3239c37b9ba0e8556b1c11e05780e892fa5c02c29c"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "fba05decb5d6f9e365af0f4fe86dbc9e359f9293fbe41dc7f06d31fedd60fa4e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "03cdcdf875de5447b6b13af8d40483bdcaef47bc0c230e129ae35ce1874ed5ef"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "f42de3a15a97ce04f22497b687b850a4d0af54f560ad628ac5d0baa266364746"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "2ff559159e37e6f9d3a869afa636145236a6861fa24cf7cc33e71ca151e9cbd6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "4eb9b7a17cfde512178caadf9f4ab4588c0c1343ac1c89b92f8a017f3e09a150"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "71a257a66427cfb4d1e29c11f6ea14391ae661688b6223f630584523b57948c1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "17e53d81b2980268eab30f7bb8b50527decb67347f7467ce4bcac2a19a239afc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "5d32694afdbfc95392ffbbd667d4b53c660f920d35c11cd740a48417acc15206"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-03/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "a8dfa8b55bd67f15fe910926a948992b8a7516c417672d808d8438cabf4ec96a"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "result": "failed",
+  "failure": "Native scroll position changed after media/layout readiness; state capture must stop",
+  "finished": "2026-10-20T01:19:01.789Z"
+}

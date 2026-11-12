@@ -1,0 +1,164 @@
+{
+  "checkedAt": "2026-10-31T17:51:45.359Z",
+  "sourceDocuments": {
+    "catalog": {
+      "url": "https://raw.githubusercontent.com/sceneview/sceneview/main/assets/catalog.json",
+      "status": 200,
+      "sha256": "dc10bea6b87062aa960d66f1e4605b6f654d43b37178079806eb0c210da44599"
+    },
+    "manifest": {
+      "url": "https://raw.githubusercontent.com/sceneview/sceneview/main/assets/manifest.json",
+      "status": 200,
+      "sha256": "7142d7a867c76e55f93ebc3bdcfc26d4aa9c832a660db2eb17503ee938338e6e"
+    },
+    "credits": {
+      "url": "https://raw.githubusercontent.com/sceneview/sceneview/main/assets/CREDITS.md",
+      "status": 200,
+      "sha256": "292af633a0dd7b0c1f9cb00524e24376e1101a56dc4f6087009d6d6ff6e3b873"
+    },
+    "original": {
+      "url": "https://api.sketchfab.com/v3/models/6c75ac1b13a047bd86742f37ce25adac",
+      "status": 200,
+      "sha256": "4a9541195cd11755d53e686b94a6d716e2c58693a1ff9f9a28f2293f5284f04a"
+    },
+    "scifiMetadata": {
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SciFiHelmet/metadata.json",
+      "status": 200,
+      "sha256": "77afbbaee743a7bdfb17b067a29155e3522bfc4c209f0e8c67427edc4063fe88"
+    },
+    "scifiLicense": {
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SciFiHelmet/LICENSE.md",
+      "status": 200,
+      "sha256": "a0b16736890a481ffdbfb1c9a10c7e24130edc6a370dd1d8d7baf4e5078e5e28"
+    }
+  },
+  "sceneview": {
+    "creditsEntry": "- **[Motorcycle Helmet](https://sketchfab.com/3d-models/moto-helmet-6c75ac1b13a047bd86742f37ce25adac)** by sayedgamal655 — [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)",
+    "catalogEntry": {
+      "id": "moto_helmet",
+      "name": "Motorcycle Helmet",
+      "source": "sketchfab",
+      "sourceId": "6c75ac1b13a047bd86742f37ce25adac",
+      "sourceUrl": "https://sketchfab.com/3d-models/moto-helmet-6c75ac1b13a047bd86742f37ce25adac",
+      "author": "sayedgamal655",
+      "license": "CC-BY-4.0",
+      "shippedAs": [
+        "moto_helmet_v2.glb"
+      ],
+      "formats": {
+        "glb": {
+          "file": "models/glb/moto_helmet.glb",
+          "size": "3.4MB"
+        }
+      },
+      "tags": [
+        "realistic",
+        "hero",
+        "sport",
+        "protection",
+        "product"
+      ],
+      "usedIn": [
+        "android-demo",
+        "android-tv-demo",
+        "web-demo",
+        "website",
+        "flutter-demo",
+        "react-native-demo"
+      ],
+      "defaultScale": 0.8,
+      "cameraDistance": 2.5
+    },
+    "manifestRelease": {
+      "repo": "sceneview/sceneview",
+      "tag": "assets-v1"
+    },
+    "manifestBaseUrl": "https://github.com/sceneview/sceneview/releases/download/assets-v1",
+    "manifestFiles": [
+      {
+        "path": "website-static/models/platforms/moto_helmet.glb",
+        "scope": "web",
+        "sha256": "1dbef2dd8bac59436d74d957ee8b80fb7b2216101417b9fcc78d7c25d749ea20",
+        "size": 3576408,
+        "source": "https://sketchfab.com/3d-models/moto-helmet-6c75ac1b13a047bd86742f37ce25adac",
+        "license": "CC-BY-4.0",
+        "author": "sayedgamal655"
+      },
+      {
+        "path": "website-static/models/platforms/moto_helmet_v2.glb",
+        "scope": "web",
+        "sha256": "77c3ab5042092f9762394a496646ff66b98789f8a6694c96c4cb14760356ae08",
+        "size": 3134276,
+        "source": "https://sketchfab.com/3d-models/moto-helmet-6c75ac1b13a047bd86742f37ce25adac",
+        "license": "CC-BY-4.0",
+        "author": "sayedgamal655"
+      }
+    ]
+  },
+  "original": {
+    "uid": "6c75ac1b13a047bd86742f37ce25adac",
+    "name": "moto helmet",
+    "author": {
+      "name": "sayedgamal655",
+      "url": "https://sketchfab.com/sayedgamal655"
+    },
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "description": "Leather moto helmet \nmotorcycle\nmotor",
+    "faceCountReported": 103202,
+    "vertexCountReported": 52711,
+    "downloadableListed": true,
+    "preview": {
+      "uid": "521e10e24971419f84d24bd1f57c5ce8",
+      "width": 1920,
+      "height": 1080,
+      "size": 276136,
+      "url": "https://media.sketchfab.com/models/6c75ac1b13a047bd86742f37ce25adac/thumbnails/306d44640ccc4495be30273dbf90e693/3a3460c6e5bf4807a0e5e601eb58216d.jpeg"
+    }
+  },
+  "scifi": {
+    "metadata": {
+      "version": 2,
+      "legal": [
+        {
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+          "artist": "Michael Pavlovic",
+          "year": "2017",
+          "owner": "Public",
+          "what": "Everything",
+          "text": "Creative Commons Zero v1.0 Universal",
+          "spdx": "CC0-1.0",
+          "icon": "https://licensebuttons.net/p/zero/1.0/88x31.png"
+        },
+        {
+          "license": "CC0-1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+          "artist": "Norbert Nopper",
+          "year": "2017",
+          "owner": "Public",
+          "what": "Conversion to glTF",
+          "text": "Creative Commons Zero v1.0 Universal",
+          "spdx": "CC0-1.0",
+          "icon": "https://licensebuttons.net/p/zero/1.0/88x31.png"
+        }
+      ],
+      "tags": [
+        "core",
+        "testing"
+      ],
+      "screenshot": "screenshot/screenshot.jpg",
+      "name": "SciFi Helmet",
+      "path": "./Models/SciFiHelmet",
+      "summary": "Futuristic helmet",
+      "createReadme": true
+    },
+    "licenseText": "# LICENSE file for the model: SciFi Helmet\n\nAll files in this directory tree are licensed as indicated below.\n\n* All files directly associated with the model including all text, image and binary files:\n\n  * [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) [SPDX license identifier: \"CC0-1.0\"]\n\n  * [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) [SPDX license identifier: \"CC0-1.0\"]\n\n* This file and all other metadocumentation files including \"metadata.json\":\n\n  * [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) [SPDX license identifier: \"CC-BY-4.0\"]\n\nFull license text of these licenses are available at the links above.\n\nThis license excludes logos and associated trademarks.\n\n<!-- This file is auto-generated by modelmetadata. Do not edit by hand. -->\n"
+  }
+}

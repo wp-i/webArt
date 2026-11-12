@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-18",
+  "purpose": "Bounded preflight for currently unqualified renderer directions. These observations do not constitute full reference quality admission.",
+  "sourcesDiscoveredFrom": "https://gsap.com/",
+  "nativeSourcesInspected": 3,
+  "referenceGateAdmitted": 0,
+  "newPrototypes": 0,
+  "newArchives": 0,
+  "sourceMediaAcquired": 0,
+  "modelApiCalls": 0,
+  "references": [
+    {
+      "name": "illoca",
+      "url": "https://illoca.unseen.co/",
+      "status": "evidence-needed",
+      "reason": "实际开场和一次原生滚动可见完整人物、办公空间、建筑和统一蓝色手绘材质；核心是成套定制场景，并非一个可直接替换的小组件。DOM为自定义舞台及超过两万像素的功能/价格/FAQ路径；当前未锁完整可分发场景及八状态，本轮不选。不以开场漂亮授予母版准入。",
+      "evidence": [
+        {
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-18/illoca-quick/opening/contact-sheet.jpg",
+          "sha256": "bec277bca9a6cbb7e9c0c9c1a2925a93c852fac9a7aaaa65e954300e8bfd3339"
+        },
+        {
+          "state": "first-native-scroll",
+          "path": "docs/evidence/redo-v2/2026-10-18/illoca-quick/first-native-scroll/contact-sheet.jpg",
+          "sha256": "7f02babdaf40f9ce6a7c75ca77dee09752bf14dd0bb7aae3e1907b5f6c48d107"
+        }
+      ]
+    },
+    {
+      "name": "Gionatan Nese",
+      "url": "https://www.gionatannese.com/",
+      "status": "rejected",
+      "reason": "已实际查看加载后的默认页和一次原生滚动，默认为小尺度环形作品浏览，普通介绍和行动未直接呈现。当前用途前置不符，快筛停止；未进行八状态品质评分，不将作品展示机制改造成另一普通介绍页后冒称保真。",
+      "evidence": [
+        {
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-18/nese-quick/opening/contact-sheet.jpg",
+          "sha256": "e75b1ef8808c3cf6d8d477fd7d3e9fbcfe66f7bca797ddc97a7c7d16d8569e85"
+        },
+        {
+          "state": "first-native-scroll",
+          "path": "docs/evidence/redo-v2/2026-10-18/nese-quick/first-native-scroll/contact-sheet.jpg",
+          "sha256": "255c1f03a06db34bc5dc287726fff5adf3a64800e011b449c64e7a6ca193f1c4"
+        }
+      ]
+    },
+    {
+      "name": "Huy Phan",
+      "url": "https://huyml.co/",
+      "status": "evidence-needed",
+      "reason": "最初黑屏仅为加载诊断，未作审美判断。加载及原生滚动后可见19作品的三维图片浏览和项目文字，当前未完成八状态、收束和完整素材授权/替换方案；本轮不选，不借旧奖项授予质量资格。",
+      "evidence": [
+        {
+          "state": "loaded-after-native-scroll",
+          "path": "docs/evidence/redo-v2/2026-10-18/huyml-quick/loaded-after-native-scroll/contact-sheet.jpg",
+          "sha256": "eb8b53b863eb2fedd5cb83f4816594729e56bf096342e6a1c5a4033fd971c9bc"
+        },
+        {
+          "state": "loading-diagnostic",
+          "path": "docs/evidence/redo-v2/2026-10-18/huyml-quick/loading-diagnostic/contact-sheet.jpg",
+          "sha256": "f6a24aa2f0951f0d9db264ff5e2467e2f4d849f104df90441cfbf275833051ad"
+        }
+      ]
+    }
+  ]
+}

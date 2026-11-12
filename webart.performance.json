@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026-10-18-page-design-budget-v1",
+  "authority": "User accepted Pace visual direction conditionally: optimize stutter or reduce real-time 3D; prioritize engineered page design.",
+  "sampleMs": 1200,
+  "settleMs": 1100,
+  "profiles": [
+    {"id":"desktop","width":1440,"height":900,"dpr":1,"cpu":1,"rafP95Ms":34,"rafP99Ms":75,"longTaskMaxMs":100},
+    {"id":"mobile-stress","width":390,"height":844,"dpr":2,"cpu":4,"rafP95Ms":50,"rafP99Ms":100,"longTaskMaxMs":160}
+  ],
+  "limits": {"renderFps":31,"drawCallsPerFrame":100,"trianglesPerFrame":360000,"drawingBufferPixels":4500000,"idleDrawCalls":0,"reducedDrawCalls":0,"hiddenDrawCalls":0},
+  "historicalReadOnly": ["be63cc3efc3ada19053f19ef3d0d3e7f568d4e367f9b0aeafd8ac3d92740a3de"]
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "id": "007",
+  "url": "https://mydopo.com/",
+  "scope": "actual-source-evidence-and-automated-rejection-not-admission",
+  "reviewer": {
+    "id": "codex-cli:0.164.0-alpha.11.1:default-evidence-v1",
+    "mode": "evidence-only-fresh-codex-cli",
+    "kind": "fresh-codex-cli",
+    "independent": false,
+    "contextIsolated": true,
+    "contextIsolationScope": "fresh conversation; implementation history not supplied",
+    "implementationContextIncluded": false,
+    "backendIndependenceEstablished": false,
+    "requestedModel": null,
+    "actualModel": null,
+    "modelIdentitySource": null,
+    "inputScope": "benchmark+negative+reference",
+    "calibrationRunId": "2026-10-25-cli-calibration"
+  },
+  "decision": "not-selected",
+  "reason": "实际108个图片载荷的自动审查返回reject/replace-direction，字形与材料、观看编排、指针细节、整页收束和手机构图低于基准。主负责人已实看正式四态/过程/真实颜色选择共139上下文、96个去重源站画面：物件及毛毡工艺有特异性，但手机真实4334终点裁断顶部与套口，商业工具占据最后观看。停止该候选，不取得最终资产或创建试片。",
+  "evidence": [
+    {
+      "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/evidence-receipt.json",
+      "sha256": "8200490854c39fda88da9e54726f1b1e5538a10db26a3d8763a2d62833b9eb90"
+    },
+    {
+      "path": ".webart/cli-gate-proof-20261027-02/dopo-reference-rejected-report.json",
+      "sha256": "f33101f6d1f906388028e4948658c1f3a6b288d4c687bc155b2709f6dbe05a2f"
+    },
+    {
+      "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/receipt.json",
+      "sha256": "772cf9c4e5c3b73e263f3086c0b18fe958b40dbee31fb8d7280392b2a02c2a64"
+    }
+  ],
+  "inputLimitations": [
+    "该请求带8幅基准状态，但未带001完整操控过程；此缺口已由后续固定采证包修订，不重做本次审查改变拒绝结果。",
+    "原始自动响应要求重复六稿校准；此前真实六稿校准已完成，后续提示词澄清阶段职责。此单例不证明未见候选的审美预测能力。",
+    "审查后端/实际模型身份未返回，independent=false；新鲜对话输入隔离不证明外部文件系统隔离。"
+  ],
+  "visualAdmissionGranted": false,
+  "candidateCreated": false,
+  "finalAssetsAcquired": false,
+  "newArchiveCreated": false
+}

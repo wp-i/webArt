@@ -1,0 +1,12 @@
+{
+ "runId":"2026-10-15-primary-calibration",
+ "limitations":"Single primary art director retains task context. Label-only visual review precedes reading the new shuffled mapping; this is evidence separation, not a statistically blind external model test. Frozen captures were reused only after current source fingerprint verification.",
+ "samples":[
+  {"label":"A","verdict":"below-benchmark","finding":"紫黑色产品分栏和手机界面清楚，但左侧几行主张、中段回顾表单、居中小CTA是常规产品页节奏；主图、字形和收束没有形成与F材料空间同等强度的连续观看。"},
+  {"label":"B","verdict":"below-benchmark","finding":"黄蓝开场与满宽衬线字标醒目，后续制作照片横列和粉色行动条明显降为普通编辑网格。摄影足够清楚，仍不能与F的材质/光照/字形和独立结尾相比。"},
+  {"label":"C","verdict":"below-benchmark","finding":"杏粉黑体混排和室内材质摄影有辨识度，中段宣言与三列项目、结尾标题和常规链接重复熟悉结构；照片没有贯穿观看的构图交接，整体精度与F不同级。"},
+  {"label":"D","verdict":"below-benchmark","finding":"拱窗、橙色织物与植物形成强主图，但中段三列建筑缩略图和黑底大字联系缺少进一步视觉结果。手机裁切基本成立；漂亮单张首图不能弥补完整路径弱于F。"},
+  {"label":"E","verdict":"below-benchmark","finding":"N/F边角身份、蓝绿照片和错位作品有简明节奏，结尾渐变色块和大字仍属常规组合。与F相比，字体、影像和动作没有在同一主视觉中精确耦合。"},
+  {"label":"F","verdict":"benchmark","finding":"材料褶面、细衬线及入射光形成统一的默认构图；手机重新排字仍嵌入材料，结尾用另一个受光空间承接Remain。中段单帧黑场须结合前后帧查看，不能用它否定完整的材料交接。"}
+ ]
+}

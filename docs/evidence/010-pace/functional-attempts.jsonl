@@ -1,0 +1,8 @@
+{"at":"2026-10-12T06:38:23.798Z","mode":"gate","result":"passed-observable-checks"}
+{"at":"2026-10-12T06:42:24.029Z","mode":"full","result":"failed","failure":"Uncaught"}
+{"at":"2026-10-12T06:44:39.727Z","mode":"full","result":"failed","failure":"Enter cell failed"}
+{"at":"2026-10-12T06:46:12.367Z","mode":"full","result":"failed","failure":"Page.captureScreenshot timed out"}
+{"at":"2026-10-12T06:51:42.501Z","mode":"full","result":"failed","failure":"Internal error"}
+{"at":"2026-10-12T06:56:55.297Z","mode":"full","result":"failed","failure":"Pace QA timeout"}
+{"at":"2026-10-12T06:59:57.177Z","mode":"full","result":"passed-observable-checks"}
+{"at":"2026-10-12T12:00:54.370Z","mode":"full","result":"passed-observable-checks"}

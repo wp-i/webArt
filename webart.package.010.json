@@ -1,0 +1,15 @@
+{
+  "slug":"pace",
+  "version":"0.1.0",
+  "output":"public/pace-source.zip",
+  "files":[
+    {"source":"designs/010-pace/index.html","archive":"index.html"},
+    {"source":"designs/010-pace/package.json","archive":"package.json"},
+    {"source":"designs/010-pace/package-lock.json","archive":"package-lock.json"},
+    {"source":"designs/010-pace/src","archive":"src"},
+    {"source":"designs/010-pace/public/assets","archive":"public/assets"},
+    {"source":"designs/010-pace/README.md","archive":"README.md"},
+    {"source":"designs/010-pace/LICENSE.md","archive":"LICENSE.md"},
+    {"source":"designs/010-pace/THIRD_PARTY_NOTICES.md","archive":"THIRD_PARTY_NOTICES.md"}
+  ]
+}

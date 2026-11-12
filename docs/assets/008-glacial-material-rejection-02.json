@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "008",
+  "phase": "asset-module",
+  "decision": "reject",
+  "recordedAt": "2026-10-30T05:32:37.849Z",
+  "finding": "实际桌面与手机四态显示：改密曲面和减弱曝光后，开场仍是扁平白色塑料拱片，厚度、霜化、内光与雪地接触缺乏具体层次；冻结壳体像透明光滑水滴，内件的表面和空间身份不清；中段仍为普通发光同心圆，末段粒子只形成通用颗粒壳体。手机主体尺度与大片空场进一步削弱观看，不能保留已准入母版的材料权威和空间交接。",
+  "vetoes": [
+    "核心材质仍为平白塑料/光滑透明壳，不能以曲面更密或贴图许可有效视作视觉改善达标。",
+    "冻结内件和粒子收束缺乏同一具体作品的可辨身份，跨状态联系尚未成立。",
+    "普通发光圆环不等于冰质空间交接；手机空场和主体层级不足。"
+  ],
+  "reviewer": {
+    "id": "current-conversation-chief",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "capture": {
+    "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/capture.json",
+    "sha256": "c8fcd3f30ed16e141b796abdaba4e278292956ccbcf05a7b348294f78a074c67"
+  },
+  "files": [
+    {
+      "path": "assets/owned/sill-glacial-20261029/v2/geometry.js",
+      "sha256": "8ea7e9dd059b080e7715ba9336b7615189cef2a2547b483769a9e3fa4259ecbd"
+    },
+    {
+      "path": "assets/owned/sill-glacial-20261029/v2/materials.js",
+      "sha256": "4af955a70d9a4516296b57f4bc2d1909d1ef5ff39616f64b94940d594b1e029e"
+    },
+    {
+      "path": "assets/owned/sill-glacial-20261029/v2/scene.js",
+      "sha256": "f727c2a4093ff886226675ddd912a4201096bffc161cdabadf6f579c34eca418"
+    }
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-opening.jpg",
+          "sha256": "94b839cbb47da3d15a69726851267e07cbef4b3cafb88568474fb373e2410e72"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-transition.jpg",
+          "sha256": "c84d6efaf88ec70787660c6251a53c1cb966722e738c5681fb37eb303af4ff02"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-middle.jpg",
+          "sha256": "558cf9f9a9bd7eea20cb58a21edf8060188dcf81790a87316c765dccebbf3f94"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/desktop-ending.jpg",
+          "sha256": "17b192cb72df00c5e9c591fd9b156447804bb814eeb49a77377d03e25c3022f3"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-opening.jpg",
+          "sha256": "f9c149046c62e13b20a5a1a7b237df47d9b9b615e758fc32fd9543405f6d00de"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-transition.jpg",
+          "sha256": "d48cdffb10886010b718caae62a20bfdec1bacfbc25685ed022d07e5d98e7346"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-middle.jpg",
+          "sha256": "3f8d25416884ea295bd6c90fd6b4448fa5c5a0a754cc9622f1fdb7e0236b1e8a"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/mobile-ending.jpg",
+          "sha256": "0e6fd8b60b50602f22ad02fa41c937ac5a95c3f4b584e1069f97eb1cddaa6a03"
+        }
+      ]
+    }
+  ],
+  "previousRejection": "docs/assets/008-glacial-material-rejection-01.json",
+  "boundedCorrectionUsed": true,
+  "nextAction": "stop-this-authored-material-candidate; no-third-procedural-repair; preserve-reference-admission-and-rejected-source; obtain-a-role-complete-mature-asset-or-admit-another-mother",
+  "candidatePageCreated": false,
+  "fullImplementationAuthorized": false,
+  "packageAuthorized": false,
+  "limitations": "Actual material trial only. The reference admission remains valid for its recorded source evidence; it does not approve replacement assets. Harness state selection and mouse-operated phone controls are not native whole-page/touch prototype evidence. The failed environment capture 02 is preserved separately and is not a visual rejection."
+}

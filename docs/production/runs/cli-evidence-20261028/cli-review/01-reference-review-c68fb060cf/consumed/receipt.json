@@ -1,0 +1,1736 @@
+{
+  "schemaVersion": 1,
+  "kind": "portable-cli-review-consumption",
+  "policyVersion": "portable-cli-review-consumption-v1",
+  "diagnosticPolicyVersion": "codex-cli-review-diagnostics-v1",
+  "requestId": "01-reference-review-c68fb060cf",
+  "role": "reference-review",
+  "request": {
+    "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/request.json",
+    "sha256": "d68daeb09d7a422618bfd09142bc7a6c2eb33dbad4dff0605e5053663d533c4d"
+  },
+  "context": {
+    "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/portable-context.json",
+    "sha256": "109b3ea22104edb8e527e01f667dffa6159146d9ccc4f744fcb6d250bf4e7458"
+  },
+  "rawFiles": {
+    "request.json": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/request.json",
+      "sha256": "d68daeb09d7a422618bfd09142bc7a6c2eb33dbad4dff0605e5053663d533c4d"
+    },
+    "response.json": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/response.json",
+      "sha256": "713b57145a174987243a4347015356cd6c329a4e25e4dec48d93f2cd3a671f87"
+    },
+    "events.jsonl": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/events.jsonl",
+      "sha256": "2d11ff1effa7953fb9f9533cf4df76fbf1c8355f47bf919b52ea083f532eea17"
+    },
+    "stderr.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "process.json": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/process.json",
+      "sha256": "dbaca72e3456c71a6ab006a4174d05c8f822c52bdfcb1282e2d173425f7099e2"
+    },
+    "feature-probe.json": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/feature-probe.json",
+      "sha256": "c471f302e7856fb3afa7b7c27f6a02fd91a31bbf3da853246e12c0e7aebab76a"
+    },
+    "feature-probe.stdout.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/feature-probe.stdout.txt",
+      "sha256": "20d30165a0ac14e0286acaa8d324b3287b9eeebe7e075936f9f6914cbc43f366"
+    },
+    "feature-probe.stderr.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/feature-probe.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "version.stdout.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/version.stdout.txt",
+      "sha256": "230c7fb4eaba503976290892b76e256e03f47a421b784363888ac852cceeb4cf"
+    },
+    "version.stderr.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/version.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "prompt.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/prompt.txt",
+      "sha256": "a60c0c07f5c127c0f493244abbe1f0a31bf440882ace3a0618f06d8d7e327693"
+    },
+    "private-source-map.json": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/private-source-map.json",
+      "sha256": "0694e0c62d0a21d527659e76d22233a600b7cf6bd78cedadced178bc4e442402"
+    }
+  },
+  "inputs": [
+    {
+      "label": "benchmark-0 desktop opening",
+      "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6",
+      "bytes": 1333967,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/000.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      }
+    },
+    {
+      "label": "benchmark-1 desktop transition",
+      "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7",
+      "bytes": 446069,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/001.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.33-2.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      }
+    },
+    {
+      "label": "benchmark-2 desktop middle",
+      "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa",
+      "bytes": 929325,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/002.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      }
+    },
+    {
+      "label": "benchmark-3 desktop ending",
+      "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556",
+      "bytes": 1054815,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/003.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      }
+    },
+    {
+      "label": "benchmark-4 mobile opening",
+      "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d",
+      "bytes": 404267,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/004.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-opening.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      }
+    },
+    {
+      "label": "benchmark-5 mobile transition",
+      "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4",
+      "bytes": 144364,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/005.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      }
+    },
+    {
+      "label": "benchmark-6 mobile middle",
+      "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f",
+      "bytes": 288072,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/006.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      }
+    },
+    {
+      "label": "benchmark-7 mobile ending",
+      "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87",
+      "bytes": 372539,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/007.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      }
+    },
+    {
+      "label": "negative-8 user-rejected desktop opening",
+      "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90",
+      "bytes": 328195,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/008.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-1440-opening.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      }
+    },
+    {
+      "label": "negative-9 user-rejected desktop ending",
+      "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94",
+      "bytes": 43515,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/009.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-1440-scroll-1-6.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      }
+    },
+    {
+      "label": "negative-10 user-rejected mobile opening",
+      "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a",
+      "bytes": 115079,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/010.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-390-opening.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      }
+    },
+    {
+      "label": "negative-11 user-rejected mobile ending",
+      "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a",
+      "bytes": 33760,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/011.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-390-scroll-1-14.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      }
+    },
+    {
+      "label": "reference-12 desktop opening",
+      "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396",
+      "bytes": 68952,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/012.jpg",
+        "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-opening/contact-sheet.jpg",
+        "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+      }
+    },
+    {
+      "label": "reference-13 desktop transition",
+      "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f",
+      "bytes": 61136,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/013.jpg",
+        "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-transition/contact-sheet.jpg",
+        "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+      }
+    },
+    {
+      "label": "reference-14 desktop middle",
+      "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49",
+      "bytes": 57176,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/014.jpg",
+        "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-middle/contact-sheet.jpg",
+        "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+      }
+    },
+    {
+      "label": "reference-15 desktop ending\nreference-20 desktop scroll process 0 (ordered)\nreference-21 desktop scroll process 1 (ordered)\nreference-22 desktop scroll process 2 (ordered)\nreference-69 desktop actual native input normal-forward-4 y=3732 reduced=false\nreference-70 desktop actual native input normal-final-blue-default y=3732 reduced=false\nreference-86 desktop actual native input normal-blue-selected y=3732 reduced=false\nreference-103 desktop actual native input reduced-blue-selected y=3732 reduced=true\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf",
+      "bytes": 98250,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/015.jpg",
+        "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-ending/contact-sheet.jpg",
+        "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+      }
+    },
+    {
+      "label": "reference-16 mobile opening\nreference-51 mobile scroll process 5 (ordered)\nreference-63 mobile scroll complete-scenes process 11 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3",
+      "bytes": 24539,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/016.jpg",
+        "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-opening/contact-sheet.jpg",
+        "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+      }
+    },
+    {
+      "label": "reference-17 mobile transition",
+      "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a",
+      "bytes": 22132,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/017.jpg",
+        "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-transition/contact-sheet.jpg",
+        "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+      }
+    },
+    {
+      "label": "reference-18 mobile middle",
+      "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad",
+      "bytes": 24032,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/018.jpg",
+        "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-middle/contact-sheet.jpg",
+        "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+      }
+    },
+    {
+      "label": "reference-19 mobile ending\nreference-46 mobile scroll process 0 (ordered)\nreference-47 mobile scroll process 1 (ordered)\nreference-48 mobile scroll process 2 (ordered)\nreference-111 mobile actual native input normal-forward-5 y=4334 reduced=false\nreference-112 mobile actual native input normal-final-blue-default y=4334 reduced=false\nreference-149 mobile actual native input reduced-blue-selected y=4334 reduced=true\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253",
+      "bytes": 36566,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/019.jpg",
+        "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-ending/contact-sheet.jpg",
+        "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+      }
+    },
+    {
+      "label": "reference-23 desktop scroll process 3 (ordered)",
+      "sha256": "739a02c2055aa357ecca279de62decbd973a34e8f5f47d32eeaf794b5e16e654",
+      "bytes": 113146,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/020.jpg",
+        "sha256": "739a02c2055aa357ecca279de62decbd973a34e8f5f47d32eeaf794b5e16e654"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scroll-3/contact-sheet.jpg",
+        "sha256": "739a02c2055aa357ecca279de62decbd973a34e8f5f47d32eeaf794b5e16e654"
+      }
+    },
+    {
+      "label": "reference-24 desktop scroll process 4 (ordered)",
+      "sha256": "25b0e1d2adfe862392c6f04bc83e8cd22936dcd94ecf947ffd0b8ab65b43ca20",
+      "bytes": 113631,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/021.jpg",
+        "sha256": "25b0e1d2adfe862392c6f04bc83e8cd22936dcd94ecf947ffd0b8ab65b43ca20"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scroll-4/contact-sheet.jpg",
+        "sha256": "25b0e1d2adfe862392c6f04bc83e8cd22936dcd94ecf947ffd0b8ab65b43ca20"
+      }
+    },
+    {
+      "label": "reference-25 desktop scroll process 5 (ordered)\nreference-37 desktop scroll complete-scenes process 11 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "5195471dbd063328797812719b3eb913838a6cd3668092857f6d7d3009d22417",
+      "bytes": 67423,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/022.jpg",
+        "sha256": "5195471dbd063328797812719b3eb913838a6cd3668092857f6d7d3009d22417"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-reduced/contact-sheet.jpg",
+        "sha256": "5195471dbd063328797812719b3eb913838a6cd3668092857f6d7d3009d22417"
+      }
+    },
+    {
+      "label": "reference-26 desktop scroll complete-scenes process 0 (ordered)",
+      "sha256": "44f1688eab967e1d71062473ae3f186bc22abe2505b8162eab5b746f3e4521f0",
+      "bytes": 69920,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/023.jpg",
+        "sha256": "44f1688eab967e1d71062473ae3f186bc22abe2505b8162eab5b746f3e4521f0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-0/contact-sheet.jpg",
+        "sha256": "44f1688eab967e1d71062473ae3f186bc22abe2505b8162eab5b746f3e4521f0"
+      }
+    },
+    {
+      "label": "reference-27 desktop scroll complete-scenes process 1 (ordered)",
+      "sha256": "e961657678610ff148f82c2e4f3b479b01621cd60096edbd2c1460add63c0d09",
+      "bytes": 61123,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/024.jpg",
+        "sha256": "e961657678610ff148f82c2e4f3b479b01621cd60096edbd2c1460add63c0d09"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-1/contact-sheet.jpg",
+        "sha256": "e961657678610ff148f82c2e4f3b479b01621cd60096edbd2c1460add63c0d09"
+      }
+    },
+    {
+      "label": "reference-28 desktop scroll complete-scenes process 2 (ordered)",
+      "sha256": "47fa1c2fc55488db20558674fba9d54d81781858026be92d92db9ef0fe424bfc",
+      "bytes": 57233,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/025.jpg",
+        "sha256": "47fa1c2fc55488db20558674fba9d54d81781858026be92d92db9ef0fe424bfc"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-2/contact-sheet.jpg",
+        "sha256": "47fa1c2fc55488db20558674fba9d54d81781858026be92d92db9ef0fe424bfc"
+      }
+    },
+    {
+      "label": "reference-29 desktop scroll complete-scenes process 3 (ordered)",
+      "sha256": "28a65dcc1f95f09734a6c169a5d8d4c78b8b8670b85753ee75eed2cee2ae9218",
+      "bytes": 113632,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/026.jpg",
+        "sha256": "28a65dcc1f95f09734a6c169a5d8d4c78b8b8670b85753ee75eed2cee2ae9218"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-3/contact-sheet.jpg",
+        "sha256": "28a65dcc1f95f09734a6c169a5d8d4c78b8b8670b85753ee75eed2cee2ae9218"
+      }
+    },
+    {
+      "label": "reference-30 desktop scroll complete-scenes process 4 (ordered)",
+      "sha256": "a439f8d71c4cc3f9b86a9180bd42487c0192e84869e9318145c0641ee87e8147",
+      "bytes": 94418,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/027.jpg",
+        "sha256": "a439f8d71c4cc3f9b86a9180bd42487c0192e84869e9318145c0641ee87e8147"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-4/contact-sheet.jpg",
+        "sha256": "a439f8d71c4cc3f9b86a9180bd42487c0192e84869e9318145c0641ee87e8147"
+      }
+    },
+    {
+      "label": "reference-31 desktop scroll complete-scenes process 5 (ordered)",
+      "sha256": "2b81a36a59eed52ac8af38c75309a65152203e3f9deb81478716c05f105e9a9d",
+      "bytes": 113413,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/028.jpg",
+        "sha256": "2b81a36a59eed52ac8af38c75309a65152203e3f9deb81478716c05f105e9a9d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-5/contact-sheet.jpg",
+        "sha256": "2b81a36a59eed52ac8af38c75309a65152203e3f9deb81478716c05f105e9a9d"
+      }
+    },
+    {
+      "label": "reference-32 desktop scroll complete-scenes process 6 (ordered)",
+      "sha256": "8f0be865dcf49da1976c082dda476c29c20e15aaca9a546cd34083064e7bc126",
+      "bytes": 57126,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/029.jpg",
+        "sha256": "8f0be865dcf49da1976c082dda476c29c20e15aaca9a546cd34083064e7bc126"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-6/contact-sheet.jpg",
+        "sha256": "8f0be865dcf49da1976c082dda476c29c20e15aaca9a546cd34083064e7bc126"
+      }
+    },
+    {
+      "label": "reference-33 desktop scroll complete-scenes process 7 (ordered)",
+      "sha256": "ee9c60332799b0ca1d77f50d2dc8a0c324335da4ec15c272080d9a3e2803e48c",
+      "bytes": 61320,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/030.jpg",
+        "sha256": "ee9c60332799b0ca1d77f50d2dc8a0c324335da4ec15c272080d9a3e2803e48c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-7/contact-sheet.jpg",
+        "sha256": "ee9c60332799b0ca1d77f50d2dc8a0c324335da4ec15c272080d9a3e2803e48c"
+      }
+    },
+    {
+      "label": "reference-34 desktop scroll complete-scenes process 8 (ordered)",
+      "sha256": "a5c35efb85cb170b4396cd6ec3755610a7c2d1a3f8e81ddab8414a9479040c60",
+      "bytes": 70009,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/031.jpg",
+        "sha256": "a5c35efb85cb170b4396cd6ec3755610a7c2d1a3f8e81ddab8414a9479040c60"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-8/contact-sheet.jpg",
+        "sha256": "a5c35efb85cb170b4396cd6ec3755610a7c2d1a3f8e81ddab8414a9479040c60"
+      }
+    },
+    {
+      "label": "reference-35 desktop scroll complete-scenes process 9 (ordered)\nreference-41 desktop pointer process 3 (ordered)\nreference-43 desktop pointer process 5 (ordered)\nreference-44 desktop pointer process 6 (ordered)\nreference-45 desktop pointer process 7 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179",
+      "bytes": 93061,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/032.jpg",
+        "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-reduced-9/contact-sheet.jpg",
+        "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179"
+      }
+    },
+    {
+      "label": "reference-36 desktop scroll complete-scenes process 10 (ordered)",
+      "sha256": "1f489f1a2e22a28bdf988729c1f698a0d502be26678c0216b7b915013a1d7c0c",
+      "bytes": 67968,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/033.jpg",
+        "sha256": "1f489f1a2e22a28bdf988729c1f698a0d502be26678c0216b7b915013a1d7c0c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-reduced-10/contact-sheet.jpg",
+        "sha256": "1f489f1a2e22a28bdf988729c1f698a0d502be26678c0216b7b915013a1d7c0c"
+      }
+    },
+    {
+      "label": "reference-38 desktop pointer process 0 (ordered)\nreference-39 desktop pointer process 1 (ordered)\nreference-40 desktop pointer process 2 (ordered)\nreference-42 desktop pointer process 4 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "68f4a9b35493fb4763224457110a47848bf60339ea14cdd55c8ef772abe31362",
+      "bytes": 93849,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/034.jpg",
+        "sha256": "68f4a9b35493fb4763224457110a47848bf60339ea14cdd55c8ef772abe31362"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-start/contact-sheet.jpg",
+        "sha256": "68f4a9b35493fb4763224457110a47848bf60339ea14cdd55c8ef772abe31362"
+      }
+    },
+    {
+      "label": "reference-49 mobile scroll process 3 (ordered)\nreference-50 mobile scroll process 4 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "7aabef0ee91a6733c4de3b0e950d100602d0eee32ca19816fafdbffb06d91868",
+      "bytes": 37506,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/035.jpg",
+        "sha256": "7aabef0ee91a6733c4de3b0e950d100602d0eee32ca19816fafdbffb06d91868"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scroll-3/contact-sheet.jpg",
+        "sha256": "7aabef0ee91a6733c4de3b0e950d100602d0eee32ca19816fafdbffb06d91868"
+      }
+    },
+    {
+      "label": "reference-52 mobile scroll complete-scenes process 0 (ordered)",
+      "sha256": "2ce438ee99071b222822f264ce39aa032e7234c9684dfb46418a6b2813eb26db",
+      "bytes": 24780,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/036.jpg",
+        "sha256": "2ce438ee99071b222822f264ce39aa032e7234c9684dfb46418a6b2813eb26db"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-0/contact-sheet.jpg",
+        "sha256": "2ce438ee99071b222822f264ce39aa032e7234c9684dfb46418a6b2813eb26db"
+      }
+    },
+    {
+      "label": "reference-53 mobile scroll complete-scenes process 1 (ordered)",
+      "sha256": "998fef6430874eaadc6b7426c0c3a77813479aa662a6e5121768e2916a8f8b03",
+      "bytes": 22101,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/037.jpg",
+        "sha256": "998fef6430874eaadc6b7426c0c3a77813479aa662a6e5121768e2916a8f8b03"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-1/contact-sheet.jpg",
+        "sha256": "998fef6430874eaadc6b7426c0c3a77813479aa662a6e5121768e2916a8f8b03"
+      }
+    },
+    {
+      "label": "reference-54 mobile scroll complete-scenes process 2 (ordered)",
+      "sha256": "5c71abf42ee14155a41fcf8f0129deb6d7b8577614ab217dc8e2de41abda7924",
+      "bytes": 23988,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/038.jpg",
+        "sha256": "5c71abf42ee14155a41fcf8f0129deb6d7b8577614ab217dc8e2de41abda7924"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-2/contact-sheet.jpg",
+        "sha256": "5c71abf42ee14155a41fcf8f0129deb6d7b8577614ab217dc8e2de41abda7924"
+      }
+    },
+    {
+      "label": "reference-55 mobile scroll complete-scenes process 3 (ordered)",
+      "sha256": "ed7adf3cd128a1f09ee65a15cba3fecb71b42a53633efff1b1b1f13788d575a1",
+      "bytes": 37658,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/039.jpg",
+        "sha256": "ed7adf3cd128a1f09ee65a15cba3fecb71b42a53633efff1b1b1f13788d575a1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-3/contact-sheet.jpg",
+        "sha256": "ed7adf3cd128a1f09ee65a15cba3fecb71b42a53633efff1b1b1f13788d575a1"
+      }
+    },
+    {
+      "label": "reference-56 mobile scroll complete-scenes process 4 (ordered)",
+      "sha256": "989984f0b181a8129fa120236b5794dd5e1c7d525417709daf1a02b289df6cd2",
+      "bytes": 35237,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/040.jpg",
+        "sha256": "989984f0b181a8129fa120236b5794dd5e1c7d525417709daf1a02b289df6cd2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-4/contact-sheet.jpg",
+        "sha256": "989984f0b181a8129fa120236b5794dd5e1c7d525417709daf1a02b289df6cd2"
+      }
+    },
+    {
+      "label": "reference-57 mobile scroll complete-scenes process 5 (ordered)",
+      "sha256": "8b01e2cbf2e4589f7ffd6c8ca8a845d08d8dd61757d9443003ced8874afcee8a",
+      "bytes": 37379,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/041.jpg",
+        "sha256": "8b01e2cbf2e4589f7ffd6c8ca8a845d08d8dd61757d9443003ced8874afcee8a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-5/contact-sheet.jpg",
+        "sha256": "8b01e2cbf2e4589f7ffd6c8ca8a845d08d8dd61757d9443003ced8874afcee8a"
+      }
+    },
+    {
+      "label": "reference-58 mobile scroll complete-scenes process 6 (ordered)",
+      "sha256": "91667254ff09376740d881f5d63f437b835c2a2b1d3070360b30f3f42e35bba1",
+      "bytes": 23878,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/042.jpg",
+        "sha256": "91667254ff09376740d881f5d63f437b835c2a2b1d3070360b30f3f42e35bba1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-6/contact-sheet.jpg",
+        "sha256": "91667254ff09376740d881f5d63f437b835c2a2b1d3070360b30f3f42e35bba1"
+      }
+    },
+    {
+      "label": "reference-59 mobile scroll complete-scenes process 7 (ordered)",
+      "sha256": "ec47c1b956f0a4d56baa771882f57e74033ac84bf0953d6422ded4d98fbe3e14",
+      "bytes": 21432,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/043.jpg",
+        "sha256": "ec47c1b956f0a4d56baa771882f57e74033ac84bf0953d6422ded4d98fbe3e14"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-7/contact-sheet.jpg",
+        "sha256": "ec47c1b956f0a4d56baa771882f57e74033ac84bf0953d6422ded4d98fbe3e14"
+      }
+    },
+    {
+      "label": "reference-60 mobile scroll complete-scenes process 8 (ordered)",
+      "sha256": "44af330c661f74f11a0520148c6640515ab7746bd1b2454c783d438d217c5c82",
+      "bytes": 24741,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/044.jpg",
+        "sha256": "44af330c661f74f11a0520148c6640515ab7746bd1b2454c783d438d217c5c82"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-8/contact-sheet.jpg",
+        "sha256": "44af330c661f74f11a0520148c6640515ab7746bd1b2454c783d438d217c5c82"
+      }
+    },
+    {
+      "label": "reference-61 mobile scroll complete-scenes process 9 (ordered)",
+      "sha256": "44e35ba101177bee8a424417f87221b07c2dfc10e1203e0a6726d1bb7beca785",
+      "bytes": 35246,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/045.jpg",
+        "sha256": "44e35ba101177bee8a424417f87221b07c2dfc10e1203e0a6726d1bb7beca785"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-reduced-9/contact-sheet.jpg",
+        "sha256": "44e35ba101177bee8a424417f87221b07c2dfc10e1203e0a6726d1bb7beca785"
+      }
+    },
+    {
+      "label": "reference-62 mobile scroll complete-scenes process 10 (ordered)",
+      "sha256": "da9663bf00f87cee31f08a0f4f57837100cde8445bb7f8d4d60671793414bd22",
+      "bytes": 24803,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/046.jpg",
+        "sha256": "da9663bf00f87cee31f08a0f4f57837100cde8445bb7f8d4d60671793414bd22"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-reduced-10/contact-sheet.jpg",
+        "sha256": "da9663bf00f87cee31f08a0f4f57837100cde8445bb7f8d4d60671793414bd22"
+      }
+    },
+    {
+      "label": "reference-64 desktop actual native input normal-opening y=0 reduced=false",
+      "sha256": "d97f634a6a7a711ce94f42641dd3471f954f82d172c842b677a77c13147b15be",
+      "bytes": 67792,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/047.jpg",
+        "sha256": "d97f634a6a7a711ce94f42641dd3471f954f82d172c842b677a77c13147b15be"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-opening.jpg",
+        "sha256": "d97f634a6a7a711ce94f42641dd3471f954f82d172c842b677a77c13147b15be"
+      }
+    },
+    {
+      "label": "reference-65 desktop actual native input normal-forward-0 y=900 reduced=false",
+      "sha256": "fed815397ceaa74dbe5bfb58c97ec8744529ad79360977071fd3d6549920c718",
+      "bytes": 60989,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/048.jpg",
+        "sha256": "fed815397ceaa74dbe5bfb58c97ec8744529ad79360977071fd3d6549920c718"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-0.jpg",
+        "sha256": "fed815397ceaa74dbe5bfb58c97ec8744529ad79360977071fd3d6549920c718"
+      }
+    },
+    {
+      "label": "reference-66 desktop actual native input normal-forward-1 y=1800 reduced=false",
+      "sha256": "d7cf33d42fcf0876c99fde7d933dcef8a3b723bfceea036f2470b0b03c29f2a2",
+      "bytes": 57513,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/049.jpg",
+        "sha256": "d7cf33d42fcf0876c99fde7d933dcef8a3b723bfceea036f2470b0b03c29f2a2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-1.jpg",
+        "sha256": "d7cf33d42fcf0876c99fde7d933dcef8a3b723bfceea036f2470b0b03c29f2a2"
+      }
+    },
+    {
+      "label": "reference-67 desktop actual native input normal-forward-2 y=2700 reduced=false",
+      "sha256": "a1103ebb733e88f1f2c353734f6860f2b6e0fc51acc0dbccb9f486cae36cf108",
+      "bytes": 116509,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/050.jpg",
+        "sha256": "a1103ebb733e88f1f2c353734f6860f2b6e0fc51acc0dbccb9f486cae36cf108"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-2.jpg",
+        "sha256": "a1103ebb733e88f1f2c353734f6860f2b6e0fc51acc0dbccb9f486cae36cf108"
+      }
+    },
+    {
+      "label": "reference-68 desktop actual native input normal-forward-3 y=3600 reduced=false",
+      "sha256": "7f8cb876990dc331f22a252bc9e529947d46aec859ed6fb9a5967a1fef7500c4",
+      "bytes": 94908,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/051.jpg",
+        "sha256": "7f8cb876990dc331f22a252bc9e529947d46aec859ed6fb9a5967a1fef7500c4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-3.jpg",
+        "sha256": "7f8cb876990dc331f22a252bc9e529947d46aec859ed6fb9a5967a1fef7500c4"
+      }
+    },
+    {
+      "label": "reference-71 desktop actual native input normal-same-final-scene-before y=3732 reduced=false",
+      "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80",
+      "bytes": 98476,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/052.jpg",
+        "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-same-final-scene-before.jpg",
+        "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80"
+      }
+    },
+    {
+      "label": "reference-72 desktop actual native input normal-gray-selected y=3732 reduced=false\nreference-73 desktop actual native input normal-gray-stopped-after-leave y=3732 reduced=false\nreference-84 desktop actual native input normal-gray-forward-4 y=3732 reduced=false\nreference-85 desktop actual native input normal-gray-return-final-persistent y=3732 reduced=false\nreference-87 desktop actual native input normal-gray-selected-again y=3732 reduced=false\nreference-88 desktop actual native input reduced-same-final-scene-before y=3732 reduced=true\nreference-89 desktop actual native input reduced-gray-selected y=3732 reduced=true\nreference-90 desktop actual native input reduced-gray-stopped-after-leave y=3732 reduced=true\nreference-101 desktop actual native input reduced-gray-forward-4 y=3732 reduced=true\nreference-102 desktop actual native input reduced-gray-return-final-persistent y=3732 reduced=true\nreference-104 desktop actual native input reduced-gray-selected-again y=3732 reduced=true\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e",
+      "bytes": 97172,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/053.jpg",
+        "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-selected.jpg",
+        "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+      }
+    },
+    {
+      "label": "reference-74 desktop actual native input normal-gray-reverse-0 y=2715 reduced=false",
+      "sha256": "ce22e0777277c8ca3b325932f06333e51737b98b1a40f8a82c25e81e37cdf048",
+      "bytes": 112660,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/054.jpg",
+        "sha256": "ce22e0777277c8ca3b325932f06333e51737b98b1a40f8a82c25e81e37cdf048"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-0.jpg",
+        "sha256": "ce22e0777277c8ca3b325932f06333e51737b98b1a40f8a82c25e81e37cdf048"
+      }
+    },
+    {
+      "label": "reference-75 desktop actual native input normal-gray-reverse-1 y=1815 reduced=false",
+      "sha256": "77f11466a70522d723d2763e6e1cf67e430b4dbd541f99524134fd04da292878",
+      "bytes": 55431,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/055.jpg",
+        "sha256": "77f11466a70522d723d2763e6e1cf67e430b4dbd541f99524134fd04da292878"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-1.jpg",
+        "sha256": "77f11466a70522d723d2763e6e1cf67e430b4dbd541f99524134fd04da292878"
+      }
+    },
+    {
+      "label": "reference-76 desktop actual native input normal-gray-reverse-2 y=915 reduced=false",
+      "sha256": "44c3fe075313e662d3a732b540bd886d011e88bf38397d95008ff22a1dd7d2b0",
+      "bytes": 60438,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/056.jpg",
+        "sha256": "44c3fe075313e662d3a732b540bd886d011e88bf38397d95008ff22a1dd7d2b0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-2.jpg",
+        "sha256": "44c3fe075313e662d3a732b540bd886d011e88bf38397d95008ff22a1dd7d2b0"
+      }
+    },
+    {
+      "label": "reference-77 desktop actual native input normal-gray-reverse-3 y=15 reduced=false",
+      "sha256": "9f4a43508f49d5cbb5e034c537c41ee553617fccda1b95b35a19893397e0e6ce",
+      "bytes": 67645,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/057.jpg",
+        "sha256": "9f4a43508f49d5cbb5e034c537c41ee553617fccda1b95b35a19893397e0e6ce"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-3.jpg",
+        "sha256": "9f4a43508f49d5cbb5e034c537c41ee553617fccda1b95b35a19893397e0e6ce"
+      }
+    },
+    {
+      "label": "reference-78 desktop actual native input normal-gray-reverse-4 y=0 reduced=false",
+      "sha256": "42deb7fe80ee46f972cae42d642caee561e09764717441e6d8ee7deec7f9e377",
+      "bytes": 67646,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/058.jpg",
+        "sha256": "42deb7fe80ee46f972cae42d642caee561e09764717441e6d8ee7deec7f9e377"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-4.jpg",
+        "sha256": "42deb7fe80ee46f972cae42d642caee561e09764717441e6d8ee7deec7f9e377"
+      }
+    },
+    {
+      "label": "reference-79 desktop actual native input normal-gray-opening-persistent y=0 reduced=false",
+      "sha256": "1a94a7587f452afedf84d5475a20e5b09c7061cd6c9090cc0fddc5d16aaad5f1",
+      "bytes": 67165,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/059.jpg",
+        "sha256": "1a94a7587f452afedf84d5475a20e5b09c7061cd6c9090cc0fddc5d16aaad5f1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-opening-persistent.jpg",
+        "sha256": "1a94a7587f452afedf84d5475a20e5b09c7061cd6c9090cc0fddc5d16aaad5f1"
+      }
+    },
+    {
+      "label": "reference-80 desktop actual native input normal-gray-forward-0 y=900 reduced=false",
+      "sha256": "292b940660bda72b3c69522de4f886528484c8dba79a554b055306deb19049b7",
+      "bytes": 61300,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/060.jpg",
+        "sha256": "292b940660bda72b3c69522de4f886528484c8dba79a554b055306deb19049b7"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-forward-0.jpg",
+        "sha256": "292b940660bda72b3c69522de4f886528484c8dba79a554b055306deb19049b7"
+      }
+    },
+    {
+      "label": "reference-81 desktop actual native input normal-gray-forward-1 y=1800 reduced=false",
+      "sha256": "07fa257593e5c3bec23859a20a1fed5671f83e953b30f522da23b997a75115a0",
+      "bytes": 55704,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/061.jpg",
+        "sha256": "07fa257593e5c3bec23859a20a1fed5671f83e953b30f522da23b997a75115a0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-forward-1.jpg",
+        "sha256": "07fa257593e5c3bec23859a20a1fed5671f83e953b30f522da23b997a75115a0"
+      }
+    },
+    {
+      "label": "reference-82 desktop actual native input normal-gray-forward-2 y=2700 reduced=false",
+      "sha256": "9c87bc0c3c861461dd64e04f681b12fb61d68248e76364c123a343d5573079dc",
+      "bytes": 116293,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/062.jpg",
+        "sha256": "9c87bc0c3c861461dd64e04f681b12fb61d68248e76364c123a343d5573079dc"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-forward-2.jpg",
+        "sha256": "9c87bc0c3c861461dd64e04f681b12fb61d68248e76364c123a343d5573079dc"
+      }
+    },
+    {
+      "label": "reference-83 desktop actual native input normal-gray-forward-3 y=3600 reduced=false",
+      "sha256": "70f12488fddc30dbb6b710d81a9688f06fcddaca1b2e7ba89de9a392094c8f29",
+      "bytes": 94185,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/063.jpg",
+        "sha256": "70f12488fddc30dbb6b710d81a9688f06fcddaca1b2e7ba89de9a392094c8f29"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-forward-3.jpg",
+        "sha256": "70f12488fddc30dbb6b710d81a9688f06fcddaca1b2e7ba89de9a392094c8f29"
+      }
+    },
+    {
+      "label": "reference-91 desktop actual native input reduced-gray-reverse-0 y=2715 reduced=true",
+      "sha256": "73d4017f6d393af5906628a90080841f1f10d3cbec192252377bb6b8406dae72",
+      "bytes": 112510,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/064.jpg",
+        "sha256": "73d4017f6d393af5906628a90080841f1f10d3cbec192252377bb6b8406dae72"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-0.jpg",
+        "sha256": "73d4017f6d393af5906628a90080841f1f10d3cbec192252377bb6b8406dae72"
+      }
+    },
+    {
+      "label": "reference-92 desktop actual native input reduced-gray-reverse-1 y=1815 reduced=true",
+      "sha256": "ff2b63a6207c92c0331b08e53f84a2719cb39bd78325329fec182f5dbac64f5a",
+      "bytes": 55440,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/065.jpg",
+        "sha256": "ff2b63a6207c92c0331b08e53f84a2719cb39bd78325329fec182f5dbac64f5a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-1.jpg",
+        "sha256": "ff2b63a6207c92c0331b08e53f84a2719cb39bd78325329fec182f5dbac64f5a"
+      }
+    },
+    {
+      "label": "reference-93 desktop actual native input reduced-gray-reverse-2 y=915 reduced=true",
+      "sha256": "c83ed17bfe0527ab9745f86bb3a472184c3f3938e76a8ba0c23d126f1fabe71b",
+      "bytes": 60443,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/066.jpg",
+        "sha256": "c83ed17bfe0527ab9745f86bb3a472184c3f3938e76a8ba0c23d126f1fabe71b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-2.jpg",
+        "sha256": "c83ed17bfe0527ab9745f86bb3a472184c3f3938e76a8ba0c23d126f1fabe71b"
+      }
+    },
+    {
+      "label": "reference-94 desktop actual native input reduced-gray-reverse-3 y=15 reduced=true",
+      "sha256": "bb674aaa592713dd55c2d038affe60d18734d3ead6ffce432a4f485f266fd4d2",
+      "bytes": 67451,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/067.jpg",
+        "sha256": "bb674aaa592713dd55c2d038affe60d18734d3ead6ffce432a4f485f266fd4d2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-3.jpg",
+        "sha256": "bb674aaa592713dd55c2d038affe60d18734d3ead6ffce432a4f485f266fd4d2"
+      }
+    },
+    {
+      "label": "reference-95 desktop actual native input reduced-gray-reverse-4 y=0 reduced=true",
+      "sha256": "e0b8059444fc00c5f6126425958dfa9ef2ea876f35cf3866872d13ed5a16ed05",
+      "bytes": 67769,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/068.jpg",
+        "sha256": "e0b8059444fc00c5f6126425958dfa9ef2ea876f35cf3866872d13ed5a16ed05"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-4.jpg",
+        "sha256": "e0b8059444fc00c5f6126425958dfa9ef2ea876f35cf3866872d13ed5a16ed05"
+      }
+    },
+    {
+      "label": "reference-96 desktop actual native input reduced-gray-opening-persistent y=0 reduced=true",
+      "sha256": "6bff0adaf4adbb7e4edb5d138ba885b7d24fb8b0ca2e0acce8c5fd087851aa02",
+      "bytes": 67157,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/069.jpg",
+        "sha256": "6bff0adaf4adbb7e4edb5d138ba885b7d24fb8b0ca2e0acce8c5fd087851aa02"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-opening-persistent.jpg",
+        "sha256": "6bff0adaf4adbb7e4edb5d138ba885b7d24fb8b0ca2e0acce8c5fd087851aa02"
+      }
+    },
+    {
+      "label": "reference-97 desktop actual native input reduced-gray-forward-0 y=900 reduced=true",
+      "sha256": "3a66af653e25295ccde18b0025da11f1a22f4b98d2655572836b884bc61a4044",
+      "bytes": 61638,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/070.jpg",
+        "sha256": "3a66af653e25295ccde18b0025da11f1a22f4b98d2655572836b884bc61a4044"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-forward-0.jpg",
+        "sha256": "3a66af653e25295ccde18b0025da11f1a22f4b98d2655572836b884bc61a4044"
+      }
+    },
+    {
+      "label": "reference-98 desktop actual native input reduced-gray-forward-1 y=1800 reduced=true",
+      "sha256": "ba8d8c2653c1d45c458f9cd6ff9bcedc114834d9fd10bb2de28ed0eaa7cff9cd",
+      "bytes": 55665,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/071.jpg",
+        "sha256": "ba8d8c2653c1d45c458f9cd6ff9bcedc114834d9fd10bb2de28ed0eaa7cff9cd"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-forward-1.jpg",
+        "sha256": "ba8d8c2653c1d45c458f9cd6ff9bcedc114834d9fd10bb2de28ed0eaa7cff9cd"
+      }
+    },
+    {
+      "label": "reference-99 desktop actual native input reduced-gray-forward-2 y=2700 reduced=true",
+      "sha256": "30b2691d01763a79d3d516f7381187e33fc27b6cecd4899feaaca459434e8db0",
+      "bytes": 116431,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/072.jpg",
+        "sha256": "30b2691d01763a79d3d516f7381187e33fc27b6cecd4899feaaca459434e8db0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-forward-2.jpg",
+        "sha256": "30b2691d01763a79d3d516f7381187e33fc27b6cecd4899feaaca459434e8db0"
+      }
+    },
+    {
+      "label": "reference-100 desktop actual native input reduced-gray-forward-3 y=3600 reduced=true",
+      "sha256": "11fcd22f085a6e1ef86de922474ce5e6997422261f0cb1a3c7741bad4390bdff",
+      "bytes": 93681,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/073.jpg",
+        "sha256": "11fcd22f085a6e1ef86de922474ce5e6997422261f0cb1a3c7741bad4390bdff"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-forward-3.jpg",
+        "sha256": "11fcd22f085a6e1ef86de922474ce5e6997422261f0cb1a3c7741bad4390bdff"
+      }
+    },
+    {
+      "label": "reference-105 mobile actual native input normal-opening y=0 reduced=false",
+      "sha256": "f92ceb7598dd1b2ad0fbc01e982542ea323f2d8341089ac109d087f6292527d3",
+      "bytes": 23799,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/074.jpg",
+        "sha256": "f92ceb7598dd1b2ad0fbc01e982542ea323f2d8341089ac109d087f6292527d3"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-opening.jpg",
+        "sha256": "f92ceb7598dd1b2ad0fbc01e982542ea323f2d8341089ac109d087f6292527d3"
+      }
+    },
+    {
+      "label": "reference-106 mobile actual native input normal-forward-0 y=844 reduced=false",
+      "sha256": "6db6e1f3ea4711b045796b81976663addf1980feb5607ec5d7343992d313a7b1",
+      "bytes": 22257,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/075.jpg",
+        "sha256": "6db6e1f3ea4711b045796b81976663addf1980feb5607ec5d7343992d313a7b1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-0.jpg",
+        "sha256": "6db6e1f3ea4711b045796b81976663addf1980feb5607ec5d7343992d313a7b1"
+      }
+    },
+    {
+      "label": "reference-107 mobile actual native input normal-forward-1 y=1688 reduced=false",
+      "sha256": "f73274c50a51556f21fbf027b6170b7b231ef7f806801100ee56625e5d9648a3",
+      "bytes": 21954,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/076.jpg",
+        "sha256": "f73274c50a51556f21fbf027b6170b7b231ef7f806801100ee56625e5d9648a3"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-1.jpg",
+        "sha256": "f73274c50a51556f21fbf027b6170b7b231ef7f806801100ee56625e5d9648a3"
+      }
+    },
+    {
+      "label": "reference-108 mobile actual native input normal-forward-2 y=2532 reduced=false",
+      "sha256": "caf6018d66f100fd37920107fc51ce980fb7a4ffa71e4c6ac2250fd8e1c0157f",
+      "bytes": 23861,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/077.jpg",
+        "sha256": "caf6018d66f100fd37920107fc51ce980fb7a4ffa71e4c6ac2250fd8e1c0157f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-2.jpg",
+        "sha256": "caf6018d66f100fd37920107fc51ce980fb7a4ffa71e4c6ac2250fd8e1c0157f"
+      }
+    },
+    {
+      "label": "reference-109 mobile actual native input normal-forward-3 y=3376 reduced=false",
+      "sha256": "7bddafa3ed3837316ea762e90c757e523c9c5f2062d0f48ffa439e5950c169f2",
+      "bytes": 37975,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/078.jpg",
+        "sha256": "7bddafa3ed3837316ea762e90c757e523c9c5f2062d0f48ffa439e5950c169f2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-3.jpg",
+        "sha256": "7bddafa3ed3837316ea762e90c757e523c9c5f2062d0f48ffa439e5950c169f2"
+      }
+    },
+    {
+      "label": "reference-110 mobile actual native input normal-forward-4 y=4220 reduced=false",
+      "sha256": "9e3fb5abb89c74405787c196a2f27ab153c692b97d0ea77aa8bf9578ac0342c2",
+      "bytes": 35353,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/079.jpg",
+        "sha256": "9e3fb5abb89c74405787c196a2f27ab153c692b97d0ea77aa8bf9578ac0342c2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-4.jpg",
+        "sha256": "9e3fb5abb89c74405787c196a2f27ab153c692b97d0ea77aa8bf9578ac0342c2"
+      }
+    },
+    {
+      "label": "reference-113 mobile actual native input normal-same-final-scene-before y=4334 reduced=false",
+      "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c",
+      "bytes": 37461,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/080.jpg",
+        "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-same-final-scene-before.jpg",
+        "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c"
+      }
+    },
+    {
+      "label": "reference-114 mobile actual native input normal-gray-selected y=4334 reduced=false\nreference-115 mobile actual native input normal-gray-stopped-after-leave y=4334 reduced=false\nreference-147 mobile actual native input reduced-gray-forward-5 y=4334 reduced=true\nreference-148 mobile actual native input reduced-gray-return-final-persistent y=4334 reduced=true\nreference-150 mobile actual native input reduced-gray-selected-again y=4334 reduced=true\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a",
+      "bytes": 36306,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/081.jpg",
+        "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-selected.jpg",
+        "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+      }
+    },
+    {
+      "label": "reference-116 mobile actual native input normal-gray-reverse-0 y=4220 reduced=false",
+      "sha256": "ae527a0f020979dedd164fd9fd13ba85e65b88e616a3ccb379fcb6719cb7cc75",
+      "bytes": 34953,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/082.jpg",
+        "sha256": "ae527a0f020979dedd164fd9fd13ba85e65b88e616a3ccb379fcb6719cb7cc75"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-0.jpg",
+        "sha256": "ae527a0f020979dedd164fd9fd13ba85e65b88e616a3ccb379fcb6719cb7cc75"
+      }
+    },
+    {
+      "label": "reference-117 mobile actual native input normal-gray-reverse-1 y=3376 reduced=false",
+      "sha256": "ef3592b21e12f38ffa0532cb914616747b85dabb9abc425a15df9b4e48f6e4fd",
+      "bytes": 36815,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/083.jpg",
+        "sha256": "ef3592b21e12f38ffa0532cb914616747b85dabb9abc425a15df9b4e48f6e4fd"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-1.jpg",
+        "sha256": "ef3592b21e12f38ffa0532cb914616747b85dabb9abc425a15df9b4e48f6e4fd"
+      }
+    },
+    {
+      "label": "reference-118 mobile actual native input normal-gray-reverse-2 y=2532 reduced=false",
+      "sha256": "356c887dcb41314b7c4db19f14da403d764bedd59126f79dea47653f0224e881",
+      "bytes": 23686,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/084.jpg",
+        "sha256": "356c887dcb41314b7c4db19f14da403d764bedd59126f79dea47653f0224e881"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-2.jpg",
+        "sha256": "356c887dcb41314b7c4db19f14da403d764bedd59126f79dea47653f0224e881"
+      }
+    },
+    {
+      "label": "reference-119 mobile actual native input normal-gray-reverse-3 y=1688 reduced=false",
+      "sha256": "90c6442310b818a5f939e458264cf3340f6885431bcdbab37a08a570606717c5",
+      "bytes": 20826,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/085.jpg",
+        "sha256": "90c6442310b818a5f939e458264cf3340f6885431bcdbab37a08a570606717c5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-3.jpg",
+        "sha256": "90c6442310b818a5f939e458264cf3340f6885431bcdbab37a08a570606717c5"
+      }
+    },
+    {
+      "label": "reference-120 mobile actual native input normal-gray-reverse-4 y=844 reduced=false",
+      "sha256": "d233f2f6190200880ec8f49597ae46aa1046256303a7c7dca93a0232b6e70fbb",
+      "bytes": 21103,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/086.jpg",
+        "sha256": "d233f2f6190200880ec8f49597ae46aa1046256303a7c7dca93a0232b6e70fbb"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-4.jpg",
+        "sha256": "d233f2f6190200880ec8f49597ae46aa1046256303a7c7dca93a0232b6e70fbb"
+      }
+    },
+    {
+      "label": "reference-121 mobile actual native input normal-gray-reverse-5 y=0 reduced=false",
+      "sha256": "b4d0ba98f3ddd44f9b90489701c1ac4ccf225a6b295bcfcf7cb250da95f61bcb",
+      "bytes": 23963,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/087.jpg",
+        "sha256": "b4d0ba98f3ddd44f9b90489701c1ac4ccf225a6b295bcfcf7cb250da95f61bcb"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-5.jpg",
+        "sha256": "b4d0ba98f3ddd44f9b90489701c1ac4ccf225a6b295bcfcf7cb250da95f61bcb"
+      }
+    },
+    {
+      "label": "reference-122 mobile actual native input normal-gray-opening-persistent y=0 reduced=false",
+      "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8",
+      "bytes": 24204,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/088.jpg",
+        "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-opening-persistent.jpg",
+        "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8"
+      }
+    },
+    {
+      "label": "reference-123 mobile actual native input normal-gray-forward-0 y=844 reduced=false",
+      "sha256": "1872e866c4692e896218fc63e9637eb5e4fea9869610134c57509065404419ff",
+      "bytes": 22291,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/089.jpg",
+        "sha256": "1872e866c4692e896218fc63e9637eb5e4fea9869610134c57509065404419ff"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-0.jpg",
+        "sha256": "1872e866c4692e896218fc63e9637eb5e4fea9869610134c57509065404419ff"
+      }
+    },
+    {
+      "label": "reference-124 mobile actual native input normal-gray-forward-1 y=1688 reduced=false",
+      "sha256": "467c8e8a879bacc4f88a82c2e98951b87bdaccaba0dbb80f567c89df8eb400c8",
+      "bytes": 21765,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/090.jpg",
+        "sha256": "467c8e8a879bacc4f88a82c2e98951b87bdaccaba0dbb80f567c89df8eb400c8"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-1.jpg",
+        "sha256": "467c8e8a879bacc4f88a82c2e98951b87bdaccaba0dbb80f567c89df8eb400c8"
+      }
+    },
+    {
+      "label": "reference-125 mobile actual native input normal-gray-forward-2 y=2532 reduced=false",
+      "sha256": "18eef7ea726189a67f7e3d7b17c39cad2939af6512ee761b963d177b4383a090",
+      "bytes": 23758,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/091.jpg",
+        "sha256": "18eef7ea726189a67f7e3d7b17c39cad2939af6512ee761b963d177b4383a090"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-2.jpg",
+        "sha256": "18eef7ea726189a67f7e3d7b17c39cad2939af6512ee761b963d177b4383a090"
+      }
+    },
+    {
+      "label": "reference-126 mobile actual native input normal-gray-forward-3 y=3376 reduced=false",
+      "sha256": "8929ff25fb813304b11519cb863098fcf6cdf0f1ddac8be4cfa7abbf099ddc77",
+      "bytes": 37982,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/092.jpg",
+        "sha256": "8929ff25fb813304b11519cb863098fcf6cdf0f1ddac8be4cfa7abbf099ddc77"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-3.jpg",
+        "sha256": "8929ff25fb813304b11519cb863098fcf6cdf0f1ddac8be4cfa7abbf099ddc77"
+      }
+    },
+    {
+      "label": "reference-127 mobile actual native input normal-gray-forward-4 y=4220 reduced=false",
+      "sha256": "e83480e2a1320197e00b7feeb5a57882bd187acb159646be8adb92fd5591ae80",
+      "bytes": 35015,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/093.jpg",
+        "sha256": "e83480e2a1320197e00b7feeb5a57882bd187acb159646be8adb92fd5591ae80"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-4.jpg",
+        "sha256": "e83480e2a1320197e00b7feeb5a57882bd187acb159646be8adb92fd5591ae80"
+      }
+    },
+    {
+      "label": "reference-128 mobile actual native input normal-gray-forward-5 y=4334 reduced=false\nreference-129 mobile actual native input normal-gray-return-final-persistent y=4334 reduced=false\nreference-131 mobile actual native input normal-gray-selected-again y=4334 reduced=false\nreference-132 mobile actual native input reduced-same-final-scene-before y=4334 reduced=true\nreference-133 mobile actual native input reduced-gray-selected y=4334 reduced=true\nreference-134 mobile actual native input reduced-gray-stopped-after-leave y=4334 reduced=true\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e",
+      "bytes": 36286,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/094.jpg",
+        "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-5.jpg",
+        "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+      }
+    },
+    {
+      "label": "reference-130 mobile actual native input normal-blue-selected y=4334 reduced=false",
+      "sha256": "7c16b5a5774d2593c3863b2bbf6c591f7f31f75eee40da0ad6449e755713ac26",
+      "bytes": 36501,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/095.jpg",
+        "sha256": "7c16b5a5774d2593c3863b2bbf6c591f7f31f75eee40da0ad6449e755713ac26"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-blue-selected.jpg",
+        "sha256": "7c16b5a5774d2593c3863b2bbf6c591f7f31f75eee40da0ad6449e755713ac26"
+      }
+    },
+    {
+      "label": "reference-135 mobile actual native input reduced-gray-reverse-0 y=4220 reduced=true",
+      "sha256": "2662750d064b9ca5d3cc453dc0472cbc4dae84c0cf120d015cc61967f2bd830d",
+      "bytes": 34894,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/096.jpg",
+        "sha256": "2662750d064b9ca5d3cc453dc0472cbc4dae84c0cf120d015cc61967f2bd830d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-0.jpg",
+        "sha256": "2662750d064b9ca5d3cc453dc0472cbc4dae84c0cf120d015cc61967f2bd830d"
+      }
+    },
+    {
+      "label": "reference-136 mobile actual native input reduced-gray-reverse-1 y=3376 reduced=true",
+      "sha256": "01251f0fc117a39eb11936c851f562437e0cc957b34082ecd9259e8212a68d35",
+      "bytes": 36715,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/097.jpg",
+        "sha256": "01251f0fc117a39eb11936c851f562437e0cc957b34082ecd9259e8212a68d35"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-1.jpg",
+        "sha256": "01251f0fc117a39eb11936c851f562437e0cc957b34082ecd9259e8212a68d35"
+      }
+    },
+    {
+      "label": "reference-137 mobile actual native input reduced-gray-reverse-2 y=2532 reduced=true",
+      "sha256": "6ca7ed91ccb7380da6c07d9a6e88c9b6a612c10422bd922240df17237de24ef8",
+      "bytes": 23571,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/098.jpg",
+        "sha256": "6ca7ed91ccb7380da6c07d9a6e88c9b6a612c10422bd922240df17237de24ef8"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-2.jpg",
+        "sha256": "6ca7ed91ccb7380da6c07d9a6e88c9b6a612c10422bd922240df17237de24ef8"
+      }
+    },
+    {
+      "label": "reference-138 mobile actual native input reduced-gray-reverse-3 y=1688 reduced=true",
+      "sha256": "6d325127b0a9ad464bc58e878a8fe5d4472469b55af6f68d958f4d6e4de3cc96",
+      "bytes": 20654,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/099.jpg",
+        "sha256": "6d325127b0a9ad464bc58e878a8fe5d4472469b55af6f68d958f4d6e4de3cc96"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-3.jpg",
+        "sha256": "6d325127b0a9ad464bc58e878a8fe5d4472469b55af6f68d958f4d6e4de3cc96"
+      }
+    },
+    {
+      "label": "reference-139 mobile actual native input reduced-gray-reverse-4 y=844 reduced=true",
+      "sha256": "bd85ab4b0471dbc2298d0e87e1206793d4d04386f9a4517a941961a65f9e01b9",
+      "bytes": 20996,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/100.jpg",
+        "sha256": "bd85ab4b0471dbc2298d0e87e1206793d4d04386f9a4517a941961a65f9e01b9"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-4.jpg",
+        "sha256": "bd85ab4b0471dbc2298d0e87e1206793d4d04386f9a4517a941961a65f9e01b9"
+      }
+    },
+    {
+      "label": "reference-140 mobile actual native input reduced-gray-reverse-5 y=0 reduced=true",
+      "sha256": "035c3cfed8175c620e49d53f125a978a1b78dc18d8ae91f133f2570ca77139b7",
+      "bytes": 23877,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/101.jpg",
+        "sha256": "035c3cfed8175c620e49d53f125a978a1b78dc18d8ae91f133f2570ca77139b7"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-5.jpg",
+        "sha256": "035c3cfed8175c620e49d53f125a978a1b78dc18d8ae91f133f2570ca77139b7"
+      }
+    },
+    {
+      "label": "reference-141 mobile actual native input reduced-gray-opening-persistent y=0 reduced=true",
+      "sha256": "29d581174b010eaa430db9e8110bef3f833dd837caa111bc8bf9968095d47675",
+      "bytes": 24266,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/102.jpg",
+        "sha256": "29d581174b010eaa430db9e8110bef3f833dd837caa111bc8bf9968095d47675"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-opening-persistent.jpg",
+        "sha256": "29d581174b010eaa430db9e8110bef3f833dd837caa111bc8bf9968095d47675"
+      }
+    },
+    {
+      "label": "reference-142 mobile actual native input reduced-gray-forward-0 y=844 reduced=true",
+      "sha256": "14a3d8ad0d9c988de4dd90f13a613d8e201fd71cf0d668e7f5a016a9fcbf5c98",
+      "bytes": 22280,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/103.jpg",
+        "sha256": "14a3d8ad0d9c988de4dd90f13a613d8e201fd71cf0d668e7f5a016a9fcbf5c98"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-0.jpg",
+        "sha256": "14a3d8ad0d9c988de4dd90f13a613d8e201fd71cf0d668e7f5a016a9fcbf5c98"
+      }
+    },
+    {
+      "label": "reference-143 mobile actual native input reduced-gray-forward-1 y=1688 reduced=true",
+      "sha256": "3b81554dad9da4decfb7c0b70955d31d1e2cc7ee53efef9e954652a8807a908d",
+      "bytes": 21514,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/104.jpg",
+        "sha256": "3b81554dad9da4decfb7c0b70955d31d1e2cc7ee53efef9e954652a8807a908d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-1.jpg",
+        "sha256": "3b81554dad9da4decfb7c0b70955d31d1e2cc7ee53efef9e954652a8807a908d"
+      }
+    },
+    {
+      "label": "reference-144 mobile actual native input reduced-gray-forward-2 y=2532 reduced=true",
+      "sha256": "8fdda56d4a6ab2d9c44c53240f2e1623d1ff1127a80b3ece739ef5799d64237c",
+      "bytes": 23533,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/105.jpg",
+        "sha256": "8fdda56d4a6ab2d9c44c53240f2e1623d1ff1127a80b3ece739ef5799d64237c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-2.jpg",
+        "sha256": "8fdda56d4a6ab2d9c44c53240f2e1623d1ff1127a80b3ece739ef5799d64237c"
+      }
+    },
+    {
+      "label": "reference-145 mobile actual native input reduced-gray-forward-3 y=3376 reduced=true",
+      "sha256": "9bbf190713cf33cb070ac20779836fad5ad3accbdfce628127136c90ba2ab166",
+      "bytes": 38157,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/106.jpg",
+        "sha256": "9bbf190713cf33cb070ac20779836fad5ad3accbdfce628127136c90ba2ab166"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-3.jpg",
+        "sha256": "9bbf190713cf33cb070ac20779836fad5ad3accbdfce628127136c90ba2ab166"
+      }
+    },
+    {
+      "label": "reference-146 mobile actual native input reduced-gray-forward-4 y=4220 reduced=true",
+      "sha256": "c3d578bc00cff184b87326377d82f1876e5d3b6161de71bf04326d5e579617f2",
+      "bytes": 34992,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/107.jpg",
+        "sha256": "c3d578bc00cff184b87326377d82f1876e5d3b6161de71bf04326d5e579617f2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-forward-4.jpg",
+        "sha256": "c3d578bc00cff184b87326377d82f1876e5d3b6161de71bf04326d5e579617f2"
+      }
+    }
+  ],
+  "implementations": [
+    {
+      "path": "scripts/production/cli-review-receipt.mjs",
+      "sha256": "e362e54680143d0fcc0098882feb6d5ce15197bca8aff98c777eab1b960cab55"
+    },
+    {
+      "path": "scripts/production/cli-review.mjs",
+      "sha256": "93b4c9b03feb5e90911d7b625a15b8bbe32c49ee50b654b7e623c2ed5c24bc79"
+    },
+    {
+      "path": "scripts/production/schemas.mjs",
+      "sha256": "f62b6b78ef4aee2d6803ee5ff87a456a7a45d4b7f558412b43504bc095dcee60"
+    },
+    {
+      "path": "scripts/production/session-review.mjs",
+      "sha256": "a2ec1b2ed775aec77af46a4a85c9c96e665ea98a999efb709fd9dbd58528afdd"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/api.mjs",
+      "sha256": "e78e43228b5e2e29b5078f2a0907d1f39edad7411c5f2f5b3b220111e8577b03"
+    }
+  ],
+  "canonicalReport": {
+    "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/consumed/canonical-report.json",
+    "sha256": "7e786a2c6e31b1125be32d8837de379dfef2556629d026baa2e1b88d0db241f5"
+  },
+  "canonicalReportSha256": "ee17059311fc183963d2368c0fb3aaf2ca5d8ea606f1f31600fdc04acd9a064b",
+  "resultProjection": "exact-role-projection-recomputed-at-validation",
+  "cliVersion": "codex-cli 0.164.0-alpha.11.1",
+  "provenance": {
+    "mode": "evidence-only-fresh-codex-cli",
+    "kind": "fresh-codex-cli",
+    "independent": false,
+    "contextIsolated": true,
+    "contextIsolationScope": "fresh conversation; implementation history not supplied",
+    "implementationContextIncluded": false,
+    "backendIndependenceEstablished": false,
+    "requestedModel": null,
+    "actualModel": null,
+    "modelIdentitySource": null
+  },
+  "threadId": "01a17bcd-234c-7fd0-9dfe-0ff9e5218c19",
+  "eventCount": 6,
+  "usage": {
+    "input_tokens": 125157,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 3192,
+    "reasoning_output_tokens": 58
+  },
+  "diagnostics": [
+    {
+      "eventIndex": 1,
+      "kind": "startup-skip-host-skill-discovery",
+      "message": "Under-development features enabled: skip_host_skill_discovery. Under-development features are incomplete and may behave unpredictably. To suppress this warning, set `suppress_unstable_features_warning = true` in C:\\Users\\11509\\.codex\\config.toml."
+    },
+    {
+      "eventIndex": 2,
+      "kind": "startup-code-mode-disabled",
+      "message": "Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."
+    }
+  ],
+  "stderrDiagnostics": {
+    "retryLogs": 0,
+    "fallbackLogs": 0,
+    "bannerModel": null
+  },
+  "cliInvocations": 1,
+  "automaticAdapterRetries": 0,
+  "backendRequestCount": null,
+  "toolsObserved": 0,
+  "effectiveFeatures": {
+    "agent_message_board": false,
+    "analytics_plan_history": false,
+    "api_key_cyber_access_programs": true,
+    "api_key_model_discovery": true,
+    "app_server_websocket_compression": false,
+    "apply_patch_freeform": false,
+    "apply_patch_preserve_line_endings": false,
+    "apply_patch_streaming_events": false,
+    "apps": false,
+    "apps_mcp_path_override": false,
+    "artifact": false,
+    "async_compaction": false,
+    "auth_elicitation": true,
+    "background_paginated_rollout_migration": false,
+    "bedrock_setup_wizard": true,
+    "browser_annotation_api": false,
+    "browser_use": false,
+    "browser_use_external": false,
+    "browser_use_full_cdp_access": false,
+    "chronicle": false,
+    "cli_daybreak": true,
+    "code_mode": false,
+    "code_mode_buffered_exec": false,
+    "code_mode_host": false,
+    "code_mode_host_grpc": false,
+    "code_mode_interrupt": true,
+    "code_mode_only": false,
+    "code_mode_only_strict_3p_tools": false,
+    "code_mode_prewarm": false,
+    "code_mode_tool_description_first": false,
+    "code_mode_tool_search": false,
+    "codex_apps_mcp_2026_07_28": false,
+    "codex_git_commit": false,
+    "collaboration_modes": true,
+    "compaction_image_budget": true,
+    "computer_use": false,
+    "concurrent_reasoning_summaries": false,
+    "content_item_kinds": true,
+    "context_management": false,
+    "credential_masking": false,
+    "current_time_reminder": false,
+    "cwd_relative_turn_diffs": false,
+    "daemon_auto_start": true,
+    "default_mode_request_user_input": false,
+    "defer_mailbox_preemption": false,
+    "deferred_executor": false,
+    "deferred_tool_world_state": false,
+    "elevated_windows_sandbox": false,
+    "enable_fanout": false,
+    "enable_mcp_apps": false,
+    "enable_request_compression": true,
+    "exec_permission_approvals": false,
+    "executed_tool_call_metadata": false,
+    "executor_capability_discovery": false,
+    "executor_capability_discovery_v2": false,
+    "experimental_windows_sandbox": false,
+    "external_agent_memory_import": false,
+    "external_migration": false,
+    "fast_mode": true,
+    "goals": false,
+    "guardian_approval": true,
+    "guardian_conversation_history_tools": false,
+    "guardian_enhanced_node_repl_transcripts": false,
+    "guardian_ext": false,
+    "guardian_node_repl_transcript_images": false,
+    "guardian_reuse_parent_compaction": true,
+    "guardian_root_handoff_context": false,
+    "guardian_trust_orchestrator_connectors": false,
+    "guardianv2": false,
+    "guardianv2.thread_context": false,
+    "guardianv2_decisions_comparison": false,
+    "hooks": false,
+    "image_detail_original": false,
+    "image_generation": false,
+    "image_resize_notice": false,
+    "in_app_browser": false,
+    "in_app_chat": true,
+    "in_app_dictation": true,
+    "in_app_local_automation": false,
+    "in_app_updates": true,
+    "in_app_voice": true,
+    "incremental_tools": true,
+    "instant_interrupt": true,
+    "item_ids": true,
+    "js_repl": false,
+    "js_repl_tools_only": false,
+    "local_thread_store_compression": false,
+    "local_thread_store_shared_compression": false,
+    "login_shell_package_path": false,
+    "mcp_2026_07_28": false,
+    "mcp_oauth_refresh_coordination": true,
+    "mcp_tool_list_changed": false,
+    "memories": false,
+    "mentions_v2": true,
+    "model_catalog_in_context": false,
+    "multi_agent": false,
+    "multi_agent_mode": false,
+    "multi_agent_v2": false,
+    "multi_agent_v2_dynamic_tools": false,
+    "multi_env_copy_file": false,
+    "network_proxy": false,
+    "non_prefixed_mcp_tool_names": false,
+    "nonfatal_clock_read_errors": false,
+    "omit_app_server_notification_media": false,
+    "output_token_replay": false,
+    "personality": false,
+    "plugin_hooks": false,
+    "plugin_sharing": true,
+    "plugins": false,
+    "powershell_shell_version": false,
+    "prefer_mxc": false,
+    "prevent_idle_sleep": false,
+    "psp": false,
+    "realtime_conversation": true,
+    "reasoning_effort_override": false,
+    "recommended_plugins": false,
+    "remote_compaction_v2": false,
+    "remote_control": false,
+    "remote_models": false,
+    "remote_plugin": false,
+    "request_permissions_tool": false,
+    "request_rule": false,
+    "resize_all_images": true,
+    "respect_system_proxy": false,
+    "responses_websockets": false,
+    "responses_websockets_v2": false,
+    "retain_client_developer_messages": false,
+    "retain_client_tool_outputs": false,
+    "rollout_budget": false,
+    "runtime_agent_instances": false,
+    "runtime_metrics": false,
+    "search_tool": false,
+    "secret_auth_storage": true,
+    "send_async_message": false,
+    "send_message_to_user_async": false,
+    "shell_snapshot": false,
+    "shell_snapshot_v2": false,
+    "shell_tool": false,
+    "shell_zsh_fork": false,
+    "skill_env_var_dependency_prompt": false,
+    "skill_mcp_dependency_install": false,
+    "skill_search": false,
+    "skip_host_skill_discovery": true,
+    "sleep_tool": false,
+    "sqlite": true,
+    "stable_environment_tools": false,
+    "standalone_web_search": false,
+    "steer": true,
+    "step_model_switching": false,
+    "subagent_default_context_limits": false,
+    "subagent_thread_environments": false,
+    "system_proxy_fallback": true,
+    "terminal_resize_reflow": true,
+    "terminal_visualization_instructions": false,
+    "token_budget": false,
+    "tool_call_mcp_elicitation": true,
+    "tool_search": false,
+    "tool_search_always_defer_mcp_tools": true,
+    "tool_suggest": false,
+    "transcript_v2": false,
+    "tui_app_server": true,
+    "ultrafast_mode": true,
+    "unavailable_dummy_tools": false,
+    "unbounded_connection_retries": false,
+    "undo": false,
+    "unified_exec": true,
+    "unified_exec_tty": false,
+    "unified_exec_zsh_fork": false,
+    "unified_image_budget": false,
+    "use_agent_identity": false,
+    "use_legacy_landlock": false,
+    "use_linux_sandbox_bwrap": false,
+    "use_xaa": false,
+    "view_image": false,
+    "wake_on_agent_messages": false,
+    "web_search_cached": false,
+    "web_search_request": false,
+    "windows_sandbox_service": false,
+    "workspace_dependencies": false,
+    "workspace_owner_usage_nudge": false,
+    "worktrees": true,
+    "write_stdin_approval": true
+  },
+  "externalFilesystemSandboxCertified": false,
+  "historicalPacketFilesystemReverified": false,
+  "validationReadsExternalPacket": false,
+  "visualAdmissionGranted": false,
+  "createdAt": "2026-10-27T17:00:31.595Z"
+}

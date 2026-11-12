@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-21T10:42:52.657Z",
+  "url": "http://127.0.0.1:5072/",
+  "sourceSha256": "b87f993e970d6435d8a7bc40579dd1572472b6291e96bbb0cb2340d66c9f2c31",
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 5400,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "dbd1a263f73627db39bde7ef47bbb9424781cd7e1a966a2df481992334ad2417"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 227,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 810,
+      "layout": {
+        "y": 810,
+        "documentHeight": 5400,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "ea946369f3533659730f985e3bbdb3fa24b273e1c658335922ed220deb72da20"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 145,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1755,
+      "layout": {
+        "y": 1755,
+        "documentHeight": 5400,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 226,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4500,
+      "layout": {
+        "y": 4500,
+        "documentHeight": 5400,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 138,
+        "subjects": [
+          {
+            "selector": "#scene-ending .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.5739583333333333
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 4937,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 180,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 675,
+      "layout": {
+        "y": 675,
+        "documentHeight": 4937,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-transition/contact-sheet.jpg",
+          "sha256": "76c8a9808a06ef9e3cf8cf41d68fb191819ca1fae39f3fe9ca06d8e97b4d8958"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 126,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1519,
+      "layout": {
+        "y": 1519,
+        "documentHeight": 4937,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-middle/contact-sheet.jpg",
+          "sha256": "e5855eb9a136e24e6d54845b7a4083549cf9be7343a195965783b277fe237edc"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 159,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4093,
+      "layout": {
+        "y": 4093,
+        "documentHeight": 4937,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-ending/contact-sheet.jpg",
+          "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 138,
+        "subjects": [
+          {
+            "selector": "#scene-ending .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.6299985189573459
+          }
+        ]
+      },
+      "visualFailures": []
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "dbd1a263f73627db39bde7ef47bbb9424781cd7e1a966a2df481992334ad2417"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "3b8568550031a556304ceb3d7fb0dbee85b7aa680d67ede5a9c39731b31c0be0"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "90c25b7ef12c56af640d068f02c9fc58025e8a397cced412d0bb898a4f989edc"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "32a9632b46ab9b021a02e17ff1a1e70478b67149b82f3f5aefe4b9a24dcf2477"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "32a9632b46ab9b021a02e17ff1a1e70478b67149b82f3f5aefe4b9a24dcf2477"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "90c25b7ef12c56af640d068f02c9fc58025e8a397cced412d0bb898a4f989edc"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "3b8568550031a556304ceb3d7fb0dbee85b7aa680d67ede5a9c39731b31c0be0"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "fa236981c873b2122486f7c83fc7f9bdb50b1ce2780d3e4574ed619085aebce5"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-reduced/contact-sheet.jpg",
+          "sha256": "d8ec533142c0db66d7cbbb3ea782f7cbe4ffd0194b93c5ca84292cf20c8b5201"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "5ad669537be30b4de49e85ac3bc973e8f47081b4c96a8aaec3da0d7d6044ec6e"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "8f6764f2b7f5c7d6d493d80e49083257231588ee40b75ed47c94881dfa06689d"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "3eca66233b03d4d941037233bda3182c0c2e9f46163a542c498c61858dba6ccf"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-pointer-action-3/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "e7452aefe0593f4a264040f1f182522c76f3fb8e3be2883c1ee9f69b749604bb"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "cd108021fa0e21fbe1b27e34a1b67dbcdb0cd8013c102d3b412087508f8476a3"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "f553bb5d8b432604f6fca0eb1aba966e730660a24b4ace2f8b6cc4a8f9fe6a86"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "8f5a3fa82d48018275c64f84bf369a39c38f981d940a3feb059b60d425ccd158"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-scroll-5/contact-sheet.jpg",
+          "sha256": "99a0a54326011f5251c794d10f6542cdb67888409ad2abac35504b8dff99bf5e"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "f553bb5d8b432604f6fca0eb1aba966e730660a24b4ace2f8b6cc4a8f9fe6a86"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-scroll-7/contact-sheet.jpg",
+          "sha256": "f389e56194b22452aecb0a7e622b7f38789bf6ecfc79ff51cd14524c4c5fcd95"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-f398af97be55b675/attempt-0/mobile-reduced/contact-sheet.jpg",
+          "sha256": "273a7963d9b638e59944bb372c4e4c83b07420a8901a28998780da622fa5d12e"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-scored",
+  "visualContractSha256": "a14c27d6f4aa6cb602c2674fdaf14f7bdeedb96f0023392d2433d326cebe8c48",
+  "finished": "2026-10-21T10:43:27.581Z"
+}

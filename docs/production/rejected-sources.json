@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "010",
+      "sourceSha256": "8d031638406afccbbf558778768d2e7104e7f0dfbeadadbffedd9eea20bd066e",
+      "reason": "主体被拆成独立点阵与通用弹性图形，字形材质与结尾均低于基准；新评价或改名不能恢复此源码资格。",
+      "review": {
+        "path": "docs/production/runs/2026-10-13-redo/010-prototype-review.json",
+        "sha256": "4627938315194bdef3a03642baedd633b50f6a5f710d5d1352cd47a399761507"
+      }
+    },
+    {
+      "id": "007",
+      "sourceSha256": "66bbd062f3878da8388e0119e27bd42073a30d781d84e2b402cd1814d0493d74",
+      "reason": "影片和局部3D的组合仍未保留母版的主体质感及整体编排，开场、字形与素材存在明确差距，不得重复包装放行。",
+      "review": {
+        "path": "docs/production/runs/2026-10-14-campovivo/007-prototype-review.json",
+        "sha256": "ff59401dda31ad04e1ce2c5224d995ac42f805a2bf56dc127c774bb41eb2d1c4"
+      }
+    },
+    {
+      "id": "009",
+      "sourceSha256": "9dcaec2a05a6f34f2b9692f4a6a4cda5aa8c4a40e23a34bab164e6616038986c",
+      "reason": "原试片的完整视觉品质未达到基准，母版核心与收束的差距已经形成拒绝，不能凭工程通过或重评覆盖。",
+      "review": {
+        "path": "docs/production/runs/2026-10-13-redo/009-prototype-review.json",
+        "sha256": "8710e2b205583058254d335fc1640b6676b9a973d60aa4f081b3a57e6fd75ec5"
+      }
+    },
+    {
+      "id": "010",
+      "sourceSha256": "8aa22c91624daca7a317d4078d28d41e8193259391af317e56a2d444bef0377e",
+      "reason": "生产试片已因核心视觉或品质差距被拒绝；必须修改来源计划或源码并重新采证，不能靠更换评分、名称或稿号恢复资格。",
+      "review": {
+        "path": "docs/production/runs/2026-10-16-actual-trial/010-responsive-rejection.json",
+        "sha256": "fad7c235e42449fa53164e9d8f52a47fbacf81cf0dc5aca955cb0db596e12734"
+      }
+    },
+    {
+      "id": "006",
+      "sourceSha256": "683ae9c1cf68a4a0063e106ac2fd9d24d743af5e2a744906e7187b43525d4766",
+      "reason": "生产试片已因核心视觉或品质差距被拒绝；必须修改来源计划或源码并重新采证，不能靠更换评分、名称或稿号恢复资格。",
+      "review": {
+        "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-006-ab1ff941332f655d/review-0.json",
+        "sha256": "74c1e0328975efb546d1ecbb1155aba48e2f6e64b53eb76115fecb52e9da89f4"
+      }
+    },
+    {
+      "id": "006",
+      "sourceSha256": "510d7c8b1ee2b97988b6fa590a569da0c979f48251198580a2334ee0a9349ae8",
+      "reason": "生产试片已因核心视觉或品质差距被拒绝；必须修改来源计划或源码并重新采证，不能靠更换评分、名称或稿号恢复资格。",
+      "review": {
+        "path": "docs/production/runs/api-20261020072406114-a971b81a/006-controls-review.json",
+        "sha256": "93d022cf6dbae48a845af40f67157341dc4d893e9a5e648338a5d80a6f19f123"
+      }
+    },
+    {
+      "id": "009",
+      "sourceSha256": "b87f993e970d6435d8a7bc40579dd1572472b6291e96bbb0cb2340d66c9f2c31",
+      "reason": "生产试片已因核心视觉或品质差距被拒绝；必须修改来源计划或源码并重新采证，不能靠更换评分、名称或稿号恢复资格。",
+      "review": {
+        "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-009-77843d11bd7b6ea5/review-0.json",
+        "sha256": "eb81d6bdeb1fa45b529377933613b46c9502eb5bd96abd15a0b68e8422d1309f"
+      }
+    },
+    {
+      "id": "009",
+      "sourceSha256": "c7651ef2df86e8074889cc8778bccafdebcd075e9b8f1aab47c708e61cbc847a",
+      "reason": "生产试片已因核心视觉或品质差距被拒绝；必须修改来源计划或源码并重新采证，不能靠更换评分、名称或稿号恢复资格。",
+      "review": {
+        "path": "docs/production/runs/api-20261021111141201-3d9c5675/009-controls-review.json",
+        "sha256": "3ff39e67314afdb445bd3f9e75f3ba9e266dce4cd0c2d25c97266c4d14e0474a"
+      }
+    },
+    {
+      "id": "009",
+      "sourceSha256": "f955a16f31e4555b2c68f1ca3f3691f51293024356b5c1df356f3519aa32416b",
+      "reason": "完整QA已因控件、构图或故障备用的实际品质问题拒绝此源码；必须修改源码并重新采证，不能靠更换评分、名称或稿号恢复资格。",
+      "review": {
+        "path": "docs/production/runs/api-20261021154209032-73c5cc67/009-controls-review.json",
+        "sha256": "ecf3114e1df16ebba9826c9a779420589a0318fdf7fdc4d8e48fa79c063ae893"
+      }
+    }
+  ]
+}

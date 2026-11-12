@@ -1,0 +1,60 @@
+{
+  "acquiredAt": "2026-11-01T06:46:01.187Z",
+  "title": "Studio Small 09",
+  "author": "Sergej Majboroda",
+  "source": "https://polyhaven.com/a/studio_small_09",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://polyhaven.com/license",
+  "apiTerms": "https://github.com/Poly-Haven/Public-API/blob/master/ToS.md",
+  "apiUserAgent": "WebArt/0.1 (local design source-asset verification)",
+  "file": "studio_small_09_1k.hdr",
+  "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/studio_small_09_1k.hdr",
+  "bytes": 1615248,
+  "md5": "d5d7eb9d26d341d6aa4d11c1a54fd97c",
+  "sha256": "e7cfda5f4e98e623db12b8bfd0184e048488e4855d9c83e2751fb44a32e80c45",
+  "info": {
+    "evs_cap": 18,
+    "type": 0,
+    "whitebalance": 2750,
+    "tags": [
+      "umbrella",
+      "softbox",
+      "infinity",
+      "lamp",
+      "studio",
+      "photo"
+    ],
+    "name": "Studio Small 09",
+    "categories": [
+      "medium contrast",
+      "indoor",
+      "urban",
+      "artificial light",
+      "studio"
+    ],
+    "date_taken": 1632493860,
+    "authors": {
+      "Sergej Majboroda": "All"
+    },
+    "date_published": 1635984000,
+    "staging": null,
+    "max_resolution": [
+      16384,
+      8192
+    ],
+    "files_hash": "ffa1de6f4c30e34f97f33af13411c4b4a08543d1",
+    "description": "Unclipped, free 16K HDRI: small studio with large octaboxes casting soft directional artificial light on a white infinity cyc; medium contrast, neutral tones.",
+    "category_id": "89252a4d-a94b-5519-846d-879971207c0e",
+    "category": "Studio/Photo Studios/Softbox & Lamp Setups",
+    "attributes": {
+      "light_type": "artificial",
+      "contrast": "medium",
+      "environment": "indoor"
+    },
+    "img_version": "54291356",
+    "download_count": 711431,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/studio_small_09.png?width=256&height=256&format=webp&v=54291356"
+  },
+  "distribution": "Self-host only the downloaded HDRI; no website preview renders or live API dependency.",
+  "visualAdmission": false
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261021110749360-350e4644",
+  "mode": "configuration-driven",
+  "productionMode": "first-style-qualification",
+  "codeGenerationCalls": 0,
+  "execution": "current-conversation-evidence-review",
+  "started": "2026-10-21T11:07:49.362Z",
+  "model": "current-conversation",
+  "ids": [
+    "009"
+  ],
+  "status": "failed",
+  "stage": "preparing",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [],
+  "inventoryChanged": false,
+  "visualAcceptance": "pending-user-review",
+  "qualificationContinuationOf": "docs/production/runs/2026-10-19-four-redesigns",
+  "inputIdentity": "e6f5de1402b04375daef0a3789767a307b69aaba3f87281c11911f695992359b",
+  "scope": "Deterministic qualification of an already authored and visually admitted prototype. New-style authoring and actual visual judgments are not zero-LLM.",
+  "failure": {
+    "code": "qualification-failed",
+    "message": "Quality gate: 009 blocked-incomplete-comparison: 视觉审查未绑定当前四状态合同"
+  },
+  "finished": "2026-10-21T11:08:00.854Z"
+}

@@ -2,7 +2,7 @@
 
 Status: accepted mother reference
 
-Preserved historical admission for the frozen template. Its 98/100 score and cinematic behavior are not current selection requirements for new templates; see `docs/PRODUCTION_PIPELINE.md`.
+Preserved attribution for the frozen template. On2026-10-12 the user explicitly sets this finished design at95 and the other five near80. Its quality of composition, asset/type integration, input choreography and resolution is now the calibration benchmark. New drafts need not copy its color or stage architecture; the old exemption must not be used to lower quality. The reference site's historical98 remains attribution history, not a fresh model score.
 
 ## Mother reference evidence
 

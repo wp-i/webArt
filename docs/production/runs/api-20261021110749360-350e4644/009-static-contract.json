@@ -1,0 +1,61 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "characters": 809,
+      "paragraphs": [
+        10,
+        27,
+        22,
+        38,
+        26,
+        54,
+        18,
+        107,
+        18,
+        37
+      ],
+      "media": [
+        "http://127.0.0.1:11996/assets/thread.webp",
+        "http://127.0.0.1:11996/assets/tulle.webp",
+        "http://127.0.0.1:11996/assets/velvet.webp",
+        "http://127.0.0.1:11996/assets/orange.webp",
+        "http://127.0.0.1:11996/assets/blue.webp",
+        "http://127.0.0.1:11996/assets/green.webp"
+      ],
+      "unconfiguredControls": 0,
+      "missingScenes": [],
+      "contentMismatches": [],
+      "result": "passed-static-contract",
+      "failures": []
+    },
+    {
+      "width": 390,
+      "characters": 693,
+      "paragraphs": [
+        10,
+        27,
+        26,
+        54,
+        18,
+        107,
+        18,
+        37
+      ],
+      "media": [
+        "http://127.0.0.1:11996/assets/thread.webp",
+        "http://127.0.0.1:11996/assets/tulle.webp",
+        "http://127.0.0.1:11996/assets/velvet.webp",
+        "http://127.0.0.1:11996/assets/orange.webp",
+        "http://127.0.0.1:11996/assets/blue.webp",
+        "http://127.0.0.1:11996/assets/green.webp"
+      ],
+      "unconfiguredControls": 0,
+      "missingScenes": [],
+      "contentMismatches": [],
+      "result": "passed-static-contract",
+      "failures": []
+    }
+  ],
+  "result": "passed-static-contract"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261018123222490-23dd3e4e",
+  "mode": "configuration-driven",
+  "productionMode": "frozen-renderer",
+  "codeGenerationCalls": 0,
+  "execution": "current-conversation-evidence-review",
+  "started": "2026-10-18T12:32:22.491Z",
+  "model": "current-conversation",
+  "ids": [
+    "010"
+  ],
+  "status": "failed",
+  "stage": "reference-capture",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [],
+  "inventoryChanged": false,
+  "visualAcceptance": "pending-user-review",
+  "failure": {
+    "code": "session-review-cancelled",
+    "message": "真实看图发现减少动态的指针证据被开场图代替；修正采证和收据绑定后重启运行。"
+  },
+  "finished": "2026-10-18T12:35:48.548Z"
+}

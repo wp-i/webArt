@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261020121901603-234fa897",
+  "execution": "current-conversation-evidence-review",
+  "sourceRun": "docs/production/runs/api-20261020121901603-234fa897/run.json",
+  "started": "2026-10-20T12:40:01.979Z",
+  "items": [
+    {
+      "id": "006",
+      "rendererId": "ivory-woven-v1",
+      "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d",
+      "archiveSha256": "b6b5d5958a084c3cf0f6c2cbca910c01893e788cbf93f9a3132843b310e9524a",
+      "items": 6,
+      "newArchives": 0,
+      "comparisonSourceChanged": false
+    }
+  ],
+  "result": "failed-rolled-back",
+  "attempt": 1,
+  "failure": "当前阶段超时，没有记为通过",
+  "finished": "2026-10-20T12:41:11.600Z"
+}

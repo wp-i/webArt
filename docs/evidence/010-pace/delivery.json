@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-12T11:57:00.327Z",
+  "slug": "pace",
+  "version": "0.1.0",
+  "id": "010",
+  "bytes": 64837,
+  "sha256": "0d70e3c91c8b5436d147d8af7da1de1a7d905333f6f04cfd70cc65cb1a57e377",
+  "entries": 13,
+  "sourceSha256": "4fcd045081962375d946130e871d1fd95df9e1d91a301aa3471016962436abd4",
+  "cleanInstall": "passed",
+  "cleanBuild": "passed",
+  "output": "public/pace-source.zip"
+}

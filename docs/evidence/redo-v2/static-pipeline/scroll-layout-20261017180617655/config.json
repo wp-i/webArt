@@ -1,0 +1,12 @@
+{
+  "url": "http://127.0.0.1:8383/",
+  "ready": "window.__fixtureReady===true",
+  "states": {
+    "opening": 0,
+    "transition": 0.2,
+    "middle": 0.5,
+    "ending": 1
+  },
+  "settleMs": 260,
+  "output": "docs/evidence/redo-v2/static-pipeline/scroll-layout-20261017180617655"
+}

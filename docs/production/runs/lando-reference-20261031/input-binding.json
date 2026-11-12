@@ -1,0 +1,24 @@
+{
+  "capture": {
+    "path": "docs/evidence/redo-v2/2026-10-31/007-lando-reference-01/capture.json",
+    "sha256": "ab4d806e00a6933943891b48699b89a012e2806cbb6448a94f1d48cff3ab0c23"
+  },
+  "plan": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/007-shell-reference-plan-20261031.json",
+    "sha256": "dc58b35ea44a53016f38da8bb2df187ab6a71fb30459bfc4f55cffdef6cc10dc"
+  },
+  "calibration": {
+    "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+    "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+  },
+  "sourceAudit": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/007-lando-source-20261031.json",
+    "sha256": "7302fb5a92a584bc43332bcb5e3f5b03cce12fbc2076af30f51db23a8a8abaef"
+  },
+  "automaticAdapterRetries": 0,
+  "visualAdmissionGranted": false,
+  "runtime": {
+    "sha256": "0c09e45bc76433756eb2d492f6db0ce6f269967e6618f4a6ae73e2fa239694b8",
+    "cliVersion": "codex-cli 0.165.0-alpha.1.2"
+  }
+}

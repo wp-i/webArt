@@ -1,0 +1,148 @@
+{
+  "images": [
+    {
+      "state": "focused",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/normal-1440-0-focused.jpg",
+      "sha256": "0f637672f61e92c914e68483a8ce9577e0be7d3acbc23075d7c1f89473fe7700",
+      "label": "normal 1440 focused"
+    },
+    {
+      "state": "keyboard-forward",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/normal-1440-0-keyboard-forward.jpg",
+      "sha256": "64e391ba36b6957a0125a492b8314a054ebb0c1b2685930faf15df7f85299ae9",
+      "label": "normal 1440 keyboard-forward"
+    },
+    {
+      "state": "keyboard-reverse",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/normal-1440-0-keyboard-reverse.jpg",
+      "sha256": "0f637672f61e92c914e68483a8ce9577e0be7d3acbc23075d7c1f89473fe7700",
+      "label": "normal 1440 keyboard-reverse"
+    },
+    {
+      "state": "focused",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/normal-390-1-focused.jpg",
+      "sha256": "99c6167fc5324323797101aede8435a6d88351cf14f2de2151ccfb074231526f",
+      "label": "normal 390 focused"
+    },
+    {
+      "state": "keyboard-forward",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/normal-390-1-keyboard-forward.jpg",
+      "sha256": "1870b5505a116c9196babfa574280c030f095b34c61bfab236cbb13e35de9b6b",
+      "label": "normal 390 keyboard-forward"
+    },
+    {
+      "state": "keyboard-reverse",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/normal-390-1-keyboard-reverse.jpg",
+      "sha256": "99c6167fc5324323797101aede8435a6d88351cf14f2de2151ccfb074231526f",
+      "label": "normal 390 keyboard-reverse"
+    },
+    {
+      "state": "touch-forward",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/normal-390-1-touch-forward.jpg",
+      "sha256": "b1f1d25e4920b8dd3af99b1d6c9f63b0be0ddea86e1df680c37b190d0a8c4698",
+      "label": "normal 390 touch-forward"
+    },
+    {
+      "state": "touch-reverse",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/normal-390-1-touch-reverse.jpg",
+      "sha256": "99c6167fc5324323797101aede8435a6d88351cf14f2de2151ccfb074231526f",
+      "label": "normal 390 touch-reverse"
+    },
+    {
+      "state": "focused",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/reduced-1440-2-focused.jpg",
+      "sha256": "e0e72b2b5e5c709885c2d362bd6acd560f247cdd0aa6b036471b0784203d1307",
+      "label": "reduced 1440 focused"
+    },
+    {
+      "state": "keyboard-forward",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/reduced-1440-2-keyboard-forward.jpg",
+      "sha256": "893edf609200468a563f3761f0cb1a47302ad5e85ca7c39a787abd193336efc1",
+      "label": "reduced 1440 keyboard-forward"
+    },
+    {
+      "state": "keyboard-reverse",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/reduced-1440-2-keyboard-reverse.jpg",
+      "sha256": "e0e72b2b5e5c709885c2d362bd6acd560f247cdd0aa6b036471b0784203d1307",
+      "label": "reduced 1440 keyboard-reverse"
+    },
+    {
+      "state": "focused",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/reduced-390-3-focused.jpg",
+      "sha256": "2d3775afb008c7cdb9e6651c1193d4da1bb9e01fb6f4e313d4b4f79379e25594",
+      "label": "reduced 390 focused"
+    },
+    {
+      "state": "keyboard-forward",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/reduced-390-3-keyboard-forward.jpg",
+      "sha256": "f244e27c6587dbdeee359a1f4f5f1068585ee775f5d62060443b6b42adc9ce95",
+      "label": "reduced 390 keyboard-forward"
+    },
+    {
+      "state": "keyboard-reverse",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/reduced-390-3-keyboard-reverse.jpg",
+      "sha256": "2d3775afb008c7cdb9e6651c1193d4da1bb9e01fb6f4e313d4b4f79379e25594",
+      "label": "reduced 390 keyboard-reverse"
+    },
+    {
+      "state": "touch-forward",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/reduced-390-3-touch-forward.jpg",
+      "sha256": "f244e27c6587dbdeee359a1f4f5f1068585ee775f5d62060443b6b42adc9ce95",
+      "label": "reduced 390 touch-forward"
+    },
+    {
+      "state": "touch-reverse",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/reduced-390-3-touch-reverse.jpg",
+      "sha256": "2d3775afb008c7cdb9e6651c1193d4da1bb9e01fb6f4e313d4b4f79379e25594",
+      "label": "reduced 390 touch-reverse"
+    },
+    {
+      "state": "focused",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/no-script-1440-4-focused.jpg",
+      "sha256": "0654ebc3197adbc0b6795df92d7d56d0052a27c5dd9262f56c94b92de3099700",
+      "label": "no-script 1440 focused"
+    },
+    {
+      "state": "keyboard-forward",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/no-script-1440-4-keyboard-forward.jpg",
+      "sha256": "2a97e66362401f1b4844049ca5fbd45685c9aee988e085fcba20dd671f83d3d7",
+      "label": "no-script 1440 keyboard-forward"
+    },
+    {
+      "state": "keyboard-reverse",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/no-script-1440-4-keyboard-reverse.jpg",
+      "sha256": "0654ebc3197adbc0b6795df92d7d56d0052a27c5dd9262f56c94b92de3099700",
+      "label": "no-script 1440 keyboard-reverse"
+    },
+    {
+      "state": "focused",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/no-script-390-5-focused.jpg",
+      "sha256": "675c142e2b4d18fe7f7f9cea5996da04270c3c6e2716c4470c6a4d8873e2ec84",
+      "label": "no-script 390 focused"
+    },
+    {
+      "state": "keyboard-forward",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/no-script-390-5-keyboard-forward.jpg",
+      "sha256": "f244e27c6587dbdeee359a1f4f5f1068585ee775f5d62060443b6b42adc9ce95",
+      "label": "no-script 390 keyboard-forward"
+    },
+    {
+      "state": "keyboard-reverse",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/no-script-390-5-keyboard-reverse.jpg",
+      "sha256": "675c142e2b4d18fe7f7f9cea5996da04270c3c6e2716c4470c6a4d8873e2ec84",
+      "label": "no-script 390 keyboard-reverse"
+    },
+    {
+      "state": "touch-forward",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/no-script-390-5-touch-forward.jpg",
+      "sha256": "f244e27c6587dbdeee359a1f4f5f1068585ee775f5d62060443b6b42adc9ce95",
+      "label": "no-script 390 touch-forward"
+    },
+    {
+      "state": "touch-reverse",
+      "path": "docs/evidence/redo-v2/2026-10-20/006-woven-gallery-03/no-script-390-5-touch-reverse.jpg",
+      "sha256": "675c142e2b4d18fe7f7f9cea5996da04270c3c6e2716c4470c6a4d8873e2ec84",
+      "label": "no-script 390 touch-reverse"
+    }
+  ]
+}

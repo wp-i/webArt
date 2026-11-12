@@ -1,0 +1,214 @@
+{
+  "label": "boysen",
+  "url": "https://www.anneboysen.dk/",
+  "evidence": [
+    {
+      "state": "opening",
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-01/boysen-opening.jpg",
+      "sha256": "6d7aabac951253915e537e795a6f78ad32005596feb6bbd96d0a68d3636ae667"
+    },
+    {
+      "state": "middle",
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-01/boysen-middle.jpg",
+      "sha256": "65431162ac0bad78415bcd2474a1f167b8200d3ddc44dd9d6b422daa1a6a0cfd"
+    },
+    {
+      "state": "ending",
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-01/boysen-ending.jpg",
+      "sha256": "7fb7115d08ffa717723f4fa88a89630af5fb6a1684fe3f7e7e04f9911b22b0af"
+    }
+  ],
+  "metadata": {
+    "url": "https://www.anneboysen.dk/",
+    "height": 7476,
+    "text": "Contact\nhello@anneboysen.dk\n+45 2049 1350\nPress\npress@anneboysen.dk\nContact\nInstagram\nLinkedin\nWork\nAbout\nProcess\nShop\nMenu\nMenu\nAll\nCollectibles\nPercept Sideboard\nAnne Boysen Collectibles\nTangent Console\ndk3\nLituus Glass Vases\nGeorg Jensen\nRipple Low Table\nLigne Roset\nLituus\nGeorg Jensen\nTangent Table\ndk3\nSoftie Table\nAnne Boysen Collectibles\nMoonsetter\nLouis Poulsen\nFAB Bench\nAnne Boysen Collectibles\nToward Modular System\nHightower\nIntoo\nGeorg Jensen\nLevitate Daybed\nAnne Boysen Collectibles\nKvadrat Really Module\nKvadrat\nShuffl Modular Sofa\nErik Jørgensen\nSplit Side Table\nOne Off\nBallerina Chair\nDanmarks næste klassiker\nInspired by Nature\nEcco\nMerge Bench\nAnne Boysen Collectibles\nMr. & Mrs. Klipklap\nByKlipKlap\nWilly Lounge Chair\nDanmarks næste klassiker\nReUse Hanger\nDanmarks næste klassiker\nBAR Stabel\nOne off\nAbsorb Relief\nAnne Boysen Collectibles\nAbsorb\nAnne Boysen Collectibles\nOne Two Three\nOne Off\nStill\nMenu\nWatch Out\nApplicata\nThe Right Mood\nErik Jørgensen\nRaw Relief\nAnne Boysen Collectibles\nFunkis Bath\nPrivate client\nLayer It\nBent Hansen Furniture\nStool\nBent Hansen Furniture\nToward Sofa\nErik Jørgensen\nArch You\nApplicata\nLevitate Sofa\nAnne Boysen Collectibles\nMerge Lounge Table\nAnne Boysen Collectibles\nAll\nCollectibles\nSocial\nInstagram\nLinkedIn\nContact\nhello@anneboysen.dk\n+45 2049 1350\nPress\npress@anneboysen.dk\nStudio\n\nMarievej 7\nDK-4600 Køge \nDenmark\n\nCVR-nr.: 34298025\n\nPrivacy policy\n\nNo cookies, no tracking, no stored data\n\n© 2026  Anne Boysen\n\nDesigned by Maryan Ivasyk\n\nDevelopment by VS5",
+    "headings": [],
+    "scenes": [
+      {
+        "tag": "MAIN",
+        "id": "",
+        "class": "main-wrapper transition-main",
+        "top": 0,
+        "height": 6833
+      },
+      {
+        "tag": "SECTION",
+        "id": "home-projects",
+        "class": "section_projects",
+        "top": 900,
+        "height": 5933
+      },
+      {
+        "tag": "FOOTER",
+        "id": "",
+        "class": "footer_component",
+        "top": 6833,
+        "height": 643
+      }
+    ]
+  },
+  "inventory": {
+    "images": 60,
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": -1810.713134765625,
+          "y": 362.46875,
+          "width": 491.75,
+          "height": 504,
+          "top": 362.46875,
+          "right": -1318.963134765625,
+          "bottom": 866.46875,
+          "left": -1810.713134765625
+        },
+        "ready": 4,
+        "width": 1080,
+        "height": 1920,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": -877.463134765625,
+          "y": 425.46875,
+          "width": 140.5,
+          "height": 315,
+          "top": 425.46875,
+          "right": -736.963134765625,
+          "bottom": 740.46875,
+          "left": -877.463134765625
+        },
+        "ready": 4,
+        "width": 1080,
+        "height": 1920,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": -576.463134765625,
+          "y": 614.46875,
+          "width": 491.75,
+          "height": 126,
+          "top": 614.46875,
+          "right": -84.713134765625,
+          "bottom": 740.46875,
+          "left": -576.463134765625
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 1079.286865234375,
+          "y": 362.46875,
+          "width": 491.75,
+          "height": 504,
+          "top": 362.46875,
+          "right": 1571.036865234375,
+          "bottom": 866.46875,
+          "left": 1079.286865234375
+        },
+        "ready": 4,
+        "width": 1080,
+        "height": 1920,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 2012.536865234375,
+          "y": 425.46875,
+          "width": 140.5,
+          "height": 315,
+          "top": 425.46875,
+          "right": 2153.036865234375,
+          "bottom": 740.46875,
+          "left": 2012.536865234375
+        },
+        "ready": 4,
+        "width": 1080,
+        "height": 1920,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 2313.536865234375,
+          "y": 614.46875,
+          "width": 491.75,
+          "height": 126,
+          "top": 614.46875,
+          "right": 2805.286865234375,
+          "bottom": 740.46875,
+          "left": 2313.536865234375
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 3969.286865234375,
+          "y": 362.46875,
+          "width": 491.750244140625,
+          "height": 504,
+          "top": 362.46875,
+          "right": 4461.037109375,
+          "bottom": 866.46875,
+          "left": 3969.286865234375
+        },
+        "ready": 4,
+        "width": 1080,
+        "height": 1920,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 4902.537109375,
+          "y": 425.46875,
+          "width": 140.5,
+          "height": 315,
+          "top": 425.46875,
+          "right": 5043.037109375,
+          "bottom": 740.46875,
+          "left": 4902.537109375
+        },
+        "ready": 4,
+        "width": 1080,
+        "height": 1920,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 5203.537109375,
+          "y": 614.46875,
+          "width": 491.75,
+          "height": 126,
+          "top": 614.46875,
+          "right": 5695.287109375,
+          "bottom": 740.46875,
+          "left": 5203.537109375
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": true
+      }
+    ],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": false
+  },
+  "result": "scouted-not-admitted"
+}

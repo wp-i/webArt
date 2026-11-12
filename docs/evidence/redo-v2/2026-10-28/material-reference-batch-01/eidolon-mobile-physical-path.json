@@ -1,0 +1,596 @@
+{
+  "source": "https://eidolon-c.netlify.app/",
+  "scope": "bounded-observation-only",
+  "independent": false,
+  "contextIsolated": false,
+  "started": "2026-10-27T16:59:46.661Z",
+  "targetUrl": "about:blank",
+  "steps": [
+    {
+      "action": {
+        "capture": "eidolon-mobile-physical-opening"
+      },
+      "at": "2026-10-27T16:59:53.648Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-opening.png",
+        "sha256": "a7464c7735b30fb05f2d212b5a3e132121d74f2d220fce78936dd9e3bdf061fb",
+        "bytes": 213385
+      }
+    },
+    {
+      "action": {
+        "finger": -600
+      },
+      "at": "2026-10-27T16:59:54.384Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 888,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -888,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "eidolon-mobile-physical-memory"
+      },
+      "at": "2026-10-27T16:59:55.573Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 1680,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -1680,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-memory.png",
+        "sha256": "6e533e67e818c47d11af4cbca5e94d374b5f819d31054fe0928b07e1eb9be88b",
+        "bytes": 403620
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "eidolon-mobile-physical-liquid"
+      },
+      "at": "2026-10-27T16:59:56.950Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 2570,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -2570,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-liquid.png",
+        "sha256": "c89677454f36605ca928aeeb4bf5acf0aa7443f117672611596d3e623a72bdc3",
+        "bytes": 167575
+      }
+    },
+    {
+      "action": {
+        "finger": -600
+      },
+      "at": "2026-10-27T16:59:58.277Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 3392,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -3392,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "eidolon-mobile-physical-landscape"
+      },
+      "at": "2026-10-27T16:59:59.511Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 4164,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -4164,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-landscape.png",
+        "sha256": "23a72d1c519afbbd517e3f56aca8c23fe0c50dea450ccea5b94a471f63aad5db",
+        "bytes": 45853
+      }
+    },
+    {
+      "action": {
+        "finger": -600
+      },
+      "at": "2026-10-27T17:00:00.911Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 4999,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -4999,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "eidolon-mobile-physical-list"
+      },
+      "at": "2026-10-27T17:00:02.210Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 5584,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -5584,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-list.png",
+        "sha256": "b2a66b9d4fe60b43923fac1337d97beb6fbb353884d18a6c40936248df3f7e67",
+        "bytes": 118644
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "eidolon-mobile-physical-interaction"
+      },
+      "at": "2026-10-27T17:00:03.596Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 6361,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -6361,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-interaction.png",
+        "sha256": "e82747338c860c33f9d9a030f0e4247bff757fcf6279f880a4cae8fc22a788c4",
+        "bytes": 43308
+      }
+    },
+    {
+      "action": {
+        "finger": -600
+      },
+      "at": "2026-10-27T17:00:04.923Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 6813,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -6813,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "eidolon-mobile-physical-object"
+      },
+      "at": "2026-10-27T17:00:06.141Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 6813,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -6813,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-object.png",
+        "sha256": "195280e47ad1fb554bb3b80a7a707dbaa395eb9adf242c597712a5a50bf53fa4",
+        "bytes": 46758
+      }
+    },
+    {
+      "action": {
+        "finger": -600
+      },
+      "at": "2026-10-27T17:00:07.433Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 6813,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -6813,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "eidolon-mobile-physical-ending"
+      },
+      "at": "2026-10-27T17:00:08.641Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 6813,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -6813,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-ending.png",
+        "sha256": "195280e47ad1fb554bb3b80a7a707dbaa395eb9adf242c597712a5a50bf53fa4",
+        "bytes": 46758
+      }
+    },
+    {
+      "action": {
+        "finger": -600,
+        "capture": "eidolon-mobile-physical-end-proof"
+      },
+      "at": "2026-10-27T17:00:09.916Z",
+      "state": {
+        "url": "https://eidolon-c.netlify.app/",
+        "y": 6813,
+        "width": 390,
+        "height": 844,
+        "scrollHeight": 7657,
+        "ready": "complete",
+        "text": "EIDOLON\nMENU +\nSkip to fragrance introduction\nAN INDEPENDENT FRAGRANCE HOUSE\nEIDOLON\nFRAGRANCE BEYOND MEMORY\n\nFour scents for memories\nthat never happened.\n\nEXPLORE THE COLLECTION\n↗\nSCROLL TO REMEMBER\n↓\nEST. IN THE IMAGINATION\n02 / THE MEMORY\nA FRAGMENT, NOT A FACT\nSome memories\ndon’t belong\nto us.\n\nA room you have never entered.\nRain in a city you cannot name.\nThe warmth of someone you almost knew.\n\nWe make fragrances for these places.\nNot to take you back.\nTo take you somewhere else.\n\nFOLLOW THE FEELING\n↓\n03 / THE DESCENT\nLET THE FAMILIAR DISSOLVE\nMEMORY HAS NO FIXED SHAPE\nEnter\nthe liquid.\n\nOne drop.\nAn entire elsewhere.\n\n↓\n04 / A PLACE YOU ALMOST REMEMBER\nMEMORY NO. 01\nTHE MEMORY OF SOMEWHERE YOU’VE NEVER BEEN\nAfter\nRain01\n\nThe rain has stopped.\nThe world is still listening.\n\nWet stone. Cold air. Trees at the edge of recognition. You know this place.\nYou have never been here.\n\nAN OLFACTORY LANDSCAPE\n\nVetiver / Petrichor / Cedar / Moss / Mineral accord\n\nTHE OTHER MEMORIES\n↗\n05 / THE POSSIBILITIES\nFOUR SCENTS. NO PAST REQUIRED.\nWhich memory\nis yours?\n\nNot every memory begins\nwith something that happened.\n\n01\nAfter Rain ↗\n\nThe memory of somewhere you’ve never been.\n\n02\n03:17 ↗\n\nA city that refuses to sleep.\n\n03\nAbsence ↗\n\nThe trace someone leaves behind.\n\n04\nFirst Light ↗\n\nBefore the world wakes.\n\nFOUR FRAGRANCES. FOUR POSSIBLE PASTS.NOTHING STAYS THE SAME\n↓\n06 / THE UNRELIABLE MEMORY\nNOTHING STAYS EXACTLY AS IT WAS\nTO REMEMBER IS TO RECREATE\nIt changes\nevery time\nyou touch it.\nremember\nremember\nFIND SOMETHING TO HOLD\n↓\n07 / THE OBJECT\nIMAGINATION, GIVEN WEIGHT\nA memory.\n\nMade tangible.\n01 — AFTER RAIN\n\nCold glass.\nA familiar weight.\nAn unfamiliar past.\n\nEAU DE PARFUM\n\nMineral. Green. Quiet.\n\nFIRST IMPRESSION\nPetrichor · Mineral accord\nWHAT LINGERS\nVetiver · Cedar · Moss\n50 ML / 1.7 FL.OZ.\nDISCOVER AFTER RAIN\n↗\n08 / WHAT REMAINS\nWear something\nthat never happened.\nFIND YOUR MEMORY\n↗\n\nFour fragrances. A thousand possible pasts.\n\nEIDOLON\n\nFRAGRANCE BEYOND MEMORY\n\nCollection ↗\nThe house ↗\nJournal ↗\nAn independent fragrance house.\nEst. in the imagination.",
+        "canvases": [
+          {
+            "w": 390,
+            "h": 844,
+            "rect": {
+              "x": 0,
+              "y": -6813,
+              "w": 390,
+              "h": 844
+            }
+          }
+        ],
+        "images": [
+          {
+            "complete": true,
+            "width": 715,
+            "height": 1181
+          }
+        ],
+        "buttons": [
+          "Bag (0)",
+          "MENU +"
+        ]
+      },
+      "frame": {
+        "path": "docs/evidence/redo-v2/2026-10-28/material-reference-batch-01/eidolon-mobile-physical-end-proof.png",
+        "sha256": "195280e47ad1fb554bb3b80a7a707dbaa395eb9adf242c597712a5a50bf53fa4",
+        "bytes": 46758
+      }
+    }
+  ],
+  "finished": "2026-10-27T17:00:11.181Z"
+}

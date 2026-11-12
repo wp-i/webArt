@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "008",
+  "phase": "bounded-mature-asset-feasibility-check",
+  "checkedAt": "2026-10-29T15:54:10Z",
+  "startedAt": "2026-10-29T15:49:07Z",
+  "decision": "no-role-complete-mature-asset-found",
+  "scope": "Existing licensed ice/snow architecture, separable ice blocks or frozen-ice photogrammetry; optional one specific CC0 organic object for frozen-object and volume identity. This is source feasibility research, not material-module or prototype approval.",
+  "referenceGate": "docs/production/runs/igloo-reference-20261029-02/reference-gate.json",
+  "existingRejection": "docs/assets/008-glacial-material-rejection-01.json",
+  "reviewer": {
+    "id": "current-conversation-subagent-asset-research",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "bounds": {
+    "maximumMinutes": 8,
+    "maximumUniqueAssetPreviewAttempts": 12,
+    "uniqueAssetPreviewAttempts": 10,
+    "countingMethod": "Four partially visible ambientCG sphere previews in one catalog screenshot, plus Wall of ice, Bronze Ray Statue, Lambis Shell, Snow & Ice Photogrammetry Test, Ice Blocks and Ice Castles NY. Loading-only frames were not treated as inspected model quality; the latter two delayed cases were checked through their actual source preview images or a later loaded viewer.",
+    "finalModelsDownloaded": 0,
+    "candidateCodeChanged": false,
+    "newCandidateCreated": false,
+    "modelOrReviewCallsMade": false
+  },
+  "libraryChecks": [
+    {
+      "library": "ambientCG",
+      "sourceUrls": [
+        "https://ambientcg.com/list?type=material&q=ice&sort=popular",
+        "https://ambientcg.com/list?type=3d-model,terrain&q=ice"
+      ],
+      "licenseUrl": "https://docs.ambientcg.com/license/",
+      "license": "CC0 1.0 Universal",
+      "redistributionBasis": "Official license explicitly covers downloadable files and material preview renders and permits including raw files in projects.",
+      "finding": "The material query lists Snow014, Snow013, Snow006 and Ice001 through Ice004. The 3D-model/terrain ice query yielded no asset links. Ice003 and Ice004 source pages identify PBR map sets and a procedural creation method, not finished architectural meshes.",
+      "limitation": "A licensed surface map can supply surface variation but cannot supply finished block thickness, internal ice volume, architectural topology, underside detail or separable pointer-lift parts. This check does not approve reapplying these maps to the failed geometry."
+    },
+    {
+      "library": "Poly Haven",
+      "sourceUrls": [
+        "https://api.polyhaven.com/assets",
+        "https://polyhaven.com/license",
+        "https://docs.polyhaven.com/en/faq"
+      ],
+      "license": "CC0 1.0 Universal for downloadable models, textures and HDRIs",
+      "finding": "The public catalog response checked for ice, snow and frost yielded snow surfaces and winter HDRIs, plus the unrelated Crystalline Iceplant model; no role-matching ice architecture or modular ice-block mesh was found in this bounded check.",
+      "limitation": "Poly Haven website example renders and user renders are outside the downloadable-asset CC0 grant; viewed previews are research only and are not deliverable photography. Catalog absence here is not a claim that no such asset exists anywhere."
+    }
+  ],
+  "checkedModels": [
+    {
+      "name": "Ice Blocks",
+      "author": "nedo",
+      "authorUrl": "https://sketchfab.com/nedo",
+      "sourceUrl": "https://sketchfab.com/3d-models/ice-blocks-c658301798b042268c391b20dcc50bbc",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/c658301798b042268c391b20dcc50bbc",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "license": "CC BY 4.0",
+      "licenseVerification": "Original uploader page and public model API agree; API says author must be credited and commercial use is allowed. CC license permits raw redistribution and adaptation with attribution, license link and change notice.",
+      "triangles": 488423,
+      "vertices": 311199,
+      "downloadableListed": true,
+      "actualPreviewUrl": "https://media.sketchfab.com/models/c658301798b042268c391b20dcc50bbc/thumbnails/6b6a5d88afe6461c8a0df564f369be3e/5a690c424d8b45d0928b3ebc92c863d9.jpeg",
+      "visualObservation": "A real street scan with irregular white broken ice chunks on dark asphalt and a curb. Chipped edges, thickness and granular frozen surfaces are concrete, rather than ideal boxes. The preview does not show transparent interiors or illuminated architectural blocks.",
+      "feasibleRole": "Possible source for realistic broken surface-ice debris only, subject to file inspection and fresh material evidence.",
+      "coreRoleStatus": "not-role-complete",
+      "pointerLiftStatus": "Unverified. No model archive was downloaded; separate objects, closed undersides, connected components and PBR channels were not inspected. A ground scan is not evidence of clean independent liftable blocks.",
+      "reasonNotSelected": "Street debris identity, baked ground context and unverified hidden geometry cannot directly replace the admitted spatial ice architecture, internal glow or freeze-through object viewing."
+    },
+    {
+      "name": "Wall of ice",
+      "author": "Lassi Kaukonen",
+      "authorUrl": "https://sketchfab.com/thesidekick",
+      "sourceUrl": "https://sketchfab.com/3d-models/wall-of-ice-17b6a81191f045a1af2d9bb57cad428b",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/17b6a81191f045a1af2d9bb57cad428b",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "license": "CC BY 4.0",
+      "licenseVerification": "Original author page and model API agree. Page carries NoAI; this check used human-visible source inspection only and does not authorize generative-AI input, training or dataset use.",
+      "triangles": 955737,
+      "vertices": 481819,
+      "downloadableListed": true,
+      "visualObservation": "Loaded viewer shows a broad natural ice cascade with vertical translucent-looking streaks, accumulated snow and detailed surrounding rock. It is one continuous cliff/ground scan composition with a visibly cropped base.",
+      "feasibleRole": "Possible natural ice-wall or terrain context, subject to actual-file PBR and optimization checks.",
+      "coreRoleStatus": "not-role-complete",
+      "pointerLiftStatus": "No independently closed blocks demonstrated; no final archive or topology inspection.",
+      "reasonNotSelected": "A natural connected ice wall cannot directly provide the specific architectural assembly, separable lift/inner-light behavior or the frozen-object stage. Nearly one million triangles also require meaningful mobile-budget work before any runtime claim."
+    },
+    {
+      "name": "Snow & Ice Photogrammetry Test + Polarized Lens",
+      "author": "Air Digital",
+      "authorUrl": "https://sketchfab.com/AirDigitalca",
+      "sourceUrl": "https://sketchfab.com/3d-models/snow-ice-photogrammetry-test-polarized-lens-f1501fb84ee84f58a01da7aedcd71348",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/f1501fb84ee84f58a01da7aedcd71348",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "license": "CC BY 4.0",
+      "licenseVerification": "Original uploader page links CC BY 4.0; public API returns the same license.",
+      "triangles": 999513,
+      "downloadableListed": true,
+      "actualPreviewUrl": "https://media.sketchfab.com/models/f1501fb84ee84f58a01da7aedcd71348/thumbnails/ce6d545251494717ae540087853e2a00/0c6e08dd6f7947cab9a5f119dcde0683.jpeg",
+      "visualObservation": "Source preview shows a broad dirty frozen ground/road surface with yellow-brown tracks, a drainage edge and large dark meltwater patches. It has complex real surface evidence but no freestanding architectural object.",
+      "coreRoleStatus": "not-role-complete",
+      "reasonNotSelected": "Ground-plane scan, context contamination, no assembled ice volume or separable block behavior; PBR channel set and hidden surfaces not inspected."
+    },
+    {
+      "name": "Ice Castles NY — Ice Formations",
+      "author": "Katie Alois",
+      "authorUrl": "https://sketchfab.com/kalois",
+      "sourceUrl": "https://sketchfab.com/3d-models/ice-castles-ny-ice-formations-293eff95dafc409f8d203374e0ff45be",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/293eff95dafc409f8d203374e0ff45be",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "license": "CC BY 4.0 asserted by scan uploader",
+      "triangles": 335490,
+      "downloadableListed": true,
+      "visualObservation": "Later loaded viewer shows two irregular sculpted ice formations with thick overhangs, icicles and snow bases. A large pale hole or missing-looking patch interrupts the upper face of the nearer formation; the preview is opaque and irregular rather than a coherent transparent block assembly.",
+      "coreRoleStatus": "not-role-complete",
+      "rightsStatus": "not-cleared-for-adoption",
+      "reasonNotSelected": "The uploader explicitly scanned hand-sculpted forms at Ice Castles New York; this check did not establish the underlying sculptor's permission in addition to the scan license. No modular closed parts, usable back sides or architectural assembly were demonstrated."
+    }
+  ],
+  "optionalCC0Object": {
+    "name": "Lambis Shell",
+    "author": "Kuutti Siitonen",
+    "sourceUrl": "https://polyhaven.com/a/lambis_shell",
+    "licenseUrl": "https://polyhaven.com/license",
+    "license": "CC0 1.0 Universal",
+    "sourcePageApproximateTriangles": "12K",
+    "sourcePageFormats": ["Blend", "glTF", "USD", "FBX"],
+    "sourcePageMaps": ["AO", "AO/Rough/Metal", "Diffuse", "Metal", "Normal DX", "Normal GL", "Rough"],
+    "visualObservation": "Actual source preview has an unmistakable broad lip, curved spines, spiral shoulder and fine ridged brown/cream shell surface; it is a specific organic volume rather than another generic ring.",
+    "feasibleRole": "Possible distinct frozen-object and later volume silhouette, after fresh final-scene material/identity evidence. It is a natural shell, not an architectural sculpture and does not satisfy the ice-building role.",
+    "status": "source-feasible-but-not-selected-or-approved",
+    "limitations": "No final model downloaded, no topology/point sampling/underside/runtime test. Do not recolor it blue and treat the frozen material or final point volume as approved. Changing it into a new authored architectural sculpture would be a separate direction and production task."
+  },
+  "additionalCC0Preview": {
+    "name": "Bronze Ray Statue",
+    "author": "Tina",
+    "sourceUrl": "https://polyhaven.com/a/bronze_ray_statue",
+    "licenseUrl": "https://polyhaven.com/license",
+    "license": "CC0 1.0 Universal",
+    "visualObservation": "A mature bronze ray on a wood base, with sweeping fins and a clear animal silhouette; source page says about 2K triangles and provides baked PBR maps.",
+    "status": "not-selected",
+    "reason": "A specific animal ornament, not organic architecture or a solution for ice volume. It also introduces base/support separation work that was not inspected."
+  },
+  "excludedWithoutAdoption": [
+    {
+      "sourceUrl": "https://1designtool.com/3d/models/arctic-tundra-ice-blocks",
+      "reason": "Source explicitly describes flat low-poly, opaque palette-colored, LLM-generated geometry and forbids redistribution of the file alone or in a model pack. Does not meet the requested mature material role or explicit raw-redistribution license route; no preview needed."
+    },
+    {
+      "sourceUrl": "https://www.fab.com/listings/47d74303-4831-42b6-a198-f713c7e667f8",
+      "reason": "Massive Glacier Valley lists PBR scan maps but Royalty Free NO AI rather than the required explicit raw-redistribution CC0/CC BY path; terrain role also does not provide liftable architectural parts. Not adopted or downloaded."
+    }
+  ],
+  "remainingCoreGap": [
+    "No existing checked asset simultaneously provides finished ice architecture, convincing transmissive depth/internal light and separable, closed liftable parts.",
+    "Source preview quality cannot establish reusable PBR channel completeness, hidden geometry or runtime material quality; final mesh files were deliberately not acquired in this check.",
+    "No suitable CC0 architectural sculpture was established; Lambis Shell is only a concrete natural-object option.",
+    "The existing rejected material module remains rejected. A new asset name, different silhouette or more complex mesh cannot approve the unresolved flat/plastic core material."
+  ],
+  "nextAction": "Report the concrete gap to the chief. Do not create another LLM-built model/material patch or new candidate from this research. Any later asset acquisition or artist-authored mature module needs explicit scoped work and fresh actual desktop/mobile material and interaction evidence under the existing gates.",
+  "packageAuthorized": false,
+  "inventoryChanged": false,
+  "fullImplementationAuthorized": false,
+  "previewEvidenceLimitations": "Agent-browser source-page screenshots and API-derived source thumbnails were actually viewed in the tool session. Screenshots remain in the browser temporary directory, not in the project QA evidence tree; this report is not a signed visual review receipt or quality-gate evidence. No reference-site proprietary model, font, screenshot or code was acquired."
+}

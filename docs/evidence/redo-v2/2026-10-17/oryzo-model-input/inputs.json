@@ -1,0 +1,641 @@
+{
+  "url": "https://oryzo.ai/",
+  "evidence": [
+    {
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-model-input/opened.jpg",
+      "sha256": "0ff9308e09fff009b15f0705f8f47ad028e3a9ec64bcf4c612aabc97979b7b39"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-model-input/dragged.jpg",
+      "sha256": "21f2d7dc69e8a5a877f5fd91b8d5965da3cc7300624e7321aa8431ce7567ef2f"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-model-input/released.jpg",
+      "sha256": "21e958c9ba2cfe02aa4e6133dc1511cdcd1f00efeab1a32fe1e13c1857f6c920"
+    }
+  ],
+  "controls": {
+    "controls": [
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "class": "btn is-orange",
+        "label": null,
+        "text": "",
+        "rect": {
+          "x": 2538.8046875,
+          "y": 740.546875,
+          "width": 81.34375,
+          "height": 41.96875,
+          "top": 740.546875,
+          "right": 2620.1484375,
+          "bottom": 782.515625,
+          "left": 2538.8046875
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "id": "encryption-field-flip-btn",
+        "class": "btn is-flipper",
+        "label": null,
+        "text": "",
+        "rect": {
+          "x": 638.921875,
+          "y": 487.21875,
+          "width": 162.15625,
+          "height": 40.78125,
+          "top": 487.21875,
+          "right": 801.078125,
+          "bottom": 528,
+          "left": 638.921875
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "id": "product-hero-option-oryzo",
+        "class": "product-hero-option-item btn is-large is-dark is-active is-flipper",
+        "label": "ORYZO",
+        "text": "",
+        "rect": {
+          "x": 489.859375,
+          "y": 52219,
+          "width": 118.71875,
+          "height": 53.1875,
+          "top": 52219,
+          "right": 608.578125,
+          "bottom": 52272.1875,
+          "left": 489.859375
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "id": "product-hero-option-oryzo-pro",
+        "class": "product-hero-option-item btn is-large is-dark is-flipper",
+        "label": "ORYZO Pro",
+        "text": "",
+        "rect": {
+          "x": 616.578125,
+          "y": 52219,
+          "width": 148.09375,
+          "height": 53.1875,
+          "top": 52219,
+          "right": 764.671875,
+          "bottom": 52272.1875,
+          "left": 616.578125
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "id": "product-hero-option-oryzo-pro-max",
+        "class": "product-hero-option-item btn is-large is-dark is-flipper",
+        "label": "ORYZO Pro Max",
+        "text": "",
+        "rect": {
+          "x": 772.671875,
+          "y": 52219,
+          "width": 177.46875,
+          "height": 53.1875,
+          "top": 52219,
+          "right": 950.140625,
+          "bottom": 52272.1875,
+          "left": 772.671875
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "btn is-dark is-flipper",
+        "label": null,
+        "text": "",
+        "rect": {
+          "x": 491.96875,
+          "y": 54893.859375,
+          "width": 106.125,
+          "height": 46.96875,
+          "top": 54893.859375,
+          "right": 598.09375,
+          "bottom": 54940.828125,
+          "left": 491.96875
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "btn is-dark is-flipper",
+        "label": null,
+        "text": "",
+        "rect": {
+          "x": 607.09375,
+          "y": 54893.859375,
+          "width": 146.34375,
+          "height": 46.96875,
+          "top": 54893.859375,
+          "right": 753.4375,
+          "bottom": 54940.828125,
+          "left": 607.09375
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "btn is-dark is-flipper",
+        "label": null,
+        "text": "",
+        "rect": {
+          "x": 762.4375,
+          "y": 54893.859375,
+          "width": 185.578125,
+          "height": 46.96875,
+          "top": 54893.859375,
+          "right": 948.015625,
+          "bottom": 54940.828125,
+          "left": 762.4375
+        }
+      },
+      {
+        "tag": "A",
+        "id": "footer-lusion-link",
+        "class": "btn is-dark is-flipper",
+        "label": "lusion.co",
+        "text": "L\nL\nU\nU\nS\nS\nI\nI\nO\nO\nN\nN\n.\n.\nC\nC\nO\nO",
+        "rect": {
+          "x": 1242,
+          "y": 56152.015625,
+          "width": 153,
+          "height": 45.96875,
+          "top": 56152.015625,
+          "right": 1395,
+          "bottom": 56197.984375,
+          "left": 1242
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "",
+        "label": null,
+        "text": "LUSION",
+        "rect": {
+          "x": 110.578125,
+          "y": 56418.984375,
+          "width": 39.03125,
+          "height": 17,
+          "top": 56418.984375,
+          "right": 149.609375,
+          "bottom": 56435.984375,
+          "left": 110.578125
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "class": "is-flipper",
+        "label": "Copy URL",
+        "text": "C\nC\nO\nO\nP\nP\nY\nY\n U\nU\nR\nR\nL\nL",
+        "rect": {
+          "x": 215,
+          "y": 56485.296875,
+          "width": 67.5,
+          "height": 26,
+          "top": 56485.296875,
+          "right": 282.5,
+          "bottom": 56511.296875,
+          "left": 215
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "id": "footer-email-btn",
+        "class": "",
+        "label": "Subscribe to newsletter",
+        "text": "",
+        "rect": {
+          "x": 781.171875,
+          "y": 56446.5078125,
+          "width": 33.328125,
+          "height": 33.328125,
+          "top": 56446.5078125,
+          "right": 814.5,
+          "bottom": 56479.8359375,
+          "left": 781.171875
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "footer-item-link is-flipper",
+        "label": "business@lusion.co",
+        "text": "B\nB\nU\nU\nS\nS\nI\nI\nN\nN\nE\nE\nS\nS\nS\nS\n@\n@\nL\nL\nU\nU\nS\nS\nI\nI\nO\nO\nN\nN\n",
+        "rect": {
+          "x": 472.5,
+          "y": 56579.25,
+          "width": 137.109375,
+          "height": 19,
+          "top": 56579.25,
+          "right": 609.609375,
+          "bottom": 56598.25,
+          "left": 472.5
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "footer-item-link is-flipper",
+        "label": "hello@lusion.co",
+        "text": "H\nH\nE\nE\nL\nL\nL\nL\nO\nO\n@\n@\nL\nL\nU\nU\nS\nS\nI\nI\nO\nO\nN\nN\n.\n.\nC\nC\nO\nO",
+        "rect": {
+          "x": 472.5,
+          "y": 56649.015625,
+          "width": 116.828125,
+          "height": 19,
+          "top": 56649.015625,
+          "right": 589.328125,
+          "bottom": 56668.015625,
+          "left": 472.5
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "footer-item-link",
+        "label": null,
+        "text": "X",
+        "rect": {
+          "x": 747,
+          "y": 56591.640625,
+          "width": 153,
+          "height": 16.1875,
+          "top": 56591.640625,
+          "right": 900,
+          "bottom": 56607.828125,
+          "left": 747
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "footer-item-link is-flipper",
+        "label": "Instagram",
+        "text": "I\nI\nN\nN\nS\nS\nT\nT\nA\nA\nG\nG\nR\nR\nA\nA\nM\nM",
+        "rect": {
+          "x": 747,
+          "y": 56621.328125,
+          "width": 153,
+          "height": 16.1875,
+          "top": 56621.328125,
+          "right": 900,
+          "bottom": 56637.515625,
+          "left": 747
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "footer-item-link is-flipper",
+        "label": "Linkedin",
+        "text": "L\nL\nI\nI\nN\nN\nK\nK\nE\nE\nD\nD\nI\nI\nN\nN",
+        "rect": {
+          "x": 747,
+          "y": 56651.015625,
+          "width": 153,
+          "height": 16.1875,
+          "top": 56651.015625,
+          "right": 900,
+          "bottom": 56667.203125,
+          "left": 747
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "footer-item-link is-flipper",
+        "label": "Terms & Conditions",
+        "text": "T\nT\nE\nE\nR\nR\nM\nM\nS\nS\n &\n&\n C\nC\nO\nO\nN\nN\nD\nD\nI\nI\nT\nT\nI\nI\nO\nO\nN\n",
+        "rect": {
+          "x": 45,
+          "y": 56651.015625,
+          "width": 134.125,
+          "height": 16.1875,
+          "top": 56651.015625,
+          "right": 179.125,
+          "bottom": 56667.203125,
+          "left": 45
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "footer-item-link is-flipper",
+        "label": "Privacy Policy",
+        "text": "P\nP\nR\nR\nI\nI\nV\nV\nA\nA\nC\nC\nY\nY\n P\nP\nO\nO\nL\nL\nI\nI\nC\nC\nY\nY",
+        "rect": {
+          "x": 219.625,
+          "y": 56651.015625,
+          "width": 101.25,
+          "height": 16.1875,
+          "top": 56651.015625,
+          "right": 320.875,
+          "bottom": 56667.203125,
+          "left": 219.625
+        }
+      },
+      {
+        "tag": "A",
+        "id": "site-header-logo",
+        "class": "",
+        "label": null,
+        "text": "",
+        "rect": {
+          "x": 36,
+          "y": 66.296875,
+          "width": 632.25,
+          "height": 135.984375,
+          "top": 66.296875,
+          "right": 668.25,
+          "bottom": 202.28125,
+          "left": 36
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "is-flipper-target",
+        "label": "Intro",
+        "text": "I\nI\nN\nN\nT\nT\nR\nR\nO\nO",
+        "rect": {
+          "x": 1100.875,
+          "y": 21,
+          "width": 33.625,
+          "height": 17,
+          "top": 21,
+          "right": 1134.5,
+          "bottom": 38,
+          "left": 1100.875
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "is-flipper-target",
+        "label": "Features",
+        "text": "F\nF\nE\nE\nA\nA\nT\nT\nU\nU\nR\nR\nE\nE\nS\nS",
+        "rect": {
+          "x": 1158.5,
+          "y": 20.753904342651367,
+          "width": 57.203125,
+          "height": 17.000001907348633,
+          "top": 20.753904342651367,
+          "right": 1215.703125,
+          "bottom": 37.75390625,
+          "left": 1158.5
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "is-flipper-target",
+        "label": "Product",
+        "text": "P\nP\nR\nR\nO\nO\nD\nD\nU\nU\nC\nC\nT\nT",
+        "rect": {
+          "x": 1239.703125,
+          "y": 18.960887908935547,
+          "width": 53.28125,
+          "height": 17,
+          "top": 18.960887908935547,
+          "right": 1292.984375,
+          "bottom": 35.96088790893555,
+          "left": 1239.703125
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "is-flipper-target",
+        "label": "Contact",
+        "text": "C\nC\nO\nO\nN\nN\nT\nT\nA\nA\nC\nC\nT\nT",
+        "rect": {
+          "x": 1316.984375,
+          "y": 14.037620544433594,
+          "width": 54.015625,
+          "height": 17,
+          "top": 14.037620544433594,
+          "right": 1371,
+          "bottom": 31.037620544433594,
+          "left": 1316.984375
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "",
+        "label": null,
+        "text": "Intro",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "",
+        "label": null,
+        "text": "Features",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "",
+        "label": null,
+        "text": "Product",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "",
+        "label": null,
+        "text": "Contact",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "class": "sub1",
+        "label": null,
+        "text": "hello@lusion.co",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "id": "video-overlay__mute-btn",
+        "class": "",
+        "label": null,
+        "text": "       ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "id": "video-overlay__mobile-close-btn",
+        "class": "",
+        "label": null,
+        "text": "     ",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "class": "",
+        "parent": "",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "top": 0,
+          "right": 1440,
+          "bottom": 900,
+          "left": 0
+        }
+      },
+      {
+        "id": "wearable-main-canvas",
+        "class": "",
+        "parent": "wearable-main",
+        "rect": {
+          "x": 434.8125,
+          "y": 83,
+          "width": 570.359375,
+          "height": 734,
+          "top": 83,
+          "right": 1005.171875,
+          "bottom": 817,
+          "left": 434.8125
+        }
+      },
+      {
+        "id": "features-curve-canvas",
+        "class": "",
+        "parent": "",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "top": 0,
+          "right": 1440,
+          "bottom": 900,
+          "left": 0
+        }
+      },
+      {
+        "id": "sustainability-rive-canvas-harvesting",
+        "class": "",
+        "parent": "",
+        "rect": {
+          "x": 387,
+          "y": 41223,
+          "width": 495,
+          "height": 495,
+          "top": 41223,
+          "right": 882,
+          "bottom": 41718,
+          "left": 387
+        }
+      },
+      {
+        "id": "sustainability-rive-canvas-text",
+        "class": "",
+        "parent": "",
+        "rect": {
+          "x": 986.625,
+          "y": 41309.625,
+          "width": 321.75,
+          "height": 321.75,
+          "top": 41309.625,
+          "right": 1308.375,
+          "bottom": 41631.375,
+          "left": 986.625
+        }
+      },
+      {
+        "id": "preloader-canvas",
+        "class": "",
+        "parent": "preloader",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      }
+    ]
+  },
+  "result": "observed-not-admitted"
+}

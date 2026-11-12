@@ -1,0 +1,1081 @@
+{
+  "schemaVersion": 2,
+  "phase": "prototype",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "sourceSha256": "683ae9c1cf68a4a0063e106ac2fd9d24d743af5e2a744906e7187b43525d4766",
+  "reviewer": {
+    "id": "current-conversation:2026-10-19-four-redesigns",
+    "implementationContextIncluded": false,
+    "mode": "evidence-only-current-conversation",
+    "kind": "current-conversation",
+    "independent": false,
+    "contextIsolated": false,
+    "inputScope": "benchmark+negative+reference+candidate",
+    "calibrationRunId": "2026-10-19-four-redesigns"
+  },
+  "decision": "reject",
+  "vetoes": [
+    "保留已准入参考的摄影卷轴与材料选择；将空间段的大标题移出明亮摄影或取消多余叠置，保证手机每个连续位置的文字可读。",
+    "保留本次源码和62帧审核包，建立新候选与静态计划修订后重采，不能覆盖拒绝报告或直接打包。",
+    "存在低于基准的品质维度",
+    "修改静态计划和试片后重新比较，不允许平均补偿",
+    "四状态主体、材质、构图、作用或身份关系未完整保留",
+    "修订已锁定的视觉合同或补齐实际状态证据，不能用局部润色抵消核心失败"
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 4545,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 191,
+        "subjects": [
+          {
+            "selector": "#scene-opening .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1312,
+      "layout": {
+        "y": 1312,
+        "documentHeight": 4545,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "1e2e31d5ea477673c987438fc8297f9f09bc831cd11b4166b9530405611f8214"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 101,
+        "subjects": [
+          {
+            "selector": "#scene-transition .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2745,
+      "layout": {
+        "y": 2745,
+        "documentHeight": 4545,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "f537f43fc237009bf5f4eb1170bf22f42b4cb1a2e4c97f44f8b69a2671d6feff"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 155,
+        "subjects": [
+          {
+            "selector": "#scene-middle .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.23851432291666666
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 3645,
+      "layout": {
+        "y": 3645,
+        "documentHeight": 4545,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "ca0bd2271bd5db968977e246602f1f9edefa791a8b8512040dec3dff3c2cea86"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 176,
+        "subjects": [
+          {
+            "selector": "#scene-ending .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 4009,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "be4779ba6a6e8cca8c9c475c3687468c4c759be6c0f717f42bcd97ed8ba7481b"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 188,
+        "subjects": [
+          {
+            "selector": "#scene-opening .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1139,
+      "layout": {
+        "y": 1139,
+        "documentHeight": 4009,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-transition/contact-sheet.jpg",
+          "sha256": "af3e7616268ea5fd43f999a978b2a9aa9bd3612f5c667eb9f3cded78d75e0d4e"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 98,
+        "subjects": [
+          {
+            "selector": "#scene-transition .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2321,
+      "layout": {
+        "y": 2321,
+        "documentHeight": 4009,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-middle/contact-sheet.jpg",
+          "sha256": "b326e850dc18263e91850a8a49789ec2ee294803364543560c75e491666ef234"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 152,
+        "subjects": [
+          {
+            "selector": "#scene-middle .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.3814727260298943
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 3165,
+      "layout": {
+        "y": 3165,
+        "documentHeight": 4009,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-ending/contact-sheet.jpg",
+          "sha256": "f37a9516efda56f4dbfa2568ab4ef1d4a4dcf48949570b174f037eb02fe81f6a"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 124,
+        "subjects": [
+          {
+            "selector": "#scene-ending .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "近景织纹与绒面交界形成具体而统一的材质主体，中央衬线字形在深色褶皱上建立身份；相对基准的独立主构图已经成立。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-4"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-41"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "be4779ba6a6e8cca8c9c475c3687468c4c759be6c0f717f42bcd97ed8ba7481b"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "below",
+      "finding": "桌面开场的衬线尺度与织物细节配合成立，但手机空间段白色标题落在明亮窗框上，多行字与窗的竖线相互吞没，低于基准受控的明暗关系。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-38",
+        "candidate-42"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "1e2e31d5ea477673c987438fc8297f9f09bc831cd11b4166b9530405611f8214"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-transition/contact-sheet.jpg",
+          "sha256": "af3e7616268ea5fd43f999a978b2a9aa9bd3612f5c667eb9f3cded78d75e0d4e"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "主视觉、空间与收束沿用同一原创织物身份但采用独立视角，木材、白纱和织纹有明确层次；两幅索引素材提供不同实际观看内容。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-38",
+        "candidate-39",
+        "candidate-40",
+        "candidate-51",
+        "candidate-52"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "1e2e31d5ea477673c987438fc8297f9f09bc831cd11b4166b9530405611f8214"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "f537f43fc237009bf5f4eb1170bf22f42b4cb1a2e4c97f44f8b69a2671d6feff"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "ca0bd2271bd5db968977e246602f1f9edefa791a8b8512040dec3dff3c2cea86"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "0218fa81ea177e8ac1cf41868c49a96592fe7c0e234b05f3bd3ca452f9c05ff2"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "9361102b7f075097b6dfcaf17474493462272bc354f769b0b49896e732d9eaa4"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "真实纵向输入推进横向相邻空间，正反序列重现窗边和玫瑰色房间；随后缩到白底材料索引，再进入独立光影结尾，节奏不再同构。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-1",
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "candidate-38",
+        "candidate-39",
+        "candidate-40",
+        "candidate-45",
+        "candidate-46",
+        "candidate-47",
+        "candidate-48",
+        "candidate-49"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.33-2.png",
+          "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "1e2e31d5ea477673c987438fc8297f9f09bc831cd11b4166b9530405611f8214"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "f537f43fc237009bf5f4eb1170bf22f42b4cb1a2e4c97f44f8b69a2671d6feff"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "ca0bd2271bd5db968977e246602f1f9edefa791a8b8512040dec3dff3c2cea86"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "5c83d93e663dd09393e5f19348c41f45cade6260a05a09b90bc788b981f67fbc"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "ef1d4a2aae59eed608b230138ca98cdc2bd7904fe16e472e6b91e5680fa325b3"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "5c83d93e663dd09393e5f19348c41f45cade6260a05a09b90bc788b981f67fbc"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "指针在两项索引间往返时，蓝色织物和选材人物主图确实替换；离开返回默认项，减少动态仍可选择，保留了母版改变观看内容的作用。",
+      "benchmarkFrames": [
+        "benchmark-2",
+        "benchmark-6"
+      ],
+      "candidateFrames": [
+        "candidate-51",
+        "candidate-52",
+        "candidate-53",
+        "candidate-54",
+        "candidate-55"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+          "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "0218fa81ea177e8ac1cf41868c49a96592fe7c0e234b05f3bd3ca452f9c05ff2"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "9361102b7f075097b6dfcaf17474493462272bc354f769b0b49896e732d9eaa4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "0218fa81ea177e8ac1cf41868c49a96592fe7c0e234b05f3bd3ca452f9c05ff2"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "9361102b7f075097b6dfcaf17474493462272bc354f769b0b49896e732d9eaa4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "badf9f634422714e248bf137d89803ce1d1b57aec7fe01c70fd1aca88f3cf86a"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "结尾采用新的窗帘地面摄影，与开场近景形成材料到空间的闭合，短联系嵌入暗部而非单独邮箱块；桌面手机均保持光线、白纱和地面。",
+      "benchmarkFrames": [
+        "benchmark-3",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-40",
+        "candidate-44",
+        "candidate-47",
+        "candidate-58"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "ca0bd2271bd5db968977e246602f1f9edefa791a8b8512040dec3dff3c2cea86"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-ending/contact-sheet.jpg",
+          "sha256": "f37a9516efda56f4dbfa2568ab4ef1d4a4dcf48949570b174f037eb02fe81f6a"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "ef1d4a2aae59eed608b230138ca98cdc2bd7904fe16e472e6b91e5680fa325b3"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "f37a9516efda56f4dbfa2568ab4ef1d4a4dcf48949570b174f037eb02fe81f6a"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "below",
+      "finding": "手机开场材质交界与结尾接地褶皱均完整，但空间过渡的标题与白色窗框重叠，正文无法稳定阅读；该重要差距不能由其余状态补偿。",
+      "benchmarkFrames": [
+        "benchmark-4",
+        "benchmark-5",
+        "benchmark-6",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-41",
+        "candidate-42",
+        "candidate-43",
+        "candidate-44"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+          "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "be4779ba6a6e8cca8c9c475c3687468c4c759be6c0f717f42bcd97ed8ba7481b"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-transition/contact-sheet.jpg",
+          "sha256": "af3e7616268ea5fd43f999a978b2a9aa9bd3612f5c667eb9f3cded78d75e0d4e"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-middle/contact-sheet.jpg",
+          "sha256": "b326e850dc18263e91850a8a49789ec2ee294803364543560c75e491666ef234"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-ending/contact-sheet.jpg",
+          "sha256": "f37a9516efda56f4dbfa2568ab4ef1d4a4dcf48949570b174f037eb02fe81f6a"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "textile-to-spatial-panorama",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "真实纵向输入推进满高空间卷轴，窗边与玫瑰色房间的相邻边界随滚动改变，已保留材料到空间的观看作用。",
+      "referenceFrames": [
+        "reference-13",
+        "reference-21",
+        "reference-23",
+        "reference-32"
+      ],
+      "candidateFrames": [
+        "candidate-38",
+        "candidate-42",
+        "candidate-46",
+        "candidate-48",
+        "candidate-57",
+        "candidate-59"
+      ],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "a1b7a33fa061f302234835e04e40d139baeaa9a861bbb5a235a45a85b12b7be1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "e28c24dfa28f570d8158732885533dac6c31e7146281c1fc95334891b9dbe176"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "4475f69fb99def567d9a1ef59b94a27b53fb3738f9657027265b9edee0f3d3f5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "fa10d624f27e5261dac059ab4a0c7d641e30e1fe5597453089091a916b75700a"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "1e2e31d5ea477673c987438fc8297f9f09bc831cd11b4166b9530405611f8214"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-transition/contact-sheet.jpg",
+          "sha256": "af3e7616268ea5fd43f999a978b2a9aa9bd3612f5c667eb9f3cded78d75e0d4e"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "5c83d93e663dd09393e5f19348c41f45cade6260a05a09b90bc788b981f67fbc"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "5c83d93e663dd09393e5f19348c41f45cade6260a05a09b90bc788b981f67fbc"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "94b4c2396d859d278e018c7c06b2a83e6b1d478c3fed7905507873476d794f68"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "94b4c2396d859d278e018c7c06b2a83e6b1d478c3fed7905507873476d794f68"
+        }
+      ]
+    },
+    {
+      "name": "index-selects-material-view",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "指针的正向、反向与离开让织物和选材照片直接替换主图，减少动态仍有同一观看内容，未退化为游标和字色反馈。",
+      "referenceFrames": [
+        "reference-26",
+        "reference-27",
+        "reference-28",
+        "reference-29",
+        "reference-30"
+      ],
+      "candidateFrames": [
+        "candidate-39",
+        "candidate-43",
+        "candidate-51",
+        "candidate-52",
+        "candidate-53",
+        "candidate-54",
+        "candidate-55"
+      ],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "c24ae48751a259099c314c7381e48ca9c16ed66809da0e2795f9eba4cb1d912b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "49dc404452bfc92e5fa6887bc34a6ca59d0e29eb1c4b6288cf75f41bffbf3569"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "c24ae48751a259099c314c7381e48ca9c16ed66809da0e2795f9eba4cb1d912b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "49dc404452bfc92e5fa6887bc34a6ca59d0e29eb1c4b6288cf75f41bffbf3569"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "c24ae48751a259099c314c7381e48ca9c16ed66809da0e2795f9eba4cb1d912b"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "f537f43fc237009bf5f4eb1170bf22f42b4cb1a2e4c97f44f8b69a2671d6feff"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-middle/contact-sheet.jpg",
+          "sha256": "b326e850dc18263e91850a8a49789ec2ee294803364543560c75e491666ef234"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "0218fa81ea177e8ac1cf41868c49a96592fe7c0e234b05f3bd3ca452f9c05ff2"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "9361102b7f075097b6dfcaf17474493462272bc354f769b0b49896e732d9eaa4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "0218fa81ea177e8ac1cf41868c49a96592fe7c0e234b05f3bd3ca452f9c05ff2"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "9361102b7f075097b6dfcaf17474493462272bc354f769b0b49896e732d9eaa4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "badf9f634422714e248bf137d89803ce1d1b57aec7fe01c70fd1aca88f3cf86a"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "candidate-45",
+        "candidate-46",
+        "candidate-47",
+        "candidate-48",
+        "candidate-49",
+        "candidate-50",
+        "candidate-56",
+        "candidate-57",
+        "candidate-58",
+        "candidate-59",
+        "candidate-60",
+        "candidate-61"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "5c83d93e663dd09393e5f19348c41f45cade6260a05a09b90bc788b981f67fbc"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "ef1d4a2aae59eed608b230138ca98cdc2bd7904fe16e472e6b91e5680fa325b3"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "5c83d93e663dd09393e5f19348c41f45cade6260a05a09b90bc788b981f67fbc"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-reduced/contact-sheet.jpg",
+          "sha256": "bc28ceb9ad031882d04460898b1ff56a15b5c06b711ef78497f97d13348fad0c"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "be4779ba6a6e8cca8c9c475c3687468c4c759be6c0f717f42bcd97ed8ba7481b"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "94b4c2396d859d278e018c7c06b2a83e6b1d478c3fed7905507873476d794f68"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "f37a9516efda56f4dbfa2568ab4ef1d4a4dcf48949570b174f037eb02fe81f6a"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "94b4c2396d859d278e018c7c06b2a83e6b1d478c3fed7905507873476d794f68"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "be4779ba6a6e8cca8c9c475c3687468c4c759be6c0f717f42bcd97ed8ba7481b"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-reduced/contact-sheet.jpg",
+          "sha256": "baca1c4c5b626111cc532a8b11ac12e2c21cb2df38c07de71206ff3a7544ab3d"
+        }
+      ]
+    },
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "candidate-51",
+        "candidate-52",
+        "candidate-53",
+        "candidate-54",
+        "candidate-55"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "0218fa81ea177e8ac1cf41868c49a96592fe7c0e234b05f3bd3ca452f9c05ff2"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "9361102b7f075097b6dfcaf17474493462272bc354f769b0b49896e732d9eaa4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "0218fa81ea177e8ac1cf41868c49a96592fe7c0e234b05f3bd3ca452f9c05ff2"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "9361102b7f075097b6dfcaf17474493462272bc354f769b0b49896e732d9eaa4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "badf9f634422714e248bf137d89803ce1d1b57aec7fe01c70fd1aca88f3cf86a"
+        }
+      ]
+    }
+  ],
+  "nextAction": "replace-direction",
+  "fixTasks": [
+    "保留已准入参考的摄影卷轴与材料选择；将空间段的大标题移出明亮摄影或取消多余叠置，保证手机每个连续位置的文字可读。",
+    "保留本次源码和62帧审核包，建立新候选与静态计划修订后重采，不能覆盖拒绝报告或直接打包。",
+    "存在低于基准的品质维度",
+    "修改静态计划和试片后重新比较，不允许平均补偿",
+    "四状态主体、材质、构图、作用或身份关系未完整保留",
+    "修订已锁定的视觉合同或补齐实际状态证据，不能用局部润色抵消核心失败"
+  ],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "完整摄影呈现织物、设计者或材料在室内的具体关系，品牌与一句用途直接叠置；默认不可只剩抽象装饰、导航或缺少主体的文字。",
+        "material": "摄影须保留柔软织物、褶皱、纤维或空间中的触感和光线，黑白人物和室内色彩是可见的源站开场变体，不以统一塑料质感替代。",
+        "composition": "宏观材质占主要画面，衬线身份位于有控制的空隙，窄导航和短用途保持次级；手机仍保留材质交界和可辨字形。",
+        "role": "默认静止已呈现工作室身份和织物主题，首屏不靠滚动或鼠标才显示主体，后续过程由近距离材料自然带向实际空间。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-opening .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "独立室内空间照片以横向卷轴相邻呈现，窗帘、家具和空间深度可辨，不把同一主图切成多张来增加数量。",
+        "material": "织物处于室内光线与木材、金属之间，保留真实材料反差和细节；不使用统一暗罩掩盖普通照片或欠清晰素材。",
+        "composition": "摄影贯穿视口且边界显露相邻空间的方向，侧边短标签给出当前主题；手机以有足够幅面的单幅空间和直接横滑保持主体。",
+        "role": "原生纵向输入推进横向观看和空间尺度的交接，正向、反向、停止和重复进入均稳定，不用普通统一淡入取代卷轴编排。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-transition .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "竖幅材料或空间细节为索引主图，右侧选择项目与画面有具体对应，不以抽象装饰或孤立文字清单承担主要内容。",
+        "material": "主图需保留织纹、光线和周围结构的材质差异，画面选择带来不同材料观看，不能只变色或在同一照片内小幅取景。",
+        "composition": "白底竖幅主图和轻字索引形成与前段满高卷轴不同的观看比例，手机上下组织清楚，短选择项和主图均在正常路径可到达。",
+        "role": "指针进入、离开、选择和返回实际改变主图，触摸和键盘可得到同一内容；主要材料默认有一项清楚可见，不先要求用户点击。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-middle .visual",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "独立的窗帘、木地板与自然光形成完整室内结果，须使用前段没有承担主构图的新画面，避免重复首图充当结尾。",
+        "material": "透光织物、垂坠厚料和地板接触光影共同保持开场材料主题，细节与明暗有层次，不能以通用纯色邮箱块结束。",
+        "composition": "结尾以有空间深度的摄影和紧凑联系形成完整收束，行动不遮住重要褶皱与光线；手机保留窗、地面及材料相接的结构。",
+        "role": "由近景触感最终回到可居住空间，联系与返回行动直接可用；品牌在末段缩小，不再次重复开场巨大字标或加入无功能空段。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-ending .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": []
+  },
+  "visualContractSha256": "8fa968bdea925fa91439bd85516c4c437d94d21f400a1c32530d2c3b3cb6a12b",
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "近景主体覆盖视口，织纹与绒面交界清楚，短衬线身份在深色区域成组呈现，未依赖输入才显示主要内容。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "横向画面已呈现两个空间的邻接关系与材料尺度，摄影、短编号和真实原生推进共同承担过渡用途。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "1e2e31d5ea477673c987438fc8297f9f09bc831cd11b4166b9530405611f8214"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "白底材料主图与两项轻索引形成不同尺度，默认蓝色织物有清楚细节，指针过程另见选材照片而非微小平移。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "f537f43fc237009bf5f4eb1170bf22f42b4cb1a2e4c97f44f8b69a2671d6feff"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "独立窗帘、白纱与木地面共同收束，联系文字在厚料暗部保持可读，结尾没有重复首图或巨型品牌。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "ca0bd2271bd5db968977e246602f1f9edefa791a8b8512040dec3dff3c2cea86"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机近景仍显示织纹、绒面和流动边界，中央两行衬线文字清楚，导航与短用途未遮挡主要材料。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "be4779ba6a6e8cca8c9c475c3687468c4c759be6c0f717f42bcd97ed8ba7481b"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "lost",
+      "role": "preserved",
+      "finding": "空间摄影仍具高度和横向邻接，但白色标题跨越明亮窗框而无法清晰阅读，文字与画面构图未能保留受控关系。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-transition/contact-sheet.jpg",
+          "sha256": "af3e7616268ea5fd43f999a978b2a9aa9bd3612f5c667eb9f3cded78d75e0d4e"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机将材料主图与两项选择上下组织，已减少冗余说明，默认织纹细节与可选择标签都在真实正常路径中。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-middle/contact-sheet.jpg",
+          "sha256": "b326e850dc18263e91850a8a49789ec2ee294803364543560c75e491666ef234"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机收束完整呈现厚料、透光白纱与地面接触，联系和返回在暗部可读，没有通用纯色邮箱段替代摄影结果。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-aec3e700308bccde/attempt-0/mobile-ending/contact-sheet.jpg",
+          "sha256": "f37a9516efda56f4dbfa2568ab4ef1d4a4dcf48949570b174f037eb02fe81f6a"
+        }
+      ]
+    }
+  ],
+  "continuityChecks": [],
+  "reviewReceipt": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/review-queue/05-prototype-review-ddf35746-receipt.json",
+    "sha256": "319386e5c2b261edaac75cd03393f3260dc1d04c4ffed94541f0dbce15919444"
+  }
+}

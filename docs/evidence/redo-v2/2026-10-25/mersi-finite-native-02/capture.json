@@ -1,0 +1,892 @@
+{
+  "purpose": "Finite official project path, actual horizontal viewport readiness; no quality admission",
+  "url": "https://www.mersi-architecture.com/projets/hamelin",
+  "status": "captured-bounded-path-not-admitted",
+  "viewports": [
+    {
+      "name": "desktop",
+      "frames": [
+        {
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-opening.jpg",
+          "sha256": "f4fbe5c7b185ce543736e178f0085f080947dc5192cf3667ffc6a815fc9c9949"
+        },
+        {
+          "state": "forward-1",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-1.jpg",
+          "sha256": "0488bba4a184ed6285e6c68cfbc6d18727525eb1542dde86125b965340955849"
+        },
+        {
+          "state": "forward-2",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-2.jpg",
+          "sha256": "1ab8854101cc738dea0600312bcf1a77059771a2987ed254f40cefed6f76385d"
+        },
+        {
+          "state": "forward-3",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-3.jpg",
+          "sha256": "a05aea06daba685979472b98dca689eea3ca0afe23313e1aa5b9358712f0972b"
+        },
+        {
+          "state": "forward-4",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-4.jpg",
+          "sha256": "f8d5982c5489e2112f9dd13c844cb76c6805aac9b6772cac0dc3ee408f635a32"
+        },
+        {
+          "state": "forward-5",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-5.jpg",
+          "sha256": "064c30e266f800296555a1d14591f80295d2602fa6a3ea0eafd94c3f43583c24"
+        },
+        {
+          "state": "forward-6",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-6.jpg",
+          "sha256": "274acc19029c25bfa79625219ade250a79674e4342af5540613320189bc0e359"
+        },
+        {
+          "state": "forward-7",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-7.jpg",
+          "sha256": "fd1e6ba3df7daa57a340b32f54cfd47a2d79e6c21d8b50de45018bfaf93faf60"
+        },
+        {
+          "state": "forward-8",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-8.jpg",
+          "sha256": "eb621a069c756c66474624a51b34de3606b42ab35d14b6d84db92dbc43a0c01c"
+        },
+        {
+          "state": "forward-9",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-9.jpg",
+          "sha256": "70eb0f1c38443f2ddb36792354fe572de7f6674c64eaf549feae52e76be380b3"
+        },
+        {
+          "state": "forward-10",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-10.jpg",
+          "sha256": "951a7d1f71cf2c5d13c4b16286967d202da78a816c5b87ce0a9ec04e01cda99f"
+        },
+        {
+          "state": "forward-11",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-11.jpg",
+          "sha256": "0dbaf392c6075078af761484e23ae8933a6b182d11ca70946e6f475cc34bff1e"
+        },
+        {
+          "state": "forward-12",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-12.jpg",
+          "sha256": "fe46e2476d052938287dd1c2e80844d62e78bfcfe6f0d65b6f7f70e5adb8d962"
+        },
+        {
+          "state": "forward-13",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-13.jpg",
+          "sha256": "27a2a815a8f366848db5331a2111bb07cc1f76cb9e36edf1f9b1952d1f4a380e"
+        },
+        {
+          "state": "forward-14",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-14.jpg",
+          "sha256": "af095307cfff129749aaa4dcf94912940abbc686b773473a9e5a93010a875cee"
+        },
+        {
+          "state": "forward-15",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-15.jpg",
+          "sha256": "dc5edd5efd4a765c36304b5d41dc39f33a6675396a71817a387b7a43ffdf0271"
+        },
+        {
+          "state": "forward-16",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-16.jpg",
+          "sha256": "74edd3cdfccd5fe35fc1a3a7251622fba0611ae67e471b34e6f7da17122aeb73"
+        },
+        {
+          "state": "forward-17",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-17.jpg",
+          "sha256": "46154f8063a07f8d03baa6c68543d27349319230c045fe26697d3c0d73289ed0"
+        },
+        {
+          "state": "forward-18",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-18.jpg",
+          "sha256": "32cf6a154df82824acae67574fb6e2debb7f6c8dadd98f89dd207ad0cffaad8c"
+        },
+        {
+          "state": "forward-19",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-19.jpg",
+          "sha256": "86490d481452c442719ebc39f451161cb22ff5b570d149fa369e62f2647fa757"
+        },
+        {
+          "state": "forward-20",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-20.jpg",
+          "sha256": "98b8874af7add4fc26f63a7c66c8d94bad014f379fe911e74d08ae3033be1516"
+        },
+        {
+          "state": "forward-21",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-21.jpg",
+          "sha256": "320e12e1fd524fa2d1b5a8d8d1574505f9ecfd8f56830c03dacf9bd31b5d822a"
+        },
+        {
+          "state": "forward-22",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-22.jpg",
+          "sha256": "e49447a5dd73f13cf7e0738003d969a3a839f69d30bdfa3d48e1e249d43b77e5"
+        },
+        {
+          "state": "forward-23",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-23.jpg",
+          "sha256": "78e68f3d89a656302831d231c68029fdef4a5a7b5773b41acf0482be68615b8f"
+        },
+        {
+          "state": "forward-24",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-24.jpg",
+          "sha256": "b0f0eec8d0bfba603caf3919027765b318bd3e1f3d535eaa8f2c0e270aa43052"
+        },
+        {
+          "state": "forward-25",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-25.jpg",
+          "sha256": "3c782cd817a28a5892609513928276e2eda65bd923d4b1c43ed915ff38f38b96"
+        },
+        {
+          "state": "forward-26",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-26.jpg",
+          "sha256": "5cea4de2515abc567b57e0acb5eb1ad2763f69383cf672764982a9da89b39ae9"
+        },
+        {
+          "state": "forward-27",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-27.jpg",
+          "sha256": "ca85fb26a883e4f3ac00cc444a0e46162339543bb09b465a6e0b65b064e17491"
+        },
+        {
+          "state": "forward-28",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-28.jpg",
+          "sha256": "2b1508afefa52211aa29fd4164de73631ff8dacf53900f0cd7c2ba42d7d734d6"
+        },
+        {
+          "state": "forward-29",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-29.jpg",
+          "sha256": "aae85e942f5c0131310f1ad69e0c4aca941452953447ce4e8e2a51e0b679e0a5"
+        },
+        {
+          "state": "forward-30",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-30.jpg",
+          "sha256": "6b6b3c7258cef7e4a79be90fa699f8ca17cb57c5c7f04b091d602c5fb8b79e73"
+        },
+        {
+          "state": "forward-31",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-forward-31.jpg",
+          "sha256": "550cad5059921656c097eceb304979edf1270a87d0f108427c58668e311ed1be"
+        },
+        {
+          "state": "ending-stopped",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/desktop-ending-stopped.jpg",
+          "sha256": "76006dd94d849ba31cd9b3ba9b8b913417bca01b382e85b69736244a7f40e7ca"
+        }
+      ],
+      "actions": [
+        {
+          "input": "native-wheel",
+          "y": 569,
+          "max": 17597,
+          "height": 18497,
+          "heads": [
+            "Hamelin",
+            "Duplex haussmannien de 80 m²\nrepensé dans le 16e\narrondissement de Paris."
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 1168,
+          "max": 17597,
+          "height": 18497,
+          "heads": [
+            "Duplex haussmannien de 80 m²\nrepensé dans le 16e\narrondissement de Paris."
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 1768,
+          "max": 17597,
+          "height": 18497,
+          "heads": [
+            "Duplex haussmannien de 80 m²\nrepensé dans le 16e\narrondissement de Paris."
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 2371,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 2970,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 3568,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 4170,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 4770,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 5370,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 5971,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 6570,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 7170,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 7770,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 8370,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 8969,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 9568,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 10170,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 10769,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 11370,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 11970,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 12568,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 13169,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 13768,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 14369,
+          "max": 17597,
+          "height": 18497,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 14970,
+          "max": 17597,
+          "height": 18497,
+          "heads": [
+            "Nous concevons des lieux uniques,\npensés pour être vécus,\net dessinés pour traverser le\ntemps."
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 15570,
+          "max": 17597,
+          "height": 18497,
+          "heads": [
+            "Nous concevons des lieux uniques,\npensés pour être vécus,\net dessinés pour traverser le\ntemps."
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 16170,
+          "max": 17597,
+          "height": 18497,
+          "heads": [
+            "Nous concevons des lieux uniques,\npensés pour être vécus,\net dessinés pour traverser le\ntemps.",
+            "®26 MERSI"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 16769,
+          "max": 17597,
+          "height": 18497,
+          "heads": [
+            "®26 MERSI",
+            "Naya\nNaya",
+            "Maurice Cafe\nMaurice Cafe\nSt-Honore\nSt-Honore",
+            "Berri\nBerri",
+            "Cook\nCook",
+            "Segur\nSegur",
+            "Tonnenami\nTonnenami",
+            "Aurelien\nAurelien\nCohen\nCohen",
+            "Atokym\nAtokym",
+            "Paix\nPaix"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 17368,
+          "max": 17597,
+          "height": 18497,
+          "heads": [
+            "®26 MERSI",
+            "Naya\nNaya",
+            "Maurice Cafe\nMaurice Cafe\nSt-Honore\nSt-Honore",
+            "Berri\nBerri",
+            "Cook\nCook",
+            "Segur\nSegur",
+            "Tonnenami\nTonnenami",
+            "Aurelien\nAurelien\nCohen\nCohen",
+            "Atokym\nAtokym",
+            "Paix\nPaix"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 17587,
+          "max": 17597,
+          "height": 18497,
+          "heads": [
+            "®26 MERSI",
+            "Naya\nNaya",
+            "Maurice Cafe\nMaurice Cafe\nSt-Honore\nSt-Honore",
+            "Berri\nBerri",
+            "Cook\nCook",
+            "Segur\nSegur",
+            "Tonnenami\nTonnenami",
+            "Aurelien\nAurelien\nCohen\nCohen",
+            "Atokym\nAtokym",
+            "Paix\nPaix"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 17597,
+          "max": 17597,
+          "height": 18497,
+          "heads": [
+            "Naya\nNaya",
+            "Maurice Cafe\nMaurice Cafe\nSt-Honore\nSt-Honore",
+            "Berri\nBerri",
+            "Cook\nCook",
+            "Segur\nSegur",
+            "Tonnenami\nTonnenami",
+            "Aurelien\nAurelien\nCohen\nCohen",
+            "Atokym\nAtokym",
+            "Paix\nPaix"
+          ]
+        }
+      ],
+      "initial": {
+        "y": 0,
+        "max": 17597,
+        "height": 18497,
+        "heads": [
+          "Hamelin"
+        ],
+        "title": "Mersi Architecture | Rénovation duplex haussmannien Paris 16 | MERSI"
+      },
+      "end": {
+        "y": 17597,
+        "max": 17597,
+        "height": 18497,
+        "heads": [
+          "Naya\nNaya",
+          "Maurice Cafe\nMaurice Cafe\nSt-Honore\nSt-Honore",
+          "Berri\nBerri",
+          "Cook\nCook",
+          "Segur\nSegur",
+          "Tonnenami\nTonnenami",
+          "Aurelien\nAurelien\nCohen\nCohen",
+          "Atokym\nAtokym",
+          "Paix\nPaix"
+        ],
+        "text": "PROJETS\nPROJETS\nAGENCE\nAGENCE\nPROCESS\nPROCESS\nSHOP\nSHOP\nCONTACT\nCONTACT\nINSTAGRAM\nINSTAGRAM\nParis 16\n2026\nUn duplex haussmannien\nrepensé à Paris 16\nHamelin\nDuplex haussmannien de 80 m²\nrepensé dans le 16e\narrondissement de Paris.\nArchitecture d'intérieur\n01\nMaitrise d'oeuvre\n02\nMenuiserie sur-mesure\n03\nMobilier et décoration\n04\n80\nm²\nNous concevons des lieux uniques,\npensés pour être vécus,\net dessinés pour traverser le\ntemps.\n®26 MERSI\nNewsletter\n12 BD RASPAIL\nPARIS 7\nMail\nMail\nhello@mersi-architecture.com\nhello@mersi-architecture.com\nWhatsApp\nWhatsApp\nLet's talk\nLet's talk\nPhone\nPhone\n+331 72 68 22 28\n+331 72 68 22 28\nNaya\nNaya\nLevallois\n2025\nRésidentiel\nMaurice Cafe\nMaurice Cafe\nSt-Honore\nSt-Honore\nParis 8\n2025\nHospitality\nBerri\nBerri\nParis 8\n2025\nRésidentiel\nCook\nCook\nParis 17\n2025\nHospitality\nSegur\nSegur\nParis 7\n2025\nRésidentiel\nTonnenami\nTonnenami\nParis 6\n2024\nRésidentiel\nAurelien\nAurelien\nCohen\nCohen\nLevallois\n2025\nRetail\nAtokym\nAtokym\nParis 15\n2025\nRésidentiel\nPaix\nPaix\nParis 1\n2024\nRésidentiel"
+      },
+      "reachedEnd": true
+    },
+    {
+      "name": "mobile",
+      "frames": [
+        {
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-opening.jpg",
+          "sha256": "75ec074ec61ff0f05e8757a77fa00882369d90971489c8843e56ce5682616982"
+        },
+        {
+          "state": "forward-1",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-1.jpg",
+          "sha256": "d4ff1a3a4b76247219172dbe8e4fa2195adfc50b470887c0961252e052f47c61"
+        },
+        {
+          "state": "forward-2",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-2.jpg",
+          "sha256": "6ece75e8028e677c0f817d4be7b5c485f8c63852acc5547e3314f954c1317d41"
+        },
+        {
+          "state": "forward-3",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-3.jpg",
+          "sha256": "a7fb01099d5c6a5d49928a04cba11a8e013ea51107d948811d57b7cafec2bb8a"
+        },
+        {
+          "state": "forward-4",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-4.jpg",
+          "sha256": "e5d06be17f23ae839885e034df06876c5eb08de6b79a5c240eb59aa2de316572"
+        },
+        {
+          "state": "forward-5",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-5.jpg",
+          "sha256": "95a750b74afd2c0412b7ffc811bb9520a439fc489fa65dd48c2b5d1a6597d1e0"
+        },
+        {
+          "state": "forward-6",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-6.jpg",
+          "sha256": "d598848c99ea778ffc27885dabf2a68fdfc1c6a878f98233d2aeeef3ef4b6e7e"
+        },
+        {
+          "state": "forward-7",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-7.jpg",
+          "sha256": "3767a0bcede5a60c35c294106670f2d9ceedbea036ea098f0daa363bfcf14345"
+        },
+        {
+          "state": "forward-8",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-8.jpg",
+          "sha256": "3a485a5ccd1fd9c392562473c6429cb554ff54cb1df9ed79f2c6fcef7fa2131a"
+        },
+        {
+          "state": "forward-9",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-9.jpg",
+          "sha256": "51fba85d25d81f4ab0852ca2e6a964b10ae20bc7d191519db2e1665353613eb0"
+        },
+        {
+          "state": "forward-10",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-10.jpg",
+          "sha256": "76fd72fbb96d54cd79fabe10085109dcccd6fe62335e6d80fbcfe00f35f2f83e"
+        },
+        {
+          "state": "forward-11",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-11.jpg",
+          "sha256": "dcae838bd56fe31b835e348e1a53f7357d4235f0e8ecdd364d54923bc175413c"
+        },
+        {
+          "state": "forward-12",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-12.jpg",
+          "sha256": "f4208f178a91b4dd47593109e7d28a44dc4ca977555a66b3706ca9a9e0664ae9"
+        },
+        {
+          "state": "forward-13",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-13.jpg",
+          "sha256": "c50f1922f581d40b09d1fc6b8fc32f932f4ec61cb0eb71730bbf3593b6b9c641"
+        },
+        {
+          "state": "forward-14",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-14.jpg",
+          "sha256": "bd4d5fa98f89d1ac7f6f337bb881cef5261095b8440838e9a0b257420e5e98dc"
+        },
+        {
+          "state": "forward-15",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-15.jpg",
+          "sha256": "6f21cad109ab29005f2472ab41e3673e5d96f7cf2093bd140711f834dae899c8"
+        },
+        {
+          "state": "forward-16",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-16.jpg",
+          "sha256": "a90488e20b49c2e1a6b05ea3649662a44a35b580e61e2b0165b8a54574bb3d28"
+        },
+        {
+          "state": "forward-17",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-17.jpg",
+          "sha256": "0e26ec0043c7a3ae6166e458d821a578d23a625fc828939a72803318cce81146"
+        },
+        {
+          "state": "forward-18",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-18.jpg",
+          "sha256": "4d7c752b2933c207d7bf045527ea3eca04954361ccb55ab8c19153a52148eaf6"
+        },
+        {
+          "state": "forward-19",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-19.jpg",
+          "sha256": "58915db534a56d6f1933bb7067a22c4dbd1488c03acd95f2c904678270d5d4a8"
+        },
+        {
+          "state": "forward-20",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-20.jpg",
+          "sha256": "4aad0695bb6467787bcb6b464ab1a919b691da102ab70fddded55bba9cd882b3"
+        },
+        {
+          "state": "forward-21",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-21.jpg",
+          "sha256": "4c1c8ad51f9efdb2fcc28a1bcc70d9a1c9aee12bcfc4e33f60baf06584e39918"
+        },
+        {
+          "state": "forward-22",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-22.jpg",
+          "sha256": "2416ef9f914e053d53b73b9e61798dcc7f5c049cd1ad95521e4dfd0685f71dfc"
+        },
+        {
+          "state": "forward-23",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-23.jpg",
+          "sha256": "2ac325938beb7eb1a0f6224f9a02d7b47157134cb71c12e3e382fd131ce6a13b"
+        },
+        {
+          "state": "forward-24",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-24.jpg",
+          "sha256": "5bf629f1b54bf32c27991af2b5e1c033a84a7472792149ada80f6d57a15b59ca"
+        },
+        {
+          "state": "forward-25",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-25.jpg",
+          "sha256": "7725aa12e2af37af3e06fceefb6e19ec95be6f06a4c21e18d40513e8b48caea6"
+        },
+        {
+          "state": "forward-26",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-26.jpg",
+          "sha256": "ef68106b36e963f7cc34f52d809aadbb75e41daca0f07692fa4d25862d6397d3"
+        },
+        {
+          "state": "forward-27",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-27.jpg",
+          "sha256": "8c5d1e0b5e217c0daedca780476007e11af3f816f4b1ff402847eb0fc37b4c4b"
+        },
+        {
+          "state": "forward-28",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-28.jpg",
+          "sha256": "872de52ea88fe5b07a348cea0469dbad4d2dff97a405409a3f7019bd0648aba6"
+        },
+        {
+          "state": "forward-29",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-29.jpg",
+          "sha256": "5011cdc69828461ad40c403229137e77bf9dddf80570edb1acf76a185b5ae610"
+        },
+        {
+          "state": "forward-30",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-forward-30.jpg",
+          "sha256": "d04d4a07eebe6e9e8b83fb73aac656e610b060c10524b41ab25f8787f27f7861"
+        },
+        {
+          "state": "ending-stopped",
+          "path": "docs/evidence/redo-v2/2026-10-25/mersi-finite-native-02/mobile-ending-stopped.jpg",
+          "sha256": "d04d4a07eebe6e9e8b83fb73aac656e610b060c10524b41ab25f8787f27f7861"
+        }
+      ],
+      "actions": [
+        {
+          "input": "trusted-finger",
+          "y": 505,
+          "max": 14754,
+          "height": 15598,
+          "heads": [
+            "Hamelin"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 1010,
+          "max": 14754,
+          "height": 15598,
+          "heads": [
+            "Duplex haussmannien de\n80 m² repensé dans le 16e\narrondissement de Paris."
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 1515,
+          "max": 14754,
+          "height": 15598,
+          "heads": [
+            "Duplex haussmannien de\n80 m² repensé dans le 16e\narrondissement de Paris."
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 2020,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 2525,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 3030,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 3535,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 4040,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 4545,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 5050,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 5555,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 6060,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 6565,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 7070,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 7575,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 8080,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 8585,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 9090,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 9595,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 10100,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 10605,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 11110,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 11615,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 12120,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 12625,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 13130,
+          "max": 14754,
+          "height": 15598,
+          "heads": [
+            "Nous concevons des lieux\nuniques, pensés pour être\nvécus,\net dessinés pour traverser\nle temps.",
+            "®26 MERSI"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 13635,
+          "max": 14754,
+          "height": 15598,
+          "heads": [
+            "Nous concevons des lieux\nuniques, pensés pour être\nvécus,\net dessinés pour traverser\nle temps."
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 14140,
+          "max": 14754,
+          "height": 15598,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 14645,
+          "max": 14754,
+          "height": 15598,
+          "heads": [
+            "Naya"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 14754,
+          "max": 14754,
+          "height": 15598,
+          "heads": [
+            "Naya"
+          ]
+        }
+      ],
+      "initial": {
+        "y": 0,
+        "max": 14754,
+        "height": 15598,
+        "heads": [
+          "Hamelin"
+        ],
+        "title": "Mersi Architecture | Rénovation duplex haussmannien Paris 16 | MERSI"
+      },
+      "end": {
+        "y": 14754,
+        "max": 14754,
+        "height": 15598,
+        "heads": [
+          "Naya"
+        ],
+        "text": "MENU\nPROJETS\nAGENCE\nPROCESS\nSHOP\nCONTACT\nINSTAGRAM\nNEWS\nMENTIONS LÉGALES\nWEBSITE BY FLOT NOIR\nParis 16\n2026\nUn duplex haussmannien\nrepensé à Paris 16\nHamelin\nDuplex haussmannien de\n80 m² repensé dans le 16e\narrondissement de Paris.\nArchitecture d'intérieur\n01\nMaitrise d'oeuvre\n02\nMenuiserie sur-mesure\n03\nMobilier et décoration\n04\n80\nm²\nNous concevons des lieux\nuniques, pensés pour être\nvécus,\net dessinés pour traverser\nle temps.\n®26 MERSI\nNewsletter\n12 BD RASPAIL\nPARIS 7\nMail\nhello@mersi-architecture.com\nWhatsApp\nLet's talk\nPhone\n+331 72 68 22 28 \nNaya\nLevallois\nRésidentiel\nPROJET SUIVANT"
+      },
+      "reachedEnd": true
+    }
+  ],
+  "updatedAt": "2026-10-25T04:09:26.931Z"
+}

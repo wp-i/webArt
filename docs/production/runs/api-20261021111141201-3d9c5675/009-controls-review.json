@@ -1,0 +1,315 @@
+{
+  "decision": "reject",
+  "responsiveComposition": "reject",
+  "responsiveChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/desktop-responsive-opening.png",
+          "sha256": "b13eead1519b4529cfb17011e8edfa6a287329a498a4336c0863c6eabbc152f2"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/desktop-responsive-transition.png",
+          "sha256": "9118947773acf3a6049b86d2cba055ad016640508bda06b641238dfec719062f"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/desktop-responsive-middle.png",
+          "sha256": "a77d65c05b1ec6ef023ab179b71115183eb6051fd06652b6a60b188978e89c34"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/desktop-responsive-ending.png",
+          "sha256": "14752fc11a6662ab04a83e6fb67b6b1b1f43c334b6fbc82722545d0376fec949"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/wide-responsive-opening.png",
+          "sha256": "89fd4029cecb4b61c75b55c68718937037e05c9d6635e8881a42fe691bdb61a7"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/wide-responsive-transition.png",
+          "sha256": "a17b6f627947cdff0ffebb5b1e15dd74d9a4772e51bb405e652829fee4f12069"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/wide-responsive-middle.png",
+          "sha256": "a1f78aca413acb7dcc6caf12680e418662cc5e07fb8e57c792559d3991d9ca34"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "ending",
+      "subject": "lost",
+      "composition": "lost",
+      "actions": "preserved",
+      "finding": "2048×912的结尾放大了人物竖幅，头顶被截，托相机手部与机身底缘贴近并越出底边；不符合预先锁定的完整人物及相机取景范围。应只调整极宽比例下的人物面板宽度与裁切。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/wide-responsive-ending.png",
+          "sha256": "c0530f2814014de52aac708ff517767f7896f50f927873199c90dc8a4172f952"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/tablet-responsive-opening.png",
+          "sha256": "8594862d09cfa4d2b126fc6095e6c8afe02d9bf47f995dc5672a3b69213a786d"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/tablet-responsive-transition.png",
+          "sha256": "f4d10b4060c481a69a627c65a86db70eeaea34f31edf74558f7e040545bb3629"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/tablet-responsive-middle.png",
+          "sha256": "c3c7b2c8606437a5aa368eb4194c15b0e4d70d252af44ba3f2a509fe706fbf8d"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/tablet-responsive-ending.png",
+          "sha256": "c193a8f8a188b074f7fa13af5a3fe5bb0a6eadf87e9dd06543caaebf00cc30e2"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/mobile-responsive-opening.png",
+          "sha256": "c340728b05e645be41ad911cc944600ba330c530c91d7e18a16d9161f3412cc1"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/mobile-responsive-transition.png",
+          "sha256": "9f49d0f357b423bed2c4802591433cbcfa4565f51aa7c2d5c19270eb93d95a0f"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/mobile-responsive-middle.png",
+          "sha256": "f7c2f0345d57c1653d33c8076478fe8332f5ada957cd60eb5a3134d8693f1a61"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/mobile-responsive-ending.png",
+          "sha256": "00451f7ada3099d128169befda6ca7b522b2000aa173ff6e49edbb7360b0c649"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/narrow-responsive-opening.png",
+          "sha256": "e19327207d5032527f919342ea7488f6e9a688d2536ad66616d73046cee9c091"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/narrow-responsive-transition.png",
+          "sha256": "f54bd0392ab26a615e35e9f9633e9839c1ed7b9acd382b43a28d18f37986df91"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/narrow-responsive-middle.png",
+          "sha256": "30acc1a7e3bd2e27a52efde877ee0256c0b2f99d8824db660cf510267fe75f7c"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "实际画面的摄影主体、图字关系和可见行动保持，未见横向溢出、关键文字内部裁断或行动压住主体；本条仅为该宽度状态的构图判断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/narrow-responsive-ending.png",
+          "sha256": "97133e235fd2cdf3e4cbe33640490201e098b7e440932103ae5e1445c3602d6e"
+        }
+      ]
+    }
+  ],
+  "renderingFallback": "not-applicable",
+  "findings": [
+    "宽屏结尾的头顶、手部及相机范围不符合已锁定构图，需要有限局部裁切修正。",
+    "另行实际关闭脚本后，桌面Photographs导航改变hash到display:none/height=0的标记，未抵达可见内容，记录在009-no-script-actions-01/actions.json；原生备用入口需要修正。",
+    "本轮已因明确缺陷提前退回；其余控件的133个去重载荷未全部审看，不记为控件视觉通过，不创建包或更新首页。"
+  ],
+  "sourceSha256": "c7651ef2df86e8074889cc8778bccafdebcd075e9b8f1aab47c708e61cbc847a",
+  "phase": "full-qa",
+  "reviewer": {
+    "id": "current-conversation:2026-10-19-four-redesigns",
+    "implementationContextIncluded": false,
+    "mode": "evidence-only-current-conversation",
+    "kind": "current-conversation",
+    "independent": false,
+    "contextIsolated": false
+  },
+  "reviewReceipt": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/review-queue/20-controls-review-90e2262a-receipt.json",
+    "sha256": "05449fb787aca9e3c3c94ad497a354574bcc0e27f680c29c20fe3e78dd43e19d"
+  },
+  "runtimeEvidence": {
+    "path": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/runtime.json",
+    "sha256": "6d51dd6916eea18100eb57b9981a60242474c0beaebe30eac22e732629ac022b"
+  },
+  "vetoes": [
+    "宽屏结尾的头顶、手部及相机范围不符合已锁定构图，需要有限局部裁切修正。",
+    "另行实际关闭脚本后，桌面Photographs导航改变hash到display:none/height=0的标记，未抵达可见内容，记录在009-no-script-actions-01/actions.json；原生备用入口需要修正。",
+    "本轮已因明确缺陷提前退回；其余控件的133个去重载荷未全部审看，不记为控件视觉通过，不创建包或更新首页。"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-24",
+  "scope": "supplement-to-request-26-for-current-published-006-and-010-only",
+  "candidateSourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+  "previousStyleReview": "docs/production/runs/api-20261023020510668-730eef15/009-style-review.json",
+  "comparisonCohort": [
+    {
+      "id": "009",
+      "rendererId": "near-and-far-editorial-v1",
+      "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+      "runtime": {
+        "path": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/runtime.json",
+        "sha256": "e093d4829fc6ae261ee77c5840441afa0c8e9d540647a92e3784627532c1f539"
+      },
+      "frames": [
+        {
+          "viewport": "desktop",
+          "state": "opening",
+          "path": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/desktop-responsive-opening.png",
+          "sha256": "b13eead1519b4529cfb17011e8edfa6a287329a498a4336c0863c6eabbc152f2"
+        },
+        {
+          "viewport": "desktop",
+          "state": "transition",
+          "path": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/desktop-responsive-transition.png",
+          "sha256": "8bbdbe834d206ced0ae80c4521d871d60f02d2eb3e3d5f3ef314e071d3104354"
+        },
+        {
+          "viewport": "desktop",
+          "state": "middle",
+          "path": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/desktop-responsive-middle.png",
+          "sha256": "13d23be9d7deeb37bcf17654bdc1ceb67d827e675cb1f2cef6a751cbc1566720"
+        },
+        {
+          "viewport": "desktop",
+          "state": "ending",
+          "path": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/desktop-responsive-ending.png",
+          "sha256": "14752fc11a6662ab04a83e6fb67b6b1b1f43c334b6fbc82722545d0376fec949"
+        },
+        {
+          "viewport": "mobile",
+          "state": "opening",
+          "path": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/mobile-responsive-opening.png",
+          "sha256": "c340728b05e645be41ad911cc944600ba330c530c91d7e18a16d9161f3412cc1"
+        },
+        {
+          "viewport": "mobile",
+          "state": "transition",
+          "path": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/mobile-responsive-transition.png",
+          "sha256": "0e7b541a52e0b4c20a8860ae7f10a3006f294d888c1c54640204542de057c6d8"
+        },
+        {
+          "viewport": "mobile",
+          "state": "middle",
+          "path": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/mobile-responsive-middle.png",
+          "sha256": "6a1f91a03dfba238208ef2b148b595fdb281293b14906323bb12f472fa684c00"
+        },
+        {
+          "viewport": "mobile",
+          "state": "ending",
+          "path": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/mobile-responsive-ending.png",
+          "sha256": "00451f7ada3099d128169befda6ca7b522b2000aa173ff6e49edbb7360b0c649"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "rendererId": "ivory-woven-v1",
+      "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d",
+      "runtime": {
+        "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/runtime.json",
+        "sha256": "fefcb9ef35a196e64720aa99535abd3da849ab5193977dd2da65377244a2e6fc"
+      },
+      "frames": [
+        {
+          "viewport": "desktop",
+          "state": "opening",
+          "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/desktop-responsive-opening.png",
+          "sha256": "8e10796713d835d1f6a49866cb45cba107528cb03a1e93d802d1bfaf0f245860"
+        },
+        {
+          "viewport": "desktop",
+          "state": "transition",
+          "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/desktop-responsive-transition.png",
+          "sha256": "e1c38314f8886511e390ef8f419f5e0e6bd79da2ee3532ec0c863d548ff23d8b"
+        },
+        {
+          "viewport": "desktop",
+          "state": "middle",
+          "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/desktop-responsive-middle.png",
+          "sha256": "75c46b461c008096a36d7767f0166a58cfb342530bfe446ac7489f50ac1ac793"
+        },
+        {
+          "viewport": "desktop",
+          "state": "ending",
+          "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/desktop-responsive-ending.png",
+          "sha256": "f4e2495a3c3e18a539856f5b31944124bace631ed09268be26e17a7bc1218cb8"
+        },
+        {
+          "viewport": "mobile",
+          "state": "opening",
+          "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/mobile-responsive-opening.png",
+          "sha256": "31c666408060064ff4bf50020b6f8bada49cfb30915f3f140d5223064332344d"
+        },
+        {
+          "viewport": "mobile",
+          "state": "transition",
+          "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/mobile-responsive-transition.png",
+          "sha256": "bd23f1024e5ece13f6baae5a161c0a90283680067c2c208880ba61ea54f6fd51"
+        },
+        {
+          "viewport": "mobile",
+          "state": "middle",
+          "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/mobile-responsive-middle.png",
+          "sha256": "b0faead4921c390a9dd88bca25b2959a234338cad48cd809a82b68423c2d88a5"
+        },
+        {
+          "viewport": "mobile",
+          "state": "ending",
+          "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/mobile-responsive-ending.png",
+          "sha256": "1577a7cd152319c7c6c9675c76ff209dc5bad3ffc146dbcc90f05f131d896a52"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "rendererId": "pace-precision-v2",
+      "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+      "runtime": {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/runtime.json",
+        "sha256": "670f02a5f7efa3bbcec5536f71505250bc1e5eba38a3b40311d835897148cf4f"
+      },
+      "frames": [
+        {
+          "viewport": "desktop",
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-opening.png",
+          "sha256": "df1794a6a88626ec78601f522ecabd1085b191541a1b3cd10fb4a86ea0472602"
+        },
+        {
+          "viewport": "desktop",
+          "state": "transition",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-transition.png",
+          "sha256": "973f1d09fd7b14a65dffd0f8a3881c534174c326a8c1038398e854b2fef9632a"
+        },
+        {
+          "viewport": "desktop",
+          "state": "middle",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-middle.png",
+          "sha256": "bfd3a301382e10b8b64b91841c64eb8d7ad2563ded0e08ea5fbc34aceeb91724"
+        },
+        {
+          "viewport": "desktop",
+          "state": "ending",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-ending.png",
+          "sha256": "87df1cbb2694be4ba6959394a1c3825b383a01ecaf74afaaa56866530d6fcc0e"
+        },
+        {
+          "viewport": "mobile",
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-opening.png",
+          "sha256": "9a1d6e8928669645a79c48e58b6199ffff1bf12ca0fd9daa474e1c2332344987"
+        },
+        {
+          "viewport": "mobile",
+          "state": "transition",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-transition.png",
+          "sha256": "6b72e5d817e3b85f90d8fc3967bf23ff58fbac861bca813af90fd8205d08b4e0"
+        },
+        {
+          "viewport": "mobile",
+          "state": "middle",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-middle.png",
+          "sha256": "2697968f68588a62c09903889e9e21d2c63786d8ec46447ad558c3aafaaac69d"
+        },
+        {
+          "viewport": "mobile",
+          "state": "ending",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-ending.png",
+          "sha256": "91d919ffb24595d2c6fb1bbfc6d6dea46792f371d23f0a9f36b157f1fa2c4ae7"
+        }
+      ]
+    }
+  ],
+  "actualViewedFrames": 24,
+  "result": {
+    "decision": "distinct",
+    "nearestId": "006",
+    "openingAndAssetBothRepeated": false,
+    "comparisons": [
+      {
+        "dimension": "composition",
+        "different": true,
+        "finding": "009以纸色留白中的三个错位肖像穿越背后字形并重组为中心摄影；当前006是满幅织物近景到横向室内卷轴，010是中央技术仪表，均非同一支配构图。"
+      },
+      {
+        "dimension": "typography",
+        "different": true,
+        "finding": "009的纤细Bodoni分类字隐藏于肖像背后，细看标题与小索引协同观看；006的Instrument衬线及斜体置于满幅织物上，010为粗无衬线技术短句。"
+      },
+      {
+        "dimension": "color-media",
+        "different": true,
+        "finding": "009的红纱、白衣、蓝天独立人物与橙蓝绿同人肖像，未复用006的植物提花、绒面、窗帘与室内图，也未复用010的暗色仪表、点阵和荧光圆盘。"
+      },
+      {
+        "dimension": "rhythm",
+        "different": true,
+        "finding": "009从三幅摄影的穿越交接进入同一作品细看，再用摄影者肖像收束；006转向横向空间及材料索引后以窗光结束，010按同一仪表的展开、点阵和弹性状态推进。"
+      }
+    ]
+  },
+  "reviewReceipt": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/review-queue/28-style-review-c2214aa0-receipt.json",
+    "sha256": "7c684672c7c1f43552f205815924388e29d4e0843813abd93939f4711617a5ae"
+  },
+  "provenance": {
+    "mode": "evidence-only-current-conversation",
+    "implementationContextIncluded": false,
+    "kind": "current-conversation",
+    "independent": false,
+    "contextIsolated": false
+  }
+}

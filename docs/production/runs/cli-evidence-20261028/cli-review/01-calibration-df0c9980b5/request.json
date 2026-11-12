@@ -1,0 +1,777 @@
+{
+  "schemaVersion": 1,
+  "id": "01-calibration-df0c9980b5",
+  "role": "calibration",
+  "startedAt": "2026-10-25T14:54:40.159Z",
+  "execution": "fresh-codex-cli-evidence-review",
+  "requestedModel": null,
+  "provenance": {
+    "mode": "evidence-only-fresh-codex-cli",
+    "kind": "fresh-codex-cli",
+    "independent": false,
+    "contextIsolated": false,
+    "contextIsolationScope": "fresh conversation; implementation history not supplied",
+    "implementationContextIncluded": false,
+    "backendIndependenceEstablished": false,
+    "requestedModel": null,
+    "actualModel": null
+  },
+  "instructions": "# 审查者校准\n\n只读取匿名六样本的实际桌面/手机画面。找出一个用户品质基准及五个完成度明显不足的样本，逐项给出具体画面依据。比较构图、字形/媒体关系、素材质感、完整收束及手机；不按风格、工艺简单或图数判优，不计总分。标签由程序随机生成，不能获取原ID或旧评分。校准不匹配时停止，不生成自己授予的95。\n 每个finding至少30字符。",
+  "text": "评估开场、字体与媒体、素材质感、整页收束和手机构图。逐个输出标签与 verdict。",
+  "images": [
+    {
+      "path": "images/000.png",
+      "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6",
+      "label": "sample-0 A desktop opening",
+      "bytes": 1333967
+    },
+    {
+      "path": "images/001.png",
+      "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7",
+      "label": "sample-1 A desktop transition",
+      "bytes": 446069
+    },
+    {
+      "path": "images/002.png",
+      "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa",
+      "label": "sample-2 A desktop middle",
+      "bytes": 929325
+    },
+    {
+      "path": "images/003.png",
+      "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556",
+      "label": "sample-3 A desktop ending",
+      "bytes": 1054815
+    },
+    {
+      "path": "images/004.png",
+      "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d",
+      "label": "sample-4 A mobile opening",
+      "bytes": 404267
+    },
+    {
+      "path": "images/005.png",
+      "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4",
+      "label": "sample-5 A mobile transition",
+      "bytes": 144364
+    },
+    {
+      "path": "images/006.png",
+      "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f",
+      "label": "sample-6 A mobile middle",
+      "bytes": 288072
+    },
+    {
+      "path": "images/007.png",
+      "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87",
+      "label": "sample-7 A mobile ending",
+      "bytes": 372539
+    },
+    {
+      "path": "images/008.png",
+      "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39",
+      "label": "sample-8 B desktop opening",
+      "bytes": 894677
+    },
+    {
+      "path": "images/009.png",
+      "sha256": "ed1fd1ce2b24d92a65136664902601cd488c98fa16394c3b99301d0330df1e8f",
+      "label": "sample-9 B desktop transition",
+      "bytes": 1188782
+    },
+    {
+      "path": "images/010.png",
+      "sha256": "88cf9cb0605777251c76626a66765c25179fa1cddd526e2cee2472a525f1f813",
+      "label": "sample-10 B desktop middle",
+      "bytes": 681989
+    },
+    {
+      "path": "images/011.png",
+      "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210",
+      "label": "sample-11 B desktop ending",
+      "bytes": 444366
+    },
+    {
+      "path": "images/012.png",
+      "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686",
+      "label": "sample-12 B mobile opening",
+      "bytes": 318943
+    },
+    {
+      "path": "images/013.png",
+      "sha256": "250546a585a19eccdc9943ff412525f4ea1f3721e96c6d503c95d84ee5a26888",
+      "label": "sample-13 B mobile transition",
+      "bytes": 304551
+    },
+    {
+      "path": "images/014.png",
+      "sha256": "5b15f3778491fa59b09793385cec86c56ff1e583204e4eca4663fb509566bcb7",
+      "label": "sample-14 B mobile middle",
+      "bytes": 386293
+    },
+    {
+      "path": "images/015.png",
+      "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f",
+      "label": "sample-15 B mobile ending",
+      "bytes": 140142
+    },
+    {
+      "path": "images/016.png",
+      "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb",
+      "label": "sample-16 C desktop opening",
+      "bytes": 681261
+    },
+    {
+      "path": "images/017.png",
+      "sha256": "79225b087a2179d007d2bb13d0293391e1426073913a399df1a0d8b7c642ad58",
+      "label": "sample-17 C desktop transition",
+      "bytes": 822551
+    },
+    {
+      "path": "images/018.png",
+      "sha256": "2cecfa82a5723f3357fe5517a1c087d409ae32b3423d7c553f64a2a4d2fff7ba",
+      "label": "sample-18 C desktop middle",
+      "bytes": 897457
+    },
+    {
+      "path": "images/019.png",
+      "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799",
+      "label": "sample-19 C desktop ending",
+      "bytes": 617959
+    },
+    {
+      "path": "images/020.png",
+      "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff",
+      "label": "sample-20 C mobile opening",
+      "bytes": 159503
+    },
+    {
+      "path": "images/021.png",
+      "sha256": "107d89b7bf04722fbe9f90e7c797b05a31189dbedaa3ace351325c3974ffa5d5",
+      "label": "sample-21 C mobile transition",
+      "bytes": 296039
+    },
+    {
+      "path": "images/022.png",
+      "sha256": "2e32bfffef0cd0be6322ace9c614740bf8caf38addbfa93d072cff3f00929edb",
+      "label": "sample-22 C mobile middle",
+      "bytes": 322105
+    },
+    {
+      "path": "images/023.png",
+      "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a",
+      "label": "sample-23 C mobile ending",
+      "bytes": 153333
+    },
+    {
+      "path": "images/024.png",
+      "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3",
+      "label": "sample-24 D desktop opening",
+      "bytes": 1889089
+    },
+    {
+      "path": "images/025.png",
+      "sha256": "fe8aeee474c125ff4803387be57cfcc0d97de139ce10637185050526374dd35b",
+      "label": "sample-25 D desktop transition",
+      "bytes": 1500840
+    },
+    {
+      "path": "images/026.png",
+      "sha256": "6f289796234c1b4f0a41c683897a81f23c0d5e70c16ad3cf93994fe1b58c2e20",
+      "label": "sample-26 D desktop middle",
+      "bytes": 942958
+    },
+    {
+      "path": "images/027.png",
+      "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa",
+      "label": "sample-27 D desktop ending",
+      "bytes": 796269
+    },
+    {
+      "path": "images/028.png",
+      "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba",
+      "label": "sample-28 D mobile opening",
+      "bytes": 494896
+    },
+    {
+      "path": "images/029.png",
+      "sha256": "725d0ce2e02aad7abf3c22717d8a117fa24a847fa4225e15b68f054a1591127e",
+      "label": "sample-29 D mobile transition",
+      "bytes": 243922
+    },
+    {
+      "path": "images/030.png",
+      "sha256": "76ade37796cb70b5519c410b1b046729f5a7d33a5423e87ca16808ad0e777234",
+      "label": "sample-30 D mobile middle",
+      "bytes": 331456
+    },
+    {
+      "path": "images/031.png",
+      "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1",
+      "label": "sample-31 D mobile ending",
+      "bytes": 139219
+    },
+    {
+      "path": "images/032.png",
+      "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec",
+      "label": "sample-32 E desktop opening",
+      "bytes": 859333
+    },
+    {
+      "path": "images/033.png",
+      "sha256": "656cf2ba107a86312b4d986733b6133928e043d50a9520fcc6bb43e6bd48da2a",
+      "label": "sample-33 E desktop transition",
+      "bytes": 863160
+    },
+    {
+      "path": "images/034.png",
+      "sha256": "4d8c3010953e979b1ea8822cf71f9ff8c567f851ad9e0c20062aa57000bba907",
+      "label": "sample-34 E desktop middle",
+      "bytes": 1057241
+    },
+    {
+      "path": "images/035.png",
+      "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451",
+      "label": "sample-35 E desktop ending",
+      "bytes": 794650
+    },
+    {
+      "path": "images/036.png",
+      "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42",
+      "label": "sample-36 E mobile opening",
+      "bytes": 327208
+    },
+    {
+      "path": "images/037.png",
+      "sha256": "f06e68c4a582bd4676403cd01d98f144581d049d40a8839459b600f06408ca9c",
+      "label": "sample-37 E mobile transition",
+      "bytes": 408445
+    },
+    {
+      "path": "images/038.png",
+      "sha256": "9ce0ea2a19b47b9cc09abf49312165e65fd69f762f9ee2663159a09f02d3c41c",
+      "label": "sample-38 E mobile middle",
+      "bytes": 368630
+    },
+    {
+      "path": "images/039.png",
+      "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788",
+      "label": "sample-39 E mobile ending",
+      "bytes": 249524
+    },
+    {
+      "path": "images/040.png",
+      "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90",
+      "label": "sample-40 F desktop opening",
+      "bytes": 328195
+    },
+    {
+      "path": "images/041.png",
+      "sha256": "096b1dba498c71a836865f71b728f2edfb30320c3378dce425a8001336c42aa1",
+      "label": "sample-41 F desktop transition",
+      "bytes": 244713
+    },
+    {
+      "path": "images/042.png",
+      "sha256": "212b9f29139e99ce7c10f7a9ebb194982adabe950e092dc887215c2edf9c467d",
+      "label": "sample-42 F desktop middle",
+      "bytes": 106770
+    },
+    {
+      "path": "images/043.png",
+      "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94",
+      "label": "sample-43 F desktop ending",
+      "bytes": 43515
+    },
+    {
+      "path": "images/044.png",
+      "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a",
+      "label": "sample-44 F mobile opening",
+      "bytes": 115079
+    },
+    {
+      "path": "images/045.png",
+      "sha256": "23fe83b3fa2ad42d36f02147b08f02ed403f68b675f19f980d8aed983549ec9a",
+      "label": "sample-45 F mobile transition",
+      "bytes": 53596
+    },
+    {
+      "path": "images/046.png",
+      "sha256": "44ee25ef006f9d461bdfcf0f19fad7222a18ddb3170850f31d18d80eff5f9150",
+      "label": "sample-46 F mobile middle",
+      "bytes": 41242
+    },
+    {
+      "path": "images/047.png",
+      "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a",
+      "label": "sample-47 F mobile ending",
+      "bytes": 33760
+    }
+  ],
+  "outputSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "labels": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "verdict": {
+              "type": "string",
+              "enum": [
+                "benchmark",
+                "below-benchmark"
+              ]
+            },
+            "finding": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "label",
+            "verdict",
+            "finding"
+          ]
+        }
+      }
+    },
+    "required": [
+      "labels"
+    ]
+  },
+  "packetDirectory": "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r",
+  "packetManifest": [
+    {
+      "path": "images/000.png",
+      "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+    },
+    {
+      "path": "images/001.png",
+      "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+    },
+    {
+      "path": "images/002.png",
+      "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+    },
+    {
+      "path": "images/003.png",
+      "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+    },
+    {
+      "path": "images/004.png",
+      "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+    },
+    {
+      "path": "images/005.png",
+      "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+    },
+    {
+      "path": "images/006.png",
+      "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+    },
+    {
+      "path": "images/007.png",
+      "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+    },
+    {
+      "path": "images/008.png",
+      "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+    },
+    {
+      "path": "images/009.png",
+      "sha256": "ed1fd1ce2b24d92a65136664902601cd488c98fa16394c3b99301d0330df1e8f"
+    },
+    {
+      "path": "images/010.png",
+      "sha256": "88cf9cb0605777251c76626a66765c25179fa1cddd526e2cee2472a525f1f813"
+    },
+    {
+      "path": "images/011.png",
+      "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+    },
+    {
+      "path": "images/012.png",
+      "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+    },
+    {
+      "path": "images/013.png",
+      "sha256": "250546a585a19eccdc9943ff412525f4ea1f3721e96c6d503c95d84ee5a26888"
+    },
+    {
+      "path": "images/014.png",
+      "sha256": "5b15f3778491fa59b09793385cec86c56ff1e583204e4eca4663fb509566bcb7"
+    },
+    {
+      "path": "images/015.png",
+      "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+    },
+    {
+      "path": "images/016.png",
+      "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+    },
+    {
+      "path": "images/017.png",
+      "sha256": "79225b087a2179d007d2bb13d0293391e1426073913a399df1a0d8b7c642ad58"
+    },
+    {
+      "path": "images/018.png",
+      "sha256": "2cecfa82a5723f3357fe5517a1c087d409ae32b3423d7c553f64a2a4d2fff7ba"
+    },
+    {
+      "path": "images/019.png",
+      "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+    },
+    {
+      "path": "images/020.png",
+      "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+    },
+    {
+      "path": "images/021.png",
+      "sha256": "107d89b7bf04722fbe9f90e7c797b05a31189dbedaa3ace351325c3974ffa5d5"
+    },
+    {
+      "path": "images/022.png",
+      "sha256": "2e32bfffef0cd0be6322ace9c614740bf8caf38addbfa93d072cff3f00929edb"
+    },
+    {
+      "path": "images/023.png",
+      "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+    },
+    {
+      "path": "images/024.png",
+      "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+    },
+    {
+      "path": "images/025.png",
+      "sha256": "fe8aeee474c125ff4803387be57cfcc0d97de139ce10637185050526374dd35b"
+    },
+    {
+      "path": "images/026.png",
+      "sha256": "6f289796234c1b4f0a41c683897a81f23c0d5e70c16ad3cf93994fe1b58c2e20"
+    },
+    {
+      "path": "images/027.png",
+      "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+    },
+    {
+      "path": "images/028.png",
+      "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+    },
+    {
+      "path": "images/029.png",
+      "sha256": "725d0ce2e02aad7abf3c22717d8a117fa24a847fa4225e15b68f054a1591127e"
+    },
+    {
+      "path": "images/030.png",
+      "sha256": "76ade37796cb70b5519c410b1b046729f5a7d33a5423e87ca16808ad0e777234"
+    },
+    {
+      "path": "images/031.png",
+      "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+    },
+    {
+      "path": "images/032.png",
+      "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+    },
+    {
+      "path": "images/033.png",
+      "sha256": "656cf2ba107a86312b4d986733b6133928e043d50a9520fcc6bb43e6bd48da2a"
+    },
+    {
+      "path": "images/034.png",
+      "sha256": "4d8c3010953e979b1ea8822cf71f9ff8c567f851ad9e0c20062aa57000bba907"
+    },
+    {
+      "path": "images/035.png",
+      "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+    },
+    {
+      "path": "images/036.png",
+      "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+    },
+    {
+      "path": "images/037.png",
+      "sha256": "f06e68c4a582bd4676403cd01d98f144581d049d40a8839459b600f06408ca9c"
+    },
+    {
+      "path": "images/038.png",
+      "sha256": "9ce0ea2a19b47b9cc09abf49312165e65fd69f762f9ee2663159a09f02d3c41c"
+    },
+    {
+      "path": "images/039.png",
+      "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+    },
+    {
+      "path": "images/040.png",
+      "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+    },
+    {
+      "path": "images/041.png",
+      "sha256": "096b1dba498c71a836865f71b728f2edfb30320c3378dce425a8001336c42aa1"
+    },
+    {
+      "path": "images/042.png",
+      "sha256": "212b9f29139e99ce7c10f7a9ebb194982adabe950e092dc887215c2edf9c467d"
+    },
+    {
+      "path": "images/043.png",
+      "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+    },
+    {
+      "path": "images/044.png",
+      "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+    },
+    {
+      "path": "images/045.png",
+      "sha256": "23fe83b3fa2ad42d36f02147b08f02ed403f68b675f19f980d8aed983549ec9a"
+    },
+    {
+      "path": "images/046.png",
+      "sha256": "44ee25ef006f9d461bdfcf0f19fad7222a18ddb3170850f31d18d80eff5f9150"
+    },
+    {
+      "path": "images/047.png",
+      "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+    },
+    {
+      "path": "schema.json",
+      "sha256": "86e164dfe415effba260ca7b098623dc573574f23a94dee41fdc9df9bdd9ee1a"
+    }
+  ],
+  "invocation": {
+    "executable": "C:\\Users\\11509\\AppData\\Local\\OpenAI\\Codex\\bin\\2993767bd1dfb009\\codex.exe",
+    "args": [
+      "--no-daemon",
+      "--ask-for-approval",
+      "never",
+      "exec",
+      "--ignore-user-config",
+      "--strict-config",
+      "--ephemeral",
+      "--skip-git-repo-check",
+      "--sandbox",
+      "read-only",
+      "--color",
+      "never",
+      "--json",
+      "--cd",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r",
+      "--output-schema",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\schema.json",
+      "--output-last-message",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\final.json",
+      "--config",
+      "project_doc_max_bytes=0",
+      "--config",
+      "history.persistence=\"none\"",
+      "--config",
+      "web_search=\"disabled\"",
+      "--config",
+      "memories.use_memories=false",
+      "--config",
+      "memories.generate_memories=false",
+      "--config",
+      "features.skip_host_skill_discovery=true",
+      "--config",
+      "mcp_servers={}",
+      "--disable",
+      "shell_tool",
+      "--disable",
+      "unified_exec_tty",
+      "--disable",
+      "shell_snapshot",
+      "--disable",
+      "apps",
+      "--disable",
+      "plugins",
+      "--disable",
+      "hooks",
+      "--disable",
+      "memories",
+      "--disable",
+      "multi_agent",
+      "--disable",
+      "multi_agent_v2",
+      "--disable",
+      "view_image",
+      "--disable",
+      "browser_use",
+      "--disable",
+      "browser_use_external",
+      "--disable",
+      "browser_use_full_cdp_access",
+      "--disable",
+      "computer_use",
+      "--disable",
+      "in_app_browser",
+      "--disable",
+      "code_mode",
+      "--disable",
+      "code_mode_host",
+      "--disable",
+      "workspace_dependencies",
+      "--disable",
+      "skill_search",
+      "--disable",
+      "skill_mcp_dependency_install",
+      "--disable",
+      "sleep_tool",
+      "--disable",
+      "goals",
+      "--disable",
+      "tool_suggest",
+      "--disable",
+      "external_agent_memory_import",
+      "--disable",
+      "unbounded_connection_retries",
+      "--disable",
+      "image_generation",
+      "--disable",
+      "remote_plugin",
+      "--disable",
+      "browser_annotation_api",
+      "--disable",
+      "in_app_local_automation",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\000.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\001.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\002.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\003.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\004.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\005.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\006.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\007.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\008.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\009.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\010.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\011.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\012.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\013.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\014.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\015.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\016.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\017.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\018.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\019.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\020.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\021.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\022.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\023.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\024.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\025.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\026.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\027.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\028.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\029.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\030.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\031.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\032.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\033.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\034.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\035.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\036.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\037.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\038.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\039.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\040.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\041.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\042.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\043.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\044.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\045.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\046.png",
+      "--image",
+      "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r\\images\\047.png",
+      "--",
+      "-"
+    ],
+    "shell": false,
+    "environmentPolicy": "CODEX context and credential variables removed; existing CODEX_HOME authentication retained",
+    "requestedDisabledFeatures": [
+      "shell_tool",
+      "unified_exec_tty",
+      "shell_snapshot",
+      "apps",
+      "plugins",
+      "hooks",
+      "memories",
+      "multi_agent",
+      "multi_agent_v2",
+      "view_image",
+      "browser_use",
+      "browser_use_external",
+      "browser_use_full_cdp_access",
+      "computer_use",
+      "in_app_browser",
+      "code_mode",
+      "code_mode_host",
+      "workspace_dependencies",
+      "skill_search",
+      "skill_mcp_dependency_install",
+      "sleep_tool",
+      "goals",
+      "tool_suggest",
+      "external_agent_memory_import",
+      "unbounded_connection_retries",
+      "image_generation",
+      "remote_plugin",
+      "browser_annotation_api",
+      "in_app_local_automation"
+    ],
+    "effectiveFeatureProbeFile": "D:\\code\\webArt\\.webart\\cli-review-calibration-20261025-20261025145439888\\01-calibration-df0c9980b5\\feature-probe.json",
+    "deadlineMs": 290000,
+    "maxOutputBytes": 2097152,
+    "automaticAdapterRetries": 0
+  }
+}

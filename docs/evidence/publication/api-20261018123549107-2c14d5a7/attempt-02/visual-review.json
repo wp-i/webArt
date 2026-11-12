@@ -1,0 +1,8 @@
+{
+  "decision":"evidence-needed",
+  "reviewer":"current-conversation-art-director",
+  "independent":false,
+  "finding":"工程检查通过，但直接复看发现tablet-full与narrow-full中006缩略图未绘出，其他状态中的同图正常。decode及HTTP成功不能证明整页已绘制。已移开实际悬停指针并延长整页稳定等待，须以新一轮完整证据判断，不改写本轮截图或工程收据。",
+  "frames":["tablet-full.png","narrow-full.png"],
+  "nextAction":"recapture"
+}

@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 2,
+  "purpose": "reviewer-calibration",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "runId": "2026-10-13-redo-primary-01",
+  "reviewer": {
+    "id": "primary-art-reviewer-2026-10-13",
+    "mode": "blind-evidence-only",
+    "implementationContextIncluded": false
+  },
+  "limitations": "Single primary reviewer, not an independent model. The reviewer has prior task context; this record separates evidence input from implementation rationale but does not claim a statistically blind unseen test. Judgments recorded by anonymous label before consulting the mapping key.",
+  "labelReviewSha256": "5406756f99277898540c7a069a2398e385010a25e5046a774d7b0cee42051240",
+  "samples": [
+    {
+      "id": "001",
+      "sourceSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+      "verdict": "benchmark",
+      "finding": "开场的字形嵌进材料斜面与光束，手机重新排开Weight和Light；结尾用另一光照与建筑近景形成独立完整收束。中点黑场是单帧过程缺口，不能据此推断整体只有黑场，需要结合实际前后帧审查。",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/001-1440-pointer-0.2.png",
+          "sha256": "3b8132ec2c6c9b369c3baf6b3d81cb602366b7270f1a010531f8beec4abc2415",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/001-1440-pointer-0.8.png",
+          "sha256": "c80249335437e1ba261da9d1d48fc8400d40865d16618ff342cd76a29bad286c",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "sourceSha256": "057d1fff49885ed00ccd2bae36abcd33ae87fffc4bd7fdbc13b9b31f0444c147",
+      "verdict": "below-benchmark",
+      "finding": "开场的角落字母与居中岸线照片有识别度，但手机照片太小且大部分为空色；中段两件作品仅错位排列，结尾又是标题与色块联系组件，素材和观看过程没有贯穿。",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/009-1440-opening.png",
+          "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-1-6.png",
+          "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/009-1440-pointer-0.2.png",
+          "sha256": "04696eb2644fa4fe12c74d732876aa11636331d4bc2cfc2eb34ef681542bda8f",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/009-1440-pointer-0.8.png",
+          "sha256": "ad8873e3a95d924baa8c981ebf77223eec9fe9d959604e7cc55acb4154f48585",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/009-390-opening.png",
+          "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "sourceSha256": "31892bf10228f07d305ed4bee795c10bed76c5514a06429ab545d10eaeddcd99",
+      "verdict": "below-benchmark",
+      "finding": "室内全屏有明亮真实光线，手机裁切也有主体，但中段标题加三张项目卡片是常规作品网格；最后黑色短文案行动块再次降低了主图的力度，观看变化不足。",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/008-1440-opening.png",
+          "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-1-6.png",
+          "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/008-1440-pointer-0.2.png",
+          "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/008-1440-pointer-0.8.png",
+          "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/008-390-opening.png",
+          "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "sourceSha256": "4fcd045081962375d946130e871d1fd95df9e1d91a301aa3471016962436abd4",
+      "verdict": "below-benchmark",
+      "finding": "手机界面和紫色标题是普通两栏产品开场，手机堆叠后界面被截在底部；中段文字和表单比照片主体更占画面，终点按钮色块没有引入独立视觉结果。",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/010-1440-opening.png",
+          "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-1-6.png",
+          "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/010-1440-pointer-0.2.png",
+          "sha256": "10727b4c6481145705225b661f33ddd264b4c9c05598c8ec743057f55d2dc87a",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/010-1440-pointer-0.8.png",
+          "sha256": "71c18fa9d67fda5e6396b139d1636f0312fe9e1c63a37137d87eba3bbe9d2544",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/010-390-opening.png",
+          "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "sourceSha256": "3be6deb3cc6893ce3a225c43d7cdd330a3aed8b945269cd77056577262e1f99a",
+      "verdict": "below-benchmark",
+      "finding": "桌面字标与暖色照片有关系，但后续三列照片与短标题缺少场景交接；手机字标变小、随后照片平铺，收束大段空白和联系标题，整页细节不及A的材料观看路径。",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/006-1440-opening.png",
+          "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-1-6.png",
+          "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/006-1440-pointer-0.2.png",
+          "sha256": "a8e78a40e385bd29acf7f9f498faaa8f7990227d5546ad24935b65e52fb47152",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/006-1440-pointer-0.8.png",
+          "sha256": "16e0402dd9d3dbd9cd8537b89f513844fb9b089b3557c6107d427f1cb819784d",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/006-390-opening.png",
+          "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "sourceSha256": "46c7d81838525a79057b4d7a98f030222a2befb44b0b7b8719e63c3224d2121f",
+      "verdict": "below-benchmark",
+      "finding": "巨大的衬线字标醒目，但黄底文字占据半幅且海岸图呈旅游照；中段做面照片没有在滚动中形成更精确的叙事，最后粉色横条和按钮如常用组件，手机也只是上下排列。",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/007-1440-opening.png",
+          "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-1-6.png",
+          "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/007-1440-pointer-0.2.png",
+          "sha256": "2a6465c6bfaa0d65ba740d32bea3ff1121378da0d0f9be54b826144541ccfd42",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/007-1440-pointer-0.8.png",
+          "sha256": "2a6465c6bfaa0d65ba740d32bea3ff1121378da0d0f9be54b826144541ccfd42",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/007-390-opening.png",
+          "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42",
+          "viewport": "mobile"
+        }
+      ]
+    }
+  ]
+}

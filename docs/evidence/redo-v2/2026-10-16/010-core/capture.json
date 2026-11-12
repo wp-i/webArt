@@ -1,0 +1,293 @@
+{
+  "purpose": "actual-core-scene-review-not-page-admission",
+  "files": [
+    {
+      "path": ".webart/prototypes/010-precision-study/src/model.js",
+      "sha256": "c14556a73d6d932cfd08dd1640f2a35a99e20e9b41064750c054ad18c3af0575"
+    },
+    {
+      "path": ".webart/prototypes/010-precision-study/src/studio.js",
+      "sha256": "03926e10cc0d809a1bb7c3f3063a1a3a7822ef18b7e05006df256bf87bee731a"
+    },
+    {
+      "path": ".webart/prototypes/010-precision-study/src/instrument-scene.js",
+      "sha256": "559c3f2b1f8430e878caddc6182c9a68a8c93339085ae10320286062f39573ff"
+    }
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "progress": 0,
+      "frame": 111,
+      "reduced": false,
+      "spring": {
+        "x": 0,
+        "y": 0,
+        "vx": 0,
+        "vy": 0,
+        "drag": false,
+        "lastX": 0,
+        "lastY": 0,
+        "lastT": 0,
+        "radius": 275.4000000000001
+      },
+      "triangles": 340148,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core/desktop-opening.jpg",
+          "sha256": "d5119a8bed959a4c6f62fafb2cc38f7c2ecfae93178eb3d7b2d64d6bffcff8a7"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "progress": 0.9999956589747281,
+      "frame": 226,
+      "reduced": false,
+      "spring": {
+        "x": 0,
+        "y": 0,
+        "vx": 0,
+        "vy": 0,
+        "drag": false,
+        "lastX": 0,
+        "lastY": 0,
+        "lastT": 0,
+        "radius": 117.2172242226818
+      },
+      "triangles": 622312,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core/desktop-transition.jpg",
+          "sha256": "59090b2e084fa720a01e0427327c16b3235f75400d6745a93ea92fe4e7acc52a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "progress": 1.9999981807728964,
+      "frame": 318,
+      "reduced": false,
+      "spring": {
+        "x": 0,
+        "y": 0,
+        "vx": 0,
+        "vy": 0,
+        "drag": false,
+        "lastX": 0,
+        "lastY": 0,
+        "lastT": 0,
+        "radius": 275.4000000000001
+      },
+      "triangles": 340148,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core/desktop-middle.jpg",
+          "sha256": "c6615bbb79592dd15c4388f96e032afbbca284c9ca4e07745c2045b9bacaf3d9"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "progress": 2.999997970862392,
+      "frame": 409,
+      "reduced": false,
+      "spring": {
+        "x": 0,
+        "y": 0,
+        "vx": 0,
+        "vy": 0,
+        "drag": false,
+        "lastX": 0,
+        "lastY": 0,
+        "lastT": 0,
+        "radius": 275.4000000000001
+      },
+      "triangles": 340148,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core/desktop-ending.jpg",
+          "sha256": "52439c98c88bd36566b2a94ed0f202f8074ca72a3529decae937baca7851ceb9"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "progress": 0,
+      "frame": 142,
+      "reduced": false,
+      "spring": {
+        "x": 0,
+        "y": 0,
+        "vx": 0,
+        "vy": 0,
+        "drag": false,
+        "lastX": 0,
+        "lastY": 0,
+        "lastT": 0,
+        "radius": 140.73113207547175
+      },
+      "triangles": 340148,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core/mobile-opening.jpg",
+          "sha256": "3c2af8a9dfc15d2ae2ca53810412242804c7e9d666a17ae4c3e912bab003460e"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "progress": 0.999996097916825,
+      "frame": 258,
+      "reduced": false,
+      "spring": {
+        "x": 0,
+        "y": 0,
+        "vx": 0,
+        "vy": 0,
+        "drag": false,
+        "lastX": 0,
+        "lastY": 0,
+        "lastT": 0,
+        "radius": 90.65561442698464
+      },
+      "triangles": 622312,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core/mobile-transition.jpg",
+          "sha256": "77b66cbc81c9216854ec1535ef4b1adf5529f0ea82eaa18f0bb65c2f60adfe79"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "progress": 1.9999979708589102,
+      "frame": 360,
+      "reduced": false,
+      "spring": {
+        "x": 0,
+        "y": 0,
+        "vx": 0,
+        "vy": 0,
+        "drag": false,
+        "lastX": 0,
+        "lastY": 0,
+        "lastT": 0,
+        "radius": 140.73113207547175
+      },
+      "triangles": 340148,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core/mobile-middle.jpg",
+          "sha256": "47fc7a02072b3dee187d6dfceceb7c71a2a364a38bde3f873540461d59bdd7b9"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "progress": 2.999997970861793,
+      "frame": 463,
+      "reduced": false,
+      "spring": {
+        "x": 0,
+        "y": 0,
+        "vx": 0,
+        "vy": 0,
+        "drag": false,
+        "lastX": 0,
+        "lastY": 0,
+        "lastT": 0,
+        "radius": 140.73113207547175
+      },
+      "triangles": 340148,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core/mobile-ending.jpg",
+          "sha256": "be43cf580bcf1b7227e9b42c599476eb2f4176714d9c9ce9275bd73f334d0d86"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-visually-approved"
+}

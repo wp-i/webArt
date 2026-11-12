@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "010",
+  "manifest": "renderers/pace-precision-v2/manifest.json",
+  "qualityReview": "renderers/pace-precision-v2/contract.json",
+  "records": {
+    "brief": "docs/pages/010-precision-study.md",
+    "reference": "docs/references/010-precision-study.md",
+    "assets": "docs/assets/010-precision-study.md",
+    "qa": "docs/qa/2026-10-18-pace-performance.md"
+  },
+  "trialApproval": {
+    "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+    "runtime": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/runtime.json"
+  },
+  "controls": {
+    "capture": "docs/evidence/redo-v2/2026-10-18/010-performance-final/controls/controls.json",
+    "review": "docs/production/runs/2026-10-18-performance/010-controls-review.json"
+  },
+  "rendering": {
+    "mode": "local-3d",
+    "capture": "docs/evidence/redo-v2/2026-10-18/010-performance-final/rendering/rendering.json"
+  },
+  "performance": {
+    "capture": "docs/evidence/redo-v2/2026-10-18/010-performance-budget-03/result.json",
+    "sha256": "300ac8b723c6c0dba2311d99e18941cd010a56c27dc8a47468ef12c3af4d6910"
+  },
+  "styleReview": "docs/production/runs/2026-10-18-performance/010-style-review.json"
+}

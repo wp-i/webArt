@@ -1,0 +1,674 @@
+{
+  "purpose": "Bounded actual path discovery; not quality admission",
+  "url": "https://restaurant-amici.com/",
+  "viewports": [
+    {
+      "name": "desktop",
+      "frames": [
+        {
+          "state": "opening",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-opening.jpg",
+          "sha256": "6b3bf16ca5799a3b59c88d9774f181a7048ec001f29a540de7bbbd514aa90ec3"
+        },
+        {
+          "state": "pointer-left",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-pointer-left.jpg",
+          "sha256": "b2789674ebeb16b40e198a22ef7b6cfcf2e3a3321fcf93bb9078e25cdd768cbe"
+        },
+        {
+          "state": "pointer-right",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-pointer-right.jpg",
+          "sha256": "553018dc5767eb39f05553d909688d18aec13f3a8c6754076a46be05982cc5bf"
+        },
+        {
+          "state": "pointer-center",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-pointer-center.jpg",
+          "sha256": "709c5ea03ab5477b861b3902d5057efd5b879d8cee803373da84df4ed4d4d15a"
+        },
+        {
+          "state": "forward-1",
+          "y": 638,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-1.jpg",
+          "sha256": "25393c3fad0a8349662badd1be2f042de87bc021665ab564f3401d75202600ef"
+        },
+        {
+          "state": "forward-2",
+          "y": 1288,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-2.jpg",
+          "sha256": "3b1d496ef3d3e1dc90131134a63512d7f004da7a4e483a9329786287833a9d19"
+        },
+        {
+          "state": "forward-3",
+          "y": 1938,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-3.jpg",
+          "sha256": "dee790ccc3b477f9ea9259e1ebc984208a8d822ccd7593fd0dc09e24c99889a8"
+        },
+        {
+          "state": "forward-4",
+          "y": 2587,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-4.jpg",
+          "sha256": "062c798162499aef7323492850df8990a767b1b1d345c203eec635a7fa6a5736"
+        },
+        {
+          "state": "forward-5",
+          "y": 3238,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-5.jpg",
+          "sha256": "81ae26b667df556f769274c3dfaf0ac90b1cb6f915876e197d7190540d71a1d6"
+        },
+        {
+          "state": "forward-6",
+          "y": 3524,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-6.jpg",
+          "sha256": "3c99732d62a82ae5eb6ff420e1ed1fc534b0f6225d33f713137403959ade1cf9"
+        },
+        {
+          "state": "forward-7",
+          "y": 3529,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-forward-7.jpg",
+          "sha256": "ae27bd0101b047e1fc0b0ae720e1165d605b43444c758fbb81f41104ecb2ca40"
+        },
+        {
+          "state": "ending-stopped",
+          "y": 3529,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/desktop-ending-stopped.jpg",
+          "sha256": "66160cb2bb54ca95d236d270e6e8eb7c45e940c98b6c82375cf8d215c06f2e47"
+        }
+      ],
+      "actions": [
+        {
+          "input": "native-wheel",
+          "before": 0,
+          "y": 643,
+          "max": 3529
+        },
+        {
+          "input": "native-wheel",
+          "before": 643,
+          "y": 1293,
+          "max": 3529
+        },
+        {
+          "input": "native-wheel",
+          "before": 1293,
+          "y": 1943,
+          "max": 3529
+        },
+        {
+          "input": "native-wheel",
+          "before": 1943,
+          "y": 2593,
+          "max": 3529
+        },
+        {
+          "input": "native-wheel",
+          "before": 2593,
+          "y": 3242,
+          "max": 3529
+        },
+        {
+          "input": "native-wheel",
+          "before": 3242,
+          "y": 3525,
+          "max": 3529
+        },
+        {
+          "input": "native-wheel",
+          "before": 3525,
+          "y": 3529,
+          "max": 3529
+        }
+      ],
+      "initial": {
+        "title": "Accueil - Amici",
+        "height": 4429,
+        "text": "Lesquin\nA PROPOS\nCONTACT\nRECRUTEMENT\nPRIVATISATION\nMENU\nFERMER\nCHEZ AMICI,\nLA VIE EST UNE\nFÊTE ET LA TABLE\nUN RÉGAL.\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nNOS RESTAURANTS VOUS ACCUEILLENT\n03\nLesquin\nSophia – Antipolis (Fermé)\nMeylan (Bientôt)\nSAVOUREUSE ET\nENSOLEILLÉE\nDELIZIOSO\n\nChez amici, la carte invite au plaisir des bons repas partagés. Généreuse et gourmande, elle est élaborée à partir d’ingrédients frais et locaux, avec une cuisine française conviviale, inspirée par les saisons et les produits de nos régions.\n\nVOTRE\nRÉSERVATION\nPREGO !\n\nPour toutes demandes d’informations\n\n01 NOMBRE D'INVITÉS\nGrands groupes soyez les bienvenus (Entre 15 et 25 personnes)\n02 L’ÉVÉNEMENT\nAnniversaire, séminaire, afterwork ou festa della pasta en famille\nCONTACTEZ-NOUS\nCONTACTEZ-NOUS\nNOUS CONTACTER\nA PROPOS\nRECRUTEMENT\nINSTAGRAM\nFACEBOOK\nCREDITS\nMENTIONS LÉGALES\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nEn cliquant sur « Accepter », vous acceptez l'installation de cookies sur votre navigateur afin d'améliorer votre expérience de navigation et l'acquisition de statistiques. Consultez nos mentions légales pour plus d'informations.\nACCEPTER\nPRÉFÉRENCES"
+      },
+      "end": {
+        "y": 3529,
+        "height": 4429,
+        "text": "Lesquin\nA PROPOS\nCONTACT\nRECRUTEMENT\nPRIVATISATION\nMENU\nFERMER\nCHEZ AMICI,\nLA VIE EST UNE\nFÊTE ET LA TABLE\nUN RÉGAL.\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nNOS RESTAURANTS VOUS ACCUEILLENT\n03\nLesquin\nSophia – Antipolis (Fermé)\nMeylan (Bientôt)\nSAVOUREUSE ET\nENSOLEILLÉE\nDELIZIOSO\n\nChez amici, la carte invite au plaisir des bons repas partagés. Généreuse et gourmande, elle est élaborée à partir d’ingrédients frais et locaux, avec une cuisine française conviviale, inspirée par les saisons et les produits de nos régions.\n\nVOTRE\nRÉSERVATION\nPREGO !\n\nPour toutes demandes d’informations\n\n01 NOMBRE D'INVITÉS\nGrands groupes soyez les bienvenus (Entre 15 et 25 personnes)\n02 L’ÉVÉNEMENT\nAnniversaire, séminaire, afterwork ou festa della pasta en famille\nCONTACTEZ-NOUS\nCONTACTEZ-NOUS\nNOUS CONTACTER\nA PROPOS\nRECRUTEMENT\nINSTAGRAM\nFACEBOOK\nCREDITS\nMENTIONS LÉGALES\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nEn cliquant sur « Accepter », vous acceptez l'installation de cookies sur votre navigateur afin d'améliorer votre expérience de navigation et l'acquisition de statistiques. Consultez nos mentions légales pour plus d'informations.\nACCEPTER\nPRÉFÉRENCES",
+        "controls": [
+          {
+            "tag": "A",
+            "cl": "header-link body-10 md:body-12 font-medium uppercase text-olive transition-opacity duration-300 ease-out xl:hover:opacity-70",
+            "id": "",
+            "text": "A propos",
+            "r": {
+              "x": -625.1597290039062,
+              "y": 13.046024322509766,
+              "width": 74.697998046875,
+              "height": 14.410200119018555
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "header-link body-10 md:body-12 font-medium uppercase text-olive transition-opacity duration-300 ease-out xl:hover:opacity-70",
+            "id": "",
+            "text": "Contact",
+            "r": {
+              "x": -523.1934814453125,
+              "y": 13.046024322509766,
+              "width": 68.79541015625,
+              "height": 14.410200119018555
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "header-link body-10 md:body-12 font-medium uppercase text-olive transition-opacity duration-300 ease-out xl:hover:opacity-70",
+            "id": "",
+            "text": "Recrutement",
+            "r": {
+              "x": -426.6133117675781,
+              "y": 13.046024322509766,
+              "width": 103.45462036132812,
+              "height": 14.410200119018555
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "header-link body-10 md:body-12 font-medium uppercase text-olive transition-opacity duration-300 ease-out xl:hover:opacity-70",
+            "id": "",
+            "text": "Privatisation",
+            "r": {
+              "x": -294.6683349609375,
+              "y": 13.046024322509766,
+              "width": 103.32647705078125,
+              "height": 14.410200119018555
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "header-logo svg-wrapper flex w-[8.6rem] md:w-[12rem] text-olive transition-opacity duration-300 ease-out opacity-0",
+            "id": "",
+            "text": "\n  \n  \n  \n  \n  \n",
+            "r": {
+              "x": 652.484375,
+              "y": 20,
+              "width": 120,
+              "height": 39
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "button sticker-hover group relative block mt-100 p-5 bg-olive",
+            "id": "",
+            "text": "\n          \n            CONTACTEZ-NOUS\nCONTACTEZ-NOUS\n          \n          \n            \n\n\n\n\n\n          \n        ",
+            "r": {
+              "x": 506.1610107421875,
+              "y": 230.38919067382812,
+              "width": 405.530029296875,
+              "height": 102.42660522460938
+            }
+          },
+          {
+            "tag": "DIV",
+            "cl": "footer-stamp absolute top-0 left-0 w-[11rem] md:w-[14rem] lg:w-[19rem] opacity-0 pointer-events-none select-none",
+            "id": "",
+            "text": "\n            \n          ",
+            "r": {
+              "x": 105.703125,
+              "y": 516.53125,
+              "width": 190,
+              "height": 51.921875
+            }
+          },
+          {
+            "tag": "DIV",
+            "cl": "footer-stamps absolute top-0 left-0 w-full h-full",
+            "id": "",
+            "text": "\n            \n            \n            \n            \n          ",
+            "r": {
+              "x": 105.703125,
+              "y": 516.53125,
+              "width": 1213.578125,
+              "height": 230
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "sticker-hover link group relative col-span-full md:col-span-4 flex justify-center p-20 md:px-[4.4rem] md:py-[2.8rem] md:border-r-px border-olive font-heading heading-15 lg:heading-18 italic uppercase text-olive text-center",
+            "id": "",
+            "text": "\n            Nous contacter\n            \n\n\n\n\n\n\n          ",
+            "r": {
+              "x": 105.703125,
+              "y": 747.53125,
+              "width": 220.640625,
+              "height": 100
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "A propos",
+            "r": {
+              "x": 326.34375,
+              "y": 747.53125,
+              "width": 329.984375,
+              "height": 49.5
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "Recrutement",
+            "r": {
+              "x": 326.34375,
+              "y": 798.03125,
+              "width": 329.984375,
+              "height": 49.5
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "Instagram",
+            "r": {
+              "x": 657.328125,
+              "y": 747.53125,
+              "width": 329.96875,
+              "height": 49.5
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "Facebook",
+            "r": {
+              "x": 657.328125,
+              "y": 798.03125,
+              "width": 329.96875,
+              "height": 49.5
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "group link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "\n                Credits\n                Beaucoup\n              ",
+            "r": {
+              "x": 988.296875,
+              "y": 747.53125,
+              "width": 330.984375,
+              "height": 49.5
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "Mentions légales",
+            "r": {
+              "x": 988.296875,
+              "y": 798.03125,
+              "width": 330.984375,
+              "height": 49.5
+            }
+          },
+          {
+            "tag": "BUTTON",
+            "cl": "tarteaucitronCTAButton tarteaucitronAllow",
+            "id": "tarteaucitronPersonalize2",
+            "text": "        Accepter   ",
+            "r": {
+              "x": 47,
+              "y": 797.40625,
+              "width": 67.75,
+              "height": 15.59375
+            }
+          },
+          {
+            "tag": "BUTTON",
+            "cl": "",
+            "id": "tarteaucitronCloseAlert",
+            "text": "       Préférences   ",
+            "r": {
+              "x": 251.609375,
+              "y": 797.40625,
+              "width": 91.390625,
+              "height": 15.59375
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "mobile",
+      "frames": [
+        {
+          "state": "opening",
+          "y": 0,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-opening.jpg",
+          "sha256": "c998077ba19c76312f4789c86f9d1a0a9506810d995bb421c9a20831445d5d90"
+        },
+        {
+          "state": "forward-1",
+          "y": 441,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-1.jpg",
+          "sha256": "1b98a2d7f1ea3d79921ce2c3e6e9661adce27679ade9b05c13c12e54145c6de0"
+        },
+        {
+          "state": "forward-2",
+          "y": 882,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-2.jpg",
+          "sha256": "2b1799adf23cb63df0ccd2545e76f1617d275b973103b912439f550090eccf4f"
+        },
+        {
+          "state": "forward-3",
+          "y": 1323,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-3.jpg",
+          "sha256": "848b9e90df11742e1706d6d8386133aa84c4b052fbb1cf011d93ff46f3652feb"
+        },
+        {
+          "state": "forward-4",
+          "y": 1764,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-4.jpg",
+          "sha256": "c18218190d0cacd3738c1d14bac8c42069b86ce10e8f45eb42fe29f8169aab3b"
+        },
+        {
+          "state": "forward-5",
+          "y": 2205,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-5.jpg",
+          "sha256": "44f0c72d76e015372c08d0e598fba57129e9d29400997c5f72a148bcf27eb194"
+        },
+        {
+          "state": "forward-6",
+          "y": 2646,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-6.jpg",
+          "sha256": "8cf14b82850177aadcf3ef8fc3080cc3cdd2526c014b72efa8c5b759cf9bebfb"
+        },
+        {
+          "state": "forward-7",
+          "y": 2894,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-forward-7.jpg",
+          "sha256": "0d309f6e3a199c88397d0133da8a181ee862492d11773609c7669d5d9d12d7ac"
+        },
+        {
+          "state": "ending-stopped",
+          "y": 2894,
+          "path": "docs/evidence/redo-v2/2026-10-24/amici-native-followup/mobile-ending-stopped.jpg",
+          "sha256": "e36bb5787ad55af27a721b1ea3f776c98401ba0bcf981ea4e945daccae1db990"
+        }
+      ],
+      "actions": [
+        {
+          "input": "trusted-finger",
+          "before": 0,
+          "y": 441,
+          "max": 2894
+        },
+        {
+          "input": "trusted-finger",
+          "before": 441,
+          "y": 882,
+          "max": 2894
+        },
+        {
+          "input": "trusted-finger",
+          "before": 882,
+          "y": 1323,
+          "max": 2894
+        },
+        {
+          "input": "trusted-finger",
+          "before": 1323,
+          "y": 1764,
+          "max": 2894
+        },
+        {
+          "input": "trusted-finger",
+          "before": 1764,
+          "y": 2205,
+          "max": 2894
+        },
+        {
+          "input": "trusted-finger",
+          "before": 2205,
+          "y": 2646,
+          "max": 2894
+        },
+        {
+          "input": "trusted-finger",
+          "before": 2646,
+          "y": 2894,
+          "max": 2894
+        }
+      ],
+      "initial": {
+        "title": "Accueil - Amici",
+        "height": 3738,
+        "text": "Lesquin\nA PROPOS\nCONTACT\nRECRUTEMENT\nPRIVATISATION\nMENU\nFERMER\nCHEZ AMICI, LA\nVIE EST UNE FÊTE\nET LA TABLE UN\nRÉGAL.\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nNOS RESTAURANTS VOUS ACCUEILLENT\n03\nLesquin\nSophia – Antipolis (Fermé)\nMeylan (Bientôt)\nSAVOUREUSE\nET\nENSOLEILLÉE\nDELIZIOSO\n\nChez amici, la carte invite au plaisir des bons repas partagés. Généreuse et gourmande, elle est élaborée à partir d’ingrédients frais et locaux, avec une cuisine française conviviale, inspirée par les saisons et les produits de nos régions.\n\nVOTRE\nRÉSERVATION\nPREGO !\n\nPour toutes demandes d’informations\n\n01 NOMBRE D'INVITÉS\nGrands groupes soyez les bienvenus (Entre 15 et 25 personnes)\n02 L’ÉVÉNEMENT\nAnniversaire, séminaire, afterwork ou festa della pasta en famille\nCONTACTEZ-NOUS\nCONTACTEZ-NOUS\nNOUS CONTACTER\nA PROPOS\nRECRUTEMENT\nINSTAGRAM\nFACEBOOK\nCREDITS\nMENTIONS LÉGALES\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nEn cliquant sur « Accepter », vous acceptez l'installation de cookies sur votre navigateur afin d'améliorer votre expérience de navigation et l'acquisition de statistiques. Consultez nos mentions légales pour plus d'informations.\nACCEPTER\nPRÉFÉRENCES"
+      },
+      "end": {
+        "y": 2894,
+        "height": 3738,
+        "text": "Lesquin\nA PROPOS\nCONTACT\nRECRUTEMENT\nPRIVATISATION\nMENU\nFERMER\nCHEZ AMICI, LA\nVIE EST UNE FÊTE\nET LA TABLE UN\nRÉGAL.\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nDIFFUSION MATCH\nPAUSE MIDI\nAFTERWORK\nSPECTACLE\nRENCARD\nAFTERWORK\nAPERO AMICI\nOPEN MIC\nBISTRO\nMIXOLOGIE\nTAPAS FIESTA\nLIVE DJ SET\nDISCO FEVER\nTERRASSE\nNOS RESTAURANTS VOUS ACCUEILLENT\n03\nLesquin\nSophia – Antipolis (Fermé)\nMeylan (Bientôt)\nSAVOUREUSE\nET\nENSOLEILLÉE\nDELIZIOSO\n\nChez amici, la carte invite au plaisir des bons repas partagés. Généreuse et gourmande, elle est élaborée à partir d’ingrédients frais et locaux, avec une cuisine française conviviale, inspirée par les saisons et les produits de nos régions.\n\nVOTRE\nRÉSERVATION\nPREGO !\n\nPour toutes demandes d’informations\n\n01 NOMBRE D'INVITÉS\nGrands groupes soyez les bienvenus (Entre 15 et 25 personnes)\n02 L’ÉVÉNEMENT\nAnniversaire, séminaire, afterwork ou festa della pasta en famille\nCONTACTEZ-NOUS\nCONTACTEZ-NOUS\nNOUS CONTACTER\nA PROPOS\nRECRUTEMENT\nINSTAGRAM\nFACEBOOK\nCREDITS\nMENTIONS LÉGALES\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nRENCARD\nDIFFUSION MATCH\nAFTERWORK\nSPECTACLE\nOPEN MIC\nTERRASSE\nPAUSE MIDI\nAPERO AMICI\nLIVE DJ SET\nTAPAS FIESTA\nMIXOLOGIE\nBISTRO\nEn cliquant sur « Accepter », vous acceptez l'installation de cookies sur votre navigateur afin d'améliorer votre expérience de navigation et l'acquisition de statistiques. Consultez nos mentions légales pour plus d'informations.\nACCEPTER\nPRÉFÉRENCES",
+        "controls": [
+          {
+            "tag": "A",
+            "cl": "sticker-hover header-link list-restaurants-item group relative flex w-full text-olive  border-t-px  border-b-px border-olive xl:hover:bg-olive xl:hover:text-beige",
+            "id": "",
+            "text": "\n                Lesquin\n                \n                  \n                    \n  \n\n                    \n  \n\n                  \n                \n             ",
+            "r": {
+              "x": -362.3554992675781,
+              "y": 22.238128662109375,
+              "width": 298.7220153808594,
+              "height": 44.05914306640625
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "header-link body-10 md:body-12 font-medium uppercase text-olive transition-opacity duration-300 ease-out xl:hover:opacity-70",
+            "id": "",
+            "text": "A propos",
+            "r": {
+              "x": -367.0723571777344,
+              "y": 151.66136169433594,
+              "width": 53.5458984375,
+              "height": 11.505111694335938
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "header-link body-10 md:body-12 font-medium uppercase text-olive transition-opacity duration-300 ease-out xl:hover:opacity-70",
+            "id": "",
+            "text": "Contact",
+            "r": {
+              "x": -301.6605224609375,
+              "y": 151.66136169433594,
+              "width": 49.20423889160156,
+              "height": 11.505111694335938
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "header-link body-10 md:body-12 font-medium uppercase text-olive transition-opacity duration-300 ease-out xl:hover:opacity-70",
+            "id": "",
+            "text": "Recrutement",
+            "r": {
+              "x": -240.3319091796875,
+              "y": 151.66136169433594,
+              "width": 75.59896850585938,
+              "height": 11.505111694335938
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "header-link body-10 md:body-12 font-medium uppercase text-olive transition-opacity duration-300 ease-out xl:hover:opacity-70",
+            "id": "",
+            "text": "Privatisation",
+            "r": {
+              "x": -152.23733520507812,
+              "y": 151.66136169433594,
+              "width": 75.67596435546875,
+              "height": 11.505111694335938
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "header-logo svg-wrapper flex w-[8.6rem] md:w-[12rem] text-olive transition-opacity duration-300 ease-out opacity-0",
+            "id": "",
+            "text": "\n  \n  \n  \n  \n  \n",
+            "r": {
+              "x": 155.8125,
+              "y": 18.21875,
+              "width": 78.359375,
+              "height": 35.6875
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "button sticker-hover group relative block mt-100 p-5 bg-olive",
+            "id": "",
+            "text": "\n          \n            CONTACTEZ-NOUS\nCONTACTEZ-NOUS\n          \n          \n            \n\n\n\n\n\n          \n        ",
+            "r": {
+              "x": 56.562904357910156,
+              "y": 126.22207641601562,
+              "width": 291.8673400878906,
+              "height": 74.01284790039062
+            }
+          },
+          {
+            "tag": "DIV",
+            "cl": "footer-stamp absolute top-0 left-0 w-[11rem] md:w-[14rem] lg:w-[19rem] opacity-0 pointer-events-none select-none",
+            "id": "",
+            "text": "\n            \n          ",
+            "r": {
+              "x": 48.53125,
+              "y": 385.09375,
+              "width": 100.21875,
+              "height": 27.390625
+            }
+          },
+          {
+            "tag": "DIV",
+            "cl": "footer-stamps absolute top-0 left-0 w-full h-full",
+            "id": "",
+            "text": "\n            \n            \n            \n            \n          ",
+            "r": {
+              "x": 48.53125,
+              "y": 385.09375,
+              "width": 292.9375,
+              "height": 209.578125
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "sticker-hover link group relative col-span-full md:col-span-4 flex justify-center p-20 md:px-[4.4rem] md:py-[2.8rem] md:border-r-px border-olive font-heading heading-15 lg:heading-18 italic uppercase text-olive text-center",
+            "id": "",
+            "text": "\n            Nous contacter\n            \n\n\n\n\n\n\n          ",
+            "r": {
+              "x": 48.53125,
+              "y": 595.671875,
+              "width": 292.9375,
+              "height": 52.84375
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "A propos",
+            "r": {
+              "x": 48.53125,
+              "y": 649.515625,
+              "width": 145.96875,
+              "height": 50.109375
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "Recrutement",
+            "r": {
+              "x": 195.5,
+              "y": 649.515625,
+              "width": 145.96875,
+              "height": 50.109375
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "Instagram",
+            "r": {
+              "x": 48.53125,
+              "y": 700.625,
+              "width": 145.96875,
+              "height": 50.109375
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "Facebook",
+            "r": {
+              "x": 195.5,
+              "y": 700.625,
+              "width": 145.96875,
+              "height": 50.109375
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "group link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "\n                Credits\n                Beaucoup\n              ",
+            "r": {
+              "x": 48.53125,
+              "y": 751.734375,
+              "width": 145.96875,
+              "height": 50.109375
+            }
+          },
+          {
+            "tag": "A",
+            "cl": "link py-20 md:py-0 body-12 uppercase text-olive font-medium flex justify-center items-center w-full h-full",
+            "id": "",
+            "text": "Mentions légales",
+            "r": {
+              "x": 195.5,
+              "y": 751.734375,
+              "width": 145.96875,
+              "height": 50.109375
+            }
+          },
+          {
+            "tag": "BUTTON",
+            "cl": "tarteaucitronCTAButton tarteaucitronAllow",
+            "id": "tarteaucitronPersonalize2",
+            "text": "        Accepter   ",
+            "r": {
+              "x": 47.53125,
+              "y": 759.46875,
+              "width": 61.75,
+              "height": 14.21875
+            }
+          },
+          {
+            "tag": "BUTTON",
+            "cl": "",
+            "id": "tarteaucitronCloseAlert",
+            "text": "       Préférences   ",
+            "r": {
+              "x": 259.1875,
+              "y": 759.46875,
+              "width": 83.25,
+              "height": 14.21875
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

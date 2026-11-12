@@ -1,0 +1,171 @@
+{
+  "purpose": "asset-review-not-template-approval",
+  "source": {
+    "path": ".webart/prototypes/010-precision-study/src/model.js",
+    "sha256": "d1b7179924da3b82ab455dc85980397e9118b49b0b2c142e1ab93423056ae094"
+  },
+  "states": [
+    {
+      "width": 1440,
+      "height": 900,
+      "pose": "front",
+      "triangles": 340148,
+      "calls": 102,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-15/010-asset/1440-front.jpg",
+        "sha256": "6b88a650d75a43e2a23fc14e4b7faac059b4b57f2d98a33820919f95f617e3cc"
+      }
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "pose": "oblique",
+      "triangles": 340148,
+      "calls": 102,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-15/010-asset/1440-oblique.jpg",
+        "sha256": "9a5bc832e0bf84f49d40c8f3ecb7b2a4119251bd2d0b5d551e806a3e8de5f05a"
+      }
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "pose": "exploded",
+      "triangles": 340148,
+      "calls": 102,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-15/010-asset/1440-exploded.jpg",
+        "sha256": "92a6506d70086af361bcf8f19672071b8672ed06684edbc8491a169840d62219"
+      }
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "pose": "wire",
+      "triangles": 311156,
+      "calls": 164,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-15/010-asset/1440-wire.jpg",
+        "sha256": "59bfbf275c6fd91fed6e2622fb1c5828769ea61253530920b298d5bd8502e982"
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "pose": "front",
+      "triangles": 340148,
+      "calls": 102,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-15/010-asset/390-front.jpg",
+        "sha256": "26c3b35b0e54cb5f4a8629b3ff8cedf18b19132280ddfd98b9cf4f15334b3f8d"
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "pose": "oblique",
+      "triangles": 340148,
+      "calls": 102,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-15/010-asset/390-oblique.jpg",
+        "sha256": "59009c1dc20317973c71b3da9a32ccefd9d516161247eb18bb044d13643793c9"
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "pose": "exploded",
+      "triangles": 340148,
+      "calls": 102,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-15/010-asset/390-exploded.jpg",
+        "sha256": "20e3e46d9bf3ea8c8e72887a729ef34c1f62705eef79c7d625c8b9d7a91ffd60"
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "pose": "wire",
+      "triangles": 311156,
+      "calls": 164,
+      "parts": [
+        "01-bezel-and-display",
+        "02-vented-housing",
+        "03-laminated-stator-and-copper-windings",
+        "04-fluted-rotor",
+        "05-planetary-gear-carrier",
+        "06-splined-drive-shaft",
+        "07-counterbored-mounting-flange"
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-15/010-asset/390-wire.jpg",
+        "sha256": "4f92af72fb110ce1e6af51fb03f11af2a1e5df7c3b46e20fd3afdaf9fe60d096"
+      }
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-visually-approved"
+}

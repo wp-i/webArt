@@ -1,0 +1,28 @@
+{
+  "decision": "distinct",
+  "nearestId": "001",
+  "openingAndAssetBothRepeated": false,
+  "sourceSha256": "0e3840088fea17fa7f788686379eed4b29830b6f354dab80d51a3bfc26c03aaf",
+  "comparisons": [
+    {
+      "dimension": "composition",
+      "different": true,
+      "finding": "001是斜向铺满的材料舞台和细长叠字；本稿是完整正圆仪表与边侧短标题，进入机械斜轴后重新装配，主要构图关系不同。"
+    },
+    {
+      "dimension": "typography",
+      "different": true,
+      "finding": "001以高反差细衬线叠字为主，本稿采用紧凑几何无衬线和少量等宽技术标签，与其余四稿的字标和摄影编辑文字亦不同。"
+    },
+    {
+      "dimension": "color-media",
+      "different": true,
+      "finding": "001的矿物褐金和真实纤维质地不同于本稿石墨金属、珊瑚蓝绿显示色及暖灰工程线稿，关键媒体为原创可编辑机械体。"
+    },
+    {
+      "dimension": "rhythm",
+      "different": true,
+      "finding": "001按光照和材料空间转换，本稿按同一仪表展开、装配、显示更新与末屏直接拖动推进；与摄影网格和作品列表节奏不同。"
+    }
+  ]
+}

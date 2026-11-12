@@ -1,0 +1,11 @@
+{
+  "url": "https://atelier-north.crnacura.workers.dev/",
+  "ready": "document.fonts.status==='loaded' && document.querySelectorAll('canvas').length===5 && [...document.images].filter(image=>image.naturalWidth>100||image.width>100||image.height>100).every(image=>image.complete&&image.naturalWidth>0)",
+  "readyTimeoutMs": 30000,
+  "enterMs": 1800,
+  "settleMs": 550,
+  "deadlineMs": 240000,
+  "states": {"opening": 0, "transition": {"selector":"#about","offset":0}, "middle": {"selector":"#projects","offset":0}, "ending": 1},
+  "pointer": {"selector":"#projects canvas","scene":"#projects","settleMs":800},
+  "output": "docs/evidence/redo-v2/2026-10-18/008-atelier-reference-02"
+}

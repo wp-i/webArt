@@ -1,5 +1,5 @@
 # Template usage
 
-The WebArt-provided code and original AI-generated concept images in this template may be used and modified as part of personal or commercial websites. The images depict fictional interiors and do not establish rights in any real property, artwork or furniture design. Retain the bundled third-party notices when redistributing the editable project to a client.
+WebArt-provided code and demonstration text may be used and modified as part of personal or commercial websites. Retain bundled third-party notices when delivering the editable project to a client. Separate redistribution or sale of the template is governed by WebArt download terms.
 
-Any separate redistribution or sale of this template or its images is governed by the download terms supplied by WebArt. This archive is not a public-domain asset collection. Third-party components retain their own licenses, listed in `THIRD_PARTY_NOTICES.md`.
+Photography remains subject to the Pexels License (https://www.pexels.com/license/), and fonts retain the bundled SIL Open Font License. Permission to use the template does not convert those assets into public-domain files or authorize a stock-photo redistribution service. See THIRD_PARTY_NOTICES.md for exact creators and source pages.

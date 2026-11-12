@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-25T15:00:31.169Z",
+  "url": "https://mydopo.com/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 4617,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 900,
+      "layout": {
+        "y": 900,
+        "documentHeight": 4617,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1800,
+      "layout": {
+        "y": 1800,
+        "documentHeight": 4617,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-middle/contact-sheet.jpg",
+          "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 3732,
+      "layout": {
+        "y": 3732,
+        "documentHeight": 4617,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-ending/contact-sheet.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 5178,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-opening/contact-sheet.jpg",
+          "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 844,
+      "layout": {
+        "y": 844,
+        "documentHeight": 5178,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-transition/contact-sheet.jpg",
+          "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2532,
+      "layout": {
+        "y": 2532,
+        "documentHeight": 5178,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-middle/contact-sheet.jpg",
+          "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4334,
+      "layout": {
+        "y": 4334,
+        "documentHeight": 5178,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-ending/contact-sheet.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "739a02c2055aa357ecca279de62decbd973a34e8f5f47d32eeaf794b5e16e654"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "25b0e1d2adfe862392c6f04bc83e8cd22936dcd94ecf947ffd0b8ab65b43ca20"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-reduced/contact-sheet.jpg",
+          "sha256": "5195471dbd063328797812719b3eb913838a6cd3668092857f6d7d3009d22417"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "context": "complete-scenes",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-0/contact-sheet.jpg",
+          "sha256": "44f1688eab967e1d71062473ae3f186bc22abe2505b8162eab5b746f3e4521f0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-1/contact-sheet.jpg",
+          "sha256": "e961657678610ff148f82c2e4f3b479b01621cd60096edbd2c1460add63c0d09"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-2/contact-sheet.jpg",
+          "sha256": "47fa1c2fc55488db20558674fba9d54d81781858026be92d92db9ef0fe424bfc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-3/contact-sheet.jpg",
+          "sha256": "28a65dcc1f95f09734a6c169a5d8d4c78b8b8670b85753ee75eed2cee2ae9218"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-4/contact-sheet.jpg",
+          "sha256": "a439f8d71c4cc3f9b86a9180bd42487c0192e84869e9318145c0641ee87e8147"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-5/contact-sheet.jpg",
+          "sha256": "2b81a36a59eed52ac8af38c75309a65152203e3f9deb81478716c05f105e9a9d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-6/contact-sheet.jpg",
+          "sha256": "8f0be865dcf49da1976c082dda476c29c20e15aaca9a546cd34083064e7bc126"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-7/contact-sheet.jpg",
+          "sha256": "ee9c60332799b0ca1d77f50d2dc8a0c324335da4ec15c272080d9a3e2803e48c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-8/contact-sheet.jpg",
+          "sha256": "a5c35efb85cb170b4396cd6ec3755610a7c2d1a3f8e81ddab8414a9479040c60"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-reduced-9/contact-sheet.jpg",
+          "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-reduced-10/contact-sheet.jpg",
+          "sha256": "1f489f1a2e22a28bdf988729c1f698a0d502be26678c0216b7b915013a1d7c0c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-reduced/contact-sheet.jpg",
+          "sha256": "5195471dbd063328797812719b3eb913838a6cd3668092857f6d7d3009d22417"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "68f4a9b35493fb4763224457110a47848bf60339ea14cdd55c8ef772abe31362"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "68f4a9b35493fb4763224457110a47848bf60339ea14cdd55c8ef772abe31362"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "68f4a9b35493fb4763224457110a47848bf60339ea14cdd55c8ef772abe31362"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-action-3/contact-sheet.jpg",
+          "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-action-4/contact-sheet.jpg",
+          "sha256": "68f4a9b35493fb4763224457110a47848bf60339ea14cdd55c8ef772abe31362"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-action-5/contact-sheet.jpg",
+          "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "7aabef0ee91a6733c4de3b0e950d100602d0eee32ca19816fafdbffb06d91868"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "7aabef0ee91a6733c4de3b0e950d100602d0eee32ca19816fafdbffb06d91868"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-reduced/contact-sheet.jpg",
+          "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "context": "complete-scenes",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-0/contact-sheet.jpg",
+          "sha256": "2ce438ee99071b222822f264ce39aa032e7234c9684dfb46418a6b2813eb26db"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-1/contact-sheet.jpg",
+          "sha256": "998fef6430874eaadc6b7426c0c3a77813479aa662a6e5121768e2916a8f8b03"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-2/contact-sheet.jpg",
+          "sha256": "5c71abf42ee14155a41fcf8f0129deb6d7b8577614ab217dc8e2de41abda7924"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-3/contact-sheet.jpg",
+          "sha256": "ed7adf3cd128a1f09ee65a15cba3fecb71b42a53633efff1b1b1f13788d575a1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-4/contact-sheet.jpg",
+          "sha256": "989984f0b181a8129fa120236b5794dd5e1c7d525417709daf1a02b289df6cd2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-5/contact-sheet.jpg",
+          "sha256": "8b01e2cbf2e4589f7ffd6c8ca8a845d08d8dd61757d9443003ced8874afcee8a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-6/contact-sheet.jpg",
+          "sha256": "91667254ff09376740d881f5d63f437b835c2a2b1d3070360b30f3f42e35bba1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-7/contact-sheet.jpg",
+          "sha256": "ec47c1b956f0a4d56baa771882f57e74033ac84bf0953d6422ded4d98fbe3e14"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-process-8/contact-sheet.jpg",
+          "sha256": "44af330c661f74f11a0520148c6640515ab7746bd1b2454c783d438d217c5c82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-reduced-9/contact-sheet.jpg",
+          "sha256": "44e35ba101177bee8a424417f87221b07c2dfc10e1203e0a6726d1bb7beca785"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-scene-reduced-10/contact-sheet.jpg",
+          "sha256": "da9663bf00f87cee31f08a0f4f57837100cde8445bb7f8d4d60671793414bd22"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-reduced/contact-sheet.jpg",
+          "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-scored",
+  "finished": "2026-10-25T15:01:50.282Z"
+}

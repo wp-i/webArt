@@ -1,0 +1,1618 @@
+{
+  "started": "2026-10-11T16:31:02.077Z",
+  "pages": [
+    {
+      "id": "006",
+      "scroll": [
+        {
+          "width": 1440,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "y": 500
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "y": 1000
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "y": 1500
+        },
+        {
+          "width": 1440,
+          "fraction": 1,
+          "y": 2000
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "y": 1500
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "y": 1000
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "y": 500
+        },
+        {
+          "width": 1440,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "y": 640
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "y": 1279
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "y": 1919
+        },
+        {
+          "width": 390,
+          "fraction": 1,
+          "y": 2558
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "y": 1919
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "y": 1279
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "y": 640
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 320,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 320,
+          "fraction": 0.25,
+          "y": 584
+        },
+        {
+          "width": 320,
+          "fraction": 0.5,
+          "y": 1169
+        },
+        {
+          "width": 320,
+          "fraction": 0.75,
+          "y": 1753
+        },
+        {
+          "width": 320,
+          "fraction": 1,
+          "y": 2337
+        },
+        {
+          "width": 320,
+          "fraction": 0.75,
+          "y": 1753
+        },
+        {
+          "width": 320,
+          "fraction": 0.5,
+          "y": 1169
+        },
+        {
+          "width": 320,
+          "fraction": 0.25,
+          "y": 584
+        },
+        {
+          "width": 320,
+          "fraction": 0,
+          "y": 0
+        }
+      ],
+      "controls": [
+        {
+          "width": 1440,
+          "normalMotion": true,
+          "finePointer": true
+        },
+        {
+          "width": 1440,
+          "project": 1,
+          "openClose": true,
+          "touch": false
+        },
+        {
+          "width": 1440,
+          "project": 2,
+          "openClose": true,
+          "touch": false
+        },
+        {
+          "width": 1440,
+          "project": 3,
+          "openClose": true,
+          "touch": false
+        },
+        {
+          "width": 1440,
+          "reducedMotion": true
+        },
+        {
+          "width": 390,
+          "normalMotion": true,
+          "finePointer": false
+        },
+        {
+          "width": 390,
+          "project": 1,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 390,
+          "project": 2,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 390,
+          "project": 3,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 390,
+          "menu": true,
+          "escapeFocus": true,
+          "linkCloses": true
+        },
+        {
+          "width": 390,
+          "reducedMotion": true
+        },
+        {
+          "width": 320,
+          "normalMotion": true,
+          "finePointer": false
+        },
+        {
+          "width": 320,
+          "project": 1,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 320,
+          "project": 2,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 320,
+          "project": 3,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 320,
+          "menu": true,
+          "escapeFocus": true,
+          "linkCloses": true
+        },
+        {
+          "width": 320,
+          "reducedMotion": true
+        }
+      ],
+      "motion": [
+        {
+          "width": 1440,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, -11.0575)",
+            "projects": [
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.807843 0.741176)"
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 2.99548)",
+            "projects": [
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.681548 0.760472)"
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.1859)",
+            "projects": [
+              {
+                "clip": "inset(8.0726% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(8.0726% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(8.0726% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+            "projects": [
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 1,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+            "projects": [
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+            "projects": [
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+            "projects": [
+              {
+                "clip": "inset(8.0726% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(8.0726% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(8.0726% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 3.92573)",
+            "projects": [
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.681548 0.760472)"
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, -10.4649)",
+            "projects": [
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.807843 0.741176)"
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, -6.33674)",
+            "projects": [
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.757184 0.748916)"
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 11.423)",
+            "projects": [
+              {
+                "clip": "inset(6.10045% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "oklab(0.753525 0.143095 -0.043957)"
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.5221)",
+            "projects": [
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(4.40505% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+            "projects": [
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(2.67685% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 1,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+            "projects": [
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+            "projects": [
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(2.67685% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+            "projects": [
+              {
+                "clip": "inset(0% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(4.40505% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 12.2453)",
+            "projects": [
+              {
+                "clip": "inset(6.10045% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.52549 0.784314)"
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, -5.68897)",
+            "projects": [
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "clip": "inset(18% 0px 0px)",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "quote": "color(srgb 0.937255 0.757184 0.748916)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "scroll": [
+        {
+          "width": 1440,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "y": 278
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "y": 556
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "y": 833
+        },
+        {
+          "width": 1440,
+          "fraction": 1,
+          "y": 1111
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "y": 833
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "y": 556
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "y": 278
+        },
+        {
+          "width": 1440,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "y": 241
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "y": 482
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "y": 722
+        },
+        {
+          "width": 390,
+          "fraction": 1,
+          "y": 963
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "y": 722
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "y": 482
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "y": 241
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 320,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 320,
+          "fraction": 0.25,
+          "y": 223
+        },
+        {
+          "width": 320,
+          "fraction": 0.5,
+          "y": 446
+        },
+        {
+          "width": 320,
+          "fraction": 0.75,
+          "y": 668
+        },
+        {
+          "width": 320,
+          "fraction": 1,
+          "y": 891
+        },
+        {
+          "width": 320,
+          "fraction": 0.75,
+          "y": 668
+        },
+        {
+          "width": 320,
+          "fraction": 0.5,
+          "y": 446
+        },
+        {
+          "width": 320,
+          "fraction": 0.25,
+          "y": 223
+        },
+        {
+          "width": 320,
+          "fraction": 0,
+          "y": 0
+        }
+      ],
+      "controls": [
+        {
+          "width": 1440,
+          "normalMotion": true,
+          "finePointer": true
+        },
+        {
+          "width": 1440,
+          "previousNext": true,
+          "endCounter": true,
+          "keyboardHomeEnd": true,
+          "gesture": true,
+          "touch": false
+        },
+        {
+          "width": 1440,
+          "reducedMotion": true
+        },
+        {
+          "width": 390,
+          "normalMotion": true,
+          "finePointer": false
+        },
+        {
+          "width": 390,
+          "previousNext": true,
+          "endCounter": true,
+          "keyboardHomeEnd": true,
+          "gesture": true,
+          "touch": true
+        },
+        {
+          "width": 390,
+          "reducedMotion": true
+        },
+        {
+          "width": 320,
+          "normalMotion": true,
+          "finePointer": false
+        },
+        {
+          "width": 320,
+          "previousNext": true,
+          "endCounter": true,
+          "keyboardHomeEnd": true,
+          "gesture": true,
+          "touch": true
+        },
+        {
+          "width": 320,
+          "reducedMotion": true
+        }
+      ],
+      "motion": [
+        {
+          "width": 1440,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, -11.3966)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, -1.20002)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, 9.29634)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, 16.9984)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 1,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, 17.04)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, 17.04)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, 9.43594)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, -0.983765)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, -11.3453)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, -14.771)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, -5.95653)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, 3.06353)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, 12.0369)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 1,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, 17.0276)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, 12.0715)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, 3.16068)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, -5.73874)",
+            "projects": [],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.065, 0, 0, 1.065, 0, -14.8043)",
+            "projects": [],
+            "quote": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "scroll": [
+        {
+          "width": 1440,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "y": 350
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "y": 699
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "y": 1049
+        },
+        {
+          "width": 1440,
+          "fraction": 1,
+          "y": 1398
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "y": 1049
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "y": 699
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "y": 350
+        },
+        {
+          "width": 1440,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "y": 590
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "y": 1181
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "y": 1771
+        },
+        {
+          "width": 390,
+          "fraction": 1,
+          "y": 2361
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "y": 1771
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "y": 1181
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "y": 590
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 320,
+          "fraction": 0,
+          "y": 0
+        },
+        {
+          "width": 320,
+          "fraction": 0.25,
+          "y": 530
+        },
+        {
+          "width": 320,
+          "fraction": 0.5,
+          "y": 1060
+        },
+        {
+          "width": 320,
+          "fraction": 0.75,
+          "y": 1589
+        },
+        {
+          "width": 320,
+          "fraction": 1,
+          "y": 2119
+        },
+        {
+          "width": 320,
+          "fraction": 0.75,
+          "y": 1589
+        },
+        {
+          "width": 320,
+          "fraction": 0.5,
+          "y": 1060
+        },
+        {
+          "width": 320,
+          "fraction": 0.25,
+          "y": 530
+        },
+        {
+          "width": 320,
+          "fraction": 0,
+          "y": 0
+        }
+      ],
+      "controls": [
+        {
+          "width": 1440,
+          "normalMotion": true,
+          "finePointer": true
+        },
+        {
+          "width": 1440,
+          "project": 1,
+          "openClose": true,
+          "touch": false
+        },
+        {
+          "width": 1440,
+          "project": 2,
+          "openClose": true,
+          "touch": false
+        },
+        {
+          "width": 1440,
+          "project": 3,
+          "openClose": true,
+          "touch": false
+        },
+        {
+          "width": 1440,
+          "reducedMotion": true
+        },
+        {
+          "width": 390,
+          "normalMotion": true,
+          "finePointer": false
+        },
+        {
+          "width": 390,
+          "project": 1,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 390,
+          "project": 2,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 390,
+          "project": 3,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 390,
+          "reducedMotion": true
+        },
+        {
+          "width": 320,
+          "normalMotion": true,
+          "finePointer": false
+        },
+        {
+          "width": 320,
+          "project": 1,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 320,
+          "project": 2,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 320,
+          "project": 3,
+          "openClose": true,
+          "touch": true
+        },
+        {
+          "width": 320,
+          "reducedMotion": true
+        }
+      ],
+      "motion": [
+        {
+          "width": 1440,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 5.87812)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 7.83749)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 9.79686)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.06172, 0, 0, 1.06172, 0, 7.88979)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 5.84975)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 7.79966)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 9.74959)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.07985, 0, 0, 1.07985, 0, 16.7275)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 3.07725)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 4.103)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 5.12886)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.08994, 0, 0, 1.08994, 0, 21.7723)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 0.182607)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 0.243476)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 0.304554)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 1,
+          "styles": {
+            "hero": "matrix(1.09, 0, 0, 1.09, 0, 21.8)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -2.68211)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -3.57615)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -4.46988)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.09, 0, 0, 1.09, 0, 21.8)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -0.115329)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -0.153772)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -0.191996)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.07998, 0, 0, 1.07998, 0, 16.7878)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 2.80449)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 3.73932)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 4.67427)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.06259, 0, 0, 1.06259, 0, 8.3092)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 5.68232)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 7.57643)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 9.47055)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 1440,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.04517, 0, 0, 1.04517, 0, 0.07858)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 6.12641)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 8.16854)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 10.2107)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 5.85641)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 7.80855)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 9.76069)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.07581, 0, 0, 1.07581, 0, 14.7298)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 3.67044)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 8.2)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 10.25)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.08993, 0, 0, 1.08993, 0, 21.7638)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -1.86201)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 4.14936)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 10.25)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.09, 0, 0, 1.09, 0, 21.8)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -5.92418)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -3.18307)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 4.33248)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 1,
+          "styles": {
+            "hero": "matrix(1.09, 0, 0, 1.09, 0, 21.8)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -6.15)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -7.97718)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -4.9998)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.75,
+          "styles": {
+            "hero": "matrix(1.09, 0, 0, 1.09, 0, 21.8)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -6.15)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -3.85356)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 3.47239)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.5,
+          "styles": {
+            "hero": "matrix(1.09, 0, 0, 1.09, 0, 21.8)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, -2.34065)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 3.54699)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 9.90455)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0.25,
+          "styles": {
+            "hero": "matrix(1.07666, 0, 0, 1.07666, 0, 15.1486)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 3.21379)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 7.94482)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 10.25)"
+              }
+            ],
+            "quote": null
+          }
+        },
+        {
+          "width": 390,
+          "fraction": 0,
+          "styles": {
+            "hero": "matrix(1.04517, 0, 0, 1.04517, 0, 0.0785863)",
+            "projects": [
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 6.01228)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 8.2)"
+              },
+              {
+                "clip": "none",
+                "transform": "matrix(1.025, 0, 0, 1.025, 0, 10.25)"
+              }
+            ],
+            "quote": null
+          }
+        }
+      ]
+    }
+  ],
+  "result": "passed",
+  "finished": "2026-10-11T16:32:35.228Z"
+}

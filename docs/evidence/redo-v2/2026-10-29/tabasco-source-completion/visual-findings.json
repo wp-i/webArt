@@ -1,0 +1,594 @@
+{
+  "source": "https://tabasco.hilostudiolab.com/",
+  "observedLocalDate": "2026-10-29",
+  "observer": "Codex current-conversation source evidence subagent",
+  "independent": false,
+  "contextIsolated": false,
+  "scope": "read-only bounded observation and source screenshots",
+  "captureReports": [
+    "path.json",
+    "supplement-path.json"
+  ],
+  "sourceObservationSeconds": 163.00900000000001,
+  "frameCount": 40,
+  "allSourceFramesActuallyViewed": true,
+  "viewedViaContactSheets": [
+    "desktop-contact.jpg",
+    "mobile-contact.jpg",
+    "desktop-supplement-contact.jpg",
+    "mobile-supplement-contact.jpg"
+  ],
+  "alsoViewedAtFullSize": [
+    "desktop-normal-opening.png",
+    "desktop-normal-pointer-left.png",
+    "mobile-normal-settled-opening.png",
+    "desktop-normal-subject-right.png",
+    "desktop-normal-subject-left-return.png"
+  ],
+  "hashVerification": {
+    "verified": 40,
+    "failures": []
+  },
+  "deviceAndMediaChecks": {
+    "allDesktopLayoutAndScreenMatch": true,
+    "allMobileLayoutAndScreenMatch": true,
+    "normalFrameCount": 34,
+    "reducedFrameCount": 6
+  },
+  "findings": [
+    {
+      "topic": "True forward finite endings",
+      "result": "demonstrated",
+      "detail": "Desktop normal wheel path reached y=6300=maxY and a further 1600px wheel left it at 6300. Mobile normal real finger path reached y=4220=maxY, then two further finger gestures remained at 4220. Five different bottles with title and bottom tagline are visible at both endings.",
+      "frames": [
+        "desktop-normal-path-09.png",
+        "desktop-normal-end-proof.png",
+        "mobile-normal-tail-finger-13.png",
+        "mobile-normal-tail-finger-14.png",
+        "mobile-normal-tail-finger-15.png"
+      ]
+    },
+    {
+      "topic": "Pointer across the actual subject",
+      "result": "no material object response observed",
+      "detail": "Normal pointer inputs crossed the pepper cluster from x100,y350 to x600,y650 and back. In the final normal right/left-return pair, changed pixels were confined to the right text region (x769..1355,y241..658), while the pepper subject was pixel-identical. The early left/right visual differences coincide with loading and text entrance, so they do not prove pointer control. Reduced-motion same-opening left/right frames are identical. Source therefore has not demonstrated a pointer signature comparable to object control in 001.",
+      "frames": [
+        "desktop-normal-subject-right.png",
+        "desktop-normal-subject-left-return.png",
+        "desktop-reduced-opening-subject-left.png",
+        "desktop-reduced-opening-subject-right.png"
+      ]
+    },
+    {
+      "topic": "Visual fit",
+      "result": "specific product progression but material gaps remain",
+      "detail": "The connected green/red pepper plant, an ingredient transition, red TIME typography, single sauce bottle and independent five-bottle ending create an identifiable ingredient-to-product story. The source is more relevant to a concrete food/product brand than Sill spatial/material work. The green plant has readable shiny skin and leaves, but there is no demonstrated surface-level input response. The desktop midpath includes a near-black stage and a white text-only bridge. TIME stages are mainly the same large centered typography; no actual barrel model was visible in the newly captured normal desktop or phone frames.",
+      "frames": [
+        "desktop-normal-subject-left-return.png",
+        "desktop-normal-path-02.png",
+        "desktop-normal-path-03.png",
+        "desktop-normal-path-04.png",
+        "desktop-normal-path-05.png",
+        "desktop-normal-path-06.png",
+        "desktop-normal-path-07.png",
+        "mobile-normal-finger-04.png",
+        "mobile-normal-finger-05.png",
+        "mobile-normal-finger-06.png",
+        "mobile-normal-finger-07.png"
+      ]
+    },
+    {
+      "topic": "Mobile composition",
+      "result": "complete ending, unstable intermediate typography",
+      "detail": "At actual 390/844 both canvas/layout and screen match. The end has all five bottles and both labels. On the normal path, finger01..03 show blurred or missing copy around the pepper stage, finger08 is a blurred text-only white bridge, and finger10 has a green bottle crossing the black title. These may include intended transition holds, but waiting 1s after gestures did not make all states equally composed; they must not be counted as stable complete four-state evidence.",
+      "frames": [
+        "mobile-normal-finger-01.png",
+        "mobile-normal-finger-02.png",
+        "mobile-normal-finger-03.png",
+        "mobile-normal-finger-08.png",
+        "mobile-normal-finger-10.png",
+        "mobile-normal-tail-finger-15.png"
+      ]
+    },
+    {
+      "topic": "Reduced motion",
+      "result": "same scene input checked, complete behavior not certified",
+      "detail": "Preference was explicitly true in opening pointer and ending touch records. Same-opening pointer and final phone extra-finger inputs were performed at those scenes. This demonstrates actual media preference and reachability, but is not a stop-rendering, full reduced path or failure-fallback certification.",
+      "frames": [
+        "desktop-reduced-opening-subject-left.png",
+        "desktop-reduced-opening-subject-right.png",
+        "mobile-reduced-end-proof.png"
+      ]
+    }
+  ],
+  "limitations": [
+    "Four initial/settled-opening filenames contain a BOTTLLING/BOTTLING 100% loader; filename does not make them valid opening evidence. They are preserved as actual loading results. Desktop normal subject-left-return is the completed opening. A complete normal phone y=0 opening after the loader is not supplied in this bounded 40-frame run.",
+    "No source assets or code acquired. No model review, reference gate, asset admission, candidate creation or implementation.",
+    "No claim about every possible source interaction; observed pointer coordinates, native forward path and media preferences are recorded explicitly."
+  ],
+  "admissionGranted": false,
+  "finalAssetsAcquired": false,
+  "candidateCreated": false,
+  "dimensions": [
+    {
+      "frame": "desktop-normal-opening.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 0,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-pointer-left.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 0,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-pointer-right.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 0,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-pointer-center.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 0,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-path-01.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 700,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-path-02.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 1400,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-path-03.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 2100,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-path-04.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 2800,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-path-05.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 3500,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-path-06.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 4200,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-path-07.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 4900,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-path-08.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 5600,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-path-09.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 6300,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-end-proof.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 6300,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-reduced-ending-pointer-left.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": true,
+      "y": 6300,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-reduced-ending-pointer-right.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": true,
+      "y": 6300,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-opening.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 0,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-finger-01.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 342,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-finger-02.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 684,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-finger-03.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 1060,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-finger-04.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 1402,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-finger-05.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 1744,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-finger-06.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 2086,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-finger-07.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 2428,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-finger-08.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 2770,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-finger-09.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 3112,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-finger-10.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 3454,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-reduced-ending.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": true,
+      "y": 3796,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-settled-opening.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 0,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-subject-left.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 0,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-subject-right.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 0,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-normal-subject-left-return.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": false,
+      "y": 0,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-reduced-opening-subject-left.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": true,
+      "y": 0,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "desktop-reduced-opening-subject-right.png",
+      "width": 1440,
+      "height": 900,
+      "screenWidth": 1440,
+      "screenHeight": 900,
+      "reduced": true,
+      "y": 0,
+      "maxY": 6300,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-settled-opening.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 0,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-tail-finger-12.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 4118,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-tail-finger-13.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 4220,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-tail-finger-14.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 4220,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-normal-tail-finger-15.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": false,
+      "y": 4220,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    },
+    {
+      "frame": "mobile-reduced-end-proof.png",
+      "width": 390,
+      "height": 844,
+      "screenWidth": 390,
+      "screenHeight": 844,
+      "reduced": true,
+      "y": 4220,
+      "maxY": 4220,
+      "visibility": "visible",
+      "focused": true
+    }
+  ]
+}

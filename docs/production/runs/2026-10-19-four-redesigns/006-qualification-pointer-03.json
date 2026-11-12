@@ -1,0 +1,34 @@
+{
+  "identity": "d9f827da890d5eef0e47c1104e149b5779e842e8662a9320f26551b8c3b3cc90",
+  "inputs": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/006-qualification-03.json",
+      "sha256": "facd8af14b9b032d8f2a2e97f30826edbbd133b102b963abc5d66e91f1f0afa3"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/006-production-plan-03.json",
+      "sha256": "223535c986dca702eb5ef567b04f26a514df95c3e815d47e8fe13c51c254bb27"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/006-workflow-03.json",
+      "sha256": "d88a9ce83b8282859647959405926e060fc2489673e1af477fcbfe58353c3e19"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-006-52333eea0a0d3978/review-0.json",
+      "sha256": "d78592b927c3a83f83a659d54817823411e2857ed8d925306557f3748e31a4de"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-006-52333eea0a0d3978/capture-0.json",
+      "sha256": "a07a4271a4791a7b01c39f0fa99467cc385dedf2984f25ec5771ce3386c4627e"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/006-reference-review.json",
+      "sha256": "fbd82233ed947339668cdfe60267671cc04bed5101d306f739e7771247eb8161"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/calibration-review.json",
+      "sha256": "5062704d49c1c462e82777e4a02d5f89dd073ff4f7900f0c537b869b1d114eb3"
+    }
+  ],
+  "runFile": "docs/production/runs/api-20261020121901603-234fa897/run.json"
+}

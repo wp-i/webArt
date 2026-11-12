@@ -1,0 +1,553 @@
+{
+  "url": "https://www.arcprojects.build/",
+  "observations": [
+    {
+      "ready": "interactive",
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/68b8cf759b04da414aadb7a3_home-thumb-p-1600.avif",
+          "complete": true,
+          "width": 1440,
+          "visible": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/681af58e9bcbad5c8c1d703c_ClintonWeaver_Matt%20Elkan%20Architect_Paddington_010.avif",
+          "complete": true,
+          "width": 2000,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67b6bdbf14cc43e2b65b7bec_Image%203_4%20%E2%80%93%20Portrait.avif",
+          "complete": true,
+          "width": 1600,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67b6bdb786c677a97b3005e6_Image%203_4%20%E2%80%93%20Portrait.avif",
+          "complete": true,
+          "width": 1600,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67f62a7577d0639bc6a77de0_JLY_Arc.%20Office%20Team389.avif",
+          "complete": true,
+          "width": 6720,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/68098685fa0d49beac9e5b8d_CW_TRIAS_MOSMAN-3.avif",
+          "complete": true,
+          "width": 2722,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        }
+      ],
+      "loaders": [
+        {
+          "tag": "DIV",
+          "class": "loader_wrap u-theme-dark",
+          "opacity": "1",
+          "display": "block",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_contain u-container",
+          "opacity": "1",
+          "display": "block",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_content u-grid-flex",
+          "opacity": "1",
+          "display": "flex",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_progress u-text-style-main",
+          "opacity": "1",
+          "display": "flow-root",
+          "text": ""
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_title u-text-style-main",
+          "opacity": "1",
+          "display": "flow-root",
+          "text": ""
+        }
+      ],
+      "errors": []
+    },
+    {
+      "ready": "complete",
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/68b8cf759b04da414aadb7a3_home-thumb-p-1600.avif",
+          "complete": true,
+          "width": 1440,
+          "visible": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/681af58e9bcbad5c8c1d703c_ClintonWeaver_Matt%20Elkan%20Architect_Paddington_010.avif",
+          "complete": true,
+          "width": 2000,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67b6bdbf14cc43e2b65b7bec_Image%203_4%20%E2%80%93%20Portrait.avif",
+          "complete": true,
+          "width": 1600,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67b6bdb786c677a97b3005e6_Image%203_4%20%E2%80%93%20Portrait.avif",
+          "complete": true,
+          "width": 1600,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67f62a7577d0639bc6a77de0_JLY_Arc.%20Office%20Team389.avif",
+          "complete": true,
+          "width": 6720,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/68098685fa0d49beac9e5b8d_CW_TRIAS_MOSMAN-3.avif",
+          "complete": true,
+          "width": 2722,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        }
+      ],
+      "loaders": [
+        {
+          "tag": "BODY",
+          "class": "loader-complete",
+          "opacity": "1",
+          "display": "block",
+          "text": "Skip to main content\nProjects\nProfile\nPr"
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_wrap u-theme-dark",
+          "opacity": "0",
+          "display": "none",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_contain u-container",
+          "opacity": "1",
+          "display": "block",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_content u-grid-flex",
+          "opacity": "1",
+          "display": "flex",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_progress u-text-style-main",
+          "opacity": "0",
+          "display": "flow-root",
+          "text": "100%"
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_title u-text-style-main",
+          "opacity": "0",
+          "display": "flow-root",
+          "text": "Architecture, Built for Life."
+        }
+      ],
+      "errors": []
+    },
+    {
+      "ready": "complete",
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/68b8cf759b04da414aadb7a3_home-thumb-p-1600.avif",
+          "complete": true,
+          "width": 1440,
+          "visible": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/681af58e9bcbad5c8c1d703c_ClintonWeaver_Matt%20Elkan%20Architect_Paddington_010.avif",
+          "complete": true,
+          "width": 2000,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67b6bdbf14cc43e2b65b7bec_Image%203_4%20%E2%80%93%20Portrait.avif",
+          "complete": true,
+          "width": 1600,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67b6bdb786c677a97b3005e6_Image%203_4%20%E2%80%93%20Portrait.avif",
+          "complete": true,
+          "width": 1600,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67f62a7577d0639bc6a77de0_JLY_Arc.%20Office%20Team389.avif",
+          "complete": true,
+          "width": 6720,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/68098685fa0d49beac9e5b8d_CW_TRIAS_MOSMAN-3.avif",
+          "complete": true,
+          "width": 2722,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        }
+      ],
+      "loaders": [
+        {
+          "tag": "BODY",
+          "class": "loader-complete",
+          "opacity": "1",
+          "display": "block",
+          "text": "Skip to main content\nProjects\nProfile\nPr"
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_wrap u-theme-dark",
+          "opacity": "0",
+          "display": "none",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_contain u-container",
+          "opacity": "1",
+          "display": "block",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_content u-grid-flex",
+          "opacity": "1",
+          "display": "flex",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_progress u-text-style-main",
+          "opacity": "0",
+          "display": "flow-root",
+          "text": "100%"
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_title u-text-style-main",
+          "opacity": "0",
+          "display": "flow-root",
+          "text": "Architecture, Built for Life."
+        }
+      ],
+      "errors": []
+    },
+    {
+      "ready": "complete",
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/68b8cf759b04da414aadb7a3_home-thumb-p-1600.avif",
+          "complete": true,
+          "width": 1440,
+          "visible": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/681af58e9bcbad5c8c1d703c_ClintonWeaver_Matt%20Elkan%20Architect_Paddington_010.avif",
+          "complete": true,
+          "width": 2000,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67b6bdbf14cc43e2b65b7bec_Image%203_4%20%E2%80%93%20Portrait.avif",
+          "complete": true,
+          "width": 1600,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67b6bdb786c677a97b3005e6_Image%203_4%20%E2%80%93%20Portrait.avif",
+          "complete": true,
+          "width": 1600,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67f62a7577d0639bc6a77de0_JLY_Arc.%20Office%20Team389.avif",
+          "complete": true,
+          "width": 6720,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/68098685fa0d49beac9e5b8d_CW_TRIAS_MOSMAN-3.avif",
+          "complete": true,
+          "width": 2722,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        }
+      ],
+      "loaders": [
+        {
+          "tag": "BODY",
+          "class": "loader-complete",
+          "opacity": "1",
+          "display": "block",
+          "text": "Skip to main content\nProjects\nProfile\nPr"
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_wrap u-theme-dark",
+          "opacity": "0",
+          "display": "none",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_contain u-container",
+          "opacity": "1",
+          "display": "block",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_content u-grid-flex",
+          "opacity": "1",
+          "display": "flex",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_progress u-text-style-main",
+          "opacity": "0",
+          "display": "flow-root",
+          "text": "100%"
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_title u-text-style-main",
+          "opacity": "0",
+          "display": "flow-root",
+          "text": "Architecture, Built for Life."
+        }
+      ],
+      "errors": []
+    },
+    {
+      "ready": "complete",
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/68b8cf759b04da414aadb7a3_home-thumb-p-1600.avif",
+          "complete": true,
+          "width": 1440,
+          "visible": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/681af58e9bcbad5c8c1d703c_ClintonWeaver_Matt%20Elkan%20Architect_Paddington_010.avif",
+          "complete": true,
+          "width": 2000,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67b6bdbf14cc43e2b65b7bec_Image%203_4%20%E2%80%93%20Portrait.avif",
+          "complete": true,
+          "width": 1600,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67b6bdb786c677a97b3005e6_Image%203_4%20%E2%80%93%20Portrait.avif",
+          "complete": true,
+          "width": 1600,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/67f62a7577d0639bc6a77de0_JLY_Arc.%20Office%20Team389.avif",
+          "complete": true,
+          "width": 6720,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/67b3f416871f5c23ae1290b4/68098685fa0d49beac9e5b8d_CW_TRIAS_MOSMAN-3.avif",
+          "complete": true,
+          "width": 2722,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        },
+        {
+          "src": "",
+          "complete": false,
+          "width": 0,
+          "visible": false
+        }
+      ],
+      "loaders": [
+        {
+          "tag": "BODY",
+          "class": "loader-complete",
+          "opacity": "1",
+          "display": "block",
+          "text": "Skip to main content\nProjects\nProfile\nPr"
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_wrap u-theme-dark",
+          "opacity": "0",
+          "display": "none",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_contain u-container",
+          "opacity": "1",
+          "display": "block",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_content u-grid-flex",
+          "opacity": "1",
+          "display": "flex",
+          "text": "100%Architecture, Built for Life."
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_progress u-text-style-main",
+          "opacity": "0",
+          "display": "flow-root",
+          "text": "100%"
+        },
+        {
+          "tag": "DIV",
+          "class": "loader_title u-text-style-main",
+          "opacity": "0",
+          "display": "flow-root",
+          "text": "Architecture, Built for Life."
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "evidence": {
+    "path": "docs/evidence/redo-v2/2026-10-17/008-arc-loading/after45s.jpg",
+    "sha256": "adeefca42f18f8011a869c795733be579be3c4f7dc25a5e8ab1e864b28651e70"
+  },
+  "result": "readiness-diagnostic-not-approval"
+}

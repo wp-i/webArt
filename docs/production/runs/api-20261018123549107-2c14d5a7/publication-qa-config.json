@@ -1,0 +1,14 @@
+{
+  "origin": "http://127.0.0.1:4180/",
+  "output": "docs/evidence/000-collection",
+  "images": 6,
+  "fonts": [
+    "Manrope"
+  ],
+  "scenes": [
+    ".intro",
+    ".work-grid",
+    ".work:nth-child(3)",
+    ".site-footer"
+  ]
+}

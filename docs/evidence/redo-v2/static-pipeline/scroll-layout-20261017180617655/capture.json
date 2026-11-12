@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-17T18:06:17.843Z",
+  "url": "http://127.0.0.1:8383/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 3600,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/scroll-layout-20261017180617655/desktop-opening/contact-sheet.jpg",
+          "sha256": "85c7571b66fdd9952261ce37bcc3077e82faccf82211040cdbd5cbec55982a06"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 540,
+      "layout": {
+        "y": 540,
+        "documentHeight": 3600,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/scroll-layout-20261017180617655/desktop-transition/contact-sheet.jpg",
+          "sha256": "dc6e5fa9c73de5536917a1d75e7c0e7c430c7d1dbd9949eab8a8eb2c892e2ac2"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1350,
+      "layout": {
+        "y": 1350,
+        "documentHeight": 3600,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/scroll-layout-20261017180617655/desktop-middle/contact-sheet.jpg",
+          "sha256": "698671d67e0d0af03d304f9952907a315124e4c8e5fec45016632a88c5978335"
+        }
+      ]
+    }
+  ],
+  "motion": [],
+  "errors": [],
+  "result": "failed",
+  "failure": "Final visible media/fonts were not ready",
+  "finished": "2026-10-17T18:06:33.360Z"
+}

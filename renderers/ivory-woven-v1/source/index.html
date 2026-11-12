@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#163337">
+  <meta name="description" content="House of Ivory — an independent textile and interior studio. Material, colour and a softer sense of space.">
+  <title>House of Ivory — Woven spaces</title>
+  <link rel="preload" href="/assets/instrument-serif.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/woven.webp" as="image" fetchpriority="high">
+  <script type="module" src="/src/main.js"></script>
+</head>
+<body>
+  <a class="skip" href="#scene-transition">Skip to spaces</a>
+  <header class="identity"><a href="#scene-opening" aria-label="House of Ivory, back to beginning">HOUSE OF IVORY<span>Textile & interior studio</span></a></header>
+  <nav class="rail" aria-label="Main navigation"><span class="rail-mark" aria-hidden="true">hi.</span><a href="#scene-transition">Spaces</a><a href="#scene-middle">Materials</a><a href="#scene-ending">Contact <span aria-hidden="true">↗</span></a></nav>
+  <main>
+    <section class="opening" id="scene-opening" aria-labelledby="opening-title">
+      <div class="visual"><img src="/assets/woven.webp" alt="Deep blue botanical jacquard meeting cinnamon velvet, with visible woven fibres and a fringed edge" width="1536" height="1024" fetchpriority="high"></div>
+      <div class="hero-copy"><p class="eyebrow">Material. Colour. Space.</p><h1 id="opening-title"><span data-content="hero-line-1">Softness,</span><br><i data-content="hero-line-2">with substance.</i></h1><p data-content="intro">Spaces that feel as good as they look.</p></div>
+      <div class="opening-foot"><span>Independent by nature.</span><a href="#scene-transition">Explore our world <span aria-hidden="true">↓</span></a></div>
+    </section>
+    <section class="spaces" id="scene-transition" aria-labelledby="spaces-title">
+      <div class="panorama" tabindex="0" role="region" aria-label="Interior spaces">
+        <div class="visual panorama-track">
+          <figure class="space space-wide"><img src="/assets/window-room.webp" alt="An illustrated interior study: botanical drapery, ivory sheer curtains, a cinnamon chair and a walnut table in warm window light" width="1536" height="1024"><figcaption><span>01 / Window light</span><span>A study in warmth</span></figcaption></figure>
+          <figure class="space space-portrait"><img src="/assets/rose-room.webp" alt="Rose curtains framing a tall window in an ornate room with a chandelier and pink seating" width="2400" height="3200"><figcaption><span>02 / Rose room</span><span>Colour, quietly bold</span></figcaption></figure>
+        </div>
+        <h2 class="sr-only" id="spaces-title" data-content="spaces-heading">A feeling, made tangible.</h2>
+        <div class="panorama-progress" aria-hidden="true"><span></span></div>
+      </div>
+    </section>
+    <section class="materials" id="scene-middle" aria-labelledby="materials-title">
+      <div class="material-intro"><p class="eyebrow">The material room</p><h2 id="materials-title" data-content="materials-heading">It begins with a touch.</h2><p data-content="materials-intro">Considered pairings. Personal spaces.</p></div>
+      <div class="material-layout">
+        <div class="visual material-visual">
+          <figure id="material-silk" class="material-view is-selected"><img src="/assets/blue-silk.webp" alt="Blue woven fabric gathered into sculptural folds" width="2400" height="1600"><figcaption>01 — Cloth & shadow</figcaption></figure>
+          <figure id="material-atelier" class="material-view"><img src="/assets/at-the-atelier.webp" alt="A person comparing curtain fabrics and hanging swatches in a textile showroom" width="2400" height="3600"><figcaption>02 — At the atelier</figcaption></figure>
+        </div>
+        <div class="material-index">
+          <div class="index-options" role="group" aria-label="Choose a material view"><button type="button" data-view="material-silk" aria-pressed="true"><span class="index-number">01</span><span>Cloth & shadow</span><span class="index-arrow" aria-hidden="true">↗</span></button><button type="button" data-view="material-atelier" aria-pressed="false"><span class="index-number">02</span><span>At the atelier</span><span class="index-arrow" aria-hidden="true">↗</span></button></div>
+          
+        </div>
+      </div>
+    </section>
+    <section class="ending" id="scene-ending" aria-labelledby="ending-title">
+      <div class="visual"><img src="/assets/last-light.webp" alt="Botanical curtain hems and translucent ivory sheers meeting sunlit oak parquet" width="1536" height="1024"></div>
+      <div class="contact-copy"><p class="eyebrow">Your space, your story.</p><h2 id="ending-title" data-content="contact-heading">Let’s find your feeling.</h2><a class="contact-link" href="mailto:hello@houseofivory.example">Say hello <span aria-hidden="true">↗</span></a></div>
+      <footer><span>House of Ivory © 2026</span><span>Original interior studies & material inspiration.</span><a href="#scene-opening">Back to the beginning ↑</a></footer>
+    </section>
+  </main>
+</body>
+</html>

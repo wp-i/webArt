@@ -1,0 +1,158 @@
+{
+  "result": "same-actual-review-revalidated",
+  "recordedAt": "2026-10-31T17:45:14.670Z",
+  "processSpawns": 0,
+  "usageCallbacks": 0,
+  "newCliInvocations": 0,
+  "newModelCalls": 0,
+  "retainedAttemptCount": 1,
+  "afterAttemptCount": 1,
+  "retainedRequestCount": 1,
+  "reuseCount": 1,
+  "originalFilesUnchanged": true,
+  "originalFiles": [
+    {
+      "path": "docs/production/runs/lando-reference-20261031/reference-review.json",
+      "sha256": "b603a763ef713d6554b3b23736d1a0faadbb71e61c238898741e54e032275ee2"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/reference-gate.json",
+      "sha256": "a9c60c7711eebe1eba9c66c1b72a34e03d8709a1817e3f996c518e130e44e002"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/usage.json",
+      "sha256": "f7c510247dc86d49b6f3ee24d9c0806f062f2988bc41c70b070d12ecbcce4915"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/input-binding.json",
+      "sha256": "c172dba2d5f35c17046906f059034312c8fdb1e78190440ac39fd8e58607d6d2"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-reference-01/capture.json",
+      "sha256": "ab4d806e00a6933943891b48699b89a012e2806cbb6448a94f1d48cff3ab0c23"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/007-shell-reference-plan-20261031.json",
+      "sha256": "dc58b35ea44a53016f38da8bb2df187ab6a71fb30459bfc4f55cffdef6cc10dc"
+    },
+    {
+      "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+      "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/007-lando-source-20261031.json",
+      "sha256": "7302fb5a92a584bc43332bcb5e3f5b03cce12fbc2076af30f51db23a8a8abaef"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/consumed/receipt.json",
+      "sha256": "b1fefcb81bcd91fa91d743b3b1936da4445401e8a46076c97b153895d6298397"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/request.json",
+      "sha256": "3daffb42a892a8e4359f3c02b2f5d5721e5aeb6b1aaa636b4d2a78b710c0dd38"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/consumption-context.json",
+      "sha256": "43a004ebb661355d6a6ec49a99ac237a0cf0a095cba2b9f0cc8099f766d5d6f6"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/consumed/canonical-report.json",
+      "sha256": "d1c5c84aa20c531fc4b4a4034d91629d07392c9fdd9a5e17bcb7d4b44989b962"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/response.json",
+      "sha256": "70b0f45aa8cd61dbee406dcd001417c0f387bd6583a9fccc0c2a839722e335a1"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/events.jsonl",
+      "sha256": "92abd72d63b95395821171990aef66cbe8cfa66878b6b6b163a6335bfda983d8"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/stderr.txt",
+      "sha256": "e418d768d84150d2efef72fde95c1540088224934862abc2b157b89440b4cd97"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/process.json",
+      "sha256": "e6ca3aca1c8f2bcfed8dbd22b1ae91bab434e0485276ecb2b2ffa3e1c3e8ce4b"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/feature-probe.json",
+      "sha256": "cacf6838be7ca1e9a33171a72ddcb6762966efc3b57aa51a2a10b65041eb3837"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/feature-probe.stdout.txt",
+      "sha256": "d4461d9844df47e6e93ab2032bc5f0e03221c874a0cee9f23f5c7de0aed223c3"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/feature-probe.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/version.stdout.txt",
+      "sha256": "311d79a9fd43dbb89fe50425a6c90fa50cdc0bea37d87a7394fc4fe6d727e79d"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/version.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/prompt.txt",
+      "sha256": "b77c2333006ab35918179d71b2b9657aa93da8013e9ce32911536656cf3db7e2"
+    },
+    {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/private-source-map.json",
+      "sha256": "d876873fb847f5bf1db7327114469c20e6578327aa298f11f359694fe5924de0"
+    }
+  ],
+  "review": {
+    "path": "docs/production/runs/lando-reference-20261031/reference-review.json",
+    "sha256": "b603a763ef713d6554b3b23736d1a0faadbb71e61c238898741e54e032275ee2"
+  },
+  "reuse": {
+    "kind": "verified-cli-review-reuse",
+    "role": "reference-review",
+    "requestId": "01-reference-review-78ea15ed27",
+    "receipt": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/receipt.json",
+      "sha256": "6c40b47e03a7c3b3db167333f86bd1bc79e746dd068f96f3b5076965b61b9856"
+    },
+    "originalStartedAt": "2026-10-31T08:27:13.539Z",
+    "originalCompletedAt": "2026-10-31T08:29:43.202Z",
+    "reusedAt": "2026-10-31T17:45:13.246Z",
+    "originalCliInvocations": 1,
+    "newCliInvocations": 0,
+    "newModelCalls": 0,
+    "backendRequestCount": null,
+    "independent": false,
+    "actualModel": null,
+    "toolsObserved": 0,
+    "visualAdmissionGranted": false
+  },
+  "gate": {
+    "decision": "reference-admitted-for-prototype-only",
+    "referenceReview": {
+      "path": "docs/production/runs/lando-reference-20261031/reference-review.json",
+      "sha256": "b603a763ef713d6554b3b23736d1a0faadbb71e61c238898741e54e032275ee2"
+    },
+    "calibrationReview": {
+      "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+      "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+    },
+    "reviewerId": "codex-account-default:2026-10-29-cli-calibration",
+    "inventoryChanged": false,
+    "packageAuthorized": false,
+    "limitations": "Checks evidence and the recorded comparison; it does not predict visual quality or authorize full implementation."
+  },
+  "guards": {
+    "spawnImpl": "throw on every attempted process spawn",
+    "onUsage": "throw on every attempted new-usage callback",
+    "save": "compare exact original report; no write"
+  },
+  "auditor": {
+    "id": "current-conversation-subagent-qa-record",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "visualAdmissionGranted": false
+}

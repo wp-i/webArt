@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#e8e6de">
+  <meta name="description" content="Near & Far. An independent eye for people, colour and character.">
+  <title>Near & Far — A study in character</title>
+  <link rel="preload" href="/assets/bodoni-moda.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/tulle.webp" as="image" fetchpriority="high">
+  <script type="module" src="/src/main.js"></script>
+</head>
+<body>
+  <a class="skip" href="#photographs">Skip to photographs</a>
+  <header class="identity"><a href="#scene-opening" aria-label="Near and Far, back to beginning">NEAR <span>&</span> FAR<span class="identity-note">Independent photography</span></a><nav aria-label="Main navigation"><a href="#photographs">Photographs <span>03</span></a><a href="#about">The other side</a><a href="#scene-ending">Contact ↗</a></nav></header>
+  <main>
+    <section class="world" id="scene-opening" aria-labelledby="world-title">
+      <div class="scene-marker transition-marker" id="scene-transition" aria-hidden="true"></div>
+      <div class="scene-marker detail-marker" id="scene-middle" aria-hidden="true"></div>
+      <div class="photo-world visual" id="photographs">
+        <div class="world-intro"><p>A study in</p><h1 id="world-title" data-content="hero-title">Character</h1></div>
+        <a class="photograph photograph-thread" href="/assets/thread.webp" data-photo="thread" aria-label="View Red thread, photograph 1 of 3"><span class="photograph-window"><img src="/assets/thread.webp" alt="A woman in white and tall white boots, loosely entwined in a fine red thread against a pale studio background" width="2200" height="2933"></span><span class="photo-caption"><span>01 / Red thread</span><span>Ericka Sánchez</span></span></a>
+        <a class="photograph photograph-tulle" href="/assets/tulle.webp" data-photo="tulle" aria-label="View Through the red, photograph 2 of 3"><span class="photograph-window"><img src="/assets/tulle.webp" alt="An expressive close portrait with blue eye makeup and dark lips seen through translucent red tulle" width="2200" height="3300" fetchpriority="high"></span><span class="photo-caption"><span>02 / Through the red</span><span>Israyosoy S.</span></span></a>
+        <a class="photograph photograph-velvet" href="/assets/velvet.webp" data-photo="velvet" aria-label="View Out of the blue, photograph 3 of 3"><span class="photograph-window"><img src="/assets/velvet.webp" alt="A woman in red velvet under a clear blue sky and bare branches, photographed from below in hard daylight" width="2200" height="3296"></span><span class="photo-caption"><span>03 / Out of the blue</span><span>kwnos Iv</span></span></a>
+        <div class="world-note"><span>People. Colour. A point of view.</span><a href="#photographs">View photographs ↑</a></div>
+        <div class="detail-heading" aria-live="polite"><p class="eyebrow">Selected photograph <span id="photo-number">03 / 03</span></p><h2 id="photo-title">Out of the blue</h2><p id="photo-credit">Photograph by kwnos Iv</p><p class="detail-description">Three perspectives.<br>One thread of red.</p></div>
+        <div class="view-tools" hidden><a href="#scene-opening" class="back-link">← All photographs</a><label for="distance">Viewing distance <output for="distance" id="distance-value">1.0×</output></label><input type="range" id="distance" min="1" max="2.4" step="0.1" value="1" aria-label="Viewing distance"><button type="button" id="reset-view">Reset view</button><a href="#about" class="next-link">The other side ↓</a></div>
+      </div>
+    </section>
+    <section class="portrait portrait-orange" id="about" aria-labelledby="about-title">
+      <div class="portrait-image visual"><img src="/assets/orange.webp" alt="An original fictional photographer with short curly hair in warm orange side light, looking beyond the frame" width="1086" height="1448" loading="lazy"></div>
+      <div class="portrait-copy"><p class="eyebrow">The other side of the lens</p><h2 id="about-title" data-content="about-title">Light finds a character.</h2><p data-content="about-intro">An independent eye for the way people inhabit a frame.</p><span class="portrait-number">01 / Observe</span></div>
+    </section>
+    <section class="portrait portrait-blue" aria-labelledby="listen-title">
+      <div class="portrait-image visual"><img src="/assets/blue.webp" alt="The same fictional photographer with closed eyes and one hand on her headphones in blue studio light" width="1086" height="1448" loading="lazy"></div>
+      <div class="portrait-copy"><p class="eyebrow">Before the picture</p><h2 id="listen-title" data-content="listen-title">First, listen.</h2><p data-content="listen-copy">A good portrait begins before the shutter. With a conversation, a little patience, and room to be yourself.</p><span class="portrait-number">02 / Connect</span></div>
+    </section>
+    <section class="portrait portrait-green" id="scene-ending" aria-labelledby="contact-title">
+      <div class="portrait-image visual"><img src="/assets/green.webp" alt="The same fictional photographer looks at the viewer, holding a black camera naturally at chest height in emerald green studio light" width="1086" height="1448" loading="lazy"></div>
+      <div class="portrait-copy"><p class="eyebrow">Something in mind?</p><h2 id="contact-title" data-content="contact-title">Let’s make a picture.</h2><a class="contact-link" href="mailto:hello@example.com">hello@example.com <span aria-hidden="true">↗</span></a><p>Portraits · Editorial · Personal work</p><span class="portrait-number">03 / Create</span><div class="end-note"><span>NEAR & FAR</span><a href="#scene-opening">Back to the beginning ↑</a></div></div>
+    </section>
+  </main>
+</body>
+</html>

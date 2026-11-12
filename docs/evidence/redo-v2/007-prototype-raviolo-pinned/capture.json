@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-13T17:42:11.271Z",
+  "url": "http://127.0.0.1:4322/",
+  "sourceSha256": "66bbd062f3878da8388e0119e27bd42073a30d781d84e2b402cd1814d0493d74",
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-opening/contact-sheet.jpg",
+          "sha256": "a2261a7aba7ee1ac8ae410f0726a0e042b14721c5c1436199f200867dd7cb72a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 383,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-transition/contact-sheet.jpg",
+          "sha256": "88438bf017edd17d7f796578a51ffcd74a97b383eedd09f475080e23ce713602"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 833,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-middle/contact-sheet.jpg",
+          "sha256": "f36b838a1ab23ca6cc72564e9fbbcaf8ca85c6ad63df85397034989f4645040d"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1224,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-ending/contact-sheet.jpg",
+          "sha256": "42c6ddcdd7bf719d4d2db2c2ce01ee48779e40ef8d40b73f885a16deea453f70"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-opening/contact-sheet.jpg",
+          "sha256": "a43a42805a75a311547c20c7d5d8df741a0e1384ab16cc86b9a99156285bdd52"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 523,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-transition/contact-sheet.jpg",
+          "sha256": "399bbd96fef3862b9c961af21036bd138afa132e861f805a16234cbe6a296e7e"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 935,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-middle/contact-sheet.jpg",
+          "sha256": "90b76510cec2e6a321884d0620287b871dabaef828e418bd5b87fd0af509be1a"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1190,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-ending/contact-sheet.jpg",
+          "sha256": "8a26260ca893f14f8613a27fa21974f3f75c7abb08868cb4ce5612414dfe6030"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "499fbe35773b59b447afe92895bb534be04798dd97f26106598082f375166749"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "85dbc2c84f4b8d321aafe2c930e5cdf480c39d864884dc289c9d1d3e48e2ace5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "c28e3244ce9948acac611ed8fa8945127352a7afc3e86d26bf9a2ba9fc416c4c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "a8f051a2b588396ab23984f15c0150237116796d1c322389db85976bc1d70df9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "42c6ddcdd7bf719d4d2db2c2ce01ee48779e40ef8d40b73f885a16deea453f70"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "a8f051a2b588396ab23984f15c0150237116796d1c322389db85976bc1d70df9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "fa41bff3e39b69312bc73c9ff8da78d010d9727c56dee87e06f787ce1d57e718"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "54be094fe9b4ae3e19f85e176d433388ce3d90a56b5ee3c9428fe5443f639e1f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "c7f43014d411793848089e88c441e1b24806234f3f4be66c8f2214d35685fc9c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-reduced/contact-sheet.jpg",
+          "sha256": "be589c202058caad3914eef63de5943c3ec029ccd4f708d7655c57842f9ded9f"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "97c2f78c2cbd02935d40f577117d18e536140b476e76cd7bb87484ad1faddaa4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "493d36202fad65929b4d774c6230e48e9bbd5713b8a2d1b0d350c782b69ec8ea"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "06976755e190faac6039968af53b9d9e14629d7653b72d8e53aaf14b64439c91"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "f264284734192b6cea598bc048df958613108c697843f8667de75a0c755e16f8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-reduced/contact-sheet.jpg",
+          "sha256": "be589c202058caad3914eef63de5943c3ec029ccd4f708d7655c57842f9ded9f"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "11a6d01211e4d00619f3ad36c10f67a580d5c339bd158527952fffd16f6f821c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "5129a9ca4708ad7544fcdf4f8978957b68fd7de00694f9184bd8503c39130416"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "fbe4c09d37589c067f54c41a0e4a2520ded117797f072c794f3c8f99d9f9d455"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "d381be1d22b58e72f1502baae238eb81e44c5cdab649d3a54f9d2b09d231b6da"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "8a26260ca893f14f8613a27fa21974f3f75c7abb08868cb4ce5612414dfe6030"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-scroll-5/contact-sheet.jpg",
+          "sha256": "d381be1d22b58e72f1502baae238eb81e44c5cdab649d3a54f9d2b09d231b6da"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "fbe4c09d37589c067f54c41a0e4a2520ded117797f072c794f3c8f99d9f9d455"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-scroll-7/contact-sheet.jpg",
+          "sha256": "c0c15ffb5113c093eac9334609fb88c50ddcad1102391d33d93862a2a35d7b88"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "3b0a01e57fd2be29d480ef7ffd1cabfb10232024bdaac9b070b64d372daec321"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-reduced/contact-sheet.jpg",
+          "sha256": "d9a06aad5af7842c83ac112e3a65f25343f62ba7e5f968832f2db670701f0074"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-scored",
+  "finished": "2026-10-13T17:43:19.862Z"
+}

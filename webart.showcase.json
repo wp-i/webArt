@@ -1,18 +1,136 @@
 {
   "schemaVersion": 1,
   "authorization": {
-    "date": "2026-10-10",
+    "date": "2026-10-12",
     "record": "docs/DECISIONS.md",
-    "trialIds": ["007", "008"]
+    "trialIds": [
+      "006",
+      "007",
+      "008",
+      "009",
+      "010"
+    ]
   },
   "trialDownloads": [
-    { "id": "007", "bytes": 3253751, "sha256": "1598eae55f082b34c78b2915ebf6a9697fad9302b95345a18f44fb8279df1835" },
-    { "id": "008", "bytes": 11330768, "sha256": "be65a74004145f9d51f196c09cda7402f36bd84eca06dd611fc4904103e23cbe" }
+    {
+      "id": "006",
+      "bytes": 1599284,
+      "sha256": "56c58f16e8fe4fa84b86036bdb59b62ee333f6481808077c3f46343f7890f122"
+    },
+    {
+      "id": "007",
+      "bytes": 2313424,
+      "sha256": "9aa7e97c355ee902f33ef3199afff7657ea7a54ffdec49709e95e8e301770fcf"
+    },
+    {
+      "id": "008",
+      "bytes": 1740847,
+      "sha256": "f3054f5f8f18982234d039a1a3b4bbef79693ad402a57bba24b88f657341141c"
+    },
+    {
+      "id": "009",
+      "bytes": 1714403,
+      "sha256": "ff3b0b4e3f12ba528866f26e1f1ab667ea9caa3c4497047515456b207be47203"
+    },
+    {
+      "id": "010",
+      "bytes": 64837,
+      "sha256": "0d70e3c91c8b5436d147d8af7da1de1a7d905333f6f04cfd70cc65cb1a57e377"
+    }
   ],
   "items": [
-    { "id": "001", "category": "艺术与实验", "description": "光、纤维与材质的沉浸式探索。", "date": "2026-08-28", "background": "#090b0a" },
-    { "id": "006", "category": "空间与建筑", "description": "以色彩与空间，呈现有温度的室内设计。", "date": "2026-10-09", "background": "#efcebd" },
-    { "id": "007", "category": "生活与体验", "description": "从田野到餐桌，一场悠然的海岸体验。", "date": "2026-10-09", "background": "#fff5a3" },
-    { "id": "008", "category": "空间与建筑", "description": "以自然光与诚实材质，讲述建筑与生活。", "date": "2026-10-10", "background": "#ad7653" }
+    {
+      "id": "001",
+      "description": "光、纤维与材质的沉浸式探索。",
+      "date": "2026-08-28",
+      "background": "#090b0a"
+    },
+    {
+      "id": "006",
+      "description": "织物、色彩与光线的空间研究。",
+      "date": "2026-10-20",
+      "background": "#193537",
+      "revision": {
+        "rendererId": "ivory-woven-v1",
+        "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d",
+        "archiveSha256": "b6b5d5958a084c3cf0f6c2cbca910c01893e788cbf93f9a3132843b310e9524a",
+        "authorization": {
+          "date": "2026-10-20",
+          "record": "docs/DECISIONS.md"
+        },
+        "thumbnails": [
+          {
+            "path": "public/collection/006.webp",
+            "sha256": "e41d372da6a0e85211f1adc52fbdd9142889ffacee5a0819ad8713c34d7af3f5"
+          },
+          {
+            "path": "public/collection/006-small.webp",
+            "sha256": "f77170c66023b8ff2445ac3f0c4788c21199336e05afae32889159fdfe9e7b0b"
+          }
+        ]
+      }
+    },
+    {
+      "id": "007",
+      "description": "从田野到餐桌，一场悠然的海岸体验。",
+      "date": "2026-10-12",
+      "background": "#fff5a3"
+    },
+    {
+      "id": "008",
+      "description": "以自然光与诚实材质，讲述建筑与生活。",
+      "date": "2026-10-12",
+      "background": "#ad7653"
+    },
+    {
+      "id": "009",
+      "description": "人物、色彩与观看距离的摄影研究。",
+      "date": "2026-10-21",
+      "background": "#e8e6de",
+      "revision": {
+        "rendererId": "near-and-far-editorial-v1",
+        "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+        "archiveSha256": "f374433f4392eaef7acd6a063977de853eba1a9d2f452581ae281fb071adcf0d",
+        "authorization": {
+          "date": "2026-10-21",
+          "record": "docs/DECISIONS.md"
+        },
+        "thumbnails": [
+          {
+            "path": "public/collection/009.webp",
+            "sha256": "2492c33ce0cc2c28d2f3f203f2921c576c366299a93a93f4325c7cb1815090a9"
+          },
+          {
+            "path": "public/collection/009-small.webp",
+            "sha256": "3ed32a7b22ac7d1fc81b0c256e814ed6fbd734cb3bb97dd9ea7b0d83e35d2767"
+          }
+        ]
+      }
+    },
+    {
+      "id": "010",
+      "description": "精密仪表的形态、拆解与弹性运动研究。",
+      "date": "2026-10-18",
+      "background": "#242523",
+      "revision": {
+        "rendererId": "pace-precision-v2",
+        "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+        "archiveSha256": "bb150313c0142dd37ee4cdf9cd227cf858d45272a160fabc05d4cd51eed5c351",
+        "authorization": {
+          "date": "2026-10-18",
+          "record": "docs/DECISIONS.md"
+        },
+        "thumbnails": [
+          {
+            "path": "public/collection/010.webp",
+            "sha256": "da4a47badaff59e4a585721a7a8dd988a5dff3ea0d9b8139aaa1debff8d42b35"
+          },
+          {
+            "path": "public/collection/010-small.webp",
+            "sha256": "79dc0adb98b68226cc5aad808753912d0f1846a17ac69ea946f30cfb1ad7a5e2"
+          }
+        ]
+      }
+    }
   ]
 }

@@ -1,37 +1,52 @@
 # WebArt
 
-快速挖掘易复刻的高质量设计，独立实现为可以下载、修改和使用的网站。用户通常只需说明用途和内容，风格匹配由流程完成。
+高质量、可编辑、可下载的短网页集合。根首页展示6份保留设计；第6项现为优化后的Pace精密仪表，缩略图、完整预览和唯一源码下载绑定同一版本。旧稿源码保留用于质量比较，不增加第7种风格。
 
-根首页现为 WebArt 作品目录，参考 Minimal Gallery 的展示方式，包含目前保留的四稿。按集合顺序连续编号展示，介绍直接连接预览网格；点击进入完整网页预览，可切换桌面、平板和手机，也可直接打开原稿、下载唯一源码包。目录和原稿均有独立 URL。
+001是用户验收基准。Pace视觉方向获认可，本机性能检查通过，用户设备流畅度仍待复核；006–009尚未达到当前准入标准。首页展示授权、内部品质门和用户验收分别记录，工程测试不提供审美评分。
 
-001 用户已接受、视觉冻结；006 内部整页/首屏95，用户尚未给出95验收。007 Campovivo、008 Sill 内部仍为trial，展示已移除试作标签；2026-10-10 用户明确要求展示及下载所有保留稿，因此纳入本次目录，不推断为视觉验收。旧002–005已撤回，不恢复。清理历史见[清理记录](docs/qa/2026-10-10-cleanup.md)。
+[项目交接与公开仓库的启动方式](HANDOFF.md)
 
-**用户Key配置与执行暂不进行。** 本轮仍由Codex交互式编排，不把本地用量折算成实际API账单，也不宣称稳定工业量产。三稿质量/时间/费用与优化依据见[试产评测](docs/production/TRIAL_REPORT.md)。
+## 本地预览
 
-## 开发和交付
-
-```
+```powershell
 npm ci
-npm run dev
+npm run build
+pwsh -NoProfile -File scripts/start-preview.ps1 -Profile collection
+```
+
+首页：<http://127.0.0.1:4180/>。第6项完整预览：<http://127.0.0.1:4180/preview.html?id=010>。`npm run dev`提供开发预览；构建会核验并准备已登记的独立模板，不要求所有模板共用依赖。
+
+## 配置与真实审查
+
+```powershell
+npm run production:check
+npm run production:session
+```
+
+静态计划位于`docs/production/plans/`。常规生产实例化经过完整准入的版本化模板，只填受限内容；LLM不重写或修补页面代码。新风格首次制作必须另走参考、素材、试片和完整QA门，不能用旧低质稿件充库。
+
+无独立Key时，脚本自动准备真实图片、严格结构化输出和审核队列，本会话看图后提交结果，随后自动继续工程检查。队列不会自行批准；本会话上下文未隔离，记录为非独立审查。独立API审查仍是可选入口，不把mock当作真实视觉审核。
+
+```powershell
+node scripts/review-session.mjs inspect <request.json>
+node scripts/review-session.mjs submit <request.json> <reviewed-result.json>
+node scripts/review-session.mjs cancel <request.json> "取消原因"
+node scripts/production-run.mjs webart.production.session.json --session --resume <run.json> --publish
+```
+
+恢复会核验同一校准、已完成的双门、采证配置和源码字节，复用待答请求；未完成的工程检查重新执行。审核结果与请求、图片和收据绑定，缺证、过期、篡改或核心失败会停止流程。
+
+## 首页同步
+
+`--publish`仅在真实运行完成全部门后，按`webart.publication.json`同步已登记且源码/归档一致的版本。脚本自动生成两种真实首屏缩略图，复用唯一源码包，构建首页并检查五宽度、全部预览、实际下载及HTTP；失败恢复上一版展示。模型不能决定发布对象或改写规则。
+
+每稿只提供一份可编辑Vite源码包；`public/templates.json`只包含accepted库存，`public/showcase.json`用于用户授权展示。001及旧006–010比较源码不因展示切换而被覆盖。
+
+```powershell
 npm run test:collection
+npm run test:review
 npm run collection:check
 npm run collection:audit
-npm run release
 ```
 
-源码包：[001](public/weight-of-light-source.zip)、[006](public/house-of-ivory-source.zip)、[007 Campovivo](public/campovivo-source.zip)、[008 Sill](public/sill-source.zip)。每件只有一个可编辑Vite源码ZIP。001 原HTML原字节迁至 designs/001-weight-of-light/index.html；其素材、交互、归档结构、源码批准指纹和原ZIP不变。
-
-## 新增作品
-
-1. 按现有生产流程将新稿登记到 webart.collection.json，完成视觉/QA/源码与下载验证。
-2. 在 webart.showcase.json 的 items 增加该 id、用途分类、中文短说明和日期；分类、数量和网格自动扩展。试作仍需明确用户授权及验证回执，不会因添加 metadata 自动公开。
-3. 将真实首屏缩略图放到 public/collection/{id}.webp（1200×750）及 {id}-small.webp（600×375）。原稿的图片和字体保留在自己的工程里。
-4. 运行 npm run build 和集合检查。构建自动生成四类入口：目录、预览工具、各原稿和源码下载；不生成框架变体。
-
-目录源码为 index.html、gallery/，集合路由由 vite.config.js 在服务/构建时处理，不修改原稿的根资产路径。public/templates.json 继续仅包含 accepted 库存；public/showcase.json 是本次用户授权展示的集合。完整检查记录见[首页QA](docs/qa/000-collection.md)。
-
-[生产流程](docs/PRODUCTION_PIPELINE.md) · [产品现状](docs/PRODUCT.md) · [视觉约定](docs/ART_DIRECTION.md) · [源码规范](docs/DOWNLOAD_STANDARD.md) · [决策](docs/DECISIONS.md) · [下一步](docs/NEXT_STEPS.md)
-
-工程入口：scripts/inspect-reference.mjs（快筛/单母版深查与已拒参考跳过）、scripts/qa-page.mjs（通用整页检查）、scripts/production-meter.mjs（当前本地会话阶段计量）、白名单打包与集合发布脚本。工具可复用；完整自助运行器尚未实现。
-
-2026-10-11用户指出新稿占位文字过多、动效不足和生成素材质量差距。制作标准已改为短文案、母版鼠标/滚动过程验收、现成授权素材优先；见[具体质量修正](docs/production/2026-10-11-quality-correction.md)与[素材获取标准](docs/assets/SOURCING_STANDARD.md)。旧内部评分不覆盖用户反馈，三稿尚未据此重做。
+[最新任务记录](docs/qa/2026-10-19-automation-homepage.md) · [生产流程](docs/PRODUCTION_PIPELINE.md) · [自动化边界](docs/production/AUTOMATION_IMPLEMENTATION.md) · [质量协议](docs/production/QUALITY_PROTOCOL.md) · [下一步](docs/NEXT_STEPS.md)

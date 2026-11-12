@@ -1,0 +1,43 @@
+{
+  "slug": "near-and-far",
+  "version": "0.3.2",
+  "output": "public/near-and-far-source.zip",
+  "files": [
+    {
+      "source": "renderers/near-and-far-editorial-v1/source/index.html",
+      "archive": "index.html"
+    },
+    {
+      "source": "renderers/near-and-far-editorial-v1/source/package.json",
+      "archive": "package.json"
+    },
+    {
+      "source": "renderers/near-and-far-editorial-v1/source/package-lock.json",
+      "archive": "package-lock.json"
+    },
+    {
+      "source": "renderers/near-and-far-editorial-v1/source/vite.config.js",
+      "archive": "vite.config.js"
+    },
+    {
+      "source": "renderers/near-and-far-editorial-v1/source/src",
+      "archive": "src"
+    },
+    {
+      "source": "renderers/near-and-far-editorial-v1/source/public/assets",
+      "archive": "public/assets"
+    },
+    {
+      "source": "renderers/near-and-far-editorial-v1/source/README.md",
+      "archive": "README.md"
+    },
+    {
+      "source": "renderers/near-and-far-editorial-v1/source/LICENSE.md",
+      "archive": "LICENSE.md"
+    },
+    {
+      "source": "renderers/near-and-far-editorial-v1/source/THIRD_PARTY_NOTICES.md",
+      "archive": "THIRD_PARTY_NOTICES.md"
+    }
+  ]
+}

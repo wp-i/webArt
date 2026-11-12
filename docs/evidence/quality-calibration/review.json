@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "purpose": "ground-truth-audit",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "origin": "user-labels-plus-primary-paired-inspection",
+  "notANovelBlindReview": true,
+  "scoreAuthority": "user:95 baseline, approximately80 cohort; no newly invented scores",
+  "samples": [
+    {
+      "id": "001",
+      "sourceSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+      "verdict": "benchmark",
+      "finding": "主视觉以斜向层叠膜片、纤维边缘及冷暖照明构成独特对象，压缩衬线字形与安静区域相互咬合。滚动从物体到暗场、微距证据再到背光收束；指针光线及按住揭示改变实际材料观看。手机保留主题而非依赖设备功能。",
+      "evidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001/desktop/contact-sheet.jpg",
+          "viewport": "desktop",
+          "sha256": "7b3cbc78e479b2fec28019d845d456f797204e945f06f5fc4cf9657f15fec9b2"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001/mobile/contact-sheet.jpg",
+          "viewport": "mobile",
+          "sha256": "2079d29975ed4d8c28304a7c6d9c432a16b676efc4fd6630741d2eda9947bb8d"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "sourceSha256": "3be6deb3cc6893ce3a225c43d7cdd330a3aed8b945269cd77056577262e1f99a",
+      "verdict": "below-benchmark",
+      "finding": "满宽混合字标与杏粉有辨识度，但所选灯具摄影和文字是上下拼接，物体与字形缺少第一稿的空间关系。鼠标仅约12px取景、中段短句变色和项目揭示属局部装饰；后段回到常规三图/说明/邮箱，材质身份未持续强化。",
+      "evidence": [
+        {
+          "path": "docs/evidence/quality-calibration/006/desktop/contact-sheet.jpg",
+          "viewport": "desktop",
+          "sha256": "1c5880fc4703d4f7603edf37a64fef22f405698a2232197b473d77ebbf0ec2d3"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/006/mobile/contact-sheet.jpg",
+          "viewport": "mobile",
+          "sha256": "a8d6bce3b236f5f2936ef469ba2f11bed3a759f9c2e86d2fd3761da0e1f8e7bd"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "sourceSha256": "46c7d81838525a79057b4d7a98f030222a2befb44b0b7b8719e63c3224d2121f",
+      "verdict": "below-benchmark",
+      "finding": "白黄衬线和海岸摄影方向清楚，首屏却以字号与常见风景承担冲击。横向制作照片有真实功能，但与开场及粉色联系缺少内容驱动的连续编排；摄影/文字/轮播仍是熟悉块状结构，照片浏览并不等同于第一稿的材料发现。",
+      "evidence": [
+        {
+          "path": "docs/evidence/quality-calibration/007/desktop/contact-sheet.jpg",
+          "viewport": "desktop",
+          "sha256": "fe174bdabde629f86db4d6c3c1396b878812ddd883a02cf54ca93ea578b7790a"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/007/mobile/contact-sheet.jpg",
+          "viewport": "mobile",
+          "sha256": "b6d125a8ea06bf164ded9d62a044c6c05c89811a149b64ea2dc08a1d8db548b4"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "sourceSha256": "31892bf10228f07d305ed4bee795c10bed76c5514a06429ab545d10eaeddcd99",
+      "verdict": "below-benchmark",
+      "finding": "开场的暖光空间本身有质量，但排版几乎只添加四角导航/字标，强度主要来自单张摄影。缩放及少量项目位移没有推进空间主题，中段白底三项目与黑色邮箱结尾明显弱于开场，整页不是同等完整的视觉作品。",
+      "evidence": [
+        {
+          "path": "docs/evidence/quality-calibration/008/desktop/contact-sheet.jpg",
+          "viewport": "desktop",
+          "sha256": "adb54ab5e70dfa845d46ea70898bdff9de7aa4ec8a7e0146a1a3afbe8480680a"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/008/mobile/contact-sheet.jpg",
+          "viewport": "mobile",
+          "sha256": "8a7964ee588f6ee22dea6d85453d2bda4af6df0f0a9e154acb486a12c7e809c6"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "sourceSha256": "057d1fff49885ed00ccd2bae36abcd33ae87fffc4bd7fdbc13b9b31f0444c147",
+      "verdict": "below-benchmark",
+      "finding": "角落字母、蓝绿纸色与错位摄影具有风格差异，但开场海岸照片是熟悉素材，字母/照片/导航的关系较松。渐变和取景有变化，仍主要作用于背景和小幅移动；原图dialog完善可用性，却没有建立与第一稿相当的独特视觉过程。",
+      "evidence": [
+        {
+          "path": "docs/evidence/quality-calibration/009/desktop/contact-sheet.jpg",
+          "viewport": "desktop",
+          "sha256": "36c67cbbfea28706ec3312e6c130db2d68826e43ea5fd5d63b05649205fe3d07"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/009/mobile/contact-sheet.jpg",
+          "viewport": "mobile",
+          "sha256": "e8043c4fb7fd0df329bcfd7df8ab286e330cbcf993092fb03e2d69f7b7e5d3a1"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "sourceSha256": "4fcd045081962375d946130e871d1fd95df9e1d91a301aa3471016962436abd4",
+      "verdict": "below-benchmark",
+      "finding": "梅紫几何字形与可操作手机区分了风格，但左标题/右设备及下方表单是常见产品页母题。勾选/主题/保存增加功能，2–5度倾斜、12px漂移和进度线没有构成同等级的主视觉发现；中段纸张与按钮结尾基本为功能性整理。",
+      "evidence": [
+        {
+          "path": "docs/evidence/quality-calibration/010/desktop/contact-sheet.jpg",
+          "viewport": "desktop",
+          "sha256": "03e664cf7390482f1fa75922edaaa8448c38c7625598844e3945b230be90e02d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/010/mobile/contact-sheet.jpg",
+          "viewport": "mobile",
+          "sha256": "4c10c61907b7bf4986b4c34bc98fd548ee65b937b91ef75f7112edb8837d0de4"
+        }
+      ]
+    }
+  ]
+}

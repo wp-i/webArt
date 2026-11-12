@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-20T07:00:46.422Z",
+  "url": "http://127.0.0.1:4945/",
+  "sourceSha256": "1a356ad702614f10307a222f62df2a74e4112f5d781ebd95daf84b9659e3a044",
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 4545,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-f50b237c2768d4da/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 191,
+        "subjects": [
+          {
+            "selector": "#scene-opening .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1312,
+      "layout": {
+        "y": 1312,
+        "documentHeight": 4545,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-f50b237c2768d4da/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "1e2e31d5ea477673c987438fc8297f9f09bc831cd11b4166b9530405611f8214"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 101,
+        "subjects": [
+          {
+            "selector": "#scene-transition .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2745,
+      "layout": {
+        "y": 2745,
+        "documentHeight": 4545,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-f50b237c2768d4da/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "774b54131cb1c74804244d19415c34a1223602d9d24ac3640e9d16e24d1af900"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 292,
+        "subjects": [
+          {
+            "selector": "#scene-middle .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.23851432291666666
+          }
+        ]
+      },
+      "visualFailures": [
+        "当前视口文字超过固定预算或缺少实际测量"
+      ]
+    }
+  ],
+  "motion": [],
+  "errors": [],
+  "result": "failed",
+  "visualContractSha256": "8fa968bdea925fa91439bd85516c4c437d94d21f400a1c32530d2c3b3cb6a12b",
+  "failure": "desktop/middle: 当前视口文字超过固定预算或缺少实际测量",
+  "finished": "2026-10-20T07:00:50.557Z"
+}

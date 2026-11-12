@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "009",
+  "sourceSha256": "c7651ef2df86e8074889cc8778bccafdebcd075e9b8f1aab47c708e61cbc847a",
+  "review": "docs/production/runs/2026-10-19-four-redesigns/prototype-009-2e3c0a350f7d241c/review-0.json",
+  "reviewSha256": "5a1655753597d223da23d11d20a1597671db26f7c342ce7eda85f80d33c02599",
+  "reviewer": "Actual current-conversation evidence review; independent=false; contextIsolated=false",
+  "assets": [
+    {
+      "assetId": "thread",
+      "creator": "Ericka Sánchez",
+      "source": "https://www.pexels.com/photo/fashion-studio-portrait-with-red-thread-accent-36161804/",
+      "license": "https://www.pexels.com/license/",
+      "localPath": "assets/owned/editorial-portraits-v1/thread.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Used within one complete editable website template, explicitly included among Pexels permitted template uses; no standalone photo resale or claimed endorsement; actual photographers credited.",
+      "sha256": "30ef399bca3ec63ca405a4c345faf5f6bd2e51cba34206dbde885de2315ccf68",
+      "role": "staggered full-body work",
+      "desktopCrop": "Portrait at the left, full costume, red thread and boots; same object enters the selected photograph with smaller indices.",
+      "mobileCrop": "Staggered small portrait; keep the white silhouette, boots, face and red thread. Selected viewing receives the full original source."
+    },
+    {
+      "assetId": "tulle",
+      "creator": "Israyosoy S.",
+      "source": "https://www.pexels.com/photo/striking-fashion-portrait-with-red-tulle-31167815/",
+      "license": "https://www.pexels.com/license/",
+      "localPath": "assets/owned/editorial-portraits-v1/tulle.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Used within one complete editable website template, explicitly included among Pexels permitted template uses; no standalone photo resale or claimed endorsement; actual photographers credited.",
+      "sha256": "259b45ce4991746c394732022f4b803a0192241631eb11cc6949a6c19be2f975",
+      "role": "dominant editorial close portrait",
+      "desktopCrop": "Default large close portrait at 50%/50%; retain eye makeup, lips, red mesh and hands.",
+      "mobileCrop": "Default dominant portrait at 50%/50%; retain face and tulle texture."
+    },
+    {
+      "assetId": "velvet",
+      "creator": "kwnos Iv",
+      "source": "https://www.pexels.com/photo/striking-fashion-portrait-with-red-velvet-outfit-30567451/",
+      "license": "https://www.pexels.com/license/",
+      "localPath": "assets/owned/editorial-portraits-v1/velvet.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Used within one complete editable website template, explicitly included among Pexels permitted template uses; no standalone photo resale or claimed endorsement; actual photographers credited.",
+      "sha256": "5a67a47481725e396e1ad43bd59f66ce5f0d8eb99c3258bf853a8e0649e4d5f0",
+      "role": "staggered outdoor work and default detail selection",
+      "desktopCrop": "Lower-right opening becomes central selected photograph; retain sky, bare branches, face and red velvet.",
+      "mobileCrop": "Lower-left staggered work becomes central detail photograph; the face, garment and daylight remain clear."
+    },
+    {
+      "assetId": "orange",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated fictional adult photographer; orange establishes identity; blue and green use that original portrait as identity reference.",
+      "license": "Original generated asset for this complete template",
+      "localPath": "assets/owned/editorial-portraits-v1/orange.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Original fictional demonstration content; no source website identity or photographs used; no claim of actual commissioned work.",
+      "sha256": "ca1f1b2996bb440b852ed2dd1d996c89415373e84464aee9d3085e19dddab72f",
+      "role": "photographer observes",
+      "desktopCrop": "Left 58% panel at 50%/39%, full head and neck; short statement occupies independent orange field.",
+      "mobileCrop": "Full-width 67svh portrait at 50%/35%; keep complete hair, face and shoulders, statement below."
+    },
+    {
+      "assetId": "blue",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated fictional adult photographer; orange establishes identity; blue and green use that original portrait as identity reference.",
+      "license": "Original generated asset for this complete template",
+      "localPath": "assets/owned/editorial-portraits-v1/blue.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Original fictional demonstration content; no source website identity or photographs used; no claim of actual commissioned work.",
+      "sha256": "3275df4118316e0e729f69772a0d307690d68b21dd4058e20e67259cd96ca76f",
+      "role": "photographer listens",
+      "desktopCrop": "Left 55% panel at 45%/40%; hair, headphones and natural hand stay visible.",
+      "mobileCrop": "Full-width 67svh portrait; full hair and listening hand retained, short statement follows."
+    },
+    {
+      "assetId": "green",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated fictional adult photographer; orange establishes identity; blue and green use that original portrait as identity reference.",
+      "license": "Original generated asset for this complete template",
+      "localPath": "assets/owned/editorial-portraits-v1/green.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Original fictional demonstration content; no source website identity or photographs used; no claim of actual commissioned work.",
+      "sha256": "35d82c24cded0e1e3c971163fa15856762e4d52a219a6e14574136a32efdc8c0",
+      "role": "photographer creates and contact",
+      "desktopCrop": "Left 58% panel at 50%/45%; face, hands and camera preserved, small contact on green field.",
+      "mobileCrop": "Full-width 63svh portrait; face, both hands and camera remain above complete contact and return."
+    }
+  ],
+  "fonts": [
+    {
+      "id": "inter",
+      "name": "Inter",
+      "file": "inter.woff2",
+      "source": "designs/006-house-of-ivory/public/assets/inter-400.woff2",
+      "license": "designs/006-house-of-ivory/public/assets/inter-OFL.txt",
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "licenseSha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "id": "bodoni-moda",
+      "name": "Bodoni Moda",
+      "file": "bodoni-moda.woff2",
+      "source": "assets/owned/editorial-portraits-v1/bodoni-moda.woff2",
+      "license": "assets/owned/editorial-portraits-v1/BODONI-OFL.txt",
+      "sha256": "1d17ef45976c8291c9576d96f5291cad32b0dd97b69dd4b83ec461013f5bd9d5",
+      "licenseSha256": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+      "origin": "https://github.com/google/fonts/tree/main/ofl/bodonimoda",
+      "verified": "2026-10-21",
+      "processing": "Lossless WOFF2 encoding from upstream variable TTF; font outlines, naming and OFL unchanged."
+    }
+  ],
+  "generation": {
+    "tool": "built-in image_gen",
+    "calls": 3,
+    "replacements": 0,
+    "prompts": "assets/owned/editorial-portraits-v1/generation-prompts.json",
+    "usageReturned": false
+  },
+  "findings": "Actual final replacements viewed in eight desktop/phone states, full orange/blue/green aligned scenes, native forward/reverse, trusted phone touch, real distance and pointer inspection. One local finish resolved the opening action overlap and the carried-over crop. Full five-width controls and performance remain pending."
+}

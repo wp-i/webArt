@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "009",
+  "identity": "f398af97be55b675bd0586e38d0a42caefccac909f905bb047c0d2e3f91bdca0",
+  "sourceSha256": "b87f993e970d6435d8a7bc40579dd1572472b6291e96bbb0cb2340d66c9f2c31",
+  "dependencies": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-workflow-03.json",
+      "sha256": "b0e3cf08cf2f05a8e2dc39c836463425ea414b62bdd771bff0240a128c3ee28d"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-plan-03.json",
+      "sha256": "22fe81e8786fad78b1b2d0cef569c1b8ad6faf6a89118ee21c4ec29cbc7d8cab"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-reference-review.json",
+      "sha256": "63e2a84c05950265e156a9e8d66290634d20452c51dffde5ad3d18f80c33097c"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/calibration-review.json",
+      "sha256": "5062704d49c1c462e82777e4a02d5f89dd073ff4f7900f0c537b869b1d114eb3"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-11-grouped/capture.json",
+      "sha256": "6b3587b685023760cdb8e146df7cd3cbbd42098b07220301dfa39781d06e7b75"
+    },
+    {
+      "path": "scripts/capture-production.mjs",
+      "sha256": "349773e55631e49fd92ae55d30c1686114fe61254cbab20724594252df63888d"
+    },
+    {
+      "path": "scripts/production/device-metrics.mjs",
+      "sha256": "d28bd7dbca64f78b778935747de1612c7659fd30d7f74f4c9f714d00a418bbb2"
+    },
+    {
+      "path": "scripts/production/native-scroll.mjs",
+      "sha256": "7e9318efcda6575c1d62cac65ad6eaca4f575c4097732d00abb272b4d9e95d46"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/evidence.mjs",
+      "sha256": "1665e3fa7c4d531da0a7286b4a3693daa401edd76aa86d9ba17e09f6d8d4f5d0"
+    },
+    {
+      "path": "docs/production/prompts/REVIEW_PAIR.md",
+      "sha256": "6010b0ee21174984b4f4b7aab4a9a1972e03baba3be5452e5c84c83c8ca90281"
+    }
+  ],
+  "createdAt": "2026-10-21T10:42:51.524Z",
+  "stages": [
+    {
+      "status": "capturing",
+      "at": "2026-10-21T10:42:51.965Z"
+    },
+    {
+      "status": "reviewing",
+      "at": "2026-10-21T10:43:27.623Z"
+    },
+    {
+      "status": "awaiting-review",
+      "at": "2026-10-21T10:43:28.473Z"
+    }
+  ],
+  "captures": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-009-f398af97be55b675/capture-0.json",
+      "sha256": "e7af04c87935f557f1f1820e4dcb4baec6f792d9cf906a476ac78b93cb9519fc"
+    }
+  ],
+  "reviews": [],
+  "modelCodeGenerationCalls": 0,
+  "packageAuthorized": false,
+  "attempt": 0,
+  "status": "awaiting-review",
+  "updatedAt": "2026-10-21T10:43:28.473Z",
+  "pendingReview": {
+    "requestFile": "docs/production/runs/2026-10-19-four-redesigns/review-queue/15-prototype-review-1f6e5747-request.json",
+    "requestSha256": "7a29e5dc9d28d53fb7e8451a8db29b672531b2ec506919184063aa4f539614eb",
+    "role": "prototype-review",
+    "viewerFile": "docs/production/runs/2026-10-19-four-redesigns/review-queue/15-prototype-review-1f6e5747-viewer.html"
+  },
+  "nextAction": "submit-actual-review-and-rerun-same-command"
+}

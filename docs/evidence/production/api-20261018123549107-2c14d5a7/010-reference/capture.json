@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-18T12:36:28.158Z",
+  "url": "https://animejs.com/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 21142,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "6b29671b65333aeb67287b3ff84c29d5f79850421cb137a6f4b19ff7fe1b262b"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4251,
+      "layout": {
+        "y": 4251,
+        "documentHeight": 21142,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "26c87a51189efb6aefec883ff4a0dd9b5c405ef6f6e93b4861ca02b4cc99f0f1"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 9000,
+      "layout": {
+        "y": 9000,
+        "documentHeight": 21142,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "1590fe065254b23edca3e0c60200c4aae33d22ccbc9913400874330add4b69ca"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 10800,
+      "layout": {
+        "y": 10800,
+        "documentHeight": 21142,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "979a44e6ff45e1934686e8730d4c7637596da83df28d322761976f164a79b9e7"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 20202,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-opening/contact-sheet.jpg",
+          "sha256": "0c8c19372b8a371b90cae69c2ff577b13279bffeb475b248482105ac68c2e6d4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4065,
+      "layout": {
+        "y": 4065,
+        "documentHeight": 20202,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-transition/contact-sheet.jpg",
+          "sha256": "55cc389bff988ce69b3f78b49b1136a3da5b4dc4fc8920564106219dd4fbedc4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 8440,
+      "layout": {
+        "y": 8440,
+        "documentHeight": 20202,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-middle/contact-sheet.jpg",
+          "sha256": "42d0c506722c935d5e2b577fb8c7d2f0232701209d1670b6ded0bfbc018d06fe"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 10128,
+      "layout": {
+        "y": 10128,
+        "documentHeight": 20202,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "79b9daac8600e0384f210962dde261a8fcdae038e89859d3703cf09690fbc59b"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "c26eadc23d60d31ddf184f9df1590a1ce86e0135fb311b21dc6b5d703caba14c"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "2af7b4f337609cc90e41c25256ae46d5883c4cc55450ba5c8d2fd942957deb74"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "396dc4078a774f13c4db8462fccfaa4af553678747faa23b3afdd1954f3908ae"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "6295e9fdb3bf9ac18b42ff174084f05bc0f5781b4f2bd42cea93720c12eb0398"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "1c466f376c43999cd9446b7fe999d40767f9f9cd4f242f76bb9921f1bc757751"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "6c0f47b030d356f10c82accd79df6488337b2d705cee0e5f5d22940b14d77eec"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "a641c9f07c2cf968faf4dcd3cf33f6b688c4262821676aa0d64e825db578d70f"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "a7ab84a4684296253a999ce7cf435e9212ebcc89524e446c6df2c2f661705e8d"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "046ed8e2fdfc1390d10caa2d4d5fa9f0bedf5837a831181614eb0acd5144b7f5"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-reduced/contact-sheet.jpg",
+          "sha256": "301353e095648acbf801a9038062670748d51f1c7700b58b975d26f98de5f055"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "08776251d7d6657499d2db21568e71e6508318a093c91dc1d932fe586202a5f4"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "c61604fa14a82cdd682c19b8190ddf1f23d73b2f7823e8bd79226e7f00505632"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "e36d1bd105f3cff05ad3c79f6097cdee64786047ea99c2be4b11a4b632b4aafa"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "41d1d12a25b7d3ec1e3b23a5edc92c1d27daee2690e8569cb167824e53460886"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "a767362a10c2d0444447c14d69e3faadeca82504f891f04715ca327c2d68bb2d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "cdeea125710cd637578e7d8ec6d1fb1b34453e27b934b552471d5fb29b3b63a6"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "5f231e482175efa7b8ee441e10ee131d45176722f5342a01c460f1c4f5aeb14f"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "95ed5e91bb476576fdd9c99d8da32ff8c1350ffaea6743a75c376d29727f7da5"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "71d7dab421cb839d46365e91b522df39e5e14506cb11c6dbdc766471a8c56350"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "610b24a87f34a9839c04273e191dad7f5950fdb970c74811f0d2d5107e9e771d"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-5/contact-sheet.jpg",
+          "sha256": "56dbc0b3c604666fb1407b4fd7e616a9e510934f04ae15d44126c0b0b69b2c35"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "ac867026a9b756f1b27357d2cdf6e6eb83ab54b40301100f2094ec9361efaeea"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-7/contact-sheet.jpg",
+          "sha256": "36e83ef2c076336e33c9c594b14bb00d933154c8cbbdc901e57cd47b59a7d88a"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "3416cc1678686f616851c04e20e6de0a5b91ff76e6f1f15ddbd48b8437c99033"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-reduced/contact-sheet.jpg",
+          "sha256": "95312f7312e3acdc57e4e11abc018194ff4de40eec33a9e21d623e5845b4a25c"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-scored",
+  "finished": "2026-10-18T12:37:33.850Z"
+}

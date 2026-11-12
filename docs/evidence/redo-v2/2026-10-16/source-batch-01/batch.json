@@ -1,0 +1,30 @@
+{
+  "purpose": "Five new sources plus House of Honey; max six. Discovery gallery pages do not grant admission.",
+  "sources": [
+    {
+      "label": "seated",
+      "result": "scouted-not-admitted",
+      "height": 900
+    },
+    {
+      "label": "nkora",
+      "result": "scouted-not-admitted",
+      "height": 5409
+    },
+    {
+      "label": "boysen",
+      "result": "scouted-not-admitted",
+      "height": 7476
+    },
+    {
+      "label": "vest",
+      "result": "evidence-needed",
+      "failure": "页面未完成加载，不能当作已审查"
+    },
+    {
+      "label": "anecdota",
+      "result": "evidence-needed",
+      "failure": "页面未完成加载，不能当作已审查"
+    }
+  ]
+}

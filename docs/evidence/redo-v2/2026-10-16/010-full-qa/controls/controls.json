@@ -1,0 +1,143 @@
+{
+  "result": "running",
+  "viewports": [
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "controls": [
+        {
+          "selector": "[data-webart-audit=\"0\"]",
+          "tag": "BUTTON",
+          "type": "submit",
+          "href": null,
+          "label": "Drag the spring object or use arrow keys",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-0-default.jpg",
+              "sha256": "c6cc82f5c0be674eae29516f5fdcee7ce36f5868424abf191e1e8b917ddba72d"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-0-hover.jpg",
+              "sha256": "9bec91ce64e5080ea73213d5e949e08c87f104fae2019b95ac6dbeccbef3f94e"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-0-focus.jpg",
+              "sha256": "17bcaf9acc91b954070fd84312e5c3d4e6e27ab4907757572a4d241ba8b24a98"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-0-activated.jpg",
+              "sha256": "9d40b2aabc44fd4c2ec7019943ed4625b1f981a2d6c8675133592aca9d234ab5"
+            },
+            {
+              "state": "mouse-result",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-0-physical.jpg",
+              "sha256": "a6e2b4838851fd5562fd060bca054ed2b0f1ef8ee6ef4aabc8897307dfc0a373"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"1\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Explore the instrument",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-1-default.jpg",
+              "sha256": "2edfe010064085c25d8f65fd72b7cb5fc4720c458e49f474e33dc0602ad0a5eb"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-1-hover.jpg",
+              "sha256": "795904201e24d7cb254262d0bc0e2928d925e22fba4e934e1b3c4b62bb8c5fc7"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-1-focus.jpg",
+              "sha256": "d2f835a8f40a9a8453fa50858a2c3ab579e6aa457e68312035f6eebda14111a0"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-1-navigated.jpg",
+              "sha256": "61011a953f54ca7a041fe56e88f82b1490159857707b37397de3d0f7768647fc"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"2\"]",
+          "tag": "BUTTON",
+          "type": "submit",
+          "href": null,
+          "label": "Release ↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-2-default.jpg",
+              "sha256": "c6cc82f5c0be674eae29516f5fdcee7ce36f5868424abf191e1e8b917ddba72d"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-2-hover.jpg",
+              "sha256": "1845958f8e354ec69a1520389c9b8f960c2e708d97eff472e87814a181bc727e"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-2-focus.jpg",
+              "sha256": "1dd0934f361837458cde4950cbf8ad3793e66862dc81faccba8335878175883f"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-2-activated.jpg",
+              "sha256": "1572bef6fc273c056f674df838f20de8b4933d75010f31bad3301afb8f8bd9f1"
+            },
+            {
+              "state": "mouse-result",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-2-physical.jpg",
+              "sha256": "5c9e742eda2021c3d894d9223c57a86c5915768e3d4267d4739ee51f00555dd5"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"3\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Back to the beginning ↑",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-3-default.jpg",
+              "sha256": "a3a55b464cc6dab6a46de68044af733a741478dd775102fb592ddddb0f6608b0"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-3-hover.jpg",
+              "sha256": "19cd3b658c4b9e2a39340f3e8b96d71dd0575006b240903a18377fecda2ad8a4"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-3-focus.jpg",
+              "sha256": "12a3964f11759d49244cfc6987d21dcdd84db1c3ebcc9d66a2b941cb810afbf8"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa/controls/desktop-3-navigated.jpg",
+              "sha256": "8a7c4dc7335e147d1e1a3cf7b9c493c1ebcd3eccf76e4a497dba6f425a177f9c"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "started": "2026-10-16T06:00:52.759Z",
+  "finished": "2026-10-16T06:01:16.102Z"
+}

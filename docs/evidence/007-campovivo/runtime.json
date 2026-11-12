@@ -1,6 +1,6 @@
 {
-  "started": "2026-10-09T01:57:01.942Z",
-  "origin": "http://127.0.0.1:4181/",
+  "started": "2026-10-11T16:37:50.599Z",
+  "origin": "http://127.0.0.1:4207/",
   "mode": "full",
   "viewports": [
     {
@@ -9,7 +9,7 @@
         1440,
         900
       ],
-      "height": 1883,
+      "height": 2008,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -29,7 +29,7 @@
           "visible": true
         },
         {
-          "selector": ".questions",
+          "selector": ".moments",
           "visible": true
         },
         {
@@ -48,7 +48,7 @@
         2048,
         912
       ],
-      "height": 2111,
+      "height": 2339,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -68,7 +68,7 @@
           "visible": true
         },
         {
-          "selector": ".questions",
+          "selector": ".moments",
           "visible": true
         },
         {
@@ -87,7 +87,7 @@
         768,
         1024
       ],
-      "height": 1837,
+      "height": 1630,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -107,7 +107,7 @@
           "visible": true
         },
         {
-          "selector": ".questions",
+          "selector": ".moments",
           "visible": true
         },
         {
@@ -126,7 +126,7 @@
         390,
         844
       ],
-      "height": 1770,
+      "height": 1806,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -146,7 +146,7 @@
           "visible": true
         },
         {
-          "selector": ".questions",
+          "selector": ".moments",
           "visible": true
         },
         {
@@ -165,7 +165,7 @@
         320,
         844
       ],
-      "height": 1715,
+      "height": 1734,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -185,7 +185,7 @@
           "visible": true
         },
         {
-          "selector": ".questions",
+          "selector": ".moments",
           "visible": true
         },
         {
@@ -208,17 +208,17 @@
     {
       "viewport": "desktop",
       "state": "middle",
-      "y": 916
+      "y": 913
     },
     {
       "viewport": "desktop",
       "state": "transition",
-      "y": 511
+      "y": 508
     },
     {
       "viewport": "desktop",
       "state": "ending",
-      "y": 983
+      "y": 1108
     },
     {
       "viewport": "mobile",
@@ -228,17 +228,17 @@
     {
       "viewport": "mobile",
       "state": "middle",
-      "y": 922
+      "y": 787
     },
     {
       "viewport": "mobile",
       "state": "transition",
-      "y": 542
+      "y": 408
     },
     {
       "viewport": "mobile",
       "state": "ending",
-      "y": 926
+      "y": 962
     }
   ],
   "transitions": [
@@ -258,61 +258,61 @@
       "viewport": "desktop",
       "boundary": ".hero",
       "fraction": 0.75,
-      "y": 41
+      "y": 78
     },
     {
       "viewport": "desktop",
-      "boundary": ".questions",
+      "boundary": ".moments",
       "fraction": 0.25,
-      "y": 241
+      "y": 238
     },
     {
       "viewport": "desktop",
-      "boundary": ".questions",
+      "boundary": ".moments",
       "fraction": 0.5,
-      "y": 466
+      "y": 463
     },
     {
       "viewport": "desktop",
-      "boundary": ".questions",
+      "boundary": ".moments",
       "fraction": 0.75,
-      "y": 691
+      "y": 688
     },
     {
       "viewport": "desktop",
       "boundary": "#contact",
       "fraction": 0.25,
-      "y": 815
+      "y": 1060
     },
     {
       "viewport": "desktop",
       "boundary": "#contact",
       "fraction": 0.5,
-      "y": 983
+      "y": 1108
     },
     {
       "viewport": "desktop",
       "boundary": "#contact",
       "fraction": 0.75,
-      "y": 983
+      "y": 1108
     },
     {
       "viewport": "desktop",
       "boundary": "footer",
       "fraction": 0.25,
-      "y": 983
+      "y": 1108
     },
     {
       "viewport": "desktop",
       "boundary": "footer",
       "fraction": 0.5,
-      "y": 983
+      "y": 1108
     },
     {
       "viewport": "desktop",
       "boundary": "footer",
       "fraction": 0.75,
-      "y": 983
+      "y": 1108
     },
     {
       "viewport": "mobile",
@@ -334,99 +334,99 @@
     },
     {
       "viewport": "mobile",
-      "boundary": ".questions",
+      "boundary": ".moments",
       "fraction": 0.25,
-      "y": 289
+      "y": 154
     },
     {
       "viewport": "mobile",
-      "boundary": ".questions",
+      "boundary": ".moments",
       "fraction": 0.5,
-      "y": 500
+      "y": 365
     },
     {
       "viewport": "mobile",
-      "boundary": ".questions",
+      "boundary": ".moments",
       "fraction": 0.75,
-      "y": 711
+      "y": 576
     },
     {
       "viewport": "mobile",
       "boundary": "#contact",
       "fraction": 0.25,
-      "y": 742
+      "y": 848
     },
     {
       "viewport": "mobile",
       "boundary": "#contact",
       "fraction": 0.5,
-      "y": 926
+      "y": 962
     },
     {
       "viewport": "mobile",
       "boundary": "#contact",
       "fraction": 0.75,
-      "y": 926
+      "y": 962
     },
     {
       "viewport": "mobile",
       "boundary": "footer",
       "fraction": 0.25,
-      "y": 926
+      "y": 962
     },
     {
       "viewport": "mobile",
       "boundary": "footer",
       "fraction": 0.5,
-      "y": 926
+      "y": 962
     },
     {
       "viewport": "mobile",
       "boundary": "footer",
       "fraction": 0.75,
-      "y": 926
+      "y": 962
     }
   ],
   "arbitrary": [
     {
       "viewport": "desktop",
       "fraction": 0.14,
-      "y": 138
+      "y": 155
     },
     {
       "viewport": "desktop",
       "fraction": 0.37,
-      "y": 364
+      "y": 410
     },
     {
       "viewport": "desktop",
       "fraction": 0.61,
-      "y": 600
+      "y": 676
     },
     {
       "viewport": "desktop",
       "fraction": 0.84,
-      "y": 826
+      "y": 931
     },
     {
       "viewport": "mobile",
       "fraction": 0.14,
-      "y": 130
+      "y": 135
     },
     {
       "viewport": "mobile",
       "fraction": 0.37,
-      "y": 343
+      "y": 356
     },
     {
       "viewport": "mobile",
       "fraction": 0.61,
-      "y": 565
+      "y": 587
     },
     {
       "viewport": "mobile",
       "fraction": 0.84,
-      "y": 778
+      "y": 808
     }
   ],
   "checks": {
@@ -438,31 +438,30 @@
         "valid": true
       },
       {
-        "href": "mailto:hello@example.com?subject=Campovivo%20experience",
+        "href": "#moments",
         "valid": true
       },
       {
         "href": "mailto:hello@example.com?subject=Campovivo%20experience",
-        "valid": true
-      },
-      {
-        "href": "#experience",
         "valid": true
       },
       {
         "href": "mailto:hello@example.com",
         "valid": true
+      },
+      {
+        "href": "#experience",
+        "valid": true
       }
     ],
-    "disclosures": 4,
-    "keyboard": true,
+    "disclosures": 0,
     "reduced": true,
     "noScript": {
       "viewport": [
         1440,
         900
       ],
-      "height": 2012,
+      "height": 2008,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -482,7 +481,7 @@
           "visible": true
         },
         {
-          "selector": ".questions",
+          "selector": ".moments",
           "visible": true
         },
         {
@@ -495,19 +494,9 @@
         }
       ]
     },
-    "touch": [
-      {
-        "type": "touch",
-        "trusted": true
-      },
-      {
-        "type": "touch",
-        "trusted": true
-      }
-    ],
-    "touchScroll": 506
+    "touchScroll": 505
   },
   "errors": [],
   "result": "passed-observable-checks",
-  "finished": "2026-10-09T01:57:16.066Z"
+  "finished": "2026-10-11T16:38:13.670Z"
 }

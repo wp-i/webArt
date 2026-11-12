@@ -1,0 +1,8 @@
+{
+  "input": ".webart/quality-packets/1b7cc200-a25a-47eb-abf6-123184ca92c2/input.json",
+  "comparison": ".webart/quality-packets/1b7cc200-a25a-47eb-abf6-123184ca92c2/comparison.html",
+  "key": ".webart/quality-packets/1b7cc200-a25a-47eb-abf6-123184ca92c2/key.json",
+  "inputSha256": "b6cf1e1835ff05166dc914dc97f6c6c7bd23fa7c85fbb4b8a2b792d46a2d1917",
+  "subjects": 6,
+  "limitations": "Private evidence input only; does not call a model or prove aesthetic quality. Keep the mapping key out of the reviewer context."
+}

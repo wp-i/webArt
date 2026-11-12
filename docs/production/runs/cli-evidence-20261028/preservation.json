@@ -1,0 +1,1930 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Byte-preserved existing CLI executions and newly derived portable consumption receipts; no new model call",
+  "createdAt": "2026-10-27T17:00:33.026Z",
+  "copies": [
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/events.jsonl",
+        "sha256": "a81a6011859284e2854b38458f0e22cb4c86c9cb9af10c27bf66b1a945fbc7a6"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/events.jsonl",
+        "sha256": "a81a6011859284e2854b38458f0e22cb4c86c9cb9af10c27bf66b1a945fbc7a6"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/failure.json",
+        "sha256": "2d469cacb24dc575625934133e41ca0954a1256d1fdda805b0cc13b428dc5dce"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/failure.json",
+        "sha256": "2d469cacb24dc575625934133e41ca0954a1256d1fdda805b0cc13b428dc5dce"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/feature-probe.json",
+        "sha256": "c471f302e7856fb3afa7b7c27f6a02fd91a31bbf3da853246e12c0e7aebab76a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/feature-probe.json",
+        "sha256": "c471f302e7856fb3afa7b7c27f6a02fd91a31bbf3da853246e12c0e7aebab76a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/feature-probe.stderr.txt",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/feature-probe.stderr.txt",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/feature-probe.stdout.txt",
+        "sha256": "20d30165a0ac14e0286acaa8d324b3287b9eeebe7e075936f9f6914cbc43f366"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/feature-probe.stdout.txt",
+        "sha256": "20d30165a0ac14e0286acaa8d324b3287b9eeebe7e075936f9f6914cbc43f366"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/private-source-map.json",
+        "sha256": "b879a21be23d9da9c8cc8ebd1a1185423a2035673a915ba20bae4fc9f86f06fd"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/private-source-map.json",
+        "sha256": "b879a21be23d9da9c8cc8ebd1a1185423a2035673a915ba20bae4fc9f86f06fd"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/process.json",
+        "sha256": "db3f215e1f4beee1418bf9ad2e6fb4986761972e6064249a1df1197d0100617b"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/process.json",
+        "sha256": "db3f215e1f4beee1418bf9ad2e6fb4986761972e6064249a1df1197d0100617b"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/prompt.txt",
+        "sha256": "4e8fe8756f3d23b9f9d01a17e44dda2b571619e0f0b4df1500ad18c6c100d045"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/prompt.txt",
+        "sha256": "4e8fe8756f3d23b9f9d01a17e44dda2b571619e0f0b4df1500ad18c6c100d045"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/request.json",
+        "sha256": "523a4e983f6fc9bceb8774b9adb273fa03e498599e2850444a77644d667b43b6"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/request.json",
+        "sha256": "523a4e983f6fc9bceb8774b9adb273fa03e498599e2850444a77644d667b43b6"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/response.json",
+        "sha256": "92d5f6ae29322e438f9b35867468741c7750b87276b76baa2ec7cb3ff3d782fd"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/response.json",
+        "sha256": "92d5f6ae29322e438f9b35867468741c7750b87276b76baa2ec7cb3ff3d782fd"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/stderr.txt",
+        "sha256": "558a1cc173977e176d62aece0c77cc230710487d1c3565786056611e2d6c89b7"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/stderr.txt",
+        "sha256": "558a1cc173977e176d62aece0c77cc230710487d1c3565786056611e2d6c89b7"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/version.stderr.txt",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/version.stderr.txt",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/version.stdout.txt",
+        "sha256": "230c7fb4eaba503976290892b76e256e03f47a421b784363888ac852cceeb4cf"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/version.stdout.txt",
+        "sha256": "230c7fb4eaba503976290892b76e256e03f47a421b784363888ac852cceeb4cf"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/000.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/000.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/001.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/001.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/002.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/002.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/003.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/003.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/004.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/004.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/005.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/005.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/006.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/006.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/007.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/007.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/008.png",
+        "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/008.png",
+        "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/009.png",
+        "sha256": "ed1fd1ce2b24d92a65136664902601cd488c98fa16394c3b99301d0330df1e8f"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/009.png",
+        "sha256": "ed1fd1ce2b24d92a65136664902601cd488c98fa16394c3b99301d0330df1e8f"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/010.png",
+        "sha256": "88cf9cb0605777251c76626a66765c25179fa1cddd526e2cee2472a525f1f813"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/010.png",
+        "sha256": "88cf9cb0605777251c76626a66765c25179fa1cddd526e2cee2472a525f1f813"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/011.png",
+        "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/011.png",
+        "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/012.png",
+        "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/012.png",
+        "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/013.png",
+        "sha256": "250546a585a19eccdc9943ff412525f4ea1f3721e96c6d503c95d84ee5a26888"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/013.png",
+        "sha256": "250546a585a19eccdc9943ff412525f4ea1f3721e96c6d503c95d84ee5a26888"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/014.png",
+        "sha256": "5b15f3778491fa59b09793385cec86c56ff1e583204e4eca4663fb509566bcb7"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/014.png",
+        "sha256": "5b15f3778491fa59b09793385cec86c56ff1e583204e4eca4663fb509566bcb7"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/015.png",
+        "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/015.png",
+        "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/016.png",
+        "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/016.png",
+        "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/017.png",
+        "sha256": "79225b087a2179d007d2bb13d0293391e1426073913a399df1a0d8b7c642ad58"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/017.png",
+        "sha256": "79225b087a2179d007d2bb13d0293391e1426073913a399df1a0d8b7c642ad58"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/018.png",
+        "sha256": "2cecfa82a5723f3357fe5517a1c087d409ae32b3423d7c553f64a2a4d2fff7ba"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/018.png",
+        "sha256": "2cecfa82a5723f3357fe5517a1c087d409ae32b3423d7c553f64a2a4d2fff7ba"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/019.png",
+        "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/019.png",
+        "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/020.png",
+        "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/020.png",
+        "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/021.png",
+        "sha256": "107d89b7bf04722fbe9f90e7c797b05a31189dbedaa3ace351325c3974ffa5d5"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/021.png",
+        "sha256": "107d89b7bf04722fbe9f90e7c797b05a31189dbedaa3ace351325c3974ffa5d5"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/022.png",
+        "sha256": "2e32bfffef0cd0be6322ace9c614740bf8caf38addbfa93d072cff3f00929edb"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/022.png",
+        "sha256": "2e32bfffef0cd0be6322ace9c614740bf8caf38addbfa93d072cff3f00929edb"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/023.png",
+        "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/023.png",
+        "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/024.png",
+        "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/024.png",
+        "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/025.png",
+        "sha256": "fe8aeee474c125ff4803387be57cfcc0d97de139ce10637185050526374dd35b"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/025.png",
+        "sha256": "fe8aeee474c125ff4803387be57cfcc0d97de139ce10637185050526374dd35b"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/026.png",
+        "sha256": "6f289796234c1b4f0a41c683897a81f23c0d5e70c16ad3cf93994fe1b58c2e20"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/026.png",
+        "sha256": "6f289796234c1b4f0a41c683897a81f23c0d5e70c16ad3cf93994fe1b58c2e20"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/027.png",
+        "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/027.png",
+        "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/028.png",
+        "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/028.png",
+        "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/029.png",
+        "sha256": "725d0ce2e02aad7abf3c22717d8a117fa24a847fa4225e15b68f054a1591127e"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/029.png",
+        "sha256": "725d0ce2e02aad7abf3c22717d8a117fa24a847fa4225e15b68f054a1591127e"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/030.png",
+        "sha256": "76ade37796cb70b5519c410b1b046729f5a7d33a5423e87ca16808ad0e777234"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/030.png",
+        "sha256": "76ade37796cb70b5519c410b1b046729f5a7d33a5423e87ca16808ad0e777234"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/031.png",
+        "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/031.png",
+        "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/032.png",
+        "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/032.png",
+        "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/033.png",
+        "sha256": "656cf2ba107a86312b4d986733b6133928e043d50a9520fcc6bb43e6bd48da2a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/033.png",
+        "sha256": "656cf2ba107a86312b4d986733b6133928e043d50a9520fcc6bb43e6bd48da2a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/034.png",
+        "sha256": "4d8c3010953e979b1ea8822cf71f9ff8c567f851ad9e0c20062aa57000bba907"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/034.png",
+        "sha256": "4d8c3010953e979b1ea8822cf71f9ff8c567f851ad9e0c20062aa57000bba907"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/035.png",
+        "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/035.png",
+        "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/036.png",
+        "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/036.png",
+        "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/037.png",
+        "sha256": "f06e68c4a582bd4676403cd01d98f144581d049d40a8839459b600f06408ca9c"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/037.png",
+        "sha256": "f06e68c4a582bd4676403cd01d98f144581d049d40a8839459b600f06408ca9c"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/038.png",
+        "sha256": "9ce0ea2a19b47b9cc09abf49312165e65fd69f762f9ee2663159a09f02d3c41c"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/038.png",
+        "sha256": "9ce0ea2a19b47b9cc09abf49312165e65fd69f762f9ee2663159a09f02d3c41c"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/039.png",
+        "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/039.png",
+        "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/040.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/040.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/041.png",
+        "sha256": "096b1dba498c71a836865f71b728f2edfb30320c3378dce425a8001336c42aa1"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/041.png",
+        "sha256": "096b1dba498c71a836865f71b728f2edfb30320c3378dce425a8001336c42aa1"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/042.png",
+        "sha256": "212b9f29139e99ce7c10f7a9ebb194982adabe950e092dc887215c2edf9c467d"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/042.png",
+        "sha256": "212b9f29139e99ce7c10f7a9ebb194982adabe950e092dc887215c2edf9c467d"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/043.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/043.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/044.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/044.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/045.png",
+        "sha256": "23fe83b3fa2ad42d36f02147b08f02ed403f68b675f19f980d8aed983549ec9a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/045.png",
+        "sha256": "23fe83b3fa2ad42d36f02147b08f02ed403f68b675f19f980d8aed983549ec9a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/046.png",
+        "sha256": "44ee25ef006f9d461bdfcf0f19fad7222a18ddb3170850f31d18d80eff5f9150"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/046.png",
+        "sha256": "44ee25ef006f9d461bdfcf0f19fad7222a18ddb3170850f31d18d80eff5f9150"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/01-calibration-df0c9980b5/inputs/047.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/047.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/events.jsonl",
+        "sha256": "2d11ff1effa7953fb9f9533cf4df76fbf1c8355f47bf919b52ea083f532eea17"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/events.jsonl",
+        "sha256": "2d11ff1effa7953fb9f9533cf4df76fbf1c8355f47bf919b52ea083f532eea17"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/feature-probe.json",
+        "sha256": "c471f302e7856fb3afa7b7c27f6a02fd91a31bbf3da853246e12c0e7aebab76a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/feature-probe.json",
+        "sha256": "c471f302e7856fb3afa7b7c27f6a02fd91a31bbf3da853246e12c0e7aebab76a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/feature-probe.stderr.txt",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/feature-probe.stderr.txt",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/feature-probe.stdout.txt",
+        "sha256": "20d30165a0ac14e0286acaa8d324b3287b9eeebe7e075936f9f6914cbc43f366"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/feature-probe.stdout.txt",
+        "sha256": "20d30165a0ac14e0286acaa8d324b3287b9eeebe7e075936f9f6914cbc43f366"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/private-source-map.json",
+        "sha256": "0694e0c62d0a21d527659e76d22233a600b7cf6bd78cedadced178bc4e442402"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/private-source-map.json",
+        "sha256": "0694e0c62d0a21d527659e76d22233a600b7cf6bd78cedadced178bc4e442402"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/process.json",
+        "sha256": "dbaca72e3456c71a6ab006a4174d05c8f822c52bdfcb1282e2d173425f7099e2"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/process.json",
+        "sha256": "dbaca72e3456c71a6ab006a4174d05c8f822c52bdfcb1282e2d173425f7099e2"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/prompt.txt",
+        "sha256": "a60c0c07f5c127c0f493244abbe1f0a31bf440882ace3a0618f06d8d7e327693"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/prompt.txt",
+        "sha256": "a60c0c07f5c127c0f493244abbe1f0a31bf440882ace3a0618f06d8d7e327693"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/receipt.json",
+        "sha256": "772cf9c4e5c3b73e263f3086c0b18fe958b40dbee31fb8d7280392b2a02c2a64"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/receipt.json",
+        "sha256": "772cf9c4e5c3b73e263f3086c0b18fe958b40dbee31fb8d7280392b2a02c2a64"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/request.json",
+        "sha256": "d68daeb09d7a422618bfd09142bc7a6c2eb33dbad4dff0605e5053663d533c4d"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/request.json",
+        "sha256": "d68daeb09d7a422618bfd09142bc7a6c2eb33dbad4dff0605e5053663d533c4d"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/response.json",
+        "sha256": "713b57145a174987243a4347015356cd6c329a4e25e4dec48d93f2cd3a671f87"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/response.json",
+        "sha256": "713b57145a174987243a4347015356cd6c329a4e25e4dec48d93f2cd3a671f87"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/stderr.txt",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/stderr.txt",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/version.stderr.txt",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/version.stderr.txt",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/version.stdout.txt",
+        "sha256": "230c7fb4eaba503976290892b76e256e03f47a421b784363888ac852cceeb4cf"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/version.stdout.txt",
+        "sha256": "230c7fb4eaba503976290892b76e256e03f47a421b784363888ac852cceeb4cf"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/000.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/000.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/001.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/001.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/002.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/002.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/003.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/003.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/004.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/004.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/005.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/005.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/006.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/006.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/007.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/007.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/008.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/008.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/009.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/009.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/010.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/010.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/011.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/011.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/012.jpg",
+        "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/012.jpg",
+        "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/013.jpg",
+        "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/013.jpg",
+        "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/014.jpg",
+        "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/014.jpg",
+        "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/015.jpg",
+        "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/015.jpg",
+        "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/016.jpg",
+        "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/016.jpg",
+        "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/017.jpg",
+        "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/017.jpg",
+        "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/018.jpg",
+        "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/018.jpg",
+        "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/019.jpg",
+        "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/019.jpg",
+        "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/020.jpg",
+        "sha256": "739a02c2055aa357ecca279de62decbd973a34e8f5f47d32eeaf794b5e16e654"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/020.jpg",
+        "sha256": "739a02c2055aa357ecca279de62decbd973a34e8f5f47d32eeaf794b5e16e654"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/021.jpg",
+        "sha256": "25b0e1d2adfe862392c6f04bc83e8cd22936dcd94ecf947ffd0b8ab65b43ca20"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/021.jpg",
+        "sha256": "25b0e1d2adfe862392c6f04bc83e8cd22936dcd94ecf947ffd0b8ab65b43ca20"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/022.jpg",
+        "sha256": "5195471dbd063328797812719b3eb913838a6cd3668092857f6d7d3009d22417"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/022.jpg",
+        "sha256": "5195471dbd063328797812719b3eb913838a6cd3668092857f6d7d3009d22417"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/023.jpg",
+        "sha256": "44f1688eab967e1d71062473ae3f186bc22abe2505b8162eab5b746f3e4521f0"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/023.jpg",
+        "sha256": "44f1688eab967e1d71062473ae3f186bc22abe2505b8162eab5b746f3e4521f0"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/024.jpg",
+        "sha256": "e961657678610ff148f82c2e4f3b479b01621cd60096edbd2c1460add63c0d09"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/024.jpg",
+        "sha256": "e961657678610ff148f82c2e4f3b479b01621cd60096edbd2c1460add63c0d09"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/025.jpg",
+        "sha256": "47fa1c2fc55488db20558674fba9d54d81781858026be92d92db9ef0fe424bfc"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/025.jpg",
+        "sha256": "47fa1c2fc55488db20558674fba9d54d81781858026be92d92db9ef0fe424bfc"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/026.jpg",
+        "sha256": "28a65dcc1f95f09734a6c169a5d8d4c78b8b8670b85753ee75eed2cee2ae9218"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/026.jpg",
+        "sha256": "28a65dcc1f95f09734a6c169a5d8d4c78b8b8670b85753ee75eed2cee2ae9218"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/027.jpg",
+        "sha256": "a439f8d71c4cc3f9b86a9180bd42487c0192e84869e9318145c0641ee87e8147"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/027.jpg",
+        "sha256": "a439f8d71c4cc3f9b86a9180bd42487c0192e84869e9318145c0641ee87e8147"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/028.jpg",
+        "sha256": "2b81a36a59eed52ac8af38c75309a65152203e3f9deb81478716c05f105e9a9d"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/028.jpg",
+        "sha256": "2b81a36a59eed52ac8af38c75309a65152203e3f9deb81478716c05f105e9a9d"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/029.jpg",
+        "sha256": "8f0be865dcf49da1976c082dda476c29c20e15aaca9a546cd34083064e7bc126"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/029.jpg",
+        "sha256": "8f0be865dcf49da1976c082dda476c29c20e15aaca9a546cd34083064e7bc126"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/030.jpg",
+        "sha256": "ee9c60332799b0ca1d77f50d2dc8a0c324335da4ec15c272080d9a3e2803e48c"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/030.jpg",
+        "sha256": "ee9c60332799b0ca1d77f50d2dc8a0c324335da4ec15c272080d9a3e2803e48c"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/031.jpg",
+        "sha256": "a5c35efb85cb170b4396cd6ec3755610a7c2d1a3f8e81ddab8414a9479040c60"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/031.jpg",
+        "sha256": "a5c35efb85cb170b4396cd6ec3755610a7c2d1a3f8e81ddab8414a9479040c60"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/032.jpg",
+        "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/032.jpg",
+        "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/033.jpg",
+        "sha256": "1f489f1a2e22a28bdf988729c1f698a0d502be26678c0216b7b915013a1d7c0c"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/033.jpg",
+        "sha256": "1f489f1a2e22a28bdf988729c1f698a0d502be26678c0216b7b915013a1d7c0c"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/034.jpg",
+        "sha256": "68f4a9b35493fb4763224457110a47848bf60339ea14cdd55c8ef772abe31362"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/034.jpg",
+        "sha256": "68f4a9b35493fb4763224457110a47848bf60339ea14cdd55c8ef772abe31362"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/035.jpg",
+        "sha256": "7aabef0ee91a6733c4de3b0e950d100602d0eee32ca19816fafdbffb06d91868"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/035.jpg",
+        "sha256": "7aabef0ee91a6733c4de3b0e950d100602d0eee32ca19816fafdbffb06d91868"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/036.jpg",
+        "sha256": "2ce438ee99071b222822f264ce39aa032e7234c9684dfb46418a6b2813eb26db"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/036.jpg",
+        "sha256": "2ce438ee99071b222822f264ce39aa032e7234c9684dfb46418a6b2813eb26db"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/037.jpg",
+        "sha256": "998fef6430874eaadc6b7426c0c3a77813479aa662a6e5121768e2916a8f8b03"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/037.jpg",
+        "sha256": "998fef6430874eaadc6b7426c0c3a77813479aa662a6e5121768e2916a8f8b03"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/038.jpg",
+        "sha256": "5c71abf42ee14155a41fcf8f0129deb6d7b8577614ab217dc8e2de41abda7924"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/038.jpg",
+        "sha256": "5c71abf42ee14155a41fcf8f0129deb6d7b8577614ab217dc8e2de41abda7924"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/039.jpg",
+        "sha256": "ed7adf3cd128a1f09ee65a15cba3fecb71b42a53633efff1b1b1f13788d575a1"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/039.jpg",
+        "sha256": "ed7adf3cd128a1f09ee65a15cba3fecb71b42a53633efff1b1b1f13788d575a1"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/040.jpg",
+        "sha256": "989984f0b181a8129fa120236b5794dd5e1c7d525417709daf1a02b289df6cd2"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/040.jpg",
+        "sha256": "989984f0b181a8129fa120236b5794dd5e1c7d525417709daf1a02b289df6cd2"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/041.jpg",
+        "sha256": "8b01e2cbf2e4589f7ffd6c8ca8a845d08d8dd61757d9443003ced8874afcee8a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/041.jpg",
+        "sha256": "8b01e2cbf2e4589f7ffd6c8ca8a845d08d8dd61757d9443003ced8874afcee8a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/042.jpg",
+        "sha256": "91667254ff09376740d881f5d63f437b835c2a2b1d3070360b30f3f42e35bba1"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/042.jpg",
+        "sha256": "91667254ff09376740d881f5d63f437b835c2a2b1d3070360b30f3f42e35bba1"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/043.jpg",
+        "sha256": "ec47c1b956f0a4d56baa771882f57e74033ac84bf0953d6422ded4d98fbe3e14"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/043.jpg",
+        "sha256": "ec47c1b956f0a4d56baa771882f57e74033ac84bf0953d6422ded4d98fbe3e14"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/044.jpg",
+        "sha256": "44af330c661f74f11a0520148c6640515ab7746bd1b2454c783d438d217c5c82"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/044.jpg",
+        "sha256": "44af330c661f74f11a0520148c6640515ab7746bd1b2454c783d438d217c5c82"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/045.jpg",
+        "sha256": "44e35ba101177bee8a424417f87221b07c2dfc10e1203e0a6726d1bb7beca785"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/045.jpg",
+        "sha256": "44e35ba101177bee8a424417f87221b07c2dfc10e1203e0a6726d1bb7beca785"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/046.jpg",
+        "sha256": "da9663bf00f87cee31f08a0f4f57837100cde8445bb7f8d4d60671793414bd22"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/046.jpg",
+        "sha256": "da9663bf00f87cee31f08a0f4f57837100cde8445bb7f8d4d60671793414bd22"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/047.jpg",
+        "sha256": "d97f634a6a7a711ce94f42641dd3471f954f82d172c842b677a77c13147b15be"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/047.jpg",
+        "sha256": "d97f634a6a7a711ce94f42641dd3471f954f82d172c842b677a77c13147b15be"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/048.jpg",
+        "sha256": "fed815397ceaa74dbe5bfb58c97ec8744529ad79360977071fd3d6549920c718"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/048.jpg",
+        "sha256": "fed815397ceaa74dbe5bfb58c97ec8744529ad79360977071fd3d6549920c718"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/049.jpg",
+        "sha256": "d7cf33d42fcf0876c99fde7d933dcef8a3b723bfceea036f2470b0b03c29f2a2"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/049.jpg",
+        "sha256": "d7cf33d42fcf0876c99fde7d933dcef8a3b723bfceea036f2470b0b03c29f2a2"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/050.jpg",
+        "sha256": "a1103ebb733e88f1f2c353734f6860f2b6e0fc51acc0dbccb9f486cae36cf108"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/050.jpg",
+        "sha256": "a1103ebb733e88f1f2c353734f6860f2b6e0fc51acc0dbccb9f486cae36cf108"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/051.jpg",
+        "sha256": "7f8cb876990dc331f22a252bc9e529947d46aec859ed6fb9a5967a1fef7500c4"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/051.jpg",
+        "sha256": "7f8cb876990dc331f22a252bc9e529947d46aec859ed6fb9a5967a1fef7500c4"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/052.jpg",
+        "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/052.jpg",
+        "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/053.jpg",
+        "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/053.jpg",
+        "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/054.jpg",
+        "sha256": "ce22e0777277c8ca3b325932f06333e51737b98b1a40f8a82c25e81e37cdf048"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/054.jpg",
+        "sha256": "ce22e0777277c8ca3b325932f06333e51737b98b1a40f8a82c25e81e37cdf048"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/055.jpg",
+        "sha256": "77f11466a70522d723d2763e6e1cf67e430b4dbd541f99524134fd04da292878"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/055.jpg",
+        "sha256": "77f11466a70522d723d2763e6e1cf67e430b4dbd541f99524134fd04da292878"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/056.jpg",
+        "sha256": "44c3fe075313e662d3a732b540bd886d011e88bf38397d95008ff22a1dd7d2b0"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/056.jpg",
+        "sha256": "44c3fe075313e662d3a732b540bd886d011e88bf38397d95008ff22a1dd7d2b0"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/057.jpg",
+        "sha256": "9f4a43508f49d5cbb5e034c537c41ee553617fccda1b95b35a19893397e0e6ce"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/057.jpg",
+        "sha256": "9f4a43508f49d5cbb5e034c537c41ee553617fccda1b95b35a19893397e0e6ce"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/058.jpg",
+        "sha256": "42deb7fe80ee46f972cae42d642caee561e09764717441e6d8ee7deec7f9e377"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/058.jpg",
+        "sha256": "42deb7fe80ee46f972cae42d642caee561e09764717441e6d8ee7deec7f9e377"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/059.jpg",
+        "sha256": "1a94a7587f452afedf84d5475a20e5b09c7061cd6c9090cc0fddc5d16aaad5f1"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/059.jpg",
+        "sha256": "1a94a7587f452afedf84d5475a20e5b09c7061cd6c9090cc0fddc5d16aaad5f1"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/060.jpg",
+        "sha256": "292b940660bda72b3c69522de4f886528484c8dba79a554b055306deb19049b7"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/060.jpg",
+        "sha256": "292b940660bda72b3c69522de4f886528484c8dba79a554b055306deb19049b7"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/061.jpg",
+        "sha256": "07fa257593e5c3bec23859a20a1fed5671f83e953b30f522da23b997a75115a0"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/061.jpg",
+        "sha256": "07fa257593e5c3bec23859a20a1fed5671f83e953b30f522da23b997a75115a0"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/062.jpg",
+        "sha256": "9c87bc0c3c861461dd64e04f681b12fb61d68248e76364c123a343d5573079dc"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/062.jpg",
+        "sha256": "9c87bc0c3c861461dd64e04f681b12fb61d68248e76364c123a343d5573079dc"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/063.jpg",
+        "sha256": "70f12488fddc30dbb6b710d81a9688f06fcddaca1b2e7ba89de9a392094c8f29"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/063.jpg",
+        "sha256": "70f12488fddc30dbb6b710d81a9688f06fcddaca1b2e7ba89de9a392094c8f29"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/064.jpg",
+        "sha256": "73d4017f6d393af5906628a90080841f1f10d3cbec192252377bb6b8406dae72"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/064.jpg",
+        "sha256": "73d4017f6d393af5906628a90080841f1f10d3cbec192252377bb6b8406dae72"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/065.jpg",
+        "sha256": "ff2b63a6207c92c0331b08e53f84a2719cb39bd78325329fec182f5dbac64f5a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/065.jpg",
+        "sha256": "ff2b63a6207c92c0331b08e53f84a2719cb39bd78325329fec182f5dbac64f5a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/066.jpg",
+        "sha256": "c83ed17bfe0527ab9745f86bb3a472184c3f3938e76a8ba0c23d126f1fabe71b"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/066.jpg",
+        "sha256": "c83ed17bfe0527ab9745f86bb3a472184c3f3938e76a8ba0c23d126f1fabe71b"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/067.jpg",
+        "sha256": "bb674aaa592713dd55c2d038affe60d18734d3ead6ffce432a4f485f266fd4d2"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/067.jpg",
+        "sha256": "bb674aaa592713dd55c2d038affe60d18734d3ead6ffce432a4f485f266fd4d2"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/068.jpg",
+        "sha256": "e0b8059444fc00c5f6126425958dfa9ef2ea876f35cf3866872d13ed5a16ed05"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/068.jpg",
+        "sha256": "e0b8059444fc00c5f6126425958dfa9ef2ea876f35cf3866872d13ed5a16ed05"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/069.jpg",
+        "sha256": "6bff0adaf4adbb7e4edb5d138ba885b7d24fb8b0ca2e0acce8c5fd087851aa02"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/069.jpg",
+        "sha256": "6bff0adaf4adbb7e4edb5d138ba885b7d24fb8b0ca2e0acce8c5fd087851aa02"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/070.jpg",
+        "sha256": "3a66af653e25295ccde18b0025da11f1a22f4b98d2655572836b884bc61a4044"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/070.jpg",
+        "sha256": "3a66af653e25295ccde18b0025da11f1a22f4b98d2655572836b884bc61a4044"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/071.jpg",
+        "sha256": "ba8d8c2653c1d45c458f9cd6ff9bcedc114834d9fd10bb2de28ed0eaa7cff9cd"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/071.jpg",
+        "sha256": "ba8d8c2653c1d45c458f9cd6ff9bcedc114834d9fd10bb2de28ed0eaa7cff9cd"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/072.jpg",
+        "sha256": "30b2691d01763a79d3d516f7381187e33fc27b6cecd4899feaaca459434e8db0"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/072.jpg",
+        "sha256": "30b2691d01763a79d3d516f7381187e33fc27b6cecd4899feaaca459434e8db0"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/073.jpg",
+        "sha256": "11fcd22f085a6e1ef86de922474ce5e6997422261f0cb1a3c7741bad4390bdff"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/073.jpg",
+        "sha256": "11fcd22f085a6e1ef86de922474ce5e6997422261f0cb1a3c7741bad4390bdff"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/074.jpg",
+        "sha256": "f92ceb7598dd1b2ad0fbc01e982542ea323f2d8341089ac109d087f6292527d3"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/074.jpg",
+        "sha256": "f92ceb7598dd1b2ad0fbc01e982542ea323f2d8341089ac109d087f6292527d3"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/075.jpg",
+        "sha256": "6db6e1f3ea4711b045796b81976663addf1980feb5607ec5d7343992d313a7b1"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/075.jpg",
+        "sha256": "6db6e1f3ea4711b045796b81976663addf1980feb5607ec5d7343992d313a7b1"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/076.jpg",
+        "sha256": "f73274c50a51556f21fbf027b6170b7b231ef7f806801100ee56625e5d9648a3"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/076.jpg",
+        "sha256": "f73274c50a51556f21fbf027b6170b7b231ef7f806801100ee56625e5d9648a3"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/077.jpg",
+        "sha256": "caf6018d66f100fd37920107fc51ce980fb7a4ffa71e4c6ac2250fd8e1c0157f"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/077.jpg",
+        "sha256": "caf6018d66f100fd37920107fc51ce980fb7a4ffa71e4c6ac2250fd8e1c0157f"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/078.jpg",
+        "sha256": "7bddafa3ed3837316ea762e90c757e523c9c5f2062d0f48ffa439e5950c169f2"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/078.jpg",
+        "sha256": "7bddafa3ed3837316ea762e90c757e523c9c5f2062d0f48ffa439e5950c169f2"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/079.jpg",
+        "sha256": "9e3fb5abb89c74405787c196a2f27ab153c692b97d0ea77aa8bf9578ac0342c2"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/079.jpg",
+        "sha256": "9e3fb5abb89c74405787c196a2f27ab153c692b97d0ea77aa8bf9578ac0342c2"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/080.jpg",
+        "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/080.jpg",
+        "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/081.jpg",
+        "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/081.jpg",
+        "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/082.jpg",
+        "sha256": "ae527a0f020979dedd164fd9fd13ba85e65b88e616a3ccb379fcb6719cb7cc75"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/082.jpg",
+        "sha256": "ae527a0f020979dedd164fd9fd13ba85e65b88e616a3ccb379fcb6719cb7cc75"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/083.jpg",
+        "sha256": "ef3592b21e12f38ffa0532cb914616747b85dabb9abc425a15df9b4e48f6e4fd"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/083.jpg",
+        "sha256": "ef3592b21e12f38ffa0532cb914616747b85dabb9abc425a15df9b4e48f6e4fd"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/084.jpg",
+        "sha256": "356c887dcb41314b7c4db19f14da403d764bedd59126f79dea47653f0224e881"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/084.jpg",
+        "sha256": "356c887dcb41314b7c4db19f14da403d764bedd59126f79dea47653f0224e881"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/085.jpg",
+        "sha256": "90c6442310b818a5f939e458264cf3340f6885431bcdbab37a08a570606717c5"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/085.jpg",
+        "sha256": "90c6442310b818a5f939e458264cf3340f6885431bcdbab37a08a570606717c5"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/086.jpg",
+        "sha256": "d233f2f6190200880ec8f49597ae46aa1046256303a7c7dca93a0232b6e70fbb"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/086.jpg",
+        "sha256": "d233f2f6190200880ec8f49597ae46aa1046256303a7c7dca93a0232b6e70fbb"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/087.jpg",
+        "sha256": "b4d0ba98f3ddd44f9b90489701c1ac4ccf225a6b295bcfcf7cb250da95f61bcb"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/087.jpg",
+        "sha256": "b4d0ba98f3ddd44f9b90489701c1ac4ccf225a6b295bcfcf7cb250da95f61bcb"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/088.jpg",
+        "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/088.jpg",
+        "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/089.jpg",
+        "sha256": "1872e866c4692e896218fc63e9637eb5e4fea9869610134c57509065404419ff"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/089.jpg",
+        "sha256": "1872e866c4692e896218fc63e9637eb5e4fea9869610134c57509065404419ff"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/090.jpg",
+        "sha256": "467c8e8a879bacc4f88a82c2e98951b87bdaccaba0dbb80f567c89df8eb400c8"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/090.jpg",
+        "sha256": "467c8e8a879bacc4f88a82c2e98951b87bdaccaba0dbb80f567c89df8eb400c8"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/091.jpg",
+        "sha256": "18eef7ea726189a67f7e3d7b17c39cad2939af6512ee761b963d177b4383a090"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/091.jpg",
+        "sha256": "18eef7ea726189a67f7e3d7b17c39cad2939af6512ee761b963d177b4383a090"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/092.jpg",
+        "sha256": "8929ff25fb813304b11519cb863098fcf6cdf0f1ddac8be4cfa7abbf099ddc77"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/092.jpg",
+        "sha256": "8929ff25fb813304b11519cb863098fcf6cdf0f1ddac8be4cfa7abbf099ddc77"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/093.jpg",
+        "sha256": "e83480e2a1320197e00b7feeb5a57882bd187acb159646be8adb92fd5591ae80"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/093.jpg",
+        "sha256": "e83480e2a1320197e00b7feeb5a57882bd187acb159646be8adb92fd5591ae80"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/094.jpg",
+        "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/094.jpg",
+        "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/095.jpg",
+        "sha256": "7c16b5a5774d2593c3863b2bbf6c591f7f31f75eee40da0ad6449e755713ac26"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/095.jpg",
+        "sha256": "7c16b5a5774d2593c3863b2bbf6c591f7f31f75eee40da0ad6449e755713ac26"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/096.jpg",
+        "sha256": "2662750d064b9ca5d3cc453dc0472cbc4dae84c0cf120d015cc61967f2bd830d"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/096.jpg",
+        "sha256": "2662750d064b9ca5d3cc453dc0472cbc4dae84c0cf120d015cc61967f2bd830d"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/097.jpg",
+        "sha256": "01251f0fc117a39eb11936c851f562437e0cc957b34082ecd9259e8212a68d35"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/097.jpg",
+        "sha256": "01251f0fc117a39eb11936c851f562437e0cc957b34082ecd9259e8212a68d35"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/098.jpg",
+        "sha256": "6ca7ed91ccb7380da6c07d9a6e88c9b6a612c10422bd922240df17237de24ef8"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/098.jpg",
+        "sha256": "6ca7ed91ccb7380da6c07d9a6e88c9b6a612c10422bd922240df17237de24ef8"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/099.jpg",
+        "sha256": "6d325127b0a9ad464bc58e878a8fe5d4472469b55af6f68d958f4d6e4de3cc96"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/099.jpg",
+        "sha256": "6d325127b0a9ad464bc58e878a8fe5d4472469b55af6f68d958f4d6e4de3cc96"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/100.jpg",
+        "sha256": "bd85ab4b0471dbc2298d0e87e1206793d4d04386f9a4517a941961a65f9e01b9"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/100.jpg",
+        "sha256": "bd85ab4b0471dbc2298d0e87e1206793d4d04386f9a4517a941961a65f9e01b9"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/101.jpg",
+        "sha256": "035c3cfed8175c620e49d53f125a978a1b78dc18d8ae91f133f2570ca77139b7"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/101.jpg",
+        "sha256": "035c3cfed8175c620e49d53f125a978a1b78dc18d8ae91f133f2570ca77139b7"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/102.jpg",
+        "sha256": "29d581174b010eaa430db9e8110bef3f833dd837caa111bc8bf9968095d47675"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/102.jpg",
+        "sha256": "29d581174b010eaa430db9e8110bef3f833dd837caa111bc8bf9968095d47675"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/103.jpg",
+        "sha256": "14a3d8ad0d9c988de4dd90f13a613d8e201fd71cf0d668e7f5a016a9fcbf5c98"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/103.jpg",
+        "sha256": "14a3d8ad0d9c988de4dd90f13a613d8e201fd71cf0d668e7f5a016a9fcbf5c98"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/104.jpg",
+        "sha256": "3b81554dad9da4decfb7c0b70955d31d1e2cc7ee53efef9e954652a8807a908d"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/104.jpg",
+        "sha256": "3b81554dad9da4decfb7c0b70955d31d1e2cc7ee53efef9e954652a8807a908d"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/105.jpg",
+        "sha256": "8fdda56d4a6ab2d9c44c53240f2e1623d1ff1127a80b3ece739ef5799d64237c"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/105.jpg",
+        "sha256": "8fdda56d4a6ab2d9c44c53240f2e1623d1ff1127a80b3ece739ef5799d64237c"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/106.jpg",
+        "sha256": "9bbf190713cf33cb070ac20779836fad5ad3accbdfce628127136c90ba2ab166"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/106.jpg",
+        "sha256": "9bbf190713cf33cb070ac20779836fad5ad3accbdfce628127136c90ba2ab166"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/01-reference-review-c68fb060cf/inputs/107.jpg",
+        "sha256": "c3d578bc00cff184b87326377d82f1876e5d3b6161de71bf04326d5e579617f2"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/inputs/107.jpg",
+        "sha256": "c3d578bc00cff184b87326377d82f1876e5d3b6161de71bf04326d5e579617f2"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/calibration-order-private.json",
+        "sha256": "22dfda053a8b84f54debe5d6f24b5a05720605fecce6b337a35d0489c63810ad"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/history/calibration-order-private.json",
+        "sha256": "22dfda053a8b84f54debe5d6f24b5a05720605fecce6b337a35d0489c63810ad"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/calibration-failure.json",
+        "sha256": "6ee38b3a11f996b4077bf9175c71d1c553bb2254550fe548df50624d14775fdf"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/history/calibration-failure.json",
+        "sha256": "6ee38b3a11f996b4077bf9175c71d1c553bb2254550fe548df50624d14775fdf"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/calibration-observation.json",
+        "sha256": "bf626e6ca066c0f19787bb8e0697237611e2aeab45e24febff61a89129ab371a"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/history/calibration-observation.json",
+        "sha256": "bf626e6ca066c0f19787bb8e0697237611e2aeab45e24febff61a89129ab371a"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-calibration-20261025-20261025145439888/launch.json",
+        "sha256": "104846083cf8db6649e61cb9c6dd371c6a96418626358b4abfbdcc8968442cd1"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/history/launch.json",
+        "sha256": "104846083cf8db6649e61cb9c6dd371c6a96418626358b4abfbdcc8968442cd1"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/dopo-cli-reference-20261027-01/context.json",
+        "sha256": "4031bb9f60a82faf86a36453ab345a138eae5f77d10d1e399e939f564e1c7b8c"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/history/dopo-original-context.json",
+        "sha256": "4031bb9f60a82faf86a36453ab345a138eae5f77d10d1e399e939f564e1c7b8c"
+      }
+    },
+    {
+      "original": {
+        "path": ".webart/cli-review-revalidation-20261026-sZmjiv/receipt.json",
+        "sha256": "0b7e2b64c44f21c432a3b66c5dd8a6c90b6a106d8ea5f7968331920d9e27099c"
+      },
+      "preserved": {
+        "path": "docs/production/runs/cli-evidence-20261028/history/diagnostic-revalidation.json",
+        "sha256": "0b7e2b64c44f21c432a3b66c5dd8a6c90b6a106d8ea5f7968331920d9e27099c"
+      }
+    }
+  ],
+  "results": [
+    {
+      "role": "calibration",
+      "report": {
+        "path": "docs/production/runs/cli-evidence-20261028/calibration-review.json",
+        "sha256": "652aab43797f30b3759b62419a1df6acbeae3e06cf2ba1d7024fcb05db4661ac"
+      },
+      "receipt": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/consumed/receipt.json",
+        "sha256": "fd3ff54a930d57366e4fc918a3c56175fe547cae1c176545d716ac6279186c70"
+      },
+      "originalStartedAt": "2026-10-25T14:54:40.159Z",
+      "threadId": "01a1738e-7e72-7d42-8f45-7d62300f5391",
+      "attachedImageCount": 48,
+      "decision": "six-known-labels-matched",
+      "newCliInvocations": 0,
+      "newModelCalls": 0,
+      "visualAdmissionGranted": false
+    },
+    {
+      "role": "reference-review",
+      "report": {
+        "path": "docs/production/runs/cli-evidence-20261028/dopo-reference-rejected-report.json",
+        "sha256": "f5fc761038845fe759950457fc8943e23a30c3792ea1ba9366ee633280407d92"
+      },
+      "receipt": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/consumed/receipt.json",
+        "sha256": "91e9910583fe2689af5a9b52abf03b81b25c7e422da0784dcff69657c091c996"
+      },
+      "originalStartedAt": "2026-10-27T05:20:03.122Z",
+      "threadId": "01a17bcd-234c-7fd0-9dfe-0ff9e5218c19",
+      "attachedImageCount": 108,
+      "decision": "reject",
+      "newCliInvocations": 0,
+      "newModelCalls": 0,
+      "visualAdmissionGranted": false
+    }
+  ],
+  "originalPendingPreserved": true,
+  "modelIdentityKnown": false,
+  "backendRequestCount": null,
+  "independent": false,
+  "visualAdmissionGranted": false
+}

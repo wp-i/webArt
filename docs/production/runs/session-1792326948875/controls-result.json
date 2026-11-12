@@ -1,0 +1,232 @@
+{
+  "decision": "pass",
+  "responsiveComposition": "pass",
+  "responsiveChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "完整仪表在右侧，短标题在左上，圆周和红色波形均未裁断，顶部探索和底部返回各有独立位置，字与主体比例清楚。",
+      "frames": [
+        "responsive-composition-46"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "斜向展开轴体完整呈现齿圈和板件，左上文字与暖灰轮廓分离，顶部和底部行动没有压住机械主体或画面边缘。",
+      "frames": [
+        "responsive-composition-47"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "蓝色点阵位于完整显示面内，左下标题不遮主体，外圈细刻度和蓝字保持明确层级，底部返回有独立可见位置。",
+      "frames": [
+        "responsive-composition-48"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "绿色对象处于完整仪表内部，左下短标题与释放按钮分离，底部返回完整可见，主视觉及全部行动没有重叠或截断。",
+      "frames": [
+        "responsive-composition-49"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "宽屏保持左上文字与偏右仪表的独立关系，主体圆周完整，顶部探索和底部返回均有适当边距，没有被横向拉伸。",
+      "frames": [
+        "responsive-composition-50"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "宽屏展开装配仍保留清楚斜轴和内部细节，文字与轮廓分开，顶部导航和底部行动处于完整边界内，留白没有破坏主次。",
+      "frames": [
+        "responsive-composition-51"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "宽屏蓝点阵没有脱离圆形外壳，左下蓝色标题与主图保持主次，底部返回完整，画面没有依靠额外文字填空。",
+      "frames": [
+        "responsive-composition-52"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "宽屏结尾的绿色对象、完整壳体和左下标题各有空间，释放按钮可见且没有紧贴主图，底部返回和计数保持完整。",
+      "frames": [
+        "responsive-composition-53"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "平板采用标题在上和完整仪表在下的构图，彩色圆周与波形没有裁断，标题未碰撞主体，底部返回仍处于可见区域。",
+      "frames": [
+        "responsive-composition-54"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "平板机械轴体完整呈现斜向展开，顶部短标题和说明未碰撞板件，底部返回与计数有边距，没有重现旧版主体截断。",
+      "frames": [
+        "responsive-composition-55"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "平板蓝点阵位于大幅完整圆壳内部，上方标题与显示内容分离，底部行动和外圈保持边距，没有把主体压出视口。",
+      "frames": [
+        "responsive-composition-56"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "平板末态的完整壳体和绿色对象保持大幅主体，标题与释放位于上方，底部返回可见，按钮没有遮挡主视觉。",
+      "frames": [
+        "responsive-composition-57"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "手机上方标题与中下完整仪表分离，红色显示面和外圈均有完整边界，底部返回文字没有截掉，默认层级清楚。",
+      "frames": [
+        "responsive-composition-58"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "手机斜向机械展开保持完整齿圈和圆板，短标题在上方且不碰撞主体，底部返回完整，轮廓没有被窄屏裁断。",
+      "frames": [
+        "responsive-composition-59"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "手机蓝点阵和外圈保持完整，标题在独立上方区域，说明短且未溢出，底部返回可见，没有依赖横向滚动。",
+      "frames": [
+        "responsive-composition-60"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "手机绿色操控对象由完整圆壳包围，释放按钮位于标题下方，底部返回与计数未裁断，文字和操控目标不互相遮挡。",
+      "frames": [
+        "responsive-composition-61"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "320窄屏标题保留两行，完整仪表位于中下区域，外圈和红色波形未裁断，底部返回与计数仍能完整阅读。",
+      "frames": [
+        "responsive-composition-62"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "320窄屏展开装配的前后圆板完整，轮廓与上方标题有足够间隔，底部返回没有超出边缘，也没有机械主体截断。",
+      "frames": [
+        "responsive-composition-63"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "320窄屏蓝点阵仍在完整圆壳内，上方两行蓝字和短说明未碰撞，底部行动有独立位置，主次关系保持清楚。",
+      "frames": [
+        "responsive-composition-64"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "320窄屏绿色对象和圆壳保持完整，释放按钮与标题上下分离，返回行动位于底部边界内，没有无效提示遮住主体。",
+      "frames": [
+        "responsive-composition-65"
+      ]
+    }
+  ],
+  "renderingFallback": "pass",
+  "findings": [
+    "已直接复看桌面四个控件及390/320各三个控件的默认、悬停、键盘焦点和实际输入结果。圆形操控对象的焦点环完整，释放的反白状态清楚，返回和探索的焦点边界未裁断。",
+    "已逐张复看五宽度各四状态共20幅实际页面。平板保留完整机械轴体和圆周，320标题、操控对象、释放与返回有独立空间，没有通过无横溢出检查代替构图判断。",
+    "已直接复看创建上下文失败和原生上下文丢失两种情形，各1440/390/320四状态共24幅备用画面。主体、标题和返回完整，备用状态隐藏释放按钮和拖动提示，没有留下依赖动态的无效行动。"
+  ]
+}

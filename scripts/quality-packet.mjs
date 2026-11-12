@@ -1,0 +1,20 @@
+import fs from 'node:fs';import path from 'node:path';import crypto from 'node:crypto';
+import {safeFile,verifyEvidence} from './quality-gate.mjs';
+const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
+const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export function buildQualityPacket(root,capturePath){
+ const report=JSON.parse(fs.readFileSync(safeFile(root,capturePath),'utf8'));if(report.result!=='captured-not-scored'||report.pages.length<2)throw new Error('Use a complete comparison capture');
+ const subjects=[...report.pages];for(let n=subjects.length-1;n>0;n--){const i=crypto.randomInt(n+1);[subjects[n],subjects[i]]=[subjects[i],subjects[n]]}
+ const key=[],cards=[];
+ subjects.forEach((subject,i)=>{
+  const label=String.fromCharCode(65+i);key.push({label,id:subject.id,sourceSha256:subject.sourceSha256});verifyEvidence(root,subject.evidence);
+  const frames=subject.evidence.filter(e=>!e.name.includes('reduced'));const options=frames.map((e,n)=>`<option value="${n}">${escape(e.name)}</option>`).join('');
+  const images=frames.map(e=>'data:image/png;base64,'+fs.readFileSync(safeFile(root,e.path)).toString('base64'));
+  cards.push({label,options,images,frameHashes:frames.map(e=>e.sha256)});
+ });
+ const input={schemaVersion:2,mode:'blind-evidence-only',implementationContextIncluded:false,scoresIncluded:false,costsIncluded:false,labels:cards.map(c=>({label:c.label,frameHashes:c.frameHashes})),instructions:'Compare visual authority, type/media integration, asset specificity, scroll choreography, pointer finish, whole-page resolution and mobile composition. Use peer/below/above and concrete scene evidence. Do not infer quality from motion counts or functional success. Visible site branding remains part of the image; anonymity removes old scores, implementation history and costs.'};
+ const directory=path.join(root,'.webart/quality-packets',crypto.randomUUID());fs.mkdirSync(directory,{recursive:true});
+ const html=`<!doctype html><html lang="zh"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>视觉对照证据</title><style>body{margin:0;padding:28px;background:#ddd;font:14px system-ui;color:#111}h1{font-size:22px}main{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}article{background:white;padding:16px}header{display:flex;justify-content:space-between;gap:12px;margin-bottom:12px}select{max-width:70%;font:inherit}img{display:block;width:100%;height:430px;object-fit:contain;background:#eee}p{max-width:900px;line-height:1.7}@media(max-width:800px){main{grid-template-columns:1fr}}</style><h1>匿名成对证据</h1><p>逐项比较主视觉、字形/素材关系、滚动和指针编排、收束及手机构图。切换真实过程帧；此页面没有历史评分、技术成本或实施理由。可见品牌保留，不能为了匿名改动画面。</p><main>${cards.map(c=>`<article><header><b>样本 ${c.label}</b><select aria-label="样本 ${c.label} 状态" data-subject="${c.label}">${c.options}</select></header><img id="${c.label}" src="${c.images[0]}" alt="样本 ${c.label} 实际页面状态"></article>`).join('')}</main><script>const frames=${JSON.stringify(Object.fromEntries(cards.map(c=>[c.label,c.images])))};document.querySelectorAll('select').forEach(s=>s.addEventListener('change',()=>{document.getElementById(s.dataset.subject).src=frames[s.dataset.subject][s.value]}));</script></html>`;
+ fs.writeFileSync(path.join(directory,'input.json'),JSON.stringify(input,null,2)+'\n');fs.writeFileSync(path.join(directory,'key.json'),JSON.stringify(key,null,2)+'\n');fs.writeFileSync(path.join(directory,'comparison.html'),html);
+ return{input:path.relative(root,path.join(directory,'input.json')).replaceAll('\\','/'),comparison:path.relative(root,path.join(directory,'comparison.html')).replaceAll('\\','/'),key:path.relative(root,path.join(directory,'key.json')).replaceAll('\\','/'),inputSha256:hash(fs.readFileSync(path.join(directory,'input.json'))),subjects:cards.length,limitations:'Private evidence input only; does not call a model or prove aesthetic quality. Keep the mapping key out of the reviewer context.'};
+}

@@ -5,4 +5,12 @@
 - Inter, Latin regular WOFF2: copyright The Inter Project Authors. SIL Open Font License 1.1. https://github.com/rsms/inter . Bundled license: `public/assets/inter-OFL.txt`.
 - Vite 8.2.2 and its installed dependencies retain the licenses distributed in their npm packages. Vite: MIT, https://github.com/vitejs/vite/blob/main/LICENSE . Dependencies install from the included lockfile; no dependency source is bundled in this archive.
 
-The four concept images were generated for this template using OpenAI’s built-in image generation tool. They are not downloaded reference-site photography. The HTML, CSS, JavaScript and monogram were independently authored. No source website brand assets, commercial font files, copy, images or code are included.
+
+## Photography
+
+Pexels License, verified 2026-10-12: https://www.pexels.com/license/ . The license permits photos as part of a website and a template you sell; it does not permit selling unaltered photo copies or redistributing them as a stock/wallpaper service. Do not imply endorsement. These photographs illustrate a fictional brand; project study names do not identify actual commissions or authors of the photographed architecture.
+
+- hero-salon.webp: cottonbro studio. Source: https://www.pexels.com/photo/a-couch-with-pillows-between-lamps-near-the-curtains-6263036/ . Locally optimized WebP, 2400 × 1600; no AI generation or repainting.
+- project-classic.webp: Ksenia Chernaya. Source: https://www.pexels.com/photo/luxury-living-room-5806989/ . Locally optimized WebP, 1600 × 2397; no AI generation or repainting.
+- project-colour.webp: cottonbro studio. Source: https://www.pexels.com/photo/photograph-of-an-opened-door-in-a-house-7128337/ . Locally optimized WebP, 1600 × 2400; no AI generation or repainting.
+- project-shadow.webp: cottonbro studio. Source: https://www.pexels.com/photo/sunlit-table-and-couch-in-room-8571666/ . Locally optimized WebP, 1600 × 2397; no AI generation or repainting.

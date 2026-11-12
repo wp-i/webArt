@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "runId": "2026-10-13-redo-primary-01",
+  "input": ".webart/quality-packets/91b19b7a-7988-47ea-86b9-c7882e727501/input.json",
+  "inputSha256": "f9e1e53d654786317575609ec33f9d319b4b8a7110c207fd4a8c904fcedc5b91",
+  "limitations": "Single primary reviewer, not an independent model. The reviewer has prior task context; this record separates evidence input from implementation rationale but does not claim a statistically blind unseen test. Judgments recorded by anonymous label before consulting the mapping key.",
+  "samples": [
+    {"label":"A","verdict":"benchmark","finding":"开场的字形嵌进材料斜面与光束，手机重新排开Weight和Light；结尾用另一光照与建筑近景形成独立完整收束。中点黑场是单帧过程缺口，不能据此推断整体只有黑场，需要结合实际前后帧审查。"},
+    {"label":"B","verdict":"below-benchmark","finding":"开场的角落字母与居中岸线照片有识别度，但手机照片太小且大部分为空色；中段两件作品仅错位排列，结尾又是标题与色块联系组件，素材和观看过程没有贯穿。"},
+    {"label":"C","verdict":"below-benchmark","finding":"室内全屏有明亮真实光线，手机裁切也有主体，但中段标题加三张项目卡片是常规作品网格；最后黑色短文案行动块再次降低了主图的力度，观看变化不足。"},
+    {"label":"D","verdict":"below-benchmark","finding":"手机界面和紫色标题是普通两栏产品开场，手机堆叠后界面被截在底部；中段文字和表单比照片主体更占画面，终点按钮色块没有引入独立视觉结果。"},
+    {"label":"E","verdict":"below-benchmark","finding":"桌面字标与暖色照片有关系，但后续三列照片与短标题缺少场景交接；手机字标变小、随后照片平铺，收束大段空白和联系标题，整页细节不及A的材料观看路径。"},
+    {"label":"F","verdict":"below-benchmark","finding":"巨大的衬线字标醒目，但黄底文字占据半幅且海岸图呈旅游照；中段做面照片没有在滚动中形成更精确的叙事，最后粉色横条和按钮如常用组件，手机也只是上下排列。"}
+  ]
+}

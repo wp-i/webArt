@@ -1,0 +1,411 @@
+{
+  "id": "010",
+  "status": "locked",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "approval": {
+    "date": "2026-10-18",
+    "record": "docs/DECISIONS.md"
+  },
+  "brief": "docs/pages/010-precision-study.md",
+  "referenceMap": "docs/references/010-precision-study.md",
+  "referenceCapture": {
+    "url": "https://animejs.com/",
+    "allowInteractiveDocument": true,
+    "ready": "document.querySelectorAll('canvas').length===6 && document.querySelector('canvas').width>=innerWidth && document.querySelectorAll('h2').length>10",
+    "readyTimeoutMs": 30000,
+    "enterMs": 5000,
+    "settleMs": 700,
+    "states": {
+      "opening": 0,
+      "transition": 0.21,
+      "middle": {
+        "selector": ".section.feature-section.color-utils",
+        "offset": 0
+      },
+      "ending": {
+        "selector": ".section.feature-section.color-draggable",
+        "offset": 0
+      }
+    },
+    "pointer": {
+      "selector": ".draggable",
+      "drag": true,
+      "scene": ".section.feature-section.color-draggable",
+      "settleMs": 1400
+    }
+  },
+  "prototypeCapture": {
+    "ready": "document.fonts.status==='loaded' && window.__webartReady===true && window.__webartRendering==='ready' && window.__webartFrames>2",
+    "settleMs": 500,
+    "states": {
+      "opening": 0,
+      "transition": 0.3333333333333333,
+      "middle": 0.6666666666666666,
+      "ending": 1
+    },
+    "pointer": {
+      "selector": "#puck",
+      "scene": "#scene-ending",
+      "drag": true,
+      "settleMs": 1400
+    }
+  },
+  "coreSignatures": [
+    {
+      "name": "precision-mechanism-and-material-to-linework",
+      "visualPurpose": "同一精密轴体保留齿形、绕组、轴承、装配和材质层次，滚动从实体进入可辨认同一部件的轮廓，不换成无身份的圆柱组。"
+    },
+    {
+      "name": "wave-to-stagger-display",
+      "visualPurpose": "横线波形与中段点阵均位于同一仪表的显示面，输入推进显示内容变化，保留主体、边缘刻度与材质的连续身份。"
+    },
+    {
+      "name": "spring-object-contained-in-instrument",
+      "visualPurpose": "收束的真实弹性操控对象始终位于完整仪表内，按下、移动、反向、松手与返回直接改变主视觉，不换成普通组件演示。"
+    }
+  ],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "精细仪表是开场的唯一主视觉，保留可辨认的部件和显示面，不能换成无身份的球体。",
+        "material": "金属、玻璃与显示面通过真实光照产生层次，不用普通灰色块或统一描边代替材质。",
+        "composition": "标题与仪表形成明确的主次及交叠关系，桌面与手机均先看到主体而不是大段占位文字。",
+        "role": "开场建立仪表身份并通过指针改变观察角度，不能只用漂浮背景或按钮缩放证明互动。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "同一仪表沿轴线展开，部件结构仍可识别，不能切换成无关的线框或另一件普通几何。",
+        "material": "由实体材质交接到精确轮廓，部件深度和结构依然清晰，不因切换而失去空间层次。",
+        "composition": "展开轴线在新底色中形成独立构图与留白，不能重复开场的标题位置和同一观看节奏。",
+        "role": "滚动推动部件展开和材质交接，正向与反向均连续，转换服务于同一主体的观看。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "仪表显示面内部出现点阵变化，外部壳体持续保留，不能只剩一块脱离主体的点阵平面。",
+        "material": "点阵与显示面具有可辨认的层级和发光关系，壳体仍保留精细材质而非普通灰色代理。",
+        "composition": "点阵展示形成与开场不同的近景构图，短文字仅作参考，不用大段说明占据主画面。",
+        "role": "输入改变显示面的波形或点阵组织，让主视觉承担信息反馈，不以统一淡入代替编排。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "同一仪表内部保留可直接拖动的弹性对象，不能把仪表全部删去并换成圆点或邮箱页脚。",
+        "material": "弹性对象与仪表有完整的颜色、体积和接触关系，材质完成度必须与开场保持一致。",
+        "composition": "结尾以独立且完整的视觉场景收束，并保留简短原生行动，不能退化为通用按钮列表。",
+        "role": "拖动、放开、反向与停止均有清晰的弹性反馈，主体身份贯穿收束而不只是功能成功。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": [
+      {
+        "id": "instrument-identity",
+        "signature": "wave-to-stagger-display",
+        "states": [
+          "opening",
+          "transition",
+          "middle",
+          "ending"
+        ],
+        "identity": "从彩色刻度仪表到可辨认内部部件的精密机械，再回到仪表中的点阵与弹性对象，装配与外壳身份沿整条路径连续存在。"
+      }
+    ]
+  },
+  "assetPlan": {
+    "record": "docs/assets/010-precision-study.md",
+    "heroRoleLocked": true,
+    "replacementCompared": true,
+    "rightsVerified": true,
+    "lowCostIsNotMerit": true,
+    "evidence": [
+      {
+        "path": "docs/assets/010-core-approval-04.json",
+        "sha256": "fe4604d1129c438341bc76e0d30718c6b987a26cb08f4f1899882ca4d2fb135a"
+      }
+    ]
+  },
+  "assets": [
+    {
+      "assetId": "p04-wave",
+      "localPath": "assets/owned/pace-instrument/v1/wave.png",
+      "sha256": "cc7e0c3a64f626f2e3608c5935120f25e42d849dd95358501bf899a08b2e1a40",
+      "role": "original wave fallback render",
+      "desktopCrop": "Full square original rendering, aligned with the same instrument scene; no external photograph.",
+      "mobileCrop": "Contain the whole square rendering at viewport width; retain the full subject.",
+      "creator": "WebArt",
+      "source": "Independently authored P–04 instrument scene; native browser render, no reference-site media.",
+      "license": "Original project asset; distribution as part of the complete editable WebArt template.",
+      "verified": "2026-10-16",
+      "distributionBasis": "Original project geometry, display and rendered stills authored for the project owner; distribute only within the complete website source."
+    },
+    {
+      "assetId": "p04-mechanism",
+      "localPath": "assets/owned/pace-instrument/v1/mechanism.png",
+      "sha256": "4a92b14fd187b83034cc33c2fc065d6b86e421e00d3df594628d2117ef2c3f6f",
+      "role": "original mechanism fallback render",
+      "desktopCrop": "Full square original rendering, aligned with the same instrument scene; no external photograph.",
+      "mobileCrop": "Contain the whole square rendering at viewport width; retain the full subject.",
+      "creator": "WebArt",
+      "source": "Independently authored P–04 instrument scene; native browser render, no reference-site media.",
+      "license": "Original project asset; distribution as part of the complete editable WebArt template.",
+      "verified": "2026-10-16",
+      "distributionBasis": "Original project geometry, display and rendered stills authored for the project owner; distribute only within the complete website source."
+    },
+    {
+      "assetId": "p04-matrix",
+      "localPath": "assets/owned/pace-instrument/v1/matrix.png",
+      "sha256": "dc74a61b139993a8487486de68541de318bce0bd69a2b987bcf4911c8cf61016",
+      "role": "original matrix fallback render",
+      "desktopCrop": "Full square original rendering, aligned with the same instrument scene; no external photograph.",
+      "mobileCrop": "Contain the whole square rendering at viewport width; retain the full subject.",
+      "creator": "WebArt",
+      "source": "Independently authored P–04 instrument scene; native browser render, no reference-site media.",
+      "license": "Original project asset; distribution as part of the complete editable WebArt template.",
+      "verified": "2026-10-16",
+      "distributionBasis": "Original project geometry, display and rendered stills authored for the project owner; distribute only within the complete website source."
+    },
+    {
+      "assetId": "p04-spring",
+      "localPath": "assets/owned/pace-instrument/v1/spring.png",
+      "sha256": "df4591c10cb1e3703e7b25c61e82370899de5be617e46d154e848943686c8c32",
+      "role": "original spring fallback render",
+      "desktopCrop": "Full square original rendering, aligned with the same instrument scene; no external photograph.",
+      "mobileCrop": "Contain the whole square rendering at viewport width; retain the full subject.",
+      "creator": "WebArt",
+      "source": "Independently authored P–04 instrument scene; native browser render, no reference-site media.",
+      "license": "Original project asset; distribution as part of the complete editable WebArt template.",
+      "verified": "2026-10-16",
+      "distributionBasis": "Original project geometry, display and rendered stills authored for the project owner; distribute only within the complete website source."
+    }
+  ],
+  "fonts": [
+    {
+      "id": "space-grotesk",
+      "role": "display-and-body"
+    },
+    {
+      "id": "jetbrains-mono",
+      "role": "technical-labels"
+    }
+  ],
+  "rendering": {
+    "mode": "local-3d",
+    "canvasSelector": "canvas[data-primary-instrument]",
+    "fallback": {
+      "selector": "#static-scenes",
+      "ready": "window.__webartRendering==='fallback' && !document.querySelector('#static-scenes').hidden"
+    }
+  },
+  "lockedModules": [
+    {
+      "source": "assets/owned/pace-instrument/v4/model.js",
+      "sha256": "58ec94471bd5c08ddd0d6fa772f7fa9b4ec28a73e16330a51046cb30ff50e752",
+      "target": "src/locked/model.js",
+      "interface": "Internal imported dependency of instrument-scene.js. Keep exact code and relative module name; layout code must not replace or directly mutate its geometry or materials.",
+      "signatures": [
+        "precision-mechanism-and-material-to-linework",
+        "wave-to-stagger-display",
+        "spring-object-contained-in-instrument"
+      ],
+      "creator": "WebArt",
+      "sourceDescription": "Independently authored geometry, display and scene; no source-site code or model.",
+      "license": "Original project asset, Three.js dependencies retain MIT.",
+      "distributionBasis": "Original code authored for the project owner for use and distribution within one complete editable WebArt website source archive.",
+      "verified": "2026-10-18",
+      "approval": {
+        "path": "docs/assets/010-core-approval-04.json",
+        "sha256": "fe4604d1129c438341bc76e0d30718c6b987a26cb08f4f1899882ca4d2fb135a"
+      }
+    },
+    {
+      "source": "assets/owned/pace-instrument/v4/studio.js",
+      "sha256": "03926e10cc0d809a1bb7c3f3063a1a3a7822ef18b7e05006df256bf87bee731a",
+      "target": "src/locked/studio.js",
+      "interface": "Internal imported dependency of instrument-scene.js. Keep exact code and relative module name; layout code must not replace or directly mutate its geometry or materials.",
+      "signatures": [
+        "precision-mechanism-and-material-to-linework",
+        "wave-to-stagger-display",
+        "spring-object-contained-in-instrument"
+      ],
+      "creator": "WebArt",
+      "sourceDescription": "Independently authored geometry, display and scene; no source-site code or model.",
+      "license": "Original project asset, Three.js dependencies retain MIT.",
+      "distributionBasis": "Original code authored for the project owner for use and distribution within one complete editable WebArt website source archive.",
+      "verified": "2026-10-18",
+      "approval": {
+        "path": "docs/assets/010-core-approval-04.json",
+        "sha256": "fe4604d1129c438341bc76e0d30718c6b987a26cb08f4f1899882ca4d2fb135a"
+      }
+    },
+    {
+      "source": "assets/owned/pace-instrument/v4/instrument-scene.js",
+      "sha256": "230d1fd5eedb053dd4a6c249a9956aa6a260d4028a1208ef927e06979e317f38",
+      "target": "src/locked/instrument-scene.js",
+      "interface": "mountInstrument(canvas,{puckViewport,puck,fallback,onReady}) returns setProgress(0–3), setPointer(-1–1,-1–1), release(), inspect(), dispose(). All geometry/material/rendering/native drag and keyboard handling stay inside this module.",
+      "signatures": [
+        "precision-mechanism-and-material-to-linework",
+        "wave-to-stagger-display",
+        "spring-object-contained-in-instrument"
+      ],
+      "creator": "WebArt",
+      "sourceDescription": "Independently authored geometry, display and scene; no source-site code or model.",
+      "license": "Original project asset, Three.js dependencies retain MIT.",
+      "distributionBasis": "Original code authored for the project owner for use and distribution within one complete editable WebArt website source archive.",
+      "verified": "2026-10-18",
+      "approval": {
+        "path": "docs/assets/010-core-approval-04.json",
+        "sha256": "fe4604d1129c438341bc76e0d30718c6b987a26cb08f4f1899882ca4d2fb135a"
+      }
+    }
+  ],
+  "comparison": {
+    "negativeId": "010"
+  },
+  "style": {
+    "requiredDifferences": [
+      "composition",
+      "typography",
+      "color-media",
+      "rhythm"
+    ]
+  },
+  "controls": [
+    {
+      "selector": "#explore"
+    },
+    {
+      "selector": "#back-top"
+    },
+    {
+      "selector": "#puck",
+      "scene": "#scene-ending",
+      "activeCheck": "window.__releaseCount>0",
+      "mouseCheck": "window.__releaseCount>1",
+      "touchCheck": "window.__releaseCount>1"
+    },
+    {
+      "selector": "#release",
+      "scene": "#scene-ending",
+      "activeCheck": "window.__releaseCount>0",
+      "mouseCheck": "window.__releaseCount>1",
+      "touchCheck": "window.__releaseCount>1"
+    }
+  ],
+  "contentBudget": {
+    "totalCharacters": 600,
+    "paragraphCharacters": 100
+  },
+  "content": {
+    "brand": "Pace",
+    "study-label": "P–04 / MOTION STUDY",
+    "explore-label": "Explore the instrument",
+    "hero-title": "Precision.\nIn motion.",
+    "hero-note": "A study of form, feeling and movement.",
+    "mechanism-title": "Inside every\nmovement.",
+    "mechanism-note": "One instrument. Every detail.",
+    "matrix-title": "A field of\npossibilities.",
+    "matrix-note": "Small changes. A different rhythm.",
+    "spring-title": "Made to\nfeel alive.",
+    "spring-note": "Drag. Release. Find your own rhythm.",
+    "release-label": "Release ↗",
+    "back-label": "Back to the beginning ↑",
+    "drag-label": "DRAG / RELEASE",
+    "scroll-label": "SCROLL TO EXPLORE",
+    "count-1": "01 — 04",
+    "count-2": "02 — 04",
+    "count-3": "03 — 04",
+    "count-4": "04 — 04"
+  },
+  "requiredContent": [
+    "brand",
+    "study-label",
+    "explore-label",
+    "hero-title",
+    "hero-note",
+    "mechanism-title",
+    "mechanism-note",
+    "matrix-title",
+    "matrix-note",
+    "spring-title",
+    "spring-note",
+    "release-label",
+    "back-label",
+    "drag-label",
+    "scroll-label",
+    "count-1"
+  ],
+  "qa": {
+    "images": 4,
+    "fonts": [
+      "Space Grotesk",
+      "JetBrains Mono"
+    ],
+    "scenes": [
+      "#scene-opening",
+      "#scene-transition",
+      "#scene-middle",
+      "#scene-ending"
+    ],
+    "clipBounds": [],
+    "composition": {
+      "desktop": "1440×900，标题居左与完整仪表并列，机械展开可斜向进入，不得压住文字和行动。",
+      "wide": "2048×912，主体与标题继续保持左右尺度关系，不因横向宽度拉伸而缩为装饰小图。",
+      "tablet": "768×1024，短标题在上，完整圆形和机械在下方，表圈不可越过右边界，不得碰撞说明。",
+      "mobile": "390×844，标题、说明及完整仪表上下组织，四状态均保留，触摸操控和释放行动可见。",
+      "narrow": "320×844，压缩字号和辅助标签后仍显示完整表圈，短说明不横向溢出，末屏行动不遮住主体。"
+    }
+  },
+  "renderer": {
+    "id": "pace-precision-v2",
+    "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779"
+  },
+  "performance": {
+    "schemaVersion": 1,
+    "mode": "local-3d",
+    "states": {
+      "opening": 30,
+      "transition": 0,
+      "middle": 30,
+      "ending": 0
+    }
+  }
+}

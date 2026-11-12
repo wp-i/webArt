@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-18T04:40:31.103Z",
+  "url": "https://www.anneboysen.dk/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 7476,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-opening/contact-sheet.jpg",
+          "sha256": "c0f9f4467c17cf1832df5f7c5f1d614b4444a573699cddbda303e5024224d45a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1646,
+      "layout": {
+        "y": 1646,
+        "documentHeight": 7476,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-transition/contact-sheet.jpg",
+          "sha256": "ccb3ce7fdb724b8f05bd6661f17d572d39b0a84b15f9b44599f93e810a6ae61d"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 6118,
+      "layout": {
+        "y": 6118,
+        "documentHeight": 11098,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-middle/contact-sheet.jpg",
+          "sha256": "409d4e1468d1a7db403569e74bc5a3b78def37fa6dfaa7c8bc174b98cf6c7681"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 10198,
+      "layout": {
+        "y": 10198,
+        "documentHeight": 11098,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-ending/contact-sheet.jpg",
+          "sha256": "d4d3c624467d3f9389322eda8140c97f3a65bc538c4e0449b3200aa8c599be79"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 10514,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-opening/contact-sheet.jpg",
+          "sha256": "a1da1caa3a0673a0d98e99c4f3e9ff8b17efb5eed1d1c9cd12012eb60f0fecb3"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2417,
+      "layout": {
+        "y": 2417,
+        "documentHeight": 10514,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-transition/contact-sheet.jpg",
+          "sha256": "c05a1abf626ca9d65516dddd9a9e816d5155f01d8570ff4ad3ebf9525b97d130"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 11259,
+      "layout": {
+        "y": 11259,
+        "documentHeight": 19608,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-middle/contact-sheet.jpg",
+          "sha256": "c49505c5e2229d15135d26c90d54dc33bf19c2a412bb4d20ce974d0a3fa8c375"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 22551,
+      "layout": {
+        "y": 22551,
+        "documentHeight": 23395,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-ending/contact-sheet.jpg",
+          "sha256": "32794a8712a42d8cb7d65c2973ab81e1397dc6ab33c79bac9145529157dc4d19"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "6cbe26a150614c21d43eea841d4a1820e986fa3c3eb5475bf490cf5d2e3b6fc7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "6eb4d4292a1db326e9e267c67417e994eafd5b22722198791bed72e0db818513"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "8da9de4cd0678d6673b03fb2bc8fec273056c7f4daf54f1da439461e3b29ad23"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "0839e31a900189b24196c37be46ad9e2e14e8fe92f7e7a71d035bb6cf5048d0d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "d4d3c624467d3f9389322eda8140c97f3a65bc538c4e0449b3200aa8c599be79"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "3ef61d846bf5d21ca4eed093dbcb254b8d1ac3c77c7b63ad078cf2aadc7e2bc4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "eb089be4981ca9a9913cd0d7dc68ee72c9645ac08a363eef3f3143fc3dcb7ab7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "2dd86cafff379c6f0b4831bc83a06cad3ea0f81818a2f85b9ac75f3423a310ba"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "edbe469cdd91709e50e7f6d3e95f62b95cb37d7f77dd1a29ec7bc15b6b5d16b5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-reduced/contact-sheet.jpg",
+          "sha256": "8ec41ec7321da536258a0f7e7e591d651327527f0f6ce5184de9cddaf85d0a12"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "69fc7355327dc9334c71a83e9e4e4d804da7bd10c7fc1193485fad5bdb684eff"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "968aa6149ef026cd513ffbe2584e5b1893594feaf79e7bf2148ad88da6887e90"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "c34cd20fa30c2eb5d0ec80424cf3a58b9d2f75ef9b9b32a540f606333af045eb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "e0f284a52e3bd3b8a83e6c7df6f796b9d476e36b37a4531a87909d9eb09bf5fb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "32794a8712a42d8cb7d65c2973ab81e1397dc6ab33c79bac9145529157dc4d19"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-5/contact-sheet.jpg",
+          "sha256": "63696862d6d3326b5ec6af9e0714afcab9bc59155fbe22346370147e9fe3f6f6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "c34cd20fa30c2eb5d0ec80424cf3a58b9d2f75ef9b9b32a540f606333af045eb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-7/contact-sheet.jpg",
+          "sha256": "78f461089bf9787f37ddca8e2fd10b564b174feb048c0bcede0474676710ce36"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "1fb212ffe6b3684d1fbaf238beef184aa3ebeddce3549228e2d2063c8c531436"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-reduced/contact-sheet.jpg",
+          "sha256": "937656585775c8a8fa97301c61fd7a23c84b114f4aebab00736902b7efe28dcd"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-scored",
+  "finished": "2026-10-18T04:42:12.894Z"
+}

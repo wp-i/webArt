@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 2,
+  "purpose": "reviewer-calibration",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "runId": "2026-10-16-current-task-calibration",
+  "reviewer": {
+    "id": "current-task-art-director-2026-10-16",
+    "mode": "blind-evidence-only",
+    "implementationContextIncluded": false
+  },
+  "limitations": "Real current-task visual review of a fresh shuffled evidence packet before reading its mapping. The primary reviewer retains task context; this is evidence separation, not an independent model or a guaranteed user score.",
+  "labelReviewSha256": "e841661965bf8922712244046b69231b423c7a25ca799c5f347df4681fbfe319",
+  "samples": [
+    {
+      "id": "006",
+      "sourceSha256": "3be6deb3cc6893ce3a225c43d7cdd330a3aed8b945269cd77056577262e1f99a",
+      "verdict": "below-benchmark",
+      "finding": "杏粉字标和灯具照片有清楚的品牌关系，但中段衬线短句接三列图片、结尾常规联系条的节奏仍偏普通；与B的材料空间及精确收束存在明确差距。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/006-1440-opening.png",
+          "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0.16-1.png",
+          "sha256": "ed1fd1ce2b24d92a65136664902601cd488c98fa16394c3b99301d0330df1e8f"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0.84-5.png",
+          "sha256": "4719ca05897fe92b85db1f6635e7cf89ec436708274981f44b3d5360dcc4b027"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0-8.png",
+          "sha256": "24ecef7977d6311a6426f166963b9695752f1940fb54ca168610fb4525028fa7"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/006-390-opening.png",
+          "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/006-390-scroll-0.33-12.png",
+          "sha256": "250546a585a19eccdc9943ff412525f4ea1f3721e96c6d503c95d84ee5a26888"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/006-390-scroll-1-14.png",
+          "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/006-390-scroll-0-15.png",
+          "sha256": "a0c52d85e5bbd3a84b730b63a6e18bae16dee37f93835f23d764b9a7d8cc15b6"
+        }
+      ]
+    },
+    {
+      "id": "001",
+      "sourceSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+      "verdict": "benchmark",
+      "finding": "开场的材料褶面、斜向光线与精密衬线身份结合紧密，手机仍保留层次；结尾另一受光空间的Remain形成完整收束，构成该组的品质基准。中间选帧是黑色交接，不能单凭该帧推断加载失败。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+          "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.84-5.png",
+          "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+          "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+          "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "sourceSha256": "46c7d81838525a79057b4d7a98f030222a2befb44b0b7b8719e63c3224d2121f",
+      "verdict": "below-benchmark",
+      "finding": "满宽衬线字标与海岸并列有辨识度，后段摄影横排和粉色联系条也可用，但输入主要是普通浏览与小幅取景，没有与B相当的主视觉编排与整体收束。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/007-1440-opening.png",
+          "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0.16-1.png",
+          "sha256": "656cf2ba107a86312b4d986733b6133928e043d50a9520fcc6bb43e6bd48da2a"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0.84-5.png",
+          "sha256": "c905873e2604010147ed8131b22635d76e70df3cf22c0652f9e505070c171a71"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0-8.png",
+          "sha256": "c5b0a1d81d828ca784f85c98232bc3e7e745dba5b1d745a2d9cb1acf76cb82b1"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/007-390-opening.png",
+          "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/007-390-scroll-0.33-12.png",
+          "sha256": "f06e68c4a582bd4676403cd01d98f144581d049d40a8839459b600f06408ca9c"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/007-390-scroll-1-14.png",
+          "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/007-390-scroll-0-15.png",
+          "sha256": "9c8fc4052d7fe55c7a39e65ea2e9de861b03b7fd7fe03f123b54b923d7ef40e3"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "sourceSha256": "057d1fff49885ed00ccd2bae36abcd33ae87fffc4bd7fdbc13b9b31f0444c147",
+      "verdict": "below-benchmark",
+      "finding": "角落双字母与蓝绿色场建立身份，错位摄影避免重复，但照片和字形之间仍较松散，底部两栏联系方式削弱了整体的完成度和惊艳感。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/009-1440-opening.png",
+          "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0.16-1.png",
+          "sha256": "79225b087a2179d007d2bb13d0293391e1426073913a399df1a0d8b7c642ad58"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0.84-5.png",
+          "sha256": "ac46800aa31b04cceec69141ff2a570069c75ddc44a04bf0698f85c2194a06bb"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0-8.png",
+          "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/009-390-opening.png",
+          "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/009-390-scroll-0.33-12.png",
+          "sha256": "107d89b7bf04722fbe9f90e7c797b05a31189dbedaa3ace351325c3974ffa5d5"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/009-390-scroll-1-14.png",
+          "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/009-390-scroll-0-15.png",
+          "sha256": "ef7f482341f97ed6980cbab2b80ea4479effbc9901b56cee87c99821ea7a7064"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "sourceSha256": "4fcd045081962375d946130e871d1fd95df9e1d91a301aa3471016962436abd4",
+      "verdict": "below-benchmark",
+      "finding": "紫黑产品分栏清楚展示设备界面，图形和按钮都有一致配色，但常规表单和小型居中CTA使全页更像标准产品页，未达到B的材料和观看过程质感。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/010-1440-opening.png",
+          "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0.16-1.png",
+          "sha256": "096b1dba498c71a836865f71b728f2edfb30320c3378dce425a8001336c42aa1"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0.84-5.png",
+          "sha256": "ef03bbe5975669a62cead17a0328b2d4cfc010674153a8e58b87ed7015a46c53"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0-8.png",
+          "sha256": "e172aa1cce6d6d717ced343de29e0b17f57a5ee72781e5d3bf23643c341c8606"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/010-390-opening.png",
+          "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/010-390-scroll-0.33-12.png",
+          "sha256": "23fe83b3fa2ad42d36f02147b08f02ed403f68b675f19f980d8aed983549ec9a"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/010-390-scroll-1-14.png",
+          "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/010-390-scroll-0-15.png",
+          "sha256": "724e98e9ed932a6aad72d5918f2b43a90d44b8a274d8657c526e121358a548c0"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "sourceSha256": "31892bf10228f07d305ed4bee795c10bed76c5514a06429ab545d10eaeddcd99",
+      "verdict": "below-benchmark",
+      "finding": "建筑开场保留暖光与拱形空间，在手机也直接可看；白底三列项目、普通黑色联系区域和小图形反馈却缺乏与B同级的编排与收束。",
+      "evidence": [
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/008-1440-opening.png",
+          "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0.16-1.png",
+          "sha256": "fe8aeee474c125ff4803387be57cfcc0d97de139ce10637185050526374dd35b"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0.84-5.png",
+          "sha256": "16b68eeafeac359c20021c645ffcf795f406b91c96ace019cac17ba48ce2985c"
+        },
+        {
+          "viewport": "desktop",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0-8.png",
+          "sha256": "87ba07d594e2d9b56df1cf49f4ed01528a11e7b2ab74b50a3c1d103597de7821"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/008-390-opening.png",
+          "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/008-390-scroll-0.33-12.png",
+          "sha256": "725d0ce2e02aad7abf3c22717d8a117fa24a847fa4225e15b68f054a1591127e"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/008-390-scroll-1-14.png",
+          "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+        },
+        {
+          "viewport": "mobile",
+          "path": "docs/evidence/quality-calibration/008-390-scroll-0-15.png",
+          "sha256": "dec046cc7f0d7cd2d9dc20e2c2e3aba6518340c77b742bdb659e25a9148d66e9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "observedAt": "2026-10-13T17:50:33.372Z",
+  "url": "https://www.pimpinella.cooking/",
+  "inventory": {
+    "images": 30,
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 716.5,
+          "y": 234.421875,
+          "width": 700.5,
+          "height": 656,
+          "top": 234.421875,
+          "right": 1417,
+          "bottom": 890.421875,
+          "left": 716.5
+        },
+        "ready": 4,
+        "width": 720,
+        "height": 960,
+        "paused": true
+      }
+    ],
+    "canvases": [
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": -125,
+          "y": 80.421875,
+          "width": 966.5,
+          "height": 1077,
+          "top": 80.421875,
+          "right": 841.5,
+          "bottom": 1157.421875,
+          "left": -125
+        },
+        "width": 967,
+        "height": 1077
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 583.5,
+          "y": 744.421875,
+          "width": 966.5,
+          "height": 1077,
+          "top": 744.421875,
+          "right": 1550,
+          "bottom": 1821.421875,
+          "left": 583.5
+        },
+        "width": 967,
+        "height": 1077
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": -125,
+          "y": 1408.421875,
+          "width": 300,
+          "height": 150,
+          "top": 1408.421875,
+          "right": 175,
+          "bottom": 1558.421875,
+          "left": -125
+        },
+        "width": 300,
+        "height": 150
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 583.5,
+          "y": 2072.421875,
+          "width": 300,
+          "height": 150,
+          "top": 2072.421875,
+          "right": 883.5,
+          "bottom": 2222.421875,
+          "left": 583.5
+        },
+        "width": 300,
+        "height": 150
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": -125,
+          "y": 2736.421875,
+          "width": 300,
+          "height": 150,
+          "top": 2736.421875,
+          "right": 175,
+          "bottom": 2886.421875,
+          "left": -125
+        },
+        "width": 300,
+        "height": 150
+      }
+    ],
+    "viewers": [
+      {
+        "tag": "SPLINE-VIEWER",
+        "rect": {
+          "x": -125,
+          "y": 80.421875,
+          "width": 966.5,
+          "height": 1077,
+          "top": 80.421875,
+          "right": 841.5,
+          "bottom": 1157.421875,
+          "left": -125
+        },
+        "openShadow": true,
+        "canvasCount": 1
+      },
+      {
+        "tag": "SPLINE-VIEWER",
+        "rect": {
+          "x": 583.5,
+          "y": 744.421875,
+          "width": 966.5,
+          "height": 1077,
+          "top": 744.421875,
+          "right": 1550,
+          "bottom": 1821.421875,
+          "left": 583.5
+        },
+        "openShadow": true,
+        "canvasCount": 1
+      },
+      {
+        "tag": "SPLINE-VIEWER",
+        "rect": {
+          "x": -125,
+          "y": 1408.421875,
+          "width": 966.5,
+          "height": 1077,
+          "top": 1408.421875,
+          "right": 841.5,
+          "bottom": 2485.421875,
+          "left": -125
+        },
+        "openShadow": true,
+        "canvasCount": 1
+      },
+      {
+        "tag": "SPLINE-VIEWER",
+        "rect": {
+          "x": 583.5,
+          "y": 2072.421875,
+          "width": 966.5,
+          "height": 1077,
+          "top": 2072.421875,
+          "right": 1550,
+          "bottom": 3149.421875,
+          "left": 583.5
+        },
+        "openShadow": true,
+        "canvasCount": 1
+      },
+      {
+        "tag": "SPLINE-VIEWER",
+        "rect": {
+          "x": -125,
+          "y": 2736.421875,
+          "width": 966.5,
+          "height": 1077,
+          "top": 2736.421875,
+          "right": 841.5,
+          "bottom": 3813.421875,
+          "left": -125
+        },
+        "openShadow": true,
+        "canvasCount": 1
+      }
+    ],
+    "openRoots": 6,
+    "opaqueFrames": [
+      {
+        "src": "https://framer.com/edit?framerSiteId=fd50094b6cf59764d77d7416704505cabdfa9aa02bfcc6a957f374878ad1ab5c&source=www.pimpinella.cooking&features=%7B%22editorBarDisableFrameAncestorsSecurity%22%3Afalse%2C%22onPageLocalizationSupport%22%3Atrue%2C%22onPageMoveTool%22%3Atrue%7D&loadStart=1791911422874",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      }
+    ],
+    "manualRenderReviewRequired": true
+  }
+}

@@ -1,15 +1,17 @@
 const deadline=setTimeout(()=>process.exit(2),50000);
 import fs from 'node:fs';
 import path from 'node:path';
+import {browserMediaInventory} from './browser-media-inventory.mjs';
+import {assertReferenceSelection} from './production/references.mjs';
+import {safeFile} from './quality-gate.mjs';
+import {deviceMetrics,deviceAgent} from './production/device-metrics.mjs';
 const [endpoint,url,label,width='1440',height='900',mode='quick',...options]=process.argv.slice(2);
 if(!/^wss?:\/\/127\.0\.0\.1:/.test(endpoint)||!/^https?:\/\//.test(url)||!/^[a-z0-9-]+$/.test(label)||!['quick','deep'].includes(mode))throw new Error('Provide local browser, source URL, label, width, height and quick/deep');
 const directory=path.resolve('.webart/references');
-const indexPath=path.resolve('docs/production/reference-index.json');
-const sourceHost=new URL(url).hostname.replace(/^www\./,'');
-const known=fs.existsSync(indexPath)?JSON.parse(fs.readFileSync(indexPath,'utf8')).references.find(r=>new URL(r.url).hostname.replace(/^www\./,'')===sourceHost):null;
-const recheck=options.find(v=>v.startsWith('--recheck='))?.slice(10);
-if(known?.status==='rejected'&&!recheck){console.log(JSON.stringify({result:'skipped-known-rejection',name:known.name,reason:known.reason}));clearTimeout(deadline);process.exit(0)}
-if(recheck&&recheck.length<12)throw new Error('A recheck requires a concrete new-evidence reason');
+if(options.some(v=>v.startsWith('--recheck=')))throw new Error('A text-only recheck cannot bypass a rejected reference. Use --recheck-file with a fingerprinted decision and new evidence.');
+const recheckFile=options.find(v=>v.startsWith('--recheck-file='))?.slice('--recheck-file='.length);
+const recheck=recheckFile?JSON.parse(fs.readFileSync(safeFile(process.cwd(),recheckFile),'utf8')):undefined;
+try{assertReferenceSelection(process.cwd(),url,recheck)}catch(error){if(error.code!=='rejected-reference')throw error;console.log(JSON.stringify({result:'skipped-known-rejection',reason:error.message}));clearTimeout(deadline);process.exit(0)}
 fs.mkdirSync(directory,{recursive:true});
 const ws=new WebSocket(endpoint);let serial=0;const pending=new Map();
 await new Promise((resolve,reject)=>{ws.addEventListener('open',resolve,{once:true});ws.addEventListener('error',reject,{once:true});});
@@ -20,7 +22,10 @@ const {sessionId}=await send('Target.attachToTarget',{targetId,flatten:true});
 const page=(method,params)=>send(method,params,sessionId);
 const evaluate=async(expression)=>{const r=await page('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true});if(r.exceptionDetails)throw new Error(r.exceptionDetails.text);return r.result.value;};
 await page('Page.enable');await page('Runtime.enable');
-await page('Emulation.setDeviceMetricsOverride',{width:+width,height:+height,deviceScaleFactor:1,mobile:+width<700});
+await page('Emulation.setUserAgentOverride',deviceAgent(await send('Browser.getVersion'),+width));
+await page('Emulation.setDeviceMetricsOverride',deviceMetrics(+width,+height));
+await page('Emulation.setTouchEmulationEnabled',{enabled:+width<700,maxTouchPoints:+width<700?5:1});
+await page('Emulation.setEmulatedMedia',{features:[{name:'prefers-reduced-motion',value:'no-preference'}]});
 await page('Page.bringToFront');
 await page('Page.navigate',{url});
 for(let i=0;i<50;i++){if(await evaluate('document.readyState!=="loading" && document.body && document.body.innerText.length>100'))break;await new Promise(r=>setTimeout(r,150));}
@@ -34,7 +39,8 @@ await page('Page.bringToFront');
 await new Promise(r=>setTimeout(r,2500));
 const opening=await page('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});fs.writeFileSync(path.join(directory,label+'-opening.png'),Buffer.from(opening.data,'base64'));
 const initial=await evaluate(`({url:location.href,title:document.title,viewport:[innerWidth,innerHeight],height:document.documentElement.scrollHeight,images:document.images.length,videos:document.querySelectorAll('video').length,canvas:document.querySelectorAll('canvas').length,headings:[...document.querySelectorAll('h1,h2,h3')].map(e=>e.innerText),text:document.body.innerText.slice(0,12000),links:[...document.querySelectorAll('a')].map(e=>({text:e.innerText.slice(0,60),href:e.href})).filter(e=>e.text)})`);
-initial.recheckReason=recheck??null;
+initial.recheckReason=recheck?.reason??null;
+initial.mediaInventory=await evaluate(browserMediaInventory);
 if(mode==='quick'){initial.mode=mode;fs.writeFileSync(path.join(directory,label+'.json'),JSON.stringify(initial,null,2)+'\n');console.log(JSON.stringify({label,url:initial.url,title:initial.title,height:initial.height,images:initial.images,videos:initial.videos,canvas:initial.canvas,mode}));ws.close();clearTimeout(deadline);process.exit(0)}
 await evaluate('window.scrollTo(0,Math.min(document.documentElement.scrollHeight-innerHeight,innerHeight))');await new Promise(r=>setTimeout(r,500));
 const middle=await page('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});fs.writeFileSync(path.join(directory,label+'-middle.png'),Buffer.from(middle.data,'base64'));

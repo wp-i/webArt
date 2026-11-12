@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "near-and-far-editorial-v1",
+  "templateId": "009",
+  "status": "internal-qualified-user-pending",
+  "directory": "renderers/near-and-far-editorial-v1",
+  "sourceDirectory": "renderers/near-and-far-editorial-v1/source",
+  "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+  "planSha256": "4f27304f7404222d568b929294265d8f0e009d69ae409c2790b8433e6ff3e247",
+  "requiredContent": [
+    "hero-title",
+    "about-title",
+    "about-intro",
+    "listen-title",
+    "listen-copy",
+    "contact-title"
+  ],
+  "deliveryReceipt": {
+    "path": "docs/production/runs/api-20261023020510668-730eef15/api-20261023020510668-730eef15-009-archive-receipt.json",
+    "sha256": "365113abfa4b79f7bd2fca8ccb8d015b14197345469b4b75a519c0ab0e82b189"
+  },
+  "manifest": {
+    "path": "renderers/near-and-far-editorial-v1/manifest.json",
+    "sha256": "12a160bd73f63b37290e423c57273f0ddc5dee35aaffacc64fbf5d6eb204c6fd"
+  },
+  "contract": {
+    "path": "renderers/near-and-far-editorial-v1/contract.json",
+    "sha256": "625c6c25c930e9f412a09806f8a17d5c51cd7d0dbc2a01c837740292da28c512"
+  },
+  "qualification": {
+    "path": "renderers/near-and-far-editorial-v1/qualification.json",
+    "sha256": "ec609ef4227aeee04fec469b0b2f9bb8690ec295e0be2dd594685fa332e00100"
+  },
+  "contentRules": {
+    "path": "renderers/near-and-far-editorial-v1/content-rules.json",
+    "sha256": "f23195698a622a4360950a6beadde4ab0629ac9d6ef46fdbdb0ada965153e9a3"
+  },
+  "limitations": "Internally qualified only; user acceptance is pending. Registration and replay do not create a new design or guarantee user acceptance."
+}

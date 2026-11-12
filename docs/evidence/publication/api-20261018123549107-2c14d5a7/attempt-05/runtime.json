@@ -1,0 +1,805 @@
+{
+  "started": "2026-10-19T04:07:33.998Z",
+  "origin": "http://127.0.0.1:4180/",
+  "mode": "full",
+  "viewports": [
+    {
+      "name": "desktop",
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 1965,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".intro",
+          "visible": true
+        },
+        {
+          "selector": ".work-grid",
+          "visible": true
+        },
+        {
+          "selector": ".work:nth-child(3)",
+          "visible": true
+        },
+        {
+          "selector": ".site-footer",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "wide",
+      "viewport": [
+        2048,
+        912
+      ],
+      "height": 1456,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".intro",
+          "visible": true
+        },
+        {
+          "selector": ".work-grid",
+          "visible": true
+        },
+        {
+          "selector": ".work:nth-child(3)",
+          "visible": true
+        },
+        {
+          "selector": ".site-footer",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "tablet",
+      "viewport": [
+        768,
+        1024
+      ],
+      "height": 1338,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".intro",
+          "visible": true
+        },
+        {
+          "selector": ".work-grid",
+          "visible": true
+        },
+        {
+          "selector": ".work:nth-child(3)",
+          "visible": true
+        },
+        {
+          "selector": ".site-footer",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "height": 2240,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".intro",
+          "visible": true
+        },
+        {
+          "selector": ".work-grid",
+          "visible": true
+        },
+        {
+          "selector": ".work:nth-child(3)",
+          "visible": true
+        },
+        {
+          "selector": ".site-footer",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "narrow",
+      "viewport": [
+        320,
+        844
+      ],
+      "height": 1977,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".intro",
+          "visible": true
+        },
+        {
+          "selector": ".work-grid",
+          "visible": true
+        },
+        {
+          "selector": ".work:nth-child(3)",
+          "visible": true
+        },
+        {
+          "selector": ".site-footer",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    }
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "y": 326
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "y": 1065
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "y": 265
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "y": 1396
+    }
+  ],
+  "responsive": [],
+  "transitions": [
+    {
+      "viewport": "desktop",
+      "boundary": ".intro",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".intro",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".intro",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".work-grid",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".work-grid",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".work-grid",
+      "fraction": 0.75,
+      "y": 101
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".work:nth-child(3)",
+      "fraction": 0.25,
+      "y": 165
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".work:nth-child(3)",
+      "fraction": 0.5,
+      "y": 390
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".work:nth-child(3)",
+      "fraction": 0.75,
+      "y": 615
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".site-footer",
+      "fraction": 0.25,
+      "y": 1065
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".site-footer",
+      "fraction": 0.5,
+      "y": 1065
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".site-footer",
+      "fraction": 0.75,
+      "y": 1065
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".intro",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".intro",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".intro",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".work-grid",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".work-grid",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".work-grid",
+      "fraction": 0.75,
+      "y": 54
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".work:nth-child(3)",
+      "fraction": 0.25,
+      "y": 252
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".work:nth-child(3)",
+      "fraction": 0.5,
+      "y": 463
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".work:nth-child(3)",
+      "fraction": 0.75,
+      "y": 674
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".site-footer",
+      "fraction": 0.25,
+      "y": 1396
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".site-footer",
+      "fraction": 0.5,
+      "y": 1396
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".site-footer",
+      "fraction": 0.75,
+      "y": 1396
+    }
+  ],
+  "arbitrary": [
+    {
+      "viewport": "desktop",
+      "fraction": 0.14,
+      "y": 149
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.37,
+      "y": 394
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.61,
+      "y": 650
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.84,
+      "y": 895
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.14,
+      "y": 195
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.37,
+      "y": 517
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.61,
+      "y": 852
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.84,
+      "y": 1173
+    }
+  ],
+  "checks": {
+    "desktopWheel": true,
+    "mobileWheel": true,
+    "links": [
+      {
+        "href": "#collection",
+        "valid": true
+      },
+      {
+        "href": "/",
+        "valid": true
+      },
+      {
+        "href": "#collection",
+        "valid": true
+      },
+      {
+        "href": "#download-info",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=001",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=001",
+        "valid": true
+      },
+      {
+        "href": "/weight-of-light-source.zip",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=006",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=006",
+        "valid": true
+      },
+      {
+        "href": "/house-of-ivory-source.zip",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=007",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=007",
+        "valid": true
+      },
+      {
+        "href": "/campovivo-source.zip",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=008",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=008",
+        "valid": true
+      },
+      {
+        "href": "/sill-source.zip",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=009",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=009",
+        "valid": true
+      },
+      {
+        "href": "/near-and-far-source.zip",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=010",
+        "valid": true
+      },
+      {
+        "href": "/preview.html?id=010",
+        "valid": true
+      },
+      {
+        "href": "/pace-source.zip",
+        "valid": true
+      },
+      {
+        "href": "#top",
+        "valid": true
+      }
+    ],
+    "disclosures": 0,
+    "reduced": true,
+    "intentionalNoScriptBlocks": 1,
+    "noScript": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 1965,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".intro",
+          "visible": true
+        },
+        {
+          "selector": ".work-grid",
+          "visible": true
+        },
+        {
+          "selector": ".work:nth-child(3)",
+          "visible": true
+        },
+        {
+          "selector": ".site-footer",
+          "visible": true
+        }
+      ]
+    },
+    "touchScroll": 510
+  },
+  "errors": [],
+  "paintedImages": [
+    {
+      "name": "desktop-full",
+      "images": [
+        {
+          "src": "/collection/001.webp",
+          "expectedVariance": 43.413402175255115,
+          "actualVariance": 40.47920827379545,
+          "missing": false
+        },
+        {
+          "src": "/collection/006.webp",
+          "expectedVariance": 63.50685658039251,
+          "actualVariance": 69.69910255802027,
+          "missing": false
+        },
+        {
+          "src": "/collection/007.webp",
+          "expectedVariance": 74.48523821028508,
+          "actualVariance": 67.63451856699011,
+          "missing": false
+        },
+        {
+          "src": "/collection/008.webp",
+          "expectedVariance": 45.422395922915435,
+          "actualVariance": 53.74433381173072,
+          "missing": false
+        },
+        {
+          "src": "/collection/009.webp",
+          "expectedVariance": 28.470272627048757,
+          "actualVariance": 61.713310405498106,
+          "missing": false
+        },
+        {
+          "src": "/collection/010.webp",
+          "expectedVariance": 33.55372777051964,
+          "actualVariance": 22.04195797165822,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "name": "wide-full",
+      "images": [
+        {
+          "src": "/collection/001.webp",
+          "expectedVariance": 44.72997557919158,
+          "actualVariance": 43.224025268429585,
+          "missing": false
+        },
+        {
+          "src": "/collection/006.webp",
+          "expectedVariance": 66.95611859586235,
+          "actualVariance": 70.92193814676135,
+          "missing": false
+        },
+        {
+          "src": "/collection/007.webp",
+          "expectedVariance": 78.36264255952612,
+          "actualVariance": 69.79474248847562,
+          "missing": false
+        },
+        {
+          "src": "/collection/008.webp",
+          "expectedVariance": 46.53868004396284,
+          "actualVariance": 56.3401963605807,
+          "missing": false
+        },
+        {
+          "src": "/collection/009.webp",
+          "expectedVariance": 27.016729526338597,
+          "actualVariance": 61.939241482399304,
+          "missing": false
+        },
+        {
+          "src": "/collection/010.webp",
+          "expectedVariance": 41.95079681989593,
+          "actualVariance": 21.467744812042753,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "name": "tablet-full",
+      "images": [
+        {
+          "src": "/collection/001-small.webp",
+          "expectedVariance": 46.810669502581526,
+          "actualVariance": 39.52343524170884,
+          "missing": false
+        },
+        {
+          "src": "/collection/006-small.webp",
+          "expectedVariance": 61.267801901057794,
+          "actualVariance": 68.24169381658773,
+          "missing": false
+        },
+        {
+          "src": "/collection/007-small.webp",
+          "expectedVariance": 70.48310240047539,
+          "actualVariance": 65.4966706650328,
+          "missing": false
+        },
+        {
+          "src": "/collection/008-small.webp",
+          "expectedVariance": 45.03756350497686,
+          "actualVariance": 53.48169222198372,
+          "missing": false
+        },
+        {
+          "src": "/collection/009-small.webp",
+          "expectedVariance": 31.34496871159204,
+          "actualVariance": 61.493139146638136,
+          "missing": false
+        },
+        {
+          "src": "/collection/010-small.webp",
+          "expectedVariance": 31.271772458491988,
+          "actualVariance": 21.323238470285684,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "name": "mobile-full",
+      "images": [
+        {
+          "src": "/collection/001-small.webp",
+          "expectedVariance": 47.362819654108,
+          "actualVariance": 40.4922001146897,
+          "missing": false
+        },
+        {
+          "src": "/collection/006-small.webp",
+          "expectedVariance": 63.04773370224125,
+          "actualVariance": 68.22169784470226,
+          "missing": false
+        },
+        {
+          "src": "/collection/007-small.webp",
+          "expectedVariance": 68.6106413886275,
+          "actualVariance": 66.34128240895042,
+          "missing": false
+        },
+        {
+          "src": "/collection/008-small.webp",
+          "expectedVariance": 44.833888285439784,
+          "actualVariance": 54.05748087802519,
+          "missing": false
+        },
+        {
+          "src": "/collection/009-small.webp",
+          "expectedVariance": 32.61104599298532,
+          "actualVariance": 61.55400696611918,
+          "missing": false
+        },
+        {
+          "src": "/collection/010-small.webp",
+          "expectedVariance": 29.349431089757104,
+          "actualVariance": 20.21430387094415,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "name": "narrow-full",
+      "images": [
+        {
+          "src": "/collection/001-small.webp",
+          "expectedVariance": 37.113359201325316,
+          "actualVariance": 40.25608223736046,
+          "missing": false
+        },
+        {
+          "src": "/collection/006-small.webp",
+          "expectedVariance": 67.0749962388543,
+          "actualVariance": 69.49018216758584,
+          "missing": false
+        },
+        {
+          "src": "/collection/007-small.webp",
+          "expectedVariance": 78.97623713046947,
+          "actualVariance": 67.26064260392765,
+          "missing": false
+        },
+        {
+          "src": "/collection/008-small.webp",
+          "expectedVariance": 45.66088811154618,
+          "actualVariance": 55.03012854665903,
+          "missing": false
+        },
+        {
+          "src": "/collection/009-small.webp",
+          "expectedVariance": 25.57639277777622,
+          "actualVariance": 61.53686687631682,
+          "missing": false
+        },
+        {
+          "src": "/collection/010-small.webp",
+          "expectedVariance": 43.35800569327308,
+          "actualVariance": 18.395583642782277,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "name": "no-script",
+      "images": [
+        {
+          "src": "/collection/001.webp",
+          "expectedVariance": 43.413402175255115,
+          "actualVariance": 40.47920827379545,
+          "missing": false
+        },
+        {
+          "src": "/collection/006.webp",
+          "expectedVariance": 63.50685658039251,
+          "actualVariance": 69.69910255802027,
+          "missing": false
+        },
+        {
+          "src": "/collection/007.webp",
+          "expectedVariance": 74.48523821028508,
+          "actualVariance": 67.63451856699011,
+          "missing": false
+        },
+        {
+          "src": "/collection/008.webp",
+          "expectedVariance": 45.422395922915435,
+          "actualVariance": 53.74433381173072,
+          "missing": false
+        },
+        {
+          "src": "/collection/009.webp",
+          "expectedVariance": 28.470272627048757,
+          "actualVariance": 61.713310405498106,
+          "missing": false
+        },
+        {
+          "src": "/collection/010.webp",
+          "expectedVariance": 33.55372777051964,
+          "actualVariance": 22.04195797165822,
+          "missing": false
+        }
+      ]
+    }
+  ],
+  "result": "passed-observable-checks",
+  "finished": "2026-10-19T04:07:57.752Z"
+}

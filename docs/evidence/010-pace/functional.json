@@ -1,0 +1,610 @@
+{
+  "started": "2026-10-12T12:00:34.264Z",
+  "mode": "full",
+  "origin": "http://127.0.0.1:4180/designs/010-pace/",
+  "controls": [
+    {
+      "width": 1440,
+      "control": "theme",
+      "state": "paper"
+    },
+    {
+      "width": 1440,
+      "control": "theme",
+      "state": "stone"
+    },
+    {
+      "width": 1440,
+      "control": "theme",
+      "state": "plum"
+    },
+    {
+      "width": 1440,
+      "control": "today-0",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "today-1",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "today-2",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-0-0",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-0-1",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-0-2",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-0-3",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-0-4",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-0-5",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-0-6",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-1-0",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-1-1",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-1-2",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-1-3",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-1-4",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-1-5",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-1-6",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-2-0",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-2-1",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-2-2",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-2-3",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-2-4",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-2-5",
+      "state": "toggled"
+    },
+    {
+      "width": 1440,
+      "control": "cell-2-6",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "theme",
+      "state": "paper"
+    },
+    {
+      "width": 390,
+      "control": "theme",
+      "state": "stone"
+    },
+    {
+      "width": 390,
+      "control": "theme",
+      "state": "plum"
+    },
+    {
+      "width": 390,
+      "control": "today-0",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "today-1",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "today-2",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-0-0",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-0-1",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-0-2",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-0-3",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-0-4",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-0-5",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-0-6",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-1-0",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-1-1",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-1-2",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-1-3",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-1-4",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-1-5",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-1-6",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-2-0",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-2-1",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-2-2",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-2-3",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-2-4",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-2-5",
+      "state": "toggled"
+    },
+    {
+      "width": 390,
+      "control": "cell-2-6",
+      "state": "toggled"
+    }
+  ],
+  "motion": [],
+  "checks": {
+    "pointer": {
+      "hover": "matrix3d(0.99952, 0.000466678, -0.0309657, 0, 0, 0.999886, 0.0150691, 0, 0.0309693, -0.0150618, 0.999407, 0, 0, -0.0447266, 0, 1)",
+      "leave": "matrix(1, 0, 0, 1, 0, -0.0447266)",
+      "settled": true
+    },
+    "reduced1440": true,
+    "keyboardCells": true,
+    "emptyAndLimit": true,
+    "trusted1440": [
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      },
+      {
+        "type": "mouse",
+        "trusted": true
+      }
+    ],
+    "tabReachable": [
+      "link",
+      "other",
+      "view",
+      "cell",
+      "theme",
+      "reset",
+      "range",
+      "text",
+      "save"
+    ],
+    "note1440": true,
+    "reduced390": true,
+    "trusted390": [
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      }
+    ],
+    "note390": true,
+    "touchControls": true,
+    "storageUnavailable": true
+  },
+  "errors": [],
+  "lastMethod": "Page.captureScreenshot",
+  "motionEvidence": "docs/evidence/010-pace/motion-gate.json",
+  "phase": "capture:mobile-storage-unavailable",
+  "result": "passed-observable-checks",
+  "finished": "2026-10-12T12:00:54.370Z"
+}

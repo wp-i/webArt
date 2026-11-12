@@ -1,0 +1,28 @@
+{
+  "decision": "distinct",
+  "nearestId": "008",
+  "openingAndAssetBothRepeated": false,
+  "comparisons": [
+    {
+      "dimension": "composition",
+      "different": true,
+      "finding": "最接近的008以完整室内拱门、家具和角落字标组织首屏；本稿以织物近景的两种触感交界和中央两行衬线身份组织视线，主体尺度与字形位置均不同。"
+    },
+    {
+      "dimension": "typography",
+      "different": true,
+      "finding": "008的身份是右上角短粗无衬线字标与次要小标签，本稿采用中央大衬线正斜体两行，后续索引缩成安静的材料名称，字体角色和层级不同。"
+    },
+    {
+      "dimension": "color-media",
+      "different": true,
+      "finding": "008由植物、橙色吊床和浅色室内空间主导，本稿以深蓝提花、肉桂绒面及纤维细节开场，再经过玫瑰空间与纸色索引，媒体尺度和色彩组织不同。"
+    },
+    {
+      "dimension": "rhythm",
+      "different": true,
+      "finding": "本稿的满幅材质、原生横向空间卷轴、白底材料选择与独立接地光影形成四种节奏；008当前普通室内项目路径没有这种横向空间与材料索引交接。"
+    }
+  ],
+  "sourceSha256": "510d7c8b1ee2b97988b6fa590a569da0c979f48251198580a2334ee0a9349ae8"
+}

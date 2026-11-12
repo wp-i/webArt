@@ -1,0 +1,1999 @@
+{
+  "url": "https://landonorris.com/",
+  "started": "2026-10-30T16:48:24.905Z",
+  "purpose": "Visible helmet collection behavior; no source download",
+  "frames": [
+    {
+      "label": "desktop-gallery-default",
+      "state": {
+        "url": "https://landonorris.com/",
+        "viewport": [
+          1440,
+          900
+        ],
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "scrollY": 8000,
+        "maxY": 12677,
+        "focus": true,
+        "visibility": "visible",
+        "cards": [
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 29.53125,
+              "width": 339.171875,
+              "height": 342.609375,
+              "top": 29.53125,
+              "right": 355.828125,
+              "bottom": 372.140625,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 72.89067077636719,
+                  "width": 339.171875,
+                  "height": 339.171875,
+                  "top": 72.89067077636719,
+                  "right": 355.828125,
+                  "bottom": 412.0625457763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 8.176956176757812,
+                  "y": 62.62271499633789,
+                  "width": 356.1304931640625,
+                  "height": 359.7234191894531,
+                  "top": 62.62271499633789,
+                  "right": 364.3074493408203,
+                  "bottom": 422.346134185791,
+                  "left": 8.176956176757812
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": null,
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 71.18754577636719,
+              "width": 339.171875,
+              "height": 342.59375,
+              "top": 71.18754577636719,
+              "right": 355.828125,
+              "bottom": 413.7812957763672,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 72.89067077636719,
+                  "width": 339.171875,
+                  "height": 339.171875,
+                  "top": 72.89067077636719,
+                  "right": 355.828125,
+                  "bottom": 412.0625457763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 8.176956176757812,
+                  "y": 62.62271499633789,
+                  "width": 356.1304931640625,
+                  "height": 359.7234191894531,
+                  "top": 62.62271499633789,
+                  "right": 364.3074493408203,
+                  "bottom": 422.346134185791,
+                  "left": 8.176956176757812
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Discoball\n2025",
+            "rect": {
+              "x": 372.484375,
+              "y": 112.84375,
+              "width": 339.1875,
+              "height": 342.609375,
+              "top": 112.84375,
+              "right": 711.671875,
+              "bottom": 455.453125,
+              "left": 372.484375
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b2259159e5170d2b923_In-helm-2025-Discoball-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 372.484375,
+                  "y": 239.51568603515625,
+                  "width": 339.1875,
+                  "height": 339.1875,
+                  "top": 239.51568603515625,
+                  "right": 711.671875,
+                  "bottom": 578.7031860351562,
+                  "left": 372.484375
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 364.00469970703125,
+                  "y": 229.247314453125,
+                  "width": 356.1468505859375,
+                  "height": 359.7398681640625,
+                  "top": 229.247314453125,
+                  "right": 720.1515502929688,
+                  "bottom": 588.9871826171875,
+                  "left": 364.00469970703125
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          }
+        ],
+        "dialogs": []
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-default.jpg",
+        "sha256": "43bea43ed007e4c94e875b5cfff72d500d5be92c3d2d241b136f073633004a73"
+      }
+    },
+    {
+      "label": "desktop-gallery-first-hover",
+      "state": {
+        "url": "https://landonorris.com/",
+        "viewport": [
+          1440,
+          900
+        ],
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "scrollY": 8000,
+        "maxY": 12677,
+        "focus": true,
+        "visibility": "visible",
+        "cards": [
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 29.53125,
+              "width": 339.171875,
+              "height": 342.609375,
+              "top": 29.53125,
+              "right": 355.828125,
+              "bottom": 372.140625,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+                "rect": {
+                  "x": -0.3023529052734375,
+                  "y": 55.932071685791016,
+                  "width": 373.089111328125,
+                  "height": 373.089111328125,
+                  "top": 55.932071685791016,
+                  "right": 372.78675842285156,
+                  "bottom": 429.021183013916,
+                  "left": -0.3023529052734375
+                }
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b411c575b2f777125f6_In-helm-2025-Season-hover.webp",
+                "complete": false,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 71.18754577636719,
+                  "width": 339.171875,
+                  "height": 342.59375,
+                  "top": 71.18754577636719,
+                  "right": 355.828125,
+                  "bottom": 413.7812957763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": null,
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 71.18754577636719,
+              "width": 339.171875,
+              "height": 342.59375,
+              "top": 71.18754577636719,
+              "right": 355.828125,
+              "bottom": 413.7812957763672,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+                "rect": {
+                  "x": -0.3023529052734375,
+                  "y": 55.932071685791016,
+                  "width": 373.089111328125,
+                  "height": 373.089111328125,
+                  "top": 55.932071685791016,
+                  "right": 372.78675842285156,
+                  "bottom": 429.021183013916,
+                  "left": -0.3023529052734375
+                }
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b411c575b2f777125f6_In-helm-2025-Season-hover.webp",
+                "complete": false,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 71.18754577636719,
+                  "width": 339.171875,
+                  "height": 342.59375,
+                  "top": 71.18754577636719,
+                  "right": 355.828125,
+                  "bottom": 413.7812957763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Discoball\n2025",
+            "rect": {
+              "x": 372.484375,
+              "y": 112.84375,
+              "width": 339.1875,
+              "height": 342.609375,
+              "top": 112.84375,
+              "right": 711.671875,
+              "bottom": 455.453125,
+              "left": 372.484375
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b2259159e5170d2b923_In-helm-2025-Discoball-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 372.484375,
+                  "y": 239.51568603515625,
+                  "width": 339.1875,
+                  "height": 339.1875,
+                  "top": 239.51568603515625,
+                  "right": 711.671875,
+                  "bottom": 578.7031860351562,
+                  "left": 372.484375
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 364.00469970703125,
+                  "y": 229.247314453125,
+                  "width": 356.1468505859375,
+                  "height": 359.7398681640625,
+                  "top": 229.247314453125,
+                  "right": 720.1515502929688,
+                  "bottom": 588.9871826171875,
+                  "left": 364.00469970703125
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          }
+        ],
+        "dialogs": []
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-hover.jpg",
+        "sha256": "7767c24a22261838fc7464838fbed381f511b7f9107e7ef5a3a872bf778475d1"
+      }
+    },
+    {
+      "label": "desktop-gallery-first-move",
+      "state": {
+        "url": "https://landonorris.com/",
+        "viewport": [
+          1440,
+          900
+        ],
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "scrollY": 8000,
+        "maxY": 12677,
+        "focus": true,
+        "visibility": "visible",
+        "cards": [
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 29.53125,
+              "width": 339.171875,
+              "height": 342.609375,
+              "top": 29.53125,
+              "right": 355.828125,
+              "bottom": 372.140625,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+                "rect": {
+                  "x": -0.3023529052734375,
+                  "y": 55.932071685791016,
+                  "width": 373.089111328125,
+                  "height": 373.089111328125,
+                  "top": 55.932071685791016,
+                  "right": 372.78675842285156,
+                  "bottom": 429.021183013916,
+                  "left": -0.3023529052734375
+                }
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b411c575b2f777125f6_In-helm-2025-Season-hover.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 71.18754577636719,
+                  "width": 339.171875,
+                  "height": 342.59375,
+                  "top": 71.18754577636719,
+                  "right": 355.828125,
+                  "bottom": 413.7812957763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": null,
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 71.18754577636719,
+              "width": 339.171875,
+              "height": 342.59375,
+              "top": 71.18754577636719,
+              "right": 355.828125,
+              "bottom": 413.7812957763672,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+                "rect": {
+                  "x": -0.3023529052734375,
+                  "y": 55.932071685791016,
+                  "width": 373.089111328125,
+                  "height": 373.089111328125,
+                  "top": 55.932071685791016,
+                  "right": 372.78675842285156,
+                  "bottom": 429.021183013916,
+                  "left": -0.3023529052734375
+                }
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b411c575b2f777125f6_In-helm-2025-Season-hover.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 71.18754577636719,
+                  "width": 339.171875,
+                  "height": 342.59375,
+                  "top": 71.18754577636719,
+                  "right": 355.828125,
+                  "bottom": 413.7812957763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Discoball\n2025",
+            "rect": {
+              "x": 372.484375,
+              "y": 112.84375,
+              "width": 339.1875,
+              "height": 342.609375,
+              "top": 112.84375,
+              "right": 711.671875,
+              "bottom": 455.453125,
+              "left": 372.484375
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b2259159e5170d2b923_In-helm-2025-Discoball-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 372.484375,
+                  "y": 239.51568603515625,
+                  "width": 339.1875,
+                  "height": 339.1875,
+                  "top": 239.51568603515625,
+                  "right": 711.671875,
+                  "bottom": 578.7031860351562,
+                  "left": 372.484375
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 364.00469970703125,
+                  "y": 229.247314453125,
+                  "width": 356.1468505859375,
+                  "height": 359.7398681640625,
+                  "top": 229.247314453125,
+                  "right": 720.1515502929688,
+                  "bottom": 588.9871826171875,
+                  "left": 364.00469970703125
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          }
+        ],
+        "dialogs": []
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-move.jpg",
+        "sha256": "1d8a8a82ce101edc92d0fe431bad4908fed0644834a5b685db3ba4e100722aa0"
+      }
+    },
+    {
+      "label": "desktop-gallery-first-leave",
+      "state": {
+        "url": "https://landonorris.com/",
+        "viewport": [
+          1440,
+          900
+        ],
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "scrollY": 8000,
+        "maxY": 12677,
+        "focus": true,
+        "visibility": "visible",
+        "cards": [
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 29.53125,
+              "width": 339.171875,
+              "height": 342.609375,
+              "top": 29.53125,
+              "right": 355.828125,
+              "bottom": 372.140625,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 72.89067077636719,
+                  "width": 339.171875,
+                  "height": 339.171875,
+                  "top": 72.89067077636719,
+                  "right": 355.828125,
+                  "bottom": 412.0625457763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b411c575b2f777125f6_In-helm-2025-Season-hover.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 8.176956176757812,
+                  "y": 62.62271499633789,
+                  "width": 356.1304931640625,
+                  "height": 359.7234191894531,
+                  "top": 62.62271499633789,
+                  "right": 364.3074493408203,
+                  "bottom": 422.346134185791,
+                  "left": 8.176956176757812
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": null,
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 71.18754577636719,
+              "width": 339.171875,
+              "height": 342.59375,
+              "top": 71.18754577636719,
+              "right": 355.828125,
+              "bottom": 413.7812957763672,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 72.89067077636719,
+                  "width": 339.171875,
+                  "height": 339.171875,
+                  "top": 72.89067077636719,
+                  "right": 355.828125,
+                  "bottom": 412.0625457763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b411c575b2f777125f6_In-helm-2025-Season-hover.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 8.176956176757812,
+                  "y": 62.62271499633789,
+                  "width": 356.1304931640625,
+                  "height": 359.7234191894531,
+                  "top": 62.62271499633789,
+                  "right": 364.3074493408203,
+                  "bottom": 422.346134185791,
+                  "left": 8.176956176757812
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Discoball\n2025",
+            "rect": {
+              "x": 372.484375,
+              "y": 112.84375,
+              "width": 339.1875,
+              "height": 342.609375,
+              "top": 112.84375,
+              "right": 711.671875,
+              "bottom": 455.453125,
+              "left": 372.484375
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b2259159e5170d2b923_In-helm-2025-Discoball-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 372.484375,
+                  "y": 239.51568603515625,
+                  "width": 339.1875,
+                  "height": 339.1875,
+                  "top": 239.51568603515625,
+                  "right": 711.671875,
+                  "bottom": 578.7031860351562,
+                  "left": 372.484375
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 364.00469970703125,
+                  "y": 229.247314453125,
+                  "width": 356.1468505859375,
+                  "height": 359.7398681640625,
+                  "top": 229.247314453125,
+                  "right": 720.1515502929688,
+                  "bottom": 588.9871826171875,
+                  "left": 364.00469970703125
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          }
+        ],
+        "dialogs": []
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-leave.jpg",
+        "sha256": "d36e4a81c8440e2f87c60fbe33e05e3f5b68fd03e9d74a46c4d11b5b4eec67c0"
+      }
+    },
+    {
+      "label": "desktop-gallery-first-click",
+      "state": {
+        "url": "https://landonorris.com/",
+        "viewport": [
+          1440,
+          900
+        ],
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "scrollY": 8000,
+        "maxY": 12677,
+        "focus": true,
+        "visibility": "visible",
+        "cards": [
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 29.53125,
+              "width": 339.171875,
+              "height": 342.609375,
+              "top": 29.53125,
+              "right": 355.828125,
+              "bottom": 372.140625,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+                "rect": {
+                  "x": -0.3023529052734375,
+                  "y": 55.932071685791016,
+                  "width": 373.089111328125,
+                  "height": 373.089111328125,
+                  "top": 55.932071685791016,
+                  "right": 372.78675842285156,
+                  "bottom": 429.021183013916,
+                  "left": -0.3023529052734375
+                }
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b411c575b2f777125f6_In-helm-2025-Season-hover.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 71.18754577636719,
+                  "width": 339.171875,
+                  "height": 342.59375,
+                  "top": 71.18754577636719,
+                  "right": 355.828125,
+                  "bottom": 413.7812957763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": null,
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 71.18754577636719,
+              "width": 339.171875,
+              "height": 342.59375,
+              "top": 71.18754577636719,
+              "right": 355.828125,
+              "bottom": 413.7812957763672,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.1, 0, 0, 1.1, 0, 0)",
+                "rect": {
+                  "x": -0.3023529052734375,
+                  "y": 55.932071685791016,
+                  "width": 373.089111328125,
+                  "height": 373.089111328125,
+                  "top": 55.932071685791016,
+                  "right": 372.78675842285156,
+                  "bottom": 429.021183013916,
+                  "left": -0.3023529052734375
+                }
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b411c575b2f777125f6_In-helm-2025-Season-hover.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 71.18754577636719,
+                  "width": 339.171875,
+                  "height": 342.59375,
+                  "top": 71.18754577636719,
+                  "right": 355.828125,
+                  "bottom": 413.7812957763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Discoball\n2025",
+            "rect": {
+              "x": 372.484375,
+              "y": 112.84375,
+              "width": 339.1875,
+              "height": 342.609375,
+              "top": 112.84375,
+              "right": 711.671875,
+              "bottom": 455.453125,
+              "left": 372.484375
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b2259159e5170d2b923_In-helm-2025-Discoball-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 372.484375,
+                  "y": 239.51568603515625,
+                  "width": 339.1875,
+                  "height": 339.1875,
+                  "top": 239.51568603515625,
+                  "right": 711.671875,
+                  "bottom": 578.7031860351562,
+                  "left": 372.484375
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 364.00469970703125,
+                  "y": 229.247314453125,
+                  "width": 356.1468505859375,
+                  "height": 359.7398681640625,
+                  "top": 229.247314453125,
+                  "right": 720.1515502929688,
+                  "bottom": 588.9871826171875,
+                  "left": 364.00469970703125
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          }
+        ],
+        "dialogs": []
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-click.jpg",
+        "sha256": "1d8a8a82ce101edc92d0fe431bad4908fed0644834a5b685db3ba4e100722aa0"
+      }
+    },
+    {
+      "label": "desktop-gallery-first-click-leave",
+      "state": {
+        "url": "https://landonorris.com/",
+        "viewport": [
+          1440,
+          900
+        ],
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "scrollY": 8000,
+        "maxY": 12677,
+        "focus": true,
+        "visibility": "visible",
+        "cards": [
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 29.53125,
+              "width": 339.171875,
+              "height": 342.609375,
+              "top": 29.53125,
+              "right": 355.828125,
+              "bottom": 372.140625,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 72.89067077636719,
+                  "width": 339.171875,
+                  "height": 339.171875,
+                  "top": 72.89067077636719,
+                  "right": 355.828125,
+                  "bottom": 412.0625457763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b411c575b2f777125f6_In-helm-2025-Season-hover.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 8.176956176757812,
+                  "y": 62.62271499633789,
+                  "width": 356.1304931640625,
+                  "height": 359.7234191894531,
+                  "top": 62.62271499633789,
+                  "right": 364.3074493408203,
+                  "bottom": 422.346134185791,
+                  "left": 8.176956176757812
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": null,
+            "text": "Season\n2025",
+            "rect": {
+              "x": 16.65625,
+              "y": 71.18754577636719,
+              "width": 339.171875,
+              "height": 342.59375,
+              "top": 71.18754577636719,
+              "right": 355.828125,
+              "bottom": 413.7812957763672,
+              "left": 16.65625
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b3e6c7ab86033cf172c_In-helm-2025-Season-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 16.65625,
+                  "y": 72.89067077636719,
+                  "width": 339.171875,
+                  "height": 339.171875,
+                  "top": 72.89067077636719,
+                  "right": 355.828125,
+                  "bottom": 412.0625457763672,
+                  "left": 16.65625
+                }
+              },
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b411c575b2f777125f6_In-helm-2025-Season-hover.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 8.176956176757812,
+                  "y": 62.62271499633789,
+                  "width": 356.1304931640625,
+                  "height": 359.7234191894531,
+                  "top": 62.62271499633789,
+                  "right": 364.3074493408203,
+                  "bottom": 422.346134185791,
+                  "left": 8.176956176757812
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          {
+            "tag": "DIV",
+            "role": "listitem",
+            "text": "Discoball\n2025",
+            "rect": {
+              "x": 372.484375,
+              "y": 112.84375,
+              "width": 339.1875,
+              "height": 342.609375,
+              "top": 112.84375,
+              "right": 711.671875,
+              "bottom": 455.453125,
+              "left": 372.484375
+            },
+            "links": [],
+            "images": [
+              {
+                "src": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68305b2259159e5170d2b923_In-helm-2025-Discoball-base.webp",
+                "complete": true,
+                "natural": [
+                  1440,
+                  1440
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 372.484375,
+                  "y": 239.51568603515625,
+                  "width": 339.1875,
+                  "height": 339.1875,
+                  "top": 239.51568603515625,
+                  "right": 711.671875,
+                  "bottom": 578.7031860351562,
+                  "left": 372.484375
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "matrix(1.05, 0, 0, 1.05, 0, 0)",
+                "rect": {
+                  "x": 364.00469970703125,
+                  "y": 229.247314453125,
+                  "width": 356.1468505859375,
+                  "height": 359.7398681640625,
+                  "top": 229.247314453125,
+                  "right": 720.1515502929688,
+                  "bottom": 588.9871826171875,
+                  "left": 364.00469970703125
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "1",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              },
+              {
+                "src": "",
+                "complete": false,
+                "natural": [
+                  0,
+                  0
+                ],
+                "opacity": "0",
+                "transform": "none",
+                "rect": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                }
+              }
+            ]
+          }
+        ],
+        "dialogs": []
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-click-leave.jpg",
+        "sha256": "d36e4a81c8440e2f87c60fbe33e05e3f5b68fd03e9d74a46c4d11b5b4eec67c0"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "native-wheel",
+      "deltaY": 1000
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1000
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1000
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1000
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1000
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1000
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1000
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1000
+    },
+    {
+      "type": "native-pointer",
+      "label": "desktop-gallery-default",
+      "x": 1430,
+      "y": 100
+    },
+    {
+      "type": "native-pointer",
+      "label": "desktop-gallery-first-hover",
+      "x": 186.2421875,
+      "y": 253.79261779785156
+    },
+    {
+      "type": "native-pointer",
+      "label": "desktop-gallery-first-move",
+      "x": 256.2421875,
+      "y": 288.79261779785156
+    },
+    {
+      "type": "native-pointer",
+      "label": "desktop-gallery-first-leave",
+      "x": 1430,
+      "y": 100
+    },
+    {
+      "type": "native-mouse-click",
+      "x": 186.2421875,
+      "y": 253.79261779785156
+    },
+    {
+      "type": "native-pointer",
+      "label": "desktop-gallery-first-click-leave",
+      "x": 1430,
+      "y": 100
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-admitted",
+  "finished": "2026-10-30T16:48:48.950Z"
+}

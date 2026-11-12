@@ -1,0 +1,301 @@
+{
+  "url": "https://basement.studio/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/basement-path/opening.jpg",
+      "sha256": "c4ac916e1c13403e6785ed17594ff314268bfad1db98478b7351aedc32d15f8a"
+    },
+    {
+      "state": "early",
+      "y": 926,
+      "path": "docs/evidence/redo-v2/2026-10-16/basement-path/early.jpg",
+      "sha256": "9a6ca3466ce439628cf41896b1a0dbdf953efee8877b128ff89c16bbe48376b9"
+    },
+    {
+      "state": "middle",
+      "y": 2430,
+      "path": "docs/evidence/redo-v2/2026-10-16/basement-path/middle.jpg",
+      "sha256": "5177324216e7db4ed8689d8306595495d37c56ff0d94ea3103d2a02bd89808ce"
+    },
+    {
+      "state": "late",
+      "y": 4341,
+      "path": "docs/evidence/redo-v2/2026-10-16/basement-path/late.jpg",
+      "sha256": "571fcab890bfc7a7ea277be35fe2c01cb300712eeb67d02f56200134399c9352"
+    },
+    {
+      "state": "ending",
+      "y": 5787,
+      "path": "docs/evidence/redo-v2/2026-10-16/basement-path/ending.jpg",
+      "sha256": "52f47fa4f20b2edd95332277ab41fde9395410ef5ad3a058b587003a06e55abb"
+    }
+  ],
+  "metadata": {
+    "height": 6687,
+    "headings": [
+      {
+        "text": "A digital studio & branding powerhouse making cool shit that performs",
+        "tag": "H1",
+        "class": "text-pretty text-f-h0-mobile lg:text-[5.4375rem] lg:leading-[4.875rem] 3xl:text-f-h0",
+        "parent": "",
+        "top": 916
+      },
+      {
+        "text": "Trusted by Visionaries",
+        "tag": "H2",
+        "class": "col-span-full text-f-h3-mobile text-brand-g1 lg:col-start-2 lg:text-f-h3 2xl:col-start-3",
+        "parent": "grid-layout col-span-full !px-0",
+        "top": 1354
+      },
+      {
+        "text": "Featured Projects",
+        "tag": "H2",
+        "class": "col-span-full bg-brand-k pb-6 pt-12 !text-f-h1-mobile text-brand-w2 lg:pt-14 lg:!text-f-h1",
+        "parent": "col-span-full top-[6.7rem] lg:sticky lg:top-[9.2rem] !top-0 lg:!top-0",
+        "top": 2308
+      },
+      {
+        "text": "Capabilities",
+        "tag": "H2",
+        "class": "col-span-full mb-2 text-f-h3-mobile text-brand-g1 lg:col-start-2 lg:text-f-h3 2xl:col-start-3",
+        "parent": "grid-layout",
+        "top": 4533
+      },
+      {
+        "text": "Websites & Features",
+        "tag": "H3",
+        "class": "text-f-h4-mobile lg:text-f-h4",
+        "parent": "col-span-1 mt-1.25 flex flex-col gap-y-6 text-brand-w1 lg:col-span-2",
+        "top": 4930
+      },
+      {
+        "text": "Visual Branding",
+        "tag": "H3",
+        "class": "text-f-h4-mobile lg:text-f-h4",
+        "parent": "col-span-1 mt-1.25 flex flex-col gap-y-6 text-brand-w1 lg:col-span-2",
+        "top": 4930
+      },
+      {
+        "text": "IRL Experience Design",
+        "tag": "H3",
+        "class": "text-f-h4-mobile lg:text-f-h4",
+        "parent": "col-span-1 mt-1.25 flex flex-col gap-y-6 text-brand-w1 lg:col-span-2",
+        "top": 4930
+      },
+      {
+        "text": "Marketing Execution",
+        "tag": "H3",
+        "class": "text-f-h4-mobile lg:text-f-h4",
+        "parent": "col-span-1 mt-1.25 flex flex-col gap-y-6 text-brand-w1 lg:col-span-2",
+        "top": 4930
+      },
+      {
+        "text": "Contact",
+        "tag": "H2",
+        "class": "relative col-span-2 mb-2 text-f-h3-mobile text-brand-g1 lg:text-f-h3",
+        "parent": "relative col-span-full grid h-fit grid-cols-4 gap-2 !px-0 lg:col-span-10 lg:col-start-2 lg:grid-cols-10 2xl:col-start-3",
+        "top": 5362
+      }
+    ],
+    "sections": [
+      {
+        "tag": "MAIN",
+        "class": "relative flex scroll-m-9 flex-col bg-brand-k pb-12 pt-4 after:absolute after:-top-px after:z-10 after:h-px after:w-full after:bg-brand-w1/10 lg:pb-24",
+        "id": "",
+        "top": 900,
+        "height": 4939
+      },
+      {
+        "tag": "SECTION",
+        "class": "grid-layout",
+        "id": "",
+        "top": 916,
+        "height": 310
+      },
+      {
+        "tag": "SECTION",
+        "class": "lg:grid-layout hidden !gap-y-4",
+        "id": "",
+        "top": 1354,
+        "height": 826
+      },
+      {
+        "tag": "FOOTER",
+        "class": "relative z-10 flex flex-col justify-between bg-brand-k pb-4 lg:h-[calc(100dvh-3.25rem)]",
+        "id": "",
+        "top": 5839,
+        "height": 848
+      }
+    ],
+    "controls": [
+      {
+        "tag": "A",
+        "text": "Home",
+        "class": "group space-x-1 text-brand-w1 transition-colors duration-0 hover:text-brand-o actionable-opacity"
+      },
+      {
+        "tag": "A",
+        "text": "Services",
+        "class": "group space-x-1 text-brand-w1 transition-colors duration-0 hover:text-brand-o actionable-opacity"
+      },
+      {
+        "tag": "A",
+        "text": "Showcase",
+        "class": "group space-x-1 text-brand-w1 transition-colors duration-0 hover:text-brand-o actionable-opacity"
+      },
+      {
+        "tag": "A",
+        "text": "People",
+        "class": "group space-x-1 text-brand-w1 transition-colors duration-0 hover:text-brand-o actionable-opacity"
+      },
+      {
+        "tag": "A",
+        "text": "Blog",
+        "class": "group space-x-1 text-brand-w1 transition-colors duration-0 hover:text-brand-o actionable-opacity"
+      },
+      {
+        "tag": "A",
+        "text": "Lab",
+        "class": "group space-x-1 text-brand-w1 transition-colors duration-0 hover:text-brand-o actionable-opacity"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Contact Us",
+        "class": "text-[0.75rem] font-semibold leading-4 text-brand-w1 transition-colors duration-0 hover:text-brand-o"
+      },
+      {
+        "tag": "A",
+        "text": "Vercel Ship",
+        "class": "hidden h-max w-max justify-self-end pr-0.5 text-right text-f-h2-mobile text-brand-w1 md:block lg:col-span-2 lg:col-start-11 lg:text-f-h2"
+      },
+      {
+        "tag": "A",
+        "text": "Daylight",
+        "class": "hidden h-max w-max justify-self-end pr-0.5 text-right text-f-h2-mobile text-brand-w1 md:block lg:col-span-2 lg:col-start-11 lg:text-f-h2"
+      },
+      {
+        "tag": "A",
+        "text": "KidSuper",
+        "class": "hidden h-max w-max justify-self-end pr-0.5 text-right text-f-h2-mobile text-brand-w1 md:block lg:col-span-2 lg:col-start-11 lg:text-f-h2"
+      },
+      {
+        "tag": "A",
+        "text": "Shop MrBeast",
+        "class": "hidden h-max w-max justify-self-end pr-0.5 text-right text-f-h2-mobile text-brand-w1 md:block lg:col-span-2 lg:col-start-11 lg:text-f-h2"
+      },
+      {
+        "tag": "A",
+        "text": "Websites & Features",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "Visual Branding",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "IRL Experience Design",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "Marketing Execution",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "hello@basement.studio",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "Home",
+        "class": "flex w-fit gap-x-0.5 text-brand-w1"
+      },
+      {
+        "tag": "A",
+        "text": "Services",
+        "class": "flex w-fit gap-x-0.5 text-brand-w1"
+      },
+      {
+        "tag": "A",
+        "text": "Showcase\n(26)",
+        "class": "flex w-fit gap-x-0.5 text-brand-w1"
+      },
+      {
+        "tag": "A",
+        "text": "People",
+        "class": "flex w-fit gap-x-0.5 text-brand-w1"
+      },
+      {
+        "tag": "A",
+        "text": "Blog\n(29)",
+        "class": "flex w-fit gap-x-0.5 text-brand-w1"
+      },
+      {
+        "tag": "A",
+        "text": "Lab",
+        "class": "flex w-fit gap-x-0.5 text-brand-w1"
+      }
+    ]
+  },
+  "inventory": {
+    "images": 40,
+    "videos": [],
+    "canvases": [
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1425,
+          "height": 900,
+          "top": 0,
+          "right": 1425,
+          "bottom": 900,
+          "left": 0
+        },
+        "width": 1425,
+        "height": 900
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1425,
+          "height": 900,
+          "top": 0,
+          "right": 1425,
+          "bottom": 900,
+          "left": 0
+        },
+        "width": 1425,
+        "height": 900
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1425,
+          "height": 900,
+          "top": 0,
+          "right": 1425,
+          "bottom": 900,
+          "left": 0
+        },
+        "width": 1425,
+        "height": 900
+      }
+    ],
+    "viewers": [],
+    "openRoots": 3,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": true
+  },
+  "result": "scouted-not-admitted"
+}

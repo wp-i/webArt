@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026-10-12-user-calibration-v2",
+  "authority": "User review in this conversation: if Design001 is 95, the other five are approximately 80. Style difference is not the problem; quality, surprise and interaction finish are.",
+  "baseline": {"id":"001","sourceSha256":"8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0","userScore":95,"class":"benchmark"},
+  "negatives": [
+    {"id":"006","sourceSha256":"3be6deb3cc6893ce3a225c43d7cdd330a3aed8b945269cd77056577262e1f99a","userScore":80,"approximate":true,"class":"below-benchmark"},
+    {"id":"007","sourceSha256":"46c7d81838525a79057b4d7a98f030222a2befb44b0b7b8719e63c3224d2121f","userScore":80,"approximate":true,"class":"below-benchmark"},
+    {"id":"008","sourceSha256":"31892bf10228f07d305ed4bee795c10bed76c5514a06429ab545d10eaeddcd99","userScore":80,"approximate":true,"class":"below-benchmark"},
+    {"id":"009","sourceSha256":"057d1fff49885ed00ccd2bae36abcd33ae87fffc4bd7fdbc13b9b31f0444c147","userScore":80,"approximate":true,"class":"below-benchmark"},
+    {"id":"010","sourceSha256":"4fcd045081962375d946130e871d1fd95df9e1d91a301aa3471016962436abd4","userScore":80,"approximate":true,"class":"below-benchmark"}
+  ],
+  "dimensions": ["opening-authority","type-media-craft","asset-specificity","scroll-choreography","pointer-finish","whole-page-resolution","mobile-composition"],
+  "excludedMerits": ["framework-simplicity","low-asset-count","zero-image-generation","different-style","button-count","nonzero-transform","passing-engineering-qa"],
+  "notes": "Scores are human calibration labels, not fresh model measurements. Do not sum craft checks into a new self-awarded 95. Preserve the approved baseline source and compare quality rather than copy its black/gold or stage layout."
+}

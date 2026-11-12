@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 2,
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "reviewer": {
+    "id": "primary-art-reviewer-2026-10-13",
+    "calibrationRunId": "2026-10-13-redo-primary-01",
+    "mode": "blind-evidence-only",
+    "inputScope": "benchmark+negative+reference+candidate",
+    "implementationContextIncluded": false
+  },
+  "evidenceInput": ".webart/quality-packets/campovivo-attempt-02/input.json",
+  "limitations": "Single primary reviewer retains implementation and conversation context. Evidence input excludes reasons, costs and scores; this is not an independent blind model or a guarantee of user acceptance.",
+  "phase": "prototype",
+  "sourceSha256": "66bbd062f3878da8388e0119e27bd42073a30d781d84e2b402cd1814d0493d74",
+  "decision": "reject",
+  "vetoes": [
+    "opening-authority",
+    "type-media-craft",
+    "asset-specificity",
+    "scroll-choreography",
+    "pointer-finish",
+    "whole-page-resolution",
+    "mobile-composition"
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-opening/contact-sheet.jpg",
+          "sha256": "a2261a7aba7ee1ac8ae410f0726a0e042b14721c5c1436199f200867dd7cb72a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 383,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-transition/contact-sheet.jpg",
+          "sha256": "88438bf017edd17d7f796578a51ffcd74a97b383eedd09f475080e23ce713602"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 833,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-middle/contact-sheet.jpg",
+          "sha256": "f36b838a1ab23ca6cc72564e9fbbcaf8ca85c6ad63df85397034989f4645040d"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1224,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-ending/contact-sheet.jpg",
+          "sha256": "42c6ddcdd7bf719d4d2db2c2ce01ee48779e40ef8d40b73f885a16deea453f70"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-opening/contact-sheet.jpg",
+          "sha256": "a43a42805a75a311547c20c7d5d8df741a0e1384ab16cc86b9a99156285bdd52"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 523,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-transition/contact-sheet.jpg",
+          "sha256": "399bbd96fef3862b9c961af21036bd138afa132e861f805a16234cbe6a296e7e"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 935,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-middle/contact-sheet.jpg",
+          "sha256": "90b76510cec2e6a321884d0620287b871dabaef828e418bd5b87fd0af509be1a"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1190,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-ending/contact-sheet.jpg",
+          "sha256": "8a26260ca893f14f8613a27fa21974f3f75c7abb08868cb4ce5612414dfe6030"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "below",
+      "finding": "试片完整字标与双栏可读，但3D方形面食较小、黄栏短句与它相互分离，影片是单机位揉面；与001材料/标题共同承担主构图相比，主体力度仍不足。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-opening/contact-sheet.jpg",
+          "sha256": "a2261a7aba7ee1ac8ae410f0726a0e042b14721c5c1436199f200867dd7cb72a"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "below",
+      "finding": "001的薄片边缘、层次和字形关系精细；试片颗粒渲染已存在，但面食默认像粗糙的方形饼干，鼓包与规则平边缺少可信湿润面皮工艺。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-middle/contact-sheet.jpg",
+          "sha256": "f36b838a1ab23ca6cc72564e9fbbcaf8ca85c6ad63df85397034989f4645040d"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "below",
+      "finding": "试片影片来自同一真实动作，图库来自另外两位作者，光线和料理形式并不连续；晚餐照片包含显眼披萨，弱化面食体验身份。版权许可与最终图片加载不能补偿这种普通库存感。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-opening/contact-sheet.jpg",
+          "sha256": "a2261a7aba7ee1ac8ae410f0726a0e042b14721c5c1436199f200867dd7cb72a"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "below",
+      "finding": "试片正反滚动是首屏、标题加图库、粉色邀请的普通顺序进入；图库可横向拖动，但不是纵向观看的连续编排。相比001从表面、纤维到空间的交接，这项仍低于基准。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-middle/contact-sheet.jpg",
+          "sha256": "f36b838a1ab23ca6cc72564e9fbbcaf8ca85c6ad63df85397034989f4645040d"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "below",
+      "finding": "真实指针转动3D形态及离开后的状态已经恢复，不再只用光标微移替代；但默认面食材质与形态精度不足，使视角变化的观看结果仍弱于001揭示具体材料。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-held",
+          "path": "docs/evidence/quality-calibration/001-1440-held.png",
+          "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-opening/contact-sheet.jpg",
+          "sha256": "a2261a7aba7ee1ac8ae410f0726a0e042b14721c5c1436199f200867dd7cb72a"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "below",
+      "finding": "001完整的空间与Remain有独立结果；试片照片下方接标题、短句和邮箱的粉色CTA，功能可用但仍属普通联系区，不能作为相当的视觉收束。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-ending/contact-sheet.jpg",
+          "sha256": "42c6ddcdd7bf719d4d2db2c2ce01ee48779e40ef8d40b73f885a16deea453f70"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "below",
+      "finding": "手机字标完整、影片和静态模型都可见，长占位文案已经减少；然而中段仍为单卡照片条，结尾是常规联系块，实际构图仍弱于001重新排列的材料/字形关系。",
+      "benchmarkEvidence": [
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/mobile-opening/contact-sheet.jpg",
+          "sha256": "a43a42805a75a311547c20c7d5d8df741a0e1384ab16cc86b9a99156285bdd52"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "visualPurpose": "指针改变黄栏中面食对象的实际视角，影片呈现制作动作；恢复机制不等于材料、整页编排及收束已经相当。",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-opening/contact-sheet.jpg",
+          "sha256": "ef585da2c353498ecb3ce92b87a1e9ee7f2f77795f3bc999a393ce3fdf400f2a"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-opening/contact-sheet.jpg",
+          "sha256": "a2261a7aba7ee1ac8ae410f0726a0e042b14721c5c1436199f200867dd7cb72a"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": false,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "499fbe35773b59b447afe92895bb534be04798dd97f26106598082f375166749"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "85dbc2c84f4b8d321aafe2c930e5cdf480c39d864884dc289c9d1d3e48e2ace5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "c28e3244ce9948acac611ed8fa8945127352a7afc3e86d26bf9a2ba9fc416c4c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "a8f051a2b588396ab23984f15c0150237116796d1c322389db85976bc1d70df9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "42c6ddcdd7bf719d4d2db2c2ce01ee48779e40ef8d40b73f885a16deea453f70"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "a8f051a2b588396ab23984f15c0150237116796d1c322389db85976bc1d70df9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "fa41bff3e39b69312bc73c9ff8da78d010d9727c56dee87e06f787ce1d57e718"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "54be094fe9b4ae3e19f85e176d433388ce3d90a56b5ee3c9428fe5443f639e1f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "c7f43014d411793848089e88c441e1b24806234f3f4be66c8f2214d35685fc9c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-reduced/contact-sheet.jpg",
+          "sha256": "be589c202058caad3914eef63de5943c3ec029ccd4f708d7655c57842f9ded9f"
+        }
+      ],
+      "note": "Actual traversal inspected; changing viewport does not establish scene-level scroll choreography."
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "97c2f78c2cbd02935d40f577117d18e536140b476e76cd7bb87484ad1faddaa4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "493d36202fad65929b4d774c6230e48e9bbd5713b8a2d1b0d350c782b69ec8ea"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "06976755e190faac6039968af53b9d9e14629d7653b72d8e53aaf14b64439c91"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "f264284734192b6cea598bc048df958613108c697843f8667de75a0c755e16f8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-prototype-raviolo-pinned/desktop-reduced/contact-sheet.jpg",
+          "sha256": "be589c202058caad3914eef63de5943c3ec029ccd4f708d7655c57842f9ded9f"
+        }
+      ],
+      "note": "Actual forward, reverse and leave viewpoints inspected; moving footage is not pointer evidence."
+    }
+  ]
+}

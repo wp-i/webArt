@@ -1,0 +1,374 @@
+{
+  "url": "https://www.houseofhoney.com/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/honey-path/opening.jpg",
+      "sha256": "8010fc1231a4dc492e7c3274a499f644dce9326692d8a553f53132fef2e17087"
+    },
+    {
+      "state": "early",
+      "y": 1110,
+      "path": "docs/evidence/redo-v2/2026-10-16/honey-path/early.jpg",
+      "sha256": "1576471ace6b80291757a541ced168229a9eebb671604f0b40d3e70f713f22a6"
+    },
+    {
+      "state": "middle",
+      "y": 2914,
+      "path": "docs/evidence/redo-v2/2026-10-16/honey-path/middle.jpg",
+      "sha256": "88448f12bd9d36b2f10ce80e55cb234abdf0a0469cdee7f887a98bc492f14d6d"
+    },
+    {
+      "state": "late",
+      "y": 5203,
+      "path": "docs/evidence/redo-v2/2026-10-16/honey-path/late.jpg",
+      "sha256": "c06583cd6dd31442e270a9514cf2c2af89d0814fa7c8765a1147f0e7e005512c"
+    },
+    {
+      "state": "ending",
+      "y": 6938,
+      "path": "docs/evidence/redo-v2/2026-10-16/honey-path/ending.jpg",
+      "sha256": "4e72b258b9a5170cbb8a64a7c7333c929f25fb0e02bb8486bf7f135a4fda9924"
+    }
+  ],
+  "metadata": {
+    "height": 7838,
+    "headings": [
+      {
+        "text": "HOUSE OF HONEY IS A FEMALE COLLECTIVE OF INTERIOR DESIGNERS BORN OUT OF A DESIRE TO CREATE MEANINGFUL EXPERIENCES",
+        "tag": "H2",
+        "class": "mx-auto max-w-1054 text-center font-noe-text text-title-20 uppercase lg:whitespace-pre-line",
+        "parent": "mx-auto flex h-full flex-col gap-16 lg:gap-24",
+        "top": 1424
+      },
+      {
+        "text": "SPACES WITH STORY",
+        "tag": "H2",
+        "class": "text-center font-noe-text text-title-40 uppercase lg:whitespace-pre-line",
+        "parent": "mx-auto flex max-w-1054 flex-col gap-16 lg:gap-24",
+        "top": 2486
+      },
+      {
+        "text": "A STUDY IN EXPRESSION",
+        "tag": "H3",
+        "class": "truncate text-body-30-normal",
+        "parent": "flex flex-col gap-8 bg-theme-bg-secondary pt-16 text-theme-text-secondary",
+        "top": 3410
+      },
+      {
+        "text": "FRENCH COUNTRY FANTASY",
+        "tag": "H3",
+        "class": "truncate text-body-30-normal",
+        "parent": "flex flex-col gap-8 bg-theme-bg-secondary pt-16 text-theme-text-secondary",
+        "top": 3410
+      },
+      {
+        "text": "HEIRLOOM HOUSE",
+        "tag": "H3",
+        "class": "truncate text-body-30-normal",
+        "parent": "flex flex-col gap-8 bg-theme-bg-secondary pt-16 text-theme-text-secondary",
+        "top": 3410
+      },
+      {
+        "text": "COASTAL CANOPY",
+        "tag": "H3",
+        "class": "truncate text-body-30-normal",
+        "parent": "flex flex-col gap-8 bg-theme-bg-secondary pt-16 text-theme-text-secondary",
+        "top": 4156
+      },
+      {
+        "text": "ROCK N ROLL REVERENCE",
+        "tag": "H3",
+        "class": "truncate text-body-30-normal",
+        "parent": "flex flex-col gap-8 bg-theme-bg-secondary pt-16 text-theme-text-secondary",
+        "top": 4156
+      },
+      {
+        "text": "MODERN GLAMOUR",
+        "tag": "H3",
+        "class": "truncate text-body-30-normal",
+        "parent": "flex flex-col gap-8 bg-theme-bg-secondary pt-16 text-theme-text-secondary",
+        "top": 4156
+      },
+      {
+        "text": "DEAR HONEY",
+        "tag": "H2",
+        "class": "text-center font-noe-text text-title-40 uppercase lg:whitespace-pre-line",
+        "parent": "mx-auto flex max-w-1054 flex-col gap-16 lg:gap-24",
+        "top": 4764
+      },
+      {
+        "text": "THE TRICK IS LAYERS, LOVE",
+        "tag": "H3",
+        "class": "line-clamp-5 font-noe-text text-title-20 uppercase",
+        "parent": "col-start-2 row-start-2 flex flex-col justify-end gap-8",
+        "top": 5887
+      },
+      {
+        "text": "IT WOULD BE A PRIVILEGE\nTO HEAR FROM YOU",
+        "tag": "H2",
+        "class": "whitespace-pre-line font-noe-text text-title-20 uppercase",
+        "parent": "flex flex-col mt-50 gap-24",
+        "top": 6543
+      }
+    ],
+    "sections": [
+      {
+        "tag": "MAIN",
+        "class": "",
+        "id": "",
+        "top": 0,
+        "height": 6817
+      },
+      {
+        "tag": "FOOTER",
+        "class": "flex flex-col gap-24 bg-theme-bg-primary p-8",
+        "id": "",
+        "top": 6817,
+        "height": 1021
+      }
+    ],
+    "controls": [
+      {
+        "tag": "A",
+        "text": "Studio",
+        "class": "relative flex h-full min-w-0 items-center justify-center overflow-hidden px-12 text-center text-body-20-normal rounded-none transition-all duration-400 ease-in-out hover:rounded-[25px] hover:bg-theme-accent hover:text-theme-text-secondary bg-theme-bg-secondary text-theme-text-secondary data-[active=true]:rounded-full data-[active=true]:text-theme-text-secondary data-[active=true]:bg-theme-accent data-[active=true]:active:bg-theme-accent data-[active=true]:active:text-theme-text-secondary"
+      },
+      {
+        "tag": "A",
+        "text": "Spaces",
+        "class": "relative flex h-full min-w-0 items-center justify-center overflow-hidden px-12 text-center text-body-20-normal rounded-none transition-all duration-400 ease-in-out hover:rounded-[25px] hover:bg-theme-accent hover:text-theme-text-secondary bg-theme-bg-secondary text-theme-text-secondary data-[active=true]:rounded-full data-[active=true]:text-theme-text-secondary data-[active=true]:bg-theme-accent data-[active=true]:active:bg-theme-accent data-[active=true]:active:text-theme-text-secondary"
+      },
+      {
+        "tag": "A",
+        "text": "The Buzz",
+        "class": "relative flex h-full min-w-0 items-center justify-center overflow-hidden px-12 text-center text-body-20-normal rounded-none transition-all duration-400 ease-in-out hover:rounded-[25px] hover:bg-theme-accent hover:text-theme-text-secondary bg-theme-bg-secondary text-theme-text-secondary data-[active=true]:rounded-full data-[active=true]:text-theme-text-secondary data-[active=true]:bg-theme-accent data-[active=true]:active:bg-theme-accent data-[active=true]:active:text-theme-text-secondary"
+      },
+      {
+        "tag": "A",
+        "text": "Dear Honey",
+        "class": "relative flex h-full min-w-0 items-center justify-center overflow-hidden px-12 text-center text-body-20-normal rounded-none transition-all duration-400 ease-in-out hover:rounded-[25px] hover:bg-theme-accent hover:text-theme-text-secondary bg-theme-bg-secondary text-theme-text-secondary data-[active=true]:rounded-full data-[active=true]:text-theme-text-secondary data-[active=true]:bg-theme-accent data-[active=true]:active:bg-theme-accent data-[active=true]:active:text-theme-text-secondary"
+      },
+      {
+        "tag": "A",
+        "text": "Press Room",
+        "class": "relative flex h-full min-w-0 items-center justify-center overflow-hidden px-12 text-center text-body-20-normal rounded-none transition-all duration-400 ease-in-out hover:rounded-[25px] hover:bg-theme-accent hover:text-theme-text-secondary bg-theme-bg-secondary text-theme-text-secondary data-[active=true]:rounded-full data-[active=true]:text-theme-text-secondary data-[active=true]:bg-theme-accent data-[active=true]:active:bg-theme-accent data-[active=true]:active:text-theme-text-secondary"
+      },
+      {
+        "tag": "A",
+        "text": "Get in Touch",
+        "class": "relative flex h-full min-w-0 items-center justify-center overflow-hidden px-12 text-center text-body-20-normal rounded-none transition-all duration-400 ease-in-out hover:rounded-[25px] hover:bg-theme-accent hover:text-theme-text-secondary bg-theme-bg-secondary text-theme-text-secondary data-[active=true]:rounded-full data-[active=true]:text-theme-text-secondary data-[active=true]:bg-theme-accent data-[active=true]:active:bg-theme-accent data-[active=true]:active:text-theme-text-secondary group/cta gap-8 pr-4 pl-8"
+      },
+      {
+        "tag": "A",
+        "text": "A STUDY IN EXPRESSION\n\n34.1477° N, 118.1443° ",
+        "class": "group/item relative isolate block overflow-hidden size-full"
+      },
+      {
+        "tag": "A",
+        "text": "FRENCH COUNTRY FANTASY\n\n34.0731° N, 118.4016°",
+        "class": "group/item relative isolate block overflow-hidden size-full"
+      },
+      {
+        "tag": "A",
+        "text": "HEIRLOOM HOUSE\n\n34.1477° N, 118.1443° W",
+        "class": "group/item relative isolate block overflow-hidden size-full"
+      },
+      {
+        "tag": "A",
+        "text": "COASTAL CANOPY\n\n34.42° N, 119.70° W",
+        "class": "group/item relative isolate block overflow-hidden size-full"
+      },
+      {
+        "tag": "A",
+        "text": "ROCK N ROLL REVERENCE\n\n34.4367° N, 119.6321° ",
+        "class": "group/item relative isolate block overflow-hidden size-full"
+      },
+      {
+        "tag": "A",
+        "text": "MODERN GLAMOUR\n\n34.0907° N, 118.3703° W",
+        "class": "group/item relative isolate block overflow-hidden size-full"
+      },
+      {
+        "tag": "A",
+        "text": "See More Projects",
+        "class": "relative inline-flex min-w-0 shrink-0 cursor-pointer items-center justify-between gap-42 overflow-hidden whitespace-nowrap transition-colors duration-400 ease-in-out outline-none focus-visible:ring-2 disabled:pointer-events-none disabled:opacity-50 disabled:grayscale h-42 py-8 border-t text-subtitle-20-normal text-theme-text-secondary **:data-icon:bg-current/20 hover:text-theme-text-primary [&>[data-curtain]]:bg-theme-bg-primary hover:[&:has([data-icon-left])_[data-content]]:-translate-x-8 hover:[&:has([data-icon-left])_[data-icon]]:translate-x-8 hover:[&:has([data-icon-right])_[data-content]]:translate-x-8 hover:[&:has([data-icon-right])_[data-icon]]:-translate-x-8 hover:[&:not(:has([data-icon]))_[data-content]]:translate-x-8 mt-96 w-full lg:mt-102"
+      },
+      {
+        "tag": "A",
+        "text": "N.003\n\n15 · MAY · 26\n\nTHE TRICK IS LAYERS, LO",
+        "class": "group/item relative isolate flex min-h-[70svh] flex-col px-8 py-24 lg:min-h-svh lg:px-24 text-theme-text-primary"
+      },
+      {
+        "tag": "A",
+        "text": "Read More\n: The Trick is Layers, Love",
+        "class": "relative inline-flex min-w-0 shrink-0 cursor-pointer items-center justify-between gap-42 overflow-hidden whitespace-nowrap transition-colors duration-400 ease-in-out outline-none focus-visible:ring-2 disabled:pointer-events-none disabled:opacity-50 disabled:grayscale h-42 py-8 border-t text-subtitle-20-normal **:data-icon:bg-current/20 hover:[&:has([data-icon-left])_[data-content]]:-translate-x-8 hover:[&:has([data-icon-left])_[data-icon]]:translate-x-8 hover:[&:has([data-icon-right])_[data-content]]:translate-x-8 hover:[&:has([data-icon-right])_[data-icon]]:-translate-x-8 hover:[&:not(:has([data-icon]))_[data-content]]:translate-x-8 text-theme-text-primary hover:text-theme-text-secondary [&>[data-curtain]]:bg-theme-bg-secondary w-full"
+      },
+      {
+        "tag": "A",
+        "text": "Get in Touch",
+        "class": "relative inline-flex min-w-0 shrink-0 cursor-pointer items-center justify-between gap-42 overflow-hidden whitespace-nowrap transition-colors duration-400 ease-in-out outline-none focus-visible:ring-2 disabled:pointer-events-none disabled:opacity-50 disabled:grayscale h-42 py-8 border-t text-subtitle-20-normal **:data-icon:bg-current/20 hover:[&:has([data-icon-left])_[data-content]]:-translate-x-8 hover:[&:has([data-icon-left])_[data-icon]]:translate-x-8 hover:[&:has([data-icon-right])_[data-content]]:translate-x-8 hover:[&:has([data-icon-right])_[data-icon]]:-translate-x-8 hover:[&:not(:has([data-icon]))_[data-content]]:translate-x-8 text-base-dark-brown hover:text-white [&>[data-curtain]]:bg-base-dark-brown w-full"
+      },
+      {
+        "tag": "A",
+        "text": "Studio",
+        "class": "text-subtitle-20-normal opacity-60 transition-opacity duration-400 ease-in-out hover:opacity-100"
+      },
+      {
+        "tag": "A",
+        "text": "Spaces",
+        "class": "text-subtitle-20-normal opacity-60 transition-opacity duration-400 ease-in-out hover:opacity-100"
+      },
+      {
+        "tag": "A",
+        "text": "The Buzz",
+        "class": "text-subtitle-20-normal opacity-60 transition-opacity duration-400 ease-in-out hover:opacity-100"
+      },
+      {
+        "tag": "A",
+        "text": "Dear Honey",
+        "class": "text-subtitle-20-normal opacity-60 transition-opacity duration-400 ease-in-out hover:opacity-100"
+      },
+      {
+        "tag": "A",
+        "text": "Press Room",
+        "class": "text-subtitle-20-normal opacity-60 transition-opacity duration-400 ease-in-out hover:opacity-100"
+      },
+      {
+        "tag": "A",
+        "text": "Get in Touch",
+        "class": "text-subtitle-20-normal opacity-60 transition-opacity duration-400 ease-in-out hover:opacity-100"
+      }
+    ]
+  },
+  "inventory": {
+    "images": 24,
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": -77.0122299194336,
+          "y": 131.70977783203125,
+          "width": 1688.1771240234375,
+          "height": 1241.12158203125,
+          "top": 131.70977783203125,
+          "right": 1611.164894104004,
+          "bottom": 1372.8313598632812,
+          "left": -77.0122299194336
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 3.3400115966796875,
+          "y": 2643.668701171875,
+          "width": 475.3199462890625,
+          "height": 757.35009765625,
+          "top": 2643.668701171875,
+          "right": 478.6599578857422,
+          "bottom": 3401.018798828125,
+          "left": 3.3400115966796875
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 477.34002685546875,
+          "y": 2643.668701171875,
+          "width": 475.3199462890625,
+          "height": 757.35009765625,
+          "top": 2643.668701171875,
+          "right": 952.6599731445312,
+          "bottom": 3401.018798828125,
+          "left": 477.34002685546875
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 3.3400115966796875,
+          "y": 3389.668701171875,
+          "width": 475.3199462890625,
+          "height": 757.349853515625,
+          "top": 3389.668701171875,
+          "right": 478.6599578857422,
+          "bottom": 4147.0185546875,
+          "left": 3.3400115966796875
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 477.34002685546875,
+          "y": 3389.668701171875,
+          "width": 475.3199462890625,
+          "height": 757.349853515625,
+          "top": 3389.668701171875,
+          "right": 952.6599731445312,
+          "bottom": 4147.0185546875,
+          "left": 477.34002685546875
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 951.3400268554688,
+          "y": 3389.668701171875,
+          "width": 475.31988525390625,
+          "height": 757.349853515625,
+          "top": 3389.668701171875,
+          "right": 1426.659912109375,
+          "bottom": 4147.0185546875,
+          "left": 951.3400268554688
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      }
+    ],
+    "canvases": [
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": -20,
+          "y": -20,
+          "width": 40,
+          "height": 40,
+          "top": -20,
+          "right": 20,
+          "bottom": 20,
+          "left": -20
+        },
+        "width": 40,
+        "height": 40
+      }
+    ],
+    "viewers": [],
+    "openRoots": 330,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": true
+  },
+  "result": "scouted-not-admitted"
+}

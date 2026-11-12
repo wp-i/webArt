@@ -1,0 +1,37 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "characters": 337,
+      "paragraphs": [
+        38,
+        29,
+        34,
+        36
+      ],
+      "media": [],
+      "unconfiguredControls": 0,
+      "missingScenes": [],
+      "contentMismatches": [],
+      "result": "passed-static-contract",
+      "failures": []
+    },
+    {
+      "width": 390,
+      "characters": 294,
+      "paragraphs": [
+        38,
+        29,
+        34,
+        36
+      ],
+      "media": [],
+      "unconfiguredControls": 0,
+      "missingScenes": [],
+      "contentMismatches": [],
+      "result": "passed-static-contract",
+      "failures": []
+    }
+  ],
+  "result": "passed-static-contract"
+}

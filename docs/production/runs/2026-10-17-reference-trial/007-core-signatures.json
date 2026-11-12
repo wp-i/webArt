@@ -1,0 +1,14 @@
+[
+  {
+    "name": "cork-tabletop-to-material",
+    "visualPurpose": "同一有颗粒、倒角和侧壁的软木盘，从具体桌面脱离后旋转进入近景，桌面、空间和材质共同建立器物身份。"
+  },
+  {
+    "name": "posed-hand-with-local-articulation",
+    "visualPurpose": "可辨认指节、指甲和皮肤的手持住软木盘，指针引起局部指节与持物关系变化，保留真实接触而非整幅图片轻微倾斜。"
+  },
+  {
+    "name": "roasted-bean-field-resolution",
+    "visualPurpose": "完整咖啡豆流场以裂缝、反射和前后景完成独立结果，保持开场的材料密度与质感，不能退成一组棕球或普通邮箱。"
+  }
+]

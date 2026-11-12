@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 2,
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "reviewer": {
+    "id": "primary-art-reviewer-2026-10-13",
+    "calibrationRunId": "2026-10-13-redo-primary-01",
+    "mode": "blind-evidence-only",
+    "inputScope": "benchmark+negative+reference+candidate",
+    "implementationContextIncluded": false
+  },
+  "limitations": "Evidence input separated from implementation explanations and old ratings. Single primary reviewer retains prior context; no independent blind model or aesthetic prediction is claimed.",
+  "phase": "prototype",
+  "sourceSha256": "9dcaec2a05a6f34f2b9692f4a6a4cda5aa8c4a40e23a34bab164e6616038986c",
+  "decision": "reject",
+  "vetoes": [
+    "type-media-craft",
+    "asset-specificity",
+    "scroll-choreography",
+    "pointer-finish",
+    "whole-page-resolution"
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-opening/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1305,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-middle/contact-sheet.jpg",
+          "sha256": "157c35bd3bbf9848db4c9beb1ed7f32fdcb347010e952048f6d32f610f9b38fa"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 864,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-transition/contact-sheet.jpg",
+          "sha256": "67c0fe188a6564e6eba5a3a83ec7e8751131c4af134faca37e22383144d62079"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2700,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-ending/contact-sheet.jpg",
+          "sha256": "7aa2a2a518a94c600be2e40e479803483940a0620723d9a7b78221069a19f96d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-opening/contact-sheet.jpg",
+          "sha256": "c16c3d2310db9a4eb95232d88acecf9a4ffb809d87322a46a11ed90f882e4f58"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1224,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-middle/contact-sheet.jpg",
+          "sha256": "51dd197b9eb0ec88e05a3f1fa85c50bc17e28d514fde02c606578d7c379e6472"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 810,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-transition/contact-sheet.jpg",
+          "sha256": "3490ea2abed94a872f5970137b4cfea91d3010031d16f7d92ab5a80280525bfa"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2532,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-ending/contact-sheet.jpg",
+          "sha256": "e8ad6a2c4db567136f08d7b45fb704739082d2ba721e7d1ebf94e19a96858cea"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "钴蓝玻璃斜面、孔洞和焦散占据开场，手机也保留这一主体，与基准光束/材料主视觉相比有足够清楚的第一眼记忆点；只允许这一项相当，不能补偿中后段。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-opening/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "below",
+      "finding": "基准字形嵌在建筑材料斜面，层次与观看对象相互配合；本试片五个黑信息块及重复Blue hour标注，街影旁的常规无衬线标题没有达到同等级的精度。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-middle/contact-sheet.jpg",
+          "sha256": "157c35bd3bbf9848db4c9beb1ed7f32fdcb347010e952048f6d32f610f9b38fa"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "below",
+      "finding": "基准的建筑近景、纤维边缘和最后空间围绕同一材料观看展开；试片蓝玻璃、街影、沙丘各自可用，但在页面内仅是三个题材，整体特异性与视觉工艺关系仍不足。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-middle/contact-sheet.jpg",
+          "sha256": "157c35bd3bbf9848db4c9beb1ed7f32fdcb347010e952048f6d32f610f9b38fa"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "below",
+      "finding": "基准从标题到近景光照与最后空间有连续的观看变化；试片虽真实交叠照片平面、可正反操作，主要仍是平移、收放和进入，不能因为换图成功就判定相当。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-transition/contact-sheet.jpg",
+          "sha256": "67c0fe188a6564e6eba5a3a83ec7e8751131c4af134faca37e22383144d62079"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "below",
+      "finding": "基准按住会揭示材料的光照与细节；试片拖动确实改变照片框与进度，但普通指针移动只有光标，缺少同等级的素材观看深化，不能把拖动存在当成质量通过。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-held",
+          "path": "docs/evidence/quality-calibration/001-1440-held.png",
+          "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-opening/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "below",
+      "finding": "基准Remain与完整空间形成独立且保持主视觉力度的终点；试片的沙丘横幅加联系链接仍是常见的照片/行动收束，未形成同等级的视觉结果。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-ending/contact-sheet.jpg",
+          "sha256": "7aa2a2a518a94c600be2e40e479803483940a0620723d9a7b78221069a19f96d"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "手机修正后保住蓝玻璃孔洞、行人与沙丘弧线，三个不同尺度和极少文字成立，交接中两张照片连续可见；这项相当仍不证明全页其余维度通过。",
+      "benchmarkEvidence": [
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-opening/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "visualPurpose": "拖动直接改变照片平面尺度与交接关系，普通窗口滚动驱动同一实际画面进度；不过这一行为仍未达到基准观看深化。",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "5480959c96f0fe7ff481e318791e9931ff6cb9acf2ae65e90378fa553dd35b21"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-transition/contact-sheet.jpg",
+          "sha256": "67c0fe188a6564e6eba5a3a83ec7e8751131c4af134faca37e22383144d62079"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "cca5bcba53cb19ad917a4017379e7f1c6753aa56702e519e73c55d41aab78d53"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "f14d795fc4059436156890e5e055099d26b85cd515f9f783998b0c4866946876"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "d6f18fd545fd949d8f04aaa3c78867d6481e8106fc7ff35a0316d4a31758eb6f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "7aa2a2a518a94c600be2e40e479803483940a0620723d9a7b78221069a19f96d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "d0fbc27f1bef6a86821531ee7b1e8c16c18d9ea8c56d263d3bb373b8976e8651"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "f14d795fc4059436156890e5e055099d26b85cd515f9f783998b0c4866946876"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "cca5bcba53cb19ad917a4017379e7f1c6753aa56702e519e73c55d41aab78d53"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-reduced/contact-sheet.jpg",
+          "sha256": "b1894fb3e24d7d12aea8ba6cd7dc0eab6966b890b57387cb372bac7c7bbb3dc8"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "34aae75468893eb518fc42bef26a8f6856537fa008b35c94ec360195d50f6c08"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "62b67a8414f620686fc24c993968e8a3da9361494a9936d6fdf9645657017a94"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "6d5a60b33f8ff6fff7a109ef5be2f9014d94b5c5f6e4dfac1399fd98519fc7a2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-reduced/contact-sheet.jpg",
+          "sha256": "b1894fb3e24d7d12aea8ba6cd7dc0eab6966b890b57387cb372bac7c7bbb3dc8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2679 @@
+{
+  "schemaVersion": 1,
+  "kind": "portable-cli-review-consumption",
+  "policyVersion": "portable-cli-review-consumption-v1",
+  "diagnosticPolicyVersion": "codex-cli-review-diagnostics-v1",
+  "requestId": "01-reference-review-78ea15ed27",
+  "role": "reference-review",
+  "request": {
+    "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/request.json",
+    "sha256": "3daffb42a892a8e4359f3c02b2f5d5721e5aeb6b1aaa636b4d2a78b710c0dd38"
+  },
+  "context": {
+    "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/consumption-context.json",
+    "sha256": "43a004ebb661355d6a6ec49a99ac237a0cf0a095cba2b9f0cc8099f766d5d6f6"
+  },
+  "rawFiles": {
+    "request.json": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/request.json",
+      "sha256": "3daffb42a892a8e4359f3c02b2f5d5721e5aeb6b1aaa636b4d2a78b710c0dd38"
+    },
+    "response.json": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/response.json",
+      "sha256": "70b0f45aa8cd61dbee406dcd001417c0f387bd6583a9fccc0c2a839722e335a1"
+    },
+    "events.jsonl": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/events.jsonl",
+      "sha256": "92abd72d63b95395821171990aef66cbe8cfa66878b6b6b163a6335bfda983d8"
+    },
+    "stderr.txt": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/stderr.txt",
+      "sha256": "e418d768d84150d2efef72fde95c1540088224934862abc2b157b89440b4cd97"
+    },
+    "process.json": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/process.json",
+      "sha256": "e6ca3aca1c8f2bcfed8dbd22b1ae91bab434e0485276ecb2b2ffa3e1c3e8ce4b"
+    },
+    "feature-probe.json": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/feature-probe.json",
+      "sha256": "cacf6838be7ca1e9a33171a72ddcb6762966efc3b57aa51a2a10b65041eb3837"
+    },
+    "feature-probe.stdout.txt": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/feature-probe.stdout.txt",
+      "sha256": "d4461d9844df47e6e93ab2032bc5f0e03221c874a0cee9f23f5c7de0aed223c3"
+    },
+    "feature-probe.stderr.txt": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/feature-probe.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "version.stdout.txt": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/version.stdout.txt",
+      "sha256": "311d79a9fd43dbb89fe50425a6c90fa50cdc0bea37d87a7394fc4fe6d727e79d"
+    },
+    "version.stderr.txt": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/version.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "prompt.txt": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/prompt.txt",
+      "sha256": "b77c2333006ab35918179d71b2b9657aa93da8013e9ce32911536656cf3db7e2"
+    },
+    "private-source-map.json": {
+      "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/private-source-map.json",
+      "sha256": "d876873fb847f5bf1db7327114469c20e6578327aa298f11f359694fe5924de0"
+    }
+  },
+  "inputs": [
+    {
+      "label": "benchmark-0 desktop opening\nbenchmark-8 desktop scroll process 0 (recorded order) capture 1440-opening\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6",
+      "bytes": 1333967,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/000.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      }
+    },
+    {
+      "label": "benchmark-1 desktop transition\nbenchmark-10 desktop scroll process 2 (recorded order) capture 1440-scroll-0.33-2\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7",
+      "bytes": 446069,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/001.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.33-2.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      }
+    },
+    {
+      "label": "benchmark-2 desktop middle\nbenchmark-12 desktop scroll process 4 (recorded order) capture 1440-scroll-0.67-4\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa",
+      "bytes": 929325,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/002.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      }
+    },
+    {
+      "label": "benchmark-3 desktop ending\nbenchmark-14 desktop scroll process 6 (recorded order) capture 1440-scroll-1-6\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556",
+      "bytes": 1054815,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/003.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      }
+    },
+    {
+      "label": "benchmark-4 mobile opening\nbenchmark-23 mobile scroll process 0 (recorded order) capture 390-opening\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d",
+      "bytes": 404267,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/004.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-opening.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      }
+    },
+    {
+      "label": "benchmark-5 mobile transition\nbenchmark-24 mobile scroll process 1 (recorded order) capture 390-scroll-0.33-12\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4",
+      "bytes": 144364,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/005.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      }
+    },
+    {
+      "label": "benchmark-6 mobile middle\nbenchmark-25 mobile scroll process 2 (recorded order) capture 390-scroll-0.67-13\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f",
+      "bytes": 288072,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/006.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      }
+    },
+    {
+      "label": "benchmark-7 mobile ending\nbenchmark-26 mobile scroll process 3 (recorded order) capture 390-scroll-1-14\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87",
+      "bytes": 372539,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/007.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      }
+    },
+    {
+      "label": "benchmark-9 desktop scroll process 1 (recorded order) capture 1440-scroll-0.16-1",
+      "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0",
+      "bytes": 310275,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/008.png",
+        "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+        "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0"
+      }
+    },
+    {
+      "label": "benchmark-11 desktop scroll process 3 (recorded order) capture 1440-scroll-0.5-3\nbenchmark-15 desktop scroll process 7 (recorded order) capture 1440-scroll-0.5-7\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "108e16a1777bd5b0c8034f94d73aa4e6715646c5a9ed513e1d7eb0ba7c4b6b64",
+      "bytes": 289385,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/009.png",
+        "sha256": "108e16a1777bd5b0c8034f94d73aa4e6715646c5a9ed513e1d7eb0ba7c4b6b64"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.5-3.png",
+        "sha256": "108e16a1777bd5b0c8034f94d73aa4e6715646c5a9ed513e1d7eb0ba7c4b6b64"
+      }
+    },
+    {
+      "label": "benchmark-13 desktop scroll process 5 (recorded order) capture 1440-scroll-0.84-5",
+      "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b",
+      "bytes": 292938,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/010.png",
+        "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.84-5.png",
+        "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b"
+      }
+    },
+    {
+      "label": "benchmark-16 desktop scroll process 8 (recorded order) capture 1440-scroll-0-8",
+      "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392",
+      "bytes": 1286649,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/011.png",
+        "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+        "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392"
+      }
+    },
+    {
+      "label": "benchmark-17 desktop pointer process 0 (recorded order) capture 1440-pointer-0.2",
+      "sha256": "3b8132ec2c6c9b369c3baf6b3d81cb602366b7270f1a010531f8beec4abc2415",
+      "bytes": 1357982,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/012.png",
+        "sha256": "3b8132ec2c6c9b369c3baf6b3d81cb602366b7270f1a010531f8beec4abc2415"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-pointer-0.2.png",
+        "sha256": "3b8132ec2c6c9b369c3baf6b3d81cb602366b7270f1a010531f8beec4abc2415"
+      }
+    },
+    {
+      "label": "benchmark-18 desktop pointer process 1 (recorded order) capture 1440-pointer-0.8",
+      "sha256": "c80249335437e1ba261da9d1d48fc8400d40865d16618ff342cd76a29bad286c",
+      "bytes": 1350853,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/013.png",
+        "sha256": "c80249335437e1ba261da9d1d48fc8400d40865d16618ff342cd76a29bad286c"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-pointer-0.8.png",
+        "sha256": "c80249335437e1ba261da9d1d48fc8400d40865d16618ff342cd76a29bad286c"
+      }
+    },
+    {
+      "label": "benchmark-19 desktop pointer process 2 (recorded order) capture 1440-pointer-leave",
+      "sha256": "7749114c96da0c658d751e608d01401111f096e71c71a49fecaafb323d75edeb",
+      "bytes": 1286484,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/014.png",
+        "sha256": "7749114c96da0c658d751e608d01401111f096e71c71a49fecaafb323d75edeb"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-pointer-leave.png",
+        "sha256": "7749114c96da0c658d751e608d01401111f096e71c71a49fecaafb323d75edeb"
+      }
+    },
+    {
+      "label": "benchmark-20 desktop hold-release process 0 (recorded order) capture 1440-held",
+      "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41",
+      "bytes": 1227939,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/015.png",
+        "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-held.png",
+        "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+      }
+    },
+    {
+      "label": "benchmark-21 desktop hold-release process 1 (recorded order) capture 1440-released",
+      "sha256": "de6e970b5fb0c3a3026e25250902d57e8ed691809fd6249d1a9f2752fa6b2bf9",
+      "bytes": 1220770,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/016.png",
+        "sha256": "de6e970b5fb0c3a3026e25250902d57e8ed691809fd6249d1a9f2752fa6b2bf9"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-released.png",
+        "sha256": "de6e970b5fb0c3a3026e25250902d57e8ed691809fd6249d1a9f2752fa6b2bf9"
+      }
+    },
+    {
+      "label": "benchmark-22 desktop reduced process 0 (recorded order) capture 1440-reduced",
+      "sha256": "3940d7abc19f9e8ec890061633dffaec2bc95ca18a69e0fdae8c0039f14c009a",
+      "bytes": 954468,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/017.png",
+        "sha256": "3940d7abc19f9e8ec890061633dffaec2bc95ca18a69e0fdae8c0039f14c009a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-reduced.png",
+        "sha256": "3940d7abc19f9e8ec890061633dffaec2bc95ca18a69e0fdae8c0039f14c009a"
+      }
+    },
+    {
+      "label": "benchmark-27 mobile scroll process 4 (recorded order) capture 390-scroll-0-15",
+      "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81",
+      "bytes": 404821,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/018.png",
+        "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+        "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81"
+      }
+    },
+    {
+      "label": "benchmark-28 mobile reduced process 0 (recorded order) capture 390-reduced",
+      "sha256": "d0cb5141e5a7cf80ea276e4785869dc8d0225f0991a7920c594d60834cf24c3c",
+      "bytes": 388250,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/019.png",
+        "sha256": "d0cb5141e5a7cf80ea276e4785869dc8d0225f0991a7920c594d60834cf24c3c"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-reduced.png",
+        "sha256": "d0cb5141e5a7cf80ea276e4785869dc8d0225f0991a7920c594d60834cf24c3c"
+      }
+    },
+    {
+      "label": "negative-29 user-rejected 1 desktop opening",
+      "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39",
+      "bytes": 894677,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/020.png",
+        "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-1440-opening.png",
+        "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+      }
+    },
+    {
+      "label": "negative-30 user-rejected 1 desktop ending",
+      "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210",
+      "bytes": 444366,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/021.png",
+        "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-1440-scroll-1-6.png",
+        "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+      }
+    },
+    {
+      "label": "negative-31 user-rejected 1 mobile opening",
+      "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686",
+      "bytes": 318943,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/022.png",
+        "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-390-opening.png",
+        "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+      }
+    },
+    {
+      "label": "negative-32 user-rejected 1 mobile ending",
+      "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f",
+      "bytes": 140142,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/023.png",
+        "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-390-scroll-1-14.png",
+        "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+      }
+    },
+    {
+      "label": "negative-33 user-rejected 2 desktop opening",
+      "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec",
+      "bytes": 859333,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/024.png",
+        "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-1440-opening.png",
+        "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+      }
+    },
+    {
+      "label": "negative-34 user-rejected 2 desktop ending",
+      "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451",
+      "bytes": 794650,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/025.png",
+        "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-1440-scroll-1-6.png",
+        "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+      }
+    },
+    {
+      "label": "negative-35 user-rejected 2 mobile opening",
+      "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42",
+      "bytes": 327208,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/026.png",
+        "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-390-opening.png",
+        "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+      }
+    },
+    {
+      "label": "negative-36 user-rejected 2 mobile ending",
+      "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788",
+      "bytes": 249524,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/027.png",
+        "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-390-scroll-1-14.png",
+        "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+      }
+    },
+    {
+      "label": "negative-37 user-rejected 3 desktop opening",
+      "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3",
+      "bytes": 1889089,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/028.png",
+        "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-1440-opening.png",
+        "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+      }
+    },
+    {
+      "label": "negative-38 user-rejected 3 desktop ending",
+      "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa",
+      "bytes": 796269,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/029.png",
+        "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-1440-scroll-1-6.png",
+        "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+      }
+    },
+    {
+      "label": "negative-39 user-rejected 3 mobile opening",
+      "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba",
+      "bytes": 494896,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/030.png",
+        "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-390-opening.png",
+        "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+      }
+    },
+    {
+      "label": "negative-40 user-rejected 3 mobile ending",
+      "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1",
+      "bytes": 139219,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/031.png",
+        "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-390-scroll-1-14.png",
+        "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+      }
+    },
+    {
+      "label": "negative-41 user-rejected 4 desktop opening",
+      "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb",
+      "bytes": 681261,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/032.png",
+        "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-1440-opening.png",
+        "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+      }
+    },
+    {
+      "label": "negative-42 user-rejected 4 desktop ending",
+      "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799",
+      "bytes": 617959,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/033.png",
+        "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-1440-scroll-1-6.png",
+        "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+      }
+    },
+    {
+      "label": "negative-43 user-rejected 4 mobile opening",
+      "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff",
+      "bytes": 159503,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/034.png",
+        "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-390-opening.png",
+        "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+      }
+    },
+    {
+      "label": "negative-44 user-rejected 4 mobile ending",
+      "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a",
+      "bytes": 153333,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/035.png",
+        "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-390-scroll-1-14.png",
+        "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+      }
+    },
+    {
+      "label": "negative-45 user-rejected 5 desktop opening",
+      "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90",
+      "bytes": 328195,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/036.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-1440-opening.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      }
+    },
+    {
+      "label": "negative-46 user-rejected 5 desktop ending",
+      "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94",
+      "bytes": 43515,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/037.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-1440-scroll-1-6.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      }
+    },
+    {
+      "label": "negative-47 user-rejected 5 mobile opening",
+      "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a",
+      "bytes": 115079,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/038.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-390-opening.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      }
+    },
+    {
+      "label": "negative-48 user-rejected 5 mobile ending",
+      "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a",
+      "bytes": 33760,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/039.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-390-scroll-1-14.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      }
+    },
+    {
+      "label": "reference-49 desktop opening\nreference-103 desktop pointer desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 1 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "91d4893548d42ee21c25a5caa2c71ed28f67c0734f7792d7360c50ef10a1bac5",
+      "bytes": 157385,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/040.jpg",
+        "sha256": "91d4893548d42ee21c25a5caa2c71ed28f67c0734f7792d7360c50ef10a1bac5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-idle-control.jpg",
+        "sha256": "91d4893548d42ee21c25a5caa2c71ed28f67c0734f7792d7360c50ef10a1bac5"
+      }
+    },
+    {
+      "label": "reference-50 desktop transition\nreference-62 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 5 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "857f822413bba93e39a76df0222a41213770d6bc04c1aea69f0e7c9b7c1d65ea",
+      "bytes": 124388,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/041.jpg",
+        "sha256": "857f822413bba93e39a76df0222a41213770d6bc04c1aea69f0e7c9b7c1d65ea"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-05.jpg",
+        "sha256": "857f822413bba93e39a76df0222a41213770d6bc04c1aea69f0e7c9b7c1d65ea"
+      }
+    },
+    {
+      "label": "reference-51 desktop middle\nreference-164 desktop pointer desktop-collection-image-and-context; Real default/hover/move/leave/click/leave; first hover still loading, later move/click fully loaded. process 0 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "43bea43ed007e4c94e875b5cfff72d500d5be92c3d2d241b136f073633004a73",
+      "bytes": 171895,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/042.jpg",
+        "sha256": "43bea43ed007e4c94e875b5cfff72d500d5be92c3d2d241b136f073633004a73"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-default.jpg",
+        "sha256": "43bea43ed007e4c94e875b5cfff72d500d5be92c3d2d241b136f073633004a73"
+      }
+    },
+    {
+      "label": "reference-52 desktop ending\nreference-75 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 18 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "ad769994983fda5ec3686d9897ca18b93bc897e2ee1c0de0eaf140e2ef38f0f5",
+      "bytes": 140810,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/043.jpg",
+        "sha256": "ad769994983fda5ec3686d9897ca18b93bc897e2ee1c0de0eaf140e2ef38f0f5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-stop.jpg",
+        "sha256": "ad769994983fda5ec3686d9897ca18b93bc897e2ee1c0de0eaf140e2ef38f0f5"
+      }
+    },
+    {
+      "label": "reference-53 mobile opening\nreference-137 mobile pointer mobile-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 1 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "055584464ff5a451b0b33e892d030ef133eb87207116b7a401e293393fbba74a",
+      "bytes": 80482,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/044.jpg",
+        "sha256": "055584464ff5a451b0b33e892d030ef133eb87207116b7a401e293393fbba74a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-idle-control.jpg",
+        "sha256": "055584464ff5a451b0b33e892d030ef133eb87207116b7a401e293393fbba74a"
+      }
+    },
+    {
+      "label": "reference-54 mobile transition\nreference-82 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 4 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "c728a51a3acd121313c3986335f3aca76fe3cff74e936ffdac334f98ba6e3acd",
+      "bytes": 51669,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/045.jpg",
+        "sha256": "c728a51a3acd121313c3986335f3aca76fe3cff74e936ffdac334f98ba6e3acd"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-04.jpg",
+        "sha256": "c728a51a3acd121313c3986335f3aca76fe3cff74e936ffdac334f98ba6e3acd"
+      }
+    },
+    {
+      "label": "reference-55 mobile middle\nreference-86 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 8 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "e39741b2e236c480601271ce9bc844dfdb6f75a8f18c16ee14ab7a9d11e1deb2",
+      "bytes": 45439,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/046.jpg",
+        "sha256": "e39741b2e236c480601271ce9bc844dfdb6f75a8f18c16ee14ab7a9d11e1deb2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-08.jpg",
+        "sha256": "e39741b2e236c480601271ce9bc844dfdb6f75a8f18c16ee14ab7a9d11e1deb2"
+      }
+    },
+    {
+      "label": "reference-56 mobile ending\nreference-93 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 15 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "308b17a6c35a8c4a5a0c5846037b72f3de2879a84b6fe01a38febd0f3e0fbf0d",
+      "bytes": 54739,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/047.jpg",
+        "sha256": "308b17a6c35a8c4a5a0c5846037b72f3de2879a84b6fe01a38febd0f3e0fbf0d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-ending-stop.jpg",
+        "sha256": "308b17a6c35a8c4a5a0c5846037b72f3de2879a84b6fe01a38febd0f3e0fbf0d"
+      }
+    },
+    {
+      "label": "reference-57 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 0 (ordered)",
+      "sha256": "840b9802796bb92f6f95c62f9eed2e6cc41b1b727f16b732f19b2a65054a80e6",
+      "bytes": 180173,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/048.jpg",
+        "sha256": "840b9802796bb92f6f95c62f9eed2e6cc41b1b727f16b732f19b2a65054a80e6"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-opening-settled.jpg",
+        "sha256": "840b9802796bb92f6f95c62f9eed2e6cc41b1b727f16b732f19b2a65054a80e6"
+      }
+    },
+    {
+      "label": "reference-58 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 1 (ordered)",
+      "sha256": "196e601e5331164bc0b87cfe77e6d4c8dd30b74272246105281e42ee9fc8d4e2",
+      "bytes": 104129,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/049.jpg",
+        "sha256": "196e601e5331164bc0b87cfe77e6d4c8dd30b74272246105281e42ee9fc8d4e2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-01.jpg",
+        "sha256": "196e601e5331164bc0b87cfe77e6d4c8dd30b74272246105281e42ee9fc8d4e2"
+      }
+    },
+    {
+      "label": "reference-59 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 2 (ordered)",
+      "sha256": "48e4e0463438a357745e3a62ce6dc52d2896a142af24b1c90e251415cf145737",
+      "bytes": 107767,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/050.jpg",
+        "sha256": "48e4e0463438a357745e3a62ce6dc52d2896a142af24b1c90e251415cf145737"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-02.jpg",
+        "sha256": "48e4e0463438a357745e3a62ce6dc52d2896a142af24b1c90e251415cf145737"
+      }
+    },
+    {
+      "label": "reference-60 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 3 (ordered)",
+      "sha256": "ef80ad8ca1e4ae815ea3239c4c9197b2cd497bd956ab89505ecd8d0012b00ba7",
+      "bytes": 114357,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/051.jpg",
+        "sha256": "ef80ad8ca1e4ae815ea3239c4c9197b2cd497bd956ab89505ecd8d0012b00ba7"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-03.jpg",
+        "sha256": "ef80ad8ca1e4ae815ea3239c4c9197b2cd497bd956ab89505ecd8d0012b00ba7"
+      }
+    },
+    {
+      "label": "reference-61 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 4 (ordered)",
+      "sha256": "1fc9356dfa3e67907ac92a1faaf1d1dea9a114f3e84b3405216f0ab20b85d610",
+      "bytes": 138546,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/052.jpg",
+        "sha256": "1fc9356dfa3e67907ac92a1faaf1d1dea9a114f3e84b3405216f0ab20b85d610"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-04.jpg",
+        "sha256": "1fc9356dfa3e67907ac92a1faaf1d1dea9a114f3e84b3405216f0ab20b85d610"
+      }
+    },
+    {
+      "label": "reference-63 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 6 (ordered)",
+      "sha256": "b584c0ad5bd4f34af93fa1d1a34ee70fc18c092c632722c45e216b78ad13609b",
+      "bytes": 134370,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/053.jpg",
+        "sha256": "b584c0ad5bd4f34af93fa1d1a34ee70fc18c092c632722c45e216b78ad13609b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-06.jpg",
+        "sha256": "b584c0ad5bd4f34af93fa1d1a34ee70fc18c092c632722c45e216b78ad13609b"
+      }
+    },
+    {
+      "label": "reference-64 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 7 (ordered)",
+      "sha256": "61b281ffa02f9e84202eb8c79d32669c524393e0cc2b4f5200f8640d3eb4cb22",
+      "bytes": 134376,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/054.jpg",
+        "sha256": "61b281ffa02f9e84202eb8c79d32669c524393e0cc2b4f5200f8640d3eb4cb22"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-07.jpg",
+        "sha256": "61b281ffa02f9e84202eb8c79d32669c524393e0cc2b4f5200f8640d3eb4cb22"
+      }
+    },
+    {
+      "label": "reference-65 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 8 (ordered)",
+      "sha256": "f494a52324b5d2a858358b729e6dcb87d503f31395fbda498843c8d9482c4ed5",
+      "bytes": 196318,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/055.jpg",
+        "sha256": "f494a52324b5d2a858358b729e6dcb87d503f31395fbda498843c8d9482c4ed5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-08.jpg",
+        "sha256": "f494a52324b5d2a858358b729e6dcb87d503f31395fbda498843c8d9482c4ed5"
+      }
+    },
+    {
+      "label": "reference-66 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 9 (ordered)",
+      "sha256": "4e2d9d5caae5f1b3b9d255082746c3164ca745341f2dbca422313b5fe999e6ef",
+      "bytes": 256864,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/056.jpg",
+        "sha256": "4e2d9d5caae5f1b3b9d255082746c3164ca745341f2dbca422313b5fe999e6ef"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-09.jpg",
+        "sha256": "4e2d9d5caae5f1b3b9d255082746c3164ca745341f2dbca422313b5fe999e6ef"
+      }
+    },
+    {
+      "label": "reference-67 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 10 (ordered)",
+      "sha256": "db3c2dc83457f46d755b09338c4000af7f4cda570b2ff3caecf6ab329833322b",
+      "bytes": 145548,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/057.jpg",
+        "sha256": "db3c2dc83457f46d755b09338c4000af7f4cda570b2ff3caecf6ab329833322b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-10.jpg",
+        "sha256": "db3c2dc83457f46d755b09338c4000af7f4cda570b2ff3caecf6ab329833322b"
+      }
+    },
+    {
+      "label": "reference-68 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 11 (ordered)",
+      "sha256": "5c66b4a2fcca555f9be25f5b87b8310990c492b1239db208b6a792ea287f68d0",
+      "bytes": 193795,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/058.jpg",
+        "sha256": "5c66b4a2fcca555f9be25f5b87b8310990c492b1239db208b6a792ea287f68d0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-11.jpg",
+        "sha256": "5c66b4a2fcca555f9be25f5b87b8310990c492b1239db208b6a792ea287f68d0"
+      }
+    },
+    {
+      "label": "reference-69 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 12 (ordered)",
+      "sha256": "439ae31565533887025e1437031c73b6dc0b401232686f68166328df9c5669ee",
+      "bytes": 105021,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/059.jpg",
+        "sha256": "439ae31565533887025e1437031c73b6dc0b401232686f68166328df9c5669ee"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-12.jpg",
+        "sha256": "439ae31565533887025e1437031c73b6dc0b401232686f68166328df9c5669ee"
+      }
+    },
+    {
+      "label": "reference-70 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 13 (ordered)",
+      "sha256": "1aa5aa1fbecc3b2684c0b777951d59251a5ee8656e6edfffbba561e299be4aca",
+      "bytes": 145974,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/060.jpg",
+        "sha256": "1aa5aa1fbecc3b2684c0b777951d59251a5ee8656e6edfffbba561e299be4aca"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-13.jpg",
+        "sha256": "1aa5aa1fbecc3b2684c0b777951d59251a5ee8656e6edfffbba561e299be4aca"
+      }
+    },
+    {
+      "label": "reference-71 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 14 (ordered)",
+      "sha256": "1dfd24d2d7cd8023b4c80e604d2ff68bca6a720385eb5755e99399214e7563df",
+      "bytes": 84446,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/061.jpg",
+        "sha256": "1dfd24d2d7cd8023b4c80e604d2ff68bca6a720385eb5755e99399214e7563df"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-14.jpg",
+        "sha256": "1dfd24d2d7cd8023b4c80e604d2ff68bca6a720385eb5755e99399214e7563df"
+      }
+    },
+    {
+      "label": "reference-72 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 15 (ordered)",
+      "sha256": "2b735383835072179ffa326d761cb006f1671e71c52e62a76475d48d6f3ab947",
+      "bytes": 53699,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/062.jpg",
+        "sha256": "2b735383835072179ffa326d761cb006f1671e71c52e62a76475d48d6f3ab947"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-15.jpg",
+        "sha256": "2b735383835072179ffa326d761cb006f1671e71c52e62a76475d48d6f3ab947"
+      }
+    },
+    {
+      "label": "reference-73 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 16 (ordered)",
+      "sha256": "c74f09f7c3c5396709a764cc71f825529aa9fd37394b540404b18950239f84bd",
+      "bytes": 129593,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/063.jpg",
+        "sha256": "c74f09f7c3c5396709a764cc71f825529aa9fd37394b540404b18950239f84bd"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-16.jpg",
+        "sha256": "c74f09f7c3c5396709a764cc71f825529aa9fd37394b540404b18950239f84bd"
+      }
+    },
+    {
+      "label": "reference-74 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 17 (ordered)",
+      "sha256": "b3de8a4a56328da06a729726553a7f4afa09ef3dbc78a390fc30a424ee89c9c4",
+      "bytes": 142772,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/064.jpg",
+        "sha256": "b3de8a4a56328da06a729726553a7f4afa09ef3dbc78a390fc30a424ee89c9c4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-17.jpg",
+        "sha256": "b3de8a4a56328da06a729726553a7f4afa09ef3dbc78a390fc30a424ee89c9c4"
+      }
+    },
+    {
+      "label": "reference-76 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 19 (ordered)",
+      "sha256": "5b8b77cf5be73f943ffdbd69c07d5a8104cddb91a78fe6ffd523d0c5759541df",
+      "bytes": 142030,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/065.jpg",
+        "sha256": "5b8b77cf5be73f943ffdbd69c07d5a8104cddb91a78fe6ffd523d0c5759541df"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-extra-input.jpg",
+        "sha256": "5b8b77cf5be73f943ffdbd69c07d5a8104cddb91a78fe6ffd523d0c5759541df"
+      }
+    },
+    {
+      "label": "reference-77 desktop scroll desktop-normal-full-forward; Actual full forward sequence; opening intro residue is supplemented by stable idle state. process 20 (ordered)",
+      "sha256": "79369a805cc5ffb846ac1e4301c18d7500814a10f1dbfa157238b9faaaeb23b4",
+      "bytes": 141448,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/066.jpg",
+        "sha256": "79369a805cc5ffb846ac1e4301c18d7500814a10f1dbfa157238b9faaaeb23b4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-extra-stop.jpg",
+        "sha256": "79369a805cc5ffb846ac1e4301c18d7500814a10f1dbfa157238b9faaaeb23b4"
+      }
+    },
+    {
+      "label": "reference-78 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 0 (ordered)",
+      "sha256": "c04904b61f8920707eb2c6c828ac48efcc17139fca2efece793e6f68b8315633",
+      "bytes": 79188,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/067.jpg",
+        "sha256": "c04904b61f8920707eb2c6c828ac48efcc17139fca2efece793e6f68b8315633"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-opening-settled.jpg",
+        "sha256": "c04904b61f8920707eb2c6c828ac48efcc17139fca2efece793e6f68b8315633"
+      }
+    },
+    {
+      "label": "reference-79 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 1 (ordered)",
+      "sha256": "1cc5329404c3cf16216ab79443e3b53b3213fd4ecb199a4b2438594b3d172368",
+      "bytes": 36976,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/068.jpg",
+        "sha256": "1cc5329404c3cf16216ab79443e3b53b3213fd4ecb199a4b2438594b3d172368"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-01.jpg",
+        "sha256": "1cc5329404c3cf16216ab79443e3b53b3213fd4ecb199a4b2438594b3d172368"
+      }
+    },
+    {
+      "label": "reference-80 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 2 (ordered)",
+      "sha256": "aa92d9718d9eb375bc87a27161309f2b0a62fb8013c9b2cb122b447a7f0e50eb",
+      "bytes": 57961,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/069.jpg",
+        "sha256": "aa92d9718d9eb375bc87a27161309f2b0a62fb8013c9b2cb122b447a7f0e50eb"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-02.jpg",
+        "sha256": "aa92d9718d9eb375bc87a27161309f2b0a62fb8013c9b2cb122b447a7f0e50eb"
+      }
+    },
+    {
+      "label": "reference-81 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 3 (ordered)",
+      "sha256": "115029ac263731cfe783f5134594a992ae11d5a2989bdec3714b3818e167546a",
+      "bytes": 53892,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/070.jpg",
+        "sha256": "115029ac263731cfe783f5134594a992ae11d5a2989bdec3714b3818e167546a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-03.jpg",
+        "sha256": "115029ac263731cfe783f5134594a992ae11d5a2989bdec3714b3818e167546a"
+      }
+    },
+    {
+      "label": "reference-83 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 5 (ordered)",
+      "sha256": "0bd364a73e8ad2e76ce93f6fa27aa7b283afd4a32f553950737b23930e8ca0d5",
+      "bytes": 58695,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/071.jpg",
+        "sha256": "0bd364a73e8ad2e76ce93f6fa27aa7b283afd4a32f553950737b23930e8ca0d5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-05.jpg",
+        "sha256": "0bd364a73e8ad2e76ce93f6fa27aa7b283afd4a32f553950737b23930e8ca0d5"
+      }
+    },
+    {
+      "label": "reference-84 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 6 (ordered)",
+      "sha256": "42b485895835029a96b44218b0784f2a0922dc2ab74deb9b5991cff770de814d",
+      "bytes": 67665,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/072.jpg",
+        "sha256": "42b485895835029a96b44218b0784f2a0922dc2ab74deb9b5991cff770de814d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-06.jpg",
+        "sha256": "42b485895835029a96b44218b0784f2a0922dc2ab74deb9b5991cff770de814d"
+      }
+    },
+    {
+      "label": "reference-85 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 7 (ordered)",
+      "sha256": "9fddcf70ae67e3da05639f162efca2b88499863e5c1ebf8201d6afd95ae30f0a",
+      "bytes": 74213,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/073.jpg",
+        "sha256": "9fddcf70ae67e3da05639f162efca2b88499863e5c1ebf8201d6afd95ae30f0a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-07.jpg",
+        "sha256": "9fddcf70ae67e3da05639f162efca2b88499863e5c1ebf8201d6afd95ae30f0a"
+      }
+    },
+    {
+      "label": "reference-87 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 9 (ordered)",
+      "sha256": "34e21ede8ef41afc2cfb75e69c1ea2cdbc57ea46fcc7a3d09e07fc134b349e5e",
+      "bytes": 45813,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/074.jpg",
+        "sha256": "34e21ede8ef41afc2cfb75e69c1ea2cdbc57ea46fcc7a3d09e07fc134b349e5e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-09.jpg",
+        "sha256": "34e21ede8ef41afc2cfb75e69c1ea2cdbc57ea46fcc7a3d09e07fc134b349e5e"
+      }
+    },
+    {
+      "label": "reference-88 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 10 (ordered)",
+      "sha256": "a5080aa547aa1aa0f9971317cf249f9b80f12f240669076220ddc2462167ddaa",
+      "bytes": 46017,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/075.jpg",
+        "sha256": "a5080aa547aa1aa0f9971317cf249f9b80f12f240669076220ddc2462167ddaa"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-10.jpg",
+        "sha256": "a5080aa547aa1aa0f9971317cf249f9b80f12f240669076220ddc2462167ddaa"
+      }
+    },
+    {
+      "label": "reference-89 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 11 (ordered)",
+      "sha256": "e52346ac42cfe0e8d5230514394850583bb09ed85d201fdff33297f8fb0f5126",
+      "bytes": 46257,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/076.jpg",
+        "sha256": "e52346ac42cfe0e8d5230514394850583bb09ed85d201fdff33297f8fb0f5126"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-11.jpg",
+        "sha256": "e52346ac42cfe0e8d5230514394850583bb09ed85d201fdff33297f8fb0f5126"
+      }
+    },
+    {
+      "label": "reference-90 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 12 (ordered)",
+      "sha256": "54b3aa655d512d5b9c28fff8b8b826f9eb7d039e7e29d7605799ad59ca6c2dfb",
+      "bytes": 54157,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/077.jpg",
+        "sha256": "54b3aa655d512d5b9c28fff8b8b826f9eb7d039e7e29d7605799ad59ca6c2dfb"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-12.jpg",
+        "sha256": "54b3aa655d512d5b9c28fff8b8b826f9eb7d039e7e29d7605799ad59ca6c2dfb"
+      }
+    },
+    {
+      "label": "reference-91 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 13 (ordered)",
+      "sha256": "dcd68791a6a9237a3c95a84a7320d8d29189b4c5e6cb4e04f916a17196942312",
+      "bytes": 49643,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/078.jpg",
+        "sha256": "dcd68791a6a9237a3c95a84a7320d8d29189b4c5e6cb4e04f916a17196942312"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-13.jpg",
+        "sha256": "dcd68791a6a9237a3c95a84a7320d8d29189b4c5e6cb4e04f916a17196942312"
+      }
+    },
+    {
+      "label": "reference-92 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 14 (ordered)",
+      "sha256": "217b8496d0f1288de8ea035e38a5417449a143505057118db8390b33570e533a",
+      "bytes": 54609,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/079.jpg",
+        "sha256": "217b8496d0f1288de8ea035e38a5417449a143505057118db8390b33570e533a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-14.jpg",
+        "sha256": "217b8496d0f1288de8ea035e38a5417449a143505057118db8390b33570e533a"
+      }
+    },
+    {
+      "label": "reference-94 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 16 (ordered)",
+      "sha256": "3c9e853d09bbdb19199c4f9f72bc782e13cfceac41e18e99a98f970340a0f91a",
+      "bytes": 54577,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/080.jpg",
+        "sha256": "3c9e853d09bbdb19199c4f9f72bc782e13cfceac41e18e99a98f970340a0f91a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-ending-extra-input.jpg",
+        "sha256": "3c9e853d09bbdb19199c4f9f72bc782e13cfceac41e18e99a98f970340a0f91a"
+      }
+    },
+    {
+      "label": "reference-95 mobile scroll phone-normal-full-forward; Actual held-finger full forward to finite end. process 17 (ordered)",
+      "sha256": "f530ffdcab763bdebc4405d654e8165d413ec454f83b3ac8c50804e2dd6f438d",
+      "bytes": 54715,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/081.jpg",
+        "sha256": "f530ffdcab763bdebc4405d654e8165d413ec454f83b3ac8c50804e2dd6f438d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-ending-extra-stop.jpg",
+        "sha256": "f530ffdcab763bdebc4405d654e8165d413ec454f83b3ac8c50804e2dd6f438d"
+      }
+    },
+    {
+      "label": "reference-96 desktop scroll desktop-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 0 (ordered)",
+      "sha256": "573659e77aea4d02051a23640a63f2f70fda9e3f81dc9bf81003ad70eb04cbc1",
+      "bytes": 159268,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/082.jpg",
+        "sha256": "573659e77aea4d02051a23640a63f2f70fda9e3f81dc9bf81003ad70eb04cbc1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reverse-1.jpg",
+        "sha256": "573659e77aea4d02051a23640a63f2f70fda9e3f81dc9bf81003ad70eb04cbc1"
+      }
+    },
+    {
+      "label": "reference-97 desktop scroll desktop-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 1 (ordered)",
+      "sha256": "3f10297ebd86ea89b8f7e7c15c8c9733994ac49807c7a31b33950889a9d19b14",
+      "bytes": 106308,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/083.jpg",
+        "sha256": "3f10297ebd86ea89b8f7e7c15c8c9733994ac49807c7a31b33950889a9d19b14"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reverse-4.jpg",
+        "sha256": "3f10297ebd86ea89b8f7e7c15c8c9733994ac49807c7a31b33950889a9d19b14"
+      }
+    },
+    {
+      "label": "reference-98 desktop scroll desktop-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 2 (ordered)",
+      "sha256": "f9086e13a9db4b6b722492e4bdb4efacdfebc5cd174e0b9c1f3eec337b9c670c",
+      "bytes": 136663,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/084.jpg",
+        "sha256": "f9086e13a9db4b6b722492e4bdb4efacdfebc5cd174e0b9c1f3eec337b9c670c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reverse-8.jpg",
+        "sha256": "f9086e13a9db4b6b722492e4bdb4efacdfebc5cd174e0b9c1f3eec337b9c670c"
+      }
+    },
+    {
+      "label": "reference-99 desktop scroll desktop-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 3 (ordered)",
+      "sha256": "920ad2fc64e445626ccca0aeeb35834703bb302e3d3a222e8de2e9bef71bed67",
+      "bytes": 136736,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/085.jpg",
+        "sha256": "920ad2fc64e445626ccca0aeeb35834703bb302e3d3a222e8de2e9bef71bed67"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reverse-12.jpg",
+        "sha256": "920ad2fc64e445626ccca0aeeb35834703bb302e3d3a222e8de2e9bef71bed67"
+      }
+    },
+    {
+      "label": "reference-100 desktop scroll desktop-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 4 (ordered)",
+      "sha256": "7f1b6a7cab5f0d8018fc05fd64e6edc47c726c14c4e6967c2d973cce5655a249",
+      "bytes": 163765,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/086.jpg",
+        "sha256": "7f1b6a7cab5f0d8018fc05fd64e6edc47c726c14c4e6967c2d973cce5655a249"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reverse-opening-stop.jpg",
+        "sha256": "7f1b6a7cab5f0d8018fc05fd64e6edc47c726c14c4e6967c2d973cce5655a249"
+      }
+    },
+    {
+      "label": "reference-101 desktop scroll desktop-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 5 (ordered)",
+      "sha256": "fba01da2cc6b922299f619b3e0f264e6cd67e2cc07fcc75da59fc97a2aabe7ec",
+      "bytes": 106663,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/087.jpg",
+        "sha256": "fba01da2cc6b922299f619b3e0f264e6cd67e2cc07fcc75da59fc97a2aabe7ec"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-reentry.jpg",
+        "sha256": "fba01da2cc6b922299f619b3e0f264e6cd67e2cc07fcc75da59fc97a2aabe7ec"
+      }
+    },
+    {
+      "label": "reference-102 desktop pointer desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 0 (ordered)",
+      "sha256": "14b9648c58ce1bc23bcb4d09b7985873e5d6afe57043927827ce83550e218d8e",
+      "bytes": 166539,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/088.jpg",
+        "sha256": "14b9648c58ce1bc23bcb4d09b7985873e5d6afe57043927827ce83550e218d8e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-settled.jpg",
+        "sha256": "14b9648c58ce1bc23bcb4d09b7985873e5d6afe57043927827ce83550e218d8e"
+      }
+    },
+    {
+      "label": "reference-104 desktop pointer desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 2 (ordered)",
+      "sha256": "5ccc5a990a3de48ad1c3270b1bcc20f9ee577a9e46f81640eca8646ca34c86a6",
+      "bytes": 168688,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/089.jpg",
+        "sha256": "5ccc5a990a3de48ad1c3270b1bcc20f9ee577a9e46f81640eca8646ca34c86a6"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-paint-3.jpg",
+        "sha256": "5ccc5a990a3de48ad1c3270b1bcc20f9ee577a9e46f81640eca8646ca34c86a6"
+      }
+    },
+    {
+      "label": "reference-105 desktop pointer desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 3 (ordered)",
+      "sha256": "3e9a5dce5d4b08e62ae164bf8b2d0e67da429e84df395ea8315903bf3e1ca962",
+      "bytes": 159938,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/090.jpg",
+        "sha256": "3e9a5dce5d4b08e62ae164bf8b2d0e67da429e84df395ea8315903bf3e1ca962"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-paint-7.jpg",
+        "sha256": "3e9a5dce5d4b08e62ae164bf8b2d0e67da429e84df395ea8315903bf3e1ca962"
+      }
+    },
+    {
+      "label": "reference-106 desktop pointer desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 4 (ordered)",
+      "sha256": "b6caf970325b5a7313f0b52a640a45c2f30eab10aa1a60601615b0862006ff53",
+      "bytes": 172644,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/091.jpg",
+        "sha256": "b6caf970325b5a7313f0b52a640a45c2f30eab10aa1a60601615b0862006ff53"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-paint-11.jpg",
+        "sha256": "b6caf970325b5a7313f0b52a640a45c2f30eab10aa1a60601615b0862006ff53"
+      }
+    },
+    {
+      "label": "reference-107 desktop pointer desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 5 (ordered)",
+      "sha256": "aeb58cfd0f830689bebcac34fd9f85a5b570fcf68c97f464ace0028ff6164905",
+      "bytes": 163182,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/092.jpg",
+        "sha256": "aeb58cfd0f830689bebcac34fd9f85a5b570fcf68c97f464ace0028ff6164905"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-paint-15.jpg",
+        "sha256": "aeb58cfd0f830689bebcac34fd9f85a5b570fcf68c97f464ace0028ff6164905"
+      }
+    },
+    {
+      "label": "reference-108 desktop pointer desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 6 (ordered)",
+      "sha256": "0918102120228997f8ea1185980b863ec2902bc70114fb49b9496c6065cfc88e",
+      "bytes": 171071,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/093.jpg",
+        "sha256": "0918102120228997f8ea1185980b863ec2902bc70114fb49b9496c6065cfc88e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-leave-stop.jpg",
+        "sha256": "0918102120228997f8ea1185980b863ec2902bc70114fb49b9496c6065cfc88e"
+      }
+    },
+    {
+      "label": "reference-109 desktop pointer desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 7 (ordered)",
+      "sha256": "8e7c4ba14da48e4c8f4df12d3c457c6852a92ee00e23606d82aad74fe1945c4a",
+      "bytes": 158697,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/094.jpg",
+        "sha256": "8e7c4ba14da48e4c8f4df12d3c457c6852a92ee00e23606d82aad74fe1945c4a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-race-hover.jpg",
+        "sha256": "8e7c4ba14da48e4c8f4df12d3c457c6852a92ee00e23606d82aad74fe1945c4a"
+      }
+    },
+    {
+      "label": "reference-110 desktop pointer desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 8 (ordered)",
+      "sha256": "14d161a824036ac4d66c10e1cadf90d5f758b6acb07be2b8993dd2e631f58d92",
+      "bytes": 155357,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/095.jpg",
+        "sha256": "14d161a824036ac4d66c10e1cadf90d5f758b6acb07be2b8993dd2e631f58d92"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-race-leave.jpg",
+        "sha256": "14d161a824036ac4d66c10e1cadf90d5f758b6acb07be2b8993dd2e631f58d92"
+      }
+    },
+    {
+      "label": "reference-111 desktop pointer desktop-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 9 (ordered)",
+      "sha256": "0f9e75b66028ea7f1f5a50a359c150193a294accb37e48c6f7aeb418b05b6db4",
+      "bytes": 155317,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/096.jpg",
+        "sha256": "0f9e75b66028ea7f1f5a50a359c150193a294accb37e48c6f7aeb418b05b6db4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-reenter.jpg",
+        "sha256": "0f9e75b66028ea7f1f5a50a359c150193a294accb37e48c6f7aeb418b05b6db4"
+      }
+    },
+    {
+      "label": "reference-112 desktop pointer desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 0 (ordered)",
+      "sha256": "9d73e72fbf77dc6b3a3507a1bf9312c455e15b163c2c3f97518175b8603c55f5",
+      "bytes": 160074,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/097.jpg",
+        "sha256": "9d73e72fbf77dc6b3a3507a1bf9312c455e15b163c2c3f97518175b8603c55f5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-settled.jpg",
+        "sha256": "9d73e72fbf77dc6b3a3507a1bf9312c455e15b163c2c3f97518175b8603c55f5"
+      }
+    },
+    {
+      "label": "reference-113 desktop pointer desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 1 (ordered)",
+      "sha256": "c1af516d54e5908fc05f4ce1d2b4772348a7c69b418c2454631b12c40c54dbf7",
+      "bytes": 156603,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/098.jpg",
+        "sha256": "c1af516d54e5908fc05f4ce1d2b4772348a7c69b418c2454631b12c40c54dbf7"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-idle-control.jpg",
+        "sha256": "c1af516d54e5908fc05f4ce1d2b4772348a7c69b418c2454631b12c40c54dbf7"
+      }
+    },
+    {
+      "label": "reference-114 desktop pointer desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 2 (ordered)",
+      "sha256": "a8b4cb79d9490d8e1901174ab5e071685106a5ec95bcc48da7ac7327850e175c",
+      "bytes": 167014,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/099.jpg",
+        "sha256": "a8b4cb79d9490d8e1901174ab5e071685106a5ec95bcc48da7ac7327850e175c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-paint-3.jpg",
+        "sha256": "a8b4cb79d9490d8e1901174ab5e071685106a5ec95bcc48da7ac7327850e175c"
+      }
+    },
+    {
+      "label": "reference-115 desktop pointer desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 3 (ordered)",
+      "sha256": "e0460dc9be1d7d4a7a13fd3688a01e1947face64e05d3ab33815af44922cec90",
+      "bytes": 162542,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/100.jpg",
+        "sha256": "e0460dc9be1d7d4a7a13fd3688a01e1947face64e05d3ab33815af44922cec90"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-paint-7.jpg",
+        "sha256": "e0460dc9be1d7d4a7a13fd3688a01e1947face64e05d3ab33815af44922cec90"
+      }
+    },
+    {
+      "label": "reference-116 desktop pointer desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 4 (ordered)",
+      "sha256": "fc092a04c2c8d80fbfa21c81f5d93b9dc31a2864e76d6cbdfda5f9a2792c097e",
+      "bytes": 172610,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/101.jpg",
+        "sha256": "fc092a04c2c8d80fbfa21c81f5d93b9dc31a2864e76d6cbdfda5f9a2792c097e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-paint-11.jpg",
+        "sha256": "fc092a04c2c8d80fbfa21c81f5d93b9dc31a2864e76d6cbdfda5f9a2792c097e"
+      }
+    },
+    {
+      "label": "reference-117 desktop pointer desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 5 (ordered)",
+      "sha256": "4a33555b3dc9000c428276e12a38b87879c91618cfb40c514cbd798fa91567da",
+      "bytes": 159594,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/102.jpg",
+        "sha256": "4a33555b3dc9000c428276e12a38b87879c91618cfb40c514cbd798fa91567da"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-paint-15.jpg",
+        "sha256": "4a33555b3dc9000c428276e12a38b87879c91618cfb40c514cbd798fa91567da"
+      }
+    },
+    {
+      "label": "reference-118 desktop pointer desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 6 (ordered)",
+      "sha256": "106f677e80baaf9bccb0e7875ae2f1522c0ff8c44c3fb6c52551ee4d9c51481c",
+      "bytes": 161179,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/103.jpg",
+        "sha256": "106f677e80baaf9bccb0e7875ae2f1522c0ff8c44c3fb6c52551ee4d9c51481c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-leave-stop.jpg",
+        "sha256": "106f677e80baaf9bccb0e7875ae2f1522c0ff8c44c3fb6c52551ee4d9c51481c"
+      }
+    },
+    {
+      "label": "reference-119 desktop pointer desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 7 (ordered)",
+      "sha256": "b3a508b2c4e9b1f7759c7a1b1ec6308db95946e9982c37af056571658bdbf998",
+      "bytes": 164259,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/104.jpg",
+        "sha256": "b3a508b2c4e9b1f7759c7a1b1ec6308db95946e9982c37af056571658bdbf998"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-race-hover.jpg",
+        "sha256": "b3a508b2c4e9b1f7759c7a1b1ec6308db95946e9982c37af056571658bdbf998"
+      }
+    },
+    {
+      "label": "reference-120 desktop pointer desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 8 (ordered)",
+      "sha256": "07885426d693a1e504dce75060bbe3aefeb42355a6ded96b651401895f6da15d",
+      "bytes": 157617,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/105.jpg",
+        "sha256": "07885426d693a1e504dce75060bbe3aefeb42355a6ded96b651401895f6da15d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-race-leave.jpg",
+        "sha256": "07885426d693a1e504dce75060bbe3aefeb42355a6ded96b651401895f6da15d"
+      }
+    },
+    {
+      "label": "reference-121 desktop pointer desktop-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 9 (ordered)",
+      "sha256": "62de14327f379621384ef1548d677a13c72b666a0893c43a66a05b313ef39762",
+      "bytes": 162383,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/106.jpg",
+        "sha256": "62de14327f379621384ef1548d677a13c72b666a0893c43a66a05b313ef39762"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-reduced-reenter.jpg",
+        "sha256": "62de14327f379621384ef1548d677a13c72b666a0893c43a66a05b313ef39762"
+      }
+    },
+    {
+      "label": "reference-122 desktop scroll desktop-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 0 (ordered)",
+      "sha256": "eed6f018e2ebbc74b44b7fee1c3435836a25f8afef0b62b31e1a1a5d5beae548",
+      "bytes": 158589,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/107.jpg",
+        "sha256": "eed6f018e2ebbc74b44b7fee1c3435836a25f8afef0b62b31e1a1a5d5beae548"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-opening.jpg",
+        "sha256": "eed6f018e2ebbc74b44b7fee1c3435836a25f8afef0b62b31e1a1a5d5beae548"
+      }
+    },
+    {
+      "label": "reference-123 desktop scroll desktop-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 1 (ordered)",
+      "sha256": "2ef77e05c82ae9c7ef4f5bd80ed1b2f34ce41680958c2e9902b889173a0d6caa",
+      "bytes": 102686,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/108.jpg",
+        "sha256": "2ef77e05c82ae9c7ef4f5bd80ed1b2f34ce41680958c2e9902b889173a0d6caa"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-forward-1.jpg",
+        "sha256": "2ef77e05c82ae9c7ef4f5bd80ed1b2f34ce41680958c2e9902b889173a0d6caa"
+      }
+    },
+    {
+      "label": "reference-124 desktop scroll desktop-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 2 (ordered)",
+      "sha256": "6762ba95108ef9884dbdb0debb8cc3a38ebc1fa743fa60729bf7b4e90735afea",
+      "bytes": 137253,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/109.jpg",
+        "sha256": "6762ba95108ef9884dbdb0debb8cc3a38ebc1fa743fa60729bf7b4e90735afea"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-forward-4.jpg",
+        "sha256": "6762ba95108ef9884dbdb0debb8cc3a38ebc1fa743fa60729bf7b4e90735afea"
+      }
+    },
+    {
+      "label": "reference-125 desktop scroll desktop-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 3 (ordered)",
+      "sha256": "43dba3744e6b5dda615d45851b9796f26d99eb3d628242d5fa8a4f4a99d6cbc4",
+      "bytes": 220789,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/110.jpg",
+        "sha256": "43dba3744e6b5dda615d45851b9796f26d99eb3d628242d5fa8a4f4a99d6cbc4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-forward-7.jpg",
+        "sha256": "43dba3744e6b5dda615d45851b9796f26d99eb3d628242d5fa8a4f4a99d6cbc4"
+      }
+    },
+    {
+      "label": "reference-126 desktop scroll desktop-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 4 (ordered)",
+      "sha256": "9990944c0391ffe1a24fbf23b6b33e484de70f39a7c1e6c0fdae29feeb335056",
+      "bytes": 140839,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/111.jpg",
+        "sha256": "9990944c0391ffe1a24fbf23b6b33e484de70f39a7c1e6c0fdae29feeb335056"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-ending-stop.jpg",
+        "sha256": "9990944c0391ffe1a24fbf23b6b33e484de70f39a7c1e6c0fdae29feeb335056"
+      }
+    },
+    {
+      "label": "reference-127 desktop scroll desktop-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 5 (ordered)",
+      "sha256": "3b42bafb05a1c448dc820a4a80b89a24d608548ec4b06c2c1e31b8e26e796d14",
+      "bytes": 141169,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/112.jpg",
+        "sha256": "3b42bafb05a1c448dc820a4a80b89a24d608548ec4b06c2c1e31b8e26e796d14"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-ending-extra.jpg",
+        "sha256": "3b42bafb05a1c448dc820a4a80b89a24d608548ec4b06c2c1e31b8e26e796d14"
+      }
+    },
+    {
+      "label": "reference-128 desktop scroll desktop-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 6 (ordered)",
+      "sha256": "c79a05cafcbb2454983669edd6fca678f28f3e5fb4abcfc695c4ff8fa5bc49c4",
+      "bytes": 161500,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/113.jpg",
+        "sha256": "c79a05cafcbb2454983669edd6fca678f28f3e5fb4abcfc695c4ff8fa5bc49c4"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-reverse-from-ending.jpg",
+        "sha256": "c79a05cafcbb2454983669edd6fca678f28f3e5fb4abcfc695c4ff8fa5bc49c4"
+      }
+    },
+    {
+      "label": "reference-129 desktop scroll desktop-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 7 (ordered)",
+      "sha256": "7b6559842bfc92d4565c75b7e35376133f7766bcdcc7c1f9e13bd302e5eee3ab",
+      "bytes": 158952,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/114.jpg",
+        "sha256": "7b6559842bfc92d4565c75b7e35376133f7766bcdcc7c1f9e13bd302e5eee3ab"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-reduced-reverse-stop.jpg",
+        "sha256": "7b6559842bfc92d4565c75b7e35376133f7766bcdcc7c1f9e13bd302e5eee3ab"
+      }
+    },
+    {
+      "label": "reference-130 mobile scroll mobile-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 0 (ordered)",
+      "sha256": "d6dd2fafb60eae456b94e7b73da12bff4b60f69740dd3cb2b25d03ba252167b6",
+      "bytes": 55879,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/115.jpg",
+        "sha256": "d6dd2fafb60eae456b94e7b73da12bff4b60f69740dd3cb2b25d03ba252167b6"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reverse-1.jpg",
+        "sha256": "d6dd2fafb60eae456b94e7b73da12bff4b60f69740dd3cb2b25d03ba252167b6"
+      }
+    },
+    {
+      "label": "reference-131 mobile scroll mobile-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 1 (ordered)",
+      "sha256": "2db57e7132b7256722f748244adcc6f74b8e8c90afe2f04db7578cad8f35ad7b",
+      "bytes": 40359,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/116.jpg",
+        "sha256": "2db57e7132b7256722f748244adcc6f74b8e8c90afe2f04db7578cad8f35ad7b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reverse-4.jpg",
+        "sha256": "2db57e7132b7256722f748244adcc6f74b8e8c90afe2f04db7578cad8f35ad7b"
+      }
+    },
+    {
+      "label": "reference-132 mobile scroll mobile-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 2 (ordered)",
+      "sha256": "acf4655bbaeceaacb7be8afe0b960e79574bfa87068b4b3ca02112df8db49e02",
+      "bytes": 57520,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/117.jpg",
+        "sha256": "acf4655bbaeceaacb7be8afe0b960e79574bfa87068b4b3ca02112df8db49e02"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reverse-8.jpg",
+        "sha256": "acf4655bbaeceaacb7be8afe0b960e79574bfa87068b4b3ca02112df8db49e02"
+      }
+    },
+    {
+      "label": "reference-133 mobile scroll mobile-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 3 (ordered)",
+      "sha256": "3d419cbf05df0ed066459d5c74fd7433c3052e337ac7492d068a8de15b0d1007",
+      "bytes": 55261,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/118.jpg",
+        "sha256": "3d419cbf05df0ed066459d5c74fd7433c3052e337ac7492d068a8de15b0d1007"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reverse-12.jpg",
+        "sha256": "3d419cbf05df0ed066459d5c74fd7433c3052e337ac7492d068a8de15b0d1007"
+      }
+    },
+    {
+      "label": "reference-134 mobile scroll mobile-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 4 (ordered)",
+      "sha256": "6b8b7245dfedac733b457a9e52b018e9bac36a147308d5c63033a5a8e7ef6cce",
+      "bytes": 81603,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/119.jpg",
+        "sha256": "6b8b7245dfedac733b457a9e52b018e9bac36a147308d5c63033a5a8e7ef6cce"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reverse-opening-stop.jpg",
+        "sha256": "6b8b7245dfedac733b457a9e52b018e9bac36a147308d5c63033a5a8e7ef6cce"
+      }
+    },
+    {
+      "label": "reference-135 mobile scroll mobile-normal-reverse-and-reentry; Actual normal reverse to zero, stop and native forward reentry. process 5 (ordered)",
+      "sha256": "d46b813bdf25e13c8cba165fa8d12f35d3dcd5777e0ebc86e1bf01e5978d3e9b",
+      "bytes": 35256,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/120.jpg",
+        "sha256": "d46b813bdf25e13c8cba165fa8d12f35d3dcd5777e0ebc86e1bf01e5978d3e9b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-reentry.jpg",
+        "sha256": "d46b813bdf25e13c8cba165fa8d12f35d3dcd5777e0ebc86e1bf01e5978d3e9b"
+      }
+    },
+    {
+      "label": "reference-136 mobile pointer mobile-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 0 (ordered)",
+      "sha256": "1e67fdbf69485eca2abe80859aa42e5ae7c4e8f2195df849540d168bbca20dd8",
+      "bytes": 75958,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/121.jpg",
+        "sha256": "1e67fdbf69485eca2abe80859aa42e5ae7c4e8f2195df849540d168bbca20dd8"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-settled.jpg",
+        "sha256": "1e67fdbf69485eca2abe80859aa42e5ae7c4e8f2195df849540d168bbca20dd8"
+      }
+    },
+    {
+      "label": "reference-138 mobile pointer mobile-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 2 (ordered)",
+      "sha256": "06df80811c256b0252667dc041233fd215c53884fb129a953193e508b80c199a",
+      "bytes": 81068,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/122.jpg",
+        "sha256": "06df80811c256b0252667dc041233fd215c53884fb129a953193e508b80c199a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-lock-tap.jpg",
+        "sha256": "06df80811c256b0252667dc041233fd215c53884fb129a953193e508b80c199a"
+      }
+    },
+    {
+      "label": "reference-139 mobile pointer mobile-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 3 (ordered)",
+      "sha256": "e2607d420c186021f7d842d5edece985ddc599775a50ed9e6a4ee9530fbd281a",
+      "bytes": 76104,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/123.jpg",
+        "sha256": "e2607d420c186021f7d842d5edece985ddc599775a50ed9e6a4ee9530fbd281a"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-finger-5.jpg",
+        "sha256": "e2607d420c186021f7d842d5edece985ddc599775a50ed9e6a4ee9530fbd281a"
+      }
+    },
+    {
+      "label": "reference-140 mobile pointer mobile-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 4 (ordered)",
+      "sha256": "d820e013fb5d71f1221dd46e0f1157b9fc0076612f1fd85c5afb0d7ee8f3c78f",
+      "bytes": 78461,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/124.jpg",
+        "sha256": "d820e013fb5d71f1221dd46e0f1157b9fc0076612f1fd85c5afb0d7ee8f3c78f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-finger-9.jpg",
+        "sha256": "d820e013fb5d71f1221dd46e0f1157b9fc0076612f1fd85c5afb0d7ee8f3c78f"
+      }
+    },
+    {
+      "label": "reference-141 mobile pointer mobile-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 5 (ordered)",
+      "sha256": "a445d7cdc5575fb54a3132f8b756905311158ecb12284455d12aab4972b3641c",
+      "bytes": 81141,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/125.jpg",
+        "sha256": "a445d7cdc5575fb54a3132f8b756905311158ecb12284455d12aab4972b3641c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-finger-14.jpg",
+        "sha256": "a445d7cdc5575fb54a3132f8b756905311158ecb12284455d12aab4972b3641c"
+      }
+    },
+    {
+      "label": "reference-142 mobile pointer mobile-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 6 (ordered)",
+      "sha256": "60bd0bc88083525a707fdced385ece733669ec318570120aef37b34ea8383863",
+      "bytes": 77597,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/126.jpg",
+        "sha256": "60bd0bc88083525a707fdced385ece733669ec318570120aef37b34ea8383863"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-finger-18.jpg",
+        "sha256": "60bd0bc88083525a707fdced385ece733669ec318570120aef37b34ea8383863"
+      }
+    },
+    {
+      "label": "reference-143 mobile pointer mobile-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 7 (ordered)",
+      "sha256": "4a5e38e0ce16647e7a257674ac4ec717b751d4beee0f83e33b604776e50b4de3",
+      "bytes": 78899,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/127.jpg",
+        "sha256": "4a5e38e0ce16647e7a257674ac4ec717b751d4beee0f83e33b604776e50b4de3"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-finger-release-stop.jpg",
+        "sha256": "4a5e38e0ce16647e7a257674ac4ec717b751d4beee0f83e33b604776e50b4de3"
+      }
+    },
+    {
+      "label": "reference-144 mobile pointer mobile-normal-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 8 (ordered)",
+      "sha256": "28c9de166bc86f0b5ef0a57756e4bf8ca546b898acb17b2b6cb20ec81245e25e",
+      "bytes": 78349,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/128.jpg",
+        "sha256": "28c9de166bc86f0b5ef0a57756e4bf8ca546b898acb17b2b6cb20ec81245e25e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-unlock-tap.jpg",
+        "sha256": "28c9de166bc86f0b5ef0a57756e4bf8ca546b898acb17b2b6cb20ec81245e25e"
+      }
+    },
+    {
+      "label": "reference-145 mobile pointer mobile-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 0 (ordered)",
+      "sha256": "9a165f52f213ee85fbe00ef48b458486c327193c92e95ee2a9e044b70569ca0c",
+      "bytes": 75556,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/129.jpg",
+        "sha256": "9a165f52f213ee85fbe00ef48b458486c327193c92e95ee2a9e044b70569ca0c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-settled.jpg",
+        "sha256": "9a165f52f213ee85fbe00ef48b458486c327193c92e95ee2a9e044b70569ca0c"
+      }
+    },
+    {
+      "label": "reference-146 mobile pointer mobile-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 1 (ordered)",
+      "sha256": "324efdde94b01305432f30ccf978e4751a31552eda8b265ed7da0a7804a8af3e",
+      "bytes": 80160,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/130.jpg",
+        "sha256": "324efdde94b01305432f30ccf978e4751a31552eda8b265ed7da0a7804a8af3e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-idle-control.jpg",
+        "sha256": "324efdde94b01305432f30ccf978e4751a31552eda8b265ed7da0a7804a8af3e"
+      }
+    },
+    {
+      "label": "reference-147 mobile pointer mobile-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 2 (ordered)",
+      "sha256": "12599a6ded608a9dbfc1f6b74bce036a12483c82fbf35762dec0dc0fd4e9fe55",
+      "bytes": 81397,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/131.jpg",
+        "sha256": "12599a6ded608a9dbfc1f6b74bce036a12483c82fbf35762dec0dc0fd4e9fe55"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-lock-tap.jpg",
+        "sha256": "12599a6ded608a9dbfc1f6b74bce036a12483c82fbf35762dec0dc0fd4e9fe55"
+      }
+    },
+    {
+      "label": "reference-148 mobile pointer mobile-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 3 (ordered)",
+      "sha256": "3d198f39f3bf8019cf8eb10ea113623e764b8f19b51343e28d97e378d8a9611f",
+      "bytes": 76096,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/132.jpg",
+        "sha256": "3d198f39f3bf8019cf8eb10ea113623e764b8f19b51343e28d97e378d8a9611f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-finger-5.jpg",
+        "sha256": "3d198f39f3bf8019cf8eb10ea113623e764b8f19b51343e28d97e378d8a9611f"
+      }
+    },
+    {
+      "label": "reference-149 mobile pointer mobile-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 4 (ordered)",
+      "sha256": "47fb7ce59a661c209e8855e03f2407bd9aa850b1793e6a4c86bedece206ef5c1",
+      "bytes": 78481,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/133.jpg",
+        "sha256": "47fb7ce59a661c209e8855e03f2407bd9aa850b1793e6a4c86bedece206ef5c1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-finger-9.jpg",
+        "sha256": "47fb7ce59a661c209e8855e03f2407bd9aa850b1793e6a4c86bedece206ef5c1"
+      }
+    },
+    {
+      "label": "reference-150 mobile pointer mobile-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 5 (ordered)",
+      "sha256": "ac8667e8aced13ac2559744368f42b67ff1f90d7c372166cd179a85ec5b3a727",
+      "bytes": 80977,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/134.jpg",
+        "sha256": "ac8667e8aced13ac2559744368f42b67ff1f90d7c372166cd179a85ec5b3a727"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-finger-14.jpg",
+        "sha256": "ac8667e8aced13ac2559744368f42b67ff1f90d7c372166cd179a85ec5b3a727"
+      }
+    },
+    {
+      "label": "reference-151 mobile pointer mobile-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 6 (ordered)",
+      "sha256": "091c4906a5e7e80891c0dc60a690fd3323f9e48619b958bf0bd57fb77af3933e",
+      "bytes": 78451,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/135.jpg",
+        "sha256": "091c4906a5e7e80891c0dc60a690fd3323f9e48619b958bf0bd57fb77af3933e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-finger-18.jpg",
+        "sha256": "091c4906a5e7e80891c0dc60a690fd3323f9e48619b958bf0bd57fb77af3933e"
+      }
+    },
+    {
+      "label": "reference-152 mobile pointer mobile-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 7 (ordered)",
+      "sha256": "185f204d9f11767f3cc415f93eb3eac090cdbafe174b2b51784912b2c97c0d6c",
+      "bytes": 78913,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/136.jpg",
+        "sha256": "185f204d9f11767f3cc415f93eb3eac090cdbafe174b2b51784912b2c97c0d6c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-finger-release-stop.jpg",
+        "sha256": "185f204d9f11767f3cc415f93eb3eac090cdbafe174b2b51784912b2c97c0d6c"
+      }
+    },
+    {
+      "label": "reference-153 mobile pointer mobile-reduced-hero-input; Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted. process 8 (ordered)",
+      "sha256": "013810f17613a5217af239108c5e1c3193a79279f56fb55c641458dfb100acc2",
+      "bytes": 78182,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/137.jpg",
+        "sha256": "013810f17613a5217af239108c5e1c3193a79279f56fb55c641458dfb100acc2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-reduced-unlock-tap.jpg",
+        "sha256": "013810f17613a5217af239108c5e1c3193a79279f56fb55c641458dfb100acc2"
+      }
+    },
+    {
+      "label": "reference-154 mobile scroll mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 0 (ordered)",
+      "sha256": "aac768f7135f6c5da0a362ad78d732b0ff4cd2667b9f053af7ffefd4ebe94ac2",
+      "bytes": 79349,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/138.jpg",
+        "sha256": "aac768f7135f6c5da0a362ad78d732b0ff4cd2667b9f053af7ffefd4ebe94ac2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-opening.jpg",
+        "sha256": "aac768f7135f6c5da0a362ad78d732b0ff4cd2667b9f053af7ffefd4ebe94ac2"
+      }
+    },
+    {
+      "label": "reference-155 mobile scroll mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 1 (ordered)",
+      "sha256": "ea6e109882d02d918a568cad81082913755d6da152fbf85a299c0d7f8d220be2",
+      "bytes": 36816,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/139.jpg",
+        "sha256": "ea6e109882d02d918a568cad81082913755d6da152fbf85a299c0d7f8d220be2"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-forward-1.jpg",
+        "sha256": "ea6e109882d02d918a568cad81082913755d6da152fbf85a299c0d7f8d220be2"
+      }
+    },
+    {
+      "label": "reference-156 mobile scroll mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 2 (ordered)",
+      "sha256": "1660a9cea72ed95246c10dc81310bf2a7f66e9c12f0933e8290789a0673cd00c",
+      "bytes": 49179,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/140.jpg",
+        "sha256": "1660a9cea72ed95246c10dc81310bf2a7f66e9c12f0933e8290789a0673cd00c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-forward-4.jpg",
+        "sha256": "1660a9cea72ed95246c10dc81310bf2a7f66e9c12f0933e8290789a0673cd00c"
+      }
+    },
+    {
+      "label": "reference-157 mobile scroll mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 3 (ordered)",
+      "sha256": "1d6b9129161a776b24fe7358f8331514b929bf5f08a2f7127b5eff20a84c00a8",
+      "bytes": 82632,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/141.jpg",
+        "sha256": "1d6b9129161a776b24fe7358f8331514b929bf5f08a2f7127b5eff20a84c00a8"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-forward-7.jpg",
+        "sha256": "1d6b9129161a776b24fe7358f8331514b929bf5f08a2f7127b5eff20a84c00a8"
+      }
+    },
+    {
+      "label": "reference-158 mobile scroll mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 4 (ordered)",
+      "sha256": "ca661baee2fb352311e7dca9ada54eff045e8fedefbd6146327ef99c8b87e769",
+      "bytes": 49342,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/142.jpg",
+        "sha256": "ca661baee2fb352311e7dca9ada54eff045e8fedefbd6146327ef99c8b87e769"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-gallery-default.jpg",
+        "sha256": "ca661baee2fb352311e7dca9ada54eff045e8fedefbd6146327ef99c8b87e769"
+      }
+    },
+    {
+      "label": "reference-159 mobile scroll mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 5 (ordered)",
+      "sha256": "62341f67f85ea8e2f14829d4beddcf00a1e717e4c07562523d948a39fd4ce63d",
+      "bytes": 49344,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/143.jpg",
+        "sha256": "62341f67f85ea8e2f14829d4beddcf00a1e717e4c07562523d948a39fd4ce63d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-gallery-click-result.jpg",
+        "sha256": "62341f67f85ea8e2f14829d4beddcf00a1e717e4c07562523d948a39fd4ce63d"
+      }
+    },
+    {
+      "label": "reference-160 mobile scroll mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 6 (ordered)",
+      "sha256": "e09a2538679ece95594e6a71a40061dbae3e5e39d9a75d6e77c4227c312ad4fb",
+      "bytes": 54130,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/144.jpg",
+        "sha256": "e09a2538679ece95594e6a71a40061dbae3e5e39d9a75d6e77c4227c312ad4fb"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-ending-stop.jpg",
+        "sha256": "e09a2538679ece95594e6a71a40061dbae3e5e39d9a75d6e77c4227c312ad4fb"
+      }
+    },
+    {
+      "label": "reference-161 mobile scroll mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 7 (ordered)",
+      "sha256": "00e1aa18718b97ad12b4683006dafd23b98821e4331d52434a6993b88862f1b7",
+      "bytes": 54486,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/145.jpg",
+        "sha256": "00e1aa18718b97ad12b4683006dafd23b98821e4331d52434a6993b88862f1b7"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-ending-extra.jpg",
+        "sha256": "00e1aa18718b97ad12b4683006dafd23b98821e4331d52434a6993b88862f1b7"
+      }
+    },
+    {
+      "label": "reference-162 mobile scroll mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 8 (ordered)\nreference-163 mobile scroll mobile-reduced-forward-and-reverse-stop; Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop. process 9 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "a18cf6b9a8fbc7b1639b9c0322e4ef4dd0df0278e654f561585c56346579b5fc",
+      "bytes": 55810,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/146.jpg",
+        "sha256": "a18cf6b9a8fbc7b1639b9c0322e4ef4dd0df0278e654f561585c56346579b5fc"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-reduced-reverse-from-ending.jpg",
+        "sha256": "a18cf6b9a8fbc7b1639b9c0322e4ef4dd0df0278e654f561585c56346579b5fc"
+      }
+    },
+    {
+      "label": "reference-165 desktop pointer desktop-collection-image-and-context; Real default/hover/move/leave/click/leave; first hover still loading, later move/click fully loaded. process 1 (ordered)",
+      "sha256": "7767c24a22261838fc7464838fbed381f511b7f9107e7ef5a3a872bf778475d1",
+      "bytes": 184106,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/147.jpg",
+        "sha256": "7767c24a22261838fc7464838fbed381f511b7f9107e7ef5a3a872bf778475d1"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-hover.jpg",
+        "sha256": "7767c24a22261838fc7464838fbed381f511b7f9107e7ef5a3a872bf778475d1"
+      }
+    },
+    {
+      "label": "reference-166 desktop pointer desktop-collection-image-and-context; Real default/hover/move/leave/click/leave; first hover still loading, later move/click fully loaded. process 2 (ordered)\nreference-168 desktop pointer desktop-collection-image-and-context; Real default/hover/move/leave/click/leave; first hover still loading, later move/click fully loaded. process 4 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "1d8a8a82ce101edc92d0fe431bad4908fed0644834a5b685db3ba4e100722aa0",
+      "bytes": 193300,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/148.jpg",
+        "sha256": "1d8a8a82ce101edc92d0fe431bad4908fed0644834a5b685db3ba4e100722aa0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-move.jpg",
+        "sha256": "1d8a8a82ce101edc92d0fe431bad4908fed0644834a5b685db3ba4e100722aa0"
+      }
+    },
+    {
+      "label": "reference-167 desktop pointer desktop-collection-image-and-context; Real default/hover/move/leave/click/leave; first hover still loading, later move/click fully loaded. process 3 (ordered)\nreference-169 desktop pointer desktop-collection-image-and-context; Real default/hover/move/leave/click/leave; first hover still loading, later move/click fully loaded. process 5 (ordered)\nThese frame IDs have identical verified pixels. Each retains its own capture context.",
+      "sha256": "d36e4a81c8440e2f87c60fbe33e05e3f5b68fd03e9d74a46c4d11b5b4eec67c0",
+      "bytes": 171706,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/149.jpg",
+        "sha256": "d36e4a81c8440e2f87c60fbe33e05e3f5b68fd03e9d74a46c4d11b5b4eec67c0"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-first-leave.jpg",
+        "sha256": "d36e4a81c8440e2f87c60fbe33e05e3f5b68fd03e9d74a46c4d11b5b4eec67c0"
+      }
+    },
+    {
+      "label": "reference-170 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 0 (ordered)",
+      "sha256": "e94f2326ffea7be6cd899e292f891beea544876be3e0f5ed9fdbc128f3f28925",
+      "bytes": 156640,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/150.jpg",
+        "sha256": "e94f2326ffea7be6cd899e292f891beea544876be3e0f5ed9fdbc128f3f28925"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-hero-pointer-left.jpg",
+        "sha256": "e94f2326ffea7be6cd899e292f891beea544876be3e0f5ed9fdbc128f3f28925"
+      }
+    },
+    {
+      "label": "reference-171 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 1 (ordered)",
+      "sha256": "6e5b474e243763abbf84581f7db97d6d88e5391f6045c21678b548e9609f399f",
+      "bytes": 155649,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/151.jpg",
+        "sha256": "6e5b474e243763abbf84581f7db97d6d88e5391f6045c21678b548e9609f399f"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-hero-pointer-right.jpg",
+        "sha256": "6e5b474e243763abbf84581f7db97d6d88e5391f6045c21678b548e9609f399f"
+      }
+    },
+    {
+      "label": "reference-172 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 2 (ordered)",
+      "sha256": "5672db9e33205f21cf007b308b44a5c6a6ed2180902709817151d9eaa4c56344",
+      "bytes": 152840,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/152.jpg",
+        "sha256": "5672db9e33205f21cf007b308b44a5c6a6ed2180902709817151d9eaa4c56344"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-hero-pointer-leave.jpg",
+        "sha256": "5672db9e33205f21cf007b308b44a5c6a6ed2180902709817151d9eaa4c56344"
+      }
+    },
+    {
+      "label": "reference-173 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 3 (ordered)",
+      "sha256": "9225adace1947c349ed2f156ef776c7624f324e0e1521fdcc12ac71e02b7f474",
+      "bytes": 167072,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/153.jpg",
+        "sha256": "9225adace1947c349ed2f156ef776c7624f324e0e1521fdcc12ac71e02b7f474"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-hero-pointer-reenter.jpg",
+        "sha256": "9225adace1947c349ed2f156ef776c7624f324e0e1521fdcc12ac71e02b7f474"
+      }
+    },
+    {
+      "label": "reference-174 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 4 (ordered)",
+      "sha256": "2789c195df92ba88330a1b0e67b3a87f520a3e6a6b426a5902816963050eae73",
+      "bytes": 141558,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/154.jpg",
+        "sha256": "2789c195df92ba88330a1b0e67b3a87f520a3e6a6b426a5902816963050eae73"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-pointer-left.jpg",
+        "sha256": "2789c195df92ba88330a1b0e67b3a87f520a3e6a6b426a5902816963050eae73"
+      }
+    },
+    {
+      "label": "reference-175 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 5 (ordered)",
+      "sha256": "2ca0d800d66c4ab7919eddd753d3428e50f1aff8ccd8028ebd4521df62ff4fac",
+      "bytes": 140685,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/155.jpg",
+        "sha256": "2ca0d800d66c4ab7919eddd753d3428e50f1aff8ccd8028ebd4521df62ff4fac"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-pointer-right.jpg",
+        "sha256": "2ca0d800d66c4ab7919eddd753d3428e50f1aff8ccd8028ebd4521df62ff4fac"
+      }
+    },
+    {
+      "label": "reference-176 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 6 (ordered)",
+      "sha256": "ca1c177959deb49848ad2b44956200dc982d9de2c6e1a3445b22fc6b4c34463c",
+      "bytes": 141279,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/156.jpg",
+        "sha256": "ca1c177959deb49848ad2b44956200dc982d9de2c6e1a3445b22fc6b4c34463c"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-pointer-leave.jpg",
+        "sha256": "ca1c177959deb49848ad2b44956200dc982d9de2c6e1a3445b22fc6b4c34463c"
+      }
+    },
+    {
+      "label": "reference-177 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 7 (ordered)",
+      "sha256": "16d277f6e999ba0417d4135efcafe68b93f7e2059b7ec25a26c362b1bfce6d10",
+      "bytes": 155272,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/157.jpg",
+        "sha256": "16d277f6e999ba0417d4135efcafe68b93f7e2059b7ec25a26c362b1bfce6d10"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-reverse-from-ending.jpg",
+        "sha256": "16d277f6e999ba0417d4135efcafe68b93f7e2059b7ec25a26c362b1bfce6d10"
+      }
+    },
+    {
+      "label": "reference-178 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 8 (ordered)",
+      "sha256": "e104ab35a58b053c8aa6b8ed79efd2a71f4065e3d63031d046efa8e101554896",
+      "bytes": 154733,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/158.jpg",
+        "sha256": "e104ab35a58b053c8aa6b8ed79efd2a71f4065e3d63031d046efa8e101554896"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-reverse-stop.jpg",
+        "sha256": "e104ab35a58b053c8aa6b8ed79efd2a71f4065e3d63031d046efa8e101554896"
+      }
+    },
+    {
+      "label": "reference-179 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 0 (ordered)",
+      "sha256": "67b5e512a2d7c1f07430fe885ad97124d78951896d68ab125c089ec73c760042",
+      "bytes": 80880,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/159.jpg",
+        "sha256": "67b5e512a2d7c1f07430fe885ad97124d78951896d68ab125c089ec73c760042"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-hero-finger-held.jpg",
+        "sha256": "67b5e512a2d7c1f07430fe885ad97124d78951896d68ab125c089ec73c760042"
+      }
+    },
+    {
+      "label": "reference-180 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 1 (ordered)",
+      "sha256": "6d0a25c39eb14e48f39acbe249280564f8c8431837c3936b69922aa61fc0ba01",
+      "bytes": 79645,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/160.jpg",
+        "sha256": "6d0a25c39eb14e48f39acbe249280564f8c8431837c3936b69922aa61fc0ba01"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-hero-finger-right-held.jpg",
+        "sha256": "6d0a25c39eb14e48f39acbe249280564f8c8431837c3936b69922aa61fc0ba01"
+      }
+    },
+    {
+      "label": "reference-181 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 2 (ordered)",
+      "sha256": "7dea53c46f07d7c2c22f46da01fa6baf9dfe449e36cd6532111ac3ad8c8d4cc8",
+      "bytes": 81114,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/161.jpg",
+        "sha256": "7dea53c46f07d7c2c22f46da01fa6baf9dfe449e36cd6532111ac3ad8c8d4cc8"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-hero-finger-released.jpg",
+        "sha256": "7dea53c46f07d7c2c22f46da01fa6baf9dfe449e36cd6532111ac3ad8c8d4cc8"
+      }
+    },
+    {
+      "label": "reference-182 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 3 (ordered)",
+      "sha256": "ec3bff02b4186d4469c57f8195a1a7d181f691536aa708e80f0ffd5dfc47cf6b",
+      "bytes": 56198,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/162.jpg",
+        "sha256": "ec3bff02b4186d4469c57f8195a1a7d181f691536aa708e80f0ffd5dfc47cf6b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-reverse-from-ending.jpg",
+        "sha256": "ec3bff02b4186d4469c57f8195a1a7d181f691536aa708e80f0ffd5dfc47cf6b"
+      }
+    },
+    {
+      "label": "reference-183 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 4 (ordered)",
+      "sha256": "1a9dcee858ed0dcd43989651da75709e4106b5aed5592b6e1935ca64ff919afb",
+      "bytes": 56068,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/163.jpg",
+        "sha256": "1a9dcee858ed0dcd43989651da75709e4106b5aed5592b6e1935ca64ff919afb"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-reverse-stop.jpg",
+        "sha256": "1a9dcee858ed0dcd43989651da75709e4106b5aed5592b6e1935ca64ff919afb"
+      }
+    },
+    {
+      "label": "reference-184 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 0 (ordered)",
+      "sha256": "64d6b5388e073dfcf2514c87ee2365f4942bee4f0cfa34fd6e0b57d00d2e3764",
+      "bytes": 161563,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/164.jpg",
+        "sha256": "64d6b5388e073dfcf2514c87ee2365f4942bee4f0cfa34fd6e0b57d00d2e3764"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-opening.jpg",
+        "sha256": "64d6b5388e073dfcf2514c87ee2365f4942bee4f0cfa34fd6e0b57d00d2e3764"
+      }
+    },
+    {
+      "label": "reference-185 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 1 (ordered)",
+      "sha256": "96ce972560aa0b211b6537c84f5641b88f41ff997e12214157e9a2483e5cb84e",
+      "bytes": 104467,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/165.jpg",
+        "sha256": "96ce972560aa0b211b6537c84f5641b88f41ff997e12214157e9a2483e5cb84e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-forward-1.jpg",
+        "sha256": "96ce972560aa0b211b6537c84f5641b88f41ff997e12214157e9a2483e5cb84e"
+      }
+    },
+    {
+      "label": "reference-186 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 2 (ordered)",
+      "sha256": "f28afe58335003d3feada830b28a4b77cbf1233ed4f6c0a7f2466a0184a266a7",
+      "bytes": 136891,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/166.jpg",
+        "sha256": "f28afe58335003d3feada830b28a4b77cbf1233ed4f6c0a7f2466a0184a266a7"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-forward-4.jpg",
+        "sha256": "f28afe58335003d3feada830b28a4b77cbf1233ed4f6c0a7f2466a0184a266a7"
+      }
+    },
+    {
+      "label": "reference-187 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 3 (ordered)",
+      "sha256": "ee0f53b4b529167095a5a9cfb8c2d5bd0c38a5be6285a6893f0018f096768edf",
+      "bytes": 222283,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/167.jpg",
+        "sha256": "ee0f53b4b529167095a5a9cfb8c2d5bd0c38a5be6285a6893f0018f096768edf"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-forward-7.jpg",
+        "sha256": "ee0f53b4b529167095a5a9cfb8c2d5bd0c38a5be6285a6893f0018f096768edf"
+      }
+    },
+    {
+      "label": "reference-188 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 4 (ordered)",
+      "sha256": "c833e9b5403cbbd84cdc31ef3183f76bae7720471da498552a4553c10a4a6314",
+      "bytes": 141559,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/168.jpg",
+        "sha256": "c833e9b5403cbbd84cdc31ef3183f76bae7720471da498552a4553c10a4a6314"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-ending-stop.jpg",
+        "sha256": "c833e9b5403cbbd84cdc31ef3183f76bae7720471da498552a4553c10a4a6314"
+      }
+    },
+    {
+      "label": "reference-189 desktop observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 5 (ordered)",
+      "sha256": "2ec001f48194be17bc879e600d4cd7ea0f968e860095b4e087f7c48fa89ae382",
+      "bytes": 140610,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/169.jpg",
+        "sha256": "2ec001f48194be17bc879e600d4cd7ea0f968e860095b4e087f7c48fa89ae382"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/desktop-normal-ending-extra.jpg",
+        "sha256": "2ec001f48194be17bc879e600d4cd7ea0f968e860095b4e087f7c48fa89ae382"
+      }
+    },
+    {
+      "label": "reference-190 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 0 (ordered)",
+      "sha256": "def7a52d6f8c8c00cd0e9b2fe3d29fb4baf071cd486136964bf5791a6ed70dcc",
+      "bytes": 76687,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/170.jpg",
+        "sha256": "def7a52d6f8c8c00cd0e9b2fe3d29fb4baf071cd486136964bf5791a6ed70dcc"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-opening.jpg",
+        "sha256": "def7a52d6f8c8c00cd0e9b2fe3d29fb4baf071cd486136964bf5791a6ed70dcc"
+      }
+    },
+    {
+      "label": "reference-191 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 1 (ordered)",
+      "sha256": "45355bf558f3a7030728d4789ae76c8f53860c51b7e888ac063dd576a97b28ed",
+      "bytes": 36159,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/171.jpg",
+        "sha256": "45355bf558f3a7030728d4789ae76c8f53860c51b7e888ac063dd576a97b28ed"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-forward-1.jpg",
+        "sha256": "45355bf558f3a7030728d4789ae76c8f53860c51b7e888ac063dd576a97b28ed"
+      }
+    },
+    {
+      "label": "reference-192 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 2 (ordered)",
+      "sha256": "8945b9b6e3238017321ebf9fc66a00b1ab5863ae3c0bdf1e26dfe39f50d9494d",
+      "bytes": 47278,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/172.jpg",
+        "sha256": "8945b9b6e3238017321ebf9fc66a00b1ab5863ae3c0bdf1e26dfe39f50d9494d"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-forward-4.jpg",
+        "sha256": "8945b9b6e3238017321ebf9fc66a00b1ab5863ae3c0bdf1e26dfe39f50d9494d"
+      }
+    },
+    {
+      "label": "reference-193 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 3 (ordered)",
+      "sha256": "56d8718217fb52fe407d763f04ee66f30f0df6b32a5991a27494271938220df5",
+      "bytes": 85764,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/173.jpg",
+        "sha256": "56d8718217fb52fe407d763f04ee66f30f0df6b32a5991a27494271938220df5"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-forward-7.jpg",
+        "sha256": "56d8718217fb52fe407d763f04ee66f30f0df6b32a5991a27494271938220df5"
+      }
+    },
+    {
+      "label": "reference-194 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 4 (ordered)",
+      "sha256": "f5b6b2cd97bc06ffbfed0ec31f4d9886c7144f68ef128a5ed67a3b4954de803b",
+      "bytes": 44783,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/174.jpg",
+        "sha256": "f5b6b2cd97bc06ffbfed0ec31f4d9886c7144f68ef128a5ed67a3b4954de803b"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-gallery-default.jpg",
+        "sha256": "f5b6b2cd97bc06ffbfed0ec31f4d9886c7144f68ef128a5ed67a3b4954de803b"
+      }
+    },
+    {
+      "label": "reference-195 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 5 (ordered)",
+      "sha256": "d91858457c9b97ea1169b9f1800f54d05c83f2107406f8f1a80020fe82060510",
+      "bytes": 44790,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/175.jpg",
+        "sha256": "d91858457c9b97ea1169b9f1800f54d05c83f2107406f8f1a80020fe82060510"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-gallery-click-result.jpg",
+        "sha256": "d91858457c9b97ea1169b9f1800f54d05c83f2107406f8f1a80020fe82060510"
+      }
+    },
+    {
+      "label": "reference-196 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 6 (ordered)",
+      "sha256": "7650e7265d44ce959527f231d719bb5212689bb022dbe453df3d065a73b97b13",
+      "bytes": 54192,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/176.jpg",
+        "sha256": "7650e7265d44ce959527f231d719bb5212689bb022dbe453df3d065a73b97b13"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-ending-stop.jpg",
+        "sha256": "7650e7265d44ce959527f231d719bb5212689bb022dbe453df3d065a73b97b13"
+      }
+    },
+    {
+      "label": "reference-197 mobile observation Remaining original ordered source observations, including bounded single-point/ending probes and gallery tap results. These do not independently prove head rotation, full pull-on or mobile photo expansion. process 7 (ordered)",
+      "sha256": "569c8a78805639f8095293ef6017766f2c34dec7ef4bf83e0f7b11abafee958e",
+      "bytes": 54655,
+      "retained": {
+        "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/inputs/177.jpg",
+        "sha256": "569c8a78805639f8095293ef6017766f2c34dec7ef4bf83e0f7b11abafee958e"
+      },
+      "original": {
+        "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/mobile-normal-ending-extra.jpg",
+        "sha256": "569c8a78805639f8095293ef6017766f2c34dec7ef4bf83e0f7b11abafee958e"
+      }
+    }
+  ],
+  "implementations": [
+    {
+      "path": "scripts/production/cli-review-receipt.mjs",
+      "sha256": "e362e54680143d0fcc0098882feb6d5ce15197bca8aff98c777eab1b960cab55"
+    },
+    {
+      "path": "scripts/production/cli-review.mjs",
+      "sha256": "93b4c9b03feb5e90911d7b625a15b8bbe32c49ee50b654b7e623c2ed5c24bc79"
+    },
+    {
+      "path": "scripts/production/schemas.mjs",
+      "sha256": "f62b6b78ef4aee2d6803ee5ff87a456a7a45d4b7f558412b43504bc095dcee60"
+    },
+    {
+      "path": "scripts/production/session-review.mjs",
+      "sha256": "a2ec1b2ed775aec77af46a4a85c9c96e665ea98a999efb709fd9dbd58528afdd"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/api.mjs",
+      "sha256": "e78e43228b5e2e29b5078f2a0907d1f39edad7411c5f2f5b3b220111e8577b03"
+    }
+  ],
+  "canonicalReport": {
+    "path": "docs/production/runs/lando-reference-20261031/cli-review/01-reference-review-78ea15ed27/consumed/canonical-report.json",
+    "sha256": "d1c5c84aa20c531fc4b4a4034d91629d07392c9fdd9a5e17bcb7d4b44989b962"
+  },
+  "canonicalReportSha256": "d4efaeaf04690e19e8e12f3fda77568723b8d9495ab21ec8eba4381853cda4bc",
+  "resultProjection": "exact-role-projection-recomputed-at-validation",
+  "cliVersion": "codex-cli 0.165.0-alpha.1.2",
+  "provenance": {
+    "mode": "evidence-only-fresh-codex-cli",
+    "kind": "fresh-codex-cli",
+    "independent": false,
+    "contextIsolated": true,
+    "contextIsolationScope": "fresh conversation; implementation history not supplied",
+    "implementationContextIncluded": false,
+    "backendIndependenceEstablished": false,
+    "requestedModel": null,
+    "actualModel": null,
+    "modelIdentitySource": null
+  },
+  "threadId": "01a19111-f422-7d12-8e1a-79c366ce7861",
+  "eventCount": 11,
+  "usage": {
+    "input_tokens": 216810,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 3464,
+    "reasoning_output_tokens": 52
+  },
+  "diagnostics": [
+    {
+      "eventIndex": 1,
+      "kind": "startup-skip-host-skill-discovery",
+      "message": "Under-development features enabled: skip_host_skill_discovery. Under-development features are incomplete and may behave unpredictably. To suppress this warning, set `suppress_unstable_features_warning = true` in C:\\Users\\11509\\.codex\\config.toml."
+    },
+    {
+      "eventIndex": 2,
+      "kind": "startup-code-mode-disabled",
+      "message": "Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."
+    },
+    {
+      "eventIndex": 4,
+      "kind": "recoverable-connection-reset",
+      "attempt": 2,
+      "message": "Reconnecting... 2/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 5,
+      "kind": "recoverable-connection-reset",
+      "attempt": 3,
+      "message": "Reconnecting... 3/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 6,
+      "kind": "recoverable-connection-reset",
+      "attempt": 4,
+      "message": "Reconnecting... 4/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 7,
+      "kind": "recoverable-connection-reset",
+      "attempt": 5,
+      "message": "Reconnecting... 5/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 8,
+      "kind": "https-fallback",
+      "message": "Falling back from WebSockets to HTTPS transport. stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054)"
+    }
+  ],
+  "stderrDiagnostics": {
+    "retryLogs": 5,
+    "fallbackLogs": 1,
+    "bannerModel": null
+  },
+  "cliInvocations": 1,
+  "automaticAdapterRetries": 0,
+  "backendRequestCount": null,
+  "toolsObserved": 0,
+  "effectiveFeatures": {
+    "agent_message_board": false,
+    "analytics_plan_history": false,
+    "api_key_cyber_access_programs": true,
+    "api_key_model_discovery": true,
+    "app_server_websocket_compression": false,
+    "apply_patch_freeform": false,
+    "apply_patch_preserve_line_endings": false,
+    "apply_patch_streaming_events": false,
+    "apps": false,
+    "apps_mcp_path_override": false,
+    "artifact": false,
+    "async_compaction": false,
+    "auth_elicitation": true,
+    "background_paginated_rollout_migration": false,
+    "bedrock_setup_wizard": true,
+    "browser_annotation_api": false,
+    "browser_use": false,
+    "browser_use_external": false,
+    "browser_use_full_cdp_access": false,
+    "chronicle": false,
+    "cli_daybreak": true,
+    "code_mode": false,
+    "code_mode_buffered_exec": false,
+    "code_mode_host": false,
+    "code_mode_host_grpc": false,
+    "code_mode_interrupt": true,
+    "code_mode_only": false,
+    "code_mode_only_strict_3p_tools": false,
+    "code_mode_prewarm": false,
+    "code_mode_tool_description_first": false,
+    "code_mode_tool_search": false,
+    "codex_apps_mcp_2026_07_28": false,
+    "codex_git_commit": false,
+    "collaboration_modes": true,
+    "compaction_image_budget": true,
+    "computer_use": false,
+    "concurrent_reasoning_summaries": false,
+    "content_item_kinds": true,
+    "context_management": false,
+    "credential_masking": false,
+    "current_time_reminder": false,
+    "cwd_relative_turn_diffs": false,
+    "daemon_auto_start": true,
+    "default_mode_request_user_input": false,
+    "defer_mailbox_preemption": false,
+    "deferred_executor": false,
+    "deferred_tool_world_state": false,
+    "elevated_windows_sandbox": false,
+    "enable_fanout": false,
+    "enable_mcp_apps": false,
+    "enable_request_compression": true,
+    "exec_permission_approvals": false,
+    "executed_tool_call_metadata": false,
+    "executor_capability_discovery": false,
+    "executor_capability_discovery_v2": false,
+    "experimental_windows_sandbox": false,
+    "external_agent_memory_import": false,
+    "external_migration": false,
+    "fast_mode": true,
+    "goals": false,
+    "guardian_approval": true,
+    "guardian_conversation_history_tools": false,
+    "guardian_enhanced_node_repl_transcripts": false,
+    "guardian_ext": false,
+    "guardian_node_repl_transcript_images": false,
+    "guardian_recorded_items": false,
+    "guardian_reuse_parent_compaction": true,
+    "guardian_root_handoff_context": false,
+    "guardian_trust_orchestrator_connectors": false,
+    "guardianv2": false,
+    "guardianv2.thread_context": false,
+    "guardianv2_decisions_comparison": false,
+    "guardianv3": false,
+    "hooks": false,
+    "image_detail_original": false,
+    "image_generation": false,
+    "image_resize_notice": false,
+    "in_app_browser": false,
+    "in_app_chat": true,
+    "in_app_dictation": true,
+    "in_app_local_automation": false,
+    "in_app_updates": true,
+    "in_app_voice": true,
+    "incremental_tools": true,
+    "instant_interrupt": true,
+    "item_ids": true,
+    "js_repl": false,
+    "js_repl_tools_only": false,
+    "local_thread_store_compression": false,
+    "local_thread_store_shared_compression": false,
+    "login_shell_package_path": false,
+    "mcp_2026_07_28": false,
+    "mcp_oauth_refresh_coordination": true,
+    "mcp_tool_list_changed": false,
+    "memories": false,
+    "mentions_v2": true,
+    "model_catalog_in_context": false,
+    "multi_agent": false,
+    "multi_agent_mode": false,
+    "multi_agent_v2": false,
+    "multi_agent_v2_dynamic_tools": false,
+    "multi_env_copy_file": false,
+    "network_proxy": false,
+    "non_prefixed_mcp_tool_names": false,
+    "nonfatal_clock_read_errors": false,
+    "omit_app_server_notification_media": false,
+    "output_token_replay": false,
+    "personality": false,
+    "plugin_hooks": false,
+    "plugin_sharing": true,
+    "plugins": false,
+    "powershell_shell_version": false,
+    "prediction_preserve_parent_tools": true,
+    "prefer_mxc": false,
+    "prevent_idle_sleep": false,
+    "psp": false,
+    "realtime_conversation": true,
+    "reasoning_effort_override": true,
+    "recommended_plugins": false,
+    "remote_compaction_v2": false,
+    "remote_control": false,
+    "remote_models": false,
+    "remote_plugin": false,
+    "request_permissions_tool": false,
+    "request_rule": false,
+    "resize_all_images": true,
+    "respect_system_proxy": false,
+    "responses_websockets": false,
+    "responses_websockets_v2": false,
+    "retain_client_developer_messages": false,
+    "retain_client_tool_outputs": false,
+    "rollout_budget": false,
+    "runtime_agent_instances": false,
+    "runtime_metrics": false,
+    "search_tool": false,
+    "secret_auth_storage": true,
+    "send_async_message": false,
+    "send_message_to_user_async": false,
+    "shell_snapshot": false,
+    "shell_snapshot_v2": false,
+    "shell_tool": false,
+    "shell_zsh_fork": false,
+    "skill_env_var_dependency_prompt": false,
+    "skill_mcp_dependency_install": false,
+    "skill_search": false,
+    "skip_host_skill_discovery": true,
+    "sleep_tool": false,
+    "sqlite": true,
+    "stable_environment_tools": false,
+    "standalone_web_search": false,
+    "steer": true,
+    "step_model_switching": false,
+    "subagent_default_context_limits": false,
+    "subagent_thread_environments": false,
+    "system_proxy_fallback": true,
+    "terminal_resize_reflow": true,
+    "terminal_visualization_instructions": false,
+    "token_budget": false,
+    "tool_call_mcp_elicitation": true,
+    "tool_search": false,
+    "tool_search_always_defer_mcp_tools": true,
+    "tool_suggest": false,
+    "transcript_v2": false,
+    "tui_app_server": true,
+    "tui_multi_backend": false,
+    "ultrafast_mode": true,
+    "unavailable_dummy_tools": false,
+    "unbounded_connection_retries": false,
+    "undo": false,
+    "unified_exec": true,
+    "unified_exec_tty": false,
+    "unified_exec_zsh_fork": false,
+    "unified_image_budget": false,
+    "use_agent_identity": false,
+    "use_legacy_landlock": false,
+    "use_linux_sandbox_bwrap": false,
+    "use_xaa": false,
+    "view_image": false,
+    "wake_on_agent_messages": false,
+    "web_search_cached": false,
+    "web_search_request": false,
+    "windows_sandbox_service": false,
+    "workspace_dependencies": false,
+    "workspace_owner_usage_nudge": false,
+    "worktrees": true,
+    "write_stdin_approval": true
+  },
+  "externalFilesystemSandboxCertified": false,
+  "historicalPacketFilesystemReverified": false,
+  "validationReadsExternalPacket": false,
+  "visualAdmissionGranted": false,
+  "createdAt": "2026-10-31T08:29:44.082Z"
+}

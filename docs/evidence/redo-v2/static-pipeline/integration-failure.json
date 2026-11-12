@@ -1,0 +1,5 @@
+{
+  "stage": "prototype",
+  "code": "stage-failed",
+  "output": "file:///C:/Users/11509/AppData/Local/Temp/webart-pipeline-integration-brpB74/scripts/capture-production.mjs:5\r\nconst output=path.resolve(cfg.output);if(!output.startsWith(path.resolve('docs/evidence')+path.sep))throw new Error('Capture output must remain in docs/evidence');fs.mkdirSync(output,{recursive:true});\r\n                                                                                                          ^\r\n\r\nError: Capture output must remain in docs/evidence\r\n    at file:///C:/Users/11509/AppData/Local/Temp/webart-pipeline-integration-brpB74/scripts/capture-production.mjs:5:107\r\n    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)\r\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:647:26)\r\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)\r\n\r\nNode.js v22.18.0\r\n"
+}

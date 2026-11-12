@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "states": {
+    "opening": {
+      "subject": "软木盘与木桌、斜置的切割垫和真实工具构成具体日常器物场景，不能用一个平面圆形代替主要对象。",
+      "material": "软木保留粗细颗粒、倒角、侧壁和接触阴影，木纹、切割垫与金属工具具有清楚区别，不能使用统一塑料材质。",
+      "composition": "浅奶油粗字标位于桌面上方的安静区域，盘与斜垫形成完整尺度关系，手机继续保留主要器物和必要说明。",
+      "role": "默认开场同时给出品牌与可辨认器物，空间和材料直接可见，不能把主要对象藏在按钮、视频播放或加载页后。",
+      "visibleCharacters": {
+        "desktop": 180,
+        "mobile": 140
+      },
+      "subjectSelectors": [
+        {
+          "selector": "canvas[data-campo-scene]",
+          "minimumViewportArea": 0.35,
+          "maxInstances": 1
+        }
+      ]
+    },
+    "transition": {
+      "subject": "开场同一软木盘脱离桌面并转向近景，边缘和背面具有明确厚度，不能切换成另一个无身份的平面盘。",
+      "material": "近景须保留不同尺度的软木颗粒、圆润倒角和深浅光照层次，纹理不能拉伸成普通噪点或丢失侧壁材质。",
+      "composition": "盘的近景与短说明形成新的观看比例，桌面背景交出主次；手机可有意放大裁切，不能遮住说明和固定行动。",
+      "role": "原生滚动推进盘的浮起、旋转和光照交接，正向与反向保持连续，不能以整幅淡入或普通图片缩放取代。",
+      "visibleCharacters": {
+        "desktop": 180,
+        "mobile": 140
+      },
+      "subjectSelectors": [
+        {
+          "selector": "canvas[data-campo-scene]",
+          "minimumViewportArea": 0.35,
+          "maxInstances": 1
+        }
+      ]
+    },
+    "middle": {
+      "subject": "真实关节与指甲细节的手持住同一软木盘，手和盘的接触可辨，不能以胶囊组、轮廓手或不相连物件近似。",
+      "material": "手的皮肤或细腻表面与粗颗粒软木保持区别，光线沿手指和盘边形成层次，不能使用没有细节的统一灰材质。",
+      "composition": "持物关系是中段主视觉，短标题与输入提示留在主体外，手机保留盘、接触指节和行动，不靠整屏文字解释。",
+      "role": "指针引起局部指节和持物姿态变化，离开与返回保持完整状态；触摸和键盘有同一观看结果，不只改变游标。",
+      "visibleCharacters": {
+        "desktop": 180,
+        "mobile": 140
+      },
+      "subjectSelectors": [
+        {
+          "selector": "canvas[data-campo-scene]",
+          "minimumViewportArea": 0.35,
+          "maxInstances": 1
+        }
+      ]
+    },
+    "ending": {
+      "subject": "独立咖啡豆流场完成结尾，保留有裂缝和不规则形态的具体烘焙豆，不能用普通棕色椭球群代替完整主体。",
+      "material": "烘焙表面的裂缝、细小凹凸、反射和前后景层次须可辨，近处物件有受控高光，暗部不应全部糊成黑色。",
+      "composition": "流场与简短行动形成独立完整结果，手机给主体保留足够份量；移除真实工作室的地址订阅后仍有明确视觉收束。",
+      "role": "流场的连续进入与停止服务于日常仪式的结尾，原生联系与返回行动完整可用，不能以普通通用页脚替换。",
+      "visibleCharacters": {
+        "desktop": 180,
+        "mobile": 140
+      },
+      "subjectSelectors": [
+        {
+          "selector": "canvas[data-campo-scene]",
+          "minimumViewportArea": 0.35,
+          "maxInstances": 1
+        }
+      ]
+    }
+  },
+  "continuity": [
+    {
+      "id": "same-cork-object",
+      "signature": "cork-tabletop-to-material",
+      "states": [
+        "opening",
+        "transition",
+        "middle"
+      ],
+      "identity": "桌面浅盘、浮起的近景与手持浅盘始终为同一个厚度、边沿与颗粒身份的对象；结尾另以咖啡材料完成结果，不假装是同一盘。"
+    }
+  ]
+}

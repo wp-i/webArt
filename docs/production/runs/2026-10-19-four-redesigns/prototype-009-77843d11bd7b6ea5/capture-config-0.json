@@ -1,0 +1,110 @@
+{
+  "ready": "document.documentElement.dataset.ready==='true' && document.fonts.status==='loaded'",
+  "requireVisibleImages": true,
+  "enterMs": 350,
+  "states": {
+    "opening": 0,
+    "transition": {
+      "selector": "#scene-transition"
+    },
+    "middle": {
+      "selector": "#scene-middle"
+    },
+    "ending": 1
+  },
+  "pointer": {
+    "selector": "#distance",
+    "scene": "#scene-middle",
+    "retainPosition": true,
+    "drag": true,
+    "settleMs": 250,
+    "clickSelectors": [
+      "#reset-view"
+    ]
+  },
+  "initialPointer": {
+    "x": 0.98,
+    "y": 0.02
+  },
+  "settleMs": 350,
+  "deadlineMs": 120000,
+  "trustedTouch": true,
+  "url": "http://127.0.0.1:5074/",
+  "manifest": ".webart/prototypes/009-editorial-portraits-20261021/manifest.json",
+  "slug": "near-and-far",
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "错位的大小肖像与居中的大衬线分类字形成摄影作品的主要观看对象，照片人物、造型和具体光线需要有辨识度。",
+        "material": "摄影的肤质、发型、服装与明暗必须有真实细节；不同作品的色彩和纹理各有内容，不能以普通头像或统一滤镜充数。",
+        "composition": "纸色空间中三处不同幅面的摄影与分类字有控制的遮叠和间距，手机重排为交错摄影并直接显示作品名，不退回普通等宽卡片。",
+        "role": "默认已呈现摄影作品及身份，主要图片无需进入菜单或先点击才看见，后续连续观看由这些真实作品展开。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": ".photo-world.visual",
+            "minimumViewportArea": 0.9,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "原有摄影对象在连续输入中穿越视口，观看位置、幅面及图字关系发生有作用的交接，新的作品观看内容保持清楚。",
+        "material": "照片放大或进入新位置时仍有充分的肤质、造型和服装细节；不得用模糊占位或强遮罩掩盖实际图片工艺。",
+        "composition": "摄影和大字保持前后层次，照片的错位与尺度变化推进观看，主体不能缩成边缘小卡或长时间只留下孤立字形。",
+        "role": "输入实际改变摄影观看，正向、反向和停止均有清楚的当前对象；手机的实际触摸保留同一内容用途，不能只用桌面轮滚推定。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": ".photo-world.visual",
+            "minimumViewportArea": 0.9,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "摄影项目进入细看空间，同一作品对象与索引及观看工具共同组成主要构图，必须实际保留照片细节与完整回到作品的路径。",
+        "material": "最终摄影在细看尺度中仍清晰、自然，皮肤、织物与光线层次可辨；放大后的低清或失真的人脸不能以功能通过抵消。",
+        "composition": "从项目摄影进入居中观看及侧边索引的布局交接连续，工具与图片有明确比例，手机照片和退出行动均完整可达。",
+        "role": "指针或触摸操作改变实际摄影取景并可返回，观看器的构图交接与主题耦合；普通放大按钮或倍率数字自身不是签名品质。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": ".photo-world.visual",
+            "minimumViewportArea": 0.9,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "独立的人物肖像承担摄影者介绍与收束，同一人物的不同姿态、彩色光线及相机身份形成完整摄影结果，不用纯色联系块替代。",
+        "material": "橙、蓝、绿的独立光线与深色人物轮廓相互区分，肤质、手部与相机结构真实；不能把同一照片换色当作新的摄影。",
+        "composition": "彩色摄影保持足够面积和可辨轮廓，短文字与联系位于合适空间，手机仍有完整人物观看与清楚行动，不再次堆叠巨型标题。",
+        "role": "由观看作品转为观看摄影者及其光线语言，介绍与联系直接可到达，末段具有独立摄影身份与完整结束，不无限循环补长。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-ending .visual",
+            "minimumViewportArea": 0.3,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": []
+  },
+  "output": "docs/evidence/production/prototype-009-77843d11bd7b6ea5/attempt-0"
+}

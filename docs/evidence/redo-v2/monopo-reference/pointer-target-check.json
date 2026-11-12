@@ -1,0 +1,32 @@
+{
+  "source": [
+    {
+      "selector": "h1",
+      "width": 0,
+      "height": 0,
+      "display": "none",
+      "visibility": "visible",
+      "opacity": "1",
+      "painted": false
+    },
+    {
+      "selector": "canvas",
+      "width": 1440,
+      "height": 900,
+      "display": "block",
+      "visibility": "visible",
+      "opacity": "1",
+      "painted": true
+    }
+  ],
+  "candidate": {
+    "selector": ".raviolo",
+    "width": 652.5,
+    "height": 285.078125,
+    "display": "block",
+    "visibility": "visible",
+    "opacity": "1",
+    "painted": true
+  },
+  "note": "The invisible reference h1 cannot anchor a trusted gesture. The actual 007 model host is painted. Geometry checks do not judge the effect."
+}

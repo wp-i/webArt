@@ -1,0 +1,40 @@
+TAP version 13
+# Subtest: unprepared references stay visible and perform no generation, QA or publication
+ok 1 - unprepared references stay visible and perform no generation, QA or publication
+  ---
+  duration_ms: 11.6106
+  type: 'test'
+  ...
+# Subtest: workflow cannot target the benchmark, duplicate an item or enable autonomous discovery
+ok 2 - workflow cannot target the benchmark, duplicate an item or enable autonomous discovery
+  ---
+  duration_ms: 9.6681
+  type: 'test'
+  ...
+# Subtest: both status forms are read-only and never dispatch generation or publication
+ok 3 - both status forms are read-only and never dispatch generation or publication
+  ---
+  duration_ms: 8.4864
+  type: 'test'
+  ...
+# Subtest: unknown and conflicting CLI arguments fail before reading configuration or executing work
+ok 4 - unknown and conflicting CLI arguments fail before reading configuration or executing work
+  ---
+  duration_ms: 1.4156
+  type: 'test'
+  ...
+# Subtest: default execution, --all and one supported ID retain their exact existing selection
+ok 5 - default execution, --all and one supported ID retain their exact existing selection
+  ---
+  duration_ms: 0.8304
+  type: 'test'
+  ...
+1..5
+# tests 5
+# suites 0
+# pass 5
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 215.6352

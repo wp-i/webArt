@@ -1,0 +1,30 @@
+{
+  "status": "example-not-approved",
+  "note": "字段示例；不在生产注册表中，路径和指纹均须由真实素材审查替换。本例不构成任何素材或页面准入。",
+  "module": {
+    "source": "assets/approved-instrument/instrument.js",
+    "sha256": "REPLACE_WITH_ACTUAL_SOURCE_SHA256",
+    "target": "src/locked/instrument.js",
+    "interface": "mountInstrument(element, options)初始化已批准的局部渲染及故障备用，返回setProgress、setPointer、release和dispose；精确参数必须与该版本实际源码一致。页面只编排输入与状态，不修改内部造型或材质。",
+    "signatures": ["REPLACE_WITH_LOCKED_SIGNATURE_NAME"],
+    "creator": "REPLACE_WITH_ACTUAL_CREATOR",
+    "sourceDescription": "独立原创或实际授权来源；不得填写母版网站来源来代替模型/代码的分发权。",
+    "license": "REPLACE_WITH_VERIFIED_LICENSE",
+    "distributionBasis": "在本项目完整可编辑网站源码中分发本模块的具体依据，须核对第三方模型、纹理、字体和依赖的实际许可。",
+    "verified": "REPLACE_WITH_ACTUAL_VERIFICATION_DATE",
+    "approval": {
+      "path": "docs/assets/approved-instrument-review.json",
+      "sha256": "REPLACE_WITH_ACTUAL_REVIEW_SHA256"
+    }
+  },
+  "approvalRecordShape": {
+    "schemaVersion": 1,
+    "decision": "evidence-needed",
+    "finding": "完成实际桌面和手机素材观察后，记录部件身份、材质及对照差距；未完成或低于目标不能填写admit。",
+    "files": [{"path": "assets/approved-instrument/instrument.js", "sha256": "REPLACE_WITH_ACTUAL_SOURCE_SHA256"}],
+    "evidence": [
+      {"viewport": "desktop", "path": "docs/evidence/actual-asset/desktop.jpg", "sha256": "REPLACE_WITH_ACTUAL_IMAGE_SHA256"},
+      {"viewport": "mobile", "path": "docs/evidence/actual-asset/mobile.jpg", "sha256": "REPLACE_WITH_ACTUAL_IMAGE_SHA256"}
+    ]
+  }
+}

@@ -1,0 +1,2113 @@
+TAP version 13
+# Subtest: a ten-frame blank animation stops before page QA without loosening page performance limits
+ok 1 - a ten-frame blank animation stops before page QA without loosening page performance limits
+  ---
+  duration_ms: 1.8768
+  type: 'test'
+  ...
+# Subtest: a model canvas in a nested open root is never reported as absent
+ok 2 - a model canvas in a nested open root is never reported as absent
+  ---
+  duration_ms: 3.6736
+  type: 'test'
+  ...
+# Subtest: unreadable visible embedded surfaces require review; same-origin media are counted
+ok 3 - unreadable visible embedded surfaces require review; same-origin media are counted
+  ---
+  duration_ms: 3.7159
+  type: 'test'
+  ...
+# Subtest: a closed model component requires review even without a readable canvas
+ok 4 - a closed model component requires review even without a readable canvas
+  ---
+  duration_ms: 1.3947
+  type: 'test'
+  ...
+# Subtest: exact duplicate and a resumed client replay original result with one retained invocation
+ok 5 - exact duplicate and a resumed client replay original result with one retained invocation
+  ---
+  duration_ms: 974.905
+  type: 'test'
+  ...
+# Subtest: raw receipt is restored after consumption, and duplicate consumption retains one canonical receipt
+ok 6 - raw receipt is restored after consumption, and duplicate consumption retains one canonical receipt
+  ---
+  duration_ms: 1434.6196
+  type: 'test'
+  ...
+# Subtest: pending matching attempt stops before any subprocess, including after resume
+ok 7 - pending matching attempt stops before any subprocess, including after resume
+  ---
+  duration_ms: 72.812
+  type: 'test'
+  ...
+# Subtest: failed unknown-error matching attempt is never retried
+ok 8 - failed unknown-error matching attempt is never retried
+  ---
+  duration_ms: 1103.9804
+  type: 'test'
+  ...
+# Subtest: failed tool matching attempt is never retried
+ok 9 - failed tool matching attempt is never retried
+  ---
+  duration_ms: 1067.3436
+  type: 'test'
+  ...
+# Subtest: cancelled matching attempt and unfinished directories cannot create another invocation
+ok 10 - cancelled matching attempt and unfinished directories cannot create another invocation
+  ---
+  duration_ms: 97.8614
+  type: 'test'
+  ...
+# Subtest: changed prompt makes one genuinely new bounded invocation and old attempts consume the resumed budget
+ok 11 - changed prompt makes one genuinely new bounded invocation and old attempts consume the resumed budget
+  ---
+  duration_ms: 2100.7082
+  type: 'test'
+  ...
+# Subtest: only the configured directory is searched for reuse
+ok 12 - only the configured directory is searched for reuse
+  ---
+  duration_ms: 1421.0617
+  type: 'test'
+  ...
+# Subtest: two matching retained attempts are ambiguous and cannot replay or launch
+ok 13 - two matching retained attempts are ambiguous and cannot replay or launch
+  ---
+  duration_ms: 1114.3013
+  type: 'test'
+  ...
+# Subtest: reuse respects the call deadline before returning an old result
+ok 14 - reuse respects the call deadline before returning an old result
+  ---
+  duration_ms: 515.2544
+  type: 'test'
+  ...
+# Subtest: exact identity binds instructions
+ok 15 - exact identity binds instructions
+  ---
+  duration_ms: 503.2188
+  type: 'test'
+  ...
+# Subtest: exact identity binds text
+ok 16 - exact identity binds text
+  ---
+  duration_ms: 475.2436
+  type: 'test'
+  ...
+# Subtest: exact identity binds requestedModel
+ok 17 - exact identity binds requestedModel
+  ---
+  duration_ms: 486.7654
+  type: 'test'
+  ...
+# Subtest: exact identity binds ordered labels
+ok 18 - exact identity binds ordered labels
+  ---
+  duration_ms: 775.021
+  type: 'test'
+  ...
+# Subtest: exact identity binds ordered images
+ok 19 - exact identity binds ordered images
+  ---
+  duration_ms: 476.5713
+  type: 'test'
+  ...
+# Subtest: exact identity binds image bytes
+ok 20 - exact identity binds image bytes
+  ---
+  duration_ms: 431.4332
+  type: 'test'
+  ...
+# Subtest: matching attempt with changed executable policy is not reused or relaunched
+ok 21 - matching attempt with changed executable policy is not reused or relaunched
+  ---
+  duration_ms: 444.3329
+  type: 'test'
+  ...
+# Subtest: matching attempt with changed deadlineMs policy is not reused or relaunched
+ok 22 - matching attempt with changed deadlineMs policy is not reused or relaunched
+  ---
+  duration_ms: 423.6999
+  type: 'test'
+  ...
+# Subtest: matching attempt with changed maxOutputBytes policy is not reused or relaunched
+ok 23 - matching attempt with changed maxOutputBytes policy is not reused or relaunched
+  ---
+  duration_ms: 412.7548
+  type: 'test'
+  ...
+# Subtest: missing request.json fails closed with zero new calls
+ok 24 - missing request.json fails closed with zero new calls
+  ---
+  duration_ms: 459.0851
+  type: 'test'
+  ...
+# Subtest: missing receipt.json fails closed with zero new calls
+ok 25 - missing receipt.json fails closed with zero new calls
+  ---
+  duration_ms: 414.2171
+  type: 'test'
+  ...
+# Subtest: missing response.json fails closed with zero new calls
+ok 26 - missing response.json fails closed with zero new calls
+  ---
+  duration_ms: 361.1453
+  type: 'test'
+  ...
+# Subtest: missing events.jsonl fails closed with zero new calls
+ok 27 - missing events.jsonl fails closed with zero new calls
+  ---
+  duration_ms: 401.1355
+  type: 'test'
+  ...
+# Subtest: missing stderr.txt fails closed with zero new calls
+ok 28 - missing stderr.txt fails closed with zero new calls
+  ---
+  duration_ms: 441.8571
+  type: 'test'
+  ...
+# Subtest: missing process.json fails closed with zero new calls
+ok 29 - missing process.json fails closed with zero new calls
+  ---
+  duration_ms: 420.12
+  type: 'test'
+  ...
+# Subtest: missing feature-probe.json fails closed with zero new calls
+ok 30 - missing feature-probe.json fails closed with zero new calls
+  ---
+  duration_ms: 397.0565
+  type: 'test'
+  ...
+# Subtest: missing feature-probe.stdout.txt fails closed with zero new calls
+ok 31 - missing feature-probe.stdout.txt fails closed with zero new calls
+  ---
+  duration_ms: 417.3
+  type: 'test'
+  ...
+# Subtest: missing feature-probe.stderr.txt fails closed with zero new calls
+ok 32 - missing feature-probe.stderr.txt fails closed with zero new calls
+  ---
+  duration_ms: 373.0981
+  type: 'test'
+  ...
+# Subtest: missing version.stdout.txt fails closed with zero new calls
+ok 33 - missing version.stdout.txt fails closed with zero new calls
+  ---
+  duration_ms: 407.4779
+  type: 'test'
+  ...
+# Subtest: missing version.stderr.txt fails closed with zero new calls
+ok 34 - missing version.stderr.txt fails closed with zero new calls
+  ---
+  duration_ms: 327.6075
+  type: 'test'
+  ...
+# Subtest: missing prompt.txt fails closed with zero new calls
+ok 35 - missing prompt.txt fails closed with zero new calls
+  ---
+  duration_ms: 389.1725
+  type: 'test'
+  ...
+# Subtest: missing private-source-map.json fails closed with zero new calls
+ok 36 - missing private-source-map.json fails closed with zero new calls
+  ---
+  duration_ms: 714.8697
+  type: 'test'
+  ...
+# Subtest: missing inputs/000.png fails closed with zero new calls
+ok 37 - missing inputs/000.png fails closed with zero new calls
+  ---
+  duration_ms: 380.2571
+  type: 'test'
+  ...
+# Subtest: malformed request.json fails closed with zero new calls
+ok 38 - malformed request.json fails closed with zero new calls
+  ---
+  duration_ms: 405.2247
+  type: 'test'
+  ...
+# Subtest: malformed receipt.json fails closed with zero new calls
+ok 39 - malformed receipt.json fails closed with zero new calls
+  ---
+  duration_ms: 404.7307
+  type: 'test'
+  ...
+# Subtest: malformed response.json fails closed with zero new calls
+ok 40 - malformed response.json fails closed with zero new calls
+  ---
+  duration_ms: 572.8752
+  type: 'test'
+  ...
+# Subtest: malformed private-source-map.json fails closed with zero new calls
+ok 41 - malformed private-source-map.json fails closed with zero new calls
+  ---
+  duration_ms: 589.9042
+  type: 'test'
+  ...
+# Subtest: changed request without rehash cannot become a replayed result
+ok 42 - changed request without rehash cannot become a replayed result
+  ---
+  duration_ms: 422.3199
+  type: 'test'
+  ...
+# Subtest: unknown execution after request rehash cannot become a replayed result
+ok 43 - unknown execution after request rehash cannot become a replayed result
+  ---
+  duration_ms: 440.921
+  type: 'test'
+  ...
+# Subtest: unknown provenance after request rehash cannot become a replayed result
+ok 44 - unknown provenance after request rehash cannot become a replayed result
+  ---
+  duration_ms: 575.326
+  type: 'test'
+  ...
+# Subtest: independent provenance after request rehash cannot become a replayed result
+ok 45 - independent provenance after request rehash cannot become a replayed result
+  ---
+  duration_ms: 397.0988
+  type: 'test'
+  ...
+# Subtest: weakened command restrictions after request rehash cannot become a replayed result
+ok 46 - weakened command restrictions after request rehash cannot become a replayed result
+  ---
+  duration_ms: 367.8173
+  type: 'test'
+  ...
+# Subtest: stale diagnostic policy cannot become a replayed result
+ok 47 - stale diagnostic policy cannot become a replayed result
+  ---
+  duration_ms: 394.1476
+  type: 'test'
+  ...
+# Subtest: promoted raw result with response rehash cannot become a replayed result
+ok 48 - promoted raw result with response rehash cannot become a replayed result
+  ---
+  duration_ms: 410.3818
+  type: 'test'
+  ...
+# Subtest: unknown runtime error with event rehash cannot become a replayed result
+ok 49 - unknown runtime error with event rehash cannot become a replayed result
+  ---
+  duration_ms: 384.9316
+  type: 'test'
+  ...
+# Subtest: observed tool with event rehash cannot become a replayed result
+ok 50 - observed tool with event rehash cannot become a replayed result
+  ---
+  duration_ms: 361.6818
+  type: 'test'
+  ...
+# Subtest: effective feature claim with probe rehash cannot become a replayed result
+ok 51 - effective feature claim with probe rehash cannot become a replayed result
+  ---
+  duration_ms: 300.2739
+  type: 'test'
+  ...
+# Subtest: feature stdout unknown diagnostic cannot become a replayed result
+ok 52 - feature stdout unknown diagnostic cannot become a replayed result
+  ---
+  duration_ms: 278.5478
+  type: 'test'
+  ...
+# Subtest: forged actual model cannot become a replayed result
+ok 53 - forged actual model cannot become a replayed result
+  ---
+  duration_ms: 304.9709
+  type: 'test'
+  ...
+# Subtest: forged original usage cannot become a replayed result
+ok 54 - forged original usage cannot become a replayed result
+  ---
+  duration_ms: 412.789
+  type: 'test'
+  ...
+# Subtest: forged invocation count cannot become a replayed result
+ok 55 - forged invocation count cannot become a replayed result
+  ---
+  duration_ms: 417.635
+  type: 'test'
+  ...
+# Subtest: forged visual admission cannot become a replayed result
+ok 56 - forged visual admission cannot become a replayed result
+  ---
+  duration_ms: 339.6412
+  type: 'test'
+  ...
+# Subtest: copied receipt path cannot become a replayed result
+ok 57 - copied receipt path cannot become a replayed result
+  ---
+  duration_ms: 293.5359
+  type: 'test'
+  ...
+# Subtest: impossible completion time cannot become a replayed result
+ok 58 - impossible completion time cannot become a replayed result
+  ---
+  duration_ms: 321.0077
+  type: 'test'
+  ...
+# Subtest: original source and retained image SHA mismatches block reuse
+ok 59 - original source and retained image SHA mismatches block reuse
+  ---
+  duration_ms: 636.5753
+  type: 'test'
+  ...
+# Subtest: identical pixels at another original source path cannot drift into the old receipt
+ok 60 - identical pixels at another original source path cannot drift into the old receipt
+  ---
+  duration_ms: 314.3329
+  type: 'test'
+  ...
+# Subtest: new call after an observed model starts with clean provenance
+ok 61 - new call after an observed model starts with clean provenance
+  ---
+  duration_ms: 621.5801
+  type: 'test'
+  ...
+# Subtest: cancelled reuse and malformed or weakened inputs launch no subprocess
+ok 62 - cancelled reuse and malformed or weakened inputs launch no subprocess
+  ---
+  duration_ms: 358.1098
+  type: 'test'
+  ...
+# Subtest: unknown entries, missing ordinals and renamed attempts cannot free invocation budget
+ok 63 - unknown entries, missing ordinals and renamed attempts cannot free invocation budget
+  ---
+  duration_ms: 882.2669
+  type: 'test'
+  ...
+# Subtest: cache directory configuration is exact, project relative and private
+ok 64 - cache directory configuration is exact, project relative and private
+  ---
+  duration_ms: 8.3141
+  type: 'test'
+  ...
+# Subtest: calibration exact projection and receipt replay never grants visual admission
+ok 65 - calibration exact projection and receipt replay never grants visual admission
+  ---
+  duration_ms: 712.785
+  type: 'test'
+  ...
+# Subtest: reference-review exact projection and receipt replay never grants visual admission
+ok 66 - reference-review exact projection and receipt replay never grants visual admission
+  ---
+  duration_ms: 216.7108
+  type: 'test'
+  ...
+# Subtest: prototype-review exact projection and receipt replay never grants visual admission
+ok 67 - prototype-review exact projection and receipt replay never grants visual admission
+  ---
+  duration_ms: 331.8327
+  type: 'test'
+  ...
+# Subtest: controls-review exact projection and receipt replay never grants visual admission
+ok 68 - controls-review exact projection and receipt replay never grants visual admission
+  ---
+  duration_ms: 322.8096
+  type: 'test'
+  ...
+# Subtest: style-review exact projection and receipt replay never grants visual admission
+ok 69 - style-review exact projection and receipt replay never grants visual admission
+  ---
+  duration_ms: 270.9908
+  type: 'test'
+  ...
+# Subtest: report promotion and all calibration findings are rejected at creation and validation
+ok 70 - report promotion and all calibration findings are rejected at creation and validation
+  ---
+  duration_ms: 811.0781
+  type: 'test'
+  ...
+# Subtest: forged receipt role, fingerprint and provenance fail closed
+ok 71 - forged receipt role, fingerprint and provenance fail closed
+  ---
+  duration_ms: 419.1704
+  type: 'test'
+  ...
+# Subtest: tool use cannot become a consumed receipt
+ok 72 - tool use cannot become a consumed receipt
+  ---
+  duration_ms: 117.0565
+  type: 'test'
+  ...
+# Subtest: unknown runtime error cannot become a consumed receipt
+ok 73 - unknown runtime error cannot become a consumed receipt
+  ---
+  duration_ms: 126.6085
+  type: 'test'
+  ...
+# Subtest: resumed second thread cannot become a consumed receipt
+ok 74 - resumed second thread cannot become a consumed receipt
+  ---
+  duration_ms: 149.7754
+  type: 'test'
+  ...
+# Subtest: completion failure payload cannot become a consumed receipt
+ok 75 - completion failure payload cannot become a consumed receipt
+  ---
+  duration_ms: 143.9684
+  type: 'test'
+  ...
+# Subtest: nonzero exit is rejected
+ok 76 - nonzero exit is rejected
+  ---
+  duration_ms: 130.4837
+  type: 'test'
+  ...
+# Subtest: signal is rejected
+ok 77 - signal is rejected
+  ---
+  duration_ms: 124.7498
+  type: 'test'
+  ...
+# Subtest: failure is rejected
+ok 78 - failure is rejected
+  ---
+  duration_ms: 145.3508
+  type: 'test'
+  ...
+# Subtest: elapsed bound is rejected
+ok 79 - elapsed bound is rejected
+  ---
+  duration_ms: 105.7056
+  type: 'test'
+  ...
+# Subtest: effective feature claims must match retained probe stdout
+ok 80 - effective feature claims must match retained probe stdout
+  ---
+  duration_ms: 108.4404
+  type: 'test'
+  ...
+# Subtest: unknown and duplicate feature probe lines are rejected
+ok 81 - unknown and duplicate feature probe lines are rejected
+  ---
+  duration_ms: 197.6681
+  type: 'test'
+  ...
+# Subtest: absolute, external and traversal input paths are rejected
+ok 82 - absolute, external and traversal input paths are rejected
+  ---
+  duration_ms: 151.2116
+  type: 'test'
+  ...
+# Subtest: raw input and original-source tampering are detected
+ok 83 - raw input and original-source tampering are detected
+  ---
+  duration_ms: 210.3381
+  type: 'test'
+  ...
+# Subtest: private calibration order cannot swap identities or contextual states
+ok 84 - private calibration order cannot swap identities or contextual states
+  ---
+  duration_ms: 186.6782
+  type: 'test'
+  ...
+# Subtest: reference/prototype exact dimensions, states, signatures, motion and fix tasks resist promotion
+ok 85 - reference/prototype exact dimensions, states, signatures, motion and fix tasks resist promotion
+  ---
+  duration_ms: 881.2979
+  type: 'test'
+  ...
+# Subtest: deterministic strengthening matches existing shared-array behavior exactly
+ok 86 - deterministic strengthening matches existing shared-array behavior exactly
+  ---
+  duration_ms: 462.5334
+  type: 'test'
+  ...
+# Subtest: wrong-role and wrong-state frame references are rejected before receipt creation
+ok 87 - wrong-role and wrong-state frame references are rejected before receipt creation
+  ---
+  duration_ms: 232.7718
+  type: 'test'
+  ...
+# Subtest: same-pixel aliases preserve every contextual original and cannot silently share a path
+ok 88 - same-pixel aliases preserve every contextual original and cannot silently share a path
+  ---
+  duration_ms: 310.2796
+  type: 'test'
+  ...
+# Subtest: all twenty controls checks and style comparisons are bound
+ok 89 - all twenty controls checks and style comparisons are bound
+  ---
+  duration_ms: 633.7472
+  type: 'test'
+  ...
+# Subtest: canonical report hash ignores only its receipt pointer and binds other fields
+ok 90 - canonical report hash ignores only its receipt pointer and binds other fields
+  ---
+  duration_ms: 172.8743
+  type: 'test'
+  ...
+# Subtest: rehashing a forged canonical report cannot substitute for semantic matching
+ok 91 - rehashing a forged canonical report cannot substitute for semantic matching
+  ---
+  duration_ms: 282.061
+  type: 'test'
+  ...
+# Subtest: CLI arguments disable context and execution capabilities while keeping existing authentication
+ok 92 - CLI arguments disable context and execution capabilities while keeping existing authentication
+  ---
+  duration_ms: 8.3968
+  type: 'test'
+  ...
+# Subtest: completed controlled rejection preserves bytes, schema, usage and honest provenance
+ok 93 - completed controlled rejection preserves bytes, schema, usage and honest provenance
+  ---
+  duration_ms: 1043.4629
+  type: 'test'
+  ...
+# Subtest: controlled tool cannot produce a review receipt
+ok 94 - controlled tool cannot produce a review receipt
+  ---
+  duration_ms: 885.5768
+  type: 'test'
+  ...
+# Subtest: controlled unknown cannot produce a review receipt
+ok 95 - controlled unknown cannot produce a review receipt
+  ---
+  duration_ms: 931.9945
+  type: 'test'
+  ...
+# Subtest: controlled failure cannot produce a review receipt
+ok 96 - controlled failure cannot produce a review receipt
+  ---
+  duration_ms: 1150.1278
+  type: 'test'
+  ...
+# Subtest: controlled diagnostic cannot produce a review receipt
+ok 97 - controlled diagnostic cannot produce a review receipt
+  ---
+  duration_ms: 1012.025
+  type: 'test'
+  ...
+# Subtest: controlled incomplete cannot produce a review receipt
+ok 98 - controlled incomplete cannot produce a review receipt
+  ---
+  duration_ms: 871.2631
+  type: 'test'
+  ...
+# Subtest: controlled two-messages cannot produce a review receipt
+ok 99 - controlled two-messages cannot produce a review receipt
+  ---
+  duration_ms: 908.552
+  type: 'test'
+  ...
+# Subtest: controlled two-completions cannot produce a review receipt
+ok 100 - controlled two-completions cannot produce a review receipt
+  ---
+  duration_ms: 790.359
+  type: 'test'
+  ...
+# Subtest: controlled mismatch cannot produce a review receipt
+ok 101 - controlled mismatch cannot produce a review receipt
+  ---
+  duration_ms: 603.7151
+  type: 'test'
+  ...
+# Subtest: controlled invalid-schema cannot produce a review receipt
+ok 102 - controlled invalid-schema cannot produce a review receipt
+  ---
+  duration_ms: 540.8202
+  type: 'test'
+  ...
+# Subtest: controlled tamper-image cannot produce a review receipt
+ok 103 - controlled tamper-image cannot produce a review receipt
+  ---
+  duration_ms: 567.1114
+  type: 'test'
+  ...
+# Subtest: controlled tamper-schema cannot produce a review receipt
+ok 104 - controlled tamper-schema cannot produce a review receipt
+  ---
+  duration_ms: 507.2931
+  type: 'test'
+  ...
+# Subtest: controlled extra-file cannot produce a review receipt
+ok 105 - controlled extra-file cannot produce a review receipt
+  ---
+  duration_ms: 485.1535
+  type: 'test'
+  ...
+# Subtest: controlled no-final cannot produce a review receipt
+ok 106 - controlled no-final cannot produce a review receipt
+  ---
+  duration_ms: 485.4411
+  type: 'test'
+  ...
+# Subtest: controlled invalid-jsonl cannot produce a review receipt
+ok 107 - controlled invalid-jsonl cannot produce a review receipt
+  ---
+  duration_ms: 475.428
+  type: 'test'
+  ...
+# Subtest: controlled nonzero cannot produce a review receipt
+ok 108 - controlled nonzero cannot produce a review receipt
+  ---
+  duration_ms: 709.6478
+  type: 'test'
+  ...
+# Subtest: controlled oversize cannot produce a review receipt
+ok 109 - controlled oversize cannot produce a review receipt
+  ---
+  duration_ms: 570.3226
+  type: 'test'
+  ...
+# Subtest: controlled known-diagnostics-tool cannot produce a review receipt
+ok 110 - controlled known-diagnostics-tool cannot produce a review receipt
+  ---
+  duration_ms: 414.8273
+  type: 'test'
+  ...
+# Subtest: controlled known-diagnostics-failed cannot produce a review receipt
+ok 111 - controlled known-diagnostics-failed cannot produce a review receipt
+  ---
+  duration_ms: 391.8303
+  type: 'test'
+  ...
+# Subtest: controlled known-diagnostics-tamper cannot produce a review receipt
+ok 112 - controlled known-diagnostics-tamper cannot produce a review receipt
+  ---
+  duration_ms: 447.0981
+  type: 'test'
+  ...
+# Subtest: deadline terminates a pending subprocess without granting a result
+ok 113 - deadline terminates a pending subprocess without granting a result
+  ---
+  duration_ms: 2318.1074
+  type: 'test'
+  ...
+# Subtest: original evidence and immutable request tampering are caught after execution
+ok 114 - original evidence and immutable request tampering are caught after execution
+  ---
+  duration_ms: 1199.0764
+  type: 'test'
+  ...
+# Subtest: caller schema mutation cannot weaken the immutable output contract
+ok 115 - caller schema mutation cannot weaken the immutable output contract
+  ---
+  duration_ms: 401.6132
+  type: 'test'
+  ...
+# Subtest: forged input bytes, missing labels, non-evidence roles and cancellation never launch a model subprocess
+ok 116 - forged input bytes, missing labels, non-evidence roles and cancellation never launch a model subprocess
+  ---
+  duration_ms: 35.0225
+  type: 'test'
+  ...
+# Subtest: known startup and recovered transport diagnostics require a complete no-tool transcript
+ok 117 - known startup and recovered transport diagnostics require a complete no-tool transcript
+  ---
+  duration_ms: 2.8805
+  type: 'test'
+  ...
+# Subtest: known diagnostic receipt records classifier, raw bytes and honest execution counts
+ok 118 - known diagnostic receipt records classifier, raw bytes and honest execution counts
+  ---
+  duration_ms: 489.3426
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects authentication error
+ok 119 - diagnostic classifier rejects authentication error
+  ---
+  duration_ms: 0.3895
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects quota error
+ok 120 - diagnostic classifier rejects quota error
+  ---
+  duration_ms: 0.2861
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects model error
+ok 121 - diagnostic classifier rejects model error
+  ---
+  duration_ms: 0.1688
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects unknown runtime error
+ok 122 - diagnostic classifier rejects unknown runtime error
+  ---
+  duration_ms: 0.1593
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects turn failed before completion
+ok 123 - diagnostic classifier rejects turn failed before completion
+  ---
+  duration_ms: 0.1398
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects turn failed after completion
+ok 124 - diagnostic classifier rejects turn failed after completion
+  ---
+  duration_ms: 0.1521
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects known message with unknown suffix
+ok 125 - diagnostic classifier rejects known message with unknown suffix
+  ---
+  duration_ms: 0.1312
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects known message with forged tool payload
+ok 126 - diagnostic classifier rejects known message with forged tool payload
+  ---
+  duration_ms: 0.1727
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects known message with forged top-level error
+ok 127 - diagnostic classifier rejects known message with forged top-level error
+  ---
+  duration_ms: 0.1991
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects known message in unsupported item lifecycle
+ok 128 - diagnostic classifier rejects known message in unsupported item lifecycle
+  ---
+  duration_ms: 0.1556
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects known message as an ordinary runtime error
+ok 129 - diagnostic classifier rejects known message as an ordinary runtime error
+  ---
+  duration_ms: 0.1762
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects another experimental feature
+ok 130 - diagnostic classifier rejects another experimental feature
+  ---
+  duration_ms: 0.1692
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects different config path
+ok 131 - diagnostic classifier rejects different config path
+  ---
+  duration_ms: 0.1363
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects duplicate startup diagnostic
+ok 132 - diagnostic classifier rejects duplicate startup diagnostic
+  ---
+  duration_ms: 0.1714
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects startup before thread
+ok 133 - diagnostic classifier rejects startup before thread
+  ---
+  duration_ms: 0.1383
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects startup during turn
+ok 134 - diagnostic classifier rejects startup during turn
+  ---
+  duration_ms: 0.1225
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects duplicate reconnect attempt
+ok 135 - diagnostic classifier rejects duplicate reconnect attempt
+  ---
+  duration_ms: 0.1372
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects reconnect in reverse order
+ok 136 - diagnostic classifier rejects reconnect in reverse order
+  ---
+  duration_ms: 0.0947
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects unknown reconnect reason
+ok 137 - diagnostic classifier rejects unknown reconnect reason
+  ---
+  duration_ms: 0.1657
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects reconnect after fallback
+ok 138 - diagnostic classifier rejects reconnect after fallback
+  ---
+  duration_ms: 0.1317
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects fallback without reconnect
+ok 139 - diagnostic classifier rejects fallback without reconnect
+  ---
+  duration_ms: 0.0914
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects duplicate fallback
+ok 140 - diagnostic classifier rejects duplicate fallback
+  ---
+  duration_ms: 0.1313
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects diagnostic after final answer
+ok 141 - diagnostic classifier rejects diagnostic after final answer
+  ---
+  duration_ms: 0.2132
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects diagnostic after completion
+ok 142 - diagnostic classifier rejects diagnostic after completion
+  ---
+  duration_ms: 0.1253
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects tool after recoverable diagnostics
+ok 143 - diagnostic classifier rejects tool after recoverable diagnostics
+  ---
+  duration_ms: 0.1289
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects tool payload disguised as final message
+ok 144 - diagnostic classifier rejects tool payload disguised as final message
+  ---
+  duration_ms: 0.1193
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects tool payload disguised as reasoning
+ok 145 - diagnostic classifier rejects tool payload disguised as reasoning
+  ---
+  duration_ms: 0.1215
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects unknown event after recovery
+ok 146 - diagnostic classifier rejects unknown event after recovery
+  ---
+  duration_ms: 0.0997
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects failed status hidden in completion
+ok 147 - diagnostic classifier rejects failed status hidden in completion
+  ---
+  duration_ms: 0.108
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects error hidden in completion
+ok 148 - diagnostic classifier rejects error hidden in completion
+  ---
+  duration_ms: 0.1126
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects incomplete after recovery
+ok 149 - diagnostic classifier rejects incomplete after recovery
+  ---
+  duration_ms: 0.0901
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects unknown stderr
+ok 150 - diagnostic classifier rejects unknown stderr
+  ---
+  duration_ms: 0.326
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects authentication stderr
+ok 151 - diagnostic classifier rejects authentication stderr
+  ---
+  duration_ms: 0.1568
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects quota stderr
+ok 152 - diagnostic classifier rejects quota stderr
+  ---
+  duration_ms: 0.1119
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects model stderr
+ok 153 - diagnostic classifier rejects model stderr
+  ---
+  duration_ms: 0.0839
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects known log with appended error
+ok 154 - diagnostic classifier rejects known log with appended error
+  ---
+  duration_ms: 0.1468
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects duplicate retry log
+ok 155 - diagnostic classifier rejects duplicate retry log
+  ---
+  duration_ms: 0.1001
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects out-of-order retry log
+ok 156 - diagnostic classifier rejects out-of-order retry log
+  ---
+  duration_ms: 0.0871
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects unpaired retry log
+ok 157 - diagnostic classifier rejects unpaired retry log
+  ---
+  duration_ms: 0.1178
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects unpaired fallback log
+ok 158 - diagnostic classifier rejects unpaired fallback log
+  ---
+  duration_ms: 0.1214
+  type: 'test'
+  ...
+# Subtest: diagnostic classifier rejects duplicate fallback log
+ok 159 - diagnostic classifier rejects duplicate fallback log
+  ---
+  duration_ms: 0.1031
+  type: 'test'
+  ...
+# Subtest: pin is explicit, local, hash-named, byte exact and reusable without overwrite
+ok 160 - pin is explicit, local, hash-named, byte exact and reusable without overwrite
+  ---
+  duration_ms: 102.834
+  type: 'test'
+  ...
+# Subtest: pinned runtime survives source removal and detects byte or metadata tampering
+ok 161 - pinned runtime survives source removal and detects byte or metadata tampering
+  ---
+  duration_ms: 126.106
+  type: 'test'
+  ...
+# Subtest: different version, requested SHA and changes during probing all stop
+ok 162 - different version, requested SHA and changes during probing all stop
+  ---
+  duration_ms: 29.4571
+  type: 'test'
+  ...
+# Subtest: PATH aliases, missing files and directory links cannot select or create a runtime
+ok 163 - PATH aliases, missing files and directory links cannot select or create a runtime
+  ---
+  duration_ms: 24.0986
+  type: 'test'
+  ...
+# Subtest: calibration resolution follows the fully validated original request and preserves its exact version
+ok 164 - calibration resolution follows the fully validated original request and preserves its exact version
+  ---
+  duration_ms: 724.7995
+  type: 'test'
+  ...
+# Subtest: a deleted calibrated version stays blocked without PATH fallback or directory creation
+ok 165 - a deleted calibrated version stays blocked without PATH fallback or directory creation
+  ---
+  duration_ms: 471.7717
+  type: 'test'
+  ...
+# Subtest: automatic prototype and qualification clients use the calibrated executable and requested model
+ok 166 - automatic prototype and qualification clients use the calibrated executable and requested model
+  ---
+  duration_ms: 524.6125
+  type: 'test'
+  ...
+# Subtest: automatic CLI selection blocks incomplete calibration before any invocation
+ok 167 - automatic CLI selection blocks incomplete calibration before any invocation
+  ---
+  duration_ms: 21.513
+  type: 'test'
+  ...
+# Subtest: production CLI selection is explicit and only an explicit CLI flag overrides its account model
+ok 168 - production CLI selection is explicit and only an explicit CLI flag overrides its account model
+  ---
+  duration_ms: 15.4688
+  type: 'test'
+  ...
+# Subtest: unknown, conflicting and incomplete entry options fail before reading config or launching a client
+ok 169 - unknown, conflicting and incomplete entry options fail before reading config or launching a client
+  ---
+  duration_ms: 1.2452
+  type: 'test'
+  ...
+# Subtest: CLI resume uses only its recorded directory and never switches a session or API run
+ok 170 - CLI resume uses only its recorded directory and never switches a session or API run
+  ---
+  duration_ms: 164.5454
+  type: 'test'
+  ...
+# Subtest: session resume retains its immutable pending calibration queue
+ok 171 - session resume retains its immutable pending calibration queue
+  ---
+  duration_ms: 14.6489
+  type: 'test'
+  ...
+# Subtest: prototype and qualification retain explicit controlled clients and their requested model
+ok 172 - prototype and qualification retain explicit controlled clients and their requested model
+  ---
+  duration_ms: 6.3124
+  type: 'test'
+  ...
+# Subtest: workflow retains the explicitly supplied client reuse handler without adding usage
+ok 173 - workflow retains the explicitly supplied client reuse handler without adding usage
+  ---
+  duration_ms: 4.2794
+  type: 'test'
+  ...
+# Subtest: workflow transport, model and campaign mismatches stop before any model call
+ok 174 - workflow transport, model and campaign mismatches stop before any model call
+  ---
+  duration_ms: 8.4947
+  type: 'test'
+  ...
+# Subtest: a selected cached CLI cannot invoke a model or create a run before its static plan is ready
+ok 175 - a selected cached CLI cannot invoke a model or create a run before its static plan is ready
+  ---
+  duration_ms: 15.2469
+  type: 'test'
+  ...
+# Subtest: accepted unchanged source passes; dirty source fails and cannot be catalogued
+ok 176 - accepted unchanged source passes; dirty source fails and cannot be catalogued
+  ---
+  duration_ms: 145.59
+  type: 'test'
+  ...
+# Subtest: verified private trials cannot use public packaging or enter the catalog
+ok 177 - verified private trials cannot use public packaging or enter the catalog
+  ---
+  duration_ms: 248.1769
+  type: 'test'
+  ...
+# Subtest: frozen and unknown manifests cannot be packaged
+ok 178 - frozen and unknown manifests cannot be packaged
+  ---
+  duration_ms: 60.4788
+  type: 'test'
+  ...
+# Subtest: source and archive traversal, absolute names, duplicate entries and nested ZIPs fail
+ok 179 - source and archive traversal, absolute names, duplicate entries and nested ZIPs fail
+  ---
+  duration_ms: 185.5669
+  type: 'test'
+  ...
+# Subtest: fingerprints ignore allowlist ordering and detect renamed distribution entries
+ok 180 - fingerprints ignore allowlist ordering and detect renamed distribution entries
+  ---
+  duration_ms: 84.7876
+  type: 'test'
+  ...
+# Subtest: missing evidence and forged output names fail the gate
+ok 181 - missing evidence and forged output names fail the gate
+  ---
+  duration_ms: 68.1919
+  type: 'test'
+  ...
+# Subtest: public audits reject stale, temporary, nested and tampered downloads
+ok 182 - public audits reject stale, temporary, nested and tampered downloads
+  ---
+  duration_ms: 108.3295
+  type: 'test'
+  ...
+# Subtest: catalog excludes frozen candidates and requires a verified receipt
+ok 183 - catalog excludes frozen candidates and requires a verified receipt
+  ---
+  duration_ms: 69.0568
+  type: 'test'
+  ...
+# Subtest: an accepted but unreleased template does not block existing downloads or leak into the catalog
+ok 184 - an accepted but unreleased template does not block existing downloads or leak into the catalog
+  ---
+  duration_ms: 82.1733
+  type: 'test'
+  ...
+# Subtest: a desktop-to-phone switch changes physical orientation as well as CSS dimensions
+ok 185 - a desktop-to-phone switch changes physical orientation as well as CSS dimensions
+  ---
+  duration_ms: 5.9184
+  type: 'test'
+  ...
+# Subtest: named source routes keep intermediate core imagery that canonical even-index sampling would omit
+ok 186 - named source routes keep intermediate core imagery that canonical even-index sampling would omit
+  ---
+  duration_ms: 111.1372
+  type: 'test'
+  ...
+# Subtest: two actual Vite builds serve independent previews; data SVG fragments are not files and broken assets fail
+ok 187 - two actual Vite builds serve independent previews; data SVG fragments are not files and broken assets fail
+  ---
+  duration_ms: 6759.7584
+  type: 'test'
+  ...
+# Subtest: completed engineering evidence can resume only with the exact source, plan binding and bytes
+ok 188 - completed engineering evidence can resume only with the exact source, plan binding and bytes
+  ---
+  duration_ms: 81.6537
+  type: 'test'
+  ...
+# Subtest: a new inspector gets a fresh versioned checkpoint while exact-byte cache corruption still stops
+ok 189 - a new inspector gets a fresh versioned checkpoint while exact-byte cache corruption still stops
+  ---
+  duration_ms: 82.7482
+  type: 'test'
+  ...
+# Subtest: reset audits rebuild and retain a changed prerequisite for every keyboard, mouse and touch action
+ok 190 - reset audits rebuild and retain a changed prerequisite for every keyboard, mouse and touch action
+  ---
+  duration_ms: 149.3132
+  type: 'test'
+  ...
+# Subtest: an ineffective keyboard reset cannot inherit a previous successful input
+ok 191 - an ineffective keyboard reset cannot inherit a previous successful input
+  ---
+  duration_ms: 64.2033
+  type: 'test'
+  ...
+# Subtest: an ineffective mouse reset cannot inherit a previous successful input
+ok 192 - an ineffective mouse reset cannot inherit a previous successful input
+  ---
+  duration_ms: 87.5333
+  type: 'test'
+  ...
+# Subtest: an ineffective touch reset cannot inherit a previous successful input
+ok 193 - an ineffective touch reset cannot inherit a previous successful input
+  ---
+  duration_ms: 139.551
+  type: 'test'
+  ...
+# Subtest: a preparation that already satisfies the result stops before activation
+ok 194 - a preparation that already satisfies the result stops before activation
+  ---
+  duration_ms: 15.8812
+  type: 'test'
+  ...
+# Subtest: keyboard traversal cannot silently discard the verified prerequisite
+ok 195 - keyboard traversal cannot silently discard the verified prerequisite
+  ---
+  duration_ms: 26.9963
+  type: 'test'
+  ...
+# Subtest: idempotent controls without an explicit preparation restore and record their native default before physical input
+ok 196 - idempotent controls without an explicit preparation restore and record their native default before physical input
+  ---
+  duration_ms: 100.2802
+  type: 'test'
+  ...
+# Subtest: an ineffective idempotent physical action without explicit preparation is rejected after restoring the document
+ok 197 - an ineffective idempotent physical action without explicit preparation is rejected after restoring the document
+  ---
+  duration_ms: 34.382
+  type: 'test'
+  ...
+# Subtest: sequential counter contracts keep their unsatisfied second-action condition
+ok 198 - sequential counter contracts keep their unsatisfied second-action condition
+  ---
+  duration_ms: 103.9426
+  type: 'test'
+  ...
+# Subtest: isolated visual candidates cannot replace the benchmark or invoke package/release
+ok 199 - isolated visual candidates cannot replace the benchmark or invoke package/release
+  ---
+  duration_ms: 23.7218
+  type: 'test'
+  ...
+# Subtest: candidate gate rejects absent quality evidence while leaving the delivery registry untouched
+ok 200 - candidate gate rejects absent quality evidence while leaving the delivery registry untouched
+  ---
+  duration_ms: 30.6163
+  type: 'test'
+  ...
+# Subtest: candidate manifests and contracts cannot escape the private prototype boundary
+ok 201 - candidate manifests and contracts cannot escape the private prototype boundary
+  ---
+  duration_ms: 14.2639
+  type: 'test'
+  ...
+# Subtest: phone process uses trusted finger events in both directions and fails when the document cannot move
+ok 202 - phone process uses trusted finger events in both directions and fails when the document cannot move
+  ---
+  duration_ms: 2614.2592
+  type: 'test'
+  ...
+# Subtest: native scrolling reaches a distant state when a source clamps individual wheel events
+ok 203 - native scrolling reaches a distant state when a source clamps individual wheel events
+  ---
+  duration_ms: 1623.0923
+  type: 'test'
+  ...
+# Subtest: a stationary document is not reported as an ending or a complete custom stage
+ok 204 - a stationary document is not reported as an ending or a complete custom stage
+  ---
+  duration_ms: 9630.4246
+  type: 'test'
+  ...
+# Subtest: already reached and invalid targets do not inject wheel events
+ok 205 - already reached and invalid targets do not inject wheel events
+  ---
+  duration_ms: 80.7396
+  type: 'test'
+  ...
+# Subtest: queued inertia must settle before a state is reported as reached
+ok 206 - queued inertia must settle before a state is reported as reached
+  ---
+  duration_ms: 100.4063
+  type: 'test'
+  ...
+# Subtest: delayed compositor wheel acknowledgement cannot accumulate stale-position input
+ok 207 - delayed compositor wheel acknowledgement cannot accumulate stale-position input
+  ---
+  duration_ms: 194.1078
+  type: 'test'
+  ...
+# Subtest: a late-loaded image must move the captured ending to the new document end
+ok 208 - a late-loaded image must move the captured ending to the new document end
+  ---
+  duration_ms: 125.463
+  type: 'test'
+  ...
+# Subtest: anchors are remeasured after media readiness and an unstable layout cannot be called captured
+ok 209 - anchors are remeasured after media readiness and an unstable layout cannot be called captured
+  ---
+  duration_ms: 272.421
+  type: 'test'
+  ...
+# Subtest: performance contract accepts only complete source-bound native measurements, never a self-awarded score
+ok 210 - performance contract accepts only complete source-bound native measurements, never a self-awarded score
+  ---
+  duration_ms: 5.188
+  type: 'test'
+  ...
+# Subtest: GPU budget blocks excessive geometry, draws, pixels and uncapped rendering even with a passing engineering label
+ok 211 - GPU budget blocks excessive geometry, draws, pixels and uncapped rendering even with a passing engineering label
+  ---
+  duration_ms: 1.0562
+  type: 'test'
+  ...
+# Subtest: idle, reduced-motion and real background must stop GPU work; low idle compositor cadence is not page stutter
+ok 212 - idle, reduced-motion and real background must stop GPU work; low idle compositor cadence is not page stutter
+  ---
+  duration_ms: 1.3442
+  type: 'test'
+  ...
+# Subtest: native motion and phone pressure cannot be replaced with static screenshots or desktop conditions
+ok 213 - native motion and phone pressure cannot be replaced with static screenshots or desktop conditions
+  ---
+  duration_ms: 1.4162
+  type: 'test'
+  ...
+# Subtest: static budget cannot be widened or a second historical exemption added
+ok 214 - static budget cannot be widened or a second historical exemption added
+  ---
+  duration_ms: 94.7172
+  type: 'test'
+  ...
+# Subtest: final delivery cannot omit performance; old Pace may only be read as history, never newly registered
+ok 215 - final delivery cannot omit performance; old Pace may only be read as history, never newly registered
+  ---
+  duration_ms: 2206.194
+  type: 'test'
+  ...
+# Subtest: all real rejected prototypes remain blocked after renaming or an invented new peer certificate
+ok 216 - all real rejected prototypes remain blocked after renaming or an invented new peer certificate
+  ---
+  duration_ms: 7056.3706
+  type: 'test'
+  ...
+# Subtest: a real late responsive rejection binds all twenty states and its measured runtime
+ok 217 - a real late responsive rejection binds all twenty states and its measured runtime
+  ---
+  duration_ms: 1316.4919
+  type: 'test'
+  ...
+# Subtest: actual rejected material modules cannot be renamed or given a new admit certificate
+ok 218 - actual rejected material modules cannot be renamed or given a new admit certificate
+  ---
+  duration_ms: 1788.2651
+  type: 'test'
+  ...
+# Subtest: core rejection registration checks real source and frame bytes, preserves duplicate records and detects edited decisions
+ok 219 - core rejection registration checks real source and frame bytes, preserves duplicate records and detects edited decisions
+  ---
+  duration_ms: 336.2797
+  type: 'test'
+  ...
+# Subtest: new rejection is persisted with its exact review; rewriting that review invalidates the ledger
+ok 220 - new rejection is persisted with its exact review; rewriting that review invalidates the ledger
+  ---
+  duration_ms: 3642.977
+  type: 'test'
+  ...
+# Subtest: visual contract requires specific four-state roles, short viewport budgets and named identity relationships
+ok 221 - visual contract requires specific four-state roles, short viewport budgets and named identity relationships
+  ---
+  duration_ms: 1.9965
+  type: 'test'
+  ...
+# Subtest: actual state measurements reject walls of copy, missing/tiny/repeated subjects and absent metrics
+ok 222 - actual state measurements reject walls of copy, missing/tiny/repeated subjects and absent metrics
+  ---
+  duration_ms: 2.2052
+  type: 'test'
+  ...
+# Subtest: state-specific visual loss overrides an otherwise all-peer model answer and cannot trigger a finish
+ok 223 - state-specific visual loss overrides an otherwise all-peer model answer and cannot trigger a finish
+  ---
+  duration_ms: 523.0338
+  type: 'test'
+  ...
+# Subtest: locked geometry/material is injected unchanged, cannot be rewritten or merely archived unused
+ok 224 - locked geometry/material is injected unchanged, cannot be rewritten or merely archived unused
+  ---
+  duration_ms: 262.4782
+  type: 'test'
+  ...
+# Subtest: task browser resolves through the named CLI session without scanning unrelated profiles
+ok 225 - task browser resolves through the named CLI session without scanning unrelated profiles
+  ---
+  duration_ms: 2.4128
+  type: 'test'
+  ...
+# Subtest: an unavailable session is started once and its current endpoint is queried again
+ok 226 - an unavailable session is started once and its current endpoint is queried again
+  ---
+  duration_ms: 0.826
+  type: 'test'
+  ...
+# Subtest: browser session names and explicit endpoints cannot introduce shell fragments or remote targets
+ok 227 - browser session names and explicit endpoints cannot introduce shell fragments or remote targets
+  ---
+  duration_ms: 1.96
+  type: 'test'
+  ...
+# Subtest: validated browser configuration pins the engine and safely quotes a local executable path
+ok 228 - validated browser configuration pins the engine and safely quotes a local executable path
+  ---
+  duration_ms: 22.2318
+  type: 'test'
+  ...
+# Subtest: publication failure preserves the actual failed stage and bounded child diagnostic without reclassifying success
+ok 229 - publication failure preserves the actual failed stage and bounded child diagnostic without reclassifying success
+  ---
+  duration_ms: 2.3734
+  type: 'test'
+  ...
+# Subtest: a preview cold-launch timeout rechecks the same service once without weakening either deadline
+ok 230 - a preview cold-launch timeout rechecks the same service once without weakening either deadline
+  ---
+  duration_ms: 1.6848
+  type: 'test'
+  ...
+# Subtest: gallery QA derives the actual registered preview and download routes without loosening link checks
+ok 231 - gallery QA derives the actual registered preview and download routes without loosening link checks
+  ---
+  duration_ms: 4558.2056
+  type: 'test'
+  ...
+# Subtest: homepage publication rejects mock reviews, missing static metadata and a mismatched source or run
+ok 232 - homepage publication rejects mock reviews, missing static metadata and a mismatched source or run
+  ---
+  duration_ms: 4577.2262
+  type: 'test'
+  ...
+# Subtest: known rejected domains stop before browsing, including www and a different path
+ok 233 - known rejected domains stop before browsing, including www and a different path
+  ---
+  duration_ms: 9.0028
+  type: 'test'
+  ...
+# Subtest: the legacy scouting CLI cannot bypass rejection with an arbitrary short reason
+ok 234 - the legacy scouting CLI cannot bypass rejection with an arbitrary short reason
+  ---
+  duration_ms: 805.6738
+  type: 'test'
+  ...
+# Subtest: offline model preparation refuses a known failed asset plan before opening the converter or changing bytes
+ok 235 - offline model preparation refuses a known failed asset plan before opening the converter or changing bytes
+  ---
+  duration_ms: 519.1755
+  type: 'test'
+  ...
+# Subtest: rechecking needs immutable new evidence and a decision, and never grants quality admission
+ok 236 - rechecking needs immutable new evidence and a decision, and never grants quality admission
+  ---
+  duration_ms: 39.0531
+  type: 'test'
+  ...
+# Subtest: actual complete renderer binds current source, full QA and pending user acceptance
+ok 237 - actual complete renderer binds current source, full QA and pending user acceptance
+  ---
+  duration_ms: 3286.575
+  type: 'test'
+  ...
+# Subtest: changing frozen CSS, JavaScript, dependency versions or definition stops before any review or output
+ok 238 - changing frozen CSS, JavaScript, dependency versions or definition stops before any review or output
+  ---
+  duration_ms: 4527.8126
+  type: 'test'
+  ...
+# Subtest: field limits block text walls, CJK font substitution, utility changes, missing fields and source injection
+ok 239 - field limits block text walls, CJK font substitution, utility changes, missing fields and source injection
+  ---
+  duration_ms: 1.738
+  type: 'test'
+  ...
+# Subtest: plan cannot silently switch template identity, lower QA, change controls or inject renderer code
+ok 240 - plan cannot silently switch template identity, lower QA, change controls or inject renderer code
+  ---
+  duration_ms: 3687.9964
+  type: 'test'
+  ...
+# Subtest: unmodified replay preserves exact approved bytes and never copies an old admission
+ok 241 - unmodified replay preserves exact approved bytes and never copies an old admission
+  ---
+  duration_ms: 2036.1611
+  type: 'test'
+  ...
+# Subtest: changed content changes only content slots and cannot reuse old fingerprint approval
+ok 242 - changed content changes only content slots and cannot reuse old fingerprint approval
+  ---
+  duration_ms: 1148.7084
+  type: 'test'
+  ...
+# Subtest: unknown renderer or oversized content stops the real production constructor before model calls
+ok 243 - unknown renderer or oversized content stops the real production constructor before model calls
+  ---
+  duration_ms: 687.7949
+  type: 'test'
+  ...
+# Subtest: unqualified source and duplicate revisions cannot enter the renderer registry or modify it
+ok 244 - unqualified source and duplicate revisions cannot enter the renderer registry or modify it
+  ---
+  duration_ms: 2478.3761
+  type: 'test'
+  ...
+# Subtest: registered renderer validates in a fresh workspace with only non-ignored proof/source inputs
+ok 245 - registered renderer validates in a fresh workspace with only non-ignored proof/source inputs
+  ---
+  duration_ms: 28824.2469
+  type: 'test'
+  ...
+# Subtest: every active registered plan validates from its durable proof and source files
+ok 246 - every active registered plan validates from its durable proof and source files
+  ---
+  duration_ms: 43811.4064
+  type: 'test'
+  ...
+# Subtest: five-width visual evidence cannot omit tablet, reuse another viewport, or change after review
+ok 247 - five-width visual evidence cannot omit tablet, reuse another viewport, or change after review
+  ---
+  duration_ms: 73.6178
+  type: 'test'
+  ...
+# Subtest: calibration uses settled benchmark chapters and the actual forward ending, never a reverse opening
+ok 248 - calibration uses settled benchmark chapters and the actual forward ending, never a reverse opening
+  ---
+  duration_ms: 331.0606
+  type: 'test'
+  ...
+# Subtest: fixed config refuses the benchmark, duplicate/unknown ids and autonomous reference selection
+ok 249 - fixed config refuses the benchmark, duplicate/unknown ids and autonomous reference selection
+  ---
+  duration_ms: 6.2407
+  type: 'test'
+  ...
+# Subtest: unready plans stop before any model call or source change; ready plans must validate fully
+ok 250 - unready plans stop before any model call or source change; ready plans must validate fully
+  ---
+  duration_ms: 12143.7573
+  type: 'test'
+  ...
+# Subtest: changing a status to locked does not turn an incomplete plan into readiness
+ok 251 - changing a status to locked does not turn an incomplete plan into readiness
+  ---
+  duration_ms: 40.559
+  type: 'test'
+  ...
+# Subtest: capture positions, selectors and readiness come from a complete static plan
+ok 252 - capture positions, selectors and readiness come from a complete static plan
+  ---
+  duration_ms: 0.8994
+  type: 'test'
+  ...
+# Subtest: retaining a native pointer position requires explicit scene identity and valid rest coordinates
+ok 253 - retaining a native pointer position requires explicit scene identity and valid rest coordinates
+  ---
+  duration_ms: 1.2305
+  type: 'test'
+  ...
+# Subtest: the process budget permits the actual 219-second source capture without enlarging candidate limits
+ok 254 - the process budget permits the actual 219-second source capture without enlarging candidate limits
+  ---
+  duration_ms: 1.2881
+  type: 'test'
+  ...
+# Subtest: scene selectors cannot smuggle source-only absolute positions or input actions into candidate captures
+ok 255 - scene selectors cannot smuggle source-only absolute positions or input actions into candidate captures
+  ---
+  duration_ms: 1.3274
+  type: 'test'
+  ...
+# Subtest: frozen production never patches page code after rejection, including a cosmetic finish
+ok 256 - frozen production never patches page code after rejection, including a cosmetic finish
+  ---
+  duration_ms: 0.792
+  type: 'test'
+  ...
+# Subtest: API sends only structured task data, keeps key out of inputs and records actual returned usage
+ok 257 - API sends only structured task data, keeps key out of inputs and records actual returned usage
+  ---
+  duration_ms: 3.6456
+  type: 'test'
+  ...
+# Subtest: API does not allow autonomous tools, retry billed errors or exceed configured calls
+ok 258 - API does not allow autonomous tools, retry billed errors or exceed configured calls
+  ---
+  duration_ms: 1.6671
+  type: 'test'
+  ...
+# Subtest: incomplete/refused/empty responses cannot count as passed reviews
+ok 259 - incomplete/refused/empty responses cannot count as passed reviews
+  ---
+  duration_ms: 0.476
+  type: 'test'
+  ...
+# Subtest: review evidence must belong to the claimed role and its original bytes
+ok 260 - review evidence must belong to the claimed role and its original bytes
+  ---
+  duration_ms: 201.852
+  type: 'test'
+  ...
+# Subtest: identical control screenshots can share image payloads without dropping frame context or crossing roles
+ok 261 - identical control screenshots can share image payloads without dropping frame context or crossing roles
+  ---
+  duration_ms: 220.8727
+  type: 'test'
+  ...
+# Subtest: new reviewer calibration cannot relabel every real negative as the benchmark
+ok 262 - new reviewer calibration cannot relabel every real negative as the benchmark
+  ---
+  duration_ms: 429.5439
+  type: 'test'
+  ...
+# Subtest: calibration queued before interruption keeps exactly the same private order and evidence on resume
+ok 263 - calibration queued before interruption keeps exactly the same private order and evidence on resume
+  ---
+  duration_ms: 1722.9483
+  type: 'test'
+  ...
+# Subtest: model cannot change package scripts, add remote resources or escape editable source paths
+ok 264 - model cannot change package scripts, add remote resources or escape editable source paths
+  ---
+  duration_ms: 2.5863
+  type: 'test'
+  ...
+# Subtest: configured content limits reject walls of placeholder copy, repeated images and invented controls
+ok 265 - configured content limits reject walls of placeholder copy, repeated images and invented controls
+  ---
+  duration_ms: 0.4897
+  type: 'test'
+  ...
+# Subtest: literal configured copy replaces model prose, escapes markup and rejects missing/unknown slots
+ok 266 - literal configured copy replaces model prose, escapes markup and rejects missing/unknown slots
+  ---
+  duration_ms: 1.4583
+  type: 'test'
+  ...
+# Subtest: editing only the content config updates default HTML on the next dev/build transform
+ok 267 - editing only the content config updates default HTML on the next dev/build transform
+  ---
+  duration_ms: 36.247
+  type: 'test'
+  ...
+# Subtest: private candidate handoff cannot package arbitrary sources or replace001
+ok 268 - private candidate handoff cannot package arbitrary sources or replace001
+  ---
+  duration_ms: 0.6748
+  type: 'test'
+  ...
+# Subtest: preview serves only allowlisted local paths, with restrictive runtime network policy
+ok 269 - preview serves only allowlisted local paths, with restrictive runtime network policy
+  ---
+  duration_ms: 109.6415
+  type: 'test'
+  ...
+# Subtest: local detailed GLB models are allowed while external resources and unconfigured decoders are blocked
+ok 270 - local detailed GLB models are allowed while external resources and unconfigured decoders are blocked
+  ---
+  duration_ms: 3.3457
+  type: 'test'
+  ...
+# Subtest: font selection and usage are locked before production, including exact font and license bytes
+ok 271 - font selection and usage are locked before production, including exact font and license bytes
+  ---
+  duration_ms: 11.7183
+  type: 'test'
+  ...
+# Subtest: 3D cannot be silently introduced, omitted or admitted with an unspecified fallback
+ok 272 - 3D cannot be silently introduced, omitted or admitted with an unspecified fallback
+  ---
+  duration_ms: 0.9129
+  type: 'test'
+  ...
+# Subtest: rendering-failure evidence must bind the source and cover both real failures at three widths
+ok 273 - rendering-failure evidence must bind the source and cover both real failures at three widths
+  ---
+  duration_ms: 1.7624
+  type: 'test'
+  ...
+# Subtest: archive transfer verifies bytes before deleting staging and never overwrites a private delivery
+ok 274 - archive transfer verifies bytes before deleting staging and never overwrites a private delivery
+  ---
+  duration_ms: 61.6874
+  type: 'test'
+  ...
+# Subtest: unchanged rejected real source stops before build, capture or model work
+ok 275 - unchanged rejected real source stops before build, capture or model work
+  ---
+  duration_ms: 1418.5008
+  type: 'test'
+  ...
+# Subtest: capture reuse binds source, static capture plan, tools and every actual image
+ok 276 - capture reuse binds source, static capture plan, tools and every actual image
+  ---
+  duration_ms: 111.9812
+  type: 'test'
+  ...
+# Subtest: current user calibration retains001 and blocks all five falsely high-rated sources
+ok 277 - current user calibration retains001 and blocks all five falsely high-rated sources
+  ---
+  duration_ms: 240.2993
+  type: 'test'
+  ...
+# Subtest: actual calibrated cohort evidence matches user labels; changed labels cannot validate
+ok 278 - actual calibrated cohort evidence matches user labels; changed labels cannot validate
+  ---
+  duration_ms: 35.6482
+  type: 'test'
+  ...
+# Subtest: one below-benchmark dimension cannot be compensated by six above-benchmark dimensions
+ok 279 - one below-benchmark dimension cannot be compensated by six above-benchmark dimensions
+  ---
+  duration_ms: 43.3492
+  type: 'test'
+  ...
+# Subtest: reference admission can precede any prototype while the prototype review still needs its actual candidate
+ok 280 - reference admission can precede any prototype while the prototype review still needs its actual candidate
+  ---
+  duration_ms: 30.9085
+  type: 'test'
+  ...
+# Subtest: self-awarded totals, implementation-context reviews and loss of core source qualities block admission
+ok 281 - self-awarded totals, implementation-context reviews and loss of core source qualities block admission
+  ---
+  duration_ms: 89.8021
+  type: 'test'
+  ...
+# Subtest: wrong phase, stale source, unpainted state, wrong viewport and single-anchor motion are rejected
+ok 282 - wrong phase, stale source, unpainted state, wrong viewport and single-anchor motion are rejected
+  ---
+  duration_ms: 73.4998
+  type: 'test'
+  ...
+# Subtest: evidence fingerprints detect substitutions; missing evidence and disabled policy fail closed
+ok 283 - evidence fingerprints detect substitutions; missing evidence and disabled policy fail closed
+  ---
+  duration_ms: 90.0504
+  type: 'test'
+  ...
+# Subtest: reference-only approval cannot authorize full implementation or packaging
+ok 284 - reference-only approval cannot authorize full implementation or packaging
+  ---
+  duration_ms: 150.6663
+  type: 'test'
+  ...
+# Subtest: retention permits only existing source and exact bytes, not quality admission or a repackaged archive
+ok 285 - retention permits only existing source and exact bytes, not quality admission or a repackaged archive
+  ---
+  duration_ms: 2.9339
+  type: 'test'
+  ...
+# Subtest: review input strips old scores, costs and implementation context; mappings stay separate
+ok 286 - review input strips old scores, costs and implementation context; mappings stay separate
+  ---
+  duration_ms: 93.0469
+  type: 'test'
+  ...
+# Subtest: a control rejection with passing static composition is registered by source and blocks renamed candidates
+ok 287 - a control rejection with passing static composition is registered by source and blocks renamed candidates
+  ---
+  duration_ms: 911.7838
+  type: 'test'
+  ...
+# Subtest: historical full-QA responsive rejections still validate with session or historical blind provenance
+ok 288 - historical full-QA responsive rejections still validate with session or historical blind provenance
+  ---
+  duration_ms: 472.165
+  type: 'test'
+  ...
+# Subtest: a pass response cannot be rewritten as a control rejection
+ok 289 - a pass response cannot be rewritten as a control rejection
+  ---
+  duration_ms: 559.3254
+  type: 'test'
+  ...
+# Subtest: a evidence-needed response cannot be rewritten as a control rejection
+ok 290 - a evidence-needed response cannot be rewritten as a control rejection
+  ---
+  duration_ms: 534.2706
+  type: 'test'
+  ...
+# Subtest: cancelled responses and pending composition evidence do not become rejected sources
+ok 291 - cancelled responses and pending composition evidence do not become rejected sources
+  ---
+  duration_ms: 435.5119
+  type: 'test'
+  ...
+# Subtest: a report cannot change the original composition verdict even when the response really rejects
+ok 292 - a report cannot change the original composition verdict even when the response really rejects
+  ---
+  duration_ms: 408.2998
+  type: 'test'
+  ...
+# Subtest: the control-only path requires the current-conversation receipt and cannot be relabelled blind
+ok 293 - the control-only path requires the current-conversation receipt and cannot be relabelled blind
+  ---
+  duration_ms: 360.5315
+  type: 'test'
+  ...
+# Subtest: the original receipt, response, request and evidence fingerprints cannot be overwritten
+ok 294 - the original receipt, response, request and evidence fingerprints cannot be overwritten
+  ---
+  duration_ms: 469.2915
+  type: 'test'
+  ...
+# Subtest: the receipt must retain the actual controls-review role and request identity
+ok 295 - the receipt must retain the actual controls-review role and request identity
+  ---
+  duration_ms: 359.5343
+  type: 'test'
+  ...
+# Subtest: changed report or measured runtime sources cannot inherit the rejection
+ok 296 - changed report or measured runtime sources cannot inherit the rejection
+  ---
+  duration_ms: 348.171
+  type: 'test'
+  ...
+# Subtest: all twenty real states, five fixed widths and matching report evidence remain mandatory
+ok 297 - all twenty real states, five fixed widths and matching report evidence remain mandatory
+  ---
+  duration_ms: 426.9796
+  type: 'test'
+  ...
+# Subtest: rehashing a substituted runtime state does not make it part of the original reviewed request
+ok 298 - rehashing a substituted runtime state does not make it part of the original reviewed request
+  ---
+  duration_ms: 406.0643
+  type: 'test'
+  ...
+# Subtest: a responsive state must cite its own original response frame
+ok 299 - a responsive state must cite its own original response frame
+  ---
+  duration_ms: 333.1322
+  type: 'test'
+  ...
+# Subtest: changed state bytes are blocked before registration
+ok 300 - changed state bytes are blocked before registration
+  ---
+  duration_ms: 388.8721
+  type: 'test'
+  ...
+# Subtest: an admitted reference creates only a locked private study entry, with no release permission
+ok 301 - an admitted reference creates only a locked private study entry, with no release permission
+  ---
+  duration_ms: 1422.2739
+  type: 'test'
+  ...
+# Subtest: every material reference deficit stops before a study directory or asset is created
+ok 302 - every material reference deficit stops before a study directory or asset is created
+  ---
+  duration_ms: 1854.135
+  type: 'test'
+  ...
+# Subtest: early admission still requires current reviewer binding, intact evidence and scene-level input
+ok 303 - early admission still requires current reviewer binding, intact evidence and scene-level input
+  ---
+  duration_ms: 1591.5447
+  type: 'test'
+  ...
+# Subtest: private creation cannot follow a linked ancestor even when its prototypes folder does not exist
+ok 304 - private creation cannot follow a linked ancestor even when its prototypes folder does not exist
+  ---
+  duration_ms: 989.2088
+  type: 'test'
+  ...
+# Subtest: retained reference reuses only actual admitted evidence, preserving every bound image and verdict
+ok 305 - retained reference reuses only actual admitted evidence, preserving every bound image and verdict
+  ---
+  duration_ms: 2651.6919
+  type: 'test'
+  ...
+# Subtest: review packet retains eight stable states and every original benchmark process frame in recorded order
+ok 306 - review packet retains eight stable states and every original benchmark process frame in recorded order
+  ---
+  duration_ms: 321.5415
+  type: 'test'
+  ...
+# Subtest: identical verified pixels have one image payload per role while all ordered contextual IDs remain usable
+ok 307 - identical verified pixels have one image payload per role while all ordered contextual IDs remain usable
+  ---
+  duration_ms: 308.7299
+  type: 'test'
+  ...
+# Subtest: missing benchmark pointer, hold, reduced or complete scroll proof stops before any reviewer call
+ok 308 - missing benchmark pointer, hold, reduced or complete scroll proof stops before any reviewer call
+  ---
+  duration_ms: 480.6835
+  type: 'test'
+  ...
+# Subtest: changed bytes, wrong viewport dimensions, reordered and unmapped original captures cannot be used as benchmark process proof
+ok 309 - changed bytes, wrong viewport dimensions, reordered and unmapped original captures cannot be used as benchmark process proof
+  ---
+  duration_ms: 296.3971
+  type: 'test'
+  ...
+# Subtest: the real frozen cohort maps all 21 original benchmark captures without changing calibration selection
+ok 310 - the real frozen cohort maps all 21 original benchmark captures without changing calibration selection
+  ---
+  duration_ms: 794.8488
+  type: 'test'
+  ...
+# Subtest: request text exposes the actual benchmark process and calibration still attaches exactly 48 images
+ok 311 - request text exposes the actual benchmark process and calibration still attaches exactly 48 images
+  ---
+  duration_ms: 348.3747
+  type: 'test'
+  ...
+# Subtest: CLI calibration requires its persisted private order before any request
+ok 312 - CLI calibration requires its persisted private order before any request
+  ---
+  duration_ms: 170.4606
+  type: 'test'
+  ...
+# Subtest: CLI calibration and paired review save consumed canonical receipts with each invocation model identity
+ok 313 - CLI calibration and paired review save consumed canonical receipts with each invocation model identity
+  ---
+  duration_ms: 5341.0128
+  type: 'test'
+  ...
+# Subtest: a technical CLI failure cannot save or consume a paired review
+ok 314 - a technical CLI failure cannot save or consume a paired review
+  ---
+  duration_ms: 1472.3776
+  type: 'test'
+  ...
+# Subtest: deferred review exits with an immutable pending packet and resumes without another request
+ok 315 - deferred review exits with an immutable pending packet and resumes without another request
+  ---
+  duration_ms: 120.9102
+  type: 'test'
+  ...
+# Subtest: deferred review refuses tampered evidence before it can consume a completed response
+ok 316 - deferred review refuses tampered evidence before it can consume a completed response
+  ---
+  duration_ms: 62.8501
+  type: 'test'
+  ...
+# Subtest: session queue waits for a real attributed response; a rejection stays a rejection
+ok 317 - session queue waits for a real attributed response; a rejection stays a rejection
+  ---
+  duration_ms: 106.9974
+  type: 'test'
+  ...
+# Subtest: an explicit cancellation ends a pending review without manufacturing a visual verdict
+ok 318 - an explicit cancellation ends a pending review without manufacturing a visual verdict
+  ---
+  duration_ms: 80.5029
+  type: 'test'
+  ...
+# Subtest: changed evidence and changed requests cannot consume an approval
+ok 319 - changed evidence and changed requests cannot consume an approval
+  ---
+  duration_ms: 268.158
+  type: 'test'
+  ...
+# Subtest: strict responses, missing review, cancellation and overstated provenance fail closed
+ok 320 - strict responses, missing review, cancellation and overstated provenance fail closed
+  ---
+  duration_ms: 47.1734
+  type: 'test'
+  ...
+# Subtest: an interrupted reviewer resumes the exact pending packet and immutable receipt without a new request
+ok 321 - an interrupted reviewer resumes the exact pending packet and immutable receipt without a new request
+  ---
+  duration_ms: 113.9493
+  type: 'test'
+  ...
+# Subtest: native iframe traversal exposes middle and ending lazy images and restores the opening before the strict gate
+ok 322 - native iframe traversal exposes middle and ending lazy images and restores the opening before the strict gate
+  ---
+  duration_ms: 9.7662
+  type: 'test'
+  ...
+# Subtest: a broken lazy image still fails and the failed traversal returns to the opening
+ok 323 - a broken lazy image still fails and the failed traversal returns to the opening
+  ---
+  duration_ms: 5.6997
+  type: 'test'
+  ...
+# Subtest: already loaded previews need no traversal and broken eager images cannot gain a pass
+ok 324 - already loaded previews need no traversal and broken eager images cannot gain a pass
+  ---
+  duration_ms: 2.6308
+  type: 'test'
+  ...
+# Subtest: an incomplete iframe document cannot receive warmup input
+ok 325 - an incomplete iframe document cannot receive warmup input
+  ---
+  duration_ms: 2.8487
+  type: 'test'
+  ...
+# Subtest: lazy-image completion does not relax the original entrance opacity gate
+ok 326 - lazy-image completion does not relax the original entrance opacity gate
+  ---
+  duration_ms: 4.8919
+  type: 'test'
+  ...
+# Subtest: all authorized works keep original preview/download identities while presentation numbers are continuous and unbadged
+ok 327 - all authorized works keep original preview/download identities while presentation numbers are continuous and unbadged
+  ---
+  duration_ms: 8295.1783
+  type: 'test'
+  ...
+# Subtest: qualified revision replaces the sixth presentation only, with exact preview, archive and thumbnails
+ok 328 - qualified revision replaces the sixth presentation only, with exact preview, archive and thumbnails
+  ---
+  duration_ms: 6688.7978
+  type: 'test'
+  ...
+# Subtest: trial showcase permission cannot bypass its original source fingerprint, full QA or exact download bytes
+ok 329 - trial showcase permission cannot bypass its original source fingerprint, full QA or exact download bytes
+  ---
+  duration_ms: 67.8617
+  type: 'test'
+  ...
+# Subtest: private ZIP creation verifies a clean build and leaves the approved public archive unchanged
+ok 330 - private ZIP creation verifies a clean build and leaves the approved public archive unchanged
+  ---
+  duration_ms: 21096.8302
+  type: 'test'
+  ...
+# Subtest: actual style cohort selects the current woven006 and instrument010 while leaving frozen quality samples intact
+ok 331 - actual style cohort selects the current woven006 and instrument010 while leaving frozen quality samples intact
+  ---
+  duration_ms: 6876.2061
+  type: 'test'
+  ...
+# Subtest: candidate exclusion applies to current presentations and same-run deliveries
+ok 332 - candidate exclusion applies to current presentations and same-run deliveries
+  ---
+  duration_ms: 1237.158
+  type: 'test'
+  ...
+# Subtest: a current renderer cannot reuse a stale source, qualification or runtime identity
+    # Subtest: showcase
+    ok 1 - showcase
+      ---
+      duration_ms: 597.0262
+      type: 'test'
+      ...
+    # Subtest: source
+    ok 2 - source
+      ---
+      duration_ms: 563.9068
+      type: 'test'
+      ...
+    # Subtest: qualification
+    ok 3 - qualification
+      ---
+      duration_ms: 475.2286
+      type: 'test'
+      ...
+    # Subtest: runtime
+    ok 4 - runtime
+      ---
+      duration_ms: 474.8354
+      type: 'test'
+      ...
+    1..4
+ok 333 - a current renderer cannot reuse a stale source, qualification or runtime identity
+  ---
+  duration_ms: 2112.6244
+  type: 'test'
+  ...
+# Subtest: changed, missing or incomplete current-state images are blocked
+    # Subtest: changed-image
+    ok 1 - changed-image
+      ---
+      duration_ms: 561.0307
+      type: 'test'
+      ...
+    # Subtest: missing-image
+    ok 2 - missing-image
+      ---
+      duration_ms: 485.1294
+      type: 'test'
+      ...
+    # Subtest: missing-state
+    ok 3 - missing-state
+      ---
+      duration_ms: 480.6722
+      type: 'test'
+      ...
+    # Subtest: wrong-width
+    ok 4 - wrong-width
+      ---
+      duration_ms: 466.0057
+      type: 'test'
+      ...
+    1..4
+ok 334 - changed, missing or incomplete current-state images are blocked
+  ---
+  duration_ms: 1994.4863
+  type: 'test'
+  ...
+# Subtest: unrevised styles require their exact frozen source and original capture membership
+    # Subtest: source
+    ok 1 - source
+      ---
+      duration_ms: 784.5387
+      type: 'test'
+      ...
+    # Subtest: capture-source
+    ok 2 - capture-source
+      ---
+      duration_ms: 609.1428
+      type: 'test'
+      ...
+    # Subtest: foreign-frame
+    ok 3 - foreign-frame
+      ---
+      duration_ms: 828.806
+      type: 'test'
+      ...
+    1..3
+ok 335 - unrevised styles require their exact frozen source and original capture membership
+  ---
+  duration_ms: 2223.1795
+  type: 'test'
+  ...
+# Subtest: earlier same-run delivery replaces its published version after verifying actual source and all states
+ok 336 - earlier same-run delivery replaces its published version after verifying actual source and all states
+  ---
+  duration_ms: 642.1619
+  type: 'test'
+  ...
+# Subtest: style gate records its actual cohort without inventing a review receipt
+ok 337 - style gate records its actual cohort without inventing a review receipt
+  ---
+  duration_ms: 9108.8563
+  type: 'test'
+  ...
+# Subtest: unprepared references stay visible and perform no generation, QA or publication
+ok 338 - unprepared references stay visible and perform no generation, QA or publication
+  ---
+  duration_ms: 32.3623
+  type: 'test'
+  ...
+# Subtest: workflow cannot target the benchmark, duplicate an item or enable autonomous discovery
+ok 339 - workflow cannot target the benchmark, duplicate an item or enable autonomous discovery
+  ---
+  duration_ms: 49.143
+  type: 'test'
+  ...
+1..339
+# tests 350
+# suites 0
+# pass 350
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 91397.6078

@@ -1,0 +1,27 @@
+{
+  "startedAt": "2026-11-01T01:50:14+08:00",
+  "recordedAt": "2026-10-31T17:52:40.138Z",
+  "results": [
+    {
+      "id": "15014092",
+      "url": "https://images.pexels.com/photos/15014092/pexels-photo-15014092/free-photo-of-close-up-shot-of-a-man-wearing-black-shirt-on-white-background.jpeg?auto=compress&dpr=1&h=600&w=600",
+      "status": 200,
+      "bytes": 26100,
+      "role": "bounded research preview only; not adopted final asset"
+    },
+    {
+      "id": "15288743",
+      "url": "https://images.pexels.com/photos/15288743/pexels-photo-15288743/free-photo-of-portrait-of-man-in-black-shirt.jpeg?auto=compress&dpr=1&h=600&w=600",
+      "status": 200,
+      "bytes": 19715,
+      "role": "bounded research preview only; not adopted final asset"
+    },
+    {
+      "id": "13026171",
+      "url": "https://images.pexels.com/photos/13026171/pexels-photo-13026171.jpeg?auto=compress&dpr=1&h=600&w=600",
+      "status": 200,
+      "bytes": 22950,
+      "role": "bounded research preview only; not adopted final asset"
+    }
+  ]
+}

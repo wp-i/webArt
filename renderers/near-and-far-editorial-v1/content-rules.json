@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "totalCharacters": 400,
+  "fields": {
+    "hero-title": {
+      "editable": false
+    },
+    "about-title": {
+      "editable": false
+    },
+    "about-intro": {
+      "editable": false
+    },
+    "listen-title": {
+      "editable": false
+    },
+    "listen-copy": {
+      "editable": false
+    },
+    "contact-title": {
+      "editable": false
+    }
+  }
+}

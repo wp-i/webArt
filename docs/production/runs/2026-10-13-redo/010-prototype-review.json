@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 2,
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "reviewer": {
+    "id": "primary-art-reviewer-2026-10-13",
+    "calibrationRunId": "2026-10-13-redo-primary-01",
+    "mode": "blind-evidence-only",
+    "inputScope": "benchmark+negative+reference+candidate",
+    "implementationContextIncluded": false
+  },
+  "limitations": "Single primary reviewer retains conversation context. Separated evidence excludes implementation reasons, expense and old self-scores; this is not an independent blind model or a guaranteed user score.",
+  "phase": "prototype",
+  "sourceSha256": "8d031638406afccbbf558778768d2e7104e7f0dfbeadadbffedd9eea20bd066e",
+  "decision": "reject",
+  "vetoes": [
+    "type-media-craft",
+    "asset-specificity",
+    "whole-page-resolution"
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-opening/contact-sheet.jpg",
+          "sha256": "b67cca35d31e5e6de459876671b36a355deade2eda1825a9d46ca4a5c64ee75c"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1024,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-transition/contact-sheet.jpg",
+          "sha256": "81473a03852afe2dd078b3fa558e95adcc906dff5545eff82d2db4caac80ec55"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 3060,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-middle/contact-sheet.jpg",
+          "sha256": "aa93564da31d717411a545f80440a3f6e552b858a66ead44c64f08b26dcb98b4"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4095,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-ending/contact-sheet.jpg",
+          "sha256": "5c960610338889d1f73e7a44ba99dfdd07030c852b68547e59ccbc40ddd0ebb4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/mobile-opening/contact-sheet.jpg",
+          "sha256": "35df2ed6d183d4ba5f909924a483dbbc94303cbd9e5b83c68186d9d27bc87ee6"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 855,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/mobile-transition/contact-sheet.jpg",
+          "sha256": "231d2ec9f164eae69d3042c7782c001dde8ff42bb2963ee4c1d2422f973e35e6"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2532,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/mobile-middle/contact-sheet.jpg",
+          "sha256": "08cf73304a5372d7b7235115422cca9981bf16aa16c5f00b270d72ac6e4b7725"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 3418,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/mobile-ending/contact-sheet.jpg",
+          "sha256": "631e57688345a3d1ac9c9bbe297437ba07bcb26070f8b365cbea22cf1c2d3cdb"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "本地金属圈、刻度、黑色显示面和珊瑚曲线形成清楚主体，手机也保住完整形态；这项可比较，不抵消中段及收束的重要差距。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-opening/contact-sheet.jpg",
+          "sha256": "b67cca35d31e5e6de459876671b36a355deade2eda1825a9d46ca4a5c64ee75c"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "below",
+      "finding": "001字形嵌入材料斜面与安静留白，关系精细；试片开场文字/对象、中段标题加画框仍偏常规，字体加载和精简文案并不等于同等级工艺。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-middle/contact-sheet.jpg",
+          "sha256": "aa93564da31d717411a545f80440a3f6e552b858a66ead44c64f08b26dcb98b4"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "below",
+      "finding": "001膜片边缘、纤维与最后空间有具体身份；试片主要为规则环与方块，真实光照已实现，但尚无母版那种专门部件和形态精度。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-transition/contact-sheet.jpg",
+          "sha256": "81473a03852afe2dd078b3fa558e95adcc906dff5545eff82d2db4caac80ec55"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "正反原生滚动可拆解、重组并从实体到线框，随后空间曲面承担不同观看语言；过程作用于主体而非仅进度条，这项保留了视觉机制。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-transition/contact-sheet.jpg",
+          "sha256": "81473a03852afe2dd078b3fa558e95adcc906dff5545eff82d2db4caac80ec55"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "实际桌面与手机拖动同时改变操作体和整组线条，释放回位，点阵中心也改变观看；它与001一样作用于对象，不是只移动一个光标。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-held",
+          "path": "docs/evidence/quality-calibration/001-1440-held.png",
+          "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-ending/contact-sheet.jpg",
+          "sha256": "5c960610338889d1f73e7a44ba99dfdd07030c852b68547e59ccbc40ddd0ebb4"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "below",
+      "finding": "001的完整材料空间与Remain共同形成独立结果；试片最后圆形操作柄和曲线场虽可操作，默认仍偏演示组件，未形成同等级视觉收束。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-ending/contact-sheet.jpg",
+          "sha256": "5c960610338889d1f73e7a44ba99dfdd07030c852b68547e59ccbc40ddd0ebb4"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "390开场保留完整圆环，展开裁切和遮挡已修正，曲面纵向构图及触摸线场可读；手机这项相当不能推出全页符合用户验收标准。",
+      "benchmarkEvidence": [
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/mobile-opening/contact-sheet.jpg",
+          "sha256": "35df2ed6d183d4ba5f909924a483dbbc94303cbd9e5b83c68186d9d27bc87ee6"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "visualPurpose": "真实几何随原生滚动拆解、材质进入线框，随后点阵和弹性对象响应输入；保留这项机制不自动补偿整体工艺和收束差距。",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-reference-selected-path/desktop-transition/contact-sheet.jpg",
+          "sha256": "bb53fc79a18358c8b1775a9539bcc663db3653690df0c79c0a6c9e8ea659f617"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-transition/contact-sheet.jpg",
+          "sha256": "81473a03852afe2dd078b3fa558e95adcc906dff5545eff82d2db4caac80ec55"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "b758673e609227568df98d08b5862de4d7aeb1c5b9a1db5a77b0a7b7e48acfd5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "06264c7fdb21691c79f282e47ddbf7d045e8d0f90f894e2c75cae1e1ec181e5c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "4015d335482ca081a78d1cfaa1f956c77a6795d019ac0b35d6c56a0100a80278"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "6cc429db7ef740dda14ff0164ec1da44ddb976d78fae675b931c695721b0bbf1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "5c960610338889d1f73e7a44ba99dfdd07030c852b68547e59ccbc40ddd0ebb4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "32556e52650c35841662f31b610fb42d2443fd82c339923a95acfd3e5321c8b6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "4015d335482ca081a78d1cfaa1f956c77a6795d019ac0b35d6c56a0100a80278"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "3718d0803d31d8fd240b07a93fe0d85eaabe9d5cd369401d05b58a721fff3825"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "7270889bc30ced3bb5c75051373d41c5e27dec24a96e216c1c932459eba1b754"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-reduced/contact-sheet.jpg",
+          "sha256": "1ffc8ce4e866d38f0ef0e41ff7a591f940af32bbf83c12835c5da78871cb986c"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "be10cfb3521d7639172909c9c27d55d5bc5fbbc4b4394236ffca64e3eab92754"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "8761824cb2fdc5918fd9a5a094cf7e548c17089ed2e882eed7385326b08fb8b9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "b805a8373cd0b36a3e9e2ab621d166f76da66f6655e23686a9bd39c1c92a94e0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "b805a8373cd0b36a3e9e2ab621d166f76da66f6655e23686a9bd39c1c92a94e0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/010-prototype-3d-pinned/desktop-reduced/contact-sheet.jpg",
+          "sha256": "1ffc8ce4e866d38f0ef0e41ff7a591f940af32bbf83c12835c5da78871cb986c"
+        }
+      ]
+    }
+  ]
+}

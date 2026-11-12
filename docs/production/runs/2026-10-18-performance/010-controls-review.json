@@ -1,0 +1,382 @@
+{
+  "decision": "pass",
+  "responsiveComposition": "pass",
+  "renderingFallback": "pass",
+  "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+  "execution": "current-conversation-assisted-review",
+  "limitations": "Primary art director retains context; this is not an independent model call or user acceptance.",
+  "findings": [
+    "五宽度二十张当前实图复核：暗色表圈、暖灰完整斜轴、蓝色点阵和酸橙收束的构图均保留；平板及320未裁断，主图与短说明、行动无碰撞。",
+    "当前正常原生滚动及正反过程保持装配关系；末屏圆盘拖动/反向/释放和键盘从独立初态重测通过，按需重绘没有冻结输入。",
+    "两种真实WebGL故障在三宽度四状态保留同源四张备用及完整短内容，隐藏不可用的Release和拖动提示；无脚本路径通过。",
+    "桌面和高DPR手机压力共20项真实GPU/帧时检查通过，首次滚动未仅按预热状态测量。任务浏览器不代表所有手机GPU，用户整体验收仍待确认。"
+  ],
+  "evidence": {
+    "responsive": [
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-opening.png",
+        "sha256": "df1794a6a88626ec78601f522ecabd1085b191541a1b3cd10fb4a86ea0472602"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-transition.png",
+        "sha256": "973f1d09fd7b14a65dffd0f8a3881c534174c326a8c1038398e854b2fef9632a"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-middle.png",
+        "sha256": "bfd3a301382e10b8b64b91841c64eb8d7ad2563ded0e08ea5fbc34aceeb91724"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-ending.png",
+        "sha256": "87df1cbb2694be4ba6959394a1c3825b383a01ecaf74afaaa56866530d6fcc0e"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/wide-responsive-opening.png",
+        "sha256": "1fb72d7c4b9d6efd3c4cf50b290b5081c59e5d29e3121c68973c0f637e818dda"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/wide-responsive-transition.png",
+        "sha256": "1f8e1a25f2001462f48b825a39b26d69bc74d129b93719ab4eb13d83e21de8aa"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/wide-responsive-middle.png",
+        "sha256": "6016d9c75adcc8a55e47cabdc2a372cdf3609f7e10f06e0eddf611d65ef68d0c"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/wide-responsive-ending.png",
+        "sha256": "5a4a60ff4627ee63ba835e43e3a6a88389f39e36bdda5b11451019785f2ee26e"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-opening.png",
+        "sha256": "643e9d4fec0a13014d2aa79409a329a4cbcaef46348af45215a1fdaa29caa6bd"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-transition.png",
+        "sha256": "b3522dd47c78fa49b5e36f714bffb3a030793d29fa6b81cd9c9c99e8554709d7"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-middle.png",
+        "sha256": "0f023ac4a70cd35c7c4397400be7dd17bba1b86227b2d8eb1071c8e6c3f152f9"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-ending.png",
+        "sha256": "7180ea52492950887fb870d0fc10cbe01b3de525bb4c6517728ae0d192805fd4"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-opening.png",
+        "sha256": "9a1d6e8928669645a79c48e58b6199ffff1bf12ca0fd9daa474e1c2332344987"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-transition.png",
+        "sha256": "6b72e5d817e3b85f90d8fc3967bf23ff58fbac861bca813af90fd8205d08b4e0"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-middle.png",
+        "sha256": "2697968f68588a62c09903889e9e21d2c63786d8ec46447ad558c3aafaaac69d"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-ending.png",
+        "sha256": "91d919ffb24595d2c6fb1bbfc6d6dea46792f371d23f0a9f36b157f1fa2c4ae7"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/narrow-responsive-opening.png",
+        "sha256": "03050f1fce0264951857f54796d020ca0b0f597509ac9ce310989ccce9849d4a"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/narrow-responsive-transition.png",
+        "sha256": "246cacfc0e9a29304abbe109bf93f2b5937370d55295d745a9d29d94ca8dae43"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/narrow-responsive-middle.png",
+        "sha256": "d11a7dcbf2af81b72b4ee1db91f9fe251d449bd396ef5996cfec1030b83a5a4b"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/narrow-responsive-ending.png",
+        "sha256": "d9ed738a9611ae89fce4fdbb0b48555901c77ec02b273243a737498bc08bc85b"
+      }
+    ],
+    "controls": "docs/evidence/redo-v2/2026-10-18/010-performance-final/controls/controls.json",
+    "rendering": "docs/evidence/redo-v2/2026-10-18/010-performance-final/rendering/rendering.json"
+  },
+  "responsiveChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "左右短标题与完整仪表比例保持，说明与主图相互让位。本状态opening的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-opening.png",
+          "sha256": "df1794a6a88626ec78601f522ecabd1085b191541a1b3cd10fb4a86ea0472602"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "左右短标题与完整仪表比例保持，说明与主图相互让位。本状态transition的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-transition.png",
+          "sha256": "973f1d09fd7b14a65dffd0f8a3881c534174c326a8c1038398e854b2fef9632a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "左右短标题与完整仪表比例保持，说明与主图相互让位。本状态middle的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-middle.png",
+          "sha256": "bfd3a301382e10b8b64b91841c64eb8d7ad2563ded0e08ea5fbc34aceeb91724"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "左右短标题与完整仪表比例保持，说明与主图相互让位。本状态ending的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/desktop-responsive-ending.png",
+          "sha256": "87df1cbb2694be4ba6959394a1c3825b383a01ecaf74afaaa56866530d6fcc0e"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "横向屏仍有明确主体尺度和边侧短字，不缩成角落装饰。本状态opening的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/wide-responsive-opening.png",
+          "sha256": "1fb72d7c4b9d6efd3c4cf50b290b5081c59e5d29e3121c68973c0f637e818dda"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "横向屏仍有明确主体尺度和边侧短字，不缩成角落装饰。本状态transition的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/wide-responsive-transition.png",
+          "sha256": "1f8e1a25f2001462f48b825a39b26d69bc74d129b93719ab4eb13d83e21de8aa"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "横向屏仍有明确主体尺度和边侧短字，不缩成角落装饰。本状态middle的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/wide-responsive-middle.png",
+          "sha256": "6016d9c75adcc8a55e47cabdc2a372cdf3609f7e10f06e0eddf611d65ef68d0c"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "横向屏仍有明确主体尺度和边侧短字，不缩成角落装饰。本状态ending的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/wide-responsive-ending.png",
+          "sha256": "5a4a60ff4627ee63ba835e43e3a6a88389f39e36bdda5b11451019785f2ee26e"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "短标题说明在上、完整仪表及斜轴在下，没有右侧裁断或文字重叠。本状态opening的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-opening.png",
+          "sha256": "643e9d4fec0a13014d2aa79409a329a4cbcaef46348af45215a1fdaa29caa6bd"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "短标题说明在上、完整仪表及斜轴在下，没有右侧裁断或文字重叠。本状态transition的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-transition.png",
+          "sha256": "b3522dd47c78fa49b5e36f714bffb3a030793d29fa6b81cd9c9c99e8554709d7"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "短标题说明在上、完整仪表及斜轴在下，没有右侧裁断或文字重叠。本状态middle的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-middle.png",
+          "sha256": "0f023ac4a70cd35c7c4397400be7dd17bba1b86227b2d8eb1071c8e6c3f152f9"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "短标题说明在上、完整仪表及斜轴在下，没有右侧裁断或文字重叠。本状态ending的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-ending.png",
+          "sha256": "7180ea52492950887fb870d0fc10cbe01b3de525bb4c6517728ae0d192805fd4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "上下构图完整保有表圈和机械层次，短说明与触摸行动位置清楚。本状态opening的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-opening.png",
+          "sha256": "9a1d6e8928669645a79c48e58b6199ffff1bf12ca0fd9daa474e1c2332344987"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "上下构图完整保有表圈和机械层次，短说明与触摸行动位置清楚。本状态transition的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-transition.png",
+          "sha256": "6b72e5d817e3b85f90d8fc3967bf23ff58fbac861bca813af90fd8205d08b4e0"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "上下构图完整保有表圈和机械层次，短说明与触摸行动位置清楚。本状态middle的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-middle.png",
+          "sha256": "2697968f68588a62c09903889e9e21d2c63786d8ec46447ad558c3aafaaac69d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "上下构图完整保有表圈和机械层次，短说明与触摸行动位置清楚。本状态ending的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/mobile-responsive-ending.png",
+          "sha256": "91d919ffb24595d2c6fb1bbfc6d6dea46792f371d23f0a9f36b157f1fa2c4ae7"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "320窄屏完整保有表圈、机械和短字，释放按钮及回返均可见。本状态opening的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/narrow-responsive-opening.png",
+          "sha256": "03050f1fce0264951857f54796d020ca0b0f597509ac9ce310989ccce9849d4a"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "320窄屏完整保有表圈、机械和短字，释放按钮及回返均可见。本状态transition的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/narrow-responsive-transition.png",
+          "sha256": "246cacfc0e9a29304abbe109bf93f2b5937370d55295d745a9d29d94ca8dae43"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "320窄屏完整保有表圈、机械和短字，释放按钮及回返均可见。本状态middle的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/narrow-responsive-middle.png",
+          "sha256": "d11a7dcbf2af81b72b4ee1db91f9fe251d449bd396ef5996cfec1030b83a5a4b"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "320窄屏完整保有表圈、机械和短字，释放按钮及回返均可见。本状态ending的当前实图保持相应视觉角色；性能优化未删主体或用通用代理替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/narrow-responsive-ending.png",
+          "sha256": "d9ed738a9611ae89fce4fdbb0b48555901c77ec02b273243a737498bc08bc85b"
+        }
+      ]
+    }
+  ]
+}

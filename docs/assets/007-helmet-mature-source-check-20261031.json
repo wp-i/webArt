@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "007",
+  "phase": "bounded-mature-helmet-source-feasibility",
+  "checkedAt": "2026-10-30T16:45:34Z",
+  "decision": "two-conditional-full-face-leads-no-role-complete-set-established",
+  "scope": "Source catalog, uploader/license metadata and four actual source preview images only. The Lando Norris mother is still under reference review. No model or texture archive was acquired; no asset, material module, prototype or source package is approved.",
+  "reviewer": {
+    "id": "current-conversation-subagent-helmet-source-research",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "bounds": {
+    "maximumModelPreviews": 4,
+    "actualUniqueModelPreviews": 4,
+    "finalModelFilesDownloaded": 0,
+    "finalTextureFilesDownloaded": 0,
+    "candidateCreated": false,
+    "pageOrModuleCodeChanged": false,
+    "newReviewModelCalls": 0
+  },
+  "method": {
+    "previewViewing": "The four official/uploader preview image URLs were opened with an isolated agent-browser Chrome session. Their browser screenshots were actually viewed. No model Download control or interactive SampleViewer was used.",
+    "licenseViewing": "Official Khronos README, LICENSE and metadata; Creative Commons legal texts; current Sketchfab public model API and uploader page license link were read. The web extractor could not open the Sketchfab model API, so the public JSON endpoints were read directly without authentication and only metadata was returned.",
+    "evidenceLimitations": "Source thumbnails are research, not final-scene or gate evidence. FlightHelmet and DamagedHelmet official screenshots are only 130 by 130 and 130 by 126 pixels, respectively, so they establish broad identity only. The two Sketchfab uploader thumbnails are 1920 by 1080. Temporary browser screenshots are not project QA receipts, and no model topology, hidden surfaces, UVs, materials, archive contents or runtime budget was inspected."
+  },
+  "licenseBasis": {
+    "cc0": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+    "ccBy": "https://creativecommons.org/licenses/by/4.0/legalcode.en",
+    "interpretation": "CC0 permits reuse and redistribution within the affirmer's rights. CC BY 4.0 permits sharing and adaptation, including commercial use, with the applicable creator/source/license information and modification notices retained. Neither clears third-party trademarks, likeness rights or assets the uploader cannot license. A directory or uploader declaration is not final-file verification."
+  },
+  "models": [
+    {
+      "name": "Flight Helmet",
+      "sourceUrl": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/FlightHelmet",
+      "readmeUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/FlightHelmet/README.md",
+      "licenseFileUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/FlightHelmet/LICENSE.md",
+      "metadataUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/FlightHelmet/metadata.json",
+      "attribution": "Khronos metadata identifies Gary Hsu for conversion from Maya, 2018, owner Public. No additional original artist identity was established in this check.",
+      "modelLicense": "CC0-1.0",
+      "metadataLicense": "CC-BY-4.0",
+      "licenseStatus": "official-directory-grant-verified-not-final-files",
+      "licenseCaveat": "The official LICENSE excludes logos and associated trademarks. Retain actual-file license notices if adopted later; this record does not replace them.",
+      "previewUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/FlightHelmet/screenshot/screenshot.jpg",
+      "previewDimensions": [130, 130],
+      "actualObservation": "Brown leather flying cap with separate goggles, ear/strap forms and a narrow neck support on a wooden display base. It has a specific historic aviation identity rather than a smooth racing shell.",
+      "possibleRole": "A distinct historical flying-headgear exhibit if that content direction were separately accepted.",
+      "roleLimitations": [
+        "It is not a full-face hard-shell racing helmet with a broad visor, chin guard and the same face coverage as the source.",
+        "No evidence establishes separable shell bands, complete hidden interior faces or fit against an independently licensed portrait.",
+        "Official README lists 43.06 MB of original textures and 29.29 MB after its published KTX2 conversion; this is not a measured project transfer or mobile performance pass."
+      ],
+      "status": "not-selected-role-mismatch"
+    },
+    {
+      "name": "Damaged Helmet",
+      "sourceUrl": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/DamagedHelmet",
+      "readmeUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/DamagedHelmet/README.md",
+      "licenseFileUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/DamagedHelmet/LICENSE.md",
+      "metadataUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/DamagedHelmet/metadata.json",
+      "attribution": [
+        "ctxwing, 2018: rebuild and conversion to glTF",
+        "theblueturtle_, 2016: earlier version"
+      ],
+      "modelLicensesListed": ["CC-BY-4.0", "CC-BY-NC-4.0"],
+      "licenseStatus": "not-cleared-for-commercial-source-template",
+      "licenseFinding": "Current official README, LICENSE and metadata all retain the earlier version's noncommercial license alongside the later rebuild's attribution license. They do not explicitly give a choice that removes the earlier restriction. Do not treat the familiar sample as a blanket CC BY commercial asset.",
+      "previewUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/DamagedHelmet/screenshot/screenshot.png",
+      "previewDimensions": [130, 126],
+      "actualObservation": "A bulky fictional science-fiction helmet, with angular metal plates, dark green glass, visible wear and mechanical jaw details.",
+      "roleLimitations": [
+        "The specific military/science-fiction identity differs from the smooth sport helmet and human face relationship of the mother.",
+        "No topology, inside surface, shell-band separation or portrait fit was inspected."
+      ],
+      "status": "excluded-license-and-role-gap"
+    },
+    {
+      "name": "Motorcycle Helmet",
+      "author": "XQCAD",
+      "authorUrl": "https://sketchfab.com/XQCAD",
+      "sourceUrl": "https://sketchfab.com/3d-models/motorcycle-helmet-dc3894945d474407bbd7a95553acdd31",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/dc3894945d474407bbd7a95553acdd31",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "license": "CC-BY-4.0",
+      "licenseStatus": "uploader-page-and-current-api-agree-not-final-files",
+      "licenseVerification": "The actual uploader page links CC BY 4.0; current public API says attribution is required and commercial use allowed. The uploader describes a carbon motorcycle helmet. No upstream copied brand asset or authoring archive was independently established in this metadata-only check.",
+      "triangles": 89740,
+      "vertices": 44890,
+      "downloadableListed": true,
+      "previewUrl": "https://media.sketchfab.com/models/dc3894945d474407bbd7a95553acdd31/thumbnails/badd778e00234018a72f8f62233b6b7c/aa993a6d07e943309f56bfb7c21e5419.jpeg",
+      "previewDimensions": [1920, 1080],
+      "actualObservation": "A complete dark full-face shell with a large smoked reflective visor, a broad chin section, carbon-like surface variation, side joints and small lower openings. The preview shows clear shell curvature and material separation; no prominent brand logo is visible in this angle.",
+      "possibleRole": "The closest of these four previews to a neutral full-face sport helmet for a future scoped asset trial.",
+      "unverified": [
+        "Closed thickness and underside/interior material after shell-band separation.",
+        "Independent visor, shell, lining and fastener objects versus a joined mesh.",
+        "Real PBR channels, UVs and suitability under the final page lighting.",
+        "Same fictional person wearing the same helmet, exact head/neck fit and matching scale across opening and closing.",
+        "Performance with several collection objects under the fixed project budget."
+      ],
+      "status": "conditional-source-lead-only-no-adoption"
+    },
+    {
+      "name": "Helmet",
+      "author": "Hikaru (woozyAEP)",
+      "authorUrl": "https://sketchfab.com/woozyAEP",
+      "sourceUrl": "https://sketchfab.com/3d-models/helmet-3f6c78745ef940ce97284c12451871b0",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/3f6c78745ef940ce97284c12451871b0",
+      "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "license": "CC-BY-4.0",
+      "licenseStatus": "uploader-page-and-current-api-agree-not-final-files",
+      "additionalCreator": {
+        "name": "astrumastrella",
+        "authorUrl": "https://sketchfab.com/astrumastrella",
+        "roleDeclaredByUploader": "Teeth artwork",
+        "independentPermissionVerified": false
+      },
+      "licenseVerification": "Uploader page and current public API link CC BY 4.0. The uploader explicitly credits a second person for the teeth drawing, but the linked artist page returned 403 during this check. No separate artist permission or archive notice was verified.",
+      "triangles": 21630,
+      "vertices": 10002,
+      "downloadableListed": true,
+      "previewUrl": "https://media.sketchfab.com/models/3f6c78745ef940ce97284c12451871b0/thumbnails/1a804a3510634ce4972829b5903098c9/c88dff2a5d744f60a72de476d4581e67.jpeg",
+      "previewDimensions": [1920, 1080],
+      "actualObservation": "A glossy black full-face helmet, with a broad dark visor, side pivots, worn highlights and large white teeth graphics wrapped across the chin. The silhouette is a concrete second full-face design, but the artwork is dominant.",
+      "possibleRole": "A different decorated sport-helmet exhibit only after its artwork attribution/permission and actual files are checked.",
+      "unverified": [
+        "Same shell-band/interior/portrait-fit requirements as the XQCAD model.",
+        "The teeth artist's grant and all archive texture rights.",
+        "Whether removing the teeth preserves worthwhile independent material identity rather than creating a second generic black helmet."
+      ],
+      "status": "conditional-lead-with-artwork-rights-gap-no-adoption"
+    }
+  ],
+  "notPreviewedOrAdopted": [
+    {
+      "sourceUrl": "https://sketchfab.com/3d-models/alpinestars-supertech-r10-127805164dc54cf0bccd8cbf234951e3",
+      "reason": "Search result is explicitly described by the uploader as ripped from a Milestone game and limited to personal use despite a CC Attribution field. Excluded from consideration without opening another model preview."
+    }
+  ],
+  "remainingCoreGap": [
+    "No complete set of three or four distinct, coherent and fully cleared full-face helmets was established within four previews. FlightHelmet changes headgear role; DamagedHelmet retains a noncommercial dependency; the two nearer full-face leads remain uninspected final files.",
+    "A mature exterior model does not supply the mother's sliced shell with believable inner faces and its precise relationship to a real person's face. This cannot be approved from a thumbnail or replaced by a generic photo wipe without a fresh comparison.",
+    "No coherent licensed portrait, outfit and same-helmet-worn image set was found or acquired by this research. Any proposed identity continuity remains unproved.",
+    "No runtime, smartphone crop, reduced-motion, input or material-module gate has been performed. No procedural shell/face proxy or LLM-made model should fill these gaps by default."
+  ],
+  "nextAction": "Chief should first finish the mother's actual interaction and four-state evidence. If the source and content roles are admitted, XQCAD can be a narrowly scoped final-file/material feasibility lead; do not start a candidate or collect unrelated helmets just to fill a gallery. Stop or choose another mother if the required inner-shell/portrait continuity cannot be preserved with mature cleared assets.",
+  "assetsSelected": false,
+  "assetApprovalGranted": false,
+  "referenceAdmissionGranted": false,
+  "prototypeApprovalGranted": false,
+  "sourcePackageAuthorized": false,
+  "inventoryChanged": false,
+  "showcaseChanged": false
+}

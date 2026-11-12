@@ -1,0 +1,112 @@
+{
+  "purpose": "actual-native-core-inputs-not-page-admission",
+  "checks": [
+    {
+      "viewport": "desktop",
+      "moved": {
+        "x": 0.3540020231013094,
+        "y": -0.18880110853786158,
+        "vx": 1.3871763326673368,
+        "vy": -0.7398285353713697,
+        "drag": true,
+        "lastX": 904.4749755859375,
+        "lastY": 412.9893798828125,
+        "lastT": 2721.2000000029802,
+        "radius": 275.38791840431554
+      },
+      "settled": {
+        "x": -0.00007130680719858079,
+        "y": 0.00003803031536343968,
+        "vx": 0.0005203663890008563,
+        "vy": -0.00027752878237692727,
+        "drag": false,
+        "lastX": 904.4749755859375,
+        "lastY": 412.9893798828125,
+        "lastT": 2721.2000000029802,
+        "radius": 275.38169526287334
+      },
+      "reducedMotion": "actual-live-preference-change-passed",
+      "evidence": [
+        {
+          "state": "default",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/desktop-default.jpg",
+          "sha256": "52439c98c88bd36566b2a94ed0f202f8074ca72a3529decae937baca7851ceb9"
+        },
+        {
+          "state": "held",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/desktop-held.jpg",
+          "sha256": "5caee6af0d32c406eed760abafc4274d2c855410cd04e608f77734c030575e1f"
+        },
+        {
+          "state": "released",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/desktop-released.jpg",
+          "sha256": "59e0646a68ab04de20035200e536dd44dbea8cfc59dc5f857a6c34b7cab9dbc4"
+        },
+        {
+          "state": "keyboard-held",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/desktop-keyboard.jpg",
+          "sha256": "6d03abdff5a4d4eb5c31bf6ed11188427351797a963bed32cfb8561fc518af37"
+        },
+        {
+          "state": "reduced",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/desktop-reduced.jpg",
+          "sha256": "ae89559a181984c446b4386ea532440a7ce9ae90479bf89624fae5269c8a30cb"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "moved": {
+        "x": 0.3540031872890299,
+        "y": -0.18880172880166846,
+        "vx": 1.0196183777099912,
+        "vy": -0.5437968012259067,
+        "drag": true,
+        "lastX": 244.80313110351562,
+        "lastY": 419.80499267578125,
+        "lastT": 2815.5,
+        "radius": 140.7257041335926
+      },
+      "settled": {
+        "x": -0.00011538159519124117,
+        "y": 0.00006153686447212678,
+        "vx": 0.0006164599597974961,
+        "vy": -0.00032877868095177425,
+        "drag": false,
+        "lastX": 244.80313110351562,
+        "lastY": 419.80499267578125,
+        "lastT": 2815.5,
+        "radius": 140.72183760830558
+      },
+      "reducedMotion": "actual-live-preference-change-passed",
+      "evidence": [
+        {
+          "state": "default",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/mobile-default.jpg",
+          "sha256": "be43cf580bcf1b7227e9b42c599476eb2f4176714d9c9ce9275bd73f334d0d86"
+        },
+        {
+          "state": "held",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/mobile-held.jpg",
+          "sha256": "a95de2d443e6217b47d71240faf9ce4d4b4c180a6bc7bc1e516b1159e4bceec5"
+        },
+        {
+          "state": "released",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/mobile-released.jpg",
+          "sha256": "508d80ff8bad5c4f808080993b0c7af106cddf1349710ddcba702e5dd3a7f407"
+        },
+        {
+          "state": "keyboard-held",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/mobile-keyboard.jpg",
+          "sha256": "fd842100b9c44f3f2ac5fd186aea3b4d03a1b41ea95c9c7ad259249058cc3359"
+        },
+        {
+          "state": "reduced",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/mobile-reduced.jpg",
+          "sha256": "d70c2537145473140df44071eccf58d9a6c4bb0ab220d9d9701c828f99223aad"
+        }
+      ]
+    }
+  ],
+  "result": "passed-native-core-inputs"
+}

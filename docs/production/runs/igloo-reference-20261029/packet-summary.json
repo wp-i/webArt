@@ -1,0 +1,18 @@
+{
+  "path": "docs/evidence/redo-v2/2026-10-29/008-igloo-reference-01/capture.json",
+  "sha256": "4a89f8e87f9e4d5be7edc3d32e60dda51b360bfce606374d8ff137aed506344a",
+  "plan": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/008-glacial-reference-plan-20261029.json",
+    "sha256": "8947e472c16078db4038539ac196e2a854c0ec7f28f67fb8a46174632dcc6e9b"
+  },
+  "calibration": {
+    "path": "docs/production/runs/cli-evidence-20261028/calibration-review.json",
+    "sha256": "652aab43797f30b3759b62419a1df6acbeae3e06cf2ba1d7024fcb05db4661ac"
+  },
+  "frameContexts": 222,
+  "actualImagePayloads": 201,
+  "sourceModes": 17,
+  "sourceStates": 8,
+  "newModelCalls": 0,
+  "visualAdmissionGranted": false
+}

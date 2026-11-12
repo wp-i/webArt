@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "records": [
+    {
+      "assetId": "campo-hand-candidate-02",
+      "path": "assets/candidates/campo-v2/hand-realistic-rigged.glb",
+      "creator": "Dan Ulrich / Blender Studio and community",
+      "source": "https://www.blender.org/download/demo-files/#assets",
+      "download": "https://download.blender.org/demo/asset-bundles/human-base-meshes/human-base-meshes-bundle-v1.4.1.zip",
+      "sourceArchiveSha256": "811f43accbb31a88266d932f8f5563b2d13586fca0ba2693aad1f5fe582b3515",
+      "license": "CC0-1.0",
+      "licenseEvidence": ".webart/asset-preparation/blender-official-cc0-card.html",
+      "modifications": "Extracted only Hand - Realistic; retained source multires shape and nail faces; added one smooth subdivision and an original named joint rig.",
+      "sha256": "dcba3f127d3ec6b8d871faf2e71bf6dd38ea169eb0767b5ab0eb5ac4ba37ffaa",
+      "bytes": 890696,
+      "verified": "2026-10-17",
+      "distributionBasis": "The recorded MIT/CC0 grants allow modified source redistribution with original notices retained. Acquisition is separate from final visual admission."
+    },
+    {
+      "assetId": "campo-cork-candidate-02",
+      "path": "assets/candidates/campo-v2/cork-plate.glb",
+      "creator": "Lusion geometry / ambientCG material",
+      "source": "https://github.com/lusionltd/ORYZO-1",
+      "materialSource": "https://ambientcg.com/view?id=Cork001",
+      "sourceArchiveSha256": "7a5031dd55be1ef05cfe3a4c578b3de44f26a5d453869921d94d57c765f29121",
+      "license": "MIT geometry; CC0-1.0 material",
+      "licenseEvidence": "assets/candidates/campo/ORYZO-MIT.txt",
+      "modifications": "Independent color, normal and roughness maps and UV mapping embedded in GLB; no Oryzo website media or code.",
+      "sha256": "9d9b9501075e10e8f018ffe7be64db30a05a1f17cbcab783ce69691ed6d23f64",
+      "bytes": 14463408,
+      "verified": "2026-10-17",
+      "distributionBasis": "The recorded MIT/CC0 grants allow modified source redistribution with original notices retained. Acquisition is separate from final visual admission."
+    }
+  ],
+  "recipe": "docs/assets/recipes/campo-02.json",
+  "visualAcceptance": "rejected-module-combination",
+  "rejection": "docs/production/runs/2026-10-17-reference-trial/007-core-rejection.json",
+  "limitation": "The geometry and maps may be lawfully used; no approved reusable hand renderer or page resulted from this trial."
+}

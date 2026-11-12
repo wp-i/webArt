@@ -1,0 +1,25 @@
+{
+  "id": "01-calibration-df0c9980b5",
+  "directory": "D:\\code\\webArt\\.webart\\cli-review-calibration-20261025-20261025145439888\\01-calibration-df0c9980b5",
+  "packetDirectory": "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-2qs12r",
+  "status": "pending",
+  "visualAdmissionGranted": false,
+  "requestFile": "D:\\code\\webArt\\.webart\\cli-review-calibration-20261025-20261025145439888\\01-calibration-df0c9980b5\\request.json",
+  "requestSha256": "523a4e983f6fc9bceb8774b9adb273fa03e498599e2850444a77644d667b43b6",
+  "failure": {
+    "code": "cli-review-tool-or-unknown-event",
+    "message": "Only evidence reasoning and a final message are allowed; no tools"
+  },
+  "elapsedMs": 134674,
+  "provenance": {
+    "mode": "evidence-only-fresh-codex-cli",
+    "kind": "fresh-codex-cli",
+    "independent": false,
+    "contextIsolated": false,
+    "contextIsolationScope": "fresh conversation; implementation history not supplied",
+    "implementationContextIncluded": false,
+    "backendIndependenceEstablished": false,
+    "requestedModel": null,
+    "actualModel": null
+  }
+}

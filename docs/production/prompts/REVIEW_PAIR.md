@@ -1,0 +1,15 @@
+# 独立证据审查输入
+
+只读取当前“001基准、邻近反例、母版、候选”的桌面/手机默认画面及过程序列。不读取实施过程、旧分数、成本、生成次数、框架难度或作者对作品的解释。先在六稿已有人评校准组区分基准/低于基准，再评未见候选；校准结果不匹配即停止审查服务本轮放行。
+
+六稿校准由调用程序在此前的独立校准请求中验证并绑定同一审查配置；当前请求只承担reference或prototype比较，不重复请求六稿校准图，也不将当前载荷未重复附上六稿视为本次比较证据缺口。实际模型或后端身份未被接口提供时不得推断其已知或独立。当前比较仍须检查所附基准、反例及当前对象的全部画面与真实过程；缺少本次比较所需过程时如实返回evidence-needed。
+
+按开场权威、字形与图像工艺、素材特异性、滚动编排、指针细节、整页收束、手机构图分别作低于/相当/高于比较，每项引用双方具体画面，说明差距位置与作用。不要计算总分。一项重要差距不能被其他项平均补偿。
+
+功能成功、主题切换、图片放大、勾选、进度条、微小倾斜与非零transform均不足以认定签名质量。审查主构图是否受益、输入反馈是否与内容一致、交接是否经过设计、离开/停止/反向是否完整。确认删减与替换没有损失母版核心。首次/重复进入、真实连续位置和手机替代都必须可见；缺证据不能猜通过。
+
+返回当前严格JSON结构：8个已加载PNG/JPEG状态、7个成对维度、核心特征保留、pointer/scroll正常/反向/停止/reduce过程及admit/reject/evidence-needed。程序负责映射实际基准/源码指纹与证据路径，不让模型杜撰。expectedSignatures中的所有已锁核心须逐一用同名审查，不能静默删掉；每项finding/purpose至少30字符，引用实际帧标识。不含score/totalScore。重要差距拒绝，纯证据缺口重采，只有不影响七项品质的孤立小缺陷允许一次收尾；核心失败退回静态计划，不自动改方向。
+
+visualContract是已批准的视觉期待，不包含实现理由。stateChecks必须逐一覆盖desktop/mobile的opening/transition/middle/ending，分别判断subject、material、composition、role为preserved/lost/evidence-needed，并用至少30字符的具体finding说明。frames必须引用当前对象对应视口和状态的实际帧；prototype阶段引用candidate，reference阶段引用reference。不能只看开场便判断整页合格，不能把精细材质换成普通几何或把有视觉作用的结尾换成通用CTA后仍判preserved。
+
+continuityChecks按合同每条关系分别审desktop和mobile，引用该视口所有关联状态。检查同一主体的形态/部件/材质身份是否连续，而非“同样有一个3D物体”。合同continuity为空时返回空数组，不擅自要求不需要的连续叙事。任一核心丢失须reject/replace-direction，不能local-finish；纯证据缺口用evidence-needed/recapture。所有画面依据只能引用输入中的实际帧标识。

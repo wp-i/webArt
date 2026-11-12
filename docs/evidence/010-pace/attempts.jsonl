@@ -1,0 +1,5 @@
+{"started":"2026-10-12T06:35:47.410Z","finished":"2026-10-12T06:35:52.219Z","result":"passed-observable-checks","mode":"gate","errors":0}
+{"started":"2026-10-12T06:39:24.215Z","finished":"2026-10-12T06:39:39.750Z","result":"passed-observable-checks","mode":"gate","errors":0}
+{"started":"2026-10-12T06:40:47.514Z","finished":"2026-10-12T06:41:39.751Z","result":"passed-observable-checks","mode":"full","errors":0}
+{"started":"2026-10-12T06:49:05.167Z","finished":"2026-10-12T06:49:20.075Z","result":"failed","failure":"Nested control clipping: [{\"label\":\"Read a little, Sunday\",\"container\":\".cells\",\"width\":33,\"available\":222},{\"label\":\"Move outside, Sunday\",\"container\":\".cells\",\"width\":33,\"available\":222},{\"label\":\"Take a pause, Sunday\",\"container\":\".cells\",\"width\":33,\"available\":222}]","mode":"full","errors":0}
+{"started":"2026-10-12T06:53:56.926Z","finished":"2026-10-12T06:54:49.089Z","result":"passed-observable-checks","mode":"full","errors":0}

@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Actual source input observation; no candidate, assets or admission",
+  "url": "https://60.belangersalach.ca/",
+  "started": "2026-10-30T05:37:44.585Z",
+  "frames": [
+    {
+      "label": "desktop-opening",
+      "at": "2026-10-30T05:37:56.391Z",
+      "state": {
+        "url": "https://60.belangersalach.ca/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 900,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "Back to home\nSite by Studio123\n\nFor six decades, our firm and its four generations of Partner Architects have been\nsigning off on some of Northern Ontario’s most iconic landmarks. Journey with us\nas we revisit 36 signature buildings in our hometown, formed through an ongoing\npractice of design excellence and community collaboration.\n\n100%\nSTART THE JOURNEY",
+        "links": [
+          {
+            "text": "Back to home",
+            "href": "https://60.belangersalach.ca/"
+          },
+          {
+            "text": "Studio123",
+            "href": "https://studio123.ca/"
+          },
+          {
+            "text": "",
+            "href": "https://www.awwwards.com/sites/belanger-salach-architecture"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-belanger-01/desktop-opening.jpg",
+        "sha256": "99664020731d4785eb7bb85862fa9d61c288bd85ef1e8ee320e49b3d5e121d45"
+      }
+    },
+    {
+      "label": "desktop-after-start",
+      "at": "2026-10-30T05:38:21.766Z",
+      "state": {
+        "url": "https://60.belangersalach.ca/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 900,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "Back to home\nSite by Studio123\n\nFor six decades, our firm and its four generations of Partner Architects have been\nsigning off on some of Northern Ontario’s most iconic landmarks. Journey with us\nas we revisit 36 signature buildings in our hometown, formed through an ongoing\npractice of design excellence and community collaboration.\n\n100%\nSTART THE JOURNEY",
+        "links": [
+          {
+            "text": "Back to home",
+            "href": "https://60.belangersalach.ca/"
+          },
+          {
+            "text": "Studio123",
+            "href": "https://studio123.ca/"
+          },
+          {
+            "text": "",
+            "href": "https://www.awwwards.com/sites/belanger-salach-architecture"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-belanger-01/desktop-after-start.jpg",
+        "sha256": "99664020731d4785eb7bb85862fa9d61c288bd85ef1e8ee320e49b3d5e121d45"
+      }
+    },
+    {
+      "label": "desktop-real-start",
+      "at": "2026-10-30T05:38:30.285Z",
+      "state": {
+        "url": "https://60.belangersalach.ca/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 900,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "Back to home\n1\n1\n9\n9\n6\n6\n4\n4\n#01\nHEALTH SCIENCES NORTH\nView Health Sciences North\n#02\nSUDBURY TEACHER'S COLLEGE\nView Sudbury Teacher's College\n#03\nST. MARY’S UKRAINIAN CHURCH\nView St. Mary’s Ukrainian Church\n#04\nTHORNELOE CHAPEL\nView Thorneloe Chapel\n#05\nCAMBRIAN COLLEGE\nView Cambrian College\n#06\nOUR LADY OF HOPE PARISH\nView Our Lady of Hope Parish\n#07\nST. ANDREW'S PLACE\nView St. Andrew's Place\n#08\nTOM DAVIES SQUARE\nView Tom Davies Square\n#09\nPETER PIPER INN\nView Peter Piper Inn\n#10\nTAXATION DATA CENTRE\nView Taxation Data Centre\n#11\nSCIENCE NORTH\nView Science North\n#12\nFIELDING MEMORIAL PARK\nView Fielding Memorial Park\n#13\nSHIRLEY AND JIM FIELDING NORTHEAST CANCER CENTRE\nView Shirley and Jim",
+        "links": [
+          {
+            "text": "Back to home",
+            "href": "https://60.belangersalach.ca/"
+          },
+          {
+            "text": "#01\nHEALTH SCIENCES NORTH",
+            "href": "https://60.belangersalach.ca/health-sciences-north"
+          },
+          {
+            "text": "View Health Sciences North",
+            "href": "https://60.belangersalach.ca/health-sciences-north"
+          },
+          {
+            "text": "#02\nSUDBURY TEACHER'S COLLEGE",
+            "href": "https://60.belangersalach.ca/sudbury-teachers-college"
+          },
+          {
+            "text": "View Sudbury Teacher's College",
+            "href": "https://60.belangersalach.ca/sudbury-teachers-college"
+          },
+          {
+            "text": "#03\nST. MARY’S UKRAINIAN CHURCH",
+            "href": "https://60.belangersalach.ca/st-marys-ukrainian-church"
+          },
+          {
+            "text": "View St. Mary’s Ukrainian Church",
+            "href": "https://60.belangersalach.ca/st-marys-ukrainian-church"
+          },
+          {
+            "text": "#04\nTHORNELOE CHAPEL",
+            "href": "https://60.belangersalach.ca/thorneloe-chapel"
+          },
+          {
+            "text": "View Thorneloe Chapel",
+            "href": "https://60.belangersalach.ca/thorneloe-chapel"
+          },
+          {
+            "text": "#05\nCAMBRIAN COLLEGE",
+            "href": "https://60.belangersalach.ca/cambrian-college"
+          },
+          {
+            "text": "View Cambrian College",
+            "href": "https://60.belangersalach.ca/cambrian-college"
+          },
+          {
+            "text": "#06\nOUR LADY OF HOPE PARISH",
+            "href": "https://60.belangersalach.ca/our-lady-of-hope-parish"
+          },
+          {
+            "text": "View Our Lady of Hope Parish",
+            "href": "https://60.belangersalach.ca/our-lady-of-hope-parish"
+          },
+          {
+            "text": "#07\nST. ANDREW'S PLACE",
+            "href": "https://60.belangersalach.ca/st-andrews-place"
+          },
+          {
+            "text": "View St. Andrew's Place",
+            "href": "https://60.belangersalach.ca/st-andrews-place"
+          },
+          {
+            "text": "#08\nTOM DAVIES SQUARE",
+            "href": "https://60.belangersalach.ca/tom-davies-square"
+          },
+          {
+            "text": "View Tom Davies Square",
+            "href": "https://60.belangersalach.ca/tom-davies-square"
+          },
+          {
+            "text": "#09\nPETER PIPER INN",
+            "href": "https://60.belangersalach.ca/peter-piper-inn"
+          },
+          {
+            "text": "View Peter Piper Inn",
+            "href": "https://60.belangersalach.ca/peter-piper-inn"
+          },
+          {
+            "text": "#10\nTAXATION DATA CENTRE",
+            "href": "https://60.belangersalach.ca/taxation-data-centre"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-belanger-01/desktop-real-start.jpg",
+        "sha256": "b58ec79ae7d75df901778d96c07e332bbb1a46de3693130d81c81304c1f86b22"
+      }
+    },
+    {
+      "label": "desktop-forward-1",
+      "at": "2026-10-30T05:38:51.693Z",
+      "state": {
+        "url": "https://60.belangersalach.ca/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 900,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "Back to home\n1\n1\n9\n9\n6\n6\n4\n5\n6\n#01\nHEALTH SCIENCES NORTH\nView Health Sciences North\n#02\nSUDBURY TEACHER'S COLLEGE\nView Sudbury Teacher's College\n#03\nST. MARY’S UKRAINIAN CHURCH\nView St. Mary’s Ukrainian Church\n#04\nTHORNELOE CHAPEL\nView Thorneloe Chapel\n#05\nCAMBRIAN COLLEGE\nView Cambrian College\n#06\nOUR LADY OF HOPE PARISH\nView Our Lady of Hope Parish\n#07\nST. ANDREW'S PLACE\nView St. Andrew's Place\n#08\nTOM DAVIES SQUARE\nView Tom Davies Square\n#09\nPETER PIPER INN\nView Peter Piper Inn\n#10\nTAXATION DATA CENTRE\nView Taxation Data Centre\n#11\nSCIENCE NORTH\nView Science North\n#12\nFIELDING MEMORIAL PARK\nView Fielding Memorial Park\n#13\nSHIRLEY AND JIM FIELDING NORTHEAST CANCER CENTRE\nView Shirley and J",
+        "links": [
+          {
+            "text": "Back to home",
+            "href": "https://60.belangersalach.ca/"
+          },
+          {
+            "text": "#01\nHEALTH SCIENCES NORTH",
+            "href": "https://60.belangersalach.ca/health-sciences-north"
+          },
+          {
+            "text": "View Health Sciences North",
+            "href": "https://60.belangersalach.ca/health-sciences-north"
+          },
+          {
+            "text": "#02\nSUDBURY TEACHER'S COLLEGE",
+            "href": "https://60.belangersalach.ca/sudbury-teachers-college"
+          },
+          {
+            "text": "View Sudbury Teacher's College",
+            "href": "https://60.belangersalach.ca/sudbury-teachers-college"
+          },
+          {
+            "text": "#03\nST. MARY’S UKRAINIAN CHURCH",
+            "href": "https://60.belangersalach.ca/st-marys-ukrainian-church"
+          },
+          {
+            "text": "View St. Mary’s Ukrainian Church",
+            "href": "https://60.belangersalach.ca/st-marys-ukrainian-church"
+          },
+          {
+            "text": "#04\nTHORNELOE CHAPEL",
+            "href": "https://60.belangersalach.ca/thorneloe-chapel"
+          },
+          {
+            "text": "View Thorneloe Chapel",
+            "href": "https://60.belangersalach.ca/thorneloe-chapel"
+          },
+          {
+            "text": "#05\nCAMBRIAN COLLEGE",
+            "href": "https://60.belangersalach.ca/cambrian-college"
+          },
+          {
+            "text": "View Cambrian College",
+            "href": "https://60.belangersalach.ca/cambrian-college"
+          },
+          {
+            "text": "#06\nOUR LADY OF HOPE PARISH",
+            "href": "https://60.belangersalach.ca/our-lady-of-hope-parish"
+          },
+          {
+            "text": "View Our Lady of Hope Parish",
+            "href": "https://60.belangersalach.ca/our-lady-of-hope-parish"
+          },
+          {
+            "text": "#07\nST. ANDREW'S PLACE",
+            "href": "https://60.belangersalach.ca/st-andrews-place"
+          },
+          {
+            "text": "View St. Andrew's Place",
+            "href": "https://60.belangersalach.ca/st-andrews-place"
+          },
+          {
+            "text": "#08\nTOM DAVIES SQUARE",
+            "href": "https://60.belangersalach.ca/tom-davies-square"
+          },
+          {
+            "text": "View Tom Davies Square",
+            "href": "https://60.belangersalach.ca/tom-davies-square"
+          },
+          {
+            "text": "#09\nPETER PIPER INN",
+            "href": "https://60.belangersalach.ca/peter-piper-inn"
+          },
+          {
+            "text": "View Peter Piper Inn",
+            "href": "https://60.belangersalach.ca/peter-piper-inn"
+          },
+          {
+            "text": "#10\nTAXATION DATA CENTRE",
+            "href": "https://60.belangersalach.ca/taxation-data-centre"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-belanger-01/desktop-forward-1.jpg",
+        "sha256": "cb4ef4613c564f8d615c08ff584516d1d9f0bc548e187c2286bf4bc0194caccf"
+      }
+    },
+    {
+      "label": "desktop-forward-2",
+      "at": "2026-10-30T05:38:53.196Z",
+      "state": {
+        "url": "https://60.belangersalach.ca/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 900,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "Back to home\n1\n1\n9\n9\n6\n6\n6\n7\n8\n#01\nHEALTH SCIENCES NORTH\nView Health Sciences North\n#02\nSUDBURY TEACHER'S COLLEGE\nView Sudbury Teacher's College\n#03\nST. MARY’S UKRAINIAN CHURCH\nView St. Mary’s Ukrainian Church\n#04\nTHORNELOE CHAPEL\nView Thorneloe Chapel\n#05\nCAMBRIAN COLLEGE\nView Cambrian College\n#06\nOUR LADY OF HOPE PARISH\nView Our Lady of Hope Parish\n#07\nST. ANDREW'S PLACE\nView St. Andrew's Place\n#08\nTOM DAVIES SQUARE\nView Tom Davies Square\n#09\nPETER PIPER INN\nView Peter Piper Inn\n#10\nTAXATION DATA CENTRE\nView Taxation Data Centre\n#11\nSCIENCE NORTH\nView Science North\n#12\nFIELDING MEMORIAL PARK\nView Fielding Memorial Park\n#13\nSHIRLEY AND JIM FIELDING NORTHEAST CANCER CENTRE\nView Shirley and J",
+        "links": [
+          {
+            "text": "Back to home",
+            "href": "https://60.belangersalach.ca/"
+          },
+          {
+            "text": "#01\nHEALTH SCIENCES NORTH",
+            "href": "https://60.belangersalach.ca/health-sciences-north"
+          },
+          {
+            "text": "View Health Sciences North",
+            "href": "https://60.belangersalach.ca/health-sciences-north"
+          },
+          {
+            "text": "#02\nSUDBURY TEACHER'S COLLEGE",
+            "href": "https://60.belangersalach.ca/sudbury-teachers-college"
+          },
+          {
+            "text": "View Sudbury Teacher's College",
+            "href": "https://60.belangersalach.ca/sudbury-teachers-college"
+          },
+          {
+            "text": "#03\nST. MARY’S UKRAINIAN CHURCH",
+            "href": "https://60.belangersalach.ca/st-marys-ukrainian-church"
+          },
+          {
+            "text": "View St. Mary’s Ukrainian Church",
+            "href": "https://60.belangersalach.ca/st-marys-ukrainian-church"
+          },
+          {
+            "text": "#04\nTHORNELOE CHAPEL",
+            "href": "https://60.belangersalach.ca/thorneloe-chapel"
+          },
+          {
+            "text": "View Thorneloe Chapel",
+            "href": "https://60.belangersalach.ca/thorneloe-chapel"
+          },
+          {
+            "text": "#05\nCAMBRIAN COLLEGE",
+            "href": "https://60.belangersalach.ca/cambrian-college"
+          },
+          {
+            "text": "View Cambrian College",
+            "href": "https://60.belangersalach.ca/cambrian-college"
+          },
+          {
+            "text": "#06\nOUR LADY OF HOPE PARISH",
+            "href": "https://60.belangersalach.ca/our-lady-of-hope-parish"
+          },
+          {
+            "text": "View Our Lady of Hope Parish",
+            "href": "https://60.belangersalach.ca/our-lady-of-hope-parish"
+          },
+          {
+            "text": "#07\nST. ANDREW'S PLACE",
+            "href": "https://60.belangersalach.ca/st-andrews-place"
+          },
+          {
+            "text": "View St. Andrew's Place",
+            "href": "https://60.belangersalach.ca/st-andrews-place"
+          },
+          {
+            "text": "#08\nTOM DAVIES SQUARE",
+            "href": "https://60.belangersalach.ca/tom-davies-square"
+          },
+          {
+            "text": "View Tom Davies Square",
+            "href": "https://60.belangersalach.ca/tom-davies-square"
+          },
+          {
+            "text": "#09\nPETER PIPER INN",
+            "href": "https://60.belangersalach.ca/peter-piper-inn"
+          },
+          {
+            "text": "View Peter Piper Inn",
+            "href": "https://60.belangersalach.ca/peter-piper-inn"
+          },
+          {
+            "text": "#10\nTAXATION DATA CENTRE",
+            "href": "https://60.belangersalach.ca/taxation-data-centre"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-belanger-01/desktop-forward-2.jpg",
+        "sha256": "471d57c9ee2c70cab001b2fba5d52c900046e66935094aad5ade0b8fe4be976e"
+      }
+    },
+    {
+      "label": "mobile-opening",
+      "at": "2026-10-30T05:39:19.982Z",
+      "state": {
+        "url": "https://60.belangersalach.ca/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "Back to home\nSite by Studio123\n\nFor six decades, our firm and its four generations of\nPartner Architects have been signing off on some of\nNorthern Ontario’s most iconic landmarks. Journey\nwith us as we revisit 36 signature buildings in our\nhometown, formed through an ongoing practice of\ndesign excellence and community collaboration.\n\n100%\nSTART THE JOURNEY",
+        "links": [
+          {
+            "text": "Back to home",
+            "href": "https://60.belangersalach.ca/"
+          },
+          {
+            "text": "Studio123",
+            "href": "https://studio123.ca/"
+          },
+          {
+            "text": "",
+            "href": "https://www.awwwards.com/sites/belanger-salach-architecture"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-belanger-01/mobile-opening.jpg",
+        "sha256": "276c3e5336f718845c672bf45b58d01f0d4dbc92130ab16db9184bfa92690740"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "op": "click",
+      "x": 1250,
+      "y": 800,
+      "label": "desktop-after-start",
+      "type": "native-mouse-click",
+      "at": "2026-10-30T05:38:20.453Z",
+      "newTargets": []
+    },
+    {
+      "op": "click",
+      "x": 720,
+      "y": 565,
+      "label": "desktop-real-start",
+      "type": "native-mouse-click",
+      "at": "2026-10-30T05:38:28.971Z",
+      "newTargets": []
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1000,
+      "at": "2026-10-30T05:38:50.592Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1000,
+      "at": "2026-10-30T05:38:52.087Z"
+    }
+  ],
+  "errors": [],
+  "result": "observed-not-admitted",
+  "finished": "2026-10-30T05:39:37.714Z"
+}

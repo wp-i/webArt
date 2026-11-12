@@ -1,0 +1,286 @@
+{
+  "result": "captured-not-visually-approved",
+  "checks": [
+    {
+      "mode": "context-unavailable",
+      "width": 1440,
+      "height": 900,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-1440-opening.jpg",
+            "sha256": "2020cbd523b558636e20c659fe32b94267cbc4bfde736ec05839ed31aeff2aa5"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-1440-transition.jpg",
+            "sha256": "270672816e4e0709eb5d263ecd7d001bb359ec78ec21d2d98ccb9a1be3e6e8f6"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-1440-middle.jpg",
+            "sha256": "8f5d6d6d3ff93c34234dd8aa9a3d98d9aba726d6c2e6b17a673d76bd3d51d588"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-1440-ending.jpg",
+            "sha256": "629c7fa7fa63d0eb86592ecbe06df13481b7b50c08df60dc068bcc2ea99e10b2"
+          }
+        }
+      ]
+    },
+    {
+      "mode": "context-unavailable",
+      "width": 390,
+      "height": 844,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-390-opening.jpg",
+            "sha256": "3f2e059a0075095208df2628f6cdf9900f25a003136f65e4b6426c66539b9214"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-390-transition.jpg",
+            "sha256": "0486f41403173b3f7e29383ebda8682208ff89ec35e01e496c0ccba3fe9ba19d"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-390-middle.jpg",
+            "sha256": "5cf299b3f821cc55ca1f777cf696807c7f30fc00e92b8dd4123043610b3b7c32"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-390-ending.jpg",
+            "sha256": "f13c435a21c2f672a450daff02e6ca90efbf05cbff9018e7684a211b11845eaf"
+          }
+        }
+      ]
+    },
+    {
+      "mode": "context-unavailable",
+      "width": 320,
+      "height": 844,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-320-opening.jpg",
+            "sha256": "db803c8a2f179f1af9a2e483e76dd7a1a6ab7e186975df08ed9e084f7d3d448a"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-320-transition.jpg",
+            "sha256": "ed60eeee9fb914cf970c47e1cea8cf7fead8d7bfe590624ed8ceace46882d5b5"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-320-middle.jpg",
+            "sha256": "ee313437ce06dfab283263ea6b5d26dae6530e94480109ec23ded67441ce15d8"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-unavailable-320-ending.jpg",
+            "sha256": "50376f0b7f78c0fd6e3e7f6c8d115c26c77c881e1210ea15483c9576cae74c72"
+          }
+        }
+      ]
+    },
+    {
+      "mode": "context-lost",
+      "width": 1440,
+      "height": 900,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-1440-opening.jpg",
+            "sha256": "2020cbd523b558636e20c659fe32b94267cbc4bfde736ec05839ed31aeff2aa5"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-1440-transition.jpg",
+            "sha256": "270672816e4e0709eb5d263ecd7d001bb359ec78ec21d2d98ccb9a1be3e6e8f6"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-1440-middle.jpg",
+            "sha256": "8f5d6d6d3ff93c34234dd8aa9a3d98d9aba726d6c2e6b17a673d76bd3d51d588"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-1440-ending.jpg",
+            "sha256": "629c7fa7fa63d0eb86592ecbe06df13481b7b50c08df60dc068bcc2ea99e10b2"
+          }
+        }
+      ]
+    },
+    {
+      "mode": "context-lost",
+      "width": 390,
+      "height": 844,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-390-opening.jpg",
+            "sha256": "3f2e059a0075095208df2628f6cdf9900f25a003136f65e4b6426c66539b9214"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-390-transition.jpg",
+            "sha256": "0486f41403173b3f7e29383ebda8682208ff89ec35e01e496c0ccba3fe9ba19d"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-390-middle.jpg",
+            "sha256": "5cf299b3f821cc55ca1f777cf696807c7f30fc00e92b8dd4123043610b3b7c32"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-390-ending.jpg",
+            "sha256": "f13c435a21c2f672a450daff02e6ca90efbf05cbff9018e7684a211b11845eaf"
+          }
+        }
+      ]
+    },
+    {
+      "mode": "context-lost",
+      "width": 320,
+      "height": 844,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-320-opening.jpg",
+            "sha256": "db803c8a2f179f1af9a2e483e76dd7a1a6ab7e186975df08ed9e084f7d3d448a"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-320-transition.jpg",
+            "sha256": "ed60eeee9fb914cf970c47e1cea8cf7fead8d7bfe590624ed8ceace46882d5b5"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-320-middle.jpg",
+            "sha256": "ee313437ce06dfab283263ea6b5d26dae6530e94480109ec23ded67441ce15d8"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/static-pipeline/rendering-fixture/context-lost-320-ending.jpg",
+            "sha256": "50376f0b7f78c0fd6e3e7f6c8d115c26c77c881e1210ea15483c9576cae74c72"
+          }
+        }
+      ]
+    }
+  ],
+  "started": "2026-10-15T01:52:40.121Z",
+  "finished": "2026-10-15T01:52:49.170Z",
+  "sourceSha256": "1389f6916ffdbfbd414b615d18b94bd985473e8f2d2361f086b0be4bb14d5c8a",
+  "engineeringFixtureOnly": true,
+  "visualAdmission": false
+}

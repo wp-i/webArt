@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-15T16:24:35.393Z",
+  "url": "http://127.0.0.1:4371/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/repeated-subject/desktop-opening/contact-sheet.jpg",
+          "sha256": "b75185e8599cd1a873faf54501e7eff41471e2ddfdf0a645f15c96b269e75db6"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 7,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"opening\"]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.56
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 900,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/repeated-subject/desktop-transition/contact-sheet.jpg",
+          "sha256": "e01ec807f3fbc2d2829ecd5afeac8b932b68a2315dab1a7f61c89fff95aaea93"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 10,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"transition\"]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.56
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1800,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/repeated-subject/desktop-middle/contact-sheet.jpg",
+          "sha256": "8ec072c36f5bf4b1682f9956f1a976eab6d9ba2822a27490c83bbe22391f3ea5"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 14,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"middle\"]",
+            "visibleInstances": 2,
+            "largestViewportArea": 0.56
+          }
+        ]
+      },
+      "visualFailures": [
+        "核心主体缺失、缩成装饰或被重复：[data-subject=\"middle\"]"
+      ]
+    }
+  ],
+  "motion": [],
+  "errors": [],
+  "result": "failed",
+  "visualContractSha256": "838da622781a3864566812f4466102bd01714fe42eef2368306976e2c94f3f62",
+  "failure": "desktop/middle: 核心主体缺失、缩成装饰或被重复：[data-subject=\"middle\"]",
+  "finished": "2026-10-15T16:24:37.158Z"
+}

@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-20T06:58:02.159Z",
+  "url": "http://127.0.0.1:4914/",
+  "sourceSha256": "1a356ad702614f10307a222f62df2a74e4112f5d781ebd95daf84b9659e3a044",
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 4545,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-3f7b83d29a186625/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "dd72c44f4f835ed43f099b2759739465002650a1609ca48b0d98fc1d0c4f0fb7"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 191,
+        "subjects": [
+          {
+            "selector": "#scene-opening .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1312,
+      "layout": {
+        "y": 1312,
+        "documentHeight": 4545,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-006-3f7b83d29a186625/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "1e2e31d5ea477673c987438fc8297f9f09bc831cd11b4166b9530405611f8214"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 101,
+        "subjects": [
+          {
+            "selector": "#scene-transition .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    }
+  ],
+  "motion": [],
+  "errors": [],
+  "result": "failed",
+  "visualContractSha256": "8fa968bdea925fa91439bd85516c4c437d94d21f400a1c32530d2c3b3cb6a12b",
+  "failure": "Native scroll did not reach 2745",
+  "finished": "2026-10-20T06:58:38.665Z"
+}

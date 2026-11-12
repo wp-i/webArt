@@ -2,6 +2,7 @@
 param(
   [string]$ManifestPath = "webart.package.json",
   [string]$StagePath = "",
+  [string]$CandidatePath = "",
   [switch]$Trial
 )
 
@@ -10,8 +11,10 @@ $ErrorActionPreference = "Stop"
 $taskWorkspacePath = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot ".."))
 $collectionScript = Join-Path $PSScriptRoot "collection.mjs"
 if ($Trial -and -not $StagePath) { throw "Private trial packaging requires a system-temp StagePath." }
-$filesCommand = if ($Trial) { "trial-files-manifest" } else { "files-manifest" }
-$validatedJson = & node $collectionScript $filesCommand $ManifestPath
+if ($CandidatePath -and (-not $Trial -or -not $StagePath)) { throw "Candidate packaging requires private Trial and system-temp StagePath." }
+$filesCommand = if ($CandidatePath) { "candidate-files-manifest" } elseif ($Trial) { "trial-files-manifest" } else { "files-manifest" }
+$validationPath = if ($CandidatePath) { $CandidatePath } else { $ManifestPath }
+$validatedJson = & node $collectionScript $filesCommand $validationPath
 if ($LASTEXITCODE -ne 0) { throw "Template approval/source gate failed; no archive was written." }
 $validated = ($validatedJson -join "`n") | ConvertFrom-Json
 $packageConfig = $validated.config
@@ -42,8 +45,8 @@ try {
   finally { $archive.Dispose() }
 
   # Verify the exact approved bytes and a clean build while the ZIP is still private.
-  & (Join-Path $PSScriptRoot "verify-package.ps1") -ManifestPath $ManifestPath -ArchivePath $temporaryArchivePath -Trial:$Trial
-  $null = & node $collectionScript $filesCommand $ManifestPath
+  & (Join-Path $PSScriptRoot "verify-package.ps1") -ManifestPath $ManifestPath -ArchivePath $temporaryArchivePath -Trial:$Trial -CandidatePath $CandidatePath
+  $null = & node $collectionScript $filesCommand $validationPath
   if ($LASTEXITCODE -ne 0) { throw "Approved source changed during packaging." }
   $outputDirectory = Split-Path -Parent $outputPath
   if (-not (Test-Path -LiteralPath $outputDirectory -PathType Container)) { throw "Output directory does not exist: $outputDirectory" }

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "manrope",
+    "name": "Manrope",
+    "file": "manrope.woff2",
+    "source": "designs/008-sill/public/assets/manrope-latin-variable.woff2",
+    "license": "designs/008-sill/public/assets/manrope-OFL.txt",
+    "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+    "licenseSha256": "d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30"
+  },
+  {
+    "id": "instrument-serif",
+    "name": "Instrument Serif",
+    "file": "instrument-serif.woff2",
+    "source": "designs/006-house-of-ivory/public/assets/instrument-serif-400.woff2",
+    "license": "designs/006-house-of-ivory/public/assets/instrument-serif-OFL.txt",
+    "sha256": "5eb09b5ac0e28b67c2f041c8ba6d244604ca0c0980d65912ab2d47fed84ddc31",
+    "licenseSha256": "b6106a757902d2d412e09d94dc4a226fe3da80485208a98003969f1b8b6b1d74"
+  },
+  {
+    "id": "inter",
+    "name": "Inter",
+    "file": "inter.woff2",
+    "source": "designs/006-house-of-ivory/public/assets/inter-400.woff2",
+    "license": "designs/006-house-of-ivory/public/assets/inter-OFL.txt",
+    "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+    "licenseSha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "id": "dela-gothic-one",
+    "name": "Dela Gothic One",
+    "file": "dela-gothic-one.woff2",
+    "source": "designs/006-house-of-ivory/public/assets/dela-gothic-one-latin.woff2",
+    "license": "designs/006-house-of-ivory/public/assets/dela-gothic-one-OFL.txt",
+    "sha256": "00ffa61fea9edb126e8e4fd3cf2b46e96ad158a0c1078b3cd22a3f6964993a88",
+    "licenseSha256": "c0014792d4f4abc0508c295b277f2b17ae44465c8dc88d12af9cea48279b5fda"
+  },
+  {
+    "id": "barlow-condensed",
+    "name": "Barlow Condensed",
+    "file": "barlow-condensed.woff2",
+    "source": "designs/009-near-and-far/public/assets/barlow-condensed-latin-800-normal.woff2",
+    "license": "designs/009-near-and-far/public/assets/Barlow-Condensed-OFL.txt",
+    "sha256": "2515494e8cc2ca07c86ea78766cfa104b796aa6ed5d66821c01d51dbb0b52bce",
+    "licenseSha256": "046ee27d8bddc6b6ee08eee53c96dbf3ec1f6df561644e018507dd8ffcb11d31"
+  },
+  {
+    "id": "space-grotesk",
+    "name": "Space Grotesk",
+    "file": "space-grotesk.woff2",
+    "source": "designs/010-pace/public/assets/space-grotesk.woff2",
+    "license": "designs/010-pace/public/assets/SPACE-GROTESK-OFL.txt",
+    "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d",
+    "licenseSha256": "18a4de52385f6b988782639d5d0cc1326e5a8c2de9a7f01d7b20d9aedcc60943"
+  },
+  {
+    "id": "jetbrains-mono",
+    "name": "JetBrains Mono",
+    "file": "jetbrains-mono.woff2",
+    "source": "designs/010-pace/public/assets/jetbrains-mono.woff2",
+    "license": "designs/010-pace/public/assets/JETBRAINS-MONO-OFL.txt",
+    "sha256": "14425ba9c695763c1547f48a206b7aa60350a33ae23de09f0407877f3fcd89eb",
+    "licenseSha256": "403581b69dac5cff4079205e01c6b467e56af449ecbd7247693ddb1baafa005b"
+  },
+  {
+    "id": "bodoni-moda",
+    "name": "Bodoni Moda",
+    "file": "bodoni-moda.woff2",
+    "source": "assets/owned/editorial-portraits-v1/bodoni-moda.woff2",
+    "license": "assets/owned/editorial-portraits-v1/BODONI-OFL.txt",
+    "sha256": "1d17ef45976c8291c9576d96f5291cad32b0dd97b69dd4b83ec461013f5bd9d5",
+    "licenseSha256": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+    "origin": "https://github.com/google/fonts/tree/main/ofl/bodonimoda",
+    "verified": "2026-10-21",
+    "processing": "Lossless WOFF2 encoding from upstream variable TTF; font outlines, naming and OFL unchanged."
+  }
+]

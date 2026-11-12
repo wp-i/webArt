@@ -1,0 +1,106 @@
+{
+  "label": "nkora",
+  "url": "https://nkora.co.uk/",
+  "evidence": [
+    {
+      "state": "opening",
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-01/nkora-opening.jpg",
+      "sha256": "30e2d905c7e01afa8b86d3647d02a899808a35020458e17d28356bbb4b863c83"
+    },
+    {
+      "state": "middle",
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-01/nkora-middle.jpg",
+      "sha256": "b444c17545d6c28b4fb1d84148760d53b88b94536f99fb2dd97aedfd0f2afed2"
+    },
+    {
+      "state": "ending",
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-01/nkora-ending.jpg",
+      "sha256": "8fcff33b8918ac991da9537fa944695abef38f42f6cc9685a775a2e7998bfc86"
+    }
+  ],
+  "metadata": {
+    "url": "https://nkora.co.uk/",
+    "height": 5409,
+    "text": "LOCATIONS\n\nABOUT\n\nJOBS\n\nGIFT CARDS\n\nCONSIDERED CUPS\n\nWANDER IN\n\nA COLLECTIVE OF SPECIALITY COFFEE SHOPS WITH A FOCUS ON QUALITY AND SIMPLICITY. WE SERVE CONSIDERED CUPS THAT INVITE PAUSE AND PERSPECTIVE.\n\nABOUT US\n\nLOCATIONS\n\nFARRINGDON ST\n\nMAYFAIR\n\nLONDON WALL\n\nSHOREDITCH\n\nMARYLEBONE\n\nCAMBRIDGE HEATH\n\nST ALBANS\n\nHIGH BARNET\n\nVISIT US\n\nWE WORK CLOSELY WITH PLOT ROASTING AND SHOWCASE SEVERAL OTHER ROASTERS THAT SHARE OUR VALUES ON ROTATION.\n\nHUMAN\nINDEPENDENT\nCRAFTED\n\nWE'RE LOOKING FOR INDIVIDUALS WITH EXPERIENCE IN THE SPECIALITY COFFEE INDUSTRY WHO ARE LOOKING TO EXPAND ON THEIR SKILLS AND CHALLENGE THEMSELVES.\n\nSEE OPEN POSITIONS\n\nWANDER IN\n\nOR\n\nREACH OUT\n\nWHERE SHOULD WE WANDER?\n\nLocations\n\nAbout\n\nJobs\n\nContact\n\nInstagram\n\n© 2025 NKORA All Rights Reserved\n\n ",
+    "headings": [
+      {
+        "text": "CONSIDERED CUPS",
+        "parent": "framer-1yigtxc",
+        "tag": "DIV"
+      },
+      {
+        "text": "HUMAN",
+        "parent": "framer-p2gl3c",
+        "tag": "DIV"
+      },
+      {
+        "text": "INDEPENDENT",
+        "parent": "framer-mf9ms",
+        "tag": "DIV"
+      },
+      {
+        "text": "CRAFTED",
+        "parent": "framer-ed7bux",
+        "tag": "DIV"
+      }
+    ],
+    "scenes": [
+      {
+        "tag": "SECTION",
+        "id": "",
+        "class": "framer-slideshow framer-slideshow-axis-x",
+        "top": 1809,
+        "height": 675
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "class": "",
+        "top": 4176,
+        "height": 250
+      }
+    ]
+  },
+  "inventory": {
+    "images": 99,
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1425,
+          "height": 909,
+          "top": 0,
+          "right": 1425,
+          "bottom": 909,
+          "left": 0
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1080,
+        "paused": false
+      }
+    ],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [
+      {
+        "src": "https://framer.com/edit?framerSiteId=7ef53775dc1892060bae3abe7a72ce8b5b3182b8dd9ce423cc3304f4450ac871&source=nkora.co.uk&features=%7B%22editorBarDisableFrameAncestorsSecurity%22%3Afalse%2C%22onPageLocalizationSupport%22%3Atrue%2C%22onPageMoveTool%22%3Atrue%2C%22onPageRichTextBlockSelection%22%3Atrue%7D&loadStart=1792131190789",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      }
+    ],
+    "manualRenderReviewRequired": false
+  },
+  "result": "scouted-not-admitted"
+}

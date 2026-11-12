@@ -1,0 +1,521 @@
+{
+  "started": "2026-10-12T04:41:34.599Z",
+  "origin": "http://127.0.0.1:4209/",
+  "mode": "full",
+  "viewports": [
+    {
+      "name": "desktop",
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 2294,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Condensed",
+          "status": "loaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".series",
+          "visible": true
+        },
+        {
+          "selector": ".project-dunes",
+          "visible": true
+        },
+        {
+          "selector": ".studio",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "wide",
+      "viewport": [
+        2048,
+        912
+      ],
+      "height": 2661,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Condensed",
+          "status": "loaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".series",
+          "visible": true
+        },
+        {
+          "selector": ".project-dunes",
+          "visible": true
+        },
+        {
+          "selector": ".studio",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "tablet",
+      "viewport": [
+        768,
+        1024
+      ],
+      "height": 2140,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Condensed",
+          "status": "loaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".series",
+          "visible": true
+        },
+        {
+          "selector": ".project-dunes",
+          "visible": true
+        },
+        {
+          "selector": ".studio",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "height": 2328,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Condensed",
+          "status": "loaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".series",
+          "visible": true
+        },
+        {
+          "selector": ".project-dunes",
+          "visible": true
+        },
+        {
+          "selector": ".studio",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "name": "narrow",
+      "viewport": [
+        320,
+        844
+      ],
+      "height": 2222,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Condensed",
+          "status": "loaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".series",
+          "visible": true
+        },
+        {
+          "selector": ".project-dunes",
+          "visible": true
+        },
+        {
+          "selector": ".studio",
+          "visible": true
+        }
+      ]
+    }
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "y": 900
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "y": 495
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "y": 1394
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "y": 844
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "y": 464
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "y": 1484
+    }
+  ],
+  "transitions": [
+    {
+      "viewport": "desktop",
+      "boundary": ".hero",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".hero",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".hero",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".series",
+      "fraction": 0.25,
+      "y": 225
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".series",
+      "fraction": 0.5,
+      "y": 450
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".series",
+      "fraction": 0.75,
+      "y": 675
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".project-dunes",
+      "fraction": 0.25,
+      "y": 392
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".project-dunes",
+      "fraction": 0.5,
+      "y": 617
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".project-dunes",
+      "fraction": 0.75,
+      "y": 842
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".studio",
+      "fraction": 0.25,
+      "y": 1199
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".studio",
+      "fraction": 0.5,
+      "y": 1394
+    },
+    {
+      "viewport": "desktop",
+      "boundary": ".studio",
+      "fraction": 0.75,
+      "y": 1394
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".hero",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".hero",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".hero",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".series",
+      "fraction": 0.25,
+      "y": 211
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".series",
+      "fraction": 0.5,
+      "y": 422
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".series",
+      "fraction": 0.75,
+      "y": 633
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".project-dunes",
+      "fraction": 0.25,
+      "y": 797
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".project-dunes",
+      "fraction": 0.5,
+      "y": 1008
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".project-dunes",
+      "fraction": 0.75,
+      "y": 1219
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".studio",
+      "fraction": 0.25,
+      "y": 1157
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".studio",
+      "fraction": 0.5,
+      "y": 1368
+    },
+    {
+      "viewport": "mobile",
+      "boundary": ".studio",
+      "fraction": 0.75,
+      "y": 1484
+    }
+  ],
+  "arbitrary": [
+    {
+      "viewport": "desktop",
+      "fraction": 0.14,
+      "y": 195
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.37,
+      "y": 516
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.61,
+      "y": 850
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.84,
+      "y": 1171
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.14,
+      "y": 208
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.37,
+      "y": 549
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.61,
+      "y": 905
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.84,
+      "y": 1247
+    }
+  ],
+  "checks": {
+    "desktopWheel": true,
+    "mobileWheel": true,
+    "links": [
+      {
+        "href": "#series",
+        "valid": true
+      },
+      {
+        "href": "#top",
+        "valid": true
+      },
+      {
+        "href": "#series",
+        "valid": true
+      },
+      {
+        "href": "#studio",
+        "valid": true
+      },
+      {
+        "href": "#contact",
+        "valid": true
+      },
+      {
+        "href": "mailto:hello@nearandfar.example",
+        "valid": true
+      },
+      {
+        "href": "#top",
+        "valid": true
+      }
+    ],
+    "disclosures": 1,
+    "keyboard": true,
+    "reduced": true,
+    "noScript": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 2355,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Condensed",
+          "status": "loaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": ".hero",
+          "visible": true
+        },
+        {
+          "selector": ".series",
+          "visible": true
+        },
+        {
+          "selector": ".project-dunes",
+          "visible": true
+        },
+        {
+          "selector": ".studio",
+          "visible": true
+        }
+      ]
+    },
+    "touch": [
+      {
+        "type": "touch",
+        "trusted": true
+      },
+      {
+        "type": "touch",
+        "trusted": true
+      }
+    ],
+    "touchScroll": 508
+  },
+  "errors": [],
+  "result": "passed-observable-checks",
+  "finished": "2026-10-12T04:41:57.463Z"
+}

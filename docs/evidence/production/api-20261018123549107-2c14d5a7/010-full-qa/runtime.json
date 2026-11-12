@@ -1,0 +1,698 @@
+{
+  "started": "2026-10-19T03:52:07.749Z",
+  "origin": "http://127.0.0.1:3357/",
+  "mode": "full",
+  "viewports": [
+    {
+      "name": "desktop",
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 3600,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "wide",
+      "viewport": [
+        2048,
+        912
+      ],
+      "height": 3648,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "tablet",
+      "viewport": [
+        768,
+        1024
+      ],
+      "height": 4096,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "height": 3376,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "narrow",
+      "viewport": [
+        320,
+        844
+      ],
+      "height": 3376,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    }
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "y": 900
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "y": 495
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "y": 2700
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "y": 844
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "y": 464
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "y": 2532
+    }
+  ],
+  "responsive": [
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "state": "opening",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/desktop-responsive-opening.png",
+        "sha256": "14db11df58800a3afd3c6ac2f059e31f2d06eabfa681e5f4a370411001c71e30"
+      }
+    },
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "state": "transition",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/desktop-responsive-transition.png",
+        "sha256": "973f1d09fd7b14a65dffd0f8a3881c534174c326a8c1038398e854b2fef9632a"
+      }
+    },
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "state": "middle",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/desktop-responsive-middle.png",
+        "sha256": "856d60cf4e9fbb7b2d5c98fa69fe65eb57f99667382f2b5b5ba82af4dff30ccb"
+      }
+    },
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "state": "ending",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/desktop-responsive-ending.png",
+        "sha256": "87df1cbb2694be4ba6959394a1c3825b383a01ecaf74afaaa56866530d6fcc0e"
+      }
+    },
+    {
+      "viewport": "wide",
+      "width": 2048,
+      "height": 912,
+      "state": "opening",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/wide-responsive-opening.png",
+        "sha256": "c3e934b50bd3b3b5fa07f569fe7d78fedba72bd97637ded4de3235bcd7b8e6fe"
+      }
+    },
+    {
+      "viewport": "wide",
+      "width": 2048,
+      "height": 912,
+      "state": "transition",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/wide-responsive-transition.png",
+        "sha256": "1f8e1a25f2001462f48b825a39b26d69bc74d129b93719ab4eb13d83e21de8aa"
+      }
+    },
+    {
+      "viewport": "wide",
+      "width": 2048,
+      "height": 912,
+      "state": "middle",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/wide-responsive-middle.png",
+        "sha256": "30b51509f5cd8eb676c27c1beaef3392adb4a62fa56cf61330ae2e7671423ba7"
+      }
+    },
+    {
+      "viewport": "wide",
+      "width": 2048,
+      "height": 912,
+      "state": "ending",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/wide-responsive-ending.png",
+        "sha256": "5a4a60ff4627ee63ba835e43e3a6a88389f39e36bdda5b11451019785f2ee26e"
+      }
+    },
+    {
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "state": "opening",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/tablet-responsive-opening.png",
+        "sha256": "90357be8c735ab9e85224a615dd118e4a13f0967bf8282cc088d86693e63c291"
+      }
+    },
+    {
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "state": "transition",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/tablet-responsive-transition.png",
+        "sha256": "b3522dd47c78fa49b5e36f714bffb3a030793d29fa6b81cd9c9c99e8554709d7"
+      }
+    },
+    {
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "state": "middle",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/tablet-responsive-middle.png",
+        "sha256": "fc75c889ebbd32a523f46b3b759d17c34f714aced96a2ffdcb045af39e068527"
+      }
+    },
+    {
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "state": "ending",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/tablet-responsive-ending.png",
+        "sha256": "339f32238c6429cc250d99a8383ba601c7ba6dbc8433d5f7fe3424dcc9d16ce2"
+      }
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "state": "opening",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/mobile-responsive-opening.png",
+        "sha256": "612a8307cc0f4a6e1109152b0ebbaff22e17fb308f9c2566838be15435f6e5d8"
+      }
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "state": "transition",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/mobile-responsive-transition.png",
+        "sha256": "6b72e5d817e3b85f90d8fc3967bf23ff58fbac861bca813af90fd8205d08b4e0"
+      }
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "state": "middle",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/mobile-responsive-middle.png",
+        "sha256": "548ca8dbc674a8e4e02a0545525f4a600233de19629af8147529119ea454970d"
+      }
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "state": "ending",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/mobile-responsive-ending.png",
+        "sha256": "249803eb10c954312ef11b4d3d78ff18a991156ab5f8557fcc3b2280c9b7ff86"
+      }
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "height": 844,
+      "state": "opening",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/narrow-responsive-opening.png",
+        "sha256": "baa84abcfcfa12413267366cdaf6ea7d288657e420c67e93a460f3e0a696e7f7"
+      }
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "height": 844,
+      "state": "transition",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/narrow-responsive-transition.png",
+        "sha256": "246cacfc0e9a29304abbe109bf93f2b5937370d55295d745a9d29d94ca8dae43"
+      }
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "height": 844,
+      "state": "middle",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/narrow-responsive-middle.png",
+        "sha256": "c619c1616da978395058ab0bf0d06c970ee68f41f6ab458fddf500e99590718b"
+      }
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "height": 844,
+      "state": "ending",
+      "evidence": {
+        "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/narrow-responsive-ending.png",
+        "sha256": "0792e9561aa37095f3897d6dfb435a838481d70d8081417a27b7befc4b1dc96d"
+      }
+    }
+  ],
+  "transitions": [
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-opening",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-opening",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-opening",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-transition",
+      "fraction": 0.25,
+      "y": 225
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-transition",
+      "fraction": 0.5,
+      "y": 450
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-transition",
+      "fraction": 0.75,
+      "y": 675
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-middle",
+      "fraction": 0.25,
+      "y": 1125
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-middle",
+      "fraction": 0.5,
+      "y": 1350
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-middle",
+      "fraction": 0.75,
+      "y": 1575
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-ending",
+      "fraction": 0.25,
+      "y": 2025
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-ending",
+      "fraction": 0.5,
+      "y": 2250
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-ending",
+      "fraction": 0.75,
+      "y": 2475
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-opening",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-opening",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-opening",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-transition",
+      "fraction": 0.25,
+      "y": 211
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-transition",
+      "fraction": 0.5,
+      "y": 422
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-transition",
+      "fraction": 0.75,
+      "y": 633
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-middle",
+      "fraction": 0.25,
+      "y": 1055
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-middle",
+      "fraction": 0.5,
+      "y": 1266
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-middle",
+      "fraction": 0.75,
+      "y": 1477
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-ending",
+      "fraction": 0.25,
+      "y": 1899
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-ending",
+      "fraction": 0.5,
+      "y": 2110
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-ending",
+      "fraction": 0.75,
+      "y": 2321
+    }
+  ],
+  "arbitrary": [
+    {
+      "viewport": "desktop",
+      "fraction": 0.14,
+      "y": 378
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.37,
+      "y": 999
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.61,
+      "y": 1647
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.84,
+      "y": 2268
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.14,
+      "y": 354
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.37,
+      "y": 937
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.61,
+      "y": 1545
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.84,
+      "y": 2127
+    }
+  ],
+  "checks": {
+    "desktopWheel": true,
+    "mobileWheel": true,
+    "links": [
+      {
+        "href": "#scene-transition",
+        "valid": true
+      },
+      {
+        "href": "#scene-opening",
+        "valid": true
+      }
+    ],
+    "disclosures": 0,
+    "reduced": true,
+    "noScript": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 3600,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ]
+    },
+    "touchScroll": 507
+  },
+  "errors": [],
+  "result": "passed-observable-checks",
+  "finished": "2026-10-19T03:52:37.059Z",
+  "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779"
+}

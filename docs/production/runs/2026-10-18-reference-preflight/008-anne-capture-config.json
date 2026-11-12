@@ -1,0 +1,11 @@
+{
+  "url": "https://www.anneboysen.dk/",
+  "ready": "document.fonts.status==='loaded' && document.querySelectorAll('img').length>0",
+  "readyTimeoutMs": 30000,
+  "enterMs": 2000,
+  "settleMs": 550,
+  "deadlineMs": 240000,
+  "states": {"opening": 0, "transition": 0.25, "middle": 0.6, "ending": 1},
+  "imageRequiredStates": ["opening", "transition", "middle"],
+  "output": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01"
+}

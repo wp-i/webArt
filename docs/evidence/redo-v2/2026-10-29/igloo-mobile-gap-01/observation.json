@@ -1,0 +1,942 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Bounded actual mobile source gap observation only; no candidate, assets or admission",
+  "url": "https://www.igloo.inc/",
+  "started": "2026-10-29T03:02:27.325Z",
+  "deadlineMs": 180000,
+  "frameLimit": 42,
+  "frames": [
+    {
+      "label": "normal-opening",
+      "at": "2026-10-29T03:02:36.790Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening.jpg",
+        "sha256": "87d8945b1303219f7f8874e71d4aafb3962677ea9b5f6061fa6be4ba2b14e4ac"
+      }
+    },
+    {
+      "label": "normal-opening-horizontal-held-forward",
+      "at": "2026-10-29T03:02:44.153Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-forward.jpg",
+        "sha256": "adeb442b8b959a127e689dd7fccedb7937f400edee3099b20a2753d41f186a3e"
+      }
+    },
+    {
+      "label": "normal-opening-horizontal-held-reverse",
+      "at": "2026-10-29T03:02:45.041Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-reverse.jpg",
+        "sha256": "9c98dc57700dc13ae77bdbefd3325ae40269796d6a88aedd2d48a2799604e3e3"
+      }
+    },
+    {
+      "label": "normal-opening-horizontal-released",
+      "at": "2026-10-29T03:02:46.202Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-released.jpg",
+        "sha256": "948e0b6efbe9f478fd8f0f111849bbfe7cc2149a4ec4bd7c1632cf6cd1acab0d"
+      }
+    },
+    {
+      "label": "reduced-opening",
+      "at": "2026-10-29T03:02:55.622Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening.jpg",
+        "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f"
+      }
+    },
+    {
+      "label": "reduced-opening-horizontal-held-forward",
+      "at": "2026-10-29T03:02:56.549Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-held-forward.jpg",
+        "sha256": "2bf04a349116db2fda00e6b01c76a6db9ec94997c5f2243123d74d786cd4308a"
+      }
+    },
+    {
+      "label": "reduced-opening-horizontal-held-reverse",
+      "at": "2026-10-29T03:02:57.434Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-held-reverse.jpg",
+        "sha256": "869d08b09abd812aecc9122e2eb0469a6a726ac5108affda3e5f8fa659e442e4"
+      }
+    },
+    {
+      "label": "reduced-opening-horizontal-released",
+      "at": "2026-10-29T03:02:58.598Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-released.jpg",
+        "sha256": "c5f9cff2b9d1fe2170e42171e9977ed34bcac8e556ebbaa0d0dfaab6e08b4898"
+      }
+    },
+    {
+      "label": "reduced-forward-1",
+      "at": "2026-10-29T03:03:00.739Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-1.jpg",
+        "sha256": "315fa3bffe6c3141d02d54230b7174d15e84723837158371a71e15dc2ec27ee3"
+      }
+    },
+    {
+      "label": "reduced-forward-2",
+      "at": "2026-10-29T03:03:02.847Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-2.jpg",
+        "sha256": "0249cadfee158ca38597a56544b4203ad35259781f726c0a28f2186a44a47b4f"
+      }
+    },
+    {
+      "label": "reduced-forward-3",
+      "at": "2026-10-29T03:03:04.951Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-3.jpg",
+        "sha256": "19bd0ab78c637ac27a6f1e2d8650cca0e633c8d982ab512b5e583d028b05d4b6"
+      }
+    },
+    {
+      "label": "reduced-forward-4",
+      "at": "2026-10-29T03:03:07.106Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-4.jpg",
+        "sha256": "640fb03aa35537fe588a23c8aa6ca9d8814aff3a101de6d8be6e6efe9f356aba"
+      }
+    },
+    {
+      "label": "reduced-forward-5",
+      "at": "2026-10-29T03:03:09.290Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-5.jpg",
+        "sha256": "e6c570e912841e7b2d583f298d1898b62f9f40eb93304d0ec9bb3a9e19b5257f"
+      }
+    },
+    {
+      "label": "reduced-forward-6",
+      "at": "2026-10-29T03:03:11.555Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-6.jpg",
+        "sha256": "75e1c53576f05f5ba06f79f651dda071f900b7cc5f0c525acc43de204481e9f1"
+      }
+    },
+    {
+      "label": "reduced-forward-7",
+      "at": "2026-10-29T03:03:13.822Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-7.jpg",
+        "sha256": "f87547494879a12e85109da1d1df37c9d33e392224011b37a8365e1945aee348"
+      }
+    },
+    {
+      "label": "reduced-forward-8",
+      "at": "2026-10-29T03:03:16.086Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-8.jpg",
+        "sha256": "bf5a0678a20b39da0b00799141e628df93af3b0e7062ab6b07b228cc40eaa500"
+      }
+    },
+    {
+      "label": "reduced-forward-9",
+      "at": "2026-10-29T03:03:18.415Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-9.jpg",
+        "sha256": "d0be9364e0fa6af70584bf73e9acdbd911050bae1443187502f4ea5b1e3207de"
+      }
+    },
+    {
+      "label": "reduced-forward-10",
+      "at": "2026-10-29T03:03:20.685Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-10.jpg",
+        "sha256": "6492a5c28f6571a3e9ad5276b40704f46bfc28acd6406a587c6f267ebde5f589"
+      }
+    },
+    {
+      "label": "reduced-forward-11",
+      "at": "2026-10-29T03:03:22.915Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-11.jpg",
+        "sha256": "5bf7a450b6eba52688c7d4d9c85ae056738df76f8a8ff7ad7a5c6f05443b6548"
+      }
+    },
+    {
+      "label": "reduced-forward-12",
+      "at": "2026-10-29T03:03:25.163Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-12.jpg",
+        "sha256": "44bf55005f1a59e41680c427c272953f6609215ed0d5dc43ce37f1a3c5b32c38"
+      }
+    },
+    {
+      "label": "reduced-to-end-1",
+      "at": "2026-10-29T03:03:31.225Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-to-end-1.jpg",
+        "sha256": "44d9cb6b8a82cbd25988d484915f9bd540f618ee470b3ef264d0a1ac638bc8b6"
+      }
+    },
+    {
+      "label": "reduced-end-stop",
+      "at": "2026-10-29T03:03:33.794Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-end-stop.jpg",
+        "sha256": "33a2e1d02a0876df8fbfda6818200c6c351f83dd373df6ccf5894b64503eba7f"
+      }
+    },
+    {
+      "label": "reduced-reverse-1",
+      "at": "2026-10-29T03:03:39.018Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-1.jpg",
+        "sha256": "6c393b09bb836333c385a16286ec967540cb5e2f1fc1cfe6bcc5e243bc053899"
+      }
+    },
+    {
+      "label": "reduced-reverse-2",
+      "at": "2026-10-29T03:03:41.635Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-2.jpg",
+        "sha256": "a80bebc47209b4d3d45b76a601ff230facf956e393223a1f038bbe0fb14ab03a"
+      }
+    },
+    {
+      "label": "reduced-reverse-3",
+      "at": "2026-10-29T03:03:44.288Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-3.jpg",
+        "sha256": "15fef3f4d24de26251ed9b550b117187a9a343195b3a63056119059275f78e29"
+      }
+    },
+    {
+      "label": "reduced-reverse-4",
+      "at": "2026-10-29T03:03:46.847Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-4.jpg",
+        "sha256": "7a300fe507003ede7e82116c9ea1d89841dd33fb1b0e3169655d844929d72ee7"
+      }
+    },
+    {
+      "label": "reduced-reverse-stop",
+      "at": "2026-10-29T03:03:49.453Z",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": true,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 844,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-stop.jpg",
+        "sha256": "3877195995c5142e305caf879ff4b70d5b7f42f9cfde678f9dbbb3188a4e6ae9"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "type": "native-finger-horizontal-forward",
+      "from": [
+        90,
+        450
+      ],
+      "to": [
+        300,
+        450
+      ],
+      "heldBeforeFrameMs": 220,
+      "at": "2026-10-29T03:02:44.150Z",
+      "reduced": false
+    },
+    {
+      "type": "native-finger-horizontal-reverse",
+      "from": [
+        300,
+        450
+      ],
+      "to": [
+        90,
+        450
+      ],
+      "heldBeforeFrameMs": 220,
+      "at": "2026-10-29T03:02:45.036Z",
+      "reduced": false
+    },
+    {
+      "type": "motion-preference",
+      "reduced": true,
+      "at": "2026-10-29T03:02:46.252Z"
+    },
+    {
+      "type": "native-finger-horizontal-forward",
+      "from": [
+        90,
+        450
+      ],
+      "to": [
+        300,
+        450
+      ],
+      "heldBeforeFrameMs": 220,
+      "at": "2026-10-29T03:02:56.547Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-horizontal-reverse",
+      "from": [
+        300,
+        450
+      ],
+      "to": [
+        90,
+        450
+      ],
+      "heldBeforeFrameMs": 220,
+      "at": "2026-10-29T03:02:57.430Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:02:59.631Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:01.739Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:03.848Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:05.989Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:08.182Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:10.449Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:12.714Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:14.980Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:17.297Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:19.573Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:21.807Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:24.056Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        650
+      ],
+      "to": [
+        195,
+        250
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:30.012Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        250
+      ],
+      "to": [
+        195,
+        650
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:37.601Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        250
+      ],
+      "to": [
+        195,
+        650
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:40.220Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        250
+      ],
+      "to": [
+        195,
+        650
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:42.871Z",
+      "reduced": true
+    },
+    {
+      "type": "native-finger-vertical",
+      "from": [
+        195,
+        250
+      ],
+      "to": [
+        195,
+        650
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-29T03:03:45.422Z",
+      "reduced": true
+    }
+  ],
+  "errors": [],
+  "result": "bounded-deadline",
+  "browser": {
+    "protocolVersion": "1.3",
+    "product": "Chrome/156.0.8078.48",
+    "revision": "@d0c02bfad08ec92a6ffcf989e53cd995e6381a4c",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+    "jsVersion": "15.6.75.19"
+  },
+  "finished": "2026-10-29T03:05:27.335Z"
+}

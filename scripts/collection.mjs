@@ -2,8 +2,16 @@ import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
+import { assertProductionQuality, assertRetainedPreview, loadQualityPolicy, assertCalibratedReviewer } from './quality-gate.mjs';
+import { usesWebGL, validateFallbackCapture } from './production/rendering.mjs';
+import {assertPerformanceDelivery} from './production/performance.mjs';
+import { validateResponsiveCapture,validateResponsiveReview } from './production/responsive.mjs';
+import {showcaseRevision} from './showcase-revision.mjs';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+// Existing external test fixtures use the generic packaging engine. The actual
+// WebArt workspace, and any fixture that supplies this policy, must use v2.
+export const qualityPolicyApplies = root => path.resolve(root) === ROOT || fs.existsSync(path.join(root, 'webart.quality.json'));
 const sha = (bytes) => crypto.createHash('sha256').update(bytes).digest('hex');
 export function relativePath(value) {
   if (typeof value !== 'string' || !value || value.includes('\\') || value.startsWith('/') || /^[a-z]:/i.test(value) || value.split('/').some(p => !p || p === '.' || p === '..') || /[\0:]/.test(value)) throw new Error(`Unsafe relative path: ${value}`);
@@ -21,6 +29,7 @@ export function child(root, value) {
   return target;
 }
 export function loadCollection(root = ROOT) {
+  if (qualityPolicyApplies(root)) loadQualityPolicy(root);
   const data = JSON.parse(fs.readFileSync(path.join(root, 'webart.collection.json'), 'utf8'));
   if (data.schemaVersion !== 1 || !Array.isArray(data.templates)) throw new Error('Invalid collection registry');
   for (const field of ['id', 'slug', 'manifest']) {
@@ -84,6 +93,7 @@ export function check(entry, root = ROOT) {
   if (!fs.statSync(child(root, entry.approval.record)).isFile()) throw new Error(`Missing approval record for ${entry.id}`);
   const digest = fingerprint(entry, root);
   if (digest !== entry.approval.sourceSha256) throw new Error(`Template ${entry.id} source changed since approval; review and approve the new fingerprint before release`);
+  if (qualityPolicyApplies(root)) assertProductionQuality(root, entry, digest, 'release');
   return digest;
 }
 export function checkTrial(entry, root = ROOT) {
@@ -96,6 +106,62 @@ export function checkTrial(entry, root = ROOT) {
   const digest = fingerprint(entry, root);
   if (digest !== approval.sourceSha256) throw new Error('Trial source changed since QA approval');
   return digest;
+}
+// A new private candidate uses the same byte allowlist/QA/v2 gates as a registry
+// trial, without mutating the public registry to gain access to the packager.
+export function candidateFiles(handoffPath, root = ROOT) {
+  relativePath(handoffPath);
+  if (!/^\.webart\/prototypes\/[a-z0-9-]+\/delivery\.json$/.test(handoffPath)) throw new Error('Candidate handoff must remain in one private prototype directory');
+  const handoff = JSON.parse(fs.readFileSync(child(root, handoffPath), 'utf8'));
+  const base = template(loadCollection(root), handoff.id);
+  if (handoff.schemaVersion !== 1 || base.id === '001') throw new Error('Invalid candidate or frozen benchmark');
+  const directory = handoffPath.slice(0, -'/delivery.json'.length);
+  if (handoff.manifest !== directory + '/manifest.json' || handoff.qualityReview !== directory + '/contract.json') throw new Error('Candidate manifest/contract must remain in the same private directory');
+  const entry = { ...base, projectDir: directory, manifest: handoff.manifest, qualityReview: handoff.qualityReview, status: 'draft', stage: 'trial', records: handoff.records, trialApproval: handoff.trialApproval };
+  return validateTrialDelivery(entry, handoff, root);
+}
+// Shared qualification checks for private packaging and frozen renderer registration.
+// Registration does not grant access to the private packaging entry point above.
+export function validateTrialDelivery(entry, handoff, root = ROOT) {
+  const directory = entry.projectDir;
+  const validated = manifestFiles(entry, root);
+  if (validated.files.some(file => !file.source.startsWith(child(root, directory) + path.sep))) throw new Error('Candidate allowlist contains another project');
+  const digest = checkTrial(entry, root);
+  assertProductionQuality(root, entry, digest, 'package');
+  assertPerformanceDelivery(root,handoff,digest,{allowHistorical:true});
+  if (!handoff.controls?.capture || !handoff.controls?.review) throw new Error('Candidate needs actual control-state evidence and visual review');
+  const captured = JSON.parse(fs.readFileSync(child(root, handoff.controls.capture), 'utf8'));
+  const reviewed = JSON.parse(fs.readFileSync(child(root, handoff.controls.review), 'utf8'));
+  if (captured.result !== 'captured-not-visually-approved' || captured.sourceSha256 !== digest || captured.viewports?.length !== 3 || new Set(captured.viewports.map(v=>v.viewport)).size !== 3 || captured.viewports.some(v=>!v.controls?.length) || reviewed.sourceSha256 !== digest || reviewed.decision !== 'pass') throw new Error('Candidate control QA incomplete');
+  const runtime = JSON.parse(fs.readFileSync(child(root, handoff.trialApproval.runtime), 'utf8'));
+  if (runtime.sourceSha256 !== digest) throw new Error('Candidate full QA does not match current source');
+  validateResponsiveCapture(root,runtime,digest);
+  validateResponsiveReview(root,runtime,reviewed);
+  if(reviewed.responsiveComposition!=='pass')throw new Error('Candidate responsive composition not visually approved');
+  const sourceUsesWebGL = usesWebGL(validated.files.filter(file=>file.archive.endsWith('.js')).map(file=>({content:fs.readFileSync(file.source,'utf8')})));
+  if (!['dom','local-3d'].includes(handoff.rendering?.mode) || sourceUsesWebGL !== (handoff.rendering.mode === 'local-3d')) throw new Error('Candidate rendering plan does not match its source');
+  if (sourceUsesWebGL) {
+    if (!handoff.rendering.capture || reviewed.renderingFallback !== 'pass') throw new Error('Candidate needs actual rendering-failure evidence and visual review');
+    const rendering = JSON.parse(fs.readFileSync(child(root,handoff.rendering.capture),'utf8'));
+    for (const evidence of validateFallbackCapture(rendering,digest)) if (sha(fs.readFileSync(child(root,evidence.path))) !== evidence.sha256) throw new Error('Candidate rendering-failure evidence changed');
+  } else if (reviewed.renderingFallback !== 'not-applicable') throw new Error('DOM candidate must not claim 3D fallback approval');
+  for (const view of captured.viewports) for (const control of view.controls) {
+    if (!control.focused || !['default', 'hover', 'focus'].every(state => control.evidence.some(e => e.state === state))) throw new Error('Candidate visible control state missing');
+    if (['BUTTON','SUMMARY'].includes(control.tag) && !['activated',view.viewport==='desktop'?'mouse-result':'touch-result'].every(state=>control.evidence.some(e=>e.state===state))) throw new Error('Candidate native action/touch state missing');
+    for (const evidence of control.evidence) { const bytes = fs.readFileSync(child(root, evidence.path)); if (sha(bytes) !== evidence.sha256) throw new Error('Candidate control evidence changed'); }
+  }
+  if (!handoff.styleReview) throw new Error('Candidate style comparison missing');
+  const style = JSON.parse(fs.readFileSync(child(root, handoff.styleReview), 'utf8'));
+  const contract = entry.qualityReview ? JSON.parse(fs.readFileSync(child(root, entry.qualityReview), 'utf8')) : null;
+  const evaluator = contract?.calibrationReview ? JSON.parse(fs.readFileSync(child(root, contract.calibrationReview), 'utf8')) : null;
+  if ([evaluator, reviewed, style].some(report => report?.reviewer?.mode === 'evidence-only-fresh-codex-cli')) {
+    for (const [report, role] of [[reviewed, 'controls-review'], [style, 'style-review']]) {
+      if (evaluator?.reviewer?.mode !== 'evidence-only-fresh-codex-cli' || report.reviewer?.mode !== evaluator.reviewer.mode || report.reviewer.id !== evaluator.reviewer.id || report.reviewer.calibrationRunId !== evaluator.runId) throw new Error('CLI delivery reviews must bind the actual calibrated reviewer and run');
+      assertCalibratedReviewer(root, evaluator, report, role);
+    }
+  }
+  if (style.sourceSha256 !== digest || style.decision !== 'distinct' || !loadCollection(root).templates.some(t=>t.id===style.nearestId&&t.id!==entry.id) || style.openingAndAssetBothRepeated || style.comparisons?.length !== 4 || new Set(style.comparisons.map(c=>c.dimension)).size !== 4 || style.comparisons.filter(c=>c.different).length < 3 || style.comparisons.some(c=>typeof c.finding!=='string'||c.finding.length<30)) throw new Error('Candidate is not distinct from existing designs');
+  return validated;
 }
 export function receipt(entry, archive, root = ROOT) {
   const actual = archive || child(root, `public/${entry.slug}-source.zip`);
@@ -110,12 +176,16 @@ export function authorizedTrials(data, root = ROOT) {
   if (!config.authorization?.trialIds?.length) return [];
   if (!config.authorization.date || !config.authorization.record || !fs.statSync(child(root, config.authorization.record)).isFile()) throw new Error('Showcase trial authorization record is missing');
   return config.authorization.trialIds.map(id => {
-    const entry = template(data, id);
+    const base = template(data, id);
+    const item = config.items?.find(item => item.id === id);
+    const revision = showcaseRevision(item ?? {}, base, root);
+    const entry = revision ?? base;
     checkTrial(entry, root);
-    const delivery = config.trialDownloads?.find(record => record.id === id);
+    const delivery = revision?.release ?? config.trialDownloads?.find(record => record.id === id);
     if (!delivery || !config.items?.some(item => item.id === id)) throw new Error(`Missing showcase trial receipt/item: ${id}`);
     const authorized = { ...entry, release: delivery };
     receipt(authorized, undefined, root);
+    if (!revision && qualityPolicyApplies(root)) assertRetainedPreview(root, entry, fingerprint(entry, root), delivery);
     return authorized;
   });
 }
@@ -182,8 +252,10 @@ export function main(args = process.argv.slice(2), root = ROOT) {
       const entry = data.templates.find(t => t.manifest === value);
       if (!entry) throw new Error(`Unauthorized trial manifest: ${value}`);
       checkTrial(entry, root);
+      if (qualityPolicyApplies(root)) assertProductionQuality(root, entry, fingerprint(entry, root), 'package');
       return manifestFiles(entry, root);
     }
+    case 'candidate-files-manifest': return candidateFiles(value, root);
     case 'check-manifest':
     case 'files-manifest': {
       relativePath(value);

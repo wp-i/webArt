@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "modules": [
+    {
+      "id": "007",
+      "sourceSha256": "ea6fe8614aa3084e09b49231d712905cba6b61733bff712fb022cf9c180aef6c",
+      "reason": "实际四状态素材试作仍丢失母版手部工艺、自然关节和可信接触；不能以运行成功、暗色材质或其他状态改善来恢复此源码的准入。",
+      "review": {
+        "path": "docs/production/runs/2026-10-17-reference-trial/007-core-rejection.json",
+        "sha256": "fbc0aa4f70464204f3f152b1c26f973b3c63ec3702e698d80d1f4f919ac85a53"
+      }
+    },
+    {
+      "id": "007",
+      "sourceSha256": "dfdd646b7784cbabacdd8e1e298d498fd62ed760d1ebc3123d4e79b0451e3641",
+      "reason": "实际四状态素材试作仍丢失母版手部工艺、自然关节和可信接触；不能以运行成功、暗色材质或其他状态改善来恢复此源码的准入。",
+      "review": {
+        "path": "docs/production/runs/2026-10-17-reference-trial/007-core-rejection.json",
+        "sha256": "fbc0aa4f70464204f3f152b1c26f973b3c63ec3702e698d80d1f4f919ac85a53"
+      }
+    },
+    {
+      "id": "007",
+      "sourceSha256": "e634ccfb876304c03f8e28908824f4a1d28d6690e45ae88277cdbff461144e1e",
+      "reason": "实际四状态素材试作仍丢失母版手部工艺、自然关节和可信接触；不能以运行成功、暗色材质或其他状态改善来恢复此源码的准入。",
+      "review": {
+        "path": "docs/production/runs/2026-10-17-reference-trial/007-core-rejection.json",
+        "sha256": "fbc0aa4f70464204f3f152b1c26f973b3c63ec3702e698d80d1f4f919ac85a53"
+      }
+    },
+    {
+      "id": "008",
+      "sourceSha256": "2d8a9a5f07465898bc2e6c4d2adbba74d0824aa251d3f61fa055e8d297602d76",
+      "reason": "实际桌面/手机四态显示拱片与冰环大面在弯曲前没有足够采样，形成硬折线；绿色高亮贴图压过霜面与内部物件，冰壳带明显三角面，地形接触缺失且开场露出下一场漂浮物件。收束粒子稀疏而平台纹理抢占主体，尚不能保留已准入母版的具体材质与完整体积观看。",
+      "review": {
+        "path": "docs/assets/008-glacial-material-rejection-01.json",
+        "sha256": "440e5942e4bd5cc40c8d6224b4a4fae0882d539e6d75fc9b958e9429bfe82bc9"
+      }
+    },
+    {
+      "id": "008",
+      "sourceSha256": "37c1e14d61e62f052bdc6e0a594fa2c3ddbe04bf63f0c8e0cca945aa38f4c2e7",
+      "reason": "实际桌面/手机四态显示拱片与冰环大面在弯曲前没有足够采样，形成硬折线；绿色高亮贴图压过霜面与内部物件，冰壳带明显三角面，地形接触缺失且开场露出下一场漂浮物件。收束粒子稀疏而平台纹理抢占主体，尚不能保留已准入母版的具体材质与完整体积观看。",
+      "review": {
+        "path": "docs/assets/008-glacial-material-rejection-01.json",
+        "sha256": "440e5942e4bd5cc40c8d6224b4a4fae0882d539e6d75fc9b958e9429bfe82bc9"
+      }
+    },
+    {
+      "id": "008",
+      "sourceSha256": "0bbfe4458123e8e5e2d8bcf6246a7c0aad2132041b68b91d0b87510548580dec",
+      "reason": "实际桌面/手机四态显示拱片与冰环大面在弯曲前没有足够采样，形成硬折线；绿色高亮贴图压过霜面与内部物件，冰壳带明显三角面，地形接触缺失且开场露出下一场漂浮物件。收束粒子稀疏而平台纹理抢占主体，尚不能保留已准入母版的具体材质与完整体积观看。",
+      "review": {
+        "path": "docs/assets/008-glacial-material-rejection-01.json",
+        "sha256": "440e5942e4bd5cc40c8d6224b4a4fae0882d539e6d75fc9b958e9429bfe82bc9"
+      }
+    },
+    {
+      "id": "008",
+      "sourceSha256": "8ea7e9dd059b080e7715ba9336b7615189cef2a2547b483769a9e3fa4259ecbd",
+      "reason": "实际桌面与手机四态显示：改密曲面和减弱曝光后，开场仍是扁平白色塑料拱片，厚度、霜化、内光与雪地接触缺乏具体层次；冻结壳体像透明光滑水滴，内件的表面和空间身份不清；中段仍为普通发光同心圆，末段粒子只形成通用颗粒壳体。手机主体尺度与大片空场进一步削弱观看，不能保留已准入母版的材料权威和空间交接。",
+      "review": {
+        "path": "docs/assets/008-glacial-material-rejection-02.json",
+        "sha256": "7ace7e96057bf30ef3566a83961a866480f765b30d93e9f835bd2e6ac14ec21f"
+      }
+    },
+    {
+      "id": "008",
+      "sourceSha256": "4af955a70d9a4516296b57f4bc2d1909d1ef5ff39616f64b94940d594b1e029e",
+      "reason": "实际桌面与手机四态显示：改密曲面和减弱曝光后，开场仍是扁平白色塑料拱片，厚度、霜化、内光与雪地接触缺乏具体层次；冻结壳体像透明光滑水滴，内件的表面和空间身份不清；中段仍为普通发光同心圆，末段粒子只形成通用颗粒壳体。手机主体尺度与大片空场进一步削弱观看，不能保留已准入母版的材料权威和空间交接。",
+      "review": {
+        "path": "docs/assets/008-glacial-material-rejection-02.json",
+        "sha256": "7ace7e96057bf30ef3566a83961a866480f765b30d93e9f835bd2e6ac14ec21f"
+      }
+    },
+    {
+      "id": "008",
+      "sourceSha256": "f727c2a4093ff886226675ddd912a4201096bffc161cdabadf6f579c34eca418",
+      "reason": "实际桌面与手机四态显示：改密曲面和减弱曝光后，开场仍是扁平白色塑料拱片，厚度、霜化、内光与雪地接触缺乏具体层次；冻结壳体像透明光滑水滴，内件的表面和空间身份不清；中段仍为普通发光同心圆，末段粒子只形成通用颗粒壳体。手机主体尺度与大片空场进一步削弱观看，不能保留已准入母版的材料权威和空间交接。",
+      "review": {
+        "path": "docs/assets/008-glacial-material-rejection-02.json",
+        "sha256": "7ace7e96057bf30ef3566a83961a866480f765b30d93e9f835bd2e6ac14ec21f"
+      }
+    }
+  ]
+}

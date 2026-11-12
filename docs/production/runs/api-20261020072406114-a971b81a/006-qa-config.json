@@ -1,0 +1,32 @@
+{
+  "images": 6,
+  "fonts": [
+    "Instrument Serif",
+    "Manrope"
+  ],
+  "scenes": [
+    "#scene-opening",
+    "#scene-transition",
+    "#scene-middle",
+    "#scene-ending"
+  ],
+  "clipBounds": [],
+  "composition": {
+    "desktop": "1440×900：织物两种触感与中央字形完整，空间卷轴满高，白底竖图索引与独立窗帘收束各有主构图。",
+    "wide": "2048×912：织物纹理与字形维持比例，卷轴空间足够大，材料索引不拉成浅横图，联系留在厚料暗部。",
+    "tablet": "768×1024：字形不越过材质主体，卷轴两处空间可完整观看，材料与索引并列不拥挤，窗帘与地面完整。",
+    "mobile": "390×844：开场材质交界可辨，卷轴照片上没有多余大标题，材料主图与选择上下组织，联系与地面不重叠。",
+    "narrow": "320×844：两行主标题不横向溢出，空间编号和两项材料选择清楚，结尾保持厚料、白纱、木地面和实际联系。"
+  },
+  "visualStates": {
+    "opening": 0,
+    "transition": 0.36,
+    "middle": {
+      "selector": "#scene-middle",
+      "offset": 0
+    },
+    "ending": 1
+  },
+  "origin": "http://127.0.0.1:2658/",
+  "output": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03"
+}

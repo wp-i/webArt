@@ -1,0 +1,19 @@
+{
+  "code": "cli-review-version",
+  "message": "CLI version probe did not complete",
+  "attempt": {
+    "id": "01-reference-review-e2f0b12df3",
+    "directory": "D:\\code\\webArt\\docs\\production\\runs\\igloo-reference-20261029\\cli-review\\01-reference-review-e2f0b12df3",
+    "packetDirectory": "C:\\Users\\11509\\AppData\\Local\\Temp\\webart-cli-evidence-iQDjVn",
+    "status": "pending",
+    "visualAdmissionGranted": false,
+    "requestFile": "D:\\code\\webArt\\docs\\production\\runs\\igloo-reference-20261029\\cli-review\\01-reference-review-e2f0b12df3\\request.json",
+    "requestSha256": "f4b4d37644821233cce51666946deea1fa9ca51945b10a2f7a9dd4af19865036",
+    "failure": {
+      "code": "cli-review-version",
+      "message": "CLI version probe did not complete"
+    },
+    "elapsedMs": 420
+  },
+  "visualAdmissionGranted": false
+}

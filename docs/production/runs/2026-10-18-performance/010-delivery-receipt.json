@@ -1,0 +1,17 @@
+{
+  "id": "010",
+  "execution": "current-conversation-static-performance-revision",
+  "realApiCalls": 0,
+  "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+  "archivePath": ".webart/trials/api-assisted-20261018-010-source.zip",
+  "bytes": 710412,
+  "sha256": "bb150313c0142dd37ee4cdf9cd227cf858d45272a160fabc05d4cd51eed5c351",
+  "previewAndAllAssets": "passed",
+  "archiveHttp": "passed",
+  "preview": "http://127.0.0.1:4323/",
+  "download": "http://127.0.0.1:4323/pace-source.zip",
+  "visualDirection": "user-accepted-2026-10-18",
+  "performance": "local-budget-passed-user-verification-pending",
+  "userAcceptance": "pending",
+  "inventoryChanged": false
+}

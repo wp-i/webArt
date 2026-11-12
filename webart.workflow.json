@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "006",
+      "stage": "qualification",
+      "config": "docs/production/runs/2026-10-19-four-redesigns/006-qualification-03.json",
+      "renderer": {
+        "id": "ivory-woven-v1",
+        "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d",
+        "rules": "docs/production/runs/2026-10-19-four-redesigns/006-content-rules.json"
+      }
+    },
+    {
+      "id": "007",
+      "stage": "reference-needed",
+      "nextAction": "Lando实际七维及reference-gate已通过，198上下文/178去重图片保留全部141幅源站。007-shell-studies私有参考绑定已创建；正按锁定角色核查XQCAD成熟全罩模型实际文件、许可、内面/PBR及人物贴合。未批准素材/模块/整页，完整prototype配置尚未具备，不提前执行生产或替换旧比较稿。"
+    },
+    {
+      "id": "008",
+      "stage": "reference-needed",
+      "nextAction": "Igloo正式八状态/17组过程的实际自动参考门已通过，见igloo-reference-20261029-02/reference-gate.json；但Glacial素材v1及一次有界修订v2实图均拒绝，六个模块SHA已阻断，当前素材候选停止。见008-glacial-material-stop-20261030.json和成熟素材检查；须有完整成熟资产或另行准入母版，不继续第三版程序几何救场。完整prototype/qualification配置尚未具备，不能据reference通过推进生产。"
+    },
+    {
+      "id": "009",
+      "stage": "qualification",
+      "config": "docs/production/runs/2026-10-19-four-redesigns/009-qualification-08.json",
+      "renderer": {
+        "id": "near-and-far-editorial-v1",
+        "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+        "rules": "docs/production/runs/2026-10-19-four-redesigns/009-content-rules.json"
+      }
+    }
+  ]
+}

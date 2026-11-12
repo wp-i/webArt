@@ -1,0 +1,5 @@
+{
+  "ids": ["006", "007", "008", "009", "010"],
+  "model": "YOUR_VISION_MODEL",
+  "maxRequests": 32
+}

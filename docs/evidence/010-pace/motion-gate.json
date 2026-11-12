@@ -1,0 +1,254 @@
+{
+  "started": "2026-10-12T06:37:53.070Z",
+  "mode": "gate",
+  "origin": "http://127.0.0.1:4210/",
+  "controls": [],
+  "motion": [
+    {
+      "width": 1440,
+      "f": 0,
+      "y": 0,
+      "phone": "matrix(1, 0, 0, 1, 0, -0.0447266)",
+      "note": "matrix(1, 0, 0, 1, 0, 25)",
+      "progress": [
+        "0",
+        "0",
+        "0"
+      ],
+      "chapter": "THE WEEK"
+    },
+    {
+      "width": 1440,
+      "f": 0.25,
+      "y": 330,
+      "phone": "matrix(1, 0, 0, 1, 0, 8.02215)",
+      "note": "matrix(1, 0, 0, 1, 0, 19.7784)",
+      "progress": [
+        "0.750568612585292",
+        "0",
+        "0"
+      ],
+      "chapter": "THE WEEK"
+    },
+    {
+      "width": 1440,
+      "f": 0.5,
+      "y": 660,
+      "phone": "matrix(1, 0, 0, 1, 0, 11.999)",
+      "note": "matrix(1, 0, 0, 1, 0, 4.23673)",
+      "progress": [
+        "1",
+        "0.5011372251705839",
+        "0"
+      ],
+      "chapter": "REFLECTION"
+    },
+    {
+      "width": 1440,
+      "f": 0.75,
+      "y": 989,
+      "phone": "matrix(1, 0, 0, 1, 0, 12)",
+      "note": "matrix(1, 0, 0, 1, 0, 0)",
+      "progress": [
+        "1",
+        "1",
+        "0.24943138741470783"
+      ],
+      "chapter": "REFLECTION"
+    },
+    {
+      "width": 1440,
+      "f": 1,
+      "y": 1319,
+      "phone": "matrix(1, 0, 0, 1, 0, 12)",
+      "note": "matrix(1, 0, 0, 1, 0, 0)",
+      "progress": [
+        "1",
+        "1",
+        "1"
+      ],
+      "chapter": "REFLECTION"
+    },
+    {
+      "width": 1440,
+      "f": 0.75,
+      "y": 989,
+      "phone": "matrix(1, 0, 0, 1, 0, 12)",
+      "note": "matrix(1, 0, 0, 1, 0, 0)",
+      "progress": [
+        "1",
+        "1",
+        "0.24943138741470783"
+      ],
+      "chapter": "REFLECTION"
+    },
+    {
+      "width": 1440,
+      "f": 0.5,
+      "y": 660,
+      "phone": "matrix(1, 0, 0, 1, 0, 12)",
+      "note": "matrix(1, 0, 0, 1, 0, 3.3138)",
+      "progress": [
+        "1",
+        "0.5011372251705839",
+        "0"
+      ],
+      "chapter": "REFLECTION"
+    },
+    {
+      "width": 1440,
+      "f": 0.25,
+      "y": 330,
+      "phone": "matrix(1, 0, 0, 1, 0, 8.04277)",
+      "note": "matrix(1, 0, 0, 1, 0, 18.745)",
+      "progress": [
+        "0.750568612585292",
+        "0",
+        "0"
+      ],
+      "chapter": "THE WEEK"
+    },
+    {
+      "width": 1440,
+      "f": 0,
+      "y": 0,
+      "phone": "matrix(1, 0, 0, 1, 0, -0.207227)",
+      "note": "matrix(1, 0, 0, 1, 0, 25)",
+      "progress": [
+        "0",
+        "0",
+        "0"
+      ],
+      "chapter": "THE WEEK"
+    },
+    {
+      "width": 390,
+      "f": 0,
+      "y": 0,
+      "phone": "matrix(1, 0, 0, 1, 0, -10.3383)",
+      "note": "matrix(1, 0, 0, 1, 0, 25)",
+      "progress": [
+        "0",
+        "0",
+        "0"
+      ],
+      "chapter": "THE WEEK"
+    },
+    {
+      "width": 390,
+      "f": 0.25,
+      "y": 471,
+      "phone": "matrix(1, 0, 0, 1, 0, 1.43372)",
+      "note": "matrix(1, 0, 0, 1, 0, 25)",
+      "progress": [
+        "0.7496021220159151",
+        "0",
+        "0"
+      ],
+      "chapter": "THE WEEK"
+    },
+    {
+      "width": 390,
+      "f": 0.5,
+      "y": 943,
+      "phone": "matrix(1, 0, 0, 1, 0, 11.9884)",
+      "note": "matrix(1, 0, 0, 1, 0, 25)",
+      "progress": [
+        "1",
+        "0.5007957559681695",
+        "0"
+      ],
+      "chapter": "THE WEEK"
+    },
+    {
+      "width": 390,
+      "f": 0.75,
+      "y": 1414,
+      "phone": "matrix(1, 0, 0, 1, 0, 12)",
+      "note": "matrix(1, 0, 0, 1, 0, 2.48771)",
+      "progress": [
+        "1",
+        "1",
+        "0.25039787798408497"
+      ],
+      "chapter": "REFLECTION"
+    },
+    {
+      "width": 390,
+      "f": 1,
+      "y": 1885,
+      "phone": "matrix(1, 0, 0, 1, 0, 12)",
+      "note": "matrix(1, 0, 0, 1, 0, 0.00591153)",
+      "progress": [
+        "1",
+        "1",
+        "1"
+      ],
+      "chapter": "REFLECTION"
+    },
+    {
+      "width": 390,
+      "f": 0.75,
+      "y": 1414,
+      "phone": "matrix(1, 0, 0, 1, 0, 12)",
+      "note": "matrix(1, 0, 0, 1, 0, 1.19563)",
+      "progress": [
+        "1",
+        "1",
+        "0.25039787798408497"
+      ],
+      "chapter": "REFLECTION"
+    },
+    {
+      "width": 390,
+      "f": 0.5,
+      "y": 943,
+      "phone": "matrix(1, 0, 0, 1, 0, 12)",
+      "note": "matrix(1, 0, 0, 1, 0, 24.3814)",
+      "progress": [
+        "1",
+        "0.5007957559681695",
+        "0"
+      ],
+      "chapter": "THE WEEK"
+    },
+    {
+      "width": 390,
+      "f": 0.25,
+      "y": 471,
+      "phone": "matrix(1, 0, 0, 1, 0, 1.44828)",
+      "note": "matrix(1, 0, 0, 1, 0, 24.9988)",
+      "progress": [
+        "0.7496021220159151",
+        "0",
+        "0"
+      ],
+      "chapter": "THE WEEK"
+    },
+    {
+      "width": 390,
+      "f": 0,
+      "y": 0,
+      "phone": "matrix(1, 0, 0, 1, 0, -10.3254)",
+      "note": "matrix(1, 0, 0, 1, 0, 25)",
+      "progress": [
+        "0",
+        "0",
+        "0"
+      ],
+      "chapter": "THE WEEK"
+    }
+  ],
+  "checks": {
+    "pointer": {
+      "hover": "matrix3d(0.99952, 0.000466678, -0.0309657, 0, 0, 0.999886, 0.0150691, 0, 0.0309693, -0.0150618, 0.999407, 0, 0, -0.207227, 0, 1)",
+      "leave": "matrix(1, 0, 0, 1, 0, -0.207227)",
+      "settled": true
+    },
+    "reduced1440": true,
+    "reduced390": true
+  },
+  "errors": [],
+  "result": "passed-observable-checks",
+  "finished": "2026-10-12T06:38:23.798Z"
+}

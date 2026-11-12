@@ -1,0 +1,42 @@
+{
+  "result": "calibration-matches-user-labels",
+  "report": {
+    "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+    "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+  },
+  "pinnedRuntime": {
+    "executable": ".webart/review-runtime/0c09e45bc76433756eb2d492f6db0ce6f269967e6618f4a6ae73e2fa239694b8/codex.exe",
+    "sha256": "0c09e45bc76433756eb2d492f6db0ce6f269967e6618f4a6ae73e2fa239694b8"
+  },
+  "samples": [
+    {
+      "id": "008",
+      "verdict": "below-benchmark"
+    },
+    {
+      "id": "009",
+      "verdict": "below-benchmark"
+    },
+    {
+      "id": "010",
+      "verdict": "below-benchmark"
+    },
+    {
+      "id": "006",
+      "verdict": "below-benchmark"
+    },
+    {
+      "id": "001",
+      "verdict": "benchmark"
+    },
+    {
+      "id": "007",
+      "verdict": "below-benchmark"
+    }
+  ],
+  "independent": false,
+  "actualModel": null,
+  "newCliInvocations": 1,
+  "backendRequests": null,
+  "notAestheticPrediction": true
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "009",
+  "identity": "8a78528a74a5359f23a9c72deb168f9d579a8c7e4800600ca1ffc303f801a8d7",
+  "sourceSha256": "885dafe7d82304a0ae422a98053312c60ad28acb6de9e7d7be291e83dc89a280",
+  "dependencies": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-workflow-03.json",
+      "sha256": "b0e3cf08cf2f05a8e2dc39c836463425ea414b62bdd771bff0240a128c3ee28d"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-plan-03.json",
+      "sha256": "22fe81e8786fad78b1b2d0cef569c1b8ad6faf6a89118ee21c4ec29cbc7d8cab"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-reference-review.json",
+      "sha256": "63e2a84c05950265e156a9e8d66290634d20452c51dffde5ad3d18f80c33097c"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/calibration-review.json",
+      "sha256": "5062704d49c1c462e82777e4a02d5f89dd073ff4f7900f0c537b869b1d114eb3"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-11-grouped/capture.json",
+      "sha256": "6b3587b685023760cdb8e146df7cd3cbbd42098b07220301dfa39781d06e7b75"
+    },
+    {
+      "path": "scripts/capture-production.mjs",
+      "sha256": "349773e55631e49fd92ae55d30c1686114fe61254cbab20724594252df63888d"
+    },
+    {
+      "path": "scripts/production/device-metrics.mjs",
+      "sha256": "d28bd7dbca64f78b778935747de1612c7659fd30d7f74f4c9f714d00a418bbb2"
+    },
+    {
+      "path": "scripts/production/native-scroll.mjs",
+      "sha256": "7e9318efcda6575c1d62cac65ad6eaca4f575c4097732d00abb272b4d9e95d46"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/evidence.mjs",
+      "sha256": "1665e3fa7c4d531da0a7286b4a3693daa401edd76aa86d9ba17e09f6d8d4f5d0"
+    },
+    {
+      "path": "docs/production/prompts/REVIEW_PAIR.md",
+      "sha256": "6010b0ee21174984b4f4b7aab4a9a1972e03baba3be5452e5c84c83c8ca90281"
+    }
+  ],
+  "createdAt": "2026-10-21T10:40:55.014Z",
+  "stages": [
+    {
+      "status": "capturing",
+      "at": "2026-10-21T10:40:55.446Z"
+    },
+    {
+      "status": "failed",
+      "at": "2026-10-21T10:41:26.593Z"
+    }
+  ],
+  "captures": [],
+  "reviews": [],
+  "modelCodeGenerationCalls": 0,
+  "packageAuthorized": false,
+  "attempt": 0,
+  "status": "failed",
+  "updatedAt": "2026-10-21T10:41:26.593Z",
+  "failure": {
+    "code": "stage-failed",
+    "message": "本地检查失败",
+    "diagnostic": "{\"result\":\"failed\",\"states\":0,\"motion\":0,\"failure\":\"Final visible media/fonts were not ready\"}\n"
+  },
+  "nextAction": "repair-recorded-failure"
+}

@@ -1,0 +1,8 @@
+import test from 'node:test';import assert from 'node:assert/strict';import vm from 'node:vm';import{browserMediaInventory}from'./browser-media-inventory.mjs';
+const rect=(width=200,height=200)=>({width,height,x:0,y:0,toJSON(){return{width,height,x:0,y:0}}});
+const node=(tag,extra={})=>({tagName:tag,getBoundingClientRect:()=>rect(),...extra});
+const root=nodes=>({querySelectorAll(selector){return selector==='*'?nodes:nodes.filter(e=>e.tagName===selector.toUpperCase())}});
+const read=document=>vm.runInNewContext(browserMediaInventory,{document});
+test('a model canvas in a nested open root is never reported as absent',()=>{const canvas=node('CANVAS',{width:480,height:480}),inner=root([canvas]),viewer=node('SPLINE-VIEWER',{shadowRoot:root([node('DIV',{shadowRoot:inner})])});const report=read(root([viewer]));assert.equal(report.canvases.length,1);assert.equal(report.viewers.length,1);assert.equal(report.openRoots,3);assert.equal(report.manualRenderReviewRequired,true)});
+test('unreadable visible embedded surfaces require review; same-origin media are counted',()=>{const report=read(root([node('IFRAME',{src:'https://source.example/scene',contentDocument:null}),node('IFRAME',{src:'/film',contentDocument:root([node('VIDEO',{readyState:4,videoWidth:720,videoHeight:960,paused:false})])})]));assert.equal(report.videos.length,1);assert.equal(report.opaqueFrames.length,1);assert.equal(report.manualRenderReviewRequired,true)});
+test('a closed model component requires review even without a readable canvas',()=>{const report=read(root([node('MODEL-VIEWER',{shadowRoot:null})]));assert.equal(report.canvases.length,0);assert.equal(report.viewers[0].canvasCount,null);assert.equal(report.manualRenderReviewRequired,true)});

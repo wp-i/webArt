@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 2,
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "reviewer": {
+    "id": "primary-art-reviewer-2026-10-13",
+    "calibrationRunId": "2026-10-13-redo-primary-01",
+    "mode": "blind-evidence-only",
+    "inputScope": "benchmark+negative+reference+candidate",
+    "implementationContextIncluded": false
+  },
+  "evidenceInput": ".webart/quality-packets/campovivo-attempt-02/input.json",
+  "limitations": "Single primary reviewer retains implementation and conversation context. Evidence input excludes reasons, costs and scores; this is not an independent blind model or a guarantee of user acceptance.",
+  "phase": "reference",
+  "decision": "reject",
+  "vetoes": [
+    "type-media-craft",
+    "scroll-choreography",
+    "whole-page-resolution",
+    "mobile-composition"
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-opening/contact-sheet.jpg",
+          "sha256": "ef585da2c353498ecb3ce92b87a1e9ee7f2f77795f3bc999a393ce3fdf400f2a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 441,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-transition/contact-sheet.jpg",
+          "sha256": "cb73a53a8e93c6813ed502736c8114e041cb55f9136060872f2d354ac51fd5e7"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 846,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-middle/contact-sheet.jpg",
+          "sha256": "633a64741844fa183a2660d9ae3964cc047e36f6e6268e7b1539410853cac192"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4651,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-ending/contact-sheet.jpg",
+          "sha256": "0a0e05cee99911147cf16ae58a2bc1aa65c397b052b3e0a0eab9d37e68d5c0ff"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/mobile-opening/contact-sheet.jpg",
+          "sha256": "0345aa2677629f5fd2daf5fd132726bb7130a0dc3b616538a4157ac707a5bdf8"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 765,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/mobile-transition/contact-sheet.jpg",
+          "sha256": "6ec90991277ba04e3341cafe03646665eb276eedb5202163febf318a9f5c0a8d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1144,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/mobile-middle/contact-sheet.jpg",
+          "sha256": "8187cc6bcfda4f4800ce054e5b2a16a5bb3ba8af625c08fef618f7ab05f10cf6"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 5026,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/mobile-ending/contact-sheet.jpg",
+          "sha256": "495d5a1a5a28524c1b0feebceb2448dc411ef70c5df688f00b90c47302bfded8"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "母版字标、黄栏的面食与真实沿海影片形成具体开场。和001不同，其双栏有明确比例和两个相互解释的主体；这项成立不能抵消中段/收束的差距。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-opening/contact-sheet.jpg",
+          "sha256": "ef585da2c353498ecb3ce92b87a1e9ee7f2f77795f3bc999a393ce3fdf400f2a"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "below",
+      "finding": "母版面食颗粒、鼓起和细薄封口具备材料身份，字标比例也明确；但中段模型直接遮挡重复段落，和001字形融入材料构图的精度相比仍弱。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-middle/contact-sheet.jpg",
+          "sha256": "633a64741844fa183a2660d9ae3964cc047e36f6e6268e7b1539410853cac192"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "实际影片在采集、海岸和面食之间切换，摄影包括采集队伍、封口面食、当地植物餐桌；内容具有具体身份，可以和001材料题材相比较。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-opening/contact-sheet.jpg",
+          "sha256": "ef585da2c353498ecb3ce92b87a1e9ee7f2f77795f3bc999a393ce3fdf400f2a"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "below",
+      "finding": "母版原生滚动主要连续重复黄栏文字加照片，后接FAQ；主体的视角会响应指针，但滚动本身未带来001光线/空间那样连续改变观看的编排。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-middle/contact-sheet.jpg",
+          "sha256": "633a64741844fa183a2660d9ae3964cc047e36f6e6268e7b1539410853cac192"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "实际跨画面移动指针改变黄栏面食的视角，薄侧面及回转均可见；对象本身参与观看，可以和001移动/按住揭示材料比较。轮播按钮和影片自动换帧不计作指针签名。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-held",
+          "path": "docs/evidence/quality-calibration/001-1440-held.png",
+          "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-opening/contact-sheet.jpg",
+          "sha256": "ef585da2c353498ecb3ce92b87a1e9ee7f2f77795f3bc999a393ce3fdf400f2a"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "below",
+      "finding": "001结尾以独立完整的材料空间与Remain收束；母版最后为多行FAQ、普通订阅输入和票务/邮件页脚。粉色区有功能，但无法作为同等级完整视觉结果。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-ending/contact-sheet.jpg",
+          "sha256": "0a0e05cee99911147cf16ae58a2bc1aa65c397b052b3e0a0eab9d37e68d5c0ff"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "below",
+      "finding": "001手机首屏为材料和标题重新组合；母版手机把影片和大黄文字块顺序堆叠，隐藏面食模型，票务浮钮遮住文案。默认中段明显以重复段落占高，未达到同级手机构图。",
+      "benchmarkEvidence": [
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/mobile-opening/contact-sheet.jpg",
+          "sha256": "0345aa2677629f5fd2daf5fd132726bb7130a0dc3b616538a4157ac707a5bdf8"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "visualPurpose": "指针改变黄栏中面食对象的实际视角，影片呈现制作动作；恢复机制不等于材料、整页编排及收束已经相当。",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-opening/contact-sheet.jpg",
+          "sha256": "ef585da2c353498ecb3ce92b87a1e9ee7f2f77795f3bc999a393ce3fdf400f2a"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": false,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "aa5ebff998aa70f0a73b18da9cf0fea3e2f5442aba346604a9b1cb8a58833bdf"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "7200841c22ed34a85ba53ca2d97290e96a972139f24a7a8b00d2f5172742accd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "4e9b34df61c455ac3f8ad08a88730acaeadd7a6de3b777929e6959f2a7c61bd5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "394345932f2b423593fea66a01e1dd114de552e76322635f88fb70ce21d92f06"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "0a0e05cee99911147cf16ae58a2bc1aa65c397b052b3e0a0eab9d37e68d5c0ff"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "394345932f2b423593fea66a01e1dd114de552e76322635f88fb70ce21d92f06"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "57fe246252c890cea07f62ed593d095edbd135af6b901def9643198a31af57ab"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "7180626374ab0057cff84cfa97776dc729d001f1bb1791269a76e689655558bd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "3c9333dc673e2e9b1baea27e1ab463fec6ea61c191a293a703b5e009aebb4dbe"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-reduced/contact-sheet.jpg",
+          "sha256": "5fa004351897a8ef810a0b0484f02c1f6ce0ff0c4c9b564781efffb80419534e"
+        }
+      ],
+      "note": "Actual traversal inspected; changing viewport does not establish scene-level scroll choreography."
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "188034ac8c0351c208b4e59e60235fa1b6c627ff466c7937da8558571467f2e2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "9d3a7dff8c816c8513347c26070882668d7dcc731c2e22780f92325b1a75d3fe"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "4f99d355cb40806dbe0d8fa3d1ed9cbfdf3ade779b0c34f4d84df1756f2670b4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-pointer-action-3/contact-sheet.jpg",
+          "sha256": "74e93e31aa5b6187b3fa808604829c3138a50b4e66ef90279e70d90db3cac43c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-pointer-action-4/contact-sheet.jpg",
+          "sha256": "6787647261d40852b64f23e38ccc1a46dcb5f9940bc191c54d08b704a0cda486"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-pointer-action-5/contact-sheet.jpg",
+          "sha256": "89d0539a33d5875cc840e62f7feec0fcb27c4ca99eb5d90e03a0fc54f36f41f9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "592ab0b164e5d34875403890b24154c0baec266c8579e5a3184f55ff0ad0a476"
+        },
+        {
+          "path": "docs/evidence/redo-v2/007-reference-film/desktop-reduced/contact-sheet.jpg",
+          "sha256": "5fa004351897a8ef810a0b0484f02c1f6ce0ff0c4c9b564781efffb80419534e"
+        }
+      ],
+      "note": "Actual forward, reverse and leave viewpoints inspected; moving footage is not pointer evidence."
+    }
+  ]
+}

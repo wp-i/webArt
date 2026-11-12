@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-29",
+  "id": "007",
+  "url": "https://tabasco.hilostudiolab.com/",
+  "scope": "bounded-source-screen-not-formal-seven-dimension-review",
+  "decision": "not-selected",
+  "reason": "主负责人已实看40幅新证据及四张联系表。正常/减少动态与匹配物理屏幕已核验，桌面6300/6300和手机4220/4220的五瓶结尾可达；稳定辣椒主体在左右及返回输入后不变，源站没有证明同等级主体指针作用。手机默认开场仍为100%载入层，途中有模糊文字与瓶体压标题；不因3D和完整终点创建候选。",
+  "actualReview": {
+    "independent": false,
+    "contextIsolated": false,
+    "viewedSourceFrames": 40,
+    "method": "Four agent-generated contact sheets actually viewed by the main reviewer; original SHA checks and selected full images by delegated reviewer.",
+    "evidence": [
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/tabasco-source-completion/visual-findings.json",
+        "sha256": "c5417794aadc336f89257060087fa5baad9084239140963e4867ce2f36de68c3"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/tabasco-source-completion/path.json",
+        "sha256": "757c8754a566f840b898d867255947abf24cd26c212a22300b3c8b2a4aa3d064"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/tabasco-source-completion/supplement-path.json",
+        "sha256": "c459cc39e7f297c1c58d4e3115298c1bbc1f8d7a4566b7ba7e3c0bd5f30f233a"
+      }
+    ]
+  },
+  "visualAdmissionGranted": false,
+  "finalAssetsAcquired": false,
+  "candidateCreated": false,
+  "newArchiveCreated": false,
+  "unresolved": [
+    "手机正常默认开场加载层未完成，不将其当作整页四态完整证据。",
+    "该记录为当前短页目标有界筛选，不是网站客观总评或七维模型审查。"
+  ]
+}

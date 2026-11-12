@@ -1,6 +1,6 @@
 {
-  "started": "2026-10-09T16:37:56.888Z",
-  "origin": "http://127.0.0.1:4183/",
+  "started": "2026-10-11T16:39:16.748Z",
+  "origin": "http://127.0.0.1:4208/",
   "mode": "full",
   "viewports": [
     {
@@ -9,7 +9,7 @@
         1440,
         900
       ],
-      "height": 2149,
+      "height": 2298,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -44,7 +44,7 @@
         2048,
         912
       ],
-      "height": 2451,
+      "height": 2590,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -79,7 +79,7 @@
         768,
         1024
       ],
-      "height": 1968,
+      "height": 2037,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -114,7 +114,7 @@
         390,
         844
       ],
-      "height": 2938,
+      "height": 3205,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -149,7 +149,7 @@
         320,
         844
       ],
-      "height": 2618,
+      "height": 2963,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -198,7 +198,7 @@
     {
       "viewport": "desktop",
       "state": "ending",
-      "y": 1249
+      "y": 1398
     },
     {
       "viewport": "mobile",
@@ -208,17 +208,17 @@
     {
       "viewport": "mobile",
       "state": "middle",
-      "y": 591
+      "y": 844
     },
     {
       "viewport": "mobile",
       "state": "transition",
-      "y": 211
+      "y": 464
     },
     {
       "viewport": "mobile",
       "state": "ending",
-      "y": 2094
+      "y": 2361
     }
   ],
   "transitions": [
@@ -262,37 +262,37 @@
       "viewport": "desktop",
       "boundary": ".projects",
       "fraction": 0.25,
-      "y": 427
+      "y": 536
     },
     {
       "viewport": "desktop",
       "boundary": ".projects",
       "fraction": 0.5,
-      "y": 652
+      "y": 761
     },
     {
       "viewport": "desktop",
       "boundary": ".projects",
       "fraction": 0.75,
-      "y": 877
+      "y": 986
     },
     {
       "viewport": "desktop",
       "boundary": "#contact",
       "fraction": 0.25,
-      "y": 1225
+      "y": 1300
     },
     {
       "viewport": "desktop",
       "boundary": "#contact",
       "fraction": 0.5,
-      "y": 1249
+      "y": 1398
     },
     {
       "viewport": "desktop",
       "boundary": "#contact",
       "fraction": 0.75,
-      "y": 1249
+      "y": 1398
     },
     {
       "viewport": "mobile",
@@ -316,97 +316,97 @@
       "viewport": "mobile",
       "boundary": ".profile",
       "fraction": 0.25,
-      "y": 0
+      "y": 211
     },
     {
       "viewport": "mobile",
       "boundary": ".profile",
       "fraction": 0.5,
-      "y": 169
+      "y": 422
     },
     {
       "viewport": "mobile",
       "boundary": ".profile",
       "fraction": 0.75,
-      "y": 380
+      "y": 633
     },
     {
       "viewport": "mobile",
       "boundary": ".projects",
       "fraction": 0.25,
-      "y": 260
+      "y": 529
     },
     {
       "viewport": "mobile",
       "boundary": ".projects",
       "fraction": 0.5,
-      "y": 471
+      "y": 740
     },
     {
       "viewport": "mobile",
       "boundary": ".projects",
       "fraction": 0.75,
-      "y": 682
+      "y": 951
     },
     {
       "viewport": "mobile",
       "boundary": "#contact",
       "fraction": 0.25,
-      "y": 1954
+      "y": 2185
     },
     {
       "viewport": "mobile",
       "boundary": "#contact",
       "fraction": 0.5,
-      "y": 2094
+      "y": 2361
     },
     {
       "viewport": "mobile",
       "boundary": "#contact",
       "fraction": 0.75,
-      "y": 2094
+      "y": 2361
     }
   ],
   "arbitrary": [
     {
       "viewport": "desktop",
       "fraction": 0.14,
-      "y": 175
+      "y": 196
     },
     {
       "viewport": "desktop",
       "fraction": 0.37,
-      "y": 462
+      "y": 517
     },
     {
       "viewport": "desktop",
       "fraction": 0.61,
-      "y": 762
+      "y": 853
     },
     {
       "viewport": "desktop",
       "fraction": 0.84,
-      "y": 1049
+      "y": 1174
     },
     {
       "viewport": "mobile",
       "fraction": 0.14,
-      "y": 293
+      "y": 331
     },
     {
       "viewport": "mobile",
       "fraction": 0.37,
-      "y": 775
+      "y": 874
     },
     {
       "viewport": "mobile",
       "fraction": 0.61,
-      "y": 1277
+      "y": 1440
     },
     {
       "viewport": "mobile",
       "fraction": 0.84,
-      "y": 1759
+      "y": 1983
     }
   ],
   "checks": {
@@ -438,6 +438,10 @@
         "valid": true
       },
       {
+        "href": "#projects",
+        "valid": true
+      },
+      {
         "href": "mailto:hello@example.com?subject=A%20considered%20home",
         "valid": true
       },
@@ -458,7 +462,7 @@
         1440,
         900
       ],
-      "height": 2264,
+      "height": 2359,
       "overflow": false,
       "missing": 0,
       "fonts": [
@@ -497,9 +501,9 @@
         "trusted": true
       }
     ],
-    "touchScroll": 505
+    "touchScroll": 506
   },
   "errors": [],
   "result": "passed-observable-checks",
-  "finished": "2026-10-09T16:38:18.659Z"
+  "finished": "2026-10-11T16:39:46.532Z"
 }

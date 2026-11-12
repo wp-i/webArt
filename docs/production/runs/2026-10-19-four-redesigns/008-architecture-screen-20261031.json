@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "008",
+  "recordedAt": "2026-10-30T16:44:50.488Z",
+  "phase": "bounded-source-screen-not-formal-reference-review",
+  "result": "two-sources-not-selected",
+  "bounds": {
+    "newSitesActuallyViewed": 1,
+    "existingPendingSourcesCompleted": 1,
+    "reviewModelCalls": 0,
+    "finalAssetsDownloaded": 0,
+    "candidateCreated": false
+  },
+  "reviewer": {
+    "id": "current-conversation-chief",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "sources": [
+    {
+      "name": "Bélanger Salach 60",
+      "url": "https://60.belangersalach.ca/",
+      "discoveredFrom": "https://codewebbarcelona.com/en/architecture-web-design-belanger-salach/",
+      "decision": "not-selected",
+      "capture": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-belanger-01/observation.json",
+        "sha256": "5aa6fe11dc12399bdab83f5814aaaa2e28688c3c72cdeac666213c5ff5923189"
+      },
+      "framesViewed": 6,
+      "finding": "实际默认1440/390均为60周年数字、长介绍和START THE JOURNEY入口；点击真正入口后出现黑白建筑横向时间线、对应红线轮廓与年份。该观看思路有具体内容作用，但默认主要作品须经入口才能看到，且当前只见前两次原生推进，不符合本项目默认直接呈现主体的短页选择。本轮有界不选，不把未到的终点或未测指针说成失败。",
+      "limitations": [
+        "One initial click at 1250,800 missed the true entrance; desktop-after-start is the unchanged intro, not a successful entrance. The subsequent real click at 720,565 opened the gallery.",
+        "desktop-real-start still contains the entrance transition; no formal eight-state, full ending, pointer or reduced-motion admission was performed."
+      ],
+      "packageAuthorized": false
+    },
+    {
+      "name": "Hyll Hotel",
+      "url": "https://hyllhotel.com/",
+      "decision": "not-selected",
+      "capture": {
+        "path": "docs/evidence/redo-v2/2026-10-31/008-source-hyll-02/observation.json",
+        "sha256": "8c02eac088aa60bbe5830d7c88359947b9fb3494423b7128e703dfb99ad8e6c9"
+      },
+      "framesViewed": 35,
+      "previousCapture": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/observation.json",
+        "sha256": "c0c0eaaf896150a20f8b57f09125d4c7ad862ca43166f3e3204eb1e1923110db"
+      },
+      "previousLimit": "Previous 43 frames remain bounded-deadline. Newsletter overlay covers most forward frames; mobile-end-popup-closed and desktop-clear-forward labels do not prove the overlay was closed. Original files and misleading labels are preserved, not used as unobscured proof.",
+      "actualActions": [
+        "Native click at 450,525 opened CookieScript options.",
+        "Native click at 970,350 saved the default necessary-only cookie choice; no optional categories enabled.",
+        "Native click at 915,102 was followed by actual unobscured hero/pointer and full forward evidence. Its label alone is not treated as a dismissal postcondition.",
+        "Desktop normal wheel reached y7966 at document8866/viewport900, with extra wheel unchanged.",
+        "Phone actual held touchStart/Move/End reached y6680 at document7524/viewport844, with two additional gestures remaining there."
+      ],
+      "ends": [
+        {
+          "label": "desktop-uncovered-forward-11",
+          "viewport": [
+            1440,
+            900
+          ],
+          "y": 7966,
+          "documentHeight": 8866,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-31/008-source-hyll-02/desktop-uncovered-forward-11.jpg",
+            "sha256": "d780ee50db7f7f34959b12a10f747a87ee401ed37c5004cee1f2899879499df4"
+          }
+        },
+        {
+          "label": "desktop-uncovered-forward-12",
+          "viewport": [
+            1440,
+            900
+          ],
+          "y": 7966,
+          "documentHeight": 8866,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-31/008-source-hyll-02/desktop-uncovered-forward-12.jpg",
+            "sha256": "d780ee50db7f7f34959b12a10f747a87ee401ed37c5004cee1f2899879499df4"
+          }
+        },
+        {
+          "label": "mobile-uncovered-forward-12",
+          "viewport": [
+            390,
+            844
+          ],
+          "y": 6680,
+          "documentHeight": 7524,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-31/008-source-hyll-02/mobile-uncovered-forward-12.jpg",
+            "sha256": "752896dc982edf8fcbf77af757239d1d4d62b2886c20a2ccf38b6e488f79e028"
+          }
+        },
+        {
+          "label": "mobile-extra-finger-end",
+          "viewport": [
+            390,
+            844
+          ],
+          "y": 6680,
+          "documentHeight": 7524,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-31/008-source-hyll-02/mobile-extra-finger-end.jpg",
+            "sha256": "752896dc982edf8fcbf77af757239d1d4d62b2886c20a2ccf38b6e488f79e028"
+          }
+        }
+      ],
+      "contacts": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/008-source-hyll-02/desktop-uncovered-contact.jpg",
+          "sha256": "76cd91e69aed33a4cb84263dcd24ccae862ffd22304c77c72a823101a0b31504"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-31/008-source-hyll-02/mobile-uncovered-contact.jpg",
+          "sha256": "2c4d8175fdebeef38a02cf9a377e52ba01cfb84ddf42dc7a9e2f8864aa98dc11"
+        }
+      ],
+      "finding": "无遮挡完整路径以暖色室内摄影开场，接模糊摄影拼贴/居中介绍、季节留宿介绍、重复房间卡、几组左右照片加说明，再接订阅与黑色工具页脚。桌面结尾为巨型HYLL字标，手机主要为多组地址/导航和较小字标；没有独立作品或空间收束。本项目下不选，不能用好摄影或可滚到终点弥补整页节奏和收束的差距。",
+      "limitations": [
+        "Three actual hero pointer positions are preserved; no claim that hash differences prove pointer-coupled content.",
+        "Normal path only; no reduced-motion, reverse/reentry, room carousel or formal seven-dimension review was completed.",
+        "Opening/middle blurred collage areas are not classified as loading failure; rejection does not rely on that ambiguity."
+      ],
+      "packageAuthorized": false
+    }
+  ],
+  "referenceGatePassed": false,
+  "fullImplementationAuthorized": false,
+  "inventoryChanged": false,
+  "showcaseChanged": false,
+  "nextAction": "Do not extend this architecture batch speculatively. Continue the actual 007 Lando evidence and mature-asset feasibility; 008 still requires role-complete assets or another admitted mother after stopping the failed Glacial material candidate."
+}

@@ -1,24 +1,35 @@
-# WebArt working agreement
+# WebArt 协作约定
 
-Before changing any visual page in this repository, read:
+本文件维护长期规则；当前数量、候选进度、Key 状态、审核与发布结果保留在状态文件和对应收据，不在这里累积阶段命令。
 
-- `docs/ART_DIRECTION.md`
-- `docs/PRODUCTION_PIPELINE.md`
-- `docs/DOWNLOAD_STANDARD.md`
-- the page-specific brief under `docs/pages/`
-- the page-specific reference map under `docs/references/`
-- `docs/DECISIONS.md`
+## 文档职责与适用顺序
 
-These documents are the source of truth. A task may improve implementation, but it must not silently change the accepted art direction.
+- 用户对同一事项的最新明确决定优先。本文件规定协作边界；视觉品质按 [质量协议](docs/production/QUALITY_PROTOCOL.md) 和 [视觉约定](docs/ART_DIRECTION.md)，制作按 [生产流程](docs/PRODUCTION_PIPELINE.md) 和 [自动化边界](docs/production/AUTOMATION_IMPLEMENTATION.md)，打包与展示按 [下载标准](docs/DOWNLOAD_STANDARD.md)。
+- 修改视觉页面前，读取上述相关规范、对应的 `docs/pages/` brief、`docs/references/` 参考图谱，以及 [决策记录](docs/DECISIONS.md) 中该对象的有效决定。性能和素材分别按 [性能标准](docs/production/PERFORMANCE_STANDARD.md) 与 [素材标准](docs/assets/SOURCING_STANDARD.md)。
+- 当前任务从 [下一步](docs/NEXT_STEPS.md) 定位到实际计划、配置和授权/审核收据。历史交接、旧内部评分和旧“当前”段落不提供新准入或授权；不能仅按段落位置、修改时间或旧状态表判断现状。
+- 判断冲突须对齐对象、版本、阶段与明确替代关系，不用一条新决定覆盖整份历史。配置是执行输入，不能因字段存在就推定用户批准，也不能为过门修改规则或收据。
 
-Non-negotiable rules:
+## 视觉与品质
 
-1. Preserve accepted hero compositions and signature interactions unless the user explicitly replaces them.
-2. Never add a section merely to make a page feel longer. Every section must introduce a new visual idea, interaction, or useful content function.
-3. Do not repeat an image, dominant composition, oversized-heading treatment, or section rhythm on the same page.
-4. If the available assets cannot support another high-quality section, stop instead of filling space.
-5. Subtasks may audit architecture, accessibility, performance, and finish. The primary art director owns visual coherence and must reject advice that conflicts with the page brief.
-6. Record every accepted or rejected direction in `docs/DECISIONS.md` before a large redesign.
-7. Do not begin full implementation until the reference map, asset plan, and four key visual states are approved internally.
-8. A release requires a completed QA report under `docs/qa/`; anchor-only review is invalid.
-9. Each template produces one editable source archive. Do not create framework or static-build variants unless the user changes the product policy.
+1. 保留已接受的开场构图和签名交互；改变已接受方向须有用户明确要求。冻结保护指定版本，新版本制作与展示替换按其具体授权进行，不覆盖冻结比较源。
+2. 每稿使用一个实际查看的母版，独立实现并替换品牌、文案和素材；素材、字体与代码须具备源码包分发许可，不复制分发母版专有资产或内部参考截图。源站另行独立开放许可的素材按单独资产核验，不因来自母版自动准入。
+3. 每段增加新的视觉想法、交互或有用内容，不为长度增章；同页不重复主图、支配构图、巨型标题处理或相同节奏。素材不足以支持高质量章节时缩短页面或停止该候选，不填充空白。
+4. 主负责人对整页视觉一致性负责。子任务可审架构、可访问性、性能与细节；工程建议不能静默改变已接受的 brief。用户校准优先于旧内部评分，自授总分、风格差异或工程通过不能抵消核心视觉缺陷。
+5. 新风格先完成参考准入，再按锁定角色获取最终素材、制作可运行试片。参考图谱、素材计划和开场/中段/真实过渡/收束四状态须内部审查，reference 与 prototype 两个 v2 品质门均通过后才全面实现；重大方向的接受/拒绝在实施前记录到 `docs/DECISIONS.md`。
+6. 实际过程、手机构图、签名交互、减少动态与故障替代须有真实证据，锚点或静止截图不能替代整页审查。局部 3D 按已接受视觉作用与固定性能预算执行，复杂技术不加审美分。
+
+## 制作、审查与交付
+
+- 常规生产实例化已完整准入的版本化整页渲染器，只接受受限内容配置，不让模型每轮生成或修补页面代码。新风格或代码变化进入新版本制作与复审，不能借常规配置绕过准入。
+- 新完整模板首次制作按流程进行有限局部收尾；若需推翻核心结构、素材或签名交互，停止该候选并记录，不以补特效救场。单一候选失败或一处分支待答不等于整个项目无事可做。
+- 审查输入只带协议要求的实际证据，与实施理由、历史分数和成本分开；实际审查者身份和上下文隔离情况如实记录。当前会话证据审查按协议可用，不因没有独立 API Key 自动停工，也不冒称独立模型闭环。
+- 发布与打包须完成对应 QA 报告及可执行 v2 门：五宽度、四状态、实际过程、可见控件、内部裁切、减少动态、故障替代、性能与源码/归档指纹按适用流程核验。未测或失败不能记为通过，工程合格不等于用户视觉验收。
+- 每件只提供一个可编辑源码包，不创建框架或静态构建变体。`public/templates.json` 是 accepted 准入库存；`public/showcase.json` 是有具体用户授权的展示。展示、下载、质量准入和用户验收分别记录，旧比较稿展示不自动获得新打包或新生产资格。
+- 保留冻结源码、唯一有效包、必要比较证据、拒绝索引及授权/审核收据。清理须限于本次明确范围，不删除仍被合同、指纹或审查引用的内容，不用泛称清理恢复旧被拒动作。
+
+## 并行协作与规则维护
+
+- 开始时检查已有差异，按文件分工；写前重读目标文件，保留其他对话的未提交与未跟踪改动。同一文件并发变化时先合并已理解的内容，无法安全合并时只暂停该文件。
+- 不批量恢复、重置、清理、隐藏或提交他人工作；提交或同步只包括本轮负责且处于用户已授权范围内的文件。无需为每件模板强制增加代理或切换模型。
+- 规则维护只改规则文档；不因此运行页面生成、构建、采证、打包、发布或项目清理，不改 JSON 配置、脚本、页面、素材和证据。只有实际状态发生变化时才更新状态/交接，避免复制过期进度。
+- 验证与改动范围相称，规则调整检查语义、链接和差异即可；实现变动才执行相应工程检查。根规则保持精简，阶段记录归对应任务，历史决定通过明确替代关系保留。

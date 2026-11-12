@@ -1,0 +1,19 @@
+{
+  "url": "https://www.arcprojects.build/",
+  "evidence": [
+    {
+      "state": "failed-readiness-not-approval",
+      "path": "docs/evidence/redo-v2/2026-10-16/arc-20261017-path/diagnostic.jpg",
+      "sha256": "c94d735967131789b283f95f039a9eab9413f809146cebd1f99da796087f8ee6"
+    }
+  ],
+  "result": "evidence-needed",
+  "failure": "页面未完成加载，不能当作已审查",
+  "diagnostic": {
+    "url": "https://www.arcprojects.build/",
+    "ready": "complete",
+    "fonts": "loaded",
+    "text": "Skip to main content\nArchitecture, Built for Life.\n\nWe’re architectural builders committed to responsible construction of timber-rich projects.\n\nSee Our Profile\nSee Our Profile\nSmash Repair House\nSmash Repair House\nMatt Elkan\nPaddington St. Terrace\nPaddington St. Terrace\nTrias\nDraped House\nDraped House\nTrias\nSee All Projects\nSee All Projects\nCollaborative Craftsmen\n\nWe believe successful projects are collaborative and built on open communication.\n\nSee Our Process\nSee Our Process\n\nArmadillo Addit",
+    "missing": 5
+  }
+}

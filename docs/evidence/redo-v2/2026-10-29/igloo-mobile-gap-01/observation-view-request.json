@@ -1,0 +1,139 @@
+{
+  "images": [
+    {
+      "label": "normal-opening",
+      "sha256": "87d8945b1303219f7f8874e71d4aafb3962677ea9b5f6061fa6be4ba2b14e4ac",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening.jpg"
+    },
+    {
+      "label": "normal-opening-horizontal-held-forward",
+      "sha256": "adeb442b8b959a127e689dd7fccedb7937f400edee3099b20a2753d41f186a3e",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-forward.jpg"
+    },
+    {
+      "label": "normal-opening-horizontal-held-reverse",
+      "sha256": "9c98dc57700dc13ae77bdbefd3325ae40269796d6a88aedd2d48a2799604e3e3",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-reverse.jpg"
+    },
+    {
+      "label": "normal-opening-horizontal-released",
+      "sha256": "948e0b6efbe9f478fd8f0f111849bbfe7cc2149a4ec4bd7c1632cf6cd1acab0d",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-released.jpg"
+    },
+    {
+      "label": "reduced-opening",
+      "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening.jpg"
+    },
+    {
+      "label": "reduced-opening-horizontal-held-forward",
+      "sha256": "2bf04a349116db2fda00e6b01c76a6db9ec94997c5f2243123d74d786cd4308a",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-held-forward.jpg"
+    },
+    {
+      "label": "reduced-opening-horizontal-held-reverse",
+      "sha256": "869d08b09abd812aecc9122e2eb0469a6a726ac5108affda3e5f8fa659e442e4",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-held-reverse.jpg"
+    },
+    {
+      "label": "reduced-opening-horizontal-released",
+      "sha256": "c5f9cff2b9d1fe2170e42171e9977ed34bcac8e556ebbaa0d0dfaab6e08b4898",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-released.jpg"
+    },
+    {
+      "label": "reduced-forward-1",
+      "sha256": "315fa3bffe6c3141d02d54230b7174d15e84723837158371a71e15dc2ec27ee3",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-1.jpg"
+    },
+    {
+      "label": "reduced-forward-2",
+      "sha256": "0249cadfee158ca38597a56544b4203ad35259781f726c0a28f2186a44a47b4f",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-2.jpg"
+    },
+    {
+      "label": "reduced-forward-3",
+      "sha256": "19bd0ab78c637ac27a6f1e2d8650cca0e633c8d982ab512b5e583d028b05d4b6",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-3.jpg"
+    },
+    {
+      "label": "reduced-forward-4",
+      "sha256": "640fb03aa35537fe588a23c8aa6ca9d8814aff3a101de6d8be6e6efe9f356aba",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-4.jpg"
+    },
+    {
+      "label": "reduced-forward-5",
+      "sha256": "e6c570e912841e7b2d583f298d1898b62f9f40eb93304d0ec9bb3a9e19b5257f",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-5.jpg"
+    },
+    {
+      "label": "reduced-forward-6",
+      "sha256": "75e1c53576f05f5ba06f79f651dda071f900b7cc5f0c525acc43de204481e9f1",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-6.jpg"
+    },
+    {
+      "label": "reduced-forward-7",
+      "sha256": "f87547494879a12e85109da1d1df37c9d33e392224011b37a8365e1945aee348",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-7.jpg"
+    },
+    {
+      "label": "reduced-forward-8",
+      "sha256": "bf5a0678a20b39da0b00799141e628df93af3b0e7062ab6b07b228cc40eaa500",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-8.jpg"
+    },
+    {
+      "label": "reduced-forward-9",
+      "sha256": "d0be9364e0fa6af70584bf73e9acdbd911050bae1443187502f4ea5b1e3207de",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-9.jpg"
+    },
+    {
+      "label": "reduced-forward-10",
+      "sha256": "6492a5c28f6571a3e9ad5276b40704f46bfc28acd6406a587c6f267ebde5f589",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-10.jpg"
+    },
+    {
+      "label": "reduced-forward-11",
+      "sha256": "5bf7a450b6eba52688c7d4d9c85ae056738df76f8a8ff7ad7a5c6f05443b6548",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-11.jpg"
+    },
+    {
+      "label": "reduced-forward-12",
+      "sha256": "44bf55005f1a59e41680c427c272953f6609215ed0d5dc43ce37f1a3c5b32c38",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-12.jpg"
+    },
+    {
+      "label": "reduced-to-end-1",
+      "sha256": "44d9cb6b8a82cbd25988d484915f9bd540f618ee470b3ef264d0a1ac638bc8b6",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-to-end-1.jpg"
+    },
+    {
+      "label": "reduced-end-stop",
+      "sha256": "33a2e1d02a0876df8fbfda6818200c6c351f83dd373df6ccf5894b64503eba7f",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-end-stop.jpg"
+    },
+    {
+      "label": "reduced-reverse-1",
+      "sha256": "6c393b09bb836333c385a16286ec967540cb5e2f1fc1cfe6bcc5e243bc053899",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-1.jpg"
+    },
+    {
+      "label": "reduced-reverse-2",
+      "sha256": "a80bebc47209b4d3d45b76a601ff230facf956e393223a1f038bbe0fb14ab03a",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-2.jpg"
+    },
+    {
+      "label": "reduced-reverse-3",
+      "sha256": "15fef3f4d24de26251ed9b550b117187a9a343195b3a63056119059275f78e29",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-3.jpg"
+    },
+    {
+      "label": "reduced-reverse-4",
+      "sha256": "7a300fe507003ede7e82116c9ea1d89841dd33fb1b0e3169655d844929d72ee7",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-4.jpg"
+    },
+    {
+      "label": "reduced-reverse-stop",
+      "sha256": "3877195995c5142e305caf879ff4b70d5b7f42f9cfde678f9dbbb3188a4e6ae9",
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-stop.jpg"
+    }
+  ]
+}

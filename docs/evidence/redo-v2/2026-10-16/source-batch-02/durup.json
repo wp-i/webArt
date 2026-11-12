@@ -1,0 +1,95 @@
+{
+  "label": "durup",
+  "url": "https://www.durup.com/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-02/durup-opening.jpg",
+      "sha256": "8f05273e70545a0882307b56eb059e1c77445a698c4a02f58e965869bdf3ab5e"
+    },
+    {
+      "state": "middle",
+      "y": 5373,
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-02/durup-middle.jpg",
+      "sha256": "4a597019b1ff53a5df1c657e8e8b3c28568826883bee29a7e07039458db24fd3"
+    },
+    {
+      "state": "ending",
+      "y": 10746,
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-02/durup-ending.jpg",
+      "sha256": "17e49928ad1faa160f818afe10d4dae74f503f94f74ee1db3d906e6c6f897848"
+    }
+  ],
+  "metadata": {
+    "url": "https://www.durup.com/",
+    "height": 11646,
+    "text": "Durup\n\nPIONEERING A NEW WAY OF WORKING WITH TEXTILES TO CREATE DEEPER CONNECTIONS TO THE SPACES WE INHABIT\n\nEXPLORE OUR PORTFOLIO\nBROWSE OUR SERVICES\nMEET THE DESIGNER\nGET INSPIRED\n\nFeatured in\n\nHELLERUPVEJ 4  2900 HELLERUP  DENMARK\nHELLO@DURUP.COM   +45 5157 2201\n\nNewsletter Signup\nSIGN UP\nSIGN UP\nInstagram\nPinterest\nBOOK AN APPOINTMENT",
+    "headings": [
+      {
+        "text": "Durup",
+        "parent": "blurred-mobile | fixed top-0 w-full flex z-40 h-header-mobile lg:h-auto pointer-events-none",
+        "tag": "HEADER"
+      },
+      {
+        "text": "PIONEERING A NEW WAY OF WORKING WITH TEXTILES TO CREATE DEEPER CONNECTIONS TO THE SPACES WE INHABIT",
+        "parent": "hl-lg | col-span-full lg:col-start-2 lg:col-span-23",
+        "tag": "DIV"
+      }
+    ],
+    "scenes": [
+      {
+        "tag": "MAIN",
+        "id": "",
+        "class": "flex-1",
+        "top": 0,
+        "height": 10746
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "class": "grid-layout | h-svh w-full justify-center items-center text-center relative isolate text-white",
+        "top": 0,
+        "height": 900
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "class": "",
+        "top": 900,
+        "height": 6922
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "class": "grid-layout | py-56 lg:py-0 lg:h-[250vh]",
+        "top": 7822,
+        "height": 2250
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "class": "relative isolate pt-[7rem] pb-[18rem] lg:pt-[20rem] lg:pb-[25rem]",
+        "top": 10072,
+        "height": 674
+      },
+      {
+        "tag": "FOOTER",
+        "id": "",
+        "class": "h-screen w-full isolate text-white relative flex flex-col justify-between lg:block",
+        "top": 10746,
+        "height": 900
+      }
+    ]
+  },
+  "inventory": {
+    "images": 24,
+    "videos": [],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": false
+  },
+  "result": "scouted-not-admitted"
+}

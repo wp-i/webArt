@@ -1,0 +1,11 @@
+{
+  "result": "incomplete",
+  "purpose": "Retain actual failed material capture connection; no quality conclusion",
+  "failure": {
+    "code": "browser-unavailable",
+    "stage": "browser-connection",
+    "message": "Task browser unavailable before any source frame"
+  },
+  "frames": [],
+  "recordedAt": "2026-10-29T15:44:15.5130572Z"
+}

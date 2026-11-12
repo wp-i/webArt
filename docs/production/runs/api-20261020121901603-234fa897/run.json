@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261020121901603-234fa897",
+  "mode": "configuration-driven",
+  "productionMode": "first-style-qualification",
+  "codeGenerationCalls": 0,
+  "execution": "current-conversation-evidence-review",
+  "started": "2026-10-20T12:19:01.605Z",
+  "model": "current-conversation",
+  "ids": [
+    "006"
+  ],
+  "status": "ready-for-user-review",
+  "stage": "packaging",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [
+    {
+      "id": "006",
+      "title": "House of Ivory",
+      "directory": ".webart/prototypes/api-20261020121901603-234fa897-006",
+      "archivePath": ".webart/trials/api-20261020121901603-234fa897-006-source.zip",
+      "bytes": 4415983,
+      "sha256": "b6b5d5958a084c3cf0f6c2cbca910c01893e788cbf93f9a3132843b310e9524a",
+      "archiveReused": false,
+      "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d",
+      "qaRecord": "docs/qa/api-20261020121901603-234fa897-006.md",
+      "capturePath": "docs/evidence/production/api-20261020121901603-234fa897/006-prototype-0-0/capture.json",
+      "http": {
+        "previewAndAllAssets": "passed",
+        "archiveHttp": "passed"
+      },
+      "quality": "calibrated-review-passed-user-review-pending"
+    }
+  ],
+  "inventoryChanged": false,
+  "visualAcceptance": "pending-user-review",
+  "qualificationContinuationOf": "docs/production/runs/2026-10-19-four-redesigns",
+  "inputIdentity": "d9f827da890d5eef0e47c1104e149b5779e842e8662a9320f26551b8c3b3cc90",
+  "scope": "Deterministic qualification of an already authored and visually admitted prototype. New-style authoring and actual visual judgments are not zero-LLM.",
+  "resumes": [
+    {
+      "at": "2026-10-20T12:22:11.888Z",
+      "fromStage": "style-review",
+      "previousFailure": null
+    },
+    {
+      "at": "2026-10-20T12:39:39.732Z",
+      "fromStage": "performance-qa",
+      "previousFailure": null
+    }
+  ],
+  "qaAttempts": [
+    {
+      "id": "006",
+      "attempt": 1,
+      "directory": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa",
+      "binding": "21fb51c90f401577ef84942ec1e7a81c4669fc0bbbb9107199cd5147480bf0be",
+      "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d"
+    }
+  ],
+  "finished": "2026-10-20T12:39:55.176Z"
+}

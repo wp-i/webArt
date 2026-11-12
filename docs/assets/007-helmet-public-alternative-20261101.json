@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "007",
+  "phase": "bounded-public-model-alternative-check",
+  "startedAt": "2026-10-31T17:48:39Z",
+  "finishedAt": "2026-10-31T17:53:18.100Z",
+  "result": "public-source-established-first-role-mismatch-backup-role-unresolved",
+  "scope": "One SceneView public-source lead and one official Khronos backup only. No login, purchase, viewer-asset extraction, final model download, modelling, material edit or page implementation. The mother reference is admitted for assets/private prototype only; no replacement asset is admitted by this record.",
+  "reviewer": {
+    "id": "current-conversation-subagent-public-asset-research",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "bounds": {
+    "maximumNewModelPreviews": 2,
+    "actualNewModelPreviews": 2,
+    "finalModelFilesDownloaded": 0,
+    "finalTextureFilesDownloaded": 0,
+    "newReviewModelCalls": 0
+  },
+  "referenceGate": {
+    "path": "docs/production/runs/lando-reference-20261031/reference-gate.json",
+    "sha256": "a9c60c7711eebe1eba9c66c1b72a34e03d8709a1817e3f996c518e130e44e002",
+    "bytes": 1083
+  },
+  "publicProvenance": {
+    "path": "docs/evidence/redo-v2/2026-11-01/007-helmet-public-alternative-01/public-provenance.json",
+    "sha256": "16487f1b6efdc4bff54646db341447acdecbd7e1cd2f363a44c731b7d28682d6",
+    "bytes": 6696
+  },
+  "primary": {
+    "name": "moto helmet / Motorcycle Helmet",
+    "author": "sayedgamal655",
+    "authorUrl": "https://sketchfab.com/sayedgamal655",
+    "sourceUrl": "https://sketchfab.com/3d-models/moto-helmet-6c75ac1b13a047bd86742f37ce25adac",
+    "sourceUid": "6c75ac1b13a047bd86742f37ce25adac",
+    "sourceLicense": "CC-BY-4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "publicMirror": {
+      "creditsUrl": "https://sceneview.github.io/credits.html",
+      "repositoryCreditsUrl": "https://github.com/sceneview/sceneview/blob/main/assets/CREDITS.md",
+      "catalogUrl": "https://raw.githubusercontent.com/sceneview/sceneview/main/assets/catalog.json",
+      "manifestUrl": "https://raw.githubusercontent.com/sceneview/sceneview/main/assets/manifest.json",
+      "sourceMetadataIdentityMatches": true,
+      "licenseMatches": true,
+      "sceneviewApacheLicenseDoesNotReplaceModelLicense": true,
+      "declaredFiles": [
+        {
+          "path": "website-static/models/platforms/moto_helmet.glb",
+          "scope": "web",
+          "sha256": "1dbef2dd8bac59436d74d957ee8b80fb7b2216101417b9fcc78d7c25d749ea20",
+          "size": 3576408,
+          "source": "https://sketchfab.com/3d-models/moto-helmet-6c75ac1b13a047bd86742f37ce25adac",
+          "license": "CC-BY-4.0",
+          "author": "sayedgamal655"
+        },
+        {
+          "path": "website-static/models/platforms/moto_helmet_v2.glb",
+          "scope": "web",
+          "sha256": "77c3ab5042092f9762394a496646ff66b98789f8a6694c96c4cb14760356ae08",
+          "size": 3134276,
+          "source": "https://sketchfab.com/3d-models/moto-helmet-6c75ac1b13a047bd86742f37ce25adac",
+          "license": "CC-BY-4.0",
+          "author": "sayedgamal655"
+        }
+      ]
+    },
+    "preview": {
+      "sourceUrl": "https://media.sketchfab.com/models/6c75ac1b13a047bd86742f37ce25adac/thumbnails/306d44640ccc4495be30273dbf90e693/3a3460c6e5bf4807a0e5e601eb58216d.jpeg",
+      "sourceDimensions": [
+        1920,
+        1080
+      ],
+      "actualViewedScreenshot": {
+        "path": "docs/evidence/redo-v2/2026-11-01/007-helmet-public-alternative-01/sayed-author-preview.png",
+        "sha256": "5892df881e82b125863cda4260ebeea0cbe68f18ec5fae19eca42fb14c04f2ba",
+        "bytes": 614431
+      },
+      "observation": "The author preview shows a brown stitched leather open-face cap with separate framed goggles and exposed lower face/chin. Shield-shaped brand-like patches are visible on the leather. It is not the locked full-face hard-shell and broad reflective-visor role."
+    },
+    "sourceMetadataOnly": {
+      "triangles": 103202,
+      "vertices": 52711
+    },
+    "publicDownloadHeaders": [
+      {
+        "url": "https://github.com/sceneview/sceneview/releases/download/assets-v1/moto_helmet.glb",
+        "status": 200,
+        "redirectHost": "release-assets.githubusercontent.com",
+        "contentType": "application/octet-stream",
+        "contentLength": 3576408,
+        "bodyDownloaded": false,
+        "comparison": "Length matches current manifest original-file size; byte hash and actual embedded provenance are not verified."
+      },
+      {
+        "url": "https://sceneview.github.io/models/platforms/moto_helmet_v2.glb",
+        "status": 200,
+        "redirectHost": "sceneview.github.io",
+        "contentType": "model/gltf-binary",
+        "contentLength": 2586639,
+        "bodyDownloaded": false,
+        "comparison": "HEAD length differs from the current repository manifest v2 size 3134276. Do not claim the live website v2 equals manifest SHA77c3ab50... without an actual separately authorized file check."
+      }
+    ],
+    "releaseListingObservation": "Current public assets-v1 release API lists moto_helmet.glb; no moto_helmet_v2.glb entry appeared in that same exact-name query. The website v2 URL is publicly reachable but not byte-bound by this research.",
+    "status": "not-acquired-role-mismatch",
+    "limitation": "The catalog and API agree on author, UID and declared CC BY license. No original or mirror model body was downloaded. No complete archive ownership, mesh hierarchy, visor, hidden side, UV, PBR or triangle count was parsed. Visible patch rights are not certified by the general model license."
+  },
+  "backup": {
+    "name": "SciFi Helmet",
+    "sourceUrl": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/SciFiHelmet",
+    "readmeUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SciFiHelmet/README.md",
+    "licenseUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SciFiHelmet/LICENSE.md",
+    "metadataUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SciFiHelmet/metadata.json",
+    "author": "Michael Pavlovic",
+    "conversion": "Norbert Nopper, conversion to glTF",
+    "modelLicense": "CC0-1.0",
+    "metadataLicense": "CC-BY-4.0",
+    "directoryLicenseVerified": true,
+    "licenseExcludesLogosAndTrademarks": true,
+    "preview": {
+      "sourceUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SciFiHelmet/screenshot/screenshot.jpg",
+      "sourceDimensions": [
+        180,
+        135
+      ],
+      "actualViewedScreenshot": {
+        "path": "docs/evidence/redo-v2/2026-11-01/007-helmet-public-alternative-01/scifi-official-preview.png",
+        "sha256": "7093d773950cbcd4c66297ff99feade258d0f164da06b07da83ed2767437b1b8",
+        "bytes": 51999
+      },
+      "observation": "The actual small oblique preview shows a complete grey rigid helmet around the head and face, substantial cheek/jaw/neck-side components, shaped panels and dark face-facing recesses or a narrow band. Genre alone is not a rejection basis. The 180 by 135 image cannot establish whether the dark face feature is a visor or an eye opening, whether it has meaningful specular reflection, or how the helmet fits a separate portrait."
+    },
+    "status": "role-unresolved-not-downloaded-awaits-scoped-actual-file-and-material-decision",
+    "unverified": [
+      "Exact face-front/visor geometry and material separation.",
+      "Inner shell, underside, thickness and open edges after slicing.",
+      "Real PBR channels, UVs, texture detail and practical performance.",
+      "Correspondence to the same fictional person and the final worn-image identity."
+    ],
+    "limitation": "No SampleViewer was opened and no glTF, binary or texture was acquired. This is not an asset approval or a rejection based on the word futuristic."
+  },
+  "acquisition": {
+    "finalFiles": [],
+    "archive": null,
+    "destinationCreated": false,
+    "requestedSayedDestination": "assets/owned/campo-shell-20261101/sayedgamal",
+    "inspectionPerformed": false,
+    "actualMeshHierarchy": null,
+    "actualPbrChannels": null,
+    "actualTriangleCount": null
+  },
+  "nextAction": "Do not acquire the leather-cap lead for the locked full-face role. Chief may use the actual SciFi preview and directory CC0 evidence to decide a narrowly scoped actual-file/material inspection; it still needs real face-front, interior, rendering and portrait-fit evidence before adoption. Do not add a third model or fill gaps with procedural proxies.",
+  "assetApprovalGranted": false,
+  "prototypeApprovalGranted": false,
+  "fullImplementationAuthorized": false,
+  "sourcePackageAuthorized": false,
+  "inventoryChanged": false,
+  "showcaseChanged": false
+}

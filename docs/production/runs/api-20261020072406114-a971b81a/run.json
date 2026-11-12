@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261020072406114-a971b81a",
+  "mode": "configuration-driven",
+  "productionMode": "first-style-qualification",
+  "codeGenerationCalls": 0,
+  "execution": "current-conversation-evidence-review",
+  "started": "2026-10-20T07:24:06.116Z",
+  "model": "current-conversation",
+  "ids": [
+    "006"
+  ],
+  "status": "stopped-for-plan-revision",
+  "stage": "engineering-reused",
+  "usage": [],
+  "candidates": [
+    {
+      "id": "006",
+      "stage": "full-qa",
+      "decision": "reject",
+      "nextAction": "stop-for-plan-revision",
+      "fixTasks": [
+        "320开场标题实际三行，未保持已锁定的两行构图；只修订该宽度字号并重新采证，不因无溢出就放行。",
+        "键盘、鼠标和真实触摸的材料选择已成立；普通手机横向滑动空间卷轴尚缺直接验证，需要按brief补齐并测试，不能从纵向输入推定。",
+        "白底材料段的浅灰导航仍偏弱，下一版有界提高窄导航底色的深度，保留现有位置、照片和字体。"
+      ]
+    }
+  ],
+  "deliveries": [],
+  "inventoryChanged": false,
+  "visualAcceptance": "pending-user-review",
+  "qualificationContinuationOf": "docs/production/runs/2026-10-19-four-redesigns",
+  "inputIdentity": "98fcdb4f3fa4324a8ed2a0a9b1c53c9cae9d9aeb725bc14f26d79ccf6b279dae",
+  "scope": "Deterministic qualification of an already authored and visually admitted prototype. New-style authoring and actual visual judgments are not zero-LLM.",
+  "resumes": [
+    {
+      "at": "2026-10-20T07:26:07.918Z",
+      "fromStage": "style-review",
+      "previousFailure": null
+    },
+    {
+      "at": "2026-10-20T07:30:02.524Z",
+      "fromStage": "full-qa",
+      "previousFailure": {
+        "code": "stage-failed",
+        "message": "本地检查失败",
+        "diagnostic": "{\"result\":\"failed\",\"failure\":\"Runtime.evaluate timed out\",\"viewports\":[{\"name\":\"desktop\",\"viewport\":[1440,900],\"height\":4545,\"overflow\":false,\"missing\":0,\"fonts\":[{\"family\":\"Instrument Serif\",\"status\":\"loaded\"},{\"family\":\"Manrope\",\"status\":\"loaded\"}],\"clipped\":[],\"scenes\":[{\"selector\":\"#scene-opening\",\"visible\":true},{\"selector\":\"#scene-transition\",\"visible\":true},{\"selector\":\"#scene-middle\",\"visible\":true},{\"selector\":\"#scene-ending\",\"visible\":true}],\"controlClipping\":[]},{\"name\":\"wide\",\"viewport\":[2048,912],\"height\":4606,\"overflow\":false,\"missing\":0,\"fonts\":[{\"family\":\"Instrument Serif\",\"status\":\"loaded\"},{\"family\":\"Manrope\",\"status\":\"loaded\"}],\"clipped\":[],\"scenes\":[{\"selector\":\"#scene-opening\",\"visible\":true},{\"selector\":\"#scene-transition\",\"visible\":true},{\"selector\":\"#scene-middle\",\"visible\":true},{\"selector\":\"#scene-ending\",\"visible\":true}],\"controlClipping\":[]},{\"name\":\"tablet\",\"viewport\":[768,1024],\"height\":5171,\"overflow\":false,\"missing\":0,\"fonts\":[{\"family\":\"Instrument Serif\",\"status\":\"loaded\"},{\"family\":\"Manrope\",\"status\":\"loaded\"}],\"clipped\":[],\"scenes\":[{\"selector\":\"#scene-opening\",\"visible\":true},{\"selector\":\"#scene-transition\",\"visible\":true},{\"selector\":\"#scene-middle\",\"visible\":true},{\"selector\":\"#scene-ending\",\"visible\":true}],\"controlClipping\":[]},{\"name\":\"mobile\",\"viewport\":[390,844],\"height\":4009,\"overflow\":false,\"missing\":0,\"fonts\":[{\"family\":\"Instrument Serif\",\"status\":\"loaded\"},{\"family\":\"Manrope\",\"status\":\"loaded\"}],\"clipped\":[],\"scenes\":[{\"selector\":\"#scene-opening\",\"visible\":true},{\"selector\":\"#scene-transition\",\"visible\":true},{\"selector\":\"#scene-middle\",\"visible\":true},{\"selector\":\"#scene-ending\",\"visible\":true}],\"controlClipping\":[]},{\"name\":\"narrow\",\"viewport\":[320,844],\"height\":4009,\"overflow\":false,\"missing\":0,\"fonts\":[{\"family\":\"Instrument Serif\",\"status\":\"loaded\"},{\"family\":\"Manrope\",\"status\":\"loaded\"}],\"clipped\":[],\"scenes\":[{\"selector\":\"#scene-opening\",\"visible\":true},{\"selector\":\"#scene-transition\",\"visible\":true},{\"selector\":\"#scene-middle\",\"visible\":true},{\"selector\":\"#scene-ending\",\"visible\":true}],\"controlClipping\":[]}],\"states\":4,\"transitions\":12,\"arbitrary\":4,\"checks\":{},\"errors\":[]}\n"
+      }
+    },
+    {
+      "at": "2026-10-20T07:49:42.940Z",
+      "fromStage": "performance-qa",
+      "previousFailure": {
+        "code": "performance-gate",
+        "message": "desktop/native/roundtrip 动态帧耗时超预算；mobile-stress/native/roundtrip 动态帧耗时超预算"
+      }
+    },
+    {
+      "at": "2026-10-20T07:52:43.128Z",
+      "fromStage": "performance-qa",
+      "previousFailure": {
+        "code": "browser-configuration",
+        "message": "任务浏览器端点无效"
+      }
+    },
+    {
+      "at": "2026-10-20T08:05:09.761Z",
+      "fromStage": "performance-qa",
+      "previousFailure": null
+    }
+  ],
+  "qaAttempts": [
+    {
+      "id": "006",
+      "attempt": 2,
+      "directory": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-02",
+      "binding": "0e2ff3abdf907b8b5f718dda59f6fcbda55a359734d38ee0b4d896b81faec367",
+      "sourceSha256": "510d7c8b1ee2b97988b6fa590a569da0c979f48251198580a2334ee0a9349ae8"
+    },
+    {
+      "id": "006",
+      "attempt": 3,
+      "directory": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03",
+      "binding": "0e2ff3abdf907b8b5f718dda59f6fcbda55a359734d38ee0b4d896b81faec367",
+      "sourceSha256": "510d7c8b1ee2b97988b6fa590a569da0c979f48251198580a2334ee0a9349ae8"
+    }
+  ],
+  "finished": "2026-10-20T08:05:20.848Z"
+}

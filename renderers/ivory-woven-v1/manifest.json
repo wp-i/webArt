@@ -1,0 +1,43 @@
+{
+  "slug": "house-of-ivory",
+  "version": "0.4.2",
+  "output": "public/house-of-ivory-source.zip",
+  "files": [
+    {
+      "source": "renderers/ivory-woven-v1/source/index.html",
+      "archive": "index.html"
+    },
+    {
+      "source": "renderers/ivory-woven-v1/source/package.json",
+      "archive": "package.json"
+    },
+    {
+      "source": "renderers/ivory-woven-v1/source/package-lock.json",
+      "archive": "package-lock.json"
+    },
+    {
+      "source": "renderers/ivory-woven-v1/source/vite.config.js",
+      "archive": "vite.config.js"
+    },
+    {
+      "source": "renderers/ivory-woven-v1/source/src",
+      "archive": "src"
+    },
+    {
+      "source": "renderers/ivory-woven-v1/source/public/assets",
+      "archive": "public/assets"
+    },
+    {
+      "source": "renderers/ivory-woven-v1/source/README.md",
+      "archive": "README.md"
+    },
+    {
+      "source": "renderers/ivory-woven-v1/source/LICENSE.md",
+      "archive": "LICENSE.md"
+    },
+    {
+      "source": "renderers/ivory-woven-v1/source/THIRD_PARTY_NOTICES.md",
+      "archive": "THIRD_PARTY_NOTICES.md"
+    }
+  ]
+}

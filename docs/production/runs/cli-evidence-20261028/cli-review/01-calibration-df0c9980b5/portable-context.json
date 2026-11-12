@@ -1,0 +1,9 @@
+{
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "runId": "2026-10-25-cli-calibration",
+  "reviewerId": "codex-cli:0.164.0-alpha.11.1:default-evidence-v1",
+  "order": {
+    "path": "docs/production/runs/cli-evidence-20261028/history/calibration-order-private.json",
+    "sha256": "22dfda053a8b84f54debe5d6f24b5a05720605fecce6b337a35d0489c63810ad"
+  }
+}

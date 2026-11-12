@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "009",
+  "identity": "77843d11bd7b6ea5f9ca954480bff76268c1eb553b442b6cf2518f12791c39c1",
+  "sourceSha256": "b87f993e970d6435d8a7bc40579dd1572472b6291e96bbb0cb2340d66c9f2c31",
+  "dependencies": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-workflow-04.json",
+      "sha256": "c8564ddae6edab200a37a3bd3c967d4c554221901085f2a8b4229fefc21bb046"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-plan-04.json",
+      "sha256": "e260cb9e0f83e428d2e86a61491286077c91b5f545b10dd53d1a13793c6274b4"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-reference-review.json",
+      "sha256": "63e2a84c05950265e156a9e8d66290634d20452c51dffde5ad3d18f80c33097c"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/calibration-review.json",
+      "sha256": "5062704d49c1c462e82777e4a02d5f89dd073ff4f7900f0c537b869b1d114eb3"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-11-grouped/capture.json",
+      "sha256": "6b3587b685023760cdb8e146df7cd3cbbd42098b07220301dfa39781d06e7b75"
+    },
+    {
+      "path": "scripts/capture-production.mjs",
+      "sha256": "056cfd9c34bb457515177504203a2720f5291e78d78e3dc0db2540b33cd19a42"
+    },
+    {
+      "path": "scripts/production/device-metrics.mjs",
+      "sha256": "d28bd7dbca64f78b778935747de1612c7659fd30d7f74f4c9f714d00a418bbb2"
+    },
+    {
+      "path": "scripts/production/native-scroll.mjs",
+      "sha256": "ac9dd7ca80deba4be8ee2b6a437562765f3cfb59b418f5e4381359a174bd5b55"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/evidence.mjs",
+      "sha256": "c283732dfbf3e7654d70080c21965ab1097681254186e54d72f0e6173154c844"
+    },
+    {
+      "path": "docs/production/prompts/REVIEW_PAIR.md",
+      "sha256": "6010b0ee21174984b4f4b7aab4a9a1972e03baba3be5452e5c84c83c8ca90281"
+    }
+  ],
+  "createdAt": "2026-10-21T10:47:24.068Z",
+  "stages": [
+    {
+      "status": "capturing",
+      "at": "2026-10-21T10:47:24.493Z"
+    },
+    {
+      "status": "reviewing",
+      "at": "2026-10-21T10:48:25.987Z"
+    },
+    {
+      "status": "awaiting-review",
+      "at": "2026-10-21T10:48:27.047Z"
+    },
+    {
+      "status": "reviewing",
+      "at": "2026-10-21T10:51:41.852Z"
+    },
+    {
+      "status": "rejected",
+      "at": "2026-10-21T10:51:42.462Z"
+    }
+  ],
+  "captures": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-009-77843d11bd7b6ea5/capture-0.json",
+      "sha256": "50c7af9ab6f8a5948b4ba7a264b8924b9f2866ba890b54ebe6e6d7f6dca6edd9"
+    }
+  ],
+  "reviews": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-009-77843d11bd7b6ea5/review-0.json",
+      "sha256": "eb81d6bdeb1fa45b529377933613b46c9502eb5bd96abd15a0b68e8422d1309f"
+    }
+  ],
+  "modelCodeGenerationCalls": 0,
+  "packageAuthorized": false,
+  "attempt": 0,
+  "status": "rejected",
+  "updatedAt": "2026-10-21T10:51:42.462Z",
+  "nextAction": "revise-static-plan-and-create-new-candidate",
+  "fixTasks": [
+    "只调整桌面开场底部行动的位置，让它与第三幅摄影及说明无重叠；保留摄影、字形及主构图。",
+    "离开细看阶段时恢复原取景比例，避免原生反向和减少动态操作将放大裁切带入开场。",
+    "补齐三色肖像各自对齐视口的完整过程，并记录放大后实际指针取景的进入、反向和离开。",
+    "存在低于基准的品质维度",
+    "修改静态计划和试片后重新比较，不允许平均补偿"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+ "url":"https://www.durup.com/",
+ "output":"docs/evidence/redo-v2/2026-10-19/006-durup-reference",
+ "enterMs":8000,
+ "ready":"document.documentElement.scrollHeight>9000 && document.fonts.status==='loaded'",
+ "readyTimeoutMs":20000,
+ "states":{"opening":0,"transition":0.26,"middle":0.76,"ending":1},
+ "pointer":{"selector":"main section:nth-of-type(3)","position":0.76,"settleMs":700},
+ "settleMs":550,
+ "deadlineMs":240000
+}

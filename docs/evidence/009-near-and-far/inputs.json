@@ -1,0 +1,601 @@
+{
+  "started": "2026-10-12T04:44:38.363Z",
+  "mode": "full",
+  "origin": "http://127.0.0.1:4180/designs/009-near-and-far/",
+  "result": "passed",
+  "views": [
+    {
+      "width": 1440,
+      "normal": [
+        {
+          "progress": 0,
+          "y": 0,
+          "hero": "matrix(1, 0, 0, 1, -334.875, -237.75)",
+          "wash": "0",
+          "side": "0.45"
+        },
+        {
+          "progress": 0.25,
+          "y": 349,
+          "hero": "matrix(1, 0, 0, 1, -334.875, -228.443)",
+          "wash": "0.16286666666666666",
+          "side": "0.5431163287086447"
+        },
+        {
+          "progress": 0.5,
+          "y": 697,
+          "hero": "matrix(1, 0, 0, 1, -334.875, -219.163)",
+          "wash": "0.32526666666666665",
+          "side": "0.635965848452508"
+        },
+        {
+          "progress": 0.75,
+          "y": 1046,
+          "hero": "matrix(1, 0, 0, 1, -334.875, -213.75)",
+          "wash": "0.42",
+          "side": "0.7290821771611526"
+        },
+        {
+          "progress": 1,
+          "y": 1394,
+          "hero": "matrix(1, 0, 0, 1, -334.875, -213.75)",
+          "wash": "0.42",
+          "side": "0.821931696905016"
+        },
+        {
+          "progress": 0.75,
+          "y": 1046,
+          "hero": "matrix(1, 0, 0, 1, -334.875, -213.75)",
+          "wash": "0.42",
+          "side": "0.7290821771611526"
+        },
+        {
+          "progress": 0.5,
+          "y": 697,
+          "hero": "matrix(1, 0, 0, 1, -334.875, -219.163)",
+          "wash": "0.32526666666666665",
+          "side": "0.635965848452508"
+        },
+        {
+          "progress": 0.25,
+          "y": 349,
+          "hero": "matrix(1, 0, 0, 1, -334.875, -228.443)",
+          "wash": "0.16286666666666666",
+          "side": "0.5431163287086447"
+        },
+        {
+          "progress": 0,
+          "y": 0,
+          "hero": "matrix(1, 0, 0, 1, -334.875, -237.75)",
+          "wash": "0",
+          "side": "0.45"
+        }
+      ],
+      "controls": [
+        {
+          "name": "coast",
+          "open": true,
+          "escape": true,
+          "focus": true,
+          "layout": {
+            "dialogHeight": 868,
+            "imageHeight": 708,
+            "viewportHeight": 900,
+            "overflow": false
+          }
+        },
+        {
+          "name": "street",
+          "open": true,
+          "escape": true,
+          "focus": true,
+          "layout": {
+            "dialogHeight": 868,
+            "imageHeight": 708,
+            "viewportHeight": 900,
+            "overflow": false
+          }
+        },
+        {
+          "name": "dunes",
+          "open": true,
+          "escape": true,
+          "focus": true,
+          "layout": {
+            "dialogHeight": 868,
+            "imageHeight": 708,
+            "viewportHeight": 900,
+            "overflow": false
+          }
+        },
+        {
+          "arrows": true,
+          "keys": true,
+          "wrap": true,
+          "buttonClose": true,
+          "backdrop": true,
+          "notes": true
+        }
+      ],
+      "reduced": [
+        {
+          "progress": 0,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        },
+        {
+          "progress": 0.5,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        },
+        {
+          "progress": 1,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        },
+        {
+          "progress": 0,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        }
+      ],
+      "pointer": {
+        "fine": true,
+        "x": "0.82120194102277px",
+        "transform": "matrix(1.05, 0, 0, 1.05, 0.821202, 0.447928)"
+      },
+      "trusted": [
+        {
+          "type": "mouse",
+          "trusted": true,
+          "target": "<img src=\"/assets/coast-B7k2QsJN.webp\" width=\"2000\" height=\"1166\" alt=\"Clear turquoise water meeting a quiet pale beach,"
+        },
+        {
+          "type": "mouse",
+          "trusted": true,
+          "target": "<img src=\"/assets/street-BkQmvGzi.webp\" width=\"2000\" height=\"1333\" alt=\"A pedestrian crossing a sunlit pavement patterne"
+        },
+        {
+          "type": "mouse",
+          "trusted": true,
+          "target": "<img src=\"/assets/dunes-Cvj024Rp.webp\" width=\"2000\" height=\"1329\" alt=\"A sweeping orange dune with deep blue shadows and"
+        },
+        {
+          "type": "mouse",
+          "trusted": true,
+          "target": "<img src=\"/assets/coast-B7k2QsJN.webp\" width=\"2000\" height=\"1166\" alt=\"Clear turquoise water meeting a quiet pale beach,"
+        },
+        {
+          "type": "mouse",
+          "trusted": true,
+          "target": "<button class=\"photo-next\" type=\"button\" aria-label=\"Next photograph\">Next →</button>"
+        },
+        {
+          "type": "mouse",
+          "trusted": true,
+          "target": "<button class=\"photo-previous\" type=\"button\" aria-label=\"Previous photograph\">← Previous</button>"
+        },
+        {
+          "type": "mouse",
+          "trusted": true,
+          "target": "<button class=\"photo-close\" type=\"button\" autofocus=\"\" aria-label=\"Close full photograph\">Close ×</button>"
+        },
+        {
+          "type": "mouse",
+          "trusted": true,
+          "target": "<dialog class=\"photo-dialog\" aria-labelledby=\"photo-title\" open=\"\"><header class=\"photo-heading\"><h2 id=\"photo-title\">Co"
+        },
+        {
+          "type": "mouse",
+          "trusted": true,
+          "target": "<summary>Studio notes <span aria-hidden=\"true\">+</span></summary>"
+        },
+        {
+          "type": "mouse",
+          "trusted": true,
+          "target": "<summary>Studio notes <span aria-hidden=\"true\">+</span></summary>"
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "normal": [
+        {
+          "progress": 0,
+          "y": 0,
+          "hero": "matrix(1, 0, 0, 1, -152.094, -112.891)",
+          "wash": "0",
+          "side": "0.45"
+        },
+        {
+          "progress": 0.25,
+          "y": 371,
+          "hero": "matrix(1, 0, 0, 1, -152.094, -102.341)",
+          "wash": "0.18462085308056872",
+          "side": "0.5536312849162012"
+        },
+        {
+          "progress": 0.5,
+          "y": 742,
+          "hero": "matrix(1, 0, 0, 1, -152.094, -91.7911)",
+          "wash": "0.36924170616113744",
+          "side": "0.6572625698324023"
+        },
+        {
+          "progress": 0.75,
+          "y": 1113,
+          "hero": "matrix(1, 0, 0, 1, -152.094, -88.8906)",
+          "wash": "0.42",
+          "side": "0.7608938547486034"
+        },
+        {
+          "progress": 1,
+          "y": 1484,
+          "hero": "matrix(1, 0, 0, 1, -152.094, -88.8906)",
+          "wash": "0.42",
+          "side": "0.8645251396648045"
+        },
+        {
+          "progress": 0.75,
+          "y": 1113,
+          "hero": "matrix(1, 0, 0, 1, -152.094, -88.8906)",
+          "wash": "0.42",
+          "side": "0.7608938547486034"
+        },
+        {
+          "progress": 0.5,
+          "y": 742,
+          "hero": "matrix(1, 0, 0, 1, -152.094, -91.7911)",
+          "wash": "0.36924170616113744",
+          "side": "0.6572625698324023"
+        },
+        {
+          "progress": 0.25,
+          "y": 371,
+          "hero": "matrix(1, 0, 0, 1, -152.094, -102.341)",
+          "wash": "0.18462085308056872",
+          "side": "0.5536312849162012"
+        },
+        {
+          "progress": 0,
+          "y": 0,
+          "hero": "matrix(1, 0, 0, 1, -152.094, -112.891)",
+          "wash": "0",
+          "side": "0.45"
+        }
+      ],
+      "controls": [
+        {
+          "name": "coast",
+          "open": true,
+          "escape": true,
+          "focus": true,
+          "layout": {
+            "dialogHeight": 347.375,
+            "imageHeight": 199.375,
+            "viewportHeight": 844,
+            "overflow": false
+          }
+        },
+        {
+          "name": "street",
+          "open": true,
+          "escape": true,
+          "focus": true,
+          "layout": {
+            "dialogHeight": 375.9375,
+            "imageHeight": 227.9375,
+            "viewportHeight": 844,
+            "overflow": false
+          }
+        },
+        {
+          "name": "dunes",
+          "open": true,
+          "escape": true,
+          "focus": true,
+          "layout": {
+            "dialogHeight": 375.25,
+            "imageHeight": 227.25,
+            "viewportHeight": 844,
+            "overflow": false
+          }
+        },
+        {
+          "arrows": true,
+          "keys": true,
+          "wrap": true,
+          "buttonClose": true,
+          "backdrop": true,
+          "notes": true
+        }
+      ],
+      "reduced": [
+        {
+          "progress": 0,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        },
+        {
+          "progress": 0.5,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        },
+        {
+          "progress": 1,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        },
+        {
+          "progress": 0,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        }
+      ],
+      "pointer": {
+        "fine": false,
+        "x": "",
+        "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)"
+      },
+      "trusted": [
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<img src=\"/assets/coast-B7k2QsJN.webp\" width=\"2000\" height=\"1166\" alt=\"Clear turquoise water meeting a quiet pale beach,"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<img src=\"/assets/street-BkQmvGzi.webp\" width=\"2000\" height=\"1333\" alt=\"A pedestrian crossing a sunlit pavement patterne"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<img src=\"/assets/dunes-Cvj024Rp.webp\" width=\"2000\" height=\"1329\" alt=\"A sweeping orange dune with deep blue shadows and"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<img src=\"/assets/coast-B7k2QsJN.webp\" width=\"2000\" height=\"1166\" alt=\"Clear turquoise water meeting a quiet pale beach,"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<button class=\"photo-next\" type=\"button\" aria-label=\"Next photograph\">Next →</button>"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<button class=\"photo-previous\" type=\"button\" aria-label=\"Previous photograph\">← Previous</button>"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<button class=\"photo-close\" type=\"button\" autofocus=\"\" aria-label=\"Close full photograph\">Close ×</button>"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<dialog class=\"photo-dialog\" aria-labelledby=\"photo-title\" open=\"\"><header class=\"photo-heading\"><h2 id=\"photo-title\">Co"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<summary>Studio notes <span aria-hidden=\"true\">+</span></summary>"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<summary>Studio notes <span aria-hidden=\"true\">+</span></summary>"
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "normal": [
+        {
+          "progress": 0,
+          "y": 0,
+          "hero": "matrix(1, 0, 0, 1, -132.797, -99.5312)",
+          "wash": "0",
+          "side": "0.45"
+        },
+        {
+          "progress": 0.25,
+          "y": 345,
+          "hero": "matrix(1, 0, 0, 1, -132.797, -89.7208)",
+          "wash": "0.17168246445497629",
+          "side": "0.5524346793349169"
+        },
+        {
+          "progress": 0.5,
+          "y": 689,
+          "hero": "matrix(1, 0, 0, 1, -132.797, -79.9388)",
+          "wash": "0.34286729857819903",
+          "side": "0.6545724465558195"
+        },
+        {
+          "progress": 0.75,
+          "y": 1034,
+          "hero": "matrix(1, 0, 0, 1, -132.797, -75.5312)",
+          "wash": "0.42",
+          "side": "0.7570071258907364"
+        },
+        {
+          "progress": 1,
+          "y": 1378,
+          "hero": "matrix(1, 0, 0, 1, -132.797, -75.5312)",
+          "wash": "0.42",
+          "side": "0.859144893111639"
+        },
+        {
+          "progress": 0.75,
+          "y": 1034,
+          "hero": "matrix(1, 0, 0, 1, -132.797, -75.5312)",
+          "wash": "0.42",
+          "side": "0.7570071258907364"
+        },
+        {
+          "progress": 0.5,
+          "y": 689,
+          "hero": "matrix(1, 0, 0, 1, -132.797, -79.9388)",
+          "wash": "0.34286729857819903",
+          "side": "0.6545724465558195"
+        },
+        {
+          "progress": 0.25,
+          "y": 345,
+          "hero": "matrix(1, 0, 0, 1, -132.797, -89.7208)",
+          "wash": "0.17168246445497629",
+          "side": "0.5524346793349169"
+        },
+        {
+          "progress": 0,
+          "y": 0,
+          "hero": "matrix(1, 0, 0, 1, -132.797, -99.5312)",
+          "wash": "0",
+          "side": "0.45"
+        }
+      ],
+      "controls": [
+        {
+          "name": "coast",
+          "open": true,
+          "escape": true,
+          "focus": true,
+          "layout": {
+            "dialogHeight": 306.5625,
+            "imageHeight": 158.5625,
+            "viewportHeight": 844,
+            "overflow": false
+          }
+        },
+        {
+          "name": "street",
+          "open": true,
+          "escape": true,
+          "focus": true,
+          "layout": {
+            "dialogHeight": 329.28125,
+            "imageHeight": 181.28125,
+            "viewportHeight": 844,
+            "overflow": false
+          }
+        },
+        {
+          "name": "dunes",
+          "open": true,
+          "escape": true,
+          "focus": true,
+          "layout": {
+            "dialogHeight": 328.734375,
+            "imageHeight": 180.734375,
+            "viewportHeight": 844,
+            "overflow": false
+          }
+        },
+        {
+          "arrows": true,
+          "keys": true,
+          "wrap": true,
+          "buttonClose": true,
+          "backdrop": true,
+          "notes": true
+        }
+      ],
+      "reduced": [
+        {
+          "progress": 0,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        },
+        {
+          "progress": 0.5,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        },
+        {
+          "progress": 1,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        },
+        {
+          "progress": 0,
+          "shift": "0px",
+          "wash": "0",
+          "image": "none"
+        }
+      ],
+      "pointer": {
+        "fine": false,
+        "x": "",
+        "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)"
+      },
+      "trusted": [
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<img src=\"/assets/coast-B7k2QsJN.webp\" width=\"2000\" height=\"1166\" alt=\"Clear turquoise water meeting a quiet pale beach,"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<img src=\"/assets/street-BkQmvGzi.webp\" width=\"2000\" height=\"1333\" alt=\"A pedestrian crossing a sunlit pavement patterne"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<img src=\"/assets/dunes-Cvj024Rp.webp\" width=\"2000\" height=\"1329\" alt=\"A sweeping orange dune with deep blue shadows and"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<img src=\"/assets/coast-B7k2QsJN.webp\" width=\"2000\" height=\"1166\" alt=\"Clear turquoise water meeting a quiet pale beach,"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<button class=\"photo-next\" type=\"button\" aria-label=\"Next photograph\">Next →</button>"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<button class=\"photo-previous\" type=\"button\" aria-label=\"Previous photograph\">← Previous</button>"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<button class=\"photo-close\" type=\"button\" autofocus=\"\" aria-label=\"Close full photograph\">Close ×</button>"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<dialog class=\"photo-dialog\" aria-labelledby=\"photo-title\" open=\"\"><header class=\"photo-heading\"><h2 id=\"photo-title\">Co"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<summary>Studio notes <span aria-hidden=\"true\">+</span></summary>"
+        },
+        {
+          "type": "touch",
+          "trusted": true,
+          "target": "<summary>Studio notes <span aria-hidden=\"true\">+</span></summary>"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "finished": "2026-10-12T04:44:55.847Z"
+}

@@ -1,0 +1,371 @@
+{
+  "id": "009",
+  "status": "locked-for-first-style-qualification",
+  "brief": "docs/pages/009-editorial-portraits.md",
+  "referenceMap": "docs/references/009-editorial-portraits.md",
+  "assetPlan": {
+    "record": "docs/assets/009-editorial-portraits.md",
+    "heroRoleLocked": true,
+    "replacementCompared": true,
+    "rightsVerified": true,
+    "lowCostIsNotMerit": true,
+    "evidence": [
+      {
+        "path": "docs/assets/009-editorial-portraits-approval-02.json",
+        "sha256": "f587656288ce9404cf22e2c88881394743397a2ceb01631ba3bfc4b21b4ff417"
+      }
+    ]
+  },
+  "referenceCapture": {
+    "url": "https://www.ottografie.nl/",
+    "output": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-11-grouped",
+    "retainedEvidence": {
+      "capture": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-11-grouped/capture.json",
+        "sha256": "6b3587b685023760cdb8e146df7cd3cbbd42098b07220301dfa39781d06e7b75"
+      },
+      "review": {
+        "path": "docs/production/runs/2026-10-19-four-redesigns/009-reference-review.json",
+        "sha256": "63e2a84c05950265e156a9e8d66290634d20452c51dffde5ad3d18f80c33097c"
+      },
+      "calibration": {
+        "path": "docs/production/runs/2026-10-19-four-redesigns/calibration-review.json",
+        "sha256": "5062704d49c1c462e82777e4a02d5f89dd073ff4f7900f0c537b869b1d114eb3"
+      }
+    }
+  },
+  "coreSignatures": [
+    {
+      "name": "staggered-photographic-world",
+      "visualPurpose": "错位摄影围绕分类字形成完整作品空间，真实输入连续推进照片的尺度、前后关系和观看位置，保留作品本身的工艺，而不是普通等宽图库或轻移装饰。"
+    },
+    {
+      "name": "photographic-world-to-detail",
+      "visualPurpose": "照片从作品路径连续进入有索引和取景工具的细看构图，主体、工具与返回在进入、操作、离开中共同编排，普通图片放大功能本身不能替代这一视觉交接。"
+    },
+    {
+      "name": "chromatic-photographer-sequence",
+      "visualPurpose": "摄影者成为被摄对象，橙、蓝、绿三幅独立光线与姿态的肖像推进人物介绍并完整收束，保持同一人物身份及照片特异性，不用同图换色或通用邮箱页脚代替。"
+    }
+  ],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "错位的大小肖像与居中的大衬线分类字形成摄影作品的主要观看对象，照片人物、造型和具体光线需要有辨识度。",
+        "material": "摄影的肤质、发型、服装与明暗必须有真实细节；不同作品的色彩和纹理各有内容，不能以普通头像或统一滤镜充数。",
+        "composition": "纸色空间中三处不同幅面的摄影与分类字有控制的遮叠和间距，手机重排为交错摄影并直接显示作品名，不退回普通等宽卡片。",
+        "role": "默认已呈现摄影作品及身份，主要图片无需进入菜单或先点击才看见，后续连续观看由这些真实作品展开。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": ".photo-world.visual",
+            "minimumViewportArea": 0.9,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "原有摄影对象在连续输入中穿越视口，观看位置、幅面及图字关系发生有作用的交接，新的作品观看内容保持清楚。",
+        "material": "照片放大或进入新位置时仍有充分的肤质、造型和服装细节；不得用模糊占位或强遮罩掩盖实际图片工艺。",
+        "composition": "摄影和大字保持前后层次，照片的错位与尺度变化推进观看，主体不能缩成边缘小卡或长时间只留下孤立字形。",
+        "role": "输入实际改变摄影观看，正向、反向和停止均有清楚的当前对象；手机的实际触摸保留同一内容用途，不能只用桌面轮滚推定。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": ".photo-world.visual",
+            "minimumViewportArea": 0.9,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "摄影项目进入细看空间，同一作品对象与索引及观看工具共同组成主要构图，必须实际保留照片细节与完整回到作品的路径。",
+        "material": "最终摄影在细看尺度中仍清晰、自然，皮肤、织物与光线层次可辨；放大后的低清或失真的人脸不能以功能通过抵消。",
+        "composition": "从项目摄影进入居中观看及侧边索引的布局交接连续，工具与图片有明确比例，手机照片和退出行动均完整可达。",
+        "role": "指针或触摸操作改变实际摄影取景并可返回，观看器的构图交接与主题耦合；普通放大按钮或倍率数字自身不是签名品质。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": ".photo-world.visual",
+            "minimumViewportArea": 0.9,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "独立的人物肖像承担摄影者介绍与收束，同一人物的不同姿态、彩色光线及相机身份形成完整摄影结果，不用纯色联系块替代。",
+        "material": "橙、蓝、绿的独立光线与深色人物轮廓相互区分，肤质、手部与相机结构真实；不能把同一照片换色当作新的摄影。",
+        "composition": "彩色摄影保持足够面积和可辨轮廓，短文字与联系位于合适空间，手机仍有完整人物观看与清楚行动，不再次堆叠巨型标题。",
+        "role": "由观看作品转为观看摄影者及其光线语言，介绍与联系直接可到达，末段具有独立摄影身份与完整结束，不无限循环补长。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-ending .visual",
+            "minimumViewportArea": 0.3,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": []
+  },
+  "revision": "05",
+  "prototypeCapture": {
+    "ready": "document.documentElement.dataset.ready==='true' && document.fonts.status==='loaded'",
+    "requireVisibleImages": true,
+    "enterMs": 350,
+    "states": {
+      "opening": 0,
+      "transition": {
+        "selector": "#scene-transition"
+      },
+      "middle": {
+        "selector": "#scene-middle"
+      },
+      "ending": 1
+    },
+    "pointer": {
+      "selector": "#distance",
+      "scene": "#scene-middle",
+      "retainPosition": true,
+      "drag": true,
+      "settleMs": 250,
+      "clickSelectors": [
+        "#reset-view"
+      ],
+      "inspect": ".photograph[data-selected=\"true\"] .photograph-window"
+    },
+    "initialPointer": {
+      "x": 0.98,
+      "y": 0.02
+    },
+    "settleMs": 350,
+    "deadlineMs": 120000,
+    "trustedTouch": true,
+    "processScenes": [
+      "#about",
+      ".portrait-blue",
+      "#scene-ending"
+    ]
+  },
+  "content": {
+    "hero-title": "Character",
+    "about-title": "Light finds a character.",
+    "about-intro": "An independent eye for the way people inhabit a frame.",
+    "listen-title": "First, listen.",
+    "listen-copy": "A good portrait begins before the shutter. With a conversation, a little patience, and room to be yourself.",
+    "contact-title": "Let’s make a picture."
+  },
+  "requiredContent": [
+    "hero-title",
+    "about-title",
+    "about-intro",
+    "listen-title",
+    "listen-copy",
+    "contact-title"
+  ],
+  "implementationObservation": "Independent continuous native document path. Three original objects recompose from staggered photographic field into central selected work plus two small indices and genuine distance/point-of-view controls. Entering a photograph follows the same native path; there is no source route clone. Three fictional same-person portraits form the independent ending. Reductions and final replacements still require actual prototype comparison.",
+  "assets": [
+    {
+      "assetId": "thread",
+      "creator": "Ericka Sánchez",
+      "source": "https://www.pexels.com/photo/fashion-studio-portrait-with-red-thread-accent-36161804/",
+      "license": "https://www.pexels.com/license/",
+      "localPath": "assets/owned/editorial-portraits-v1/thread.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Used within one complete editable website template, explicitly included among Pexels permitted template uses; no standalone photo resale or claimed endorsement; actual photographers credited.",
+      "sha256": "30ef399bca3ec63ca405a4c345faf5f6bd2e51cba34206dbde885de2315ccf68",
+      "role": "staggered full-body work",
+      "desktopCrop": "Portrait at the left, full costume, red thread and boots; same object enters the selected photograph with smaller indices.",
+      "mobileCrop": "Staggered small portrait; keep the white silhouette, boots, face and red thread. Selected viewing receives the full original source."
+    },
+    {
+      "assetId": "tulle",
+      "creator": "Israyosoy S.",
+      "source": "https://www.pexels.com/photo/striking-fashion-portrait-with-red-tulle-31167815/",
+      "license": "https://www.pexels.com/license/",
+      "localPath": "assets/owned/editorial-portraits-v1/tulle.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Used within one complete editable website template, explicitly included among Pexels permitted template uses; no standalone photo resale or claimed endorsement; actual photographers credited.",
+      "sha256": "259b45ce4991746c394732022f4b803a0192241631eb11cc6949a6c19be2f975",
+      "role": "dominant editorial close portrait",
+      "desktopCrop": "Default large close portrait at 50%/50%; retain eye makeup, lips, red mesh and hands.",
+      "mobileCrop": "Default dominant portrait at 50%/50%; retain face and tulle texture."
+    },
+    {
+      "assetId": "velvet",
+      "creator": "kwnos Iv",
+      "source": "https://www.pexels.com/photo/striking-fashion-portrait-with-red-velvet-outfit-30567451/",
+      "license": "https://www.pexels.com/license/",
+      "localPath": "assets/owned/editorial-portraits-v1/velvet.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Used within one complete editable website template, explicitly included among Pexels permitted template uses; no standalone photo resale or claimed endorsement; actual photographers credited.",
+      "sha256": "5a67a47481725e396e1ad43bd59f66ce5f0d8eb99c3258bf853a8e0649e4d5f0",
+      "role": "staggered outdoor work and default detail selection",
+      "desktopCrop": "Lower-right opening becomes central selected photograph; retain sky, bare branches, face and red velvet.",
+      "mobileCrop": "Lower-left staggered work becomes central detail photograph; the face, garment and daylight remain clear."
+    },
+    {
+      "assetId": "orange",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated fictional adult photographer; orange establishes identity; blue and green use that original portrait as identity reference.",
+      "license": "Original generated asset for this complete template",
+      "localPath": "assets/owned/editorial-portraits-v1/orange.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Original fictional demonstration content; no source website identity or photographs used; no claim of actual commissioned work.",
+      "sha256": "ca1f1b2996bb440b852ed2dd1d996c89415373e84464aee9d3085e19dddab72f",
+      "role": "photographer observes",
+      "desktopCrop": "Left 58% panel at 50%/39%, full head and neck; short statement occupies independent orange field.",
+      "mobileCrop": "Full-width 67svh portrait at 50%/35%; keep complete hair, face and shoulders, statement below."
+    },
+    {
+      "assetId": "blue",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated fictional adult photographer; orange establishes identity; blue and green use that original portrait as identity reference.",
+      "license": "Original generated asset for this complete template",
+      "localPath": "assets/owned/editorial-portraits-v1/blue.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Original fictional demonstration content; no source website identity or photographs used; no claim of actual commissioned work.",
+      "sha256": "3275df4118316e0e729f69772a0d307690d68b21dd4058e20e67259cd96ca76f",
+      "role": "photographer listens",
+      "desktopCrop": "Left 55% panel at 45%/40%; hair, headphones and natural hand stay visible.",
+      "mobileCrop": "Full-width 67svh portrait; full hair and listening hand retained, short statement follows."
+    },
+    {
+      "assetId": "green",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated fictional adult photographer; orange establishes identity; blue and green use that original portrait as identity reference.",
+      "license": "Original generated asset for this complete template",
+      "localPath": "assets/owned/editorial-portraits-v1/green.webp",
+      "verified": "2026-10-21",
+      "distributionBasis": "Original fictional demonstration content; no source website identity or photographs used; no claim of actual commissioned work.",
+      "sha256": "35d82c24cded0e1e3c971163fa15856762e4d52a219a6e14574136a32efdc8c0",
+      "role": "photographer creates and contact",
+      "desktopCrop": "Left 58% panel at 50%/45%; face, hands and camera preserved, small contact on green field.",
+      "mobileCrop": "Full-width 63svh portrait; face, both hands and camera remain above complete contact and return."
+    }
+  ],
+  "fonts": [
+    {
+      "id": "bodoni-moda",
+      "role": "photographic display typography"
+    },
+    {
+      "id": "inter",
+      "role": "navigation, credits and viewing tools"
+    }
+  ],
+  "rendering": {
+    "mode": "dom"
+  },
+  "lockedModules": [],
+  "performance": {
+    "schemaVersion": 1,
+    "mode": "dom",
+    "states": {
+      "opening": 0,
+      "transition": 0,
+      "middle": 0,
+      "ending": 0
+    }
+  },
+  "comparison": {
+    "negativeId": "009"
+  },
+  "style": {
+    "requiredDifferences": [
+      "composition",
+      "typography",
+      "color-media",
+      "rhythm"
+    ]
+  },
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "approval": {
+    "date": "2026-10-21",
+    "record": "docs/DECISIONS.md"
+  },
+  "controls": [
+    {
+      "selector": ".skip"
+    },
+    {
+      "selector": ".identity a"
+    },
+    {
+      "selector": ".world-note a"
+    },
+    {
+      "selector": ".photograph"
+    },
+    {
+      "selector": ".view-tools a",
+      "scene": "#scene-middle"
+    },
+    {
+      "selector": "#distance",
+      "scene": "#scene-middle",
+      "rangeCheck": "(()=>{const input=document.querySelector('#distance'),photo=document.querySelector('.photograph[data-selected=\"true\"] img'),matrix=new DOMMatrixReadOnly(getComputedStyle(photo).transform);return Math.abs(matrix.a-Number(input.value))<.01&&document.querySelector('#distance-value').value===Number(input.value).toFixed(1)+'×'})()"
+    },
+    {
+      "selector": "#reset-view",
+      "scene": "#scene-middle",
+      "prepare": {
+        "selector": "#distance",
+        "keys": [
+          "End"
+        ],
+        "check": "Number(document.querySelector('#distance').value)===2.4"
+      },
+      "activeCheck": "Number(document.querySelector('#distance').value)===1 && document.querySelector('#distance-value').value==='1.0×'",
+      "mouseCheck": "Number(document.querySelector('#distance').value)===1 && document.querySelector('#distance-value').value==='1.0×'",
+      "touchCheck": "Number(document.querySelector('#distance').value)===1 && document.querySelector('#distance-value').value==='1.0×'"
+    },
+    {
+      "selector": ".contact-link",
+      "scene": "#scene-ending"
+    },
+    {
+      "selector": ".end-note a",
+      "scene": "#scene-ending"
+    }
+  ],
+  "contentBudget": {
+    "totalCharacters": 900,
+    "paragraphCharacters": 120
+  },
+  "qa": {
+    "images": 6,
+    "fonts": [
+      "Bodoni Moda",
+      "Inter"
+    ],
+    "scenes": [
+      ".world",
+      "#about",
+      ".portrait-blue",
+      "#scene-ending"
+    ],
+    "clipBounds": [],
+    "composition": {
+      "desktop": "1440×900：三处摄影与字形形成错位观看，底部行动处于纸色留白；中央细看、两幅索引与取景条均清楚，三色人物与独立联系完整。",
+      "wide": "2048×912：摄影维持不同幅面、图字前后层次及素材细节，观看工具不被拉散，人物及相机保持完整，行动在摄影外有稳定承载。",
+      "tablet": "768×1024：摄影与衬线字保持错位关系，细看索引/工具不拥挤；三色人物和短陈述并列，各种头部、手部和相机不被关键裁断。",
+      "mobile": "390×844：照片交错并带完整作品名，进入细看保留主体、小索引和全部取景/返回行动；三色人物改为上图下文，联系直接可达。",
+      "narrow": "320×844：小幅面摄影、作品标题与取景条无重叠，文字不越界；完整头部、手部、相机及末段联系仍有足够面积，首尾行动可用。"
+    }
+  }
+}

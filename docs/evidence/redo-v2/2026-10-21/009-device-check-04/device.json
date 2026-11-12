@@ -1,0 +1,77 @@
+{
+  "result": "device-diagnostic-only",
+  "checks": [
+    {
+      "mode": "viewport-and-screen-only",
+      "url": "https://www.ottografie.nl/",
+      "inner": [
+        390,
+        844
+      ],
+      "outer": [
+        390,
+        844
+      ],
+      "screen": [
+        390,
+        844
+      ],
+      "orientation": "portrait-primary",
+      "angle": 0,
+      "portrait": true,
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+      "meta": "width=device-width, initial-scale=1",
+      "rotate": [
+        {
+          "cls": "notification",
+          "parent": "app app-home",
+          "display": "block",
+          "rect": [
+            390,
+            844
+          ]
+        }
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-device-check-04/before/contact-sheet.jpg",
+        "sha256": "3023d44df839b327420f5afe6aa8866e10499514fd662062cecbd36d00d7e3c7"
+      }
+    },
+    {
+      "mode": "matching-browser-window",
+      "url": "https://www.ottografie.nl/",
+      "inner": [
+        390,
+        844
+      ],
+      "outer": [
+        390,
+        844
+      ],
+      "screen": [
+        390,
+        844
+      ],
+      "orientation": "portrait-primary",
+      "angle": 0,
+      "portrait": true,
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36",
+      "meta": "width=device-width, initial-scale=1",
+      "rotate": [
+        {
+          "cls": "notification",
+          "parent": "app app-home",
+          "display": "block",
+          "rect": [
+            390,
+            844
+          ]
+        }
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-device-check-04/window/contact-sheet.jpg",
+        "sha256": "3023d44df839b327420f5afe6aa8866e10499514fd662062cecbd36d00d7e3c7"
+      }
+    }
+  ]
+}

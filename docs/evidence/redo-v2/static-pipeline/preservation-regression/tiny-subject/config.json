@@ -1,0 +1,97 @@
+{
+  "url": "http://127.0.0.1:4371/",
+  "output": "docs/evidence/redo-v2/static-pipeline/preservation-regression/tiny-subject",
+  "ready": "true",
+  "states": {
+    "opening": 0,
+    "transition": {
+      "selector": "#transition",
+      "offset": 0
+    },
+    "middle": {
+      "selector": "#middle",
+      "offset": 0
+    },
+    "ending": {
+      "selector": "#ending",
+      "offset": 0
+    }
+  },
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "material": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "composition": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "role": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "[data-subject=\"opening\"]",
+            "minimumViewportArea": 0.08,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "material": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "composition": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "role": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "[data-subject=\"transition\"]",
+            "minimumViewportArea": 0.08,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "material": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "composition": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "role": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "[data-subject=\"middle\"]",
+            "minimumViewportArea": 0.08,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "material": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "composition": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "role": "Engineering fixture for the locked subject, visible footprint and state role; this is not a real design acceptance.",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "[data-subject=\"ending\"]",
+            "minimumViewportArea": 0.08,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": []
+  },
+  "pointer": {
+    "selector": "[data-subject=\"opening\"]"
+  }
+}

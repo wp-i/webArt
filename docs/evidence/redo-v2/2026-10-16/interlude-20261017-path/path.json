@@ -1,0 +1,185 @@
+{
+  "url": "https://interlude.crnacura.workers.dev/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/interlude-20261017-path/opening.jpg",
+      "sha256": "6675aafbb9c2d164372a66854ef9178a9fb26df5b09b43cbeea2eebf0231e685"
+    },
+    {
+      "state": "early",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/interlude-20261017-path/early.jpg",
+      "sha256": "6675aafbb9c2d164372a66854ef9178a9fb26df5b09b43cbeea2eebf0231e685"
+    },
+    {
+      "state": "middle",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/interlude-20261017-path/middle.jpg",
+      "sha256": "6675aafbb9c2d164372a66854ef9178a9fb26df5b09b43cbeea2eebf0231e685"
+    },
+    {
+      "state": "late",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/interlude-20261017-path/late.jpg",
+      "sha256": "6675aafbb9c2d164372a66854ef9178a9fb26df5b09b43cbeea2eebf0231e685"
+    },
+    {
+      "state": "ending",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/interlude-20261017-path/ending.jpg",
+      "sha256": "6675aafbb9c2d164372a66854ef9178a9fb26df5b09b43cbeea2eebf0231e685"
+    }
+  ],
+  "metadata": {
+    "height": 900,
+    "headings": [
+      {
+        "text": "Interlude: Astro starter for page transitions",
+        "tag": "H1",
+        "class": "visually-hidden",
+        "parent": "home wrap",
+        "top": 181
+      }
+    ],
+    "sections": [
+      {
+        "tag": "MAIN",
+        "class": "",
+        "id": "main",
+        "top": 77,
+        "height": 784
+      },
+      {
+        "tag": "FOOTER",
+        "class": "footer wrap footer--home",
+        "id": "",
+        "top": 860,
+        "height": 40
+      }
+    ],
+    "controls": [
+      {
+        "tag": "A",
+        "text": "Skip to content",
+        "class": "skip-link"
+      },
+      {
+        "tag": "A",
+        "text": "Interlude",
+        "class": "header__name"
+      },
+      {
+        "tag": "A",
+        "text": "Get started",
+        "class": "eyebrow"
+      },
+      {
+        "tag": "A",
+        "text": "Code\n(opens in a new tab)",
+        "class": "eyebrow"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n(opens in a new tab)",
+        "class": "eyebrow"
+      },
+      {
+        "tag": "A",
+        "text": "curtain\n01",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "wipe\n02",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "columns\n03",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "circle\n04",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "typewriter\n05",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "stack\n06",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "slide-over\n07",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "peel\n08",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "slices\n09",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "frame\n10",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "carousel\n11",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "cube\n12",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "corner\n13",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "tear\n14",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "dither\n15",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "dissolve\n16",
+        "class": "index__link"
+      },
+      {
+        "tag": "A",
+        "text": "ink\n17",
+        "class": "index__link"
+      }
+    ]
+  },
+  "inventory": {
+    "images": 0,
+    "videos": [],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": false
+  },
+  "result": "scouted-not-admitted"
+}

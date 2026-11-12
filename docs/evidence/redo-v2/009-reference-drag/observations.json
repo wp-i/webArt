@@ -1,0 +1,104 @@
+[
+  {
+    "name": "normal",
+    "url": "https://minorstep.com/",
+    "images": [
+      {
+        "alt": "",
+        "r": {
+          "x": -2880,
+          "y": -1800,
+          "width": 7200,
+          "height": 4500,
+          "top": -1800,
+          "right": 4320,
+          "bottom": 2700,
+          "left": -2880
+        }
+      }
+    ]
+  },
+  {
+    "name": "drag-400",
+    "url": "https://minorstep.com/",
+    "images": [
+      {
+        "alt": "",
+        "r": {
+          "x": -2880,
+          "y": -1800,
+          "width": 7200,
+          "height": 4500,
+          "top": -1800,
+          "right": 4320,
+          "bottom": 2700,
+          "left": -2880
+        }
+      }
+    ]
+  },
+  {
+    "name": "drag-100",
+    "url": "https://minorstep.com/",
+    "images": [
+      {
+        "alt": "",
+        "r": {
+          "x": -2880,
+          "y": -2100,
+          "width": 7200,
+          "height": 4500,
+          "top": -2100,
+          "right": 4320,
+          "bottom": 2400,
+          "left": -2880
+        }
+      },
+      {
+        "alt": "Extreme low-angle still life of three Dries Van Noten lipstick cases, with an embossed gold base enlarged monumentally in the foreground.",
+        "r": {
+          "x": 0,
+          "y": 600,
+          "width": 1440,
+          "height": 900,
+          "top": 600,
+          "right": 1440,
+          "bottom": 1500,
+          "left": 0
+        }
+      }
+    ]
+  },
+  {
+    "name": "released",
+    "url": "https://minorstep.com/",
+    "images": [
+      {
+        "alt": "",
+        "r": {
+          "x": -2880,
+          "y": -1836.666259765625,
+          "width": 7200,
+          "height": 4500,
+          "top": -1836.666259765625,
+          "right": 4320,
+          "bottom": 2663.333740234375,
+          "left": -2880
+        }
+      },
+      {
+        "alt": "Extreme low-angle still life of three Dries Van Noten lipstick cases, with an embossed gold base enlarged monumentally in the foreground.",
+        "r": {
+          "x": 0,
+          "y": 863.3336791992188,
+          "width": 1440,
+          "height": 900.0000610351562,
+          "top": 863.3336791992188,
+          "right": 1440,
+          "bottom": 1763.333740234375,
+          "left": 0
+        }
+      }
+    ]
+  }
+]

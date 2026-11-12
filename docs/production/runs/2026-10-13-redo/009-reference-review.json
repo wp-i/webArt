@@ -1,0 +1,337 @@
+{
+  "schemaVersion": 2,
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "reviewer": {
+    "id": "primary-art-reviewer-2026-10-13",
+    "calibrationRunId": "2026-10-13-redo-primary-01",
+    "mode": "blind-evidence-only",
+    "inputScope": "benchmark+negative+reference+candidate",
+    "implementationContextIncluded": false
+  },
+  "limitations": "Evidence input separated from implementation explanations and old ratings. Single primary reviewer retains prior context; no independent blind model or aesthetic prediction is claimed.",
+  "phase": "reference",
+  "decision": "reject",
+  "vetoes": [
+    "Home手机默认摄影分辨率不足；短闭合路径与不重复主构图尚未成立，不能用历史奖项或桌面近景绕过这两项差距。"
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "79b3d45520e723887ad3cd298c0a899e0d60b9f867a40208d884a87610080c95"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-middle/contact-sheet.jpg",
+          "sha256": "2bff046761c0f8a4be7d9d18e4e72810c4b2f368e6a0ed8969d79a6f40b9db1a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "5480959c96f0fe7ff481e318791e9931ff6cb9acf2ae65e90378fa553dd35b21"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-ending/contact-sheet.jpg",
+          "sha256": "7ad5bcf939fc6dbeb0ce5f4506fedaf53f37106a8c36616df10ecf18dc37d25f"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/mobile-opening/contact-sheet.jpg",
+          "sha256": "51877300b56583cd0624ed5293c19cf43980f7644d2c7a9f23ecad6dd340024c"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/mobile-middle/contact-sheet.jpg",
+          "sha256": "c811b7891f443e4aeebe8e8a78105870b438650d2677124d5442790404d79005"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/mobile-transition/contact-sheet.jpg",
+          "sha256": "532d56c3b9278c8c07ee6a9295859a8c5ec01c0d0b2b4f7a70cceb06b0ebf35b"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/mobile-ending/contact-sheet.jpg",
+          "sha256": "e555a5be78287d01d24e615207a625d18384c0d2530761a24aa80a6934664c9c"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "母版近景摄影与极小标注共同成立，真实拖动/滚动改变照片边界与观看对象；桌面实际画面的光学细节具备比较价值，但不补偿另两项否决。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "79b3d45520e723887ad3cd298c0a899e0d60b9f867a40208d884a87610080c95"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "母版近景摄影与极小标注共同成立，真实拖动/滚动改变照片边界与观看对象；桌面实际画面的光学细节具备比较价值，但不补偿另两项否决。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "79b3d45520e723887ad3cd298c0a899e0d60b9f867a40208d884a87610080c95"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "母版近景摄影与极小标注共同成立，真实拖动/滚动改变照片边界与观看对象；桌面实际画面的光学细节具备比较价值，但不补偿另两项否决。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "79b3d45520e723887ad3cd298c0a899e0d60b9f867a40208d884a87610080c95"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "母版近景摄影与极小标注共同成立，真实拖动/滚动改变照片边界与观看对象；桌面实际画面的光学细节具备比较价值，但不补偿另两项否决。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "79b3d45520e723887ad3cd298c0a899e0d60b9f867a40208d884a87610080c95"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "母版近景摄影与极小标注共同成立，真实拖动/滚动改变照片边界与观看对象；桌面实际画面的光学细节具备比较价值，但不补偿另两项否决。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "79b3d45520e723887ad3cd298c0a899e0d60b9f867a40208d884a87610080c95"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "below",
+      "finding": "母版以循环作品浏览为主；当前选择的短路径没有直接成立的独立收束，若加入普通联系段会再次丢失视觉结果，不能按预期未来补全批准。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-ending/contact-sheet.jpg",
+          "sha256": "7ad5bcf939fc6dbeb0ce5f4506fedaf53f37106a8c36616df10ecf18dc37d25f"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "below",
+      "finding": "手机Home的瓶底与文字呈现分辨率不足，完整作品查看更清楚，但不能用子页替代默认路径质量；与基准手机清晰材料边缘相比仍有明显差距。",
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "79b3d45520e723887ad3cd298c0a899e0d60b9f867a40208d884a87610080c95"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "visualPurpose": "纵向拖动与摄影边界直接相连，输入改变画面内作品平面的交接，不只是移动光标或弹出说明。",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "5480959c96f0fe7ff481e318791e9931ff6cb9acf2ae65e90378fa553dd35b21"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "fa1ac0c40783ba72be97ac850e16434e22399cb24d9b7ba783f159608a609f9c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "2f738573b275b421b30f810fe81ae719ab3ca72594493916ef6e4269d90d5a38"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "ba8d026e6ee29a44e24228c75dc725a29575fddb4d716d7a06a56524b5cb2129"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "162351ba7e72617d51af48ced6edbff9a35f9200657272a3d54aab1ce493d56e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "930e75ac71a65650a00f0bdefd73deb2eb16049ad3e7697921c9c24bae34047f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-reduced/contact-sheet.jpg",
+          "sha256": "ed34a430fc129e2a8128de5ac68f99a3b5a9fd87b0bb50a97266682646bbfeb0"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "b0b5d1f5112e14d2843bab659afa5923575a85d2732e5675d092c6ae43617d28"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "ff6aad7fb1cb9eff82a26ff88cbc38128b5d8e7cc6eca28cca69531315b816b6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "4380952dd3a7690dcada19d6d4c4fecd53836611a7b5c243d378f679cbcb7cae"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "b3f9fc778e43060fe2e48b6e38ef6ae1f98b6b0e2f9ffb176252c6b186e0d220"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-reference-home-04/desktop-reduced/contact-sheet.jpg",
+          "sha256": "ed34a430fc129e2a8128de5ac68f99a3b5a9fd87b0bb50a97266682646bbfeb0"
+        }
+      ]
+    }
+  ]
+}

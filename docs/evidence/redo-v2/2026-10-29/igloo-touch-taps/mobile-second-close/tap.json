@@ -1,0 +1,14 @@
+{
+  "purpose": "Actual short finger tap in the root-owned live Igloo observation target; no admission",
+  "started": "2026-10-28T17:56:00.091Z",
+  "input": {
+    "type": "native-touch-tap",
+    "x": 320,
+    "y": 40,
+    "holdMs": 70
+  },
+  "frames": [],
+  "result": "incomplete",
+  "error": "Root source target must be unique",
+  "finished": "2026-10-28T17:56:00.094Z"
+}

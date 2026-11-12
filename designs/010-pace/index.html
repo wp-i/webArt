@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en" data-theme="plum">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#170f1c"><meta name="description" content="Pace. Small habits, at your own pace. An interactive product website demo.">
+  <title>Pace — A little, often.</title>
+  <link rel="icon" href="/assets/pace.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/src/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="nav">
+    <a class="brand" href="#top" aria-label="Pace, back to top"><span class="mark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span>Pace<span class="chapter" id="chapter">THE WEEK</span></a>
+    <nav aria-label="Main"><a href="#reflection">Reflection</a><a class="nav-demo" href="#demo">Try it <span aria-hidden="true">↗</span></a></nav>
+    <div class="progress" aria-hidden="true"><i></i><i></i><i></i></div>
+  </header>
+  <main id="main">
+    <section class="hero" id="top" aria-labelledby="hero-title">
+      <div class="intro">
+        <p class="eyebrow"><span class="tiny-dot"></span> A QUIETER HABIT TRACKER</p>
+        <h1 id="hero-title">A little.<br>Often.<br><em>At your pace.</em></h1>
+        <p class="lead">Small things add up.<br>Make room for the ones that matter.</p>
+        <a class="primary" href="#demo">Meet your week <span aria-hidden="true">↗</span></a>
+        <p class="micro">NO STREAKS. NO CATCHING UP.</p>
+      </div>
+      <div class="product" id="demo">
+        <div class="phone-wrap">
+          <div class="phone">
+            <div class="phone-screen">
+              <div class="status" aria-hidden="true"><span>9:41</span><i></i><span>▂▄▆ ▰</span></div>
+              <div class="app-header"><div class="brand"><span class="mark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span></div><span class="mono">YOUR SPACE</span></div>
+              <div class="tabs enhanced" role="group" aria-label="Record view"><button data-view="week" aria-pressed="true" disabled>Week</button><button data-view="today" aria-pressed="false" disabled>Today</button></div>
+              <div class="week-panel" id="week-panel">
+                <div class="week-heading"><span>This week</span><span class="mono">WEEK 42</span></div>
+                <p class="week-date">12 — 18 October</p>
+                <div class="days mono" aria-hidden="true"><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span><span>S</span></div>
+                <div class="habit" data-habit="0"><div class="habit-name"><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h6a4 4 0 0 1 3 2 4 4 0 0 1 3-2h6v15h-6a4 4 0 0 0-3 2 4 4 0 0 0-3-2H3Z M12 6v15"/></svg>Read a little</span><output>4 / 7</output></div><div class="cells" data-row="0"><button type="button" class="cell" aria-label="Read a little, Monday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Read a little, Tuesday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Read a little, Wednesday" aria-pressed="false" disabled>✓</button><button type="button" class="cell" aria-label="Read a little, Thursday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Read a little, Friday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Read a little, Saturday" aria-pressed="false" disabled>✓</button><button type="button" class="cell" aria-label="Read a little, Sunday" aria-pressed="false" disabled>✓</button></div></div>
+                <div class="habit" data-habit="1"><div class="habit-name"><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 18 4-6 3 2 5-8 M14 6h3v3 M4 21h16"/></svg>Move outside</span><output>3 / 7</output></div><div class="cells" data-row="1"><button type="button" class="cell" aria-label="Move outside, Monday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Move outside, Tuesday" aria-pressed="false" disabled>✓</button><button type="button" class="cell" aria-label="Move outside, Wednesday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Move outside, Thursday" aria-pressed="false" disabled>✓</button><button type="button" class="cell" aria-label="Move outside, Friday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Move outside, Saturday" aria-pressed="false" disabled>✓</button><button type="button" class="cell" aria-label="Move outside, Sunday" aria-pressed="false" disabled>✓</button></div></div>
+                <div class="habit" data-habit="2"><div class="habit-name"><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h13v8a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5Z M17 8h2a3 3 0 0 1 0 6h-2 M8 2v2 M12 2v2"/></svg>Take a pause</span><output>4 / 7</output></div><div class="cells" data-row="2"><button type="button" class="cell" aria-label="Take a pause, Monday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Take a pause, Tuesday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Take a pause, Wednesday" aria-pressed="false" disabled>✓</button><button type="button" class="cell" aria-label="Take a pause, Thursday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Take a pause, Friday" aria-pressed="false" disabled>✓</button><button type="button" class="cell" aria-label="Take a pause, Saturday" aria-pressed="true" disabled>✓</button><button type="button" class="cell" aria-label="Take a pause, Sunday" aria-pressed="false" disabled>✓</button></div></div>
+                <a class="reflection-link" href="#reflection"><span aria-hidden="true">↗</span> How did it feel?</a>
+              </div>
+              <div class="today-panel" id="today-panel" hidden><div class="week-heading"><span>A fresh day</span><span class="mono">MON / 12</span></div><p class="today-intro">One thing at a time.</p><div class="today-habits"></div></div>
+              <div class="app-bottom"><span class="pulse-dot"></span><p id="week-message">A gap is just a gap.<br>You can always begin again.</p></div>
+              <div class="home-bar" aria-hidden="true"></div>
+            </div>
+          </div>
+        </div>
+        <p class="demo-caption mono">A LIVE LITTLE DEMO <span aria-hidden="true">↑</span></p>
+      </div>
+      <div class="theme-bar">
+        <p>Make yourself at home.</p>
+        <div class="themes enhanced" role="group" aria-label="Page theme"><button data-theme="plum" aria-pressed="true" disabled><i></i>Plum</button><button data-theme="paper" aria-pressed="false" disabled><i></i>Paper</button><button data-theme="stone" aria-pressed="false" disabled><i></i>Stone</button></div>
+        <button class="reset enhanced" id="reset" disabled>Reset demo <span aria-hidden="true">↺</span></button>
+      </div>
+    </section>
+    <section class="reflection" id="reflection" aria-labelledby="reflection-title">
+      <div class="reflection-copy">
+        <p class="eyebrow"><span class="tiny-dot"></span> THE WEEK, LOOKED AT GENTLY</p>
+        <h2 id="reflection-title">Less counting.<br>More <em>noticing.</em></h2>
+        <p class="lead">Keep the good bits.<br>Leave a little room for next week.</p>
+        <div class="week-total"><output id="total">11</output><div><p>small moments</p><span class="mono">THIS WEEK / NOT A SCORE</span></div></div>
+        <p class="aside-note">Your week belongs to you.<br>Notes stay in this browser.</p>
+      </div>
+      <form class="note" id="note-form">
+        <div class="note-top"><span class="mono">WEEK 42 / REFLECTION</span><span class="note-icon" aria-hidden="true">↗</span></div>
+        <label class="mood-label" for="mood">How was your week?<output id="mood-value">Pretty good</output></label>
+        <input id="mood" name="mood" type="range" min="1" max="5" value="4" disabled aria-valuetext="Pretty good">
+        <div class="mood-scale mono"><span>HEAVY</span><span>LIGHT</span></div>
+        <label class="field-label" for="good">ONE THING THAT FELT GOOD</label>
+        <textarea id="good" name="good" maxlength="140" rows="2" disabled>A quiet walk. No headphones.</textarea>
+        <label class="field-label" for="next">A LITTLE SPACE FOR NEXT WEEK</label>
+        <textarea id="next" name="next" maxlength="140" rows="2" disabled>Ten pages before the day begins.</textarea>
+        <div class="note-footer"><span class="mono" id="note-status" role="status">JUST FOR YOU</span><button class="save enhanced" type="submit" disabled>Keep this week <span aria-hidden="true">↗</span></button></div>
+      </form>
+    </section>
+    <section class="closing" id="start" aria-labelledby="closing-title">
+      <span class="mark closing-mark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span>
+      <p class="eyebrow">A NEW WEEK IS A NEW WEEK.</p>
+      <h2 id="closing-title">Begin where you are.</h2>
+      <a class="primary" href="#demo">Find your pace <span aria-hidden="true">↗</span></a>
+    </section>
+  </main>
+  <footer><a class="brand" href="#top">Pace</a><p class="mono">SMALL HABITS. YOUR OWN RHYTHM.</p><span class="mono">PRODUCT DEMO © 2026</span></footer>
+  <div class="sr-only" role="status" id="record-status"></div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

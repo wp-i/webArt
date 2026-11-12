@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261018123055570-9657d35f",
+  "mode": "configuration-driven",
+  "productionMode": "frozen-renderer",
+  "codeGenerationCalls": 0,
+  "execution": "current-conversation-evidence-review",
+  "started": "2026-10-18T12:30:55.571Z",
+  "model": "current-conversation",
+  "ids": [
+    "010"
+  ],
+  "status": "failed",
+  "stage": "calibration",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [],
+  "inventoryChanged": false,
+  "visualAcceptance": "pending-user-review",
+  "failure": {
+    "code": "session-review-invalid",
+    "message": "Stale or incorrectly attributed review response"
+  },
+  "finished": "2026-10-18T12:32:22.010Z"
+}

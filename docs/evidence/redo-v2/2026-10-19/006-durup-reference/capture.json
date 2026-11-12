@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-19T05:21:27.863Z",
+  "url": "https://www.durup.com/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 11646,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-19/006-durup-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "3608bb98b405e5dddcb0832f4b959785b19e74dde36009869fd77bc0032cb4c7"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2794,
+      "layout": {
+        "y": 2794,
+        "documentHeight": 11646,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-19/006-durup-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "504a1f343b4e3dfee2259d57dc433795f38f5f55bdd56f14add8dd95074205e0"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 8167,
+      "layout": {
+        "y": 8167,
+        "documentHeight": 11646,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-19/006-durup-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "7da4a4c2a9a1166649f19ad7b6316349fb0176483bb9cf8fd86b8cf11aa5c0bc"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 10746,
+      "layout": {
+        "y": 10746,
+        "documentHeight": 11646,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-19/006-durup-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "3a002f58cf7f6f6f08ff7ae14a78940c8628a1f23bb633fd100438123d949383"
+        }
+      ]
+    }
+  ],
+  "motion": [],
+  "errors": [],
+  "result": "failed",
+  "failure": "Input.dispatchMouseEvent timeout",
+  "finished": "2026-10-19T05:22:04.140Z"
+}

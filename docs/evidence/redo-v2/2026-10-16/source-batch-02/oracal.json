@@ -1,0 +1,47 @@
+{
+  "label": "oracal",
+  "url": "https://oracal.world/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-02/oracal-opening.jpg",
+      "sha256": "f0ed8789f19a0eb6ea87ac2fedbcc7f6cf7b5344ccb1b83c855362ee811e9e85"
+    },
+    {
+      "state": "middle",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-02/oracal-middle.jpg",
+      "sha256": "f0ed8789f19a0eb6ea87ac2fedbcc7f6cf7b5344ccb1b83c855362ee811e9e85"
+    },
+    {
+      "state": "ending",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-02/oracal-ending.jpg",
+      "sha256": "f0ed8789f19a0eb6ea87ac2fedbcc7f6cf7b5344ccb1b83c855362ee811e9e85"
+    }
+  ],
+  "metadata": {
+    "url": "https://oracal.world/",
+    "height": 900,
+    "text": "404\nPage not found\n\n\nThe page you are looking for doesn't exist or has been moved.",
+    "headings": [
+      {
+        "text": "Page not found\n",
+        "parent": "utility-content",
+        "tag": "DIV"
+      }
+    ],
+    "scenes": []
+  },
+  "inventory": {
+    "images": 0,
+    "videos": [],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": false
+  },
+  "result": "scouted-not-admitted"
+}

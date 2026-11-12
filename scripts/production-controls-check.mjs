@@ -1,0 +1,14 @@
+// Real native inputs against a hidden-until-ending engineering fixture.
+// No visual admission or generated design is claimed.
+import fs from'node:fs';import path from'node:path';import os from'node:os';import assert from'node:assert/strict';
+import{ROOT}from'./collection.mjs';import{serveDirectory}from'./production/project.mjs';import{browserEndpoint}from'./production/process.mjs';import{inspectControls}from'./production/browser.mjs';
+const directory=fs.mkdtempSync(path.join(os.tmpdir(),'webart-control-scenes-')),output='docs/evidence/redo-v2/static-pipeline/control-scenes';let host;
+try{
+ fs.writeFileSync(path.join(directory,'index.html'),`<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1"><title>Scene controls fixture</title><style>body{margin:0;font:18px Arial}section{height:100vh;padding:30px;box-sizing:border-box}.ending-button{display:none;position:fixed;top:160px;left:25px;padding:20px}.ending .ending-button{display:block}:focus-visible{outline:3px solid blue}</style><section id="start"><a href="#end">Go to ending</a></section><section><h2>Middle</h2></section><section id="end"><h2>Ending</h2><button class="ending-button">Ending action</button></section><script src="fixture.js"></script>`);
+ fs.writeFileSync(path.join(directory,'fixture.js'),"window.actions=0;addEventListener('scroll',()=>document.body.classList.toggle('ending',scrollY>innerHeight*1.6));document.querySelector('button').onclick=()=>window.actions++;" );host=await serveDirectory(directory);const endpoint=await browserEndpoint({root:ROOT}),expected=[{selector:'a'},{selector:'.ending-button',scene:'#end',activeCheck:'window.actions===1',mouseCheck:'window.actions===2',touchCheck:'window.actions===2'}];
+ const r=await inspectControls({root:ROOT,endpoint,url:host.url,output,expected});
+ assert.deepEqual(r.viewports.map(v=>v.controls.length),[2,2,2]);assert.ok(r.viewports.every(v=>v.controls.some(c=>c.tag==='BUTTON'&&c.evidence.some(e=>e.state===(v.viewport==='desktop'?'mouse-result':'touch-result')))));
+ await assert.rejects(inspectControls({root:ROOT,endpoint,url:host.url,output:output+'/negative-unconfigured',expected:[{selector:'a'}]}),e=>e.code==='controls-failed');
+ const receipt={result:'passed-engineering-only',lateSceneControls:r.viewports.map(v=>({viewport:v.viewport,count:v.controls.length})),hiddenUnconfigured:'blocked',isolatedNativeActions:true,visualAdmission:false};fs.writeFileSync(path.join(ROOT,output,'receipt.json'),JSON.stringify(receipt,null,2));console.log(JSON.stringify(receipt));
+}finally{if(host)await new Promise(r=>host.server.close(r));const target=path.resolve(directory);if(!target.startsWith(path.resolve(os.tmpdir())+path.sep)||!path.basename(target).startsWith('webart-control-scenes-'))throw Error('Unsafe fixture cleanup');fs.rmSync(target,{recursive:true,force:true})}
+

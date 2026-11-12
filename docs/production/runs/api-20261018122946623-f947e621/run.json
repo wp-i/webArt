@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261018122946623-f947e621",
+  "mode": "configuration-driven",
+  "productionMode": "frozen-renderer",
+  "codeGenerationCalls": 0,
+  "execution": "current-conversation-evidence-review",
+  "started": "2026-10-18T12:29:46.624Z",
+  "model": "current-conversation",
+  "ids": [
+    "010"
+  ],
+  "status": "failed",
+  "stage": "calibration",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [],
+  "inventoryChanged": false,
+  "visualAcceptance": "pending-user-review",
+  "failure": {
+    "code": "invalid-review",
+    "message": "校准必须逐项覆盖六个匿名样本"
+  },
+  "finished": "2026-10-18T12:30:55.183Z"
+}

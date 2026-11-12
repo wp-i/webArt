@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-20T06:56:27.651Z",
+  "url": "http://127.0.0.1:11663/",
+  "sourceSha256": "1a356ad702614f10307a222f62df2a74e4112f5d781ebd95daf84b9659e3a044",
+  "states": [],
+  "motion": [],
+  "errors": [],
+  "result": "failed",
+  "visualContractSha256": "8fa968bdea925fa91439bd85516c4c437d94d21f400a1c32530d2c3b3cb6a12b",
+  "failure": "Received network error or non-101 status code.",
+  "finished": "2026-10-20T06:56:27.671Z"
+}

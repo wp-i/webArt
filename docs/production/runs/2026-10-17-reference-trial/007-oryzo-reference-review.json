@@ -1,0 +1,719 @@
+{
+  "schemaVersion": 2,
+  "phase": "reference",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "reviewer": {
+    "id": "current-task-art-director-2026-10-16",
+    "mode": "blind-evidence-only",
+    "implementationContextIncluded": false,
+    "calibrationRunId": "2026-10-16-current-task-calibration",
+    "inputScope": "benchmark+negative+reference"
+  },
+  "limitations": "Current-task assisted review of actual source frames and native inputs; the reviewer retains conversation context. No independent API judgement or user score is claimed. The approved short path retains tabletop, cork material, articulated holding hand and roasted-bean resolution; independent AI satire and long utility copy are omitted. Model replacements remain unapproved until their actual asset renders pass.",
+  "decision": "admit",
+  "vetoes": [],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "e779d42f600cdf6b652205d9cf8dd3c50276a81a80c4b01d04f6e8c58d21dbf1"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1951,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "94ee9ee06afffaa1075b0427416084c6662cdde362da8e62b68b275005980070"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 6005,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-before.jpg",
+          "sha256": "610f4b504dae66f977625a4ea0958412452fb3792101be57be67b68a73d8a560"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 55790,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-ending/contact-sheet.jpg",
+          "sha256": "379296662b0e4689d076b2996ac297a4c7670dc14c542bdcbd7272f18f5a2719"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-opening/contact-sheet.jpg",
+          "sha256": "8a797c4fd78f83c63e76d103b6a09fb6bf46b73fc4c7650623863b6a7c5ea862"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1767,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-transition/contact-sheet.jpg",
+          "sha256": "9bff1a1abe273b6cfd28572e8df995e081c707586602e5f9c757b5df9cc385e0"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 5995,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/mobile-before.jpg",
+          "sha256": "4d4dbe197f066ebdb68f0ed85aeb0e6c9948b100234ae2d7a230b815a570b714"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 50471,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-ending/contact-sheet.jpg",
+          "sha256": "5c437e555352f3deaabcfcd5364bbdc7746bde82fc975767e74410dbff28eda4"
+        }
+      ]
+    }
+  ],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "软木盘与木桌、斜置的切割垫和真实工具构成具体日常器物场景，不能用一个平面圆形代替主要对象。",
+        "material": "软木保留粗细颗粒、倒角、侧壁和接触阴影，木纹、切割垫与金属工具具有清楚区别，不能使用统一塑料材质。",
+        "composition": "浅奶油粗字标位于桌面上方的安静区域，盘与斜垫形成完整尺度关系，手机继续保留主要器物和必要说明。",
+        "role": "默认开场同时给出品牌与可辨认器物，空间和材料直接可见，不能把主要对象藏在按钮、视频播放或加载页后。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-campo-scene]",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "开场同一软木盘脱离桌面并转向近景，边缘和背面具有明确厚度，不能切换成另一个无身份的平面盘。",
+        "material": "近景须保留不同尺度的软木颗粒、圆润倒角和深浅光照层次，纹理不能拉伸成普通噪点或丢失侧壁材质。",
+        "composition": "盘的近景与短说明形成新的观看比例，桌面背景交出主次；手机可有意放大裁切，不能遮住说明和固定行动。",
+        "role": "原生滚动推进盘的浮起、旋转和光照交接，正向与反向保持连续，不能以整幅淡入或普通图片缩放取代。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-campo-scene]",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "真实关节与指甲细节的手持住同一软木盘，手和盘的接触可辨，不能以胶囊组、轮廓手或不相连物件近似。",
+        "material": "手的皮肤或细腻表面与粗颗粒软木保持区别，光线沿手指和盘边形成层次，不能使用没有细节的统一灰材质。",
+        "composition": "持物关系是中段主视觉，短标题与输入提示留在主体外，手机保留盘、接触指节和行动，不靠整屏文字解释。",
+        "role": "指针引起局部指节和持物姿态变化，离开与返回保持完整状态；触摸和键盘有同一观看结果，不只改变游标。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-campo-scene]",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "独立咖啡豆流场完成结尾，保留有裂缝和不规则形态的具体烘焙豆，不能用普通棕色椭球群代替完整主体。",
+        "material": "烘焙表面的裂缝、细小凹凸、反射和前后景层次须可辨，近处物件有受控高光，暗部不应全部糊成黑色。",
+        "composition": "流场与简短行动形成独立完整结果，手机给主体保留足够份量；移除真实工作室的地址订阅后仍有明确视觉收束。",
+        "role": "流场的连续进入与停止服务于日常仪式的结尾，原生联系与返回行动完整可用，不能以普通通用页脚替换。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-campo-scene]",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": [
+      {
+        "id": "same-cork-object",
+        "signature": "cork-tabletop-to-material",
+        "states": [
+          "opening",
+          "transition",
+          "middle"
+        ],
+        "identity": "桌面浅盘、浮起的近景与手持浅盘始终为同一个厚度、边沿与颗粒身份的对象；结尾另以咖啡材料完成结果，不假装是同一盘。"
+      }
+    ]
+  },
+  "visualContractSha256": "559c0b3bd8b9d5ce7c133b88e25f50a9ed58ede7e39755e9a134921d5d253722",
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "桌面、切割垫和具体盘体构成有方向与尺度的主画面，浅色粗字位于画面安静区域，与001字形/纤维的精确关系处于同等工艺层次。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "e779d42f600cdf6b652205d9cf8dd3c50276a81a80c4b01d04f6e8c58d21dbf1"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "近景颗粒、侧壁、明暗与两侧短字建立有密度的关系，手持场景和末段文字各有尺度，与001逐材料安排文字和光线的做法相当。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "94ee9ee06afffaa1075b0427416084c6662cdde362da8e62b68b275005980070"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "软木粗细颗粒、指甲、关节褶皱和接触位置可辨，结尾是具有裂缝及反光的具体豆体；与001特定纤维褶皱一样具有对象特异性。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-before.jpg",
+          "sha256": "610f4b504dae66f977625a4ea0958412452fb3792101be57be67b68a73d8a560"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "实测正反路径推进盘从桌面脱离、翻转、手持及豆流的连续交接，观看作用改变而对象身份保留，与001不同光照状态的推进作用相当。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "94ee9ee06afffaa1075b0427416084c6662cdde362da8e62b68b275005980070"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "原生手部序列可见局部指节由收拢转向伸出并返回，变化发生于持物主体；彩色边光另为环境，未把自动换色认作指针效果，与001输入改变主体观看的作用相当。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-before.jpg",
+          "sha256": "610f4b504dae66f977625a4ea0958412452fb3792101be57be67b68a73d8a560"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "桌面和手机的豆流均保留真实裂缝、高光与景深，联系功能发生在完整材料场内，短页只压缩推广工具文案；与001独立受光材料结尾一样有具体结果。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+          "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-ending/contact-sheet.jpg",
+          "sha256": "379296662b0e4689d076b2996ac297a4c7670dc14c542bdcbd7272f18f5a2719"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "手机在纵向保留盘面、接触手指和局部关节，近景尺度经过专门安排，开场仍有完整盘与字形；短页减少非核心工具文案，主体关系与001手机同等清楚。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/mobile-before.jpg",
+          "sha256": "4d4dbe197f066ebdb68f0ed85aeb0e6c9948b100234ae2d7a230b815a570b714"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "cork-tabletop-to-material",
+      "visualPurpose": "同一有颗粒、倒角和侧壁的软木盘，从具体桌面脱离后旋转进入近景，桌面、空间和材质共同建立器物身份。",
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "e779d42f600cdf6b652205d9cf8dd3c50276a81a80c4b01d04f6e8c58d21dbf1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "94ee9ee06afffaa1075b0427416084c6662cdde362da8e62b68b275005980070"
+        }
+      ]
+    },
+    {
+      "name": "posed-hand-with-local-articulation",
+      "visualPurpose": "可辨认指节、指甲和皮肤的手持住软木盘，指针引起局部指节与持物关系变化，保留真实接触而非整幅图片轻微倾斜。",
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-before.jpg",
+          "sha256": "610f4b504dae66f977625a4ea0958412452fb3792101be57be67b68a73d8a560"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-palm.jpg",
+          "sha256": "6f01e07719151245295e97fdc62c16fee398295ba9ceb03f11fed1aa71f2a6cb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-coaster.jpg",
+          "sha256": "3ace8786649e57bb204b9563260ef99218b88a1085c324da4fa4cf95ddbb30c5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-reverse.jpg",
+          "sha256": "f86ce753abc65966f586e4374ac05fb73cd6221a48890f927c0ab2fa947d670b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-leave.jpg",
+          "sha256": "ca56387684179bc87e06e0630b7079564453d7270969a77cfe5535920d740684"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-reduced.jpg",
+          "sha256": "a7181647e85edb40b63ce0ad6299fdca98be4e51d9e26ac535a60fcbaf0bb3e5"
+        }
+      ]
+    },
+    {
+      "name": "roasted-bean-field-resolution",
+      "visualPurpose": "完整咖啡豆流场以裂缝、反射和前后景完成独立结果，保持开场的材料密度与质感，不能退成一组棕球或普通邮箱。",
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-ending/contact-sheet.jpg",
+          "sha256": "379296662b0e4689d076b2996ac297a4c7670dc14c542bdcbd7272f18f5a2719"
+        }
+      ]
+    }
+  ],
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "桌面工具、斜置绿垫和具有细颗粒、倒角及深度的盘形成具体物体关系，浅色字标与材料尺度明确；手机保留主要器物。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "e779d42f600cdf6b652205d9cf8dd3c50276a81a80c4b01d04f6e8c58d21dbf1"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "同一盘转向背面近景，粗细颗粒和侧壁经光照被直接展示，主体从桌面进入独立材质观看，手机近景是有意的放大。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "94ee9ee06afffaa1075b0427416084c6662cdde362da8e62b68b275005980070"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "真实手指和指甲围绕同一盘建立持物关系，指针连续帧出现局部指节弯曲；手机真实触摸后仍可辨认接触及完整盘面。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-before.jpg",
+          "sha256": "610f4b504dae66f977625a4ea0958412452fb3792101be57be67b68a73d8a560"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "咖啡豆具有中央裂缝、烘焙反光和前后层次，流场贯穿联系角色；手机源站工具文字将压缩，豆场作为完整视觉结果保留。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-ending/contact-sheet.jpg",
+          "sha256": "379296662b0e4689d076b2996ac297a4c7670dc14c542bdcbd7272f18f5a2719"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "桌面工具、斜置绿垫和具有细颗粒、倒角及深度的盘形成具体物体关系，浅色字标与材料尺度明确；手机保留主要器物。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-opening/contact-sheet.jpg",
+          "sha256": "8a797c4fd78f83c63e76d103b6a09fb6bf46b73fc4c7650623863b6a7c5ea862"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "同一盘转向背面近景，粗细颗粒和侧壁经光照被直接展示，主体从桌面进入独立材质观看，手机近景是有意的放大。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-transition/contact-sheet.jpg",
+          "sha256": "9bff1a1abe273b6cfd28572e8df995e081c707586602e5f9c757b5df9cc385e0"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "真实手指和指甲围绕同一盘建立持物关系，指针连续帧出现局部指节弯曲；手机真实触摸后仍可辨认接触及完整盘面。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/mobile-before.jpg",
+          "sha256": "4d4dbe197f066ebdb68f0ed85aeb0e6c9948b100234ae2d7a230b815a570b714"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "咖啡豆具有中央裂缝、烘焙反光和前后层次，流场贯穿联系角色；手机源站工具文字将压缩，豆场作为完整视觉结果保留。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-ending/contact-sheet.jpg",
+          "sha256": "5c437e555352f3deaabcfcd5364bbdc7746bde82fc975767e74410dbff28eda4"
+        }
+      ]
+    }
+  ],
+  "continuityChecks": [
+    {
+      "id": "same-cork-object",
+      "viewport": "desktop",
+      "status": "preserved",
+      "finding": "浅盘的侧壁、圆润边沿、凹面与颗粒密度贯穿桌面、翻转和手持，三处均可辨认同一器物，而不是简单重复一个不相连的圆。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "e779d42f600cdf6b652205d9cf8dd3c50276a81a80c4b01d04f6e8c58d21dbf1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "94ee9ee06afffaa1075b0427416084c6662cdde362da8e62b68b275005980070"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-before.jpg",
+          "sha256": "610f4b504dae66f977625a4ea0958412452fb3792101be57be67b68a73d8a560"
+        }
+      ]
+    },
+    {
+      "id": "same-cork-object",
+      "viewport": "mobile",
+      "status": "preserved",
+      "finding": "浅盘的侧壁、圆润边沿、凹面与颗粒密度贯穿桌面、翻转和手持，三处均可辨认同一器物，而不是简单重复一个不相连的圆。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-opening/contact-sheet.jpg",
+          "sha256": "8a797c4fd78f83c63e76d103b6a09fb6bf46b73fc4c7650623863b6a7c5ea862"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-transition/contact-sheet.jpg",
+          "sha256": "9bff1a1abe273b6cfd28572e8df995e081c707586602e5f9c757b5df9cc385e0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/mobile-before.jpg",
+          "sha256": "4d4dbe197f066ebdb68f0ed85aeb0e6c9948b100234ae2d7a230b815a570b714"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "fb9c1b8737c96b479b5592ff63bdb69e64a460d716f9cb98b796a8e6eda488c0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "4145ad8444caf6853205b6ebfdb90075264fe0d33d81b3519929bada0c4051df"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "4833f1450e2fd617793e304569705c148aca213f741334943628dccb1ee81bbc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "df5434ccf992ffc38ce889749dc8fa6f20edca0ab2df55758cf2dd03f5576655"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "bc9f0bca1e4a2791d1dd9fdbb460e15d1b0ae6f25e61b0988eeb51fb13983379"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "ab91049dcf0a610668bcdb67b913f024c367c73233f8fdcdcce52bc35fb18c04"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "ec98fc83e73ecdc20547420eab8b298301c46f91ba9a7eebb1f31d6cc1337296"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "8c9711853eaabaf531bf43692b2a62b46ed2c15cba3d8cacada177cc7c2eca3e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "bf0a4617820e41967b87ad9407637d230a8753773f5931c1a46c099fbd400efb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/desktop-reduced/contact-sheet.jpg",
+          "sha256": "8517110d96fc676f9720eea7824b318dd20a15fc0cc30bc7e5e89389f022fc3d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "7d0dccb40e08408015ac671224a6ffe814698d81fd55622441cab9d1c624d0e7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "a9fc501ee5263462df2dad025fa1f00276b7a2497c9e3fb1fafefe037336b8b9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "69d718c479ac2e1c3cb3555e1b2ea7328a78b7ec986208cb505e63522ca223ae"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "a1a7978fda630f8e00f027faac3ceae23ebba9a93bd7c994281ddc7fa841514b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "412f669de4105e31a24b381b88dd052143f2fcc67997806a2efc77a0179a57d0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-scroll-5/contact-sheet.jpg",
+          "sha256": "915b414e9e0cb9349a807d8e467035e4ee8b59b7d48d07a6e54d18aef3951a36"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "5f840c61dc78c63cf013c4a79cc8b903f227b2c7e0fd84b5c1b3acbdefc42d21"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-scroll-7/contact-sheet.jpg",
+          "sha256": "a11d0389cad9929057cc9cd1c0f9b09a3c97a9f191c7e2519458706d2de988b2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "ab76b54ca48e2e95d9331ae1b69d2653b6256a7b4361e8cf69e71a59d9ff0b9b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-oryzo-reference-02/mobile-reduced/contact-sheet.jpg",
+          "sha256": "03413ed9682ffae3f324adfccfe4a0577f4c19ff45e606b1b2c82867c1a5042f"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-before.jpg",
+          "sha256": "610f4b504dae66f977625a4ea0958412452fb3792101be57be67b68a73d8a560"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-palm.jpg",
+          "sha256": "6f01e07719151245295e97fdc62c16fee398295ba9ceb03f11fed1aa71f2a6cb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-coaster.jpg",
+          "sha256": "3ace8786649e57bb204b9563260ef99218b88a1085c324da4fa4cf95ddbb30c5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-reverse.jpg",
+          "sha256": "f86ce753abc65966f586e4374ac05fb73cd6221a48890f927c0ab2fa947d670b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-leave.jpg",
+          "sha256": "ca56387684179bc87e06e0630b7079564453d7270969a77cfe5535920d740684"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-reduced.jpg",
+          "sha256": "a7181647e85edb40b63ce0ad6299fdca98be4e51d9e26ac535a60fcbaf0bb3e5"
+        }
+      ]
+    }
+  ],
+  "nextAction": "admit",
+  "fixTasks": [],
+  "supplementaryTouchEvidence": [
+    {
+      "viewport": "mobile",
+      "input": "real-touch-release",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/mobile-touch.jpg",
+      "sha256": "af6ee9382752a3fdc84fb059d4f6270b9595f19565065201b87c1bee9b327cb7"
+    },
+    {
+      "viewport": "mobile",
+      "input": "reduced-hand-state",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/mobile-reduced.jpg",
+      "sha256": "17853fcb31b8b1a063d79aa1d4dee0a42839014e02cc3b6c364217972280c968"
+    }
+  ]
+}

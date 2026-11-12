@@ -1,0 +1,7 @@
+{
+  "schemaVersion":1,
+  "session":"webart-production-system",
+  "executable":"C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "headed":false,
+  "args":["--disable-background-timer-throttling","--disable-backgrounding-occluded-windows","--disable-renderer-backgrounding","--disable-features=CalculateNativeWinOcclusion"]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "mode": "configuration-driven",
+  "productionMode": "frozen-renderer",
+  "autonomousDiscovery": false,
+  "autonomousAssetSelection": false,
+  "autonomousCapturePlanning": false,
+  "publicInventoryMutation": false,
+  "benchmarkId": "001",
+  "stageOrder": ["plan-validation", "reviewer-calibration", "reference-capture", "reference-gate", "renderer-materialization", "prototype-capture", "prototype-gate", "style-check", "full-qa", "performance-qa", "control-review", "single-source-package", "http-verification"],
+  "llmRoles": ["reviewer-calibration", "evidence-review"],
+  "maxLocalFinish": 0,
+  "maxEvidenceRecapture": 1,
+  "coreFailureAction": "stop-for-plan-revision",
+  "plans": [
+    {"id": "006", "path": "docs/production/plans/006.json"},
+    {"id": "007", "path": "docs/production/plans/007.json"},
+    {"id": "008", "path": "docs/production/plans/008.json"},
+    {"id": "009", "path": "docs/production/plans/009.json"},
+    {"id": "010", "path": "docs/production/plans/010.json"}
+  ]
+}

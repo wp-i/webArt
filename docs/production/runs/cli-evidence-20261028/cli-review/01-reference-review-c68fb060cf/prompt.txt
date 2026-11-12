@@ -1,0 +1,180 @@
+# 独立证据审查输入
+
+只读取当前“001基准、邻近反例、母版、候选”的桌面/手机默认画面及过程序列。不读取实施过程、旧分数、成本、生成次数、框架难度或作者对作品的解释。先在六稿已有人评校准组区分基准/低于基准，再评未见候选；校准结果不匹配即停止审查服务本轮放行。
+
+按开场权威、字形与图像工艺、素材特异性、滚动编排、指针细节、整页收束、手机构图分别作低于/相当/高于比较，每项引用双方具体画面，说明差距位置与作用。不要计算总分。一项重要差距不能被其他项平均补偿。
+
+功能成功、主题切换、图片放大、勾选、进度条、微小倾斜与非零transform均不足以认定签名质量。审查主构图是否受益、输入反馈是否与内容一致、交接是否经过设计、离开/停止/反向是否完整。确认删减与替换没有损失母版核心。首次/重复进入、真实连续位置和手机替代都必须可见；缺证据不能猜通过。
+
+返回当前严格JSON结构：8个已加载PNG/JPEG状态、7个成对维度、核心特征保留、pointer/scroll正常/反向/停止/reduce过程及admit/reject/evidence-needed。程序负责映射实际基准/源码指纹与证据路径，不让模型杜撰。expectedSignatures中的所有已锁核心须逐一用同名审查，不能静默删掉；每项finding/purpose至少30字符，引用实际帧标识。不含score/totalScore。重要差距拒绝，纯证据缺口重采，只有不影响七项品质的孤立小缺陷允许一次收尾；核心失败退回静态计划，不自动改方向。
+
+visualContract是已批准的视觉期待，不包含实现理由。stateChecks必须逐一覆盖desktop/mobile的opening/transition/middle/ending，分别判断subject、material、composition、role为preserved/lost/evidence-needed，并用至少30字符的具体finding说明。frames必须引用当前对象对应视口和状态的实际帧；prototype阶段引用candidate，reference阶段引用reference。不能只看开场便判断整页合格，不能把精细材质换成普通几何或把有视觉作用的结尾换成通用CTA后仍判preserved。
+
+continuityChecks按合同每条关系分别审desktop和mobile，引用该视口所有关联状态。检查同一主体的形态/部件/材质身份是否连续，而非“同样有一个3D物体”。合同continuity为空时返回空数组，不擅自要求不需要的连续叙事。任一核心丢失须reject/replace-direction，不能local-finish；纯证据缺口用evidence-needed/recapture。所有画面依据只能引用输入中的实际帧标识。
+
+
+{"phase":"reference","compareRole":"reference","frameRoles":{"benchmark":["benchmark-0","benchmark-1","benchmark-2","benchmark-3","benchmark-4","benchmark-5","benchmark-6","benchmark-7"],"negative":["negative-8","negative-9","negative-10","negative-11"],"reference":["reference-12","reference-13","reference-14","reference-15","reference-16","reference-17","reference-18","reference-19","reference-20","reference-21","reference-22","reference-23","reference-24","reference-25","reference-26","reference-27","reference-28","reference-29","reference-30","reference-31","reference-32","reference-33","reference-34","reference-35","reference-36","reference-37","reference-38","reference-39","reference-40","reference-41","reference-42","reference-43","reference-44","reference-45","reference-46","reference-47","reference-48","reference-49","reference-50","reference-51","reference-52","reference-53","reference-54","reference-55","reference-56","reference-57","reference-58","reference-59","reference-60","reference-61","reference-62","reference-63","reference-64","reference-65","reference-66","reference-67","reference-68","reference-69","reference-70","reference-71","reference-72","reference-73","reference-74","reference-75","reference-76","reference-77","reference-78","reference-79","reference-80","reference-81","reference-82","reference-83","reference-84","reference-85","reference-86","reference-87","reference-88","reference-89","reference-90","reference-91","reference-92","reference-93","reference-94","reference-95","reference-96","reference-97","reference-98","reference-99","reference-100","reference-101","reference-102","reference-103","reference-104","reference-105","reference-106","reference-107","reference-108","reference-109","reference-110","reference-111","reference-112","reference-113","reference-114","reference-115","reference-116","reference-117","reference-118","reference-119","reference-120","reference-121","reference-122","reference-123","reference-124","reference-125","reference-126","reference-127","reference-128","reference-129","reference-130","reference-131","reference-132","reference-133","reference-134","reference-135","reference-136","reference-137","reference-138","reference-139","reference-140","reference-141","reference-142","reference-143","reference-144","reference-145","reference-146","reference-147","reference-148","reference-149","reference-150"],"candidate":[]},"requiredDimensions":["opening-authority","type-media-craft","asset-specificity","scroll-choreography","pointer-finish","whole-page-resolution","mobile-composition"],"visualContract":{"schemaVersion":1,"states":{"opening":{"subject":"完整斜置的金属便携物件与玻璃显示面板。","material":"金属表面方向性高光、厚度和玻璃光泽可辨。","composition":"大宽体字形与物件有受控遮叠，手机保留主要字形与主体。","role":"直接展示对象身份、造型和观看主题。"},"transition":{"subject":"同一物件转向真实顶部接口。","material":"凹入接口、黑色顶部与金属侧面保持区分。","composition":"接口观看与标签相互对齐，手机可读且不是空场。","role":"由整体进入结构，解释物件的具体部位。"},"middle":{"subject":"同一物件正面与尺度关系。","material":"金属、玻璃与接触阴影保持具体工艺。","composition":"主体和材料/尺度标签的比例与位置清楚，手机不缺关键内容。","role":"增加关于表面和比例的观看内容。"},"ending":{"subject":"同一物件与毛毡套组成完整收束。","material":"毛毡纤维、厚度、开口与金属玻璃的区别成立。","composition":"手机及桌面的最终物件、标签、色板和行动清楚，不以裁断关键部分代替完整构图。","role":"完整组合承担收束，商业工具不能单独替代视觉结尾。"}},"continuity":[{"id":"single-object-material-identity","states":["opening","transition","middle","ending"],"expectation":"同一主体形态、顶部、显示区和金属表面连续；毛毡是新增配件，不替换主体身份。"}]},"expectedSignatures":[{"name":"same-object-viewing-sequence","visualPurpose":"同一金属便携物件由完整斜置造型进入顶部接口和正面表面的观看，构图、摄像机和短标签连续交接，而非彼此无关的产品卡片。"},{"name":"metal-to-felt-assembly","visualPurpose":"不同质地的毛毡套在完整观看中进入，与同一物件形成新的包覆关系和最终组合，表面与结构细节承担内容推进和收束。"},{"name":"persistent-material-choice","visualPurpose":"真实选择作用于同一物件的可见金属表面，并在反向、再次正向和减少动态路径保持连续；普通颜色按钮本身不保证签名品质。"}],"motionOrder":"Named complete-scenes sequences retain their actual order. Additional actual native input frames are labelled by viewport, normal/reduced state and y. Canonical pointer move-only frames may be unchanged; actual palette activation is separately supplied. Evaluate its visible purpose, not merely changed hashes.","sourceInputFacts":{"paletteKeyboard":"Actual Tab sequence did not reach plain DIV palette; no keyboard pass is claimed.","sourceEndpoint":"Final states are actual finite endpoints, including mobile y4334. Earlier native mobile y4220 is additionally supplied; do not substitute it for the endpoint.","performance":"Not measured. No performance pass is claimed."},"purpose":"对实际源站整页作七维比较；源站缺陷与证据缺口如实指出，不预测尚未制作的候选。"}
+
+Attached image 1: benchmark-0 desktop opening (images/000.png)
+Attached image 2: benchmark-1 desktop transition (images/001.png)
+Attached image 3: benchmark-2 desktop middle (images/002.png)
+Attached image 4: benchmark-3 desktop ending (images/003.png)
+Attached image 5: benchmark-4 mobile opening (images/004.png)
+Attached image 6: benchmark-5 mobile transition (images/005.png)
+Attached image 7: benchmark-6 mobile middle (images/006.png)
+Attached image 8: benchmark-7 mobile ending (images/007.png)
+Attached image 9: negative-8 user-rejected desktop opening (images/008.png)
+Attached image 10: negative-9 user-rejected desktop ending (images/009.png)
+Attached image 11: negative-10 user-rejected mobile opening (images/010.png)
+Attached image 12: negative-11 user-rejected mobile ending (images/011.png)
+Attached image 13: reference-12 desktop opening (images/012.jpg)
+Attached image 14: reference-13 desktop transition (images/013.jpg)
+Attached image 15: reference-14 desktop middle (images/014.jpg)
+Attached image 16: reference-15 desktop ending
+reference-20 desktop scroll process 0 (ordered)
+reference-21 desktop scroll process 1 (ordered)
+reference-22 desktop scroll process 2 (ordered)
+reference-69 desktop actual native input normal-forward-4 y=3732 reduced=false
+reference-70 desktop actual native input normal-final-blue-default y=3732 reduced=false
+reference-86 desktop actual native input normal-blue-selected y=3732 reduced=false
+reference-103 desktop actual native input reduced-blue-selected y=3732 reduced=true
+These frame IDs have identical verified pixels. Each retains its own capture context. (images/015.jpg)
+Attached image 17: reference-16 mobile opening
+reference-51 mobile scroll process 5 (ordered)
+reference-63 mobile scroll complete-scenes process 11 (ordered)
+These frame IDs have identical verified pixels. Each retains its own capture context. (images/016.jpg)
+Attached image 18: reference-17 mobile transition (images/017.jpg)
+Attached image 19: reference-18 mobile middle (images/018.jpg)
+Attached image 20: reference-19 mobile ending
+reference-46 mobile scroll process 0 (ordered)
+reference-47 mobile scroll process 1 (ordered)
+reference-48 mobile scroll process 2 (ordered)
+reference-111 mobile actual native input normal-forward-5 y=4334 reduced=false
+reference-112 mobile actual native input normal-final-blue-default y=4334 reduced=false
+reference-149 mobile actual native input reduced-blue-selected y=4334 reduced=true
+These frame IDs have identical verified pixels. Each retains its own capture context. (images/019.jpg)
+Attached image 21: reference-23 desktop scroll process 3 (ordered) (images/020.jpg)
+Attached image 22: reference-24 desktop scroll process 4 (ordered) (images/021.jpg)
+Attached image 23: reference-25 desktop scroll process 5 (ordered)
+reference-37 desktop scroll complete-scenes process 11 (ordered)
+These frame IDs have identical verified pixels. Each retains its own capture context. (images/022.jpg)
+Attached image 24: reference-26 desktop scroll complete-scenes process 0 (ordered) (images/023.jpg)
+Attached image 25: reference-27 desktop scroll complete-scenes process 1 (ordered) (images/024.jpg)
+Attached image 26: reference-28 desktop scroll complete-scenes process 2 (ordered) (images/025.jpg)
+Attached image 27: reference-29 desktop scroll complete-scenes process 3 (ordered) (images/026.jpg)
+Attached image 28: reference-30 desktop scroll complete-scenes process 4 (ordered) (images/027.jpg)
+Attached image 29: reference-31 desktop scroll complete-scenes process 5 (ordered) (images/028.jpg)
+Attached image 30: reference-32 desktop scroll complete-scenes process 6 (ordered) (images/029.jpg)
+Attached image 31: reference-33 desktop scroll complete-scenes process 7 (ordered) (images/030.jpg)
+Attached image 32: reference-34 desktop scroll complete-scenes process 8 (ordered) (images/031.jpg)
+Attached image 33: reference-35 desktop scroll complete-scenes process 9 (ordered)
+reference-41 desktop pointer process 3 (ordered)
+reference-43 desktop pointer process 5 (ordered)
+reference-44 desktop pointer process 6 (ordered)
+reference-45 desktop pointer process 7 (ordered)
+These frame IDs have identical verified pixels. Each retains its own capture context. (images/032.jpg)
+Attached image 34: reference-36 desktop scroll complete-scenes process 10 (ordered) (images/033.jpg)
+Attached image 35: reference-38 desktop pointer process 0 (ordered)
+reference-39 desktop pointer process 1 (ordered)
+reference-40 desktop pointer process 2 (ordered)
+reference-42 desktop pointer process 4 (ordered)
+These frame IDs have identical verified pixels. Each retains its own capture context. (images/034.jpg)
+Attached image 36: reference-49 mobile scroll process 3 (ordered)
+reference-50 mobile scroll process 4 (ordered)
+These frame IDs have identical verified pixels. Each retains its own capture context. (images/035.jpg)
+Attached image 37: reference-52 mobile scroll complete-scenes process 0 (ordered) (images/036.jpg)
+Attached image 38: reference-53 mobile scroll complete-scenes process 1 (ordered) (images/037.jpg)
+Attached image 39: reference-54 mobile scroll complete-scenes process 2 (ordered) (images/038.jpg)
+Attached image 40: reference-55 mobile scroll complete-scenes process 3 (ordered) (images/039.jpg)
+Attached image 41: reference-56 mobile scroll complete-scenes process 4 (ordered) (images/040.jpg)
+Attached image 42: reference-57 mobile scroll complete-scenes process 5 (ordered) (images/041.jpg)
+Attached image 43: reference-58 mobile scroll complete-scenes process 6 (ordered) (images/042.jpg)
+Attached image 44: reference-59 mobile scroll complete-scenes process 7 (ordered) (images/043.jpg)
+Attached image 45: reference-60 mobile scroll complete-scenes process 8 (ordered) (images/044.jpg)
+Attached image 46: reference-61 mobile scroll complete-scenes process 9 (ordered) (images/045.jpg)
+Attached image 47: reference-62 mobile scroll complete-scenes process 10 (ordered) (images/046.jpg)
+Attached image 48: reference-64 desktop actual native input normal-opening y=0 reduced=false (images/047.jpg)
+Attached image 49: reference-65 desktop actual native input normal-forward-0 y=900 reduced=false (images/048.jpg)
+Attached image 50: reference-66 desktop actual native input normal-forward-1 y=1800 reduced=false (images/049.jpg)
+Attached image 51: reference-67 desktop actual native input normal-forward-2 y=2700 reduced=false (images/050.jpg)
+Attached image 52: reference-68 desktop actual native input normal-forward-3 y=3600 reduced=false (images/051.jpg)
+Attached image 53: reference-71 desktop actual native input normal-same-final-scene-before y=3732 reduced=false (images/052.jpg)
+Attached image 54: reference-72 desktop actual native input normal-gray-selected y=3732 reduced=false
+reference-73 desktop actual native input normal-gray-stopped-after-leave y=3732 reduced=false
+reference-84 desktop actual native input normal-gray-forward-4 y=3732 reduced=false
+reference-85 desktop actual native input normal-gray-return-final-persistent y=3732 reduced=false
+reference-87 desktop actual native input normal-gray-selected-again y=3732 reduced=false
+reference-88 desktop actual native input reduced-same-final-scene-before y=3732 reduced=true
+reference-89 desktop actual native input reduced-gray-selected y=3732 reduced=true
+reference-90 desktop actual native input reduced-gray-stopped-after-leave y=3732 reduced=true
+reference-101 desktop actual native input reduced-gray-forward-4 y=3732 reduced=true
+reference-102 desktop actual native input reduced-gray-return-final-persistent y=3732 reduced=true
+reference-104 desktop actual native input reduced-gray-selected-again y=3732 reduced=true
+These frame IDs have identical verified pixels. Each retains its own capture context. (images/053.jpg)
+Attached image 55: reference-74 desktop actual native input normal-gray-reverse-0 y=2715 reduced=false (images/054.jpg)
+Attached image 56: reference-75 desktop actual native input normal-gray-reverse-1 y=1815 reduced=false (images/055.jpg)
+Attached image 57: reference-76 desktop actual native input normal-gray-reverse-2 y=915 reduced=false (images/056.jpg)
+Attached image 58: reference-77 desktop actual native input normal-gray-reverse-3 y=15 reduced=false (images/057.jpg)
+Attached image 59: reference-78 desktop actual native input normal-gray-reverse-4 y=0 reduced=false (images/058.jpg)
+Attached image 60: reference-79 desktop actual native input normal-gray-opening-persistent y=0 reduced=false (images/059.jpg)
+Attached image 61: reference-80 desktop actual native input normal-gray-forward-0 y=900 reduced=false (images/060.jpg)
+Attached image 62: reference-81 desktop actual native input normal-gray-forward-1 y=1800 reduced=false (images/061.jpg)
+Attached image 63: reference-82 desktop actual native input normal-gray-forward-2 y=2700 reduced=false (images/062.jpg)
+Attached image 64: reference-83 desktop actual native input normal-gray-forward-3 y=3600 reduced=false (images/063.jpg)
+Attached image 65: reference-91 desktop actual native input reduced-gray-reverse-0 y=2715 reduced=true (images/064.jpg)
+Attached image 66: reference-92 desktop actual native input reduced-gray-reverse-1 y=1815 reduced=true (images/065.jpg)
+Attached image 67: reference-93 desktop actual native input reduced-gray-reverse-2 y=915 reduced=true (images/066.jpg)
+Attached image 68: reference-94 desktop actual native input reduced-gray-reverse-3 y=15 reduced=true (images/067.jpg)
+Attached image 69: reference-95 desktop actual native input reduced-gray-reverse-4 y=0 reduced=true (images/068.jpg)
+Attached image 70: reference-96 desktop actual native input reduced-gray-opening-persistent y=0 reduced=true (images/069.jpg)
+Attached image 71: reference-97 desktop actual native input reduced-gray-forward-0 y=900 reduced=true (images/070.jpg)
+Attached image 72: reference-98 desktop actual native input reduced-gray-forward-1 y=1800 reduced=true (images/071.jpg)
+Attached image 73: reference-99 desktop actual native input reduced-gray-forward-2 y=2700 reduced=true (images/072.jpg)
+Attached image 74: reference-100 desktop actual native input reduced-gray-forward-3 y=3600 reduced=true (images/073.jpg)
+Attached image 75: reference-105 mobile actual native input normal-opening y=0 reduced=false (images/074.jpg)
+Attached image 76: reference-106 mobile actual native input normal-forward-0 y=844 reduced=false (images/075.jpg)
+Attached image 77: reference-107 mobile actual native input normal-forward-1 y=1688 reduced=false (images/076.jpg)
+Attached image 78: reference-108 mobile actual native input normal-forward-2 y=2532 reduced=false (images/077.jpg)
+Attached image 79: reference-109 mobile actual native input normal-forward-3 y=3376 reduced=false (images/078.jpg)
+Attached image 80: reference-110 mobile actual native input normal-forward-4 y=4220 reduced=false (images/079.jpg)
+Attached image 81: reference-113 mobile actual native input normal-same-final-scene-before y=4334 reduced=false (images/080.jpg)
+Attached image 82: reference-114 mobile actual native input normal-gray-selected y=4334 reduced=false
+reference-115 mobile actual native input normal-gray-stopped-after-leave y=4334 reduced=false
+reference-147 mobile actual native input reduced-gray-forward-5 y=4334 reduced=true
+reference-148 mobile actual native input reduced-gray-return-final-persistent y=4334 reduced=true
+reference-150 mobile actual native input reduced-gray-selected-again y=4334 reduced=true
+These frame IDs have identical verified pixels. Each retains its own capture context. (images/081.jpg)
+Attached image 83: reference-116 mobile actual native input normal-gray-reverse-0 y=4220 reduced=false (images/082.jpg)
+Attached image 84: reference-117 mobile actual native input normal-gray-reverse-1 y=3376 reduced=false (images/083.jpg)
+Attached image 85: reference-118 mobile actual native input normal-gray-reverse-2 y=2532 reduced=false (images/084.jpg)
+Attached image 86: reference-119 mobile actual native input normal-gray-reverse-3 y=1688 reduced=false (images/085.jpg)
+Attached image 87: reference-120 mobile actual native input normal-gray-reverse-4 y=844 reduced=false (images/086.jpg)
+Attached image 88: reference-121 mobile actual native input normal-gray-reverse-5 y=0 reduced=false (images/087.jpg)
+Attached image 89: reference-122 mobile actual native input normal-gray-opening-persistent y=0 reduced=false (images/088.jpg)
+Attached image 90: reference-123 mobile actual native input normal-gray-forward-0 y=844 reduced=false (images/089.jpg)
+Attached image 91: reference-124 mobile actual native input normal-gray-forward-1 y=1688 reduced=false (images/090.jpg)
+Attached image 92: reference-125 mobile actual native input normal-gray-forward-2 y=2532 reduced=false (images/091.jpg)
+Attached image 93: reference-126 mobile actual native input normal-gray-forward-3 y=3376 reduced=false (images/092.jpg)
+Attached image 94: reference-127 mobile actual native input normal-gray-forward-4 y=4220 reduced=false (images/093.jpg)
+Attached image 95: reference-128 mobile actual native input normal-gray-forward-5 y=4334 reduced=false
+reference-129 mobile actual native input normal-gray-return-final-persistent y=4334 reduced=false
+reference-131 mobile actual native input normal-gray-selected-again y=4334 reduced=false
+reference-132 mobile actual native input reduced-same-final-scene-before y=4334 reduced=true
+reference-133 mobile actual native input reduced-gray-selected y=4334 reduced=true
+reference-134 mobile actual native input reduced-gray-stopped-after-leave y=4334 reduced=true
+These frame IDs have identical verified pixels. Each retains its own capture context. (images/094.jpg)
+Attached image 96: reference-130 mobile actual native input normal-blue-selected y=4334 reduced=false (images/095.jpg)
+Attached image 97: reference-135 mobile actual native input reduced-gray-reverse-0 y=4220 reduced=true (images/096.jpg)
+Attached image 98: reference-136 mobile actual native input reduced-gray-reverse-1 y=3376 reduced=true (images/097.jpg)
+Attached image 99: reference-137 mobile actual native input reduced-gray-reverse-2 y=2532 reduced=true (images/098.jpg)
+Attached image 100: reference-138 mobile actual native input reduced-gray-reverse-3 y=1688 reduced=true (images/099.jpg)
+Attached image 101: reference-139 mobile actual native input reduced-gray-reverse-4 y=844 reduced=true (images/100.jpg)
+Attached image 102: reference-140 mobile actual native input reduced-gray-reverse-5 y=0 reduced=true (images/101.jpg)
+Attached image 103: reference-141 mobile actual native input reduced-gray-opening-persistent y=0 reduced=true (images/102.jpg)
+Attached image 104: reference-142 mobile actual native input reduced-gray-forward-0 y=844 reduced=true (images/103.jpg)
+Attached image 105: reference-143 mobile actual native input reduced-gray-forward-1 y=1688 reduced=true (images/104.jpg)
+Attached image 106: reference-144 mobile actual native input reduced-gray-forward-2 y=2532 reduced=true (images/105.jpg)
+Attached image 107: reference-145 mobile actual native input reduced-gray-forward-3 y=3376 reduced=true (images/106.jpg)
+Attached image 108: reference-146 mobile actual native input reduced-gray-forward-4 y=4220 reduced=true (images/107.jpg)
+
+Return only the final JSON matching the supplied schema. Read only these attached images and this evidence text. Use no tools, external sources, files, memories, implementation context or other conversations. If the evidence is insufficient, state the limitation within the permitted result; never invent an observation.

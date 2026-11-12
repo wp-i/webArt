@@ -1,0 +1,356 @@
+{
+  "result": "captured-not-visually-approved",
+  "viewports": [
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "controls": [
+        {
+          "selector": "[data-webart-audit=\"0\"]",
+          "tag": "BUTTON",
+          "type": "submit",
+          "href": null,
+          "label": "Drag the spring object or use arrow keys",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-0-default.jpg",
+              "sha256": "5f5860622f1c28aadec3fbb757b0e2491f93dedddffcef6436f16cf4725e006c"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-0-hover.jpg",
+              "sha256": "5f5860622f1c28aadec3fbb757b0e2491f93dedddffcef6436f16cf4725e006c"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-0-focus.jpg",
+              "sha256": "82b3c1e57a3ca654dd73014a69f47b9257c6c7d2223889ea39077527fd91d7a0"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-0-activated.jpg",
+              "sha256": "1e79e99a71b3dd12b03f942d2e2b459aa71b7a000853cb46014ad977f9889673"
+            },
+            {
+              "state": "mouse-result",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-0-physical.jpg",
+              "sha256": "ec9876d87e85f88236f72d8f1670c4ec160302a915bf2f8ab000bbabeceaabd0"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"1\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Explore the instrument",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-1-default.jpg",
+              "sha256": "0ad1683d2cd7514a202f7a8ab53544926b0714ad295a8fb6b678d538e9d3421f"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-1-hover.jpg",
+              "sha256": "d609e5e6c76afdbcea2c230c0606abfc549e95335b841b9d4bb482774cc46ed9"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-1-focus.jpg",
+              "sha256": "ac38f1cf3209f599b0a5dfcc8881a927ec86b3407d1fabd4d356bef53fafe422"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-1-navigated.jpg",
+              "sha256": "8830f3492998da8a6c14dc1c4c44ac9a8348244c9b59ffdfa9d0117fe96801f4"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"2\"]",
+          "tag": "BUTTON",
+          "type": "submit",
+          "href": null,
+          "label": "Release ↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-2-default.jpg",
+              "sha256": "5f5860622f1c28aadec3fbb757b0e2491f93dedddffcef6436f16cf4725e006c"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-2-hover.jpg",
+              "sha256": "00bc143a7ddcffdc7bbb84fb081f6668d9b1649fa787b4b08770bab781b44409"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-2-focus.jpg",
+              "sha256": "00bc143a7ddcffdc7bbb84fb081f6668d9b1649fa787b4b08770bab781b44409"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-2-activated.jpg",
+              "sha256": "892465884bda3e802f88179d70742a094c537d26a77937f7c4e4a901601f3c72"
+            },
+            {
+              "state": "mouse-result",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-2-physical.jpg",
+              "sha256": "ca990031df4bc6811d19aeaec8d64778886dcdb466a0ae8ea5294f195dbe1809"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"3\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Back to the beginning ↑",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-3-default.jpg",
+              "sha256": "53ac63277f0a333f7722f0d3942cf7b57dcefef1b6bee6aef73d3f8f6d262169"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-3-hover.jpg",
+              "sha256": "017c85187b7cbbf74b7ae197a4cca60bccd5fac9b70bce1db6d4e564cf14218b"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-3-focus.jpg",
+              "sha256": "ef5f71b47322404b63043feb9e46c7a427eea8417ea0ed7ce2ac5b8c609c7fe0"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/desktop-3-navigated.jpg",
+              "sha256": "f2c68e0ec2304d2d0b5ccad035f4b83fbfb877ba0e52199781619a73c5a89bcc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "controls": [
+        {
+          "selector": "[data-webart-audit=\"0\"]",
+          "tag": "BUTTON",
+          "type": "submit",
+          "href": null,
+          "label": "Drag the spring object or use arrow keys",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-0-default.jpg",
+              "sha256": "6eabf8adbc4d6a1d9b573d434c1690c0f5ce86d6cecc51dc13806db14358ed5f"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-0-hover.jpg",
+              "sha256": "6eabf8adbc4d6a1d9b573d434c1690c0f5ce86d6cecc51dc13806db14358ed5f"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-0-focus.jpg",
+              "sha256": "a158a994907c06dc5c5cb366553090a738c9631159cd407f67a1d31e231183da"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-0-activated.jpg",
+              "sha256": "7044d5714d7edc54bad64d17b5df51533434fa131be9a27b34627702ff4638e6"
+            },
+            {
+              "state": "touch-result",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-0-physical.jpg",
+              "sha256": "cefdef54ca8f9e71c89acb82f96a146f31b51c647a1c8163720b43223cd63155"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"2\"]",
+          "tag": "BUTTON",
+          "type": "submit",
+          "href": null,
+          "label": "Release ↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-1-default.jpg",
+              "sha256": "e4cbf55bf183fc0e3021728235ab92778ccf5dae12e9ef156fdcf5b8720a9774"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-1-hover.jpg",
+              "sha256": "ab329d79e052a24720f69fbf79651c21248b1abab95e1fe3101f28f3dc3c6baa"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-1-focus.jpg",
+              "sha256": "80ced536d458028b550c4174780d6cd9b1693fc04a6c84cab728800467fdde98"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-1-activated.jpg",
+              "sha256": "239164fc699cc83397272de71b5630db6166caf3899cb4aea07fe12dfe770e9b"
+            },
+            {
+              "state": "touch-result",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-1-physical.jpg",
+              "sha256": "4a41e99eecbc8eb3be56e15e7d03d70750e52a735319a39bdf5d28b8baceeae0"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"3\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Back to the beginning ↑",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-2-default.jpg",
+              "sha256": "a34daed3e911918497104231f5afb61109b3f6136d050cb2b58f74002f37d0f9"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-2-hover.jpg",
+              "sha256": "79e6cca97faa78d43347228f99932be84b5344a3a271a922d8c182905e7ca6d9"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-2-focus.jpg",
+              "sha256": "2e26ab915db97576131be3e45e711b9463fe5b314e59a42ec151fad30738172d"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/mobile-2-navigated.jpg",
+              "sha256": "7034201ac7e923965fd47b5809fcce258e7d6ad580ca9c03713d70bd4545ccb3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "controls": [
+        {
+          "selector": "[data-webart-audit=\"0\"]",
+          "tag": "BUTTON",
+          "type": "submit",
+          "href": null,
+          "label": "Drag the spring object or use arrow keys",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-0-default.jpg",
+              "sha256": "1b3873fe196d00cd6662fad9364e8ca25df8bebb467101964a8eb3cb0c8cc91e"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-0-hover.jpg",
+              "sha256": "1b3873fe196d00cd6662fad9364e8ca25df8bebb467101964a8eb3cb0c8cc91e"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-0-focus.jpg",
+              "sha256": "0e4704cb15ca1b8a4a3d6c6f3c820c1965e32e0e6c2cbcb0d32195caa375b9f0"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-0-activated.jpg",
+              "sha256": "9df5668a0501e67bfac34372f4cb424a044d31f482e8d60f7815daabc87c3369"
+            },
+            {
+              "state": "touch-result",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-0-physical.jpg",
+              "sha256": "5a41ba59b8742905778375408c2b278dd7c077519ab51616da596fc52d70c095"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"2\"]",
+          "tag": "BUTTON",
+          "type": "submit",
+          "href": null,
+          "label": "Release ↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-1-default.jpg",
+              "sha256": "c0a561c6c9e71dcb83cec3074272ff3efbe37767b774b582c86c4aa47bf9168f"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-1-hover.jpg",
+              "sha256": "16d753aedce324b2dc7f6ea945917c6a5524c81175bb2374cb63c839bbfc88ae"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-1-focus.jpg",
+              "sha256": "0596a4ccc3ca72d4b66f6e2e5d0a65357c3d3c351d05ebc6eb021e2003dace2e"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-1-activated.jpg",
+              "sha256": "44f23c0126495c2a4ca37469371e852798467229b7266c380a03eadfff4f527a"
+            },
+            {
+              "state": "touch-result",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-1-physical.jpg",
+              "sha256": "faab4d5704a1d835f37ce930712bb73089977c2b6980997404804113065eee24"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"3\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Back to the beginning ↑",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-2-default.jpg",
+              "sha256": "93ae9a7e25b8ab860bca3ab3ec093c3894151472c6cf1fdd60eb75797a957291"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-2-hover.jpg",
+              "sha256": "67457fc1d05cad2ba726983ba2f56377b61204c1d432272863b2d77e014b98df"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-2-focus.jpg",
+              "sha256": "fffdf96142dd0d9cff5d04b9b6926f5ed762377c523f0152b1958d4189786416"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/controls/narrow-2-navigated.jpg",
+              "sha256": "07ec324a81cf29789a5807363717058f1fe8df70d0b07de28df0bf840057ce4c"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "started": "2026-10-19T03:52:37.135Z",
+  "finished": "2026-10-19T03:53:21.718Z",
+  "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779"
+}

@@ -1,0 +1,51 @@
+{
+  "purpose": "Actual short finger tap in the root-owned live Igloo observation target; no admission",
+  "started": "2026-10-28T17:57:27.049Z",
+  "input": {
+    "type": "native-touch-tap",
+    "x": 45,
+    "y": 407,
+    "holdMs": 70
+  },
+  "frames": [
+    {
+      "phase": "before",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/before.jpg",
+        "sha256": "200fe24198415afef2b8c3b41dd3d3ee6ad89dc6070586bb23cc775bf98844ce"
+      }
+    },
+    {
+      "phase": "after",
+      "state": {
+        "url": "https://www.igloo.inc/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/after.jpg",
+        "sha256": "0fc90c491640f40670a9a7a718cbd3ace159433618aa208d2b4793e74c638b0d"
+      }
+    }
+  ],
+  "sourceTargetUrl": "https://www.igloo.inc/",
+  "result": "tap-observed-not-admitted",
+  "finished": "2026-10-28T17:57:29.650Z"
+}

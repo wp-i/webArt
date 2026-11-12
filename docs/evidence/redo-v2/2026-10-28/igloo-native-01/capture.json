@@ -1,0 +1,1305 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Bounded actual source observation; no quality admission or source assets",
+  "url": "https://www.igloo.inc/",
+  "started": "2026-10-28T03:54:34.786Z",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900,
+      "frames": [
+        {
+          "label": "opening",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-opening.jpg",
+            "sha256": "5e23cf293ccf97a21eec82291d1f744adcc821a6dfe037335740232431c6e455"
+          }
+        },
+        {
+          "label": "pointer-left",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-pointer-left.jpg",
+            "sha256": "000f4c8c77489b0795ef2587b3e85f22020e497eb507a289b229f7d4461c194c"
+          }
+        },
+        {
+          "label": "pointer-right",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-pointer-right.jpg",
+            "sha256": "66531c695ced7fcbe97ce26a277419985b6fa097fd162fa7bda3db7dc9ea12e7"
+          }
+        },
+        {
+          "label": "pointer-leave",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-pointer-leave.jpg",
+            "sha256": "c8efe5b242754261f70e8788a3de1e3b4eaa79ac96dfe747703121a85d309d29"
+          }
+        },
+        {
+          "label": "forward-01",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-01.jpg",
+            "sha256": "361bad38675f7f48a0cf86c92fadc472059f2baf01693a5bc98362860f80b820"
+          }
+        },
+        {
+          "label": "forward-02",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-02.jpg",
+            "sha256": "2c4569c8ad345c4b9cb26bef9e37bc6142ef05c18145f66677d5e16593d62190"
+          }
+        },
+        {
+          "label": "forward-03",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-03.jpg",
+            "sha256": "3882c04ce3377be06889c2099a09b6cb6b408ef491b7e215755d1f874e4b351a"
+          }
+        },
+        {
+          "label": "forward-04",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-04.jpg",
+            "sha256": "f63a13a0c85e0ffd8b310a1db5fd757ac0026f30be8ed100c9c9627ae8570b14"
+          }
+        },
+        {
+          "label": "forward-05",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-05.jpg",
+            "sha256": "dff9f460c0bc2c6015037c7c0525dbd6913feb311e47f00c992e3857413e4efb"
+          }
+        },
+        {
+          "label": "forward-06",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-06.jpg",
+            "sha256": "f8bf48e44bfcdb1d6362fd78bea35b5df453e6258f62fab2e046f2a6d5d99555"
+          }
+        },
+        {
+          "label": "forward-07",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-07.jpg",
+            "sha256": "b4e722d17182efeeb4b3c43599c6e707a1dc15b410cefe83f1ec8faf84cca534"
+          }
+        },
+        {
+          "label": "forward-08",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-08.jpg",
+            "sha256": "8f555b3983b18d2c41c3e7766bb6c4789ab6f6c78801fb678a1cd395f75ae278"
+          }
+        },
+        {
+          "label": "forward-09",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-09.jpg",
+            "sha256": "809ac220293a27e10f4f2e6ec373a8f2da5db3c802620272292d9e66d9d020f5"
+          }
+        },
+        {
+          "label": "forward-10",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-10.jpg",
+            "sha256": "7343be014f1cc342e933e8444ef55204cb5fadbb7ed922576b271d4f1eecd210"
+          }
+        },
+        {
+          "label": "forward-11",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-11.jpg",
+            "sha256": "1b7c3d7e526bdbe5cb6997a8452ed34f3ce532aa5500c78132edbd0d82aaaae0"
+          }
+        },
+        {
+          "label": "forward-12",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-12.jpg",
+            "sha256": "06d0487defa7ef994361e864728a66e8e6b43df971a329fa30bedcede4f72854"
+          }
+        },
+        {
+          "label": "forward-13",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-13.jpg",
+            "sha256": "c1c3564773d574e2e6ea6a2f84bd1ce213723d9de7a8726425073b43377d3ca1"
+          }
+        },
+        {
+          "label": "forward-14",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-14.jpg",
+            "sha256": "171b49a3ea2fad376bd9b4419b6dee42012e4c29ba25cecb1e6097d1c474746c"
+          }
+        },
+        {
+          "label": "forward-15",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-15.jpg",
+            "sha256": "1853cf150fdca995da7cad968840c21e6250276ffa25a04d08168dfdc46bedda"
+          }
+        },
+        {
+          "label": "forward-16",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-16.jpg",
+            "sha256": "35b4e130872478568a84976e8d13ce40aab623c3665933bfb58638632b62c092"
+          }
+        },
+        {
+          "label": "forward-17",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-17.jpg",
+            "sha256": "cbdb07deae9a7700720ba744f2fd9bde03e5460dd5a6baad9060ffe4899ea8aa"
+          }
+        },
+        {
+          "label": "forward-18",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-18.jpg",
+            "sha256": "5fa3194e606e5192211ce008123d8346a80f62d615bcf36e0472f5afe073aff2"
+          }
+        },
+        {
+          "label": "stopped",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 1440,
+            "height": 900,
+            "screen": [
+              1440,
+              900
+            ],
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 900,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-stopped.jpg",
+            "sha256": "6303d009b28ea4b2380cf2c8df9375287cec50be24eda614a4d5d45544ddc181"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "mouseMoved",
+          "x": 520,
+          "y": 350
+        },
+        {
+          "type": "mouseMoved",
+          "x": 880,
+          "y": 470
+        },
+        {
+          "type": "mouseMoved",
+          "x": 30,
+          "y": 860
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        },
+        {
+          "type": "native-wheel",
+          "deltaY": 520
+        }
+      ],
+      "endpointProven": false
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "frames": [
+        {
+          "label": "opening",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-opening.jpg",
+            "sha256": "0b1b5fee18c6abe99dd50d6f1699e3214406e7ea1eda87e786190fd3c49f20db"
+          }
+        },
+        {
+          "label": "forward-01",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-01.jpg",
+            "sha256": "9de92f470fb0c5ab52b7e53fa521874492ecee1295eafd0a84122fd4b73239fb"
+          }
+        },
+        {
+          "label": "forward-02",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-02.jpg",
+            "sha256": "fd4028e061ac170b8357083893ad82999109c45f14c1c5f27ce4befc88b781d7"
+          }
+        },
+        {
+          "label": "forward-03",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-03.jpg",
+            "sha256": "1812f6587a71ad5115bc5c349f35bbdd018d3862d19576963923034940c3fdb5"
+          }
+        },
+        {
+          "label": "forward-04",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-04.jpg",
+            "sha256": "425f8f68b9e89336b03a68dc9b3459f70d858cf05bd43dde1773d442fcf2d3dd"
+          }
+        },
+        {
+          "label": "forward-05",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-05.jpg",
+            "sha256": "2d2f866c24a35dd4635920e5dec436e3c67e294e969245529657a01f0d2888cc"
+          }
+        },
+        {
+          "label": "forward-06",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-06.jpg",
+            "sha256": "927d69bb8a35cfd25a09c15f368aa497b7b5dc032887d03148e0a50a0be59c93"
+          }
+        },
+        {
+          "label": "forward-07",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-07.jpg",
+            "sha256": "e252b351793006eaa0f2c1b175f1cba655bada31698e71c1baf1ff8204848dfb"
+          }
+        },
+        {
+          "label": "forward-08",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-08.jpg",
+            "sha256": "e6ef45221a13e7a6a6a32f2ba178945ffa3d45aaa684245cf60c96f5d4f2d7b2"
+          }
+        },
+        {
+          "label": "forward-09",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-09.jpg",
+            "sha256": "84c1e9cdf5a13e5b4ca671abc01f00a14e76e807efe90ec2032cfc0ab26f7338"
+          }
+        },
+        {
+          "label": "forward-10",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-10.jpg",
+            "sha256": "dfef9fcd3f434b43582825186e1788cb4fbe03619c36e1c82816ec951bc566bb"
+          }
+        },
+        {
+          "label": "forward-11",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-11.jpg",
+            "sha256": "7a2c78df886aff79cf362085286576b12a4867b1d530ff27e2b4f430042ead1b"
+          }
+        },
+        {
+          "label": "forward-12",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-12.jpg",
+            "sha256": "3ce7a3c060d83eee134e35fcc79ace26c654bbfdfbb8d7053b75913c17326fcb"
+          }
+        },
+        {
+          "label": "forward-13",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-13.jpg",
+            "sha256": "5204c419d6f7b21b60639bbf904aa752a921d39acb775cc2f2393f78738b8478"
+          }
+        },
+        {
+          "label": "forward-14",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-14.jpg",
+            "sha256": "f5ab50b25841f8e79f2d6c79ee09f300d85a47937365e36708701f2339187aa7"
+          }
+        },
+        {
+          "label": "forward-15",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-15.jpg",
+            "sha256": "15b77c1bc1bbb2388f027ae73fb4cba80cd0786974d6ff2d365246ab794f7457"
+          }
+        },
+        {
+          "label": "forward-16",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-16.jpg",
+            "sha256": "044495c83f97a1c5b599586f41c48ed75d47dba6868a6f2951e67b18a359961c"
+          }
+        },
+        {
+          "label": "forward-17",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-17.jpg",
+            "sha256": "1be7b67b5b99fe789ab0361f74efe0162d6e9ecc19ef836f054dac5a1df541d1"
+          }
+        },
+        {
+          "label": "forward-18",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-18.jpg",
+            "sha256": "30cb6412862232a80df65f3a8fc4c982c522ab381423f09f11e46795d9a549e4"
+          }
+        },
+        {
+          "label": "stopped",
+          "state": {
+            "url": "https://www.igloo.inc/",
+            "ready": "complete",
+            "width": 390,
+            "height": 844,
+            "screen": [
+              390,
+              844
+            ],
+            "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+            "reduced": false,
+            "y": 0,
+            "documentHeight": 844,
+            "domCanvasCount": 0,
+            "bodyText": ""
+          },
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-stopped.jpg",
+            "sha256": "cd702f01e1f9f8e74c5cf5147f5774c526c57465f660eeaed8417275eedf8d6f"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        },
+        {
+          "type": "native-finger",
+          "from": [
+            195,
+            658.32
+          ],
+          "to": [
+            195,
+            185.68
+          ]
+        }
+      ],
+      "endpointProven": false
+    }
+  ],
+  "errors": [],
+  "result": "captured-bounded-path-not-admitted",
+  "finished": "2026-10-28T03:55:58.329Z"
+}

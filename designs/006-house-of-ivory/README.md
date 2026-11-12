@@ -1,6 +1,6 @@
 # House of Ivory
 
-An editable interior-studio website: a typographic opening, one full-width salon, a studio introduction, three project studies and a direct contact link. Built with HTML, CSS and a little JavaScript; no backend, video, 3D, or remote font service.
+An editable HTML/CSS/JavaScript presentation site with four local photographs and local licensed fonts. One editable source edition, no backend or remote asset service.
 
 ## Run and build
 
@@ -13,27 +13,27 @@ npm run build
 npm run preview
 ```
 
-Upload the generated `dist/` contents to your static host. For a subfolder, build with `npm run build -- --base /your-folder/`.
+Upload the generated dist contents to your static host. For a subfolder: `npm run build -- --base /your-folder/`.
 
-## Make it yours
+## Customize
 
-Edit `index.html` to change the brand, descriptions, project titles, contact email and footer. Replace every `studio@example.com` with your real email. The brand heading is ordinary editable text, not a flattened logo. Long names may need a smaller `.wordmark-heavy` font size in `src/styles.css`; check desktop and phone widths after editing.
+Change the brand, short copy, study titles, descriptions and contact links in index.html. Replace every example.com email with your real address before publication. Mail actions open the visitor’s email application. They do not submit a form or send a message automatically.
 
-Replace the four images in `public/assets/` using the same filenames, or update their paths and descriptive alt text in the HTML. The hero is 1536×1024; the three project images are 1024×1536. The hero needs a clear central subject so phone cropping works. Each project appears once; avoid reusing the hero in the gallery or contact area.
+Colors, typography, photo crops and responsive rules live in src/styles.css; local interaction behavior is in src/main.js. After changing a brand name or typeface, check 1440, 768, 390 and 320px widths.
 
-The imagery is AI-generated concept imagery for this fictional demonstration studio. It does not document built projects, customers or an existing design practice. Replace it with your own project photography when presenting real work.
+Replace the four WebP photographs in public/assets, or change their paths, width/height and descriptive alt text in the HTML. Keep each photograph in one visual role. Check both wide and phone cropping; use object-position to preserve the main subject.
 
-| Image | Role |
-|---|---|
-| `hero-salon.png` | Full-width opening; center-cropped on phones |
-| `project-table.png` | Dining study |
-| `project-blue.png` | Bedroom study |
-| `project-stair.png` | Architectural study |
+- hero-salon.webp: 2400 × 1600.
+- project-classic.webp: 1600 × 2397.
+- project-colour.webp: 1600 × 2400.
+- project-shadow.webp: 1600 × 2397.
 
-Colors, spacing and responsive rules live in `src/styles.css`. Four locally bundled Latin font files and their licenses live in `public/assets/`. The bold display font, Dela Gothic One, has broad letters; preserve the space around the italic “of”. For non-Latin content, bundle a suitably licensed font and update the font rules.
+The photographs are licensed stock photography of real scenes. The brand and study names are fictional examples, not a claim that the demonstration studio designed these buildings or hosted these experiences. Use your actual work when presenting a real business. Photography sources and rights are recorded in THIRD_PARTY_NOTICES.md.
 
 ## Interaction
 
-Navigation uses native in-page links. Each project opens additional materials and palette notes with native `<details>`; its title and image are visible by default. Multiple projects can stay open. The phone menu closes after navigation, when pressing Escape or tapping outside it. The site remains usable without JavaScript. Motion is limited to small hover/focus transitions and is disabled under reduced-motion preferences. The contact link opens the visitor’s email app; there is no hidden form service or checkout.
+The salon has a small scroll and pointer crop shift. The short studio line changes colour through the transition. Project images reveal as they enter; hovering a photograph shows a bounded Explore prompt and small crop shift. Native project disclosures, anchor navigation, a phone menu, Escape and outside-tap dismissal remain available.
 
-Only this editable source project is delivered. Internal review records and reference material are not included. See `LICENSE.md` and `THIRD_PARTY_NOTICES.md` before redistributing the project.
+All main content is visible by default. Reduced-motion preferences disable crop/reveal/hover animation. Touch does not require hover. The site retains ordinary scrolling; no scroll hijacking, audio, analytics, ticket checkout or signup service.
+
+Retain LICENSE.md, THIRD_PARTY_NOTICES.md and bundled font licenses when delivering the edited source to a client. Reference screenshots and internal review evidence are excluded.

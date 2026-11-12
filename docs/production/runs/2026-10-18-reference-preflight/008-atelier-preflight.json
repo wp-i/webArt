@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-18",
+  "id": "008",
+  "phase": "reference-preflight",
+  "sourceUrl": "https://atelier-north.crnacura.workers.dev/",
+  "sourceRepository": "https://github.com/codrops/atelier-north",
+  "decision": "not-admitted",
+  "comparisonMode": "current-conversation-direct-inspection",
+  "independent": false,
+  "attempts": [
+    {
+      "capture": "docs/evidence/redo-v2/2026-10-18/008-atelier-reference-01/capture.json",
+      "result": "failed",
+      "reason": "First readiness incorrectly waited for lazy 12px utility arrows below the viewport; not a source-quality rejection."
+    },
+    {
+      "capture": "docs/evidence/redo-v2/2026-10-18/008-atelier-reference-02/capture.json",
+      "result": "failed",
+      "reason": "The animated about anchor moved during native positioning; capture correctly stopped rather than declaring an unstable scene approved."
+    }
+  ],
+  "observedDefault": {
+    "viewport": "desktop",
+    "state": "opening",
+    "finalAssets": true,
+    "loaded": true,
+    "y": 0,
+    "layout": {
+      "y": 0,
+      "documentHeight": 12722,
+      "viewportHeight": 900
+    },
+    "evidence": [
+      {
+        "path": "docs/evidence/redo-v2/2026-10-18/008-atelier-reference-02/desktop-opening/contact-sheet.jpg",
+        "sha256": "6b10080b5ce20a22261d25e852819f18f6e68b9d7cf6c9281be10658300c21f2"
+      }
+    ]
+  },
+  "findings": [
+    "实际默认视口主要为蓝色大字标、说明段落、邮箱按钮及空的章节索引；当前未取得与001同等明确主视觉/素材关系的证据，不因开源或容易复用而进入实现。",
+    "完整过程、手机和指针尚未采齐，不能声称已完成八状态审美评判；两次采证失败保留。",
+    "仓库README标为MIT，但链接到的LICENSE文件404；图片作者/模板源码分发依据尚未锁定。没有下载源代码或素材，不能把README的一行声明当成完整素材许可计划。"
+  ],
+  "nextAction": "Continue only with a qualified complete reference and pinned asset/distribution plan; this candidate is not authorized for implementation.",
+  "newPrototype": false,
+  "newArchive": false,
+  "mediaAcquired": 0,
+  "modelApiCalls": 0
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://mydopo.com/",
+  "output": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02",
+  "ready": "document.documentElement.scrollHeight>4000 && !!document.querySelector('canvas') && getComputedStyle(document.querySelector('#loadingScreen')).display==='none'",
+  "readyTimeoutMs": 30000,
+  "enterMs": 1800,
+  "stageSettleMs": 950,
+  "settleMs": 300,
+  "deadlineMs": 240000,
+  "initialPointer": {"x":0.98,"y":0.02},
+  "nativeStage": true,
+  "states": {
+    "desktop": {
+      "opening": {"wheels":[0]},
+      "transition": {"wheels":[750]},
+      "middle": {"wheels":[750]},
+      "ending": {"wheels":[750,750,750]}
+    },
+    "mobile": {
+      "opening": 0,
+      "transition": {"selector":"#section-2"},
+      "middle": {"selector":"#section-4"},
+      "ending": 1
+    }
+  },
+  "processScenes": ["#section-1","#section-2","#section-4","#section-5","#section-6"],
+  "pointer": {
+    "selector": "canvas",
+    "scene": "#section-6",
+    "retainPosition": true,
+    "settleMs": 500,
+    "clickSelectors": [".col-gray",".col-blue",".col-gray"]
+  }
+}

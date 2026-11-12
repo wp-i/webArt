@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-18T04:48:38.908Z",
+  "url": "https://atelier-north.crnacura.workers.dev/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 12722,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-atelier-reference-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "6b10080b5ce20a22261d25e852819f18f6e68b9d7cf6c9281be10658300c21f2"
+        }
+      ]
+    }
+  ],
+  "motion": [],
+  "errors": [],
+  "result": "failed",
+  "failure": "Native scroll position changed after media/layout readiness; state capture must stop",
+  "finished": "2026-10-18T04:48:55.127Z"
+}

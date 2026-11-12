@@ -1,0 +1,3512 @@
+{
+  "started": "2026-10-12T13:05:01.152Z",
+  "purpose": "paired quality evidence, not aesthetic scoring",
+  "pages": [
+    {
+      "id": "001",
+      "title": "The Weight of Light",
+      "sourceSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "name": "1440-scroll-0.16-1",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+          "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0"
+        },
+        {
+          "name": "1440-scroll-0.33-2",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.33-2.png",
+          "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+        },
+        {
+          "name": "1440-scroll-0.5-3",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.5-3.png",
+          "sha256": "108e16a1777bd5b0c8034f94d73aa4e6715646c5a9ed513e1d7eb0ba7c4b6b64"
+        },
+        {
+          "name": "1440-scroll-0.67-4",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "name": "1440-scroll-0.84-5",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.84-5.png",
+          "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        },
+        {
+          "name": "1440-scroll-0.5-7",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.5-7.png",
+          "sha256": "108e16a1777bd5b0c8034f94d73aa4e6715646c5a9ed513e1d7eb0ba7c4b6b64"
+        },
+        {
+          "name": "1440-scroll-0-8",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+          "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/001-1440-pointer-0.2.png",
+          "sha256": "3b8132ec2c6c9b369c3baf6b3d81cb602366b7270f1a010531f8beec4abc2415"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/001-1440-pointer-0.8.png",
+          "sha256": "c80249335437e1ba261da9d1d48fc8400d40865d16618ff342cd76a29bad286c"
+        },
+        {
+          "name": "1440-pointer-leave",
+          "path": "docs/evidence/quality-calibration/001-1440-pointer-leave.png",
+          "sha256": "7749114c96da0c658d751e608d01401111f096e71c71a49fecaafb323d75edeb"
+        },
+        {
+          "name": "1440-held",
+          "path": "docs/evidence/quality-calibration/001-1440-held.png",
+          "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+        },
+        {
+          "name": "1440-released",
+          "path": "docs/evidence/quality-calibration/001-1440-released.png",
+          "sha256": "de6e970b5fb0c3a3026e25250902d57e8ed691809fd6249d1a9f2752fa6b2bf9"
+        },
+        {
+          "name": "1440-reduced",
+          "path": "docs/evidence/quality-calibration/001-1440-reduced.png",
+          "sha256": "3940d7abc19f9e8ec890061633dffaec2bc95ca18a69e0fdae8c0039f14c009a"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "name": "390-scroll-0.33-12",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+        },
+        {
+          "name": "390-scroll-0.67-13",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+          "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+        },
+        {
+          "name": "390-scroll-1-14",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        },
+        {
+          "name": "390-scroll-0-15",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+          "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81"
+        },
+        {
+          "name": "390-reduced",
+          "path": "docs/evidence/quality-calibration/001-390-reduced.png",
+          "sha256": "d0cb5141e5a7cf80ea276e4785869dc8d0225f0991a7920c594d60834cf24c3c"
+        }
+      ],
+      "viewports": [
+        {
+          "width": 1440,
+          "height": 900,
+          "scrollRange": 2340,
+          "finePointer": true
+        },
+        {
+          "width": 390,
+          "height": 844,
+          "scrollRange": 2296,
+          "finePointer": false
+        }
+      ],
+      "motion": [
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.16,
+          "y": 374,
+          "progress": 0.15982905982905982,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone is-current",
+              "transform": "matrix(1.0086, 0, 0, 1.0086, 0, 0)",
+              "opacity": "0.003",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "matrix(1.0094, 0, 0, 1.0094, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\nINDEX\n01\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT STUDY / 2026\n\nMOVE TO EXPOSE THE MATERIAL\n\nCHAPTER II\n\nTh"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 772,
+          "progress": 0.3299145299145299,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone",
+              "transform": "matrix(1.0178, 0, 0, 1.0178, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone is-current",
+              "transform": "matrix(1.0002, 0, 0, 1.0002, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\nINDEX\n02\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT STUDY / 2026\n\nMOVE TO EXPOSE THE MATERIAL\n\nCHAPTER II\n\nTh"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 1170,
+          "progress": 0.5,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "matrix(1.009, 0, 0, 1.009, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone is-current",
+              "transform": "matrix(1.009, 0, 0, 1.009, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\nINDEX\n03\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT STUDY / 2026\n\nMOVE TO EXPOSE THE MATERIAL\n\nCHAPTER II\n\nTh"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 1568,
+          "progress": 0.67008547008547,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone is-current",
+              "transform": "matrix(1.0002, 0, 0, 1.0002, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "matrix(1.0178, 0, 0, 1.0178, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\nINDEX\n03\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT STUDY / 2026\n\nMOVE TO EXPOSE THE MATERIAL\n\nCHAPTER II\n\nTh"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.84,
+          "y": 1966,
+          "progress": 0.8401709401709402,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "matrix(1.0094, 0, 0, 1.0094, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone is-current",
+              "transform": "matrix(1.0086, 0, 0, 1.0086, 0, 0)",
+              "opacity": "0.003",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\nINDEX\n04\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT STUDY / 2026\n\nMOVE TO EXPOSE THE MATERIAL\n\nCHAPTER II\n\nTh"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 2340,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone is-current",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\nINDEX\n04\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT STUDY / 2026\n\nMOVE TO EXPOSE THE MATERIAL\n\nCHAPTER II\n\nTh"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 1170,
+          "progress": 0.5,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "matrix(1.009, 0, 0, 1.009, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone is-current",
+              "transform": "matrix(1.009, 0, 0, 1.009, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\nINDEX\n03\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT STUDY / 2026\n\nMOVE TO EXPOSE THE MATERIAL\n\nCHAPTER II\n\nTh"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone is-current",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\n\nMATERIAL INQUIRY\nMMXXVI\n\nAN OBJECT IN BORROWED LIGHT\n\nINDEX\n01\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT ST"
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.2,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone is-current",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\n\nMATERIAL INQUIRY\nMMXXVI\n\nAN OBJECT IN BORROWED LIGHT\n\nINDEX\n01\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT ST"
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.8,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone is-current",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\n\nMATERIAL INQUIRY\nMMXXVI\n\nAN OBJECT IN BORROWED LIGHT\n\nINDEX\n01\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT ST"
+        },
+        {
+          "width": 1440,
+          "input": "leave-stop",
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone is-current",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(345.6px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "matrix(1.018, 0, 0, 1.018, 0, 0)",
+              "opacity": "0",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\n\nMATERIAL INQUIRY\nMMXXVI\n\nAN OBJECT IN BORROWED LIGHT\n\nINDEX\n01\n04\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\n01\n\nMINERAL MEMBRANE\nPAPER, SOOT, TITANIUM\n\nAPPROACH THE SURFACE\n\nINDEPENDENT ST"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 758,
+          "progress": 0.33013937282229966,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone is-current",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(163.8px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\nINDEX\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\nINDEPENDENT STUDY / 2026\n\nCHAPTER II\n\nThe\nMemory of Fibre\n02\n03\n\nClose evidence\n\nLight gathers at the thinnest edge.\n\nHOLD TO EXPOSE\nRemain.\n"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 1538,
+          "progress": 0.6698606271777003,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone is-current",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(163.8px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\nINDEX\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\nINDEPENDENT STUDY / 2026\n\nCHAPTER II\n\nThe\nMemory of Fibre\n02\n03\n\nClose evidence\n\nLight gathers at the thinnest edge.\n\nHOLD TO EXPOSE\nRemain.\n"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 2296,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(163.8px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone is-current",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nSTUDY NO. 01\nINDEX\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\nINDEPENDENT STUDY / 2026\n\nCHAPTER II\n\nThe\nMemory of Fibre\n02\n03\n\nClose evidence\n\nLight gathers at the thinnest edge.\n\nHOLD TO EXPOSE\nRemain.\n"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "hero-section chapter theme-zone is-current",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "visual__light",
+              "transform": "none",
+              "opacity": "0.97",
+              "clip": "none"
+            },
+            {
+              "selector": "threshold chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "passage chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "passage__light",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "circle(163.8px at 58% 44%)"
+            },
+            {
+              "selector": "coda chapter theme-zone",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to the study\nW / L\nW\nL\nINDEX\n\nTHE PERMANENCE OF IMPERMANENCE\n\nThe\nWeight\nof\nLight\n\nMatter remembers every hand.\nLight reveals what remains.\n\nINDEPENDENT STUDY / 2026\n\nCHAPTER II\n\nThe\nMemory of Fibre\n02\n03\n\nClose evidence\n\nLight gathers at the thinnest edge.\n\nHOLD TO EXPOSE\nRemain.\nDOWNLOAD SOUR"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "title": "House of Ivory",
+      "sourceSha256": "3be6deb3cc6893ce3a225c43d7cdd330a3aed8b945269cd77056577262e1f99a",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/006-1440-opening.png",
+          "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+        },
+        {
+          "name": "1440-scroll-0.16-1",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0.16-1.png",
+          "sha256": "ed1fd1ce2b24d92a65136664902601cd488c98fa16394c3b99301d0330df1e8f"
+        },
+        {
+          "name": "1440-scroll-0.33-2",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0.33-2.png",
+          "sha256": "fbd21a9f967528d17f3798d82ef2098b072bc8a322a0a7f37071202d58921a9d"
+        },
+        {
+          "name": "1440-scroll-0.5-3",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0.5-3.png",
+          "sha256": "88cf9cb0605777251c76626a66765c25179fa1cddd526e2cee2472a525f1f813"
+        },
+        {
+          "name": "1440-scroll-0.67-4",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0.67-4.png",
+          "sha256": "1497eba857ac03a6e3fcd46e1480f69ca5681aebcd2069c6b1e95f394e1712c2"
+        },
+        {
+          "name": "1440-scroll-0.84-5",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0.84-5.png",
+          "sha256": "4719ca05897fe92b85db1f6635e7cf89ec436708274981f44b3d5360dcc4b027"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-1-6.png",
+          "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+        },
+        {
+          "name": "1440-scroll-0.5-7",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0.5-7.png",
+          "sha256": "df4eaefd286c5dc9d8d8a5a79b2703b2cdfaf5393be4e79606d3954413fe2597"
+        },
+        {
+          "name": "1440-scroll-0-8",
+          "path": "docs/evidence/quality-calibration/006-1440-scroll-0-8.png",
+          "sha256": "24ecef7977d6311a6426f166963b9695752f1940fb54ca168610fb4525028fa7"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/006-1440-pointer-0.2.png",
+          "sha256": "a8e78a40e385bd29acf7f9f498faaa8f7990227d5546ad24935b65e52fb47152"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/006-1440-pointer-0.8.png",
+          "sha256": "16e0402dd9d3dbd9cd8537b89f513844fb9b089b3557c6107d427f1cb819784d"
+        },
+        {
+          "name": "1440-pointer-leave",
+          "path": "docs/evidence/quality-calibration/006-1440-pointer-leave.png",
+          "sha256": "d3184bb6549f069444ed79e59b67a52260719ba56fd8cecc66b5ca484f373c80"
+        },
+        {
+          "name": "1440-reduced",
+          "path": "docs/evidence/quality-calibration/006-1440-reduced.png",
+          "sha256": "fa1113657cb482501ce9dc42eda7e364d767194e64bc516c5466e9802f8d014f"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/006-390-opening.png",
+          "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+        },
+        {
+          "name": "390-scroll-0.33-12",
+          "path": "docs/evidence/quality-calibration/006-390-scroll-0.33-12.png",
+          "sha256": "250546a585a19eccdc9943ff412525f4ea1f3721e96c6d503c95d84ee5a26888"
+        },
+        {
+          "name": "390-scroll-0.67-13",
+          "path": "docs/evidence/quality-calibration/006-390-scroll-0.67-13.png",
+          "sha256": "5b15f3778491fa59b09793385cec86c56ff1e583204e4eca4663fb509566bcb7"
+        },
+        {
+          "name": "390-scroll-1-14",
+          "path": "docs/evidence/quality-calibration/006-390-scroll-1-14.png",
+          "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+        },
+        {
+          "name": "390-scroll-0-15",
+          "path": "docs/evidence/quality-calibration/006-390-scroll-0-15.png",
+          "sha256": "a0c52d85e5bbd3a84b730b63a6e18bae16dee37f93835f23d764b9a7d8cc15b6"
+        },
+        {
+          "name": "390-reduced",
+          "path": "docs/evidence/quality-calibration/006-390-reduced.png",
+          "sha256": "49b5698552a83398d3b540ae97932d3b39803f6dcbce8bd48f55134f36bfb848"
+        }
+      ],
+      "viewports": [
+        {
+          "width": 1440,
+          "height": 900,
+          "scrollRange": 2000,
+          "finePointer": true
+        },
+        {
+          "width": 390,
+          "height": 844,
+          "scrollRange": 2558,
+          "finePointer": false
+        }
+      ],
+      "motion": [
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.16,
+          "y": 320,
+          "progress": 0.16,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, -3.18105)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 660,
+          "progress": 0.33,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 5.11971)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 1000,
+          "progress": 0.5,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 11.8441)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 1340,
+          "progress": 0.67,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.84,
+          "y": 1680,
+          "progress": 0.84,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 2000,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 1000,
+          "progress": 0.5,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, -7.76715)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.2,
+          "y": 298,
+          "progress": 0.149,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 3.43624, -2.5984)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.8,
+          "y": 298,
+          "progress": 0.149,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, -3.73173, -2.33806)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 1440,
+          "input": "leave-stop",
+          "y": 298,
+          "progress": 0.149,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, -0.0544785, -2.33806)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nThe studio\nOur spaces\nLet’s talk\n↗\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS\n& THE ART OF LIVING.\n\nROOMS WITH SOUL.\nLIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / "
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 844,
+          "progress": 0.3299452697419859,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 8.12627)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nMenu\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS & THE ART OF LIVING.\n\nROOMS WITH SOUL. LIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / 01–03\n\nThree studies in living"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 1714,
+          "progress": 0.6700547302580141,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nMenu\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS & THE ART OF LIVING.\n\nROOMS WITH SOUL. LIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / 01–03\n\nThree studies in living"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 2558,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 12.54)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nMenu\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS & THE ART OF LIVING.\n\nROOMS WITH SOUL. LIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / 01–03\n\nThree studies in living"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, -3.26687)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nMenu\nHOUSE\nof\nIVORY\n\nINTERIORS, OBJECTS & THE ART OF LIVING.\n\nROOMS WITH SOUL. LIFE WITH COLOUR.\n\nTHE SALON / A MATERIAL STUDY\nDiscover our spaces\n↓\n\nTHE STUDIO\n\nA feeling, before a style.\n\nColour. Texture. A little room for surprise.\n\nSELECTED SPACES / 01–03\n\nThree studies in living"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "title": "Campovivo",
+      "sourceSha256": "46c7d81838525a79057b4d7a98f030222a2befb44b0b7b8719e63c3224d2121f",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/007-1440-opening.png",
+          "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+        },
+        {
+          "name": "1440-scroll-0.16-1",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0.16-1.png",
+          "sha256": "656cf2ba107a86312b4d986733b6133928e043d50a9520fcc6bb43e6bd48da2a"
+        },
+        {
+          "name": "1440-scroll-0.33-2",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0.33-2.png",
+          "sha256": "bd970095ec4e83a0e2efb4bdd139753e86fcad8bb231fc0b09bc0cc2967a4b8c"
+        },
+        {
+          "name": "1440-scroll-0.5-3",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0.5-3.png",
+          "sha256": "4d8c3010953e979b1ea8822cf71f9ff8c567f851ad9e0c20062aa57000bba907"
+        },
+        {
+          "name": "1440-scroll-0.67-4",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0.67-4.png",
+          "sha256": "70bf8bfc2fa782504be1eefbff732ba23437bb1e8b650a5da1744164c24f4e28"
+        },
+        {
+          "name": "1440-scroll-0.84-5",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0.84-5.png",
+          "sha256": "c905873e2604010147ed8131b22635d76e70df3cf22c0652f9e505070c171a71"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-1-6.png",
+          "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+        },
+        {
+          "name": "1440-scroll-0.5-7",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0.5-7.png",
+          "sha256": "f6634f62e013b145193aecb36c7684a11d84aa48d143940f3f473a269f319da5"
+        },
+        {
+          "name": "1440-scroll-0-8",
+          "path": "docs/evidence/quality-calibration/007-1440-scroll-0-8.png",
+          "sha256": "c5b0a1d81d828ca784f85c98232bc3e7e745dba5b1d745a2d9cb1acf76cb82b1"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/007-1440-pointer-0.2.png",
+          "sha256": "2a6465c6bfaa0d65ba740d32bea3ff1121378da0d0f9be54b826144541ccfd42"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/007-1440-pointer-0.8.png",
+          "sha256": "2a6465c6bfaa0d65ba740d32bea3ff1121378da0d0f9be54b826144541ccfd42"
+        },
+        {
+          "name": "1440-pointer-leave",
+          "path": "docs/evidence/quality-calibration/007-1440-pointer-leave.png",
+          "sha256": "2a6465c6bfaa0d65ba740d32bea3ff1121378da0d0f9be54b826144541ccfd42"
+        },
+        {
+          "name": "1440-reduced",
+          "path": "docs/evidence/quality-calibration/007-1440-reduced.png",
+          "sha256": "83f3e037944e0ee29b688da872766f399fbe53bdfb7b5f82ecec8abe3cb94019"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/007-390-opening.png",
+          "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+        },
+        {
+          "name": "390-scroll-0.33-12",
+          "path": "docs/evidence/quality-calibration/007-390-scroll-0.33-12.png",
+          "sha256": "f06e68c4a582bd4676403cd01d98f144581d049d40a8839459b600f06408ca9c"
+        },
+        {
+          "name": "390-scroll-0.67-13",
+          "path": "docs/evidence/quality-calibration/007-390-scroll-0.67-13.png",
+          "sha256": "9ce0ea2a19b47b9cc09abf49312165e65fd69f762f9ee2663159a09f02d3c41c"
+        },
+        {
+          "name": "390-scroll-1-14",
+          "path": "docs/evidence/quality-calibration/007-390-scroll-1-14.png",
+          "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+        },
+        {
+          "name": "390-scroll-0-15",
+          "path": "docs/evidence/quality-calibration/007-390-scroll-0-15.png",
+          "sha256": "9c8fc4052d7fe55c7a39e65ea2e9de861b03b7fd7fe03f123b54b923d7ef40e3"
+        },
+        {
+          "name": "390-reduced",
+          "path": "docs/evidence/quality-calibration/007-390-reduced.png",
+          "sha256": "c6db926b2473eb3a956b64df46a9b29fdcf5c2176a07be377f7dee4a392362bb"
+        }
+      ],
+      "viewports": [
+        {
+          "width": 1440,
+          "height": 900,
+          "scrollRange": 1108,
+          "finePointer": true
+        },
+        {
+          "width": 390,
+          "height": 844,
+          "scrollRange": 962,
+          "finePointer": false
+        }
+      ],
+      "motion": [
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.16,
+          "y": 177,
+          "progress": 0.15974729241877256,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, -6.39622)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 366,
+          "progress": 0.3303249097472924,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, 0.909467)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 554,
+          "progress": 0.5,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, 7.67947)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 742,
+          "progress": 0.6696750902527075,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, 14.5599)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.84,
+          "y": 931,
+          "progress": 0.8402527075812274,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, 16.8907)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 1108,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, 17.04)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 554,
+          "progress": 0.5,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, 11.2002)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, -5.96727)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.2,
+          "y": 158,
+          "progress": 0.14259927797833935,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, -5.40196)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.8,
+          "y": 158,
+          "progress": 0.14259927797833935,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, -5.40196)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 1440,
+          "input": "leave-stop",
+          "y": 158,
+          "progress": 0.14259927797833935,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, -5.40196)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 317,
+          "progress": 0.3295218295218295,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, -5.16339)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 645,
+          "progress": 0.6704781704781705,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, 6.07109)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 962,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, 15.0283)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.065, 0, 0, 1.065, 0, -7.75124)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to experience\nCAMPOVIVO\n\nFROM FIELD TO TABLE\n\nA day outdoors.\nA table together.\n\nMake something. Share something.\nTake your time.\n\nA taste of the day\n↘\nSOMEWHERE SLOWER.\n\nHANDS ON. PHONES DOWN.\n\nA little flour. A lot of feeling.\n←\n→\n01 / Make\nA little patience.\n02 / Shape\nTrust your hands.\n03 /"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "title": "Sill",
+      "sourceSha256": "31892bf10228f07d305ed4bee795c10bed76c5514a06429ab545d10eaeddcd99",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/008-1440-opening.png",
+          "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+        },
+        {
+          "name": "1440-scroll-0.16-1",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0.16-1.png",
+          "sha256": "fe8aeee474c125ff4803387be57cfcc0d97de139ce10637185050526374dd35b"
+        },
+        {
+          "name": "1440-scroll-0.33-2",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0.33-2.png",
+          "sha256": "d4a02779c6e0ee736c9c4037f6d233b7559c22883d9a60435789f9ae7c21b1bc"
+        },
+        {
+          "name": "1440-scroll-0.5-3",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0.5-3.png",
+          "sha256": "6f289796234c1b4f0a41c683897a81f23c0d5e70c16ad3cf93994fe1b58c2e20"
+        },
+        {
+          "name": "1440-scroll-0.67-4",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0.67-4.png",
+          "sha256": "188388fd16f16329992daadf6fdc4144a679e20d489f0f8f0c3c31a96f8b47a8"
+        },
+        {
+          "name": "1440-scroll-0.84-5",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0.84-5.png",
+          "sha256": "16b68eeafeac359c20021c645ffcf795f406b91c96ace019cac17ba48ce2985c"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-1-6.png",
+          "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+        },
+        {
+          "name": "1440-scroll-0.5-7",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0.5-7.png",
+          "sha256": "f94934995b57aeb73a755a0826c78cff7ab2425406f0a00f84fda105d67cda70"
+        },
+        {
+          "name": "1440-scroll-0-8",
+          "path": "docs/evidence/quality-calibration/008-1440-scroll-0-8.png",
+          "sha256": "87ba07d594e2d9b56df1cf49f4ed01528a11e7b2ab74b50a3c1d103597de7821"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/008-1440-pointer-0.2.png",
+          "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/008-1440-pointer-0.8.png",
+          "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+        },
+        {
+          "name": "1440-pointer-leave",
+          "path": "docs/evidence/quality-calibration/008-1440-pointer-leave.png",
+          "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+        },
+        {
+          "name": "1440-reduced",
+          "path": "docs/evidence/quality-calibration/008-1440-reduced.png",
+          "sha256": "1d392862d330f813021abe80562879ad383780211e5b79f81b516029b2b7c25c"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/008-390-opening.png",
+          "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+        },
+        {
+          "name": "390-scroll-0.33-12",
+          "path": "docs/evidence/quality-calibration/008-390-scroll-0.33-12.png",
+          "sha256": "725d0ce2e02aad7abf3c22717d8a117fa24a847fa4225e15b68f054a1591127e"
+        },
+        {
+          "name": "390-scroll-0.67-13",
+          "path": "docs/evidence/quality-calibration/008-390-scroll-0.67-13.png",
+          "sha256": "76ade37796cb70b5519c410b1b046729f5a7d33a5423e87ca16808ad0e777234"
+        },
+        {
+          "name": "390-scroll-1-14",
+          "path": "docs/evidence/quality-calibration/008-390-scroll-1-14.png",
+          "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+        },
+        {
+          "name": "390-scroll-0-15",
+          "path": "docs/evidence/quality-calibration/008-390-scroll-0-15.png",
+          "sha256": "dec046cc7f0d7cd2d9dc20e2c2e3aba6518340c77b742bdb659e25a9148d66e9"
+        },
+        {
+          "name": "390-reduced",
+          "path": "docs/evidence/quality-calibration/008-390-reduced.png",
+          "sha256": "23bf9396b7ae506cdadc3f311fd1768594a96f6979008ccf203b1daa092b1809"
+        }
+      ],
+      "viewports": [
+        {
+          "width": 1440,
+          "height": 900,
+          "scrollRange": 1398,
+          "finePointer": true
+        },
+        {
+          "width": 390,
+          "height": 844,
+          "scrollRange": 2361,
+          "finePointer": false
+        }
+      ],
+      "motion": [
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.16,
+          "y": 224,
+          "progress": 0.16022889842632332,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.05198, 0, 0, 1.05198, 0, 3.26276)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 6.15)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 8.2)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 10.25)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 461,
+          "progress": 0.32975679542203146,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.06542, 0, 0, 1.06542, 0, 9.66972)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 5.11709)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 6.82278)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 8.52851)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 699,
+          "progress": 0.5,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.07689, 0, 0, 1.07689, 0, 15.2619)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 3.29095)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 4.38794)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 5.48502)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 937,
+          "progress": 0.6702432045779685,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.08741, 0, 0, 1.08741, 0, 20.4957)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 1.32338)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 1.76451)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 2.20581)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.84,
+          "y": 1174,
+          "progress": 0.8397711015736766,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.09, 0, 0, 1.09, 0, 21.8)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, -0.63861)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, -0.85148)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, -1.06411)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 1398,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.09, 0, 0, 1.09, 0, 21.8)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, -2.51039)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, -3.34718)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, -4.18367)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 699,
+          "progress": 0.5,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.08236, 0, 0, 1.08236, 0, 17.9704)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 1.96665)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 2.6222)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 3.2779)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.05402, 0, 0, 1.05402, 0, 4.22446)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 5.5751)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 7.43347)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 9.29186)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.2,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 6.15)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 8.2)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 10.25)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.8,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 6.15)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 8.2)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 10.25)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 1440,
+          "input": "leave-stop",
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 6.15)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 8.2)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 10.25)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 779,
+          "progress": 0.3299449385853452,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.07505, 0, 0, 1.07505, 0, 14.357)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 2.43028)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 8.2)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 10.25)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 1582,
+          "progress": 0.6700550614146548,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.08911, 0, 0, 1.08911, 0, 21.3497)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, -4.66775)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0.598319)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 7.62509)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 2361,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.09, 0, 0, 1.09, 0, 21.8)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, -6.08911)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, -6.89805)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, -3.20367)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.05658, 0, 0, 1.05658, 0, 5.43873)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 3.95372)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 5.31053)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 7.5154)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nProjects\nProfile\nContact\nSill.\nArchitecture, lived in.\n↓\n\nTHE WAY WE BUILD\n\nSpaces with a\nsense of belonging.\n\nHonest materials.\nThoughtful craftsmanship.\n\nSelected studies\n↘\n↗\nGarden House\n+\n01 / Outside & in\n↗\nThe Everyday Route\n+\n02 / Stone & shadow\n↗\nQuiet Detail\n+\n03 / Surface &"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "title": "Near & Far",
+      "sourceSha256": "057d1fff49885ed00ccd2bae36abcd33ae87fffc4bd7fdbc13b9b31f0444c147",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/009-1440-opening.png",
+          "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+        },
+        {
+          "name": "1440-scroll-0.16-1",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0.16-1.png",
+          "sha256": "79225b087a2179d007d2bb13d0293391e1426073913a399df1a0d8b7c642ad58"
+        },
+        {
+          "name": "1440-scroll-0.33-2",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0.33-2.png",
+          "sha256": "65ea20e1adb3c34d93c2a8cf72814ec647630c871df97967f12f5c3b262912b4"
+        },
+        {
+          "name": "1440-scroll-0.5-3",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0.5-3.png",
+          "sha256": "2cecfa82a5723f3357fe5517a1c087d409ae32b3423d7c553f64a2a4d2fff7ba"
+        },
+        {
+          "name": "1440-scroll-0.67-4",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0.67-4.png",
+          "sha256": "19075e5c05b5eb3f56d253a17770bf56fb875afd6d4f5f00cea17fe0d028192c"
+        },
+        {
+          "name": "1440-scroll-0.84-5",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0.84-5.png",
+          "sha256": "ac46800aa31b04cceec69141ff2a570069c75ddc44a04bf0698f85c2194a06bb"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-1-6.png",
+          "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+        },
+        {
+          "name": "1440-scroll-0.5-7",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0.5-7.png",
+          "sha256": "cd0ad0aba5cd99d5ec034ec23b8d18e74504be28e13b6bc52bb325c0b60cc862"
+        },
+        {
+          "name": "1440-scroll-0-8",
+          "path": "docs/evidence/quality-calibration/009-1440-scroll-0-8.png",
+          "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/009-1440-pointer-0.2.png",
+          "sha256": "04696eb2644fa4fe12c74d732876aa11636331d4bc2cfc2eb34ef681542bda8f"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/009-1440-pointer-0.8.png",
+          "sha256": "ad8873e3a95d924baa8c981ebf77223eec9fe9d959604e7cc55acb4154f48585"
+        },
+        {
+          "name": "1440-pointer-leave",
+          "path": "docs/evidence/quality-calibration/009-1440-pointer-leave.png",
+          "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+        },
+        {
+          "name": "1440-reduced",
+          "path": "docs/evidence/quality-calibration/009-1440-reduced.png",
+          "sha256": "7e48aa0661078ec71b2a1814f566e5cd21f5eb7cf216c925ba6503429551f5ce"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/009-390-opening.png",
+          "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+        },
+        {
+          "name": "390-scroll-0.33-12",
+          "path": "docs/evidence/quality-calibration/009-390-scroll-0.33-12.png",
+          "sha256": "107d89b7bf04722fbe9f90e7c797b05a31189dbedaa3ace351325c3974ffa5d5"
+        },
+        {
+          "name": "390-scroll-0.67-13",
+          "path": "docs/evidence/quality-calibration/009-390-scroll-0.67-13.png",
+          "sha256": "2e32bfffef0cd0be6322ace9c614740bf8caf38addbfa93d072cff3f00929edb"
+        },
+        {
+          "name": "390-scroll-1-14",
+          "path": "docs/evidence/quality-calibration/009-390-scroll-1-14.png",
+          "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+        },
+        {
+          "name": "390-scroll-0-15",
+          "path": "docs/evidence/quality-calibration/009-390-scroll-0-15.png",
+          "sha256": "ef7f482341f97ed6980cbab2b80ea4479effbc9901b56cee87c99821ea7a7064"
+        },
+        {
+          "name": "390-reduced",
+          "path": "docs/evidence/quality-calibration/009-390-reduced.png",
+          "sha256": "478f34176690de0b38dbfb761da280291e20084bca9dee0fcdb1c6ecd59de41a"
+        }
+      ],
+      "viewports": [
+        {
+          "width": 1440,
+          "height": 900,
+          "scrollRange": 1394,
+          "finePointer": true
+        },
+        {
+          "width": 390,
+          "height": 844,
+          "scrollRange": 1484,
+          "finePointer": false
+        }
+      ],
+      "motion": [
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.16,
+          "y": 223,
+          "progress": 0.1599713055954089,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 460,
+          "progress": 0.3299856527977044,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 697,
+          "progress": 0.5,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 934,
+          "progress": 0.6700143472022956,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.84,
+          "y": 1171,
+          "progress": 0.8400286944045912,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 1394,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 697,
+          "progress": 0.5,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.2,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.04969, 0, 0, 1.04969, -2.96299, 0.395066)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.8,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.05, 0, 0, 1.05, 2.92597, 0.4)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 1440,
+          "input": "leave-stop",
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.02518, 0, 0, 1.02518, 0.0211483, 0.00281978)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 490,
+          "progress": 0.330188679245283,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 994,
+          "progress": 0.6698113207547169,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 1484,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "",
+              "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to photographs\nNear & Far — Photography studio\nN\nF\nView ↗\nNear & Far\nField note 01 / Coast\nSeries\n·\nStudio\n·\nContact\n\nLooking closer.\nGoing further.\n\nSelected observations\n02 — 03\nView ↗\nPassing shadows\n02 / Street\nView ↗\nLines of silence\n03 / Landscape\nNear & Far / Studio\nA way of looking.\nNew"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "title": "Pace",
+      "sourceSha256": "4fcd045081962375d946130e871d1fd95df9e1d91a301aa3471016962436abd4",
+      "evidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/010-1440-opening.png",
+          "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+        },
+        {
+          "name": "1440-scroll-0.16-1",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0.16-1.png",
+          "sha256": "096b1dba498c71a836865f71b728f2edfb30320c3378dce425a8001336c42aa1"
+        },
+        {
+          "name": "1440-scroll-0.33-2",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0.33-2.png",
+          "sha256": "210ac197491a8007290484e882eda44992fb103b7536c999c694eea24d290ed3"
+        },
+        {
+          "name": "1440-scroll-0.5-3",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0.5-3.png",
+          "sha256": "212b9f29139e99ce7c10f7a9ebb194982adabe950e092dc887215c2edf9c467d"
+        },
+        {
+          "name": "1440-scroll-0.67-4",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0.67-4.png",
+          "sha256": "9ad4751532f39dcdd6bc0f16ad2f818c64a88460d83917729664a7e1d798ddae"
+        },
+        {
+          "name": "1440-scroll-0.84-5",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0.84-5.png",
+          "sha256": "ef03bbe5975669a62cead17a0328b2d4cfc010674153a8e58b87ed7015a46c53"
+        },
+        {
+          "name": "1440-scroll-1-6",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-1-6.png",
+          "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+        },
+        {
+          "name": "1440-scroll-0.5-7",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0.5-7.png",
+          "sha256": "0529784ea0476120db048d449786e7506a3151f48586fc9173c3796b474d0e90"
+        },
+        {
+          "name": "1440-scroll-0-8",
+          "path": "docs/evidence/quality-calibration/010-1440-scroll-0-8.png",
+          "sha256": "e172aa1cce6d6d717ced343de29e0b17f57a5ee72781e5d3bf23643c341c8606"
+        },
+        {
+          "name": "1440-pointer-0.2",
+          "path": "docs/evidence/quality-calibration/010-1440-pointer-0.2.png",
+          "sha256": "10727b4c6481145705225b661f33ddd264b4c9c05598c8ec743057f55d2dc87a"
+        },
+        {
+          "name": "1440-pointer-0.8",
+          "path": "docs/evidence/quality-calibration/010-1440-pointer-0.8.png",
+          "sha256": "71c18fa9d67fda5e6396b139d1636f0312fe9e1c63a37137d87eba3bbe9d2544"
+        },
+        {
+          "name": "1440-pointer-leave",
+          "path": "docs/evidence/quality-calibration/010-1440-pointer-leave.png",
+          "sha256": "7c76823aff3c15b1a74fc9c1734de824f71c64e00421dec55812756fdb232e44"
+        },
+        {
+          "name": "1440-reduced",
+          "path": "docs/evidence/quality-calibration/010-1440-reduced.png",
+          "sha256": "2d86f1d8a07a75dbdda10cbcf42405c8e5ba0af15c951388f45ae5d3994720e6"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/010-390-opening.png",
+          "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+        },
+        {
+          "name": "390-scroll-0.33-12",
+          "path": "docs/evidence/quality-calibration/010-390-scroll-0.33-12.png",
+          "sha256": "23fe83b3fa2ad42d36f02147b08f02ed403f68b675f19f980d8aed983549ec9a"
+        },
+        {
+          "name": "390-scroll-0.67-13",
+          "path": "docs/evidence/quality-calibration/010-390-scroll-0.67-13.png",
+          "sha256": "44ee25ef006f9d461bdfcf0f19fad7222a18ddb3170850f31d18d80eff5f9150"
+        },
+        {
+          "name": "390-scroll-1-14",
+          "path": "docs/evidence/quality-calibration/010-390-scroll-1-14.png",
+          "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+        },
+        {
+          "name": "390-scroll-0-15",
+          "path": "docs/evidence/quality-calibration/010-390-scroll-0-15.png",
+          "sha256": "724e98e9ed932a6aad72d5918f2b43a90d44b8a274d8657c526e121358a548c0"
+        },
+        {
+          "name": "390-reduced",
+          "path": "docs/evidence/quality-calibration/010-390-reduced.png",
+          "sha256": "29a8850cbbd4f34d7b993fee3cebe281140cb6db31c1eb18ab302517b31a0dcd"
+        }
+      ],
+      "viewports": [
+        {
+          "width": 1440,
+          "height": 900,
+          "scrollRange": 1319,
+          "finePointer": true
+        },
+        {
+          "width": 390,
+          "height": 844,
+          "scrollRange": 1885,
+          "finePointer": false
+        }
+      ],
+      "motion": [
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.16,
+          "y": 211,
+          "progress": 0.1599696739954511,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 4.60092)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 25)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nTHE WEEK\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRead"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 435,
+          "progress": 0.3297952994692949,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 10.1562)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 16.7237)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nTHE WEEK\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRead"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 660,
+          "progress": 0.5003790750568613,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 11.8782)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 5.9805)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nREFLECTION\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRe"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 884,
+          "progress": 0.6702047005307051,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 12)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 0.669017)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nREFLECTION\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRe"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.84,
+          "y": 1108,
+          "progress": 0.8400303260045489,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 12)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nREFLECTION\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRe"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 1319,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 12)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nREFLECTION\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRe"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0.5,
+          "y": 660,
+          "progress": 0.5003790750568613,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 12)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 2.76192)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nREFLECTION\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRe"
+        },
+        {
+          "width": 1440,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 1.01521)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 21.0559)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nTHE WEEK\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRead"
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.2,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix3d(0.999659, 9.10523e-05, 0.0261306, 0, 0, 0.999994, -0.00348449, 0, -0.0261308, 0.0034833, 0.999652, 0, 0, -0.207227, 0, 1)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 25)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nTHE WEEK\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRead"
+        },
+        {
+          "width": 1440,
+          "input": "pointer",
+          "fraction": 0.8,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix3d(0.99966, -9.10507e-05, -0.026084, 0, 0, 0.999994, -0.00349065, 0, 0.0260842, 0.00348946, 0.999654, 0, 0, -0.207227, 0, 1)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 25)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nTHE WEEK\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRead"
+        },
+        {
+          "width": 1440,
+          "input": "leave-stop",
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix3d(1, -1.16977e-16, -2.96197e-08, 0, 0, 1, -3.94929e-09, 0, 2.96197e-08, 3.94929e-09, 1, 0, 0, -0.207227, 0, 1)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 25)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nTHE WEEK\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRead"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.33,
+          "y": 622,
+          "progress": 0.329973474801061,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 3.94163)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 25)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRead a little"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0.67,
+          "y": 1263,
+          "progress": 0.670026525198939,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 11.3776)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 12.8758)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRead a little"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 1,
+          "y": 1885,
+          "progress": 1,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, 12)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 1.81518)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRead a little"
+        },
+        {
+          "width": 390,
+          "input": "native-wheel",
+          "requested": 0,
+          "y": 0,
+          "progress": 0,
+          "paint": [
+            {
+              "selector": "chapter",
+              "transform": "none",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "phone",
+              "transform": "matrix(1, 0, 0, 1, 0, -8.10026)",
+              "opacity": "1",
+              "clip": "none"
+            },
+            {
+              "selector": "note",
+              "transform": "matrix(1, 0, 0, 1, 0, 20.467)",
+              "opacity": "1",
+              "clip": "none"
+            }
+          ],
+          "body": "Skip to content\nPace\nReflection\nTry it ↗\n\nA QUIETER HABIT TRACKER\n\nA little.\nOften.\nAt your pace.\n\nSmall things add up.\nMake room for the ones that matter.\n\nMeet your week\n↗\n\nNO STREAKS. NO CATCHING UP.\n\n9:41\n▂▄▆ ▰\nYOUR SPACE\nWeek\nToday\nThis week\nWEEK 42\n\n12 — 18 October\n\nM\nT\nW\nT\nF\nS\nS\nRead a little"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "phase": "010/390-reduced",
+  "result": "captured-not-scored",
+  "finished": "2026-10-12T13:06:15.434Z"
+}

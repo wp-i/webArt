@@ -1,0 +1,197 @@
+{
+  "checkedAt": "2026-11-01T06:45:27.844402+00:00",
+  "results": [
+    {
+      "uid": "e581c2f769f64515b54ab1d5bc348bd4",
+      "name": "Igloo",
+      "author": {
+        "uid": "ef7421238fa742bfa8047ec51da21379",
+        "username": "marsmicro775071",
+        "displayName": "marsmicro",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/marsmicro775071",
+        "avatar": {
+          "uid": "350e52bf45634090b4e85bf8577c83dd",
+          "uri": "https://api.sketchfab.com/v3/avatars/350e52bf45634090b4e85bf8577c83dd",
+          "images": [
+            {
+              "width": 32,
+              "height": 32,
+              "size": 1944,
+              "url": "https://media.sketchfab.com/avatars/350e52bf45634090b4e85bf8577c83dd/fa09fe59d7984e0a87df68ba0851059b.png"
+            },
+            {
+              "width": 48,
+              "height": 48,
+              "size": 3871,
+              "url": "https://media.sketchfab.com/avatars/350e52bf45634090b4e85bf8577c83dd/04607027dc1b423a8c2c224373923091.png"
+            },
+            {
+              "width": 90,
+              "height": 90,
+              "size": 11031,
+              "url": "https://media.sketchfab.com/avatars/350e52bf45634090b4e85bf8577c83dd/fe1900f6aaa14ad6a3bfbd4bfe8829c5.png"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "size": 13426,
+              "url": "https://media.sketchfab.com/avatars/350e52bf45634090b4e85bf8577c83dd/2182bbf545f444ce92650b179a06d01b.png"
+            }
+          ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/ef7421238fa742bfa8047ec51da21379"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "Igloo. Low poly model.\n\nBasic shaders. No texture maps.",
+      "faceCount": 4218,
+      "vertexCount": 2808,
+      "isDownloadable": true,
+      "sourceUrl": "https://sketchfab.com/3d-models/igloo-e581c2f769f64515b54ab1d5bc348bd4",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/e581c2f769f64515b54ab1d5bc348bd4",
+      "previewUrl": "https://media.sketchfab.com/models/e581c2f769f64515b54ab1d5bc348bd4/thumbnails/3f744b5476f74b91abacc5be64e94721/8412c5d18f8648a2af7d1d89d5465ec1.jpeg",
+      "previewSize": [
+        1024,
+        576
+      ],
+      "previewPath": "docs/evidence/redo-v2/2026-11-01/008-mature-asset-paths-01/e581c2f769f64515b54ab1d5bc348bd4-preview.jpg",
+      "previewSha256": "e850b147d59b1479490ce5763b2ced3af7b211b9e7ddebadbcaf9930f82d36db",
+      "metadataSha256": "9a7f9bea27a949b59dd95a5a5e5c4e1ba8c555b914a5a6e969e22eb1c76d1984"
+    },
+    {
+      "uid": "af5de962f7e3454881ed0fff651a67c0",
+      "name": "pavilion",
+      "author": {
+        "uid": "6c40abd4353b43b2bb9bb9e36d0c7eed",
+        "username": "DENNISS75",
+        "displayName": "DENNISS75",
+        "account": "pro",
+        "profileUrl": "https://sketchfab.com/DENNISS75",
+        "avatar": {
+          "uid": "1b5590b0e6dd481281beed549de37622",
+          "uri": "https://api.sketchfab.com/v3/avatars/1b5590b0e6dd481281beed549de37622",
+          "images": [
+            {
+              "width": 32,
+              "height": 32,
+              "size": 1297,
+              "url": "https://media.sketchfab.com/avatars/1b5590b0e6dd481281beed549de37622/b6f5ffa0138a41a09e1195fc8e1599ba.jpeg"
+            },
+            {
+              "width": 48,
+              "height": 48,
+              "size": 2103,
+              "url": "https://media.sketchfab.com/avatars/1b5590b0e6dd481281beed549de37622/658cc652b028411398a6a76349bd9b4e.jpeg"
+            },
+            {
+              "width": 90,
+              "height": 90,
+              "size": 5203,
+              "url": "https://media.sketchfab.com/avatars/1b5590b0e6dd481281beed549de37622/7d0edaccfbac4978a9a56f4cdb5b1422.jpeg"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "size": 6190,
+              "url": "https://media.sketchfab.com/avatars/1b5590b0e6dd481281beed549de37622/03575021abfd453dad31ea5842fc860f.jpeg"
+            }
+          ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/6c40abd4353b43b2bb9bb9e36d0c7eed"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "",
+      "faceCount": 126912,
+      "vertexCount": 67682,
+      "isDownloadable": true,
+      "sourceUrl": "https://sketchfab.com/3d-models/pavilion-af5de962f7e3454881ed0fff651a67c0",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/af5de962f7e3454881ed0fff651a67c0",
+      "previewUrl": "https://media.sketchfab.com/models/af5de962f7e3454881ed0fff651a67c0/thumbnails/6063cf8dbe7346129b051d8ae556ea0c/4de63e0536dc40bc8ebf7afebd35a27e.jpeg",
+      "previewSize": [
+        1024,
+        576
+      ],
+      "previewPath": "docs/evidence/redo-v2/2026-11-01/008-mature-asset-paths-01/af5de962f7e3454881ed0fff651a67c0-preview.jpg",
+      "previewSha256": "a0fd1a93c5846050b5991be484b1b801f1261f0f5e9a5927730f3951779b7a62",
+      "metadataSha256": "4e7634e9666020a1ebec67ce413411b5bab9b9f866a9263c31ea979b5697652b"
+    },
+    {
+      "uid": "8ce32155bef54f559eb023e085b21d33",
+      "name": "Pavilion 2",
+      "author": {
+        "uid": "4a6e3ff56d41442a9d093a5ecdf89e4f",
+        "username": "rmichels",
+        "displayName": "rmichels",
+        "account": "basic",
+        "profileUrl": "https://sketchfab.com/rmichels",
+        "avatar": {
+          "uid": "0a7b757cb38244cfb488bc6699107adb",
+          "uri": "https://api.sketchfab.com/v3/avatars/0a7b757cb38244cfb488bc6699107adb",
+          "images": [
+            {
+              "width": 32,
+              "height": 32,
+              "size": 774,
+              "url": "https://media.sketchfab.com/avatars/0a7b757cb38244cfb488bc6699107adb/53c876c559334014ac48a8592f48f00b.jpeg"
+            },
+            {
+              "width": 48,
+              "height": 48,
+              "size": 1278,
+              "url": "https://media.sketchfab.com/avatars/0a7b757cb38244cfb488bc6699107adb/8101267e6f4f421081be0860ee788c31.jpeg"
+            },
+            {
+              "width": 90,
+              "height": 90,
+              "size": 3552,
+              "url": "https://media.sketchfab.com/avatars/0a7b757cb38244cfb488bc6699107adb/3bc5c686e72647b4a441fa69e39ecd64.jpeg"
+            },
+            {
+              "width": 100,
+              "height": 100,
+              "size": 4162,
+              "url": "https://media.sketchfab.com/avatars/0a7b757cb38244cfb488bc6699107adb/9faa9d418e284627a491e273eb4c62e4.jpeg"
+            }
+          ]
+        },
+        "uri": "https://api.sketchfab.com/v3/users/4a6e3ff56d41442a9d093a5ecdf89e4f"
+      },
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      },
+      "description": "This pavilion is intended for the use as a stage for events. It features two interlocking spaces which can be used for different purposes within the same event. A theme for the design is an abstract representation of human shape. The pavilion was designed with a constraint of using beam + infills architecture design rules as building blocks for the design. The result is an exploration of modular design.",
+      "faceCount": 41558,
+      "vertexCount": 15610,
+      "isDownloadable": true,
+      "sourceUrl": "https://sketchfab.com/3d-models/pavilion-2-8ce32155bef54f559eb023e085b21d33",
+      "metadataUrl": "https://api.sketchfab.com/v3/models/8ce32155bef54f559eb023e085b21d33",
+      "previewUrl": "https://media.sketchfab.com/models/8ce32155bef54f559eb023e085b21d33/thumbnails/10f8db5cec9b462db759181fb5d7bfc7/dbb5e5df9d294431adfbc39005e3fefa.jpeg",
+      "previewSize": [
+        1024,
+        576
+      ],
+      "previewPath": "docs/evidence/redo-v2/2026-11-01/008-mature-asset-paths-01/8ce32155bef54f559eb023e085b21d33-preview.jpg",
+      "previewSha256": "622da05f8315e3935d6dfb06b0d473f1cf7560cdfa4456a0abf995aded08a47e",
+      "metadataSha256": "6299f2d6e1e2bb36e0b830b5cc500295cf2400e3008decd37bbac064aa2b3715"
+    }
+  ]
+}

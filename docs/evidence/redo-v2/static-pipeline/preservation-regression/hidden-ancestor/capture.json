@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-15T16:24:37.235Z",
+  "url": "http://127.0.0.1:4371/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/hidden-ancestor/desktop-opening/contact-sheet.jpg",
+          "sha256": "b75185e8599cd1a873faf54501e7eff41471e2ddfdf0a645f15c96b269e75db6"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 7,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"opening\"]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.56
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 900,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/hidden-ancestor/desktop-transition/contact-sheet.jpg",
+          "sha256": "cd83a5748d91bb157cdd19db41c4176b28f735c540bfb523e3802f7fb4e0780e"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 0,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"transition\"]",
+            "visibleInstances": 0,
+            "largestViewportArea": 0
+          }
+        ]
+      },
+      "visualFailures": [
+        "核心主体缺失、缩成装饰或被重复：[data-subject=\"transition\"]"
+      ]
+    }
+  ],
+  "motion": [],
+  "errors": [],
+  "result": "failed",
+  "visualContractSha256": "838da622781a3864566812f4466102bd01714fe42eef2368306976e2c94f3f62",
+  "failure": "desktop/transition: 核心主体缺失、缩成装饰或被重复：[data-subject=\"transition\"]",
+  "finished": "2026-10-15T16:24:38.632Z"
+}

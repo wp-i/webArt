@@ -1,0 +1,2408 @@
+{
+  "purpose": "Official AYOCIN lighting-object actual normal path; no quality admission",
+  "url": "https://ayocin.com/",
+  "status": "incomplete-native-path",
+  "viewports": [
+    {
+      "name": "desktop",
+      "frames": [
+        {
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-opening.jpg",
+          "sha256": "e0bfdc754372143c2920f76eb991c53c80e87ab518a6d2ac79f8fb2496ef96e4"
+        },
+        {
+          "state": "forward-1",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-1.jpg",
+          "sha256": "d05118b242fd3da4f4b15b7803682acd91255f94d11e54a351d118d3e3c989c4"
+        },
+        {
+          "state": "forward-2",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-2.jpg",
+          "sha256": "a7635502a77b2a3b2d217e91975b0fa4ecc0fb3e387cebe50abe8ab4894dbe98"
+        },
+        {
+          "state": "forward-3",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-3.jpg",
+          "sha256": "a2ae70aaea5680b24d73a7f5c06c15a6a2b50278651011f6dc6a85b79243cc74"
+        },
+        {
+          "state": "forward-4",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-4.jpg",
+          "sha256": "5cfab5dec880446a8b32b2cf092baccde6eaa2c5b325c626ebeaabadf48272a0"
+        },
+        {
+          "state": "forward-5",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-5.jpg",
+          "sha256": "9a58dddb734d428557c2434ce041aec4ab55cfa06ac189fe979ed15b69cbff82"
+        },
+        {
+          "state": "forward-6",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-6.jpg",
+          "sha256": "8d5665f77037b1c3088ccb1b16106ba97e99e3de188449567c7ad9539dec3a1d"
+        },
+        {
+          "state": "forward-7",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-7.jpg",
+          "sha256": "a08f72cc179dfeb63150cd2d9312a35a43a3c1e886a6f34eb00118f62b0e7e22"
+        },
+        {
+          "state": "forward-8",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-8.jpg",
+          "sha256": "7f097edeea0b2e62db60bf22d9b00dcf411713055dd23fe453d9e67e31688287"
+        },
+        {
+          "state": "forward-9",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-9.jpg",
+          "sha256": "43238c3e1b13f1ef7b946c27e63d73c363123a8c584bfb9a9ee65d7e640be96c"
+        },
+        {
+          "state": "forward-10",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-10.jpg",
+          "sha256": "1441833358cee531aefc58ba6bd32d4b022579892230833000ba9748dcec91e8"
+        },
+        {
+          "state": "forward-11",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-11.jpg",
+          "sha256": "7b6896d2b727c78f7c081aa17e5dd9aa43dce9c7a0b549b67fbab5f29b63186d"
+        },
+        {
+          "state": "forward-12",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-12.jpg",
+          "sha256": "20465cc164d0fdacd77a358a1422105e91071d40eef334b71f6d4d8c7e34e498"
+        },
+        {
+          "state": "forward-13",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-13.jpg",
+          "sha256": "644df7a4128bf8cddaf1ab4cb52bc41ba781fc597950492f8c182ce8325530fb"
+        },
+        {
+          "state": "forward-14",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-14.jpg",
+          "sha256": "57b17f9ca159888cca8129d7fb9b9e0fa24a46fdd62e79b3fa6244fa310cbb19"
+        },
+        {
+          "state": "forward-15",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-15.jpg",
+          "sha256": "583e5583cf9fbd2741bfda7fe03628bdb1e959b8aa45197ed3fcdb3f566741db"
+        },
+        {
+          "state": "forward-16",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-16.jpg",
+          "sha256": "48a91841beb3a2dc2653611034345c3ced836a0e16cf8179aabd0862f07fc837"
+        },
+        {
+          "state": "forward-17",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-17.jpg",
+          "sha256": "5c6004a22ba8b728abd5f18a1afe518ff57ab4aa65e208153dc253baa78d6356"
+        },
+        {
+          "state": "forward-18",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-18.jpg",
+          "sha256": "1a1b381353630bc54e1a55e7259ca7e9778fd8c41e39f9a3d1c277c486a09bff"
+        },
+        {
+          "state": "forward-19",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-19.jpg",
+          "sha256": "aa2161064f2b854382108bf839ab15ee19c0eff952608a8376d1e3da41bc93eb"
+        },
+        {
+          "state": "forward-20",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-20.jpg",
+          "sha256": "7e26ac64071fc3feba5bbf96baeef3b85193f7804e1d80b7c3dc6b09e497c5dc"
+        },
+        {
+          "state": "forward-21",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-21.jpg",
+          "sha256": "09d09d546428e1baa6ea85b32050bee2c3b142b6ba310b6b4c699cd71ad10cfa"
+        },
+        {
+          "state": "forward-22",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-22.jpg",
+          "sha256": "7c76eb63bd52a1b67e49b72fa8a5885d2bbfb4aa6005e6ab5bb4bc6d8c5914d5"
+        },
+        {
+          "state": "forward-23",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-23.jpg",
+          "sha256": "107e36cf941af68cdbfb4249cb05008901b50e6d4848e0612a0e849492621ec3"
+        },
+        {
+          "state": "forward-24",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-24.jpg",
+          "sha256": "6b70357d4482c9f5b621795fa33413633798d7019080be20ea9fb1158f5ef3d4"
+        },
+        {
+          "state": "forward-25",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-25.jpg",
+          "sha256": "dd2a58f9918fc781f7b66c2cfc281c374b1b5bcdd93d24f81790fbb1aabf27eb"
+        },
+        {
+          "state": "forward-26",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-26.jpg",
+          "sha256": "cac0954a61e4080d8e071d5bf4541704abc33e45e7f4e05068dab794cd3c1d36"
+        },
+        {
+          "state": "forward-27",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-27.jpg",
+          "sha256": "93d7db858f245f99e6abd1541bed78a5db3be4b7c669934ea49751f2515057f5"
+        },
+        {
+          "state": "forward-28",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-28.jpg",
+          "sha256": "df06c3156d84efbe7c3cb19fe122d757d38ac8a05df82364ede237822a24d979"
+        },
+        {
+          "state": "forward-29",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-29.jpg",
+          "sha256": "6098ec5cbb0927fd604e4e30976b8465d6f9a37a8d53db5635521acf14e29b5d"
+        },
+        {
+          "state": "forward-30",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-30.jpg",
+          "sha256": "e76ce2d685dc4057cbde41bdf30baa40ce16b49ca103d606f7f6817fb3696580"
+        },
+        {
+          "state": "forward-31",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-31.jpg",
+          "sha256": "30c57473f7f44d7ec24872960d526e77155bd1065d85daef6d1a71aaa2e44ef9"
+        },
+        {
+          "state": "forward-32",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-32.jpg",
+          "sha256": "e70b3ca69a9a1d7ecab55bf0caf51daef02967e2d859ce4c60d41eec6b47a9c1"
+        },
+        {
+          "state": "forward-33",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-33.jpg",
+          "sha256": "79cfe796eaf3ad4332e71a5a7cfc49307bd3cecfb2dfeb3ae04e21eeec17e17d"
+        },
+        {
+          "state": "forward-34",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-34.jpg",
+          "sha256": "cdb1462d0bd8726c0bcedf6e514eac09f69c8bd6b4f7df690cc340f2a0188267"
+        },
+        {
+          "state": "forward-35",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-35.jpg",
+          "sha256": "c0a4821cd9075b9d5e94ed33aa300caca07ab9b0ddcb5131e8dd8ae65251ec51"
+        },
+        {
+          "state": "forward-36",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-36.jpg",
+          "sha256": "b659700fc215b2ba2b38e1c5301d53105be78c124bd3c7443ce0d024e673960e"
+        },
+        {
+          "state": "forward-37",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-37.jpg",
+          "sha256": "4062bd2aaad3e30619c7c67fdfcee4f6e52cadc76bd8962bdbfd1e6a5bd2d378"
+        },
+        {
+          "state": "forward-38",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-38.jpg",
+          "sha256": "8e932a769e4aecc40774fe9a07e4e84d293fba9a5761de523ceedef709ca6412"
+        },
+        {
+          "state": "forward-39",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-39.jpg",
+          "sha256": "6b582b3d7b9cc341ffcbe505d10f913010fc562c309c1344c18c5f2326726f3f"
+        },
+        {
+          "state": "forward-40",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-40.jpg",
+          "sha256": "171ba417fc5fcbfe26de58c3716803b5d29f109fc06738b0c78b1bc748295c1b"
+        },
+        {
+          "state": "forward-41",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-41.jpg",
+          "sha256": "a94994b4f2bce8f1ae57b7d0435e385e93fd1aa396b0ee7f8f4cd3b02061870a"
+        },
+        {
+          "state": "forward-42",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-42.jpg",
+          "sha256": "f5ebb924a9a9b480f0413cfe2aea28c9033d9bfe18f4752c81afd61b2f4c2108"
+        },
+        {
+          "state": "forward-43",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-43.jpg",
+          "sha256": "a545fc8efe3805faf37abace8a0bac2db57c07214d467de891574f387e9d1ec6"
+        },
+        {
+          "state": "forward-44",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-44.jpg",
+          "sha256": "e7f786128475ba53ff19a2cc67e409d5959416601f9f06c07957403891b04965"
+        },
+        {
+          "state": "forward-45",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-45.jpg",
+          "sha256": "dbd9139c96d02cef30867b08a22f718d885730802eae91bcf485bae637184972"
+        },
+        {
+          "state": "forward-46",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-46.jpg",
+          "sha256": "23564c7241dd86f5c75ab7d14aad3e4455045d558987a79c5fd8724cfc9a5b43"
+        },
+        {
+          "state": "forward-47",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-47.jpg",
+          "sha256": "488f14ef9935f4a3274015b846d167fb793ac1a511ec7b59541d8ae85e7f7a3a"
+        },
+        {
+          "state": "forward-48",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-48.jpg",
+          "sha256": "2373dd9947c752a09e8ebbc05c1ab53cf061fe91de57a8876a46ef6e0b2caa67"
+        },
+        {
+          "state": "forward-49",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-49.jpg",
+          "sha256": "f0f10e8fd2f6aff519b2513910bc970b273f0f7d3b4cbe7968a4a331c07784bb"
+        },
+        {
+          "state": "forward-50",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-50.jpg",
+          "sha256": "e9efc0f6a5eddc67d275320560ae2403042fae2964a81ff649300d24c74cba96"
+        },
+        {
+          "state": "forward-51",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-51.jpg",
+          "sha256": "33e06104749d924dfb3471ba3ac8a7d65e4f2b4fe368a6fa5cd1c3b38acbc226"
+        },
+        {
+          "state": "forward-52",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-52.jpg",
+          "sha256": "215b32ca291038f6586e86a43feeaa9cd3f5773be91c0a19c6c4c0167eed618d"
+        },
+        {
+          "state": "forward-53",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-53.jpg",
+          "sha256": "38e02aa9fa738a53578fc22772d213618a203c09a1e5b0abf91dea25f880965b"
+        },
+        {
+          "state": "forward-54",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-54.jpg",
+          "sha256": "9c39aa6595a6eff494d2117e0ccc8c17e87ac9865da33029ae1a0c782eb901be"
+        },
+        {
+          "state": "forward-55",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-55.jpg",
+          "sha256": "227dcade7b11a49eb4f3501c990584c055e2cd45c73d18e650aeed3b439433cc"
+        },
+        {
+          "state": "forward-56",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-56.jpg",
+          "sha256": "d3c3856e450500d0dc2676622605fa4997b45124203892ad59fa105ee4d582d1"
+        },
+        {
+          "state": "forward-57",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-57.jpg",
+          "sha256": "7add48cfa13f081e846d7252d2bb3194935abca48811ee12c1534ecabc2da759"
+        },
+        {
+          "state": "forward-58",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-58.jpg",
+          "sha256": "4621ed3903261e86afcf2fc2f5a98b6806fbfdc3096eff9f744429164e5d15bd"
+        },
+        {
+          "state": "forward-59",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-59.jpg",
+          "sha256": "7fe430c838d34d98530fd1b5488627fbbdccfd240c3d77ffc601a948afa82ba8"
+        },
+        {
+          "state": "forward-60",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-60.jpg",
+          "sha256": "a5f5defa16bca9f4aa701d5a1fed1080cd26c7992de7518fa159894d20d14783"
+        },
+        {
+          "state": "forward-61",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-61.jpg",
+          "sha256": "318d9039f205ff38f1c8b7f73f717d8c3dba89eaf5c3fd7ab756b1e55d94fd74"
+        },
+        {
+          "state": "forward-62",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-62.jpg",
+          "sha256": "7c8c8f7f99d0a6c9fee1a664c048580702d2c415c603fe23d9ab3fc4a822470b"
+        },
+        {
+          "state": "forward-63",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-63.jpg",
+          "sha256": "43aa612c53d13a364d6df498cd21247cc953e1852a2a489ce3f06944ef71feac"
+        },
+        {
+          "state": "forward-64",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-64.jpg",
+          "sha256": "04e0bc487de8038d08f8c556363ff705a514e17a17a3042d09c43dbedd68f429"
+        },
+        {
+          "state": "forward-65",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-65.jpg",
+          "sha256": "e33503490968c49df9461e1fbb7e907c6f1bf3ada5c6056aa91cf5203c2fc92c"
+        },
+        {
+          "state": "forward-66",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-66.jpg",
+          "sha256": "9bb31908e16e1f29e23989233b27897ebb2a4e9cdb69bff4e8b79a35d3be36c1"
+        },
+        {
+          "state": "forward-67",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-67.jpg",
+          "sha256": "5b00510ac59d14d6c855303d5da005432cfbf2f78636579388a1be17867d783f"
+        },
+        {
+          "state": "forward-68",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-68.jpg",
+          "sha256": "13e95acc5340f93cfa07c01c592ce60e7845b1fb1b18bfdba3a675d317b1478a"
+        },
+        {
+          "state": "forward-69",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-69.jpg",
+          "sha256": "f3ce93fc2cdc6a9bddc5bddb15643c423c767e298d0ba82a4bdb5dbcff735162"
+        },
+        {
+          "state": "forward-70",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-70.jpg",
+          "sha256": "96dd08f37684c0acfe75ee15500ca112a9ec55478f33596f1217220f30ed3842"
+        },
+        {
+          "state": "forward-71",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-71.jpg",
+          "sha256": "3993b57eee76397fcea9c681bf0758ad72481fcfd4cd3e1954c997de427a786a"
+        },
+        {
+          "state": "forward-72",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-72.jpg",
+          "sha256": "274f3d85370f03dc7bba186995cd64442f09c46404c65bfd2f75b17e6db87c35"
+        },
+        {
+          "state": "forward-73",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-73.jpg",
+          "sha256": "236ced64fcabf1f95d0f74ecadcbfe3c99ad4e14d92087432904ad50cd919218"
+        },
+        {
+          "state": "forward-74",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-74.jpg",
+          "sha256": "4c1190b65f6b47c6811d70dade23daad61673c10ca0763428de44ffaddcc454d"
+        },
+        {
+          "state": "forward-75",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-forward-75.jpg",
+          "sha256": "b0ce7ec0f6f73a6c45cf6d69ad4b5942932a3ed70bab7654dad6ff81418867a4"
+        },
+        {
+          "state": "ending-stopped",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/desktop-ending-stopped.jpg",
+          "sha256": "ef0c0ef4fc67aa36dd120f396d3e0bada514ad13dc47bec0f0b323d870b6fb37"
+        }
+      ],
+      "actions": [
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 0,
+          "max": 0,
+          "height": 900,
+          "heads": [
+            "Nature is part of who we\nare, providing the\nessentials for our health",
+            "However, we’re becoming\nmore isolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away from\nnature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+            "Join our Insider Circle"
+          ]
+        }
+      ],
+      "initial": {
+        "y": 0,
+        "max": 0,
+        "height": 900,
+        "heads": [
+          "Nature is part of who we\nare, providing the\nessentials for our health",
+          "However, we’re becoming\nmore isolated from nature\nthan ever before",
+          "We spend 90% of our\ntime indoors, away from\nnature",
+          "With the ATMOS, you\nbring the benefits of\nnature inside your home"
+        ],
+        "title": "AYOCIN - Where design meets your well-being"
+      },
+      "end": {
+        "y": 0,
+        "max": 0,
+        "height": 900,
+        "heads": [
+          "Nature is part of who we\nare, providing the\nessentials for our health",
+          "However, we’re becoming\nmore isolated from nature\nthan ever before",
+          "We spend 90% of our\ntime indoors, away from\nnature",
+          "With the ATMOS, you\nbring the benefits of\nnature inside your home",
+          "Join our Insider Circle"
+        ],
+        "text": "y ATMOS here on our site. Shipping is expected to start mid 2025, on a first ordered, first delivered basis. \n\n5.4\nCan I cancel my order?\n\nYes, you can modify or cancel your order anytime before final payment, with a full refund of your deposit.\n\nHelp Center\nOUR MISSION \nOUR MISSION \nAYOCIN\nRe-connect with nature\n\nOur connection to nature and planet earth are vital, however, with rapid advances in technology and by our modern lifestyle, people have become increasingly disconnected from nature resulting in disease and disbalance in people’s lives. \n\nAYOCIN harnesses technology and nature-infused design to counter this process and bring us back in touch with nature and its healing powers.\n\nINSIDER CIRCLE\nYou’re in!\nCheck your email.\nSign up and receive the latest news and offers.\nBecome a member\nCONTACT\nhello@ayocin.com\nINFORMATION\nFeatures\nAir Purification\nFull spectrum lighting\nRed light therapy\nCompany\nHelp Center\nSOCIAL MEDIA\nInstagram\nLinkedIn\nPinterest\nX\n© 2026. AYOCIN. ALL RIGHT RESERVED\nTERMS, PRIVACY POLICY, COOKIES POLICY\nWEBSITE BY OBYS\nJoin our Insider Circle\n\n \n\nBecome a member of our exclusive community to enjoy special benefits, including a personal welcome gift. \n\n \n\nReceive members-only privileges and priority access to our latest designs.\n\nEmail\nGet my exclusive offer\n\nBy continuing, you accept our privacy policy and agree to receive email marketing.\n\nNo, thanks"
+      },
+      "reachedEnd": false
+    },
+    {
+      "name": "mobile",
+      "frames": [
+        {
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-opening.jpg",
+          "sha256": "dd08242f4452738f92a93e788735afda712ff9bd2369503103e2b0efb56a72d5"
+        },
+        {
+          "state": "forward-1",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-1.jpg",
+          "sha256": "2678a1f9a78a24851f775c346c25f6a2dc563e1cedd79037b1c220d56fb19ece"
+        },
+        {
+          "state": "forward-2",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-2.jpg",
+          "sha256": "e8219d68f05b7a96a80dc875197d84406a0723c9b24a5f4766b38582777d6061"
+        },
+        {
+          "state": "forward-3",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-3.jpg",
+          "sha256": "0be97d99e1a8226a6042c04756fcbc90ed0e99643d272b158a61aa42b146f44a"
+        },
+        {
+          "state": "forward-4",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-4.jpg",
+          "sha256": "ea796e447c3f639173333c50117e6243346aba9dd888e79d96f2ae6d012b6d74"
+        },
+        {
+          "state": "forward-5",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-5.jpg",
+          "sha256": "044bca3da89463a5c4997c9937caf79c01039df46e0d145d6fdd6af5b34839be"
+        },
+        {
+          "state": "forward-6",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-6.jpg",
+          "sha256": "6fcaf6488ceaae032041629dad35d4594a0f1086aa4c46739e54446828d16957"
+        },
+        {
+          "state": "forward-7",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-7.jpg",
+          "sha256": "6727337ae426a7482429e12f66662d313cc9d495d51ae5f4b528ebc8bf5a252a"
+        },
+        {
+          "state": "forward-8",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-8.jpg",
+          "sha256": "d1a41568a618e59b420408028f735178b8981ca44ba0b092d6f6ae95a4f3f17b"
+        },
+        {
+          "state": "forward-9",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-9.jpg",
+          "sha256": "04b28bdfd63036a90b4ec58a38e5cd5ad058d086e391c4585d54855aadbf22b5"
+        },
+        {
+          "state": "forward-10",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-10.jpg",
+          "sha256": "f30e31cb572f826e5590be2787e1575b4c9430d3c61e37c7d323bd425704e545"
+        },
+        {
+          "state": "forward-11",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-11.jpg",
+          "sha256": "8fb91e473d0f3c5740a1e6606300a32ea2fb3fb822f1eb267b8806e35fc0ff1f"
+        },
+        {
+          "state": "forward-12",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-12.jpg",
+          "sha256": "bcbc91c38da277099cb2abd25db2adfaf3687d88478f2fd3cde775a2ca90776a"
+        },
+        {
+          "state": "forward-13",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-13.jpg",
+          "sha256": "fcf20327946156d71332fef57ec9defb39f6e329ca4bf41e7cb5a06cee47fc53"
+        },
+        {
+          "state": "forward-14",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-14.jpg",
+          "sha256": "04ed67e0e5cbdec26fb67dff9dc32cccbfd32623c5cdbfd971f22d33579818a9"
+        },
+        {
+          "state": "forward-15",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-15.jpg",
+          "sha256": "c03671e9776ccdaf2fa0c7bda5b051d93a01d88bf75fa55817a20304e9fb2183"
+        },
+        {
+          "state": "forward-16",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-16.jpg",
+          "sha256": "78d599aa547b8d348b838006185438bc152d49b6f5622f0e3fa71824715ef43a"
+        },
+        {
+          "state": "forward-17",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-17.jpg",
+          "sha256": "2a75b7532e1446014af3094fd238f6391bdfcde958897b2efef0cf85cdb56d88"
+        },
+        {
+          "state": "forward-18",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-18.jpg",
+          "sha256": "d85ac9e009f36dde83aea72295f1a054e80492d2a02ff191cd89cd96adaffcfe"
+        },
+        {
+          "state": "forward-19",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-19.jpg",
+          "sha256": "07ccccc0f599030a2f4d44a855f0c0a1df3950f12382848ca9bf4a3073cf3cea"
+        },
+        {
+          "state": "forward-20",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-20.jpg",
+          "sha256": "18cd66fc2e42939fadf7d8884c8bc4b548e75eb2737b83a016dbeae52ced2e12"
+        },
+        {
+          "state": "forward-21",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-21.jpg",
+          "sha256": "d3616eb0f6a18e1eae763b486d012739c5791b1512134568b7c090f2638a0206"
+        },
+        {
+          "state": "forward-22",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-22.jpg",
+          "sha256": "ad90f4484e6bc2fb296753c9c575445bf910684dfd3e997fcc5dbc14642e7805"
+        },
+        {
+          "state": "forward-23",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-23.jpg",
+          "sha256": "deb986933a93db36c1748238362635199ba28ed8516fd7f073472ce8117358a2"
+        },
+        {
+          "state": "forward-24",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-24.jpg",
+          "sha256": "833437e625566bbbaeb670d8c71f2368176f9f482411de3b79f79c0d42bfedf9"
+        },
+        {
+          "state": "forward-25",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-25.jpg",
+          "sha256": "c0484ca7f7b013fff119b49eea8da57887ca8524534743b2252b7f0be0a80f63"
+        },
+        {
+          "state": "forward-26",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-26.jpg",
+          "sha256": "0d57ac813b9650cf4e0e07014b49e5dfeb0ea58794e66740880d674ef25a04f9"
+        },
+        {
+          "state": "forward-27",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-27.jpg",
+          "sha256": "e6b87336d272dcebe36b4577f42171a57afcb8b349d318c080650086da6631a9"
+        },
+        {
+          "state": "forward-28",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-28.jpg",
+          "sha256": "7cfd5021b61f57eff23c71a53e9779dd8801874f992f669ff56579b54cf1675f"
+        },
+        {
+          "state": "forward-29",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-29.jpg",
+          "sha256": "deb6678a3ddc25231a029ca90142be534c29636ad97581b1de4500a103bf1794"
+        },
+        {
+          "state": "forward-30",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-30.jpg",
+          "sha256": "0db32b7f9162de17c9f1f6aa6b968b4d48c67f89164ac326a27ac39dcf4f9e75"
+        },
+        {
+          "state": "forward-31",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-31.jpg",
+          "sha256": "d8e9b2067e2688128eccc46ee77abe6f79f408aa819ef55a9486f003ccc46a64"
+        },
+        {
+          "state": "forward-32",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-32.jpg",
+          "sha256": "ccc562181e6d2dc451bedd91bd74b6515bfc612211ce89e0bdcc1b4eca52e035"
+        },
+        {
+          "state": "forward-33",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-33.jpg",
+          "sha256": "214388dc596415b578bac84e2c2429eb00d87b9df615106d56678db8fb1723a9"
+        },
+        {
+          "state": "forward-34",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-34.jpg",
+          "sha256": "5463ad30cc2ab085c85d45625685e4cd3c4d4af7ddb0a7ceca74f9433212d16d"
+        },
+        {
+          "state": "forward-35",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-35.jpg",
+          "sha256": "5df826140561f84af688508a48c504ca4a9bfec108cca18f9661e270c80242dd"
+        },
+        {
+          "state": "forward-36",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-36.jpg",
+          "sha256": "00a9422b3b1ef9bcf314319be2b7fb62f7c70718dc6ffd1573ffdc839795a17d"
+        },
+        {
+          "state": "forward-37",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-37.jpg",
+          "sha256": "a3fa0f8ab578520d0b9a8b50b3df39bcf196cd66804cc7f0a8ef797b7692813e"
+        },
+        {
+          "state": "forward-38",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-38.jpg",
+          "sha256": "60ef0028bbf84300ef1b567cc81c858acedc8b1d7f7aba81edab0a6c4c56ea37"
+        },
+        {
+          "state": "forward-39",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-39.jpg",
+          "sha256": "19fd3c2864b2796e33c4bea50dfe8ca7513dfda128081ccf50dd38cd26dcf3ea"
+        },
+        {
+          "state": "forward-40",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-40.jpg",
+          "sha256": "d8cdeb9e46c00e9e941a0408dbefb6c792b3df94319f8975e9a51f2b2b1370bc"
+        },
+        {
+          "state": "forward-41",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-41.jpg",
+          "sha256": "7cb3ce8fe5ff2e42a07a092b086d4a706118460c434582cbab537587a67fd773"
+        },
+        {
+          "state": "forward-42",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-42.jpg",
+          "sha256": "e0ead3a742f84a7c5e0331832b490ed4b56c25e3493899a2489c889595184548"
+        },
+        {
+          "state": "forward-43",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-43.jpg",
+          "sha256": "2e88325b0a2b22b880c5ec93728c1dc122fd94117f5e314c437238c15f4a86c7"
+        },
+        {
+          "state": "forward-44",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-44.jpg",
+          "sha256": "a094fd2fa91fa1cbd9fd1352302e2b152e5c2b840decc90e7e803296833d7113"
+        },
+        {
+          "state": "forward-45",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-45.jpg",
+          "sha256": "82b27f86758804433d7dc9cd54f60eeb18e7f822516e12ec56678ace54ee4428"
+        },
+        {
+          "state": "forward-46",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-46.jpg",
+          "sha256": "bd35b81aba967d18f119b35da51ef537c55c05002402ad00c41d821e6638cade"
+        },
+        {
+          "state": "forward-47",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-47.jpg",
+          "sha256": "901eb1f39ec6e6683d439563df94cdf01004c6cafd41f5906104cc1389d0c30d"
+        },
+        {
+          "state": "forward-48",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-48.jpg",
+          "sha256": "309d566c659232a19f3f6327a2490b1de4c37ef3205816070eca2e9d4f6f28e0"
+        },
+        {
+          "state": "forward-49",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-49.jpg",
+          "sha256": "742b9c4485b2e9f4df1066b66a403c240a45016b9750a86e7562cdc1e6c779f6"
+        },
+        {
+          "state": "forward-50",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-50.jpg",
+          "sha256": "e6e477e81cbeea609637a993ce438f1b2d25a39c4e3d520eaf728a72e206a1f5"
+        },
+        {
+          "state": "forward-51",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-51.jpg",
+          "sha256": "17a597d0dc4ebc766b1f1c3fdcd7095359b87ef512f883c1913ceb914c2438ce"
+        },
+        {
+          "state": "forward-52",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-52.jpg",
+          "sha256": "4a29e4e95bc98a03cb91c0fce7d7d2eb703b3fda4e9d6598f4fa9aaa6565f758"
+        },
+        {
+          "state": "forward-53",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-53.jpg",
+          "sha256": "3b3e3f8c032afadb35c7d5794af28283e1c398a4a652730a1ac6bafbf4ca6f1b"
+        },
+        {
+          "state": "forward-54",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-54.jpg",
+          "sha256": "2ce4b1e9f4a5eca06ccf321aec495bf1e94bcd2f7ce271ba1b098d617c16c1be"
+        },
+        {
+          "state": "forward-55",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-55.jpg",
+          "sha256": "157bbd6784ec58477a2f24ad8246098fbc9053347041978fda6442a2621b2753"
+        },
+        {
+          "state": "forward-56",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-56.jpg",
+          "sha256": "0ab1cd58b7926c4c0e86522b7db0151b211872394b79aee0db21c0b76ecabce7"
+        },
+        {
+          "state": "forward-57",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-57.jpg",
+          "sha256": "222c20abf97b178d9eaac8fce42a709f99a0183e86272349c8cff51f4e2df4d4"
+        },
+        {
+          "state": "forward-58",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-58.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-59",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-59.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-60",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-60.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-61",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-61.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-62",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-62.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-63",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-63.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-64",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-64.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-65",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-65.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-66",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-66.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-67",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-67.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-68",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-68.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-69",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-69.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-70",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-70.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-71",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-71.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-72",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-72.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-73",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-73.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-74",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-74.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "forward-75",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-forward-75.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        },
+        {
+          "state": "ending-stopped",
+          "path": "docs/evidence/redo-v2/2026-10-25/ayocin-finite-native-01/mobile-ending-stopped.jpg",
+          "sha256": "0442c7537a53f9e5b173b314d50d2d1d0e6bba0815724bb7a56684e3b069e140"
+        }
+      ],
+      "actions": [
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+            "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away\nfrom nature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+            "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away\nfrom nature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+            "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away\nfrom nature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+            "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away\nfrom nature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+            "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away\nfrom nature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+            "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away\nfrom nature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+            "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away\nfrom nature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+            "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away\nfrom nature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+            "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away\nfrom nature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+            "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+            "We spend 90% of our\ntime indoors, away\nfrom nature",
+            "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Extremely\nQuiet"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Extremely\nQuiet"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Personalised Atmosphere"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Personalised Atmosphere"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Personalised Atmosphere"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Personalised Atmosphere"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Personalised Atmosphere"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Personalised Atmosphere"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Personalised Atmosphere"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Wonderful\nCombinations"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Wonderful\nCombinations"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Wonderful\nCombinations"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": [
+            "Wonderful\nCombinations"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 0,
+          "max": 0,
+          "height": 844,
+          "heads": []
+        }
+      ],
+      "initial": {
+        "y": 0,
+        "max": 0,
+        "height": 844,
+        "heads": [
+          "Nature is part of who\nwe are, providing the\nessentials for our\nhealth",
+          "However, we’re\nbecoming more\nisolated from nature\nthan ever before",
+          "We spend 90% of our\ntime indoors, away\nfrom nature",
+          "With the ATMOS, you\nbring the benefits of\nnature inside your\nhome"
+        ],
+        "title": "AYOCIN - Where design meets your well-being"
+      },
+      "end": {
+        "y": 0,
+        "max": 0,
+        "height": 844,
+        "heads": [],
+        "text": " all-in-one design. Equipped with an efficient motor and multi-layer HEPA filters, it captures and eliminates 99.95% of airborne pollutants, ensuring clean air throughout your home. Its advanced light therapy uses specialized LEDs that emit precise wavelengths, proven to support your health and well-being.\n\nWhere can I buy ATMOS?\n\nYou can buy ATMOS here on our site. Shipping is expected to start mid 2025, on a first ordered, first delivered basis. \n\nCan I cancel my order?\n\nYes, you can modify or cancel your order anytime before final payment, with a full refund of your deposit.\n\nHelp Center\nOUR MISSION \nOUR MISSION \nAYOCIN\nRe-connect with nature\n\nOur connection to nature and planet earth are vital, however, with rapid advances in technology and by our modern lifestyle, people have become increasingly disconnected from nature resulting in disease and disbalance in people’s lives. \n\nAYOCIN harnesses technology and nature-infused design to counter this process and bring us back in touch with nature and its healing powers.\n\nINSIDER CIRCLE\nYou’re in!\nCheck your email.\nSign up and receive the latest news and offers.\nBecome a member\nCONTACT\nhello@ayocin.com\nINFORMATION\nFeatures\nAir Purification\nFull spectrum lighting\nRed light therapy\nCompany\nHelp Center\nSOCIAL MEDIA\nInstagram\nLinkedIn\nPinterest\nX\n© 2026. AYOCIN. ALL RIGHT RESERVED\nTERMS, PRIVACY POLICY, COOKIES POLICY\nWEBSITE BY OBYS"
+      },
+      "reachedEnd": false
+    }
+  ],
+  "updatedAt": "2026-10-25T14:46:14.957Z"
+}

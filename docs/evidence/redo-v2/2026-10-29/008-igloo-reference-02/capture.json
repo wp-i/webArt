@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.igloo.inc/",
+  "sourceSha256": null,
+  "result": "captured-not-scored",
+  "errors": [],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening.jpg",
+          "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-12.jpg",
+          "sha256": "06d0487defa7ef994361e864728a66e8e6b43df971a329fa30bedcede4f72854"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-opening.jpg",
+          "sha256": "d23397ae64b1ffe3bd9fe68b81e535650244ec83ec533ff3d9dbd52c6733141c"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-3.jpg",
+          "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-3.jpg",
+          "sha256": "e3354b47dcdb6adb8d67f7cdeb25961b6061957aa16bdf3434cffd0c48ff7102"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-stop.jpg",
+          "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "context": "normal-original-whole-positive-path-to-particle-ending-not-finite-document",
+      "normal": true,
+      "forward": true,
+      "reverse": false,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-opening.jpg",
+          "sha256": "5e23cf293ccf97a21eec82291d1f744adcc821a6dfe037335740232431c6e455"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-01.jpg",
+          "sha256": "361bad38675f7f48a0cf86c92fadc472059f2baf01693a5bc98362860f80b820"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-02.jpg",
+          "sha256": "2c4569c8ad345c4b9cb26bef9e37bc6142ef05c18145f66677d5e16593d62190"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-03.jpg",
+          "sha256": "3882c04ce3377be06889c2099a09b6cb6b408ef491b7e215755d1f874e4b351a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-04.jpg",
+          "sha256": "f63a13a0c85e0ffd8b310a1db5fd757ac0026f30be8ed100c9c9627ae8570b14"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-05.jpg",
+          "sha256": "dff9f460c0bc2c6015037c7c0525dbd6913feb311e47f00c992e3857413e4efb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-06.jpg",
+          "sha256": "f8bf48e44bfcdb1d6362fd78bea35b5df453e6258f62fab2e046f2a6d5d99555"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-07.jpg",
+          "sha256": "b4e722d17182efeeb4b3c43599c6e707a1dc15b410cefe83f1ec8faf84cca534"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-08.jpg",
+          "sha256": "8f555b3983b18d2c41c3e7766bb6c4789ab6f6c78801fb678a1cd395f75ae278"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-09.jpg",
+          "sha256": "809ac220293a27e10f4f2e6ec373a8f2da5db3c802620272292d9e66d9d020f5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-10.jpg",
+          "sha256": "7343be014f1cc342e933e8444ef55204cb5fadbb7ed922576b271d4f1eecd210"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-11.jpg",
+          "sha256": "1b7c3d7e526bdbe5cb6997a8452ed34f3ce532aa5500c78132edbd0d82aaaae0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-12.jpg",
+          "sha256": "06d0487defa7ef994361e864728a66e8e6b43df971a329fa30bedcede4f72854"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-13.jpg",
+          "sha256": "c1c3564773d574e2e6ea6a2f84bd1ce213723d9de7a8726425073b43377d3ca1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-14.jpg",
+          "sha256": "171b49a3ea2fad376bd9b4419b6dee42012e4c29ba25cecb1e6097d1c474746c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-15.jpg",
+          "sha256": "1853cf150fdca995da7cad968840c21e6250276ffa25a04d08168dfdc46bedda"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-16.jpg",
+          "sha256": "35b4e130872478568a84976e8d13ce40aab623c3665933bfb58638632b62c092"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-17.jpg",
+          "sha256": "cbdb07deae9a7700720ba744f2fd9bde03e5460dd5a6baad9060ffe4899ea8aa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-18.jpg",
+          "sha256": "5fa3194e606e5192211ce008123d8346a80f62d615bcf36e0472f5afe073aff2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-stopped.jpg",
+          "sha256": "6303d009b28ea4b2380cf2c8df9375287cec50be24eda614a4d5d45544ddc181"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "context": "normal-live-forward-reverse-stop-and-reentry-separate-observation",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening.jpg",
+          "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-1.jpg",
+          "sha256": "5218bdae79eb8642122b783186f3c902b1ff856788069a3aba5b78ca1c9c873e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-2.jpg",
+          "sha256": "373006e812bf5eb4f7f8ee5aa23b5bad51b2a025f97adb597e61ce1b803f27ce"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-3.jpg",
+          "sha256": "a7abb7e3e902ef12b258d7de4c3daf4f7ec4c5b1b5f835e6fcbe27cf1bc20220"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-4.jpg",
+          "sha256": "8879fbd6907a594b301f0e347d64d0f56f24ee7432ec925bb60bdd40ccb8b380"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-5.jpg",
+          "sha256": "eb1a66866e85b98cb7a2546d485f9aa0f3b2631ba7de1a561f444d6f5eaf74b0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-6.jpg",
+          "sha256": "76e9f3485cef8ecca802ee205de7246b8c39e9135456b7de4475f21020daeb06"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-7.jpg",
+          "sha256": "dee7fc9555bec2d6930f570a4e5b1fff3b67213b32e7f4ff1a9578f74a277ccd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-8.jpg",
+          "sha256": "7d634d19bb43a7dabf0b089701a570ce8504616c730bccce0ca501737f3cdb9f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reverse-1.jpg",
+          "sha256": "6e77c285b4d0d5b8a231d007d5e932c4d6b37be6f7cc0b4ad5e3e1043cd2f96f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reverse-2.jpg",
+          "sha256": "48c7ea9c2533e35882108685e847a34ec756f62a085bc738ba71f5afd8393715"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reverse-3.jpg",
+          "sha256": "aadcb1262e4506ad36c4861d155dc73e2468daad8447ea9bcc8f7c98548ad6b2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reverse-4.jpg",
+          "sha256": "4537013c9c36ee2015eaf1ae8de3e4c4c1e88e6fd38e3fa5569f1ce69db413b8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-stop.jpg",
+          "sha256": "401c9dfaec9d67190b02af7717406d90b323be147ec055c87fbdd2f2d91ea4fb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reentry-2.jpg",
+          "sha256": "7a9ead0cdde11fba934942a05decd986565d461523935da6bc4e36bb55a77bf8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reentry-3.jpg",
+          "sha256": "9c9151fea8f835d3841388392cfcee55b5a056bd470aa1eb18a4f86473290f56"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reentry-stop.jpg",
+          "sha256": "cd5e8103a09b137619cb6812e7ced19d46a36b118f7516e41f267d13f1164af5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-next-3.jpg",
+          "sha256": "f9d1f841f783c486122cc0cd7d68ad2b01d05a69850753716fb1749d943e64d4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-next-4.jpg",
+          "sha256": "fc5d0672543245f180c55034654a2f5148c8fce4505771f53353d10bb5840962"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "context": "normal-ice-opening-pointer-left-right-leave",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-left.jpg",
+          "sha256": "d4b2d119246604a0bcbf73175f4bcd6f2407c29050c6ccd57fbe80b205afffe6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-right.jpg",
+          "sha256": "49233d40a999675333853dd008bb44fda68a5560eb21ee6747a16b26258f9f96"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-leave.jpg",
+          "sha256": "c4c7fd11ac0acc45bcd1bc2c8fd992514cdfefbd2e28c504463c83b8a389446f"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "context": "reduced-ice-opening-same-scene-pointer-left-right-leave",
+      "normal": false,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-opening.jpg",
+          "sha256": "51a6405ebaf8acc81b00879ae20b8642174173b3b87d7fea8d5a1485fb2dd214"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-pointer-left.jpg",
+          "sha256": "abd2695c572e46cb7f7c52e0d9ffab404ee6727a31f72d94b891181bddb25e2d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-pointer-right.jpg",
+          "sha256": "cf189b7bc3daf2c928f99f58b382f007e76461dd4e729072f05835ae3817a918"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-pointer-leave.jpg",
+          "sha256": "556bdbb3d19835f642370c884f48f55818405bd7497a65e8153945c35785abd6"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "context": "normal-frozen-work-real-click-detail-Escape-did-not-close-Close-return",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-click.jpg",
+          "sha256": "cf713e80a8adc0212cb4f0c2fed607bd8301003102c61a06e3e6d3c619b4320a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-return.jpg",
+          "sha256": "2e1736ce4b4abf5ae3fd7e191153125dd29950c2e5e86e16a2df22a2e01abf8a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-detail-stable.jpg",
+          "sha256": "935d9a38845b507bbc65f1d9b5d2af72ee3a1ff4cecaea7e8db98533a1b180f8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-close.jpg",
+          "sha256": "f71d3cf237657c486a5ed7303662a0dd22b4302dc4f1c6ddf25d8dc2a26cc85b"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "context": "normal-particle-pointer-movement-then-right-selection-and-left-return",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-to-second-back-2.jpg",
+          "sha256": "706f5ad243f9cf0903b5e5dcc0edd1fd7f644a645a94c124bdaffffd054eb27a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-pointer-left.jpg",
+          "sha256": "8e9d90beaeeea1bf94416082242931c6e70c2a716596b670781c20d1d45406da"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-pointer-right.jpg",
+          "sha256": "56c0f961428fa0fc708250bd4d0b479dd5152f09e51d6aee0495b0bb95d24333"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-pointer-leave.jpg",
+          "sha256": "2acff17679cdcfc9b99d3e169e2c835516f42221ff3d2f25f74e6f05c26271f2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-next.jpg",
+          "sha256": "22a45a6be6a70fe8c449c12105c169b69ccbf564fccf6b99dd012b3b8bd2a48c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-next-stop.jpg",
+          "sha256": "4b8706920f05c248b908b1374f7fbfb5d5e59a163c0495248e2b8e740f056a67"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev.jpg",
+          "sha256": "f50cbff4fd2cf003f267658093da53940d8c7c415711470d94dd8262dc966552"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "context": "reduced-whole-positive-path-and-real-negative-wheel-return-toward-overhead-platform",
+      "normal": false,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-opening.jpg",
+          "sha256": "51a6405ebaf8acc81b00879ae20b8642174173b3b87d7fea8d5a1485fb2dd214"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-1.jpg",
+          "sha256": "423722ba326b3a2bbe01427a93fa08981abf6b492336c58a4b728795f8247705"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-2.jpg",
+          "sha256": "827d5057668f645e7f325c29f5b8583ac7b2e93fe737d82e9e82c3cc99024df0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-3.jpg",
+          "sha256": "16a4f28c958d70b939c5396ebac3cb390899085f3af776a39c4206285b522eb6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-4.jpg",
+          "sha256": "5816d89a3a27da035d6e42f96ae420ad92cca4f30fa3e4bdb438c100f3db4edd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-5.jpg",
+          "sha256": "3a138bd06c94a8f7ef797d22ced24fb04932bd6e2d3f0a06eb25576ab9ff2669"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-6.jpg",
+          "sha256": "5e2c76e97e975a9778daf44016da1e3d920a08df044b10974fa942cbd37be824"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-7.jpg",
+          "sha256": "f6a312a76904e4fd949564093b9311bfc2775807fa6bacfd54c9356311313cef"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-8.jpg",
+          "sha256": "9d92cbc26bd1e880a428e88f4766cd561f0919256a8e444377ec056f4368f25d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-9.jpg",
+          "sha256": "e5f12f5616484af33a33ef1e9215c9c7c2a2a93722a7d8d1287dd6dae6b048bc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-10.jpg",
+          "sha256": "51340794f050f683fbdb0a82205a0a989a4bb8fc8686c6259f9c9c8ca0f4895c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-11.jpg",
+          "sha256": "be37c0493d4d998751738e6160c3c2015fd57cc73c3bf721bf1dd173708189e5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-12.jpg",
+          "sha256": "f3ea656171ddae8c11c1db99bcd4433c95771dfff7178e891094790f7d216ae5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-13.jpg",
+          "sha256": "c52141f2a9673282cec83b169502e6fa11a718183a6c3c1599e5a1674b810a17"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-14.jpg",
+          "sha256": "869674c7758cfd9d84ab86f362489206ab0c9356450401841d6f6ea4d5570457"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-15.jpg",
+          "sha256": "2f587ec042f4d68ffb678e1ce73b6eb1609696fa2d00dfac6b29805cd04a1f66"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-16.jpg",
+          "sha256": "f176e8453d2eaced72bb848ae1779faffc47e8400441ec5b8bb00364ed476b41"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-17.jpg",
+          "sha256": "5542566e2bf496cd587291704da5e050e3be6c75de2c29ca4491973538cdae9e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-18.jpg",
+          "sha256": "2a8c2bf468c260d17bbd6941c0d69afc914a46efc74c1ac6a06f5b6771ec89d5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-arrive.jpg",
+          "sha256": "b8afca31136885693da8e4f309cf64315ca813ed82fa6b6083f4f206ccd9029b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-stop.jpg",
+          "sha256": "dec957daaf021f0a30acd1bb5fbe0e8ddafcb95b17bbf5a4b698657f1d5e5d27"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-1.jpg",
+          "sha256": "54cb1e4a279d7128b22845e6b0a92241d5c360081947fd9cf21ba44214f3d55a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-2.jpg",
+          "sha256": "11d6b8c16ca3ca505ba4b4fa4e77bf95958e2b46ea8b95fe90aaeca73ccc6ffd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-3.jpg",
+          "sha256": "3f1ca277c10f810d8cdfe0a8c0a3073db9e36e6b05abd07952476eb0bb74e169"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-4.jpg",
+          "sha256": "6a191cd28c6d41cb4a4a07b83f56675c7be7f9c52f645823bf3316f034f9a963"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "context": "reduced-particle-same-scene-pointer-and-actual-next-prev-selection",
+      "normal": false,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-stop.jpg",
+          "sha256": "dec957daaf021f0a30acd1bb5fbe0e8ddafcb95b17bbf5a4b698657f1d5e5d27"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-pointer-left.jpg",
+          "sha256": "cf04c2eaca0c0eb8710bc71574fc0ea5773887fa6dc2e119671cc203b84ee216"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-pointer-right.jpg",
+          "sha256": "cd8e2c7f9aedc151985c2dc6e72208efcff3f462afa6ecc4e653e3f1332a05c5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-pointer-leave.jpg",
+          "sha256": "300594c45febcf740237f7aaf916ff08c0ab8c52d9a8eef75c1063605a3b361a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-next.jpg",
+          "sha256": "492b7b99714f51a0d83bcba978a243448772b573039b3235e0ed092afa6ca66b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-prev.jpg",
+          "sha256": "5777404411f42ec6e3f3ec6d4c281c4fc053416eb287a328ac7438bd6c1a5c4b"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "context": "normal-real-finger-arrival-both-frozen-works",
+      "normal": true,
+      "forward": true,
+      "reverse": false,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-opening.jpg",
+          "sha256": "d23397ae64b1ffe3bd9fe68b81e535650244ec83ec533ff3d9dbd52c6733141c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-1.jpg",
+          "sha256": "e119acd0c64d6da6e9b1a2646dea2a22a1b25335e3a786afce7cda060eb3f6ca"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-2.jpg",
+          "sha256": "ce5ab569c96c59fe2195588c953577fdda75f8ae8d406faf7fc8d2de69caaf3b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-3.jpg",
+          "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-4.jpg",
+          "sha256": "dece62d895c07d939b686f3844e40e42a55a5097125302daf0c6389c95468b46"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-work-stop.jpg",
+          "sha256": "1884024b05a7c7123a1a88be92ec9832e4e2552a45c33dad3cf5b5943c167b12"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-second-stop.jpg",
+          "sha256": "05751bfe48f6ce8f06d88999344d2bef6ee42b348c6c40479253a6f014619d99"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "pointer",
+      "context": "normal-short-finger-open-and-Close-return-second-work",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-open/before.jpg",
+          "sha256": "93ef9965f852ddf874c14e760b2bde99ce492ffdbaa8852423231e5335c235e0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-open/after.jpg",
+          "sha256": "0d65556030f63245255fe94cab4933acae280adb6b54863b96f97245a3b2e274"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-close-02/before.jpg",
+          "sha256": "e0d6d4bc74c5364121c1731eb23f67a9185898ce348b077a34d75eeda0cfae5b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-close-02/after.jpg",
+          "sha256": "8f185a3fc6f93b1ad17141f68d7be76328ca9dbd82043d9bc9bf3218504803a4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "context": "normal-after-real-project-Close-portal-to-ending-and-downward-finger-reverse",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-second-closed.jpg",
+          "sha256": "7d19670f06cfe4c259505ddfba3f9091009fe22e7f65c285a892d86c6cfe539c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-1.jpg",
+          "sha256": "9ede5a10f3e762d658b0c794fe05f32d710af352c758e0a3ed003932129c368c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-2.jpg",
+          "sha256": "4c58d501673bbbe07f7fd6ba4dc7652eaf69c3451a76c6c1444b349f3f88c1fa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-3.jpg",
+          "sha256": "e3354b47dcdb6adb8d67f7cdeb25961b6061957aa16bdf3434cffd0c48ff7102"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-4.jpg",
+          "sha256": "8759f99694105a1fc8f2a3704c4d5466e50f5130f079b7a5966216668fa43665"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-5.jpg",
+          "sha256": "27ab84bf12c85ea737abfa824b6b9e3f22c24f67b154effab2b9b4d8ed78310d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-6.jpg",
+          "sha256": "15097baf5df77fe3a64ea5578c7fa5af06dc98958cc8d7c9b99af9f927c5afc3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-final-stop.jpg",
+          "sha256": "e5695503f45632d0be7372162ef573cac4fd276c18176967da402a3a01c202c4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-arrive.jpg",
+          "sha256": "31bde42f5ed037675de11955eb9298cbae9f7e7fc00635124227e3837e89d231"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-stop.jpg",
+          "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-returned.jpg",
+          "sha256": "19848e9b6ee7dfdb6ae6af9f1d0cbdd85865354622e4ea5e9327b412259c68a3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-reverse-1.jpg",
+          "sha256": "710cea7ee04f5f91339432eb52feeb0fc4b73b986d6718bbe9f2fb198b781d12"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-reverse-2.jpg",
+          "sha256": "f2b529c71ab031906c0f8bf1298c29ef2ad1d592a343118cc5c50fbb8101a9b4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-reverse-stop.jpg",
+          "sha256": "f2c5a7973fdbb4b5c9b7066e478d4164a43f12791fddc16e33d8019a8b97c3d8"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "context": "normal-original-forward-cycle-boundary-particle-ending-to-opening-and-reentry",
+      "normal": true,
+      "forward": true,
+      "reverse": false,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-09.jpg",
+          "sha256": "84c1e9cdf5a13e5b4ca671abc01f00a14e76e807efe90ec2032cfc0ab26f7338"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-10.jpg",
+          "sha256": "dfef9fcd3f434b43582825186e1788cb4fbe03619c36e1c82816ec951bc566bb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-11.jpg",
+          "sha256": "7a2c78df886aff79cf362085286576b12a4867b1d530ff27e2b4f430042ead1b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-12.jpg",
+          "sha256": "3ce7a3c060d83eee134e35fcc79ace26c654bbfdfbb8d7053b75913c17326fcb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-13.jpg",
+          "sha256": "5204c419d6f7b21b60639bbf904aa752a921d39acb775cc2f2393f78738b8478"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-14.jpg",
+          "sha256": "f5ab50b25841f8e79f2d6c79ee09f300d85a47937365e36708701f2339187aa7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-16.jpg",
+          "sha256": "044495c83f97a1c5b599586f41c48ed75d47dba6868a6f2951e67b18a359961c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-17.jpg",
+          "sha256": "1be7b67b5b99fe789ab0361f74efe0162d6e9ecc19ef836f054dac5a1df541d1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-18.jpg",
+          "sha256": "30cb6412862232a80df65f3a8fc4c982c522ab381423f09f11e46795d9a549e4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-stopped.jpg",
+          "sha256": "cd702f01e1f9f8e74c5cf5147f5774c526c57465f660eeaed8417275eedf8d6f"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "pointer",
+      "context": "normal-short-finger-particle-next-X-and-prev-penguin-return",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/before.jpg",
+          "sha256": "863112d3c7040689f305a37da5ece0259b4744bfbefda31a027d9eb1f5c34ed1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/after.jpg",
+          "sha256": "0a3b15364076ab6883780114414b24423497bbb7d164da6b7b74e49208476352"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/before.jpg",
+          "sha256": "200fe24198415afef2b8c3b41dd3d3ee6ad89dc6070586bb23cc775bf98844ce"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/after.jpg",
+          "sha256": "0fc90c491640f40670a9a7a718cbd3ace159433618aa208d2b4793e74c638b0d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "pointer",
+      "context": "reduced-short-finger-particle-next-X-and-prev-penguin-return",
+      "normal": false,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-next/before.jpg",
+          "sha256": "496495bdc01954aab06b481edcd155980e5692d467a905b889d394b0f63740b7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-next/after.jpg",
+          "sha256": "a84d1bc81a6a2a6c21eae11b1f70b77c68da4d78c829f34980a1188364dbbe96"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/before.jpg",
+          "sha256": "174572d443820a42f5086f851dd2d11eb752493d0ccbcf8595cb3a5c3d2a09c2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/after.jpg",
+          "sha256": "f551ad52bd141b524640e299aea9db871fef290105069b504623f3ba52d6bb21"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "pointer",
+      "context": "normal-horizontal-finger-opening-held-forward-held-reverse-release",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": false,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening.jpg",
+          "sha256": "87d8945b1303219f7f8874e71d4aafb3962677ea9b5f6061fa6be4ba2b14e4ac"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-forward.jpg",
+          "sha256": "adeb442b8b959a127e689dd7fccedb7937f400edee3099b20a2753d41f186a3e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-reverse.jpg",
+          "sha256": "9c98dc57700dc13ae77bdbefd3325ae40269796d6a88aedd2d48a2799604e3e3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-released.jpg",
+          "sha256": "948e0b6efbe9f478fd8f0f111849bbfe7cc2149a4ec4bd7c1632cf6cd1acab0d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "pointer",
+      "context": "reduced-horizontal-finger-opening-held-forward-held-reverse-release",
+      "normal": false,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening.jpg",
+          "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-held-forward.jpg",
+          "sha256": "2bf04a349116db2fda00e6b01c76a6db9ec94997c5f2243123d74d786cd4308a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-held-reverse.jpg",
+          "sha256": "869d08b09abd812aecc9122e2eb0469a6a726ac5108affda3e5f8fa659e442e4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-released.jpg",
+          "sha256": "c5f9cff2b9d1fe2170e42171e9977ed34bcac8e556ebbaa0d0dfaab6e08b4898"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "context": "reduced-actual-finger-whole-path-to-particle-then-downward-reverse-to-ring-and-relaxation",
+      "normal": false,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening.jpg",
+          "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-1.jpg",
+          "sha256": "315fa3bffe6c3141d02d54230b7174d15e84723837158371a71e15dc2ec27ee3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-2.jpg",
+          "sha256": "0249cadfee158ca38597a56544b4203ad35259781f726c0a28f2186a44a47b4f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-3.jpg",
+          "sha256": "19bd0ab78c637ac27a6f1e2d8650cca0e633c8d982ab512b5e583d028b05d4b6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-4.jpg",
+          "sha256": "640fb03aa35537fe588a23c8aa6ca9d8814aff3a101de6d8be6e6efe9f356aba"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-5.jpg",
+          "sha256": "e6c570e912841e7b2d583f298d1898b62f9f40eb93304d0ec9bb3a9e19b5257f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-6.jpg",
+          "sha256": "75e1c53576f05f5ba06f79f651dda071f900b7cc5f0c525acc43de204481e9f1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-7.jpg",
+          "sha256": "f87547494879a12e85109da1d1df37c9d33e392224011b37a8365e1945aee348"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-8.jpg",
+          "sha256": "bf5a0678a20b39da0b00799141e628df93af3b0e7062ab6b07b228cc40eaa500"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-9.jpg",
+          "sha256": "d0be9364e0fa6af70584bf73e9acdbd911050bae1443187502f4ea5b1e3207de"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-10.jpg",
+          "sha256": "6492a5c28f6571a3e9ad5276b40704f46bfc28acd6406a587c6f267ebde5f589"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-11.jpg",
+          "sha256": "5bf7a450b6eba52688c7d4d9c85ae056738df76f8a8ff7ad7a5c6f05443b6548"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-12.jpg",
+          "sha256": "44bf55005f1a59e41680c427c272953f6609215ed0d5dc43ce37f1a3c5b32c38"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-to-end-1.jpg",
+          "sha256": "44d9cb6b8a82cbd25988d484915f9bd540f618ee470b3ef264d0a1ac638bc8b6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-end-stop.jpg",
+          "sha256": "33a2e1d02a0876df8fbfda6818200c6c351f83dd373df6ccf5894b64503eba7f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-1.jpg",
+          "sha256": "6c393b09bb836333c385a16286ec967540cb5e2f1fc1cfe6bcc5e243bc053899"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-2.jpg",
+          "sha256": "a80bebc47209b4d3d45b76a601ff230facf956e393223a1f038bbe0fb14ab03a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-3.jpg",
+          "sha256": "15fef3f4d24de26251ed9b550b117187a9a343195b3a63056119059275f78e29"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-4.jpg",
+          "sha256": "7a300fe507003ede7e82116c9ea1d89841dd33fb1b0e3169655d844929d72ee7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-stop.jpg",
+          "sha256": "3877195995c5142e305caf879ff4b70d5b7f42f9cfde678f9dbbb3188a4e6ae9"
+        }
+      ]
+    }
+  ],
+  "finished": "2026-10-29T03:09:58.963Z",
+  "normalization": {
+    "kind": "immutable-assembly-of-actually-viewed-source-evidence",
+    "sourceObservations": [
+      {
+        "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/capture.json",
+        "sha256": "0248c9afd888cfc5aff73f83fb243be44d01c39394c184d50e61f68defba3cae",
+        "retainedResult": "captured-bounded-path-not-admitted"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/observation.json",
+        "sha256": "8bb849272231592eaa6b60721ac74fb96b95ed3f4cea86a733c01d64d4c1cf29",
+        "retainedResult": "bounded-deadline"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/observation.json",
+        "sha256": "01c5c2d7c4da401b3e9a688e6e4d9da4b2204eb50e7bf2184915ed0b5bc81619",
+        "retainedResult": "bounded-deadline"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-open/tap.json",
+        "sha256": "c5308f3a6096f32dc55a74394fd5e5dd2bd1b890b5b0df557bc6e12c26c6a08e",
+        "retainedResult": "tap-observed-not-admitted"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-close-02/tap.json",
+        "sha256": "792eca71862b85d932615882a445437fbb05860082997d5fb24c4a9bc54571c3",
+        "retainedResult": "tap-observed-not-admitted"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/tap.json",
+        "sha256": "b9fbb12e0d25bca69fc262728b656b792334381bb70b075dd10a539da52654c2",
+        "retainedResult": "tap-observed-not-admitted"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/tap.json",
+        "sha256": "c5f98f3efb2237dbd90576283db39ddb199ecdc6a696e72c196ba1d26376ea3c",
+        "retainedResult": "tap-observed-not-admitted"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-next/tap.json",
+        "sha256": "33dadbdc5051f7185c9aef7579bc6578cf1349508083ba7b5ece67844a9f4fc3",
+        "retainedResult": "tap-observed-not-admitted"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/tap.json",
+        "sha256": "2107a49d3a8e2c99cb610b1ab6661bb92165d2c79048db74c7c63438f1650441",
+        "retainedResult": "tap-observed-not-admitted"
+      }
+    ],
+    "limitations": [
+      "Original observations ending at fixed deadlines remain unchanged; their selected complete source scenes and recorded inputs are retained without converting those runs to success.",
+      "Virtual scene progress is not document scrollY; normal mobile forward wrap boundary is separately supplied, never called a finite document end.",
+      "Original phone gesture release includes inertia; current 29 October finger paths hold 220ms before release.",
+      "Reduced preference was actually true in the supplied same-scene controls and reverse path; source animation reduction or stop-rendering is not certified.",
+      "Source Escape did not close the first work; the visible Close action and actual phone short tap return are supplied.",
+      "Particle shape selection is proved. Pointer-only local particle dispersal is not inferred from changing rotation or hashes.",
+      "Long press did not open the phone work; separate 70ms actual touch taps prove open/Close."
+    ],
+    "allSelectedFramesActuallyViewed": true,
+    "framesUnmodified": true,
+    "noFinalAssetsAcquired": true,
+    "noCandidateCreated": true,
+    "derivedFrom": {
+      "path": "docs/evidence/redo-v2/2026-10-29/008-igloo-reference-01/capture.json",
+      "sha256": "4a89f8e87f9e4d5be7edc3d32e60dda51b360bfce606374d8ff137aed506344a"
+    },
+    "omittedRepeatedOpeningFrames": [
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reentry-1.jpg",
+        "sha256": "d7422d2a50d7e18f815211bdc4e92f4857e1fa99c560e82c507a6f845c7bcdd8"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-next-1.jpg",
+        "sha256": "0443681b4b4fd4024fad8d26421c516336299712d06458777d6e8e0c2fed7508"
+      },
+      {
+        "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-next-2.jpg",
+        "sha256": "13a7fb74b11b5b2c7b982c8d17f1610ec5e5512d8ad0e41f4c2218ff5478261a"
+      }
+    ],
+    "selectionReason": "Only three repeated ice-building opening images were removed from the review payload limit; all state images, intermediate crossing scenes, actual reverse, stop, failed Escape, complete ending, reduced input and raw source observations remain retained."
+  }
+}

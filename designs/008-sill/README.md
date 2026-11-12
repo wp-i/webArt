@@ -1,24 +1,39 @@
 # Sill.
 
-An editable architecture and craft portfolio. This trial project uses ordinary HTML, CSS, four local concept images and native HTML disclosures. All essential content and interactions work without JavaScript.
+An editable HTML/CSS/JavaScript presentation site with four local photographs and local licensed fonts. One editable source edition, no backend or remote asset service.
 
 ## Run and build
-Use Node.js 20.19+ or 22.12+.
 
-```
+Requires Node.js 20.19+ or 22.12+ with npm.
+
+```sh
 npm ci
 npm run dev
 npm run build
 npm run preview
 ```
 
-Publish the resulting dist directory with your preferred static host. There is one editable source edition.
+Upload the generated dist contents to your static host. For a subfolder: `npm run build -- --base /your-folder/`.
 
-## Make it yours
-Edit brand, introduction, project names, descriptions and links in index.html. Replace both occurrences of hello@example.com and the contact subject with your actual address before publishing. Email actions open a visitor’s email app; they do not send a message automatically.
+## Customize
 
-Images live in public/assets. Keep hero-garden landscape, with the subject centered for mobile crops. Keep the three project images distinct and portrait; change object-position in src/styles.css after checking desktop, wide and mobile views. Colors, spacing and typography are also in this stylesheet. The four images portray fictional architectural concepts, not completed client work or photography of real properties. Replace them with your own actual projects for a business portfolio.
+Change the brand, short copy, study titles, descriptions and contact links in index.html. Replace every example.com email with your real address before publication. Mail actions open the visitor’s email application. They do not submit a form or send a message automatically.
 
-Project names and images are visible by default. Click, tap or press Enter/Space on a project to read its supplementary description. Navigation links scroll to sections; reduced-motion preferences disable smooth scrolling and hover transitions. No signup, payment, analytics or backend is included.
+Colors, typography, photo crops and responsive rules live in src/styles.css; local interaction behavior is in src/main.js. After changing a brand name or typeface, check 1440, 768, 390 and 320px widths.
 
-Retain LICENSE.md, THIRD_PARTY_NOTICES.md and the bundled font license when delivering an edited project to a client.
+Replace the four WebP photographs in public/assets, or change their paths, width/height and descriptive alt text in the HTML. Keep each photograph in one visual role. Check both wide and phone cropping; use object-position to preserve the main subject.
+
+- hero-garden.webp: 2400 × 1600.
+- project-house.webp: 1600 × 1067.
+- project-light.webp: 1600 × 1067.
+- project-stair.webp: 1600 × 2400.
+
+The photographs are licensed stock photography of real scenes. The brand and study names are fictional examples, not a claim that the demonstration studio designed these buildings or hosted these experiences. Use your actual work when presenting a real business. Photography sources and rights are recorded in THIRD_PARTY_NOTICES.md.
+
+## Interaction
+
+The hero crop gently changes as the visitor scrolls. Project images have bounded scroll movement, a zoom on hover and an orange action marker. Click, tap, or press Enter/Space on a project to reveal one short note. Navigation and disclosures remain native.
+
+All main content is visible by default. Reduced-motion preferences disable crop/reveal/hover animation. Touch does not require hover. The site retains ordinary scrolling; no scroll hijacking, audio, analytics, ticket checkout or signup service.
+
+Retain LICENSE.md, THIRD_PARTY_NOTICES.md and bundled font licenses when delivering the edited source to a client. Reference screenshots and internal review evidence are excluded.

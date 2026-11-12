@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "finishedAt": "2026-10-28T03:49:26.636Z",
+  "command": "node --test scripts/*.test.mjs",
+  "result": "passed",
+  "tests": 342,
+  "pass": 342,
+  "fail": 0,
+  "cancelled": 0,
+  "skipped": 0,
+  "durationMs": 181554.6019,
+  "attempts": [
+    {
+      "log": {
+        "path": "docs/production/runs/cli-evidence-20261028/verification/attempt01.txt",
+        "sha256": "d7127e68b2fd9930db273239cedf67acb4c1ad38fc4c1317608348fd3c213614"
+      },
+      "tests": 342,
+      "pass": 341,
+      "fail": 1,
+      "reason": "Controlled 500ms deadline fixture reached preflight timeout under whole-suite process load; production review deadline was unchanged."
+    },
+    {
+      "log": {
+        "path": "docs/production/runs/cli-evidence-20261028/verification/attempt02.txt",
+        "sha256": "2a5fe5bf3fb468f6d604b89f813ecf060c8efb4a6f50d556b949140275989ac4"
+      },
+      "tests": 342,
+      "pass": 342,
+      "fail": 0,
+      "correction": "Controlled fixture uses fixed 2000ms bound and asserts exactly one model-bearing fixture subprocess; production timeout and fail-closed checks unchanged."
+    }
+  ],
+  "code": [
+    {
+      "path": "scripts/production/cli-review.mjs",
+      "sha256": "93b4c9b03feb5e90911d7b625a15b8bbe32c49ee50b654b7e623c2ed5c24bc79"
+    },
+    {
+      "path": "scripts/production/cached-cli-review.mjs",
+      "sha256": "c6cea6a9e23dad03690aea428f927ca2cbf23d9b65b238c21975bc799021e8f6"
+    },
+    {
+      "path": "scripts/production/cli-review-receipt.mjs",
+      "sha256": "e362e54680143d0fcc0098882feb6d5ce15197bca8aff98c777eab1b960cab55"
+    },
+    {
+      "path": "scripts/production/review-consumption.mjs",
+      "sha256": "59b60b5da33151e95c01f8798ba9565731d21e07ec895a29c0da5401481fe2a7"
+    },
+    {
+      "path": "scripts/production/evidence.mjs",
+      "sha256": "abd4acd6b9f69d509c2ee40ca88ea14f886b83eaaa0d65832f9043d84818b0c7"
+    },
+    {
+      "path": "scripts/production/runner.mjs",
+      "sha256": "e91d45cb097bd1efe1b3eb61278c3b5895853f93693a2c2f31d0feb2afdeec16"
+    },
+    {
+      "path": "scripts/quality-gate.mjs",
+      "sha256": "3ee053d798c0afa6fcf79505d538c9a644a444a4dc9de4554ebd080a8daf9ad2"
+    },
+    {
+      "path": "scripts/production-flow.mjs",
+      "sha256": "5f461ffa88690c5b1498fbcd58de07ff56f58909535c89d4f3879ac33819259d"
+    },
+    {
+      "path": "scripts/collection.mjs",
+      "sha256": "17b4c610360f7077901e3247f202d0ebc5908273f8844dadeb886723a1a6fba2"
+    },
+    {
+      "path": "scripts/production-run.mjs",
+      "sha256": "c6cbde6175cecb253e1e3dfe43d0904e40e152b6d5faac13f1e8821911119905"
+    },
+    {
+      "path": "scripts/prototype-run.mjs",
+      "sha256": "1a857bb9c65e5699b467af1d80155ffd2a58a848ed6911175498a681fac8d6b0"
+    },
+    {
+      "path": "scripts/qualify-prototype.mjs",
+      "sha256": "ace972265a0cd46d063be5e8accc6c55410b93e29d6cc35a4f819d5bd79af77f"
+    },
+    {
+      "path": "scripts/production-publish.mjs",
+      "sha256": "89d8842f3276b4922929b567fee44a74296a62e61850fcfe3eb29d3a6cea4ad8"
+    },
+    {
+      "path": "scripts/cli-review.test.mjs",
+      "sha256": "0d7843d28ad02259ffcaba286e95e3e82b77d9d7238cd04ff21116fa9fd961dd"
+    },
+    {
+      "path": "scripts/cached-cli-review.test.mjs",
+      "sha256": "bf7d41ac7e283b624b8f9172762d34e432a04246505a435bef4cc98f432c32be"
+    },
+    {
+      "path": "scripts/cli-review-receipt.test.mjs",
+      "sha256": "6b0f08b1f96f153cf4889793404cbf9f2ed00635dee1d3796977f71d5a77fba4"
+    },
+    {
+      "path": "scripts/review-evidence-packet.test.mjs",
+      "sha256": "a5f27e43f8d9f2926e8f00b3a74623b63149a7fa75a53e7ca8414b0779a4c317"
+    },
+    {
+      "path": "scripts/cli-workflow-entry.test.mjs",
+      "sha256": "663e2c673fe9fb01e206ce7b4f078b427331f5000f68ad0b447c166a0b5fc341"
+    },
+    {
+      "path": "docs/production/prompts/REVIEW_PAIR.md",
+      "sha256": "34f171944cb8d4b0d9e1fd1dc64655ad42de20da37314fbff63bc99c650131ed"
+    }
+  ],
+  "actualCalibrationAndRejectedSource": "docs/production/runs/cli-evidence-20261028/preservation.json",
+  "retainedRequiredFiles": 338,
+  "gitIgnoreCheck": "none-ignored",
+  "newModelCallsForTestsAndOfflineValidation": 0,
+  "scope": "Engineering execution and evidence integrity; no new design visual admission, packaging or publication",
+  "visualAdmissionGranted": false
+}

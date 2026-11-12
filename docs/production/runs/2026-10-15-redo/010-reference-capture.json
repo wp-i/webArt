@@ -1,0 +1,27 @@
+{
+  "url": "https://animejs.com/",
+  "output": "docs/evidence/redo-v2/2026-10-15/010-reference",
+  "allowInteractiveDocument": true,
+  "ready": "document.querySelectorAll('canvas').length===6 && document.querySelector('canvas').width>=innerWidth && document.querySelectorAll('h2').length>10",
+  "readyTimeoutMs": 30000,
+  "enterMs": 5000,
+  "settleMs": 700,
+  "states": {
+    "opening": 0,
+    "transition": 0.21,
+    "middle": {
+      "selector": ".section.feature-section.color-utils",
+      "offset": 0
+    },
+    "ending": {
+      "selector": ".section.feature-section.color-draggable",
+      "offset": 0
+    }
+  },
+  "pointer": {
+    "selector": ".draggable",
+    "drag": true,
+    "scene": ".section.feature-section.color-draggable",
+    "settleMs": 1400
+  }
+}

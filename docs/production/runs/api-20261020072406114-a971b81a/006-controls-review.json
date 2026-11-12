@@ -1,0 +1,315 @@
+{
+  "decision": "reject",
+  "responsiveComposition": "reject",
+  "responsiveChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "织物与绒面交界清楚，中央字形及短用途没有遮挡主要材料，导航和探索行动位于边缘并保持可读。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/desktop-responsive-opening.png",
+          "sha256": "b4e86f3c2bcc8cd927b9086476f3a2feb4930e3582782aefcfca29042d97905c"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "满高相邻空间保留窗帘、窗和家具的材料尺度，已经取消明亮摄影上的大标题，底部编号有局部暗部承托。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/desktop-responsive-transition.png",
+          "sha256": "ebd976f4d0829e03fe349b7faf66488fb388eb8a60d500ce045d9944bb40f4ad"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "纸色材料索引与前段比例不同，织纹主图、两项选择和短标题保持完整，图文之间留有稳定空间且没有遮挡。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/desktop-responsive-middle.png",
+          "sha256": "d048119bdd57645182c333d6b39ee585653897f81097d9062a961cd1661b39f8"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "独立窗帘、透光白纱与木地面形成收束，联系和返回位于暗部，主体和主要行动均没有被裁断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/desktop-responsive-ending.png",
+          "sha256": "ed7fed294b274efb3b1067d24e757e6bfdd23d2ff65dafa1d0af03b2f769f7be"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "织物与绒面交界清楚，中央字形及短用途没有遮挡主要材料，导航和探索行动位于边缘并保持可读。宽屏没有把照片缩成装饰或拉成浅条。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/wide-responsive-opening.png",
+          "sha256": "62e180465634f903b71e1f8162b6852c8b2d89a7013a5c4dd510441de961ad1b"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "满高相邻空间保留窗帘、窗和家具的材料尺度，已经取消明亮摄影上的大标题，底部编号有局部暗部承托。宽屏没有把照片缩成装饰或拉成浅条。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/wide-responsive-transition.png",
+          "sha256": "81c86ede7bb774b69712b0d5ce40b5f0393240c178bdd68c47b9e9fdc99502ca"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "纸色材料索引与前段比例不同，织纹主图、两项选择和短标题保持完整，图文之间留有稳定空间且没有遮挡。宽屏没有把照片缩成装饰或拉成浅条。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/wide-responsive-middle.png",
+          "sha256": "f5395c44bc5d7643296f4b8dff14df3e6d04a75fd9d78225e8f96dc8fc41287a"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "独立窗帘、透光白纱与木地面形成收束，联系和返回位于暗部，主体和主要行动均没有被裁断。宽屏没有把照片缩成装饰或拉成浅条。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/wide-responsive-ending.png",
+          "sha256": "d507425bbf9c4305062686fef0768f5d413ca59285967cc552ee00dc4adbd142"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "织物与绒面交界清楚，中央字形及短用途没有遮挡主要材料，导航和探索行动位于边缘并保持可读。平板仍保留独立照片幅面与完整字形。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/tablet-responsive-opening.png",
+          "sha256": "5b547ba9dcabd10123e7e564fb43e6a3b8cf0fae09fdbcb0f32ed9a0478748fc"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "满高相邻空间保留窗帘、窗和家具的材料尺度，已经取消明亮摄影上的大标题，底部编号有局部暗部承托。平板仍保留独立照片幅面与完整字形。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/tablet-responsive-transition.png",
+          "sha256": "eaceb322211c029e2a0bf00d99d96049b218637861ae6903cfd80585553e9fc5"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "纸色材料索引与前段比例不同，织纹主图、两项选择和短标题保持完整，图文之间留有稳定空间且没有遮挡。平板仍保留独立照片幅面与完整字形。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/tablet-responsive-middle.png",
+          "sha256": "f7a4714967bdf4f965118765a0661f41eb2d1b529549741803c7eca1b73496fe"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "独立窗帘、透光白纱与木地面形成收束，联系和返回位于暗部，主体和主要行动均没有被裁断。平板仍保留独立照片幅面与完整字形。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/tablet-responsive-ending.png",
+          "sha256": "b991a193bad87853e9ecf14e76341d5650ba109ed8671daab97967fb57359efe"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "织物与绒面交界清楚，中央字形及短用途没有遮挡主要材料，导航和探索行动位于边缘并保持可读。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/mobile-responsive-opening.png",
+          "sha256": "5623af31f756aa7d8bb9dc99fa0d1718e114c09afdf6baae4b0f5c46630405fe"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "满高相邻空间保留窗帘、窗和家具的材料尺度，已经取消明亮摄影上的大标题，底部编号有局部暗部承托。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/mobile-responsive-transition.png",
+          "sha256": "4a15e576d353b23203a8f64fc0f02c6b8cb83c76e64bc0acae7ed6ff4ab5da74"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "纸色材料索引与前段比例不同，织纹主图、两项选择和短标题保持完整，图文之间留有稳定空间且没有遮挡。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/mobile-responsive-middle.png",
+          "sha256": "d405a58e994134f10d65f903242b111094f7136e8712997d9c48c8614f1d62b4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "独立窗帘、透光白纱与木地面形成收束，联系和返回位于暗部，主体和主要行动均没有被裁断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/mobile-responsive-ending.png",
+          "sha256": "9ae44714d77de761e7a9527ecb5b49a565a5bfdb41970f4d065e6bc18434d2c2"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "lost",
+      "actions": "preserved",
+      "finding": "320实际把第二组标题再次折行，形成三行，与已锁定两行构图不符；虽未横向溢出且主体仍在，但需要缩小此宽度字号再复核。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/narrow-responsive-opening.png",
+          "sha256": "c44d71658f3e5a78ac38e50cc475faae760004a80905859e1992ab4bbd99c4f1"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "满高相邻空间保留窗帘、窗和家具的材料尺度，已经取消明亮摄影上的大标题，底部编号有局部暗部承托。窄屏的编号、材料选择与联系均可到达。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/narrow-responsive-transition.png",
+          "sha256": "248d60dcc43ded72a5dee280d7b79771636838872279d6d67f0def01342fe74f"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "纸色材料索引与前段比例不同，织纹主图、两项选择和短标题保持完整，图文之间留有稳定空间且没有遮挡。窄屏的编号、材料选择与联系均可到达。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/narrow-responsive-middle.png",
+          "sha256": "a2e6a0b1f187513ae2fc52d1f0c834d18ae945c8204c0f579be1561949803ef5"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "独立窗帘、透光白纱与木地面形成收束，联系和返回位于暗部，主体和主要行动均没有被裁断。窄屏的编号、材料选择与联系均可到达。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/narrow-responsive-ending.png",
+          "sha256": "1504f93b2dff0c1c97f6be18b74e94dae61e1c18d86f334c89f248b362944dec"
+        }
+      ]
+    }
+  ],
+  "renderingFallback": "not-applicable",
+  "findings": [
+    "320开场标题实际三行，未保持已锁定的两行构图；只修订该宽度字号并重新采证，不因无溢出就放行。",
+    "键盘、鼠标和真实触摸的材料选择已成立；普通手机横向滑动空间卷轴尚缺直接验证，需要按brief补齐并测试，不能从纵向输入推定。",
+    "白底材料段的浅灰导航仍偏弱，下一版有界提高窄导航底色的深度，保留现有位置、照片和字体。"
+  ],
+  "sourceSha256": "510d7c8b1ee2b97988b6fa590a569da0c979f48251198580a2334ee0a9349ae8",
+  "phase": "full-qa",
+  "reviewer": {
+    "id": "current-conversation:2026-10-19-four-redesigns",
+    "implementationContextIncluded": false,
+    "mode": "evidence-only-current-conversation",
+    "kind": "current-conversation",
+    "independent": false,
+    "contextIsolated": false
+  },
+  "reviewReceipt": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/review-queue/08-controls-review-08cc7740-receipt.json",
+    "sha256": "c50a3fb482e674c1a95545fd1d496507a5888cf5f7ed3c0c1a163ead0de46ce8"
+  },
+  "runtimeEvidence": {
+    "path": "docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/runtime.json",
+    "sha256": "ed9432797f2e2f651f906219b0f752b0dc27594d06798645667d0b4d164bd4e1"
+  },
+  "vetoes": [
+    "320开场标题实际三行，未保持已锁定的两行构图；只修订该宽度字号并重新采证，不因无溢出就放行。",
+    "键盘、鼠标和真实触摸的材料选择已成立；普通手机横向滑动空间卷轴尚缺直接验证，需要按brief补齐并测试，不能从纵向输入推定。",
+    "白底材料段的浅灰导航仍偏弱，下一版有界提高窄导航底色的深度，保留现有位置、照片和字体。"
+  ]
+}

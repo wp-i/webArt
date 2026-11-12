@@ -1,0 +1,348 @@
+{
+  "decision": "admit",
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "基准用层叠材料与窄字形建立身份；此处以不同幅面的具体人像、大衬线分类字和纸色间距形成完整摄影空间，默认即有可辨的作品主体及观看层次。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-4"
+      ],
+      "candidateFrames": [
+        "reference-12",
+        "reference-16"
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "细衬线分类字与发型、肤质和肖像裁切形成编辑式关系，索引和观看工具保持小尺度。手机用完整作品名承接大字的有意遮叠，照片细节和图字主次均清楚。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-12",
+        "reference-13",
+        "reference-14",
+        "reference-18"
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "发型轮廓、金属感造型、眼妆和肤质各有具体摄影细节，橙蓝绿肖像又以同一人物的不同姿态与相机形成身份；素材承担内容及光线语言，具有对象特异性。",
+      "benchmarkFrames": [
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-12",
+        "reference-14",
+        "reference-38",
+        "reference-39",
+        "reference-40"
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "实际正反过程推进错位摄影在分类字前后的观看关系，再由作品细看转向摄影者的彩色肖像。手机原始触摸确实推进内容并可反向返回，颜色与姿态变化服务于摄影主题。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-1",
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "reference-28",
+        "reference-30",
+        "reference-32",
+        "reference-38",
+        "reference-39",
+        "reference-40",
+        "reference-41",
+        "reference-43",
+        "reference-44",
+        "reference-46",
+        "reference-48",
+        "reference-58"
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "项目中的偏置照片进入居中细看、侧边索引和紧凑观看工具，图片与界面共同重新组织。实际拖动将观看距离改变并返回，细节观看与退出保持稳定，判断依据包含构图交接及摄影内容。",
+      "benchmarkFrames": [
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-37",
+        "reference-14",
+        "reference-20",
+        "reference-21",
+        "reference-24",
+        "reference-25",
+        "reference-26",
+        "reference-27"
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "结尾由作品观看转为彩色剪影中的摄影者，橙蓝绿光线、不同姿态及相机形成独立结果，最后短句落于绿色肖像暗部。完整路径中的联系与人物介绍有明确作用，收束保持摄影身份。",
+      "benchmarkFrames": [
+        "benchmark-3",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "reference-15",
+        "reference-19",
+        "reference-38",
+        "reference-39",
+        "reference-40",
+        "reference-41",
+        "reference-57",
+        "reference-58",
+        "reference-59"
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "手机将作品重排为错位竖幅及完整作品名，细看保留照片比例、观看条和退出位置；人物介绍转为竖向彩色肖像。主要摄影直接可见，触摸替代实际产生了不同观看内容。",
+      "benchmarkFrames": [
+        "benchmark-4",
+        "benchmark-6",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "reference-16",
+        "reference-17",
+        "reference-18",
+        "reference-19",
+        "reference-45",
+        "reference-54",
+        "reference-55",
+        "reference-58"
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "staggered-photographic-world",
+      "visualPurpose": "错位摄影围绕分类字形成完整作品空间，真实输入连续推进照片的尺度、前后关系和观看位置，保留作品本身的工艺，而不是普通等宽图库或轻移装饰。",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "referenceFrames": [
+        "reference-12",
+        "reference-13",
+        "reference-16",
+        "reference-17",
+        "reference-28",
+        "reference-30",
+        "reference-32",
+        "reference-44",
+        "reference-46",
+        "reference-48"
+      ],
+      "candidateFrames": []
+    },
+    {
+      "name": "photographic-world-to-detail",
+      "visualPurpose": "照片从作品路径连续进入有索引和取景工具的细看构图，主体、工具与返回在进入、操作、离开中共同编排，普通图片放大功能本身不能替代这一视觉交接。",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "referenceFrames": [
+        "reference-37",
+        "reference-14",
+        "reference-18",
+        "reference-20",
+        "reference-21",
+        "reference-24",
+        "reference-25",
+        "reference-54",
+        "reference-55",
+        "reference-56"
+      ],
+      "candidateFrames": []
+    },
+    {
+      "name": "chromatic-photographer-sequence",
+      "visualPurpose": "摄影者成为被摄对象，橙、蓝、绿三幅独立光线与姿态的肖像推进人物介绍并完整收束，保持同一人物身份及照片特异性，不用同图换色或通用邮箱页脚代替。",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "referenceFrames": [
+        "reference-38",
+        "reference-39",
+        "reference-40",
+        "reference-15",
+        "reference-57",
+        "reference-58",
+        "reference-59",
+        "reference-19"
+      ],
+      "candidateFrames": []
+    }
+  ],
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "三处不同幅面的人像围绕Beauty分类字，造型与肤质各有具体细节，顶边短身份和底部导航保持次级，照片与字形之间的遮叠受控。",
+      "frames": [
+        "reference-12"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "蝴蝶眼妆肖像进入中央前景，右侧和底部另有不同作品，照片穿越分类字而保持明确层次，实际输入推动观看对象与幅面交接。",
+      "frames": [
+        "reference-13"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "完整肖像居中呈现，左侧细小索引与底部观看条形成新的比例关系，眼部、皮肤和唇部细节清楚，照片及退出行动没有相互遮挡。",
+      "frames": [
+        "reference-14"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "绿色侧面肖像和相机轮廓保持足够尺度，短句处于人物暗部内，人物介绍由此前橙蓝光线推进至独立末态，摄影身份和收束完整。",
+      "frames": [
+        "reference-15"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机以两个交错竖幅肖像及下方下一幅入口建立摄影路径，作品名清楚，分类大字作为后层图形被照片有意遮叠，底部导航没有遮住主要面部。",
+      "frames": [
+        "reference-16"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "近距离眼妆、红色眼部造型和下方肖像形成不同的竖向观看尺度，完整作品名在照片下方，实际触摸推进后的主体与内容仍清楚。",
+      "frames": [
+        "reference-17"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机细看以纸色上下空间承托一幅完整比例肖像，主要眼部和唇部细节保持，底部观看工具和退出行动均在视口内，实际触摸可切换观看照片。",
+      "frames": [
+        "reference-18"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "绿色人物、相机和暗部短句在竖向保持完整观看，较长来源信息处于上方，末段仍由独立摄影完成收束；联系在完整介绍路径中可到达。",
+      "frames": [
+        "reference-19"
+      ]
+    }
+  ],
+  "continuityChecks": [],
+  "motion": [
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-20",
+        "reference-21",
+        "reference-22",
+        "reference-23",
+        "reference-24",
+        "reference-25",
+        "reference-26",
+        "reference-27"
+      ]
+    },
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-28",
+        "reference-30",
+        "reference-32",
+        "reference-33",
+        "reference-34",
+        "reference-35",
+        "reference-38",
+        "reference-39",
+        "reference-40",
+        "reference-41",
+        "reference-42",
+        "reference-43",
+        "reference-44",
+        "reference-46",
+        "reference-48",
+        "reference-49",
+        "reference-50",
+        "reference-51",
+        "reference-57",
+        "reference-58",
+        "reference-59",
+        "reference-60",
+        "reference-61",
+        "reference-62"
+      ]
+    }
+  ],
+  "nextAction": "admit",
+  "fixTasks": []
+}

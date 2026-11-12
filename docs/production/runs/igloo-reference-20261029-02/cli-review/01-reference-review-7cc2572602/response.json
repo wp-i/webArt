@@ -1,0 +1,234 @@
+{
+  "decision": "admit",
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "基准以巨大字形和悬挂纤维建立首屏权威；当前母版以雪地接触、明确入口及冰块内光建立完整空间，建筑始终占据主观看位置，未落入邻近反例的标题配图结构。",
+      "benchmarkFrames": ["benchmark-0", "benchmark-4"],
+      "candidateFrames": ["reference-49", "reference-53"]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "基准的衬线字形与纤维薄边具有精细反差；母版的小型测量文字服务冰构场景，霜面、倒角、透射和雪地层次共同成立，但浅色背景上的细白标记辨识余量较小。",
+      "benchmarkFrames": ["benchmark-0", "benchmark-2"],
+      "candidateFrames": ["reference-49", "reference-50", "reference-51"]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "above",
+      "finding": "基准围绕同一纤维材料展开特写；母版进一步提供具有入口的冰建筑、包裹企鹅及标志的不同冰壳，并将企鹅延续为体积粒子，素材身份贯穿多个空间状态。",
+      "benchmarkFrames": ["benchmark-0", "benchmark-2", "benchmark-3"],
+      "candidateFrames": ["reference-49", "reference-50", "reference-65", "reference-52"]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "above",
+      "finding": "基准实录在多个连续位置接近全黑，主要场景依赖分段呈现；母版实录显示建筑退远、两件冰壳交替、断环穿越及俯视平台落入粒子主体，反向与再次进入也有具体空间交接。",
+      "benchmarkFrames": ["benchmark-9", "benchmark-11", "benchmark-13", "benchmark-15"],
+      "candidateFrames": ["reference-79", "reference-80", "reference-81", "reference-84", "reference-85", "reference-67", "reference-71", "reference-74", "reference-95"]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "above",
+      "finding": "基准指针改变纤维照明并提供局部曝光；母版指针使对应冰块抬升、内光显露，离开后重新合拢，末段选择还改变完整体积目标，反馈直接作用于主要观看对象。",
+      "benchmarkFrames": ["benchmark-17", "benchmark-18", "benchmark-19", "benchmark-20"],
+      "candidateFrames": ["reference-97", "reference-98", "reference-99", "reference-109", "reference-113", "reference-116"]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "基准以材料内部空间和Remain形成明确停驻；母版以冰中企鹅转为独立粒子作品，并将形态选择对应社交联系，具有完整收束场景，同时实录明确保留继续滚动返回开场的循环性质。",
+      "benchmarkFrames": ["benchmark-3", "benchmark-7"],
+      "candidateFrames": ["reference-52", "reference-56", "reference-113", "reference-116", "reference-173", "reference-177", "reference-178"]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "基准手机重排标题并保留材料大幅特写；母版手机保留建筑接触面、完整冰壳轮廓和粒子体积，触摸可直接选择作品，穿环时边缘虽出框，后续中心与平台仍维持可读空间方向。",
+      "benchmarkFrames": ["benchmark-4", "benchmark-5", "benchmark-6", "benchmark-7"],
+      "candidateFrames": ["reference-53", "reference-54", "reference-55", "reference-56", "reference-161", "reference-164", "reference-184"]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "pointer-lifted-ice-construction",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "具体建筑的入口、霜面冰块和雪地接触建立空间身份；左右输入抬起不同部件并暴露内光，桌面离开与手机释放序列均保持建筑可辨，减少动态记录也保留这一观看作用。",
+      "referenceFrames": ["reference-49", "reference-97", "reference-98", "reference-99", "reference-100", "reference-103", "reference-191", "reference-194", "reference-195", "reference-198"],
+      "candidateFrames": []
+    },
+    {
+      "name": "frozen-work-spatial-viewing",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "企鹅与标志分别置于不同轮廓的厚冰壳中，破口和折射形成真实前后关系；桌面点击及手机短触摸进入详情，Close返回冰壳，作品观看没有退化为同节奏平面卡片。",
+      "referenceFrames": ["reference-50", "reference-65", "reference-104", "reference-106", "reference-108", "reference-151", "reference-154", "reference-155", "reference-156", "reference-158"],
+      "candidateFrames": []
+    },
+    {
+      "name": "broken-ice-spatial-aperture",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "断裂厚冰片组织成多层空间开口，连续推进时由分离弧段转向发光内缘并穿越中心，随后显露俯视平台；手机反向和减少动态序列仍能辨认开口边缘、深度及当前位置。",
+      "referenceFrames": ["reference-66", "reference-67", "reference-68", "reference-70", "reference-71", "reference-72", "reference-160", "reference-161", "reference-164", "reference-205", "reference-208", "reference-217"],
+      "candidateFrames": []
+    },
+    {
+      "name": "volumetric-work-contact-resolution",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "粒子企鹅保留前段内件的头身比例及轮廓，在平台光线中显示体积和表面密度；真实选择使其转为具有厚度的X并返回企鹅，手机及减少动态记录均显示对应联系与形态交接。",
+      "referenceFrames": ["reference-50", "reference-52", "reference-109", "reference-113", "reference-115", "reference-116", "reference-183", "reference-184", "reference-186", "reference-187", "reference-189", "reference-190"],
+      "candidateFrames": []
+    }
+  ],
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "冰构建筑具有明确入口、分块接缝和雪地接触，微小测量标签没有夺走主体；左右指针抬升不同冰块，离开后恢复完整建筑，空间与材料研究的开场作用成立。",
+      "frames": ["reference-49", "reference-97", "reference-98", "reference-99"]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "企鹅和标志分别被不同破口轮廓的厚冰包裹，内件与外冰具有前后关系；真实点击展开详情并经Close返回作品，Escape未关闭这一限制有记录，不影响主体观看交接。",
+      "frames": ["reference-50", "reference-65", "reference-104", "reference-106", "reference-107", "reference-108"]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "断开的厚冰弧段具有外侧霜面与发光内缘，尺度推进使视线穿越多层开口并落向平台；减少动态反向记录仍显示具体环段和观看位置，没有以空白遮罩代替空间。",
+      "frames": ["reference-51", "reference-66", "reference-67", "reference-70", "reference-72", "reference-139", "reference-141"]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "完整粒子企鹅悬浮于层叠平台，表面密度和阴影表达体积；右选转成厚实X，左选返回企鹅，有限联系选择与形态对应，停驻画面保持独立收束而非文字页脚。",
+      "frames": ["reference-52", "reference-109", "reference-113", "reference-115", "reference-116", "reference-142", "reference-146", "reference-147"]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "竖屏保留完整冰建筑、入口和足够雪地接触面，顶部身份文字与主体分离；真实横向触摸改变局部抬升，释放及减少动态序列仍维持同一建筑的可读状态。",
+      "frames": ["reference-53", "reference-191", "reference-192", "reference-193", "reference-194", "reference-195", "reference-198"]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机中企鹅冰壳与第二件标志冰壳保持完整辨识轮廓，标签围绕对象分布；短触摸实际打开详情并关闭返回，不需要桌面悬停才能获得作品内容和观看入口。",
+      "frames": ["reference-54", "reference-153", "reference-154", "reference-155", "reference-156", "reference-157", "reference-158"]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "竖屏穿越时外环部分出框，但内外冰面、分离断片与中心光源持续组织方向；前进到俯视平台、反向回环及减少动态停驻均可辨空间位置，并非仅有放大圆环局部。",
+      "frames": ["reference-55", "reference-160", "reference-161", "reference-163", "reference-164", "reference-165", "reference-172", "reference-205", "reference-218"]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "粒子企鹅在竖屏占据主要体积，平台和顶部光环建立空间边界；短触摸选择X及返回企鹅均有实图，减少动态下对应目标仍明确，联系控制没有遮住作品主要轮廓。",
+      "frames": ["reference-56", "reference-183", "reference-184", "reference-185", "reference-186", "reference-187", "reference-188", "reference-189", "reference-190"]
+    }
+  ],
+  "continuityChecks": [
+    {
+      "id": "featured-work-frozen-to-volume",
+      "viewport": "desktop",
+      "status": "preserved",
+      "finding": "冰壳内企鹅与末段粒子企鹅保持圆头、短肢、宽腹和头身比例，冰壳折射虽弱化细节，仍可对应主体身份；粒子切换返回后同一轮廓重新成立，超过仅有同色物体的连续性。",
+      "frames": ["reference-50", "reference-104", "reference-108", "reference-52", "reference-109", "reference-116"]
+    },
+    {
+      "id": "featured-work-frozen-to-volume",
+      "viewport": "mobile",
+      "status": "preserved",
+      "finding": "手机冻结企鹅的圆头与饱满腹部在末段粒子目标中继续可辨，短肢和整体比例保持一致；选择X后返回企鹅仍恢复相同作品身份，材质从透明冰包裹转为体积粒子有明确区分。",
+      "frames": ["reference-54", "reference-151", "reference-202", "reference-56", "reference-183", "reference-186", "reference-190"]
+    }
+  ],
+  "motion": [
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": ["reference-97", "reference-98", "reference-99", "reference-100", "reference-101", "reference-102", "reference-103", "reference-109", "reference-113", "reference-116", "reference-142", "reference-146", "reference-147"]
+    },
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": ["reference-191", "reference-192", "reference-193", "reference-194", "reference-195", "reference-196", "reference-197", "reference-198", "reference-183", "reference-184", "reference-186", "reference-187", "reference-189", "reference-190"]
+    },
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": ["reference-57", "reference-62", "reference-65", "reference-66", "reference-69", "reference-73", "reference-76", "reference-77", "reference-84", "reference-89", "reference-90", "reference-96", "reference-117", "reference-128", "reference-134", "reference-137", "reference-141"]
+    },
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": ["reference-148", "reference-151", "reference-154", "reference-159", "reference-161", "reference-164", "reference-168", "reference-172", "reference-173", "reference-178", "reference-182", "reference-199", "reference-202", "reference-206", "reference-210", "reference-213", "reference-216", "reference-218"]
+    }
+  ],
+  "nextAction": "admit",
+  "fixTasks": []
+}

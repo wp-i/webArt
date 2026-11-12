@@ -1,0 +1,61 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "characters": 363,
+      "paragraphs": [
+        35,
+        20,
+        14,
+        18,
+        17,
+        18,
+        20,
+        24,
+        0,
+        0
+      ],
+      "media": [
+        "http://127.0.0.1:4180/collection/001.webp",
+        "http://127.0.0.1:4180/collection/006.webp",
+        "http://127.0.0.1:4180/collection/007.webp",
+        "http://127.0.0.1:4180/collection/008.webp",
+        "http://127.0.0.1:4180/collection/009.webp",
+        "http://127.0.0.1:4180/collection/010.webp"
+      ],
+      "unconfiguredControls": 0,
+      "missingScenes": [],
+      "result": "passed-static-contract",
+      "failures": []
+    },
+    {
+      "width": 390,
+      "characters": 361,
+      "paragraphs": [
+        35,
+        20,
+        14,
+        18,
+        17,
+        18,
+        20,
+        24,
+        0,
+        0
+      ],
+      "media": [
+        "http://127.0.0.1:4180/collection/001-small.webp",
+        "http://127.0.0.1:4180/collection/006-small.webp",
+        "http://127.0.0.1:4180/collection/007-small.webp",
+        "http://127.0.0.1:4180/collection/008-small.webp",
+        "http://127.0.0.1:4180/collection/009-small.webp",
+        "http://127.0.0.1:4180/collection/010-small.webp"
+      ],
+      "unconfiguredControls": 0,
+      "missingScenes": [],
+      "result": "passed-static-contract",
+      "failures": []
+    }
+  ],
+  "result": "passed-static-contract"
+}

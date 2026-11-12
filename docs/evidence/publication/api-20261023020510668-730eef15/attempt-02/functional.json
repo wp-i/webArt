@@ -1,0 +1,362 @@
+{
+  "started": "2026-10-23T17:35:06.882Z",
+  "checks": {
+    "removedControlsAndLegacyParameters": true,
+    "returnRestores": {
+      "url": "/",
+      "scroll": 68
+    },
+    "keyboardAndDisclosure": true,
+    "touchViewports": [
+      {
+        "width": 390,
+        "trustedTouch": true,
+        "legacyParametersIgnored": true,
+        "preview": "006"
+      },
+      {
+        "width": 320,
+        "trustedTouch": true,
+        "legacyParametersIgnored": true,
+        "preview": "006"
+      }
+    ]
+  },
+  "previews": [
+    {
+      "id": "001",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            }
+          ],
+          "title": "The Weight of Light"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            }
+          ],
+          "title": "The Weight of Light"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "unloaded"
+            },
+            {
+              "family": "Manrope Variable",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "unloaded"
+            },
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            }
+          ],
+          "title": "The Weight of Light"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "006",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Manrope",
+              "status": "loaded"
+            }
+          ],
+          "title": "House of Ivory — Woven spaces"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Manrope",
+              "status": "loaded"
+            }
+          ],
+          "title": "House of Ivory — Woven spaces"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Instrument Serif",
+              "status": "loaded"
+            },
+            {
+              "family": "Manrope",
+              "status": "loaded"
+            }
+          ],
+          "title": "House of Ivory — Woven spaces"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "007",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Display",
+              "status": "loaded"
+            },
+            {
+              "family": "Editorial",
+              "status": "loaded"
+            }
+          ],
+          "title": "Campovivo — A day well spent"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Display",
+              "status": "loaded"
+            },
+            {
+              "family": "Editorial",
+              "status": "loaded"
+            }
+          ],
+          "title": "Campovivo — A day well spent"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Display",
+              "status": "loaded"
+            },
+            {
+              "family": "Editorial",
+              "status": "loaded"
+            }
+          ],
+          "title": "Campovivo — A day well spent"
+        }
+      ],
+      "mobileToolbar": "passed"
+    },
+    {
+      "id": "008",
+      "states": [
+        {
+          "device": "desktop",
+          "width": 1440,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Studio",
+              "status": "loaded"
+            }
+          ],
+          "title": "Sill. — Spaces to live in"
+        },
+        {
+          "device": "tablet",
+          "width": 768,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Studio",
+              "status": "loaded"
+            }
+          ],
+          "title": "Sill. — Spaces to live in"
+        },
+        {
+          "device": "mobile",
+          "width": 390,
+          "overflow": false,
+          "missing": 0,
+          "fonts": [
+            {
+              "family": "Studio",
+              "status": "loaded"
+            }
+          ],
+          "title": "Sill. — Spaces to live in"
+        }
+      ],
+      "mobileToolbar": "passed"
+    }
+  ],
+  "downloads": [],
+  "errors": [],
+  "currentPreview": {
+    "id": "008",
+    "device": "mobile",
+    "width": 390,
+    "overflow": false,
+    "missing": 0,
+    "fonts": [
+      {
+        "family": "Studio",
+        "status": "loaded"
+      }
+    ],
+    "title": "Sill. — Spaces to live in"
+  },
+  "result": "failed",
+  "failure": "Not ready: (()=>{const frame=document.querySelector('#preview-frame'),d=frame?.contentDocument,w=frame?.contentWindow;if(!d||document.querySelector('.preview-toolbar').hidden||!frame.getAttribute('src')||d.URL==='about:blank'||d.readyState!=='complete'||d.fonts.status!=='loaded'||![...d.images].every(i=>i.complete&&i.naturalWidth))return false;const cover=d.querySelector('.load-cover');return !cover||(!!d.querySelector('.page.is-ready')&&cover.getBoundingClientRect().bottom<=1&&Number(w.getComputedStyle(d.querySelector('.hero__copy')).opacity)>.98)})()",
+  "failureState": {
+    "url": "http://127.0.0.1:4180//preview.html?id=009",
+    "text": "←\n作品集\nNear & Far\n下载源码"
+  },
+  "finished": "2026-10-23T17:35:25.497Z"
+}

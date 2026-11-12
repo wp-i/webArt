@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-30T05:43:28.457Z",
+  "kind": "production-cli-entry-evidence-audit",
+  "result": "verified",
+  "auditor": {
+    "id": "current-conversation-subagent-qa-record",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "newModelCalls": 0,
+  "newReviewRequests": 0,
+  "tests": {
+    "command": "D:/node/node.exe --test scripts/*.test.mjs",
+    "commandSource": "chief-reported actual invocation; command text is not embedded in TAP",
+    "executionHandleReportedByChief": 86817,
+    "exitCodeReportedByChief": 0,
+    "sourceLog": {
+      "path": ".webart/test-suite-20261030.log",
+      "sha256": "0fa9e92bb42007931bd812e0af0c8da3983bdfaa7c67f9f1aac6a911ea340aa8"
+    },
+    "durableLog": {
+      "path": "docs/production/runs/cli-runtime-entry-20261030/verification/full-suite.txt",
+      "sha256": "0fa9e92bb42007931bd812e0af0c8da3983bdfaa7c67f9f1aac6a911ea340aa8"
+    },
+    "tests": 355,
+    "pass": 355,
+    "fail": 0,
+    "cancelled": 0,
+    "skipped": 0,
+    "todo": 0,
+    "duration_ms": 175163.5795,
+    "exactSourceFingerprintAtExecution": null,
+    "sourceManifestLimitation": "Current source SHA values below were measured after the reported completed run. The TAP output has no execution-time source manifest; these are audit-time snapshots, not a fabricated pre-run lock.",
+    "entryCoverage": [
+      "fresh production accepts an explicit verified local runtime without copying or prior calibration",
+      "fresh production uses a validated prior calibration only to select its runtime",
+      "production resume derives its runtime from the original validated calibration and queue",
+      "production resume cannot turn a missing or incomplete calibration into a new CLI invocation",
+      "runtime hints are CLI-only, mutually exclusive and cannot override a resume"
+    ]
+  },
+  "codeSnapshot": {
+    "timing": "audit-time after the completed 355-test run",
+    "stableAcrossReadOnlySelectionCheck": true,
+    "files": [
+      {
+        "path": "scripts/production-run.mjs",
+        "sha256": "afdf5c1d962dab3c1353b0d23f331064966bdfeac3be50d520fb164f772559bb"
+      },
+      {
+        "path": "scripts/production/cli-runtime.mjs",
+        "sha256": "5a0b02f9b32f08f5d64e7b670aa918fb8e9a68f04ff87dd77d400a569861adde"
+      },
+      {
+        "path": "scripts/production/cached-cli-review.mjs",
+        "sha256": "c6cea6a9e23dad03690aea428f927ca2cbf23d9b65b238c21975bc799021e8f6"
+      },
+      {
+        "path": "scripts/production/cli-review.mjs",
+        "sha256": "93b4c9b03feb5e90911d7b625a15b8bbe32c49ee50b654b7e623c2ed5c24bc79"
+      },
+      {
+        "path": "scripts/production/cli-review-receipt.mjs",
+        "sha256": "e362e54680143d0fcc0098882feb6d5ce15197bca8aff98c777eab1b960cab55"
+      },
+      {
+        "path": "scripts/production/runner.mjs",
+        "sha256": "e91d45cb097bd1efe1b3eb61278c3b5895853f93693a2c2f31d0feb2afdeec16"
+      },
+      {
+        "path": "scripts/prototype-run.mjs",
+        "sha256": "08f746fb44668b30bb1c2026faf15f692d38ce1641fe128d2615423525ce84d8"
+      },
+      {
+        "path": "scripts/quality-gate.mjs",
+        "sha256": "3ee053d798c0afa6fcf79505d538c9a644a444a4dc9de4554ebd080a8daf9ad2"
+      },
+      {
+        "path": "scripts/cli-runtime.test.mjs",
+        "sha256": "3d20270d2a4c3a89378ee84cb286ef3760d545430d2fed56f3ca10f74067bb17"
+      },
+      {
+        "path": "scripts/cli-workflow-entry.test.mjs",
+        "sha256": "33ad9847d100011d5002470ddb578a5220d0d4f57a8739ade7c2fee099deafda"
+      }
+    ]
+  },
+  "actualReadOnlySelection": {
+    "mode": "cli",
+    "source": "--runtime-calibration",
+    "calibration": {
+      "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+      "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+    },
+    "originalCalibrationReceipt": {
+      "path": "docs/production/runs/cli-calibration-20261029/cli-review/01-calibration-cef4dd63e4/consumed/receipt.json",
+      "sha256": "6860ef92fa8aa5bb33fcd81ee434fc2d09d7d59c603181bd9c67ba2ac49b4b7a"
+    },
+    "originalRequest": {
+      "path": "docs/production/runs/cli-calibration-20261029/cli-review/01-calibration-cef4dd63e4/request.json",
+      "sha256": "9022579356ab4e2a8411f5048d270b2ee8ba4cb71ad6699823de1d0e99906df5"
+    },
+    "calibrationUnchanged": true,
+    "queuePath": "docs/production/runs/cli-202610300601/cli-review",
+    "queueExistedBefore": false,
+    "queueExistsAfter": false,
+    "selectedExecutable": ".webart/review-runtime/0c09e45bc76433756eb2d492f6db0ce6f269967e6618f4a6ae73e2fa239694b8/codex.exe",
+    "selectedExecutableSha256": "0c09e45bc76433756eb2d492f6db0ce6f269967e6618f4a6ae73e2fa239694b8",
+    "selectedCliVersion": "codex-cli 0.165.0-alpha.1.2",
+    "selectedOriginalExecutableExactly": true,
+    "requests": 0,
+    "reuseCount": 0,
+    "callbacks": {
+      "progress": 0,
+      "usage": 0,
+      "reuse": 0
+    },
+    "modelRequestLaunched": false,
+    "versionProbeExecuted": true,
+    "limitations": "Only the runtime/client selection was exercised. ProductionRun.execute(), calibration and review json() were never invoked."
+  },
+  "actualInitialNoHintSelection": {
+    "mode": "cli",
+    "executable": "codex",
+    "requests": 0,
+    "queuePath": "docs/production/runs/cli-202610300602/cli-review",
+    "queueCreated": false,
+    "priorCalibrationOrVersionProbeRequired": false
+  },
+  "actualOptionGuards": {
+    "checked": 4,
+    "rejected": 4,
+    "cases": [
+      "runtime hint with session mode",
+      "both runtime hints together",
+      "runtime calibration override during resume",
+      "executable override during resume"
+    ]
+  },
+  "runtimeBoundary": {
+    "freshExplicitExecutable": "inspect explicit absolute local executable read-only; no automatic pin/copy",
+    "freshPriorCalibration": "fully validate original CLI calibration and select its exact recorded executable; fresh ProductionRun still calibrates itself",
+    "freshNoHint": "existing default codex selection remains, including PATH-based discovery when a review is later actually launched",
+    "resume": "completed original calibration only; run ID, model selection, actual receipt request and original review directory must match; no latest-calibration lookup or PATH fallback",
+    "incompleteCalibrationResume": "stops before selecting runtime or launching review; no automatic recovery of an unfinished initial CLI calibration",
+    "realInterruptedProductionRunResumedByThisAudit": false
+  },
+  "previousVerification": {
+    "record": {
+      "path": "docs/production/runs/cli-calibration-20261029/verification/validation.json",
+      "sha256": "5f958f34ab8e8cfdfc227582451bd12b1dc18de8e6045912fb176e777a7e37ce"
+    },
+    "tests": 350,
+    "meaning": "Previous 350-test output is preserved unchanged and does not cover these later entry changes. This new 355-test output is the separately reported post-change complete suite."
+  },
+  "boundaries": [
+    "No fresh real model assessment, production execution, candidate generation, package or homepage update was performed by this audit.",
+    "Controlled resume tests prove the specified engineering guards; this audit does not claim a real interrupted production run was resumed.",
+    "CLI runtime selection does not grant a visual decision or change actual model/backend independence.",
+    "007/008 design qualification remains outside this entry verification."
+  ]
+}

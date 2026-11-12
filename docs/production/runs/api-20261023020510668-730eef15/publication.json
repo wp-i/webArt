@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261023020510668-730eef15",
+  "execution": "current-conversation-evidence-review",
+  "sourceRun": "docs/production/runs/api-20261023020510668-730eef15/run.json",
+  "started": "2026-10-23T17:29:37.482Z",
+  "items": [
+    {
+      "id": "009",
+      "rendererId": "near-and-far-editorial-v1",
+      "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+      "archiveSha256": "f374433f4392eaef7acd6a063977de853eba1a9d2f452581ae281fb071adcf0d",
+      "items": 6,
+      "newArchives": 0,
+      "comparisonSourceChanged": false
+    }
+  ],
+  "result": "failed-rolled-back",
+  "attempt": 1,
+  "failure": "当前阶段超时，没有记为通过",
+  "finished": "2026-10-23T17:31:41.380Z"
+}

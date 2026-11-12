@@ -1,0 +1,941 @@
+{
+  "result": "captured-not-visually-approved",
+  "viewports": [
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "controls": [
+        {
+          "selector": "[data-webart-audit=\"0\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Skip to spaces",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-0-default.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-0-hover.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-0-focus.jpg",
+              "sha256": "c85dc621d002b1405f7a150d915dc340f85dad41a1b80e0db74dfce0ea8c4445"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-0-navigated.jpg",
+              "sha256": "f4c0d802bc1917bbe50f139dc25539b2aba4d773890547a538ee31af17037a17"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"1\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "House of Ivory, back to beginning",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-1-default.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-1-hover.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-1-focus.jpg",
+              "sha256": "b12b73ef432d61a3daae836a35e0646513da873611a89d2afb54c69afa4316dc"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-1-navigated.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"2\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Spaces",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-2-default.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-2-hover.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-2-focus.jpg",
+              "sha256": "7fb90dd3a2fb3613896aa84e0a12a166f41c493398a6c1a98d9b07b1e6321a6b"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-2-navigated.jpg",
+              "sha256": "9233a9b128f7dc5fb4bee74397a52e761e0f38833ad0608d72b6f4b44de34718"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"3\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "Materials",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-3-default.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-3-hover.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-3-focus.jpg",
+              "sha256": "8ec2022928e5b29556d3c65400bab102d64138e44f0510efd6f75b4505af8e0f"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-3-navigated.jpg",
+              "sha256": "655d8f9b7e8c6beabebbfa54d864f1fcfa79ed5c4a3994664783c0b712726a52"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"4\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-ending",
+          "label": "Contact ↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-4-default.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-4-hover.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-4-focus.jpg",
+              "sha256": "d7ae21bfc0e744adc22ea5a2b6bb53b268d30c45db01aeef65b1e494c72bef78"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-4-navigated.jpg",
+              "sha256": "c485488bb27e6d00f1df67fdba0481e31da6b8702763d053869124bed0f18e27"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"5\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Explore our world\n↓",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-5-default.jpg",
+              "sha256": "9d9e57e6431434043475cd7fcaa673147d2fa09437e4a2e0208f1d71eeb1487d"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-5-hover.jpg",
+              "sha256": "9d9e57e6431434043475cd7fcaa673147d2fa09437e4a2e0208f1d71eeb1487d"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-5-focus.jpg",
+              "sha256": "32828578aa35da27fc737dd4e72f25892b507c4a4a5f005efd38b722f47f9cf3"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-5-navigated.jpg",
+              "sha256": "9233a9b128f7dc5fb4bee74397a52e761e0f38833ad0608d72b6f4b44de34718"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"6\"]",
+          "tag": "BUTTON",
+          "type": "button",
+          "href": null,
+          "label": "01\nCloth & shadow\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-6-default.jpg",
+              "sha256": "0f03f7246f6deb2c04c4bfd99a1e64b7622cf692f4841c1e727929829227d9e6"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-6-hover.jpg",
+              "sha256": "0f03f7246f6deb2c04c4bfd99a1e64b7622cf692f4841c1e727929829227d9e6"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-6-focus.jpg",
+              "sha256": "56e4ce30707d02c6c87135837971718dfb0465b8f00d1a72e827e83f336cf994"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-6-activated.jpg",
+              "sha256": "56e4ce30707d02c6c87135837971718dfb0465b8f00d1a72e827e83f336cf994"
+            },
+            {
+              "state": "mouse-result",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-6-physical.jpg",
+              "sha256": "fa4808aad6d0eedca1eab617c615c29ef739bd4abe7626b94ae1501b75064316"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"7\"]",
+          "tag": "BUTTON",
+          "type": "button",
+          "href": null,
+          "label": "02\nAt the atelier\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-7-default.jpg",
+              "sha256": "b1c5d8347753a3d0346761d6d46c9f9862e918253924afeea74f3bc9e649aaa3"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-7-hover.jpg",
+              "sha256": "6ee0c7d252afc8514b27b1411e77d1e40f402d5346cf2ed02cecbac66131b7fd"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-7-focus.jpg",
+              "sha256": "6c534bc383c4bd8088095f14a36b57d13de298d604b19caf6d992544037331aa"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-7-activated.jpg",
+              "sha256": "fc16cd6ab12c04ede2f10cbcfe20405509058962bef8577907a52fa8d76f3199"
+            },
+            {
+              "state": "mouse-result",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-7-physical.jpg",
+              "sha256": "4e4e1041f274d34ddae7b8a8569ad4e3838c77b4185488cfab09b15d72333b05"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"8\"]",
+          "tag": "A",
+          "type": "",
+          "href": "mailto:hello@houseofivory.example",
+          "label": "Say hello\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-8-default.jpg",
+              "sha256": "c485488bb27e6d00f1df67fdba0481e31da6b8702763d053869124bed0f18e27"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-8-hover.jpg",
+              "sha256": "c485488bb27e6d00f1df67fdba0481e31da6b8702763d053869124bed0f18e27"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-8-focus.jpg",
+              "sha256": "8f4ff1b74a43a617eeb831d0d2862e2fba2a0676bc5bedaf2dcc5c630ce3adc2"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"9\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Back to the beginning ↑",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-9-default.jpg",
+              "sha256": "c485488bb27e6d00f1df67fdba0481e31da6b8702763d053869124bed0f18e27"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-9-hover.jpg",
+              "sha256": "c485488bb27e6d00f1df67fdba0481e31da6b8702763d053869124bed0f18e27"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-9-focus.jpg",
+              "sha256": "84893c11bb03cadcbf3abd7282f27f37d6f220df46c601eeefdf583be003f163"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/desktop-9-navigated.jpg",
+              "sha256": "ece74d187a91d498f9dd18dce19ac4fe7a3fb1e6f4932727beb6d9c8fa8508f8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "controls": [
+        {
+          "selector": "[data-webart-audit=\"0\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Skip to spaces",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-0-default.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-0-hover.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-0-focus.jpg",
+              "sha256": "25500073ab39d7d5a1bc2db7e3618677b48e5432fdc09c2cf933ec5f900e5d4b"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-0-navigated.jpg",
+              "sha256": "73c6e03b2ae2668cdcad5f04e733cf6f060fdf8c389b6eedbbe7efbeb8eed5a7"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"1\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "House of Ivory, back to beginning",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-1-default.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-1-hover.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-1-focus.jpg",
+              "sha256": "8e8a13df2467958368828dbf30ea4ca48f8ff244db833551ba0e4c0ac9d58258"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-1-navigated.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"2\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Spaces",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-2-default.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-2-hover.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-2-focus.jpg",
+              "sha256": "5b861f47a34d1e380dad3fa3743dd86756a1906450bb6046880044dcdb0261e8"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-2-navigated.jpg",
+              "sha256": "67d674b281207c0869fc0927d6dafc9322d92ecb080c82783acb5d4f3fdcc2b5"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"3\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "Materials",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-3-default.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-3-hover.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-3-focus.jpg",
+              "sha256": "173613e9e14cfe9b3e3eae4d7b2f5660b4bdf7e17f9869888974c89181ac69f3"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-3-navigated.jpg",
+              "sha256": "81473a0b4fbce50fb0d11092818faafb685abd14ee6fbd995d4bda4ba09a8e65"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"4\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-ending",
+          "label": "Contact ↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-4-default.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-4-hover.jpg",
+              "sha256": "1f709e12f1350d594f16694ae07e5df41c1cfa42f899c772df549a50033a63a7"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-4-focus.jpg",
+              "sha256": "734302852e8e8eb0decc59bc3705011f4682629d6a699b1097ddbf48c6c118f4"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-4-navigated.jpg",
+              "sha256": "87db71bcf06b9e260cacc51bf3ced28d1f666d45095aa7e28487a317d539d472"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"5\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Explore our world\n↓",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-5-default.jpg",
+              "sha256": "4f3160d7230e833581711e2fc2838ba777af7352144cfe3de6da80877ee5ec8a"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-5-hover.jpg",
+              "sha256": "4f3160d7230e833581711e2fc2838ba777af7352144cfe3de6da80877ee5ec8a"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-5-focus.jpg",
+              "sha256": "6c276eb9b18678c5031b813e61c8247b1cb09018ce6e6e74f6139c38e125b6c2"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-5-navigated.jpg",
+              "sha256": "456f2eac72d690095fabadaa63bd377645cdd0f3bd0c651b1c3c054dedc1fa5a"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"6\"]",
+          "tag": "BUTTON",
+          "type": "button",
+          "href": null,
+          "label": "01\nCloth & shadow\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-6-default.jpg",
+              "sha256": "a4cb6ecae7b4256853ff962a2cc7c98ee14bcfbe4fb5c39d553c0d30ec59efc6"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-6-hover.jpg",
+              "sha256": "a4cb6ecae7b4256853ff962a2cc7c98ee14bcfbe4fb5c39d553c0d30ec59efc6"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-6-focus.jpg",
+              "sha256": "78c92fe8675337811a241c9700d0ef7398b60931e1d4f756f4d4ebe28f2f9bd4"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-6-activated.jpg",
+              "sha256": "edc92ad626a8c31af8fcce710990ae004f24201dc5b3cbe48dc95470042fc0c4"
+            },
+            {
+              "state": "touch-result",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-6-physical.jpg",
+              "sha256": "a4b13a93700dcc43e5d5ced721abd4e8c0e1f8ac0a12862d85f20f643eb67f46"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"7\"]",
+          "tag": "BUTTON",
+          "type": "button",
+          "href": null,
+          "label": "02\nAt the atelier\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-7-default.jpg",
+              "sha256": "a4cb6ecae7b4256853ff962a2cc7c98ee14bcfbe4fb5c39d553c0d30ec59efc6"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-7-hover.jpg",
+              "sha256": "88b59094349d04cf2208e58cd45d6df9f448311c263d0d974a48af334bc2ac85"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-7-focus.jpg",
+              "sha256": "5a69f423cf31b45d23b38230684bcc2b8c20770704775a2f3d5d9f0b8d61f06d"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-7-activated.jpg",
+              "sha256": "452967fecb6d80a813e6170ac7a68d2b5cca60012d51a088e9c5440430358ef0"
+            },
+            {
+              "state": "touch-result",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-7-physical.jpg",
+              "sha256": "60ef62af5cc47be10fd51b21f2d95a4ab1f59c2dcfc4ea664e75272637d6f4bb"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"8\"]",
+          "tag": "A",
+          "type": "",
+          "href": "mailto:hello@houseofivory.example",
+          "label": "Say hello\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-8-default.jpg",
+              "sha256": "87db71bcf06b9e260cacc51bf3ced28d1f666d45095aa7e28487a317d539d472"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-8-hover.jpg",
+              "sha256": "87db71bcf06b9e260cacc51bf3ced28d1f666d45095aa7e28487a317d539d472"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-8-focus.jpg",
+              "sha256": "e414c86fb71b77a7233c8b31a78a8b2036782cc5502c19ecb4ba32ef7975c686"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"9\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Back to the beginning ↑",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-9-default.jpg",
+              "sha256": "87db71bcf06b9e260cacc51bf3ced28d1f666d45095aa7e28487a317d539d472"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-9-hover.jpg",
+              "sha256": "87db71bcf06b9e260cacc51bf3ced28d1f666d45095aa7e28487a317d539d472"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-9-focus.jpg",
+              "sha256": "c538122b6a42fd6457d68b05b1e20086af9ba15e266968fc566e47734cf7f947"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/mobile-9-navigated.jpg",
+              "sha256": "abb79f8a6f9a802e7f03de7ffc639179357526dbd5e227b75507cf2b0fa987b8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "controls": [
+        {
+          "selector": "[data-webart-audit=\"0\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Skip to spaces",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-0-default.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-0-hover.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-0-focus.jpg",
+              "sha256": "2009babbd5a25dafe069e88ef2501a5cca29177f2c80a5873e3af10384c7446a"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-0-navigated.jpg",
+              "sha256": "71ef06f682b3ea1ae6723cab8f3eed819627b401421a99897010baaabbd36021"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"1\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "House of Ivory, back to beginning",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-1-default.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-1-hover.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-1-focus.jpg",
+              "sha256": "8204d8fdb7dd8c933144b55b0ed4efd81f8f9b05fe3a44ad142a00680704a171"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-1-navigated.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"2\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Spaces",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-2-default.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-2-hover.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-2-focus.jpg",
+              "sha256": "d526cbd29d324ef3f49514226badb1c3d26fc9da6eb16d51457d128556d7eb2e"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-2-navigated.jpg",
+              "sha256": "71ef06f682b3ea1ae6723cab8f3eed819627b401421a99897010baaabbd36021"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"3\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-middle",
+          "label": "Materials",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-3-default.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-3-hover.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-3-focus.jpg",
+              "sha256": "d264b44acd39e978846644178d79930c7540d4ff41160c5f0ae3a13b873f0f4d"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-3-navigated.jpg",
+              "sha256": "9287ab7c2762ee29c315ec45d2492a453ba68612ef81120b96d2c1899e5d25c5"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"4\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-ending",
+          "label": "Contact ↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-4-default.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-4-hover.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-4-focus.jpg",
+              "sha256": "44edee72a16b2cc343a9687b0014ef2bc27aecc4eb5b86334dc83067ba1e7aed"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-4-navigated.jpg",
+              "sha256": "5fab63f4b2899f48adf2b9f4f33927c3dc405af42fb2d7adb3a69759a776710f"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"5\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-transition",
+          "label": "Explore our world\n↓",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-5-default.jpg",
+              "sha256": "0ccf230ed528aef9025492682408b7a325e14a42e98850bda8d6d31d95cd909e"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-5-hover.jpg",
+              "sha256": "0ccf230ed528aef9025492682408b7a325e14a42e98850bda8d6d31d95cd909e"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-5-focus.jpg",
+              "sha256": "8aa3cbb0dfd1d29efac5fa0720acfcb83cf4312ef02a3719ab175bc05cd3401e"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-5-navigated.jpg",
+              "sha256": "2438966ae3d0f14114437584ca98091ce695cda39c52e857bdf8ca650a4e03e3"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"6\"]",
+          "tag": "BUTTON",
+          "type": "button",
+          "href": null,
+          "label": "01\nCloth & shadow\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-6-default.jpg",
+              "sha256": "863ad2c95d69dfa31bc81ac74085a2e04d02369081017d1944dad54bc6581161"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-6-hover.jpg",
+              "sha256": "863ad2c95d69dfa31bc81ac74085a2e04d02369081017d1944dad54bc6581161"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-6-focus.jpg",
+              "sha256": "7550df06394c26793924557b2cd4bd7f3d0085021f7460d4acbff265e1a8386b"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-6-activated.jpg",
+              "sha256": "c6a178b1cabdba89855929de8f6342fdab82e6ef645f3ca4950b3fb8e413d7bd"
+            },
+            {
+              "state": "touch-result",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-6-physical.jpg",
+              "sha256": "a39d55acb0bdd80d2e42ee563a81c5a9ae365e4f1334b99841b4ca03861e891f"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"7\"]",
+          "tag": "BUTTON",
+          "type": "button",
+          "href": null,
+          "label": "02\nAt the atelier\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-7-default.jpg",
+              "sha256": "863ad2c95d69dfa31bc81ac74085a2e04d02369081017d1944dad54bc6581161"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-7-hover.jpg",
+              "sha256": "8ab2f3533605347680458e3bf30709466ee42ed993fc8abce0d52db2d5c90619"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-7-focus.jpg",
+              "sha256": "abd1e2e855e4d71053a6124f9eebacd935ad0db2f185ca3f9a901b96ace6d39e"
+            },
+            {
+              "state": "activated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-7-activated.jpg",
+              "sha256": "c1ab40d4c63fa254fab90267ca5a8ae8c3536694883d42061bce0bf8bccf5a97"
+            },
+            {
+              "state": "touch-result",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-7-physical.jpg",
+              "sha256": "12aef2aa76693203218fa9535ca73384c0c602fd27e38bc71d81feb9d947ba1f"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"8\"]",
+          "tag": "A",
+          "type": "",
+          "href": "mailto:hello@houseofivory.example",
+          "label": "Say hello\n↗",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-8-default.jpg",
+              "sha256": "5fab63f4b2899f48adf2b9f4f33927c3dc405af42fb2d7adb3a69759a776710f"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-8-hover.jpg",
+              "sha256": "5fab63f4b2899f48adf2b9f4f33927c3dc405af42fb2d7adb3a69759a776710f"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-8-focus.jpg",
+              "sha256": "39c2799c3eff5914c402bd7f78141ece3188a4dda5b848fcdba463ba453ce838"
+            }
+          ]
+        },
+        {
+          "selector": "[data-webart-audit=\"9\"]",
+          "tag": "A",
+          "type": "",
+          "href": "#scene-opening",
+          "label": "Back to the beginning ↑",
+          "focused": true,
+          "evidence": [
+            {
+              "state": "default",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-9-default.jpg",
+              "sha256": "5fab63f4b2899f48adf2b9f4f33927c3dc405af42fb2d7adb3a69759a776710f"
+            },
+            {
+              "state": "hover",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-9-hover.jpg",
+              "sha256": "5fab63f4b2899f48adf2b9f4f33927c3dc405af42fb2d7adb3a69759a776710f"
+            },
+            {
+              "state": "focus",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-9-focus.jpg",
+              "sha256": "1be20001049450b59f75c6e5819137e45dc183113203c07f9500d694121b4bd6"
+            },
+            {
+              "state": "navigated",
+              "path": "docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/narrow-9-navigated.jpg",
+              "sha256": "0e4df766ea7a383f708f98ba708ca0bd2c4717cc0b09554b0bfbc66258e4b9a2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "started": "2026-10-20T12:23:00.035Z",
+  "finished": "2026-10-20T12:25:24.934Z",
+  "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d"
+}

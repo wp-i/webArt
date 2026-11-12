@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-21T10:41:13.411Z",
+  "url": "http://127.0.0.1:12253/",
+  "sourceSha256": "885dafe7d82304a0ae422a98053312c60ad28acb6de9e7d7be291e83dc89a280",
+  "states": [],
+  "motion": [],
+  "errors": [],
+  "result": "failed",
+  "visualContractSha256": "a14c27d6f4aa6cb602c2674fdaf14f7bdeedb96f0023392d2433d326cebe8c48",
+  "failure": "Final visible media/fonts were not ready",
+  "finished": "2026-10-21T10:41:26.577Z"
+}

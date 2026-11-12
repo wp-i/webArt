@@ -1,0 +1,204 @@
+{
+  "purpose": "Official Dopo material-object actual normal path; no quality admission",
+  "url": "https://mydopo.com/",
+  "status": "captured-bounded-path-not-admitted",
+  "viewports": [
+    {
+      "name": "desktop",
+      "frames": [
+        {
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/desktop-opening.jpg",
+          "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+        },
+        {
+          "state": "forward-1",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/desktop-forward-1.jpg",
+          "sha256": "ca3b47c99b5238576a90bdbc4cd3079c060e9de852b34aa6c79736defe5b8201"
+        },
+        {
+          "state": "forward-2",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/desktop-forward-2.jpg",
+          "sha256": "c673bb4bab584bed5b69291b7b8db8af75b326045ff80ad93b1557efac763527"
+        },
+        {
+          "state": "forward-3",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/desktop-forward-3.jpg",
+          "sha256": "fc31041984bb4ac413ac48b7830e9307f2a5095a24590e26d760accbac5617de"
+        },
+        {
+          "state": "forward-4",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/desktop-forward-4.jpg",
+          "sha256": "135c4867052d5af2d0085814e038f6d4cd014c6c17a3fe2748b6acf611d17148"
+        },
+        {
+          "state": "forward-5",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/desktop-forward-5.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        },
+        {
+          "state": "ending-stopped",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/desktop-ending-stopped.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        }
+      ],
+      "actions": [
+        {
+          "input": "native-wheel",
+          "y": 900,
+          "max": 3717,
+          "height": 4617,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 1800,
+          "max": 3717,
+          "height": 4617,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 2700,
+          "max": 3717,
+          "height": 4617,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 3600,
+          "max": 3717,
+          "height": 4617,
+          "heads": []
+        },
+        {
+          "input": "native-wheel",
+          "y": 3732,
+          "max": 3717,
+          "height": 4617,
+          "heads": []
+        }
+      ],
+      "initial": {
+        "y": 0,
+        "max": 3717,
+        "height": 4617,
+        "heads": [],
+        "title": "Dopo"
+      },
+      "end": {
+        "y": 3732,
+        "max": 3717,
+        "height": 4617,
+        "heads": [],
+        "text": "Large\nPower\nbank\n30000 mAh\nCharges iPhone up to 12X\ninput\nInput micro usb or type c\nDC5V/9V/12V (Max: 18W) QC3.0 (Micro)\nPD+QC3.0 (Type-C)\noutput\nOutput usb\nOutput (USB1) : 5V/3A\nOutput (USB2) : QC3.0\nwidth\n76.9 mm\nThickness\n19.8 mm\nHeight\n164.7 mm\nWeight\n129 grams\nAluminium Alloy\nMetal Shell Surface\n\nPD & QC3.0\nComes\nWith\nA\nprotective\nsleeve\nPowerbank\nPD & QC3.0\n\nCapacity\n30 000mAh\nOutput\n2x USB\nInput\nMini USB, Type-C\nColor options\nQuantity\n1\nSold out\nFind alternative places to buy\n49.99$\n32.99$\nc 2024, Made by Karolin Braun"
+      },
+      "reachedEnd": true
+    },
+    {
+      "name": "mobile",
+      "frames": [
+        {
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/mobile-opening.jpg",
+          "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+        },
+        {
+          "state": "forward-1",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/mobile-forward-1.jpg",
+          "sha256": "9550bc20cba23ea3dbf2330421a43907aa1634900cb85a66adec4835732a3507"
+        },
+        {
+          "state": "forward-2",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/mobile-forward-2.jpg",
+          "sha256": "9b3f041a4632504f647eeb25bcb07c951dc95364bf954bd585ee29fe0d49d425"
+        },
+        {
+          "state": "forward-3",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/mobile-forward-3.jpg",
+          "sha256": "a5a84b5abede52bfe6317edcdb2e9f549f27d69b246ac31015ac8db1b1545fed"
+        },
+        {
+          "state": "forward-4",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/mobile-forward-4.jpg",
+          "sha256": "9ed57b09d253cad2c15a5eafa94e3313cbb1a6bbebb3a71f06be9b0b9ae6b554"
+        },
+        {
+          "state": "forward-5",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/mobile-forward-5.jpg",
+          "sha256": "9795006fd15b9a84e247b26c9aa9d48c9f18ec3e2d8304592a8d869a65b79ea8"
+        },
+        {
+          "state": "forward-6",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/mobile-forward-6.jpg",
+          "sha256": "ef4c400c379ae052ca8529a717b88d0acf54ad28a1a1deb867b5ac0d94ede152"
+        },
+        {
+          "state": "ending-stopped",
+          "path": "docs/evidence/redo-v2/2026-10-25/dopo-finite-native-01/mobile-ending-stopped.jpg",
+          "sha256": "ef4c400c379ae052ca8529a717b88d0acf54ad28a1a1deb867b5ac0d94ede152"
+        }
+      ],
+      "actions": [
+        {
+          "input": "trusted-finger",
+          "y": 844,
+          "max": 4334,
+          "height": 5178,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 1688,
+          "max": 4334,
+          "height": 5178,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 2532,
+          "max": 4334,
+          "height": 5178,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 3376,
+          "max": 4334,
+          "height": 5178,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 4220,
+          "max": 4334,
+          "height": 5178,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 4334,
+          "max": 4334,
+          "height": 5178,
+          "heads": []
+        }
+      ],
+      "initial": {
+        "y": 0,
+        "max": 4334,
+        "height": 5178,
+        "heads": [],
+        "title": "Dopo"
+      },
+      "end": {
+        "y": 4334,
+        "max": 4334,
+        "height": 5178,
+        "heads": [],
+        "text": "Large\nPower\nbank\n30000 mAh\nCharges iPhone up to 12X\ninput\nInput micro usb or type c\nDC5V/9V/12V (Max: 18W) QC3.0 (Micro)\nPD+QC3.0 (Type-C)\nOutput\nOutput usb\nOutput (USB1) : 5V/3A\nOutput (USB2) : QC3.0\n\nwidth\n76.9 mm\nThickness\n19.8 mm\nHeight\n164.7 mm\nWeight\n129 grams\nAluminium Alloy\nMetal Shell Surface\n\nPD & QC3.0\nComes\nWith\nA\nsleeve\nCapacity\n30 000mAh\nOutput\n2x USB\nInput\nMini USB, Type-C\nColor options\nQuantity\n1\nSold out\nFind alternative places to buy\n49.99$\n32.99$\nc 2024, Made by Karolin Braun"
+      },
+      "reachedEnd": true
+    }
+  ],
+  "updatedAt": "2026-10-25T14:39:23.251Z"
+}

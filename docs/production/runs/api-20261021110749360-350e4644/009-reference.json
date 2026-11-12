@@ -1,0 +1,1154 @@
+{
+  "schemaVersion": 2,
+  "phase": "reference",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "sourceSha256": null,
+  "reviewer": {
+    "id": "current-conversation:2026-10-19-four-redesigns",
+    "implementationContextIncluded": false,
+    "mode": "evidence-only-current-conversation",
+    "kind": "current-conversation",
+    "independent": false,
+    "contextIsolated": false,
+    "inputScope": "benchmark+negative+reference",
+    "calibrationRunId": "2026-10-19-four-redesigns"
+  },
+  "decision": "admit",
+  "vetoes": [],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/",
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/",
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-transition/contact-sheet.jpg",
+          "sha256": "74083a96f9f51d8c9a4c08ab7cb7c15b9ca98f757d0ed4ef8a047c4d656acb05"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/beauty/soft-elegance/gallery",
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/about",
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending/contact-sheet.jpg",
+          "sha256": "3b8847a4a52cd6f2cfc6113c3d3eb7f1a4c477b33b57265fe6c0c747843f3dfc"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/",
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/",
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-transition/contact-sheet.jpg",
+          "sha256": "1ec7982706adf96141373c7e0d564f42d7bc8a3ba35584dbfcc9adc43511feed"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/beauty/soft-elegance/gallery",
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-middle/contact-sheet.jpg",
+          "sha256": "49224ee97d1e98db7ae064b7fcdb96115ee3899f53c4a5b16f1d9b2c08e40a8a"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "sourceRoute": "/about",
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-ending/contact-sheet.jpg",
+          "sha256": "b31fda6b81cba5150115ac93fbffc96f548c5cd6e6debec8324f94cedc4ed789"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "基准用层叠材料与窄字形建立身份；此处以不同幅面的具体人像、大衬线分类字和纸色间距形成完整摄影空间，默认即有可辨的作品主体及观看层次。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-4"
+      ],
+      "candidateFrames": [
+        "reference-28",
+        "reference-32"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "细衬线分类字与发型、肤质和肖像裁切形成编辑式关系，索引和观看工具保持小尺度。手机用完整作品名承接大字的有意遮叠，照片细节和图字主次均清楚。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-28",
+        "reference-29",
+        "reference-30",
+        "reference-34"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-transition/contact-sheet.jpg",
+          "sha256": "74083a96f9f51d8c9a4c08ab7cb7c15b9ca98f757d0ed4ef8a047c4d656acb05"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-middle/contact-sheet.jpg",
+          "sha256": "49224ee97d1e98db7ae064b7fcdb96115ee3899f53c4a5b16f1d9b2c08e40a8a"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "发型轮廓、金属感造型、眼妆和肤质各有具体摄影细节，橙蓝绿肖像又以同一人物的不同姿态与相机形成身份；素材承担内容及光线语言，具有对象特异性。",
+      "benchmarkFrames": [
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-28",
+        "reference-30",
+        "reference-54",
+        "reference-55",
+        "reference-56"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-start/contact-sheet.jpg",
+          "sha256": "ae16cf220ff5d350cefc7692d9b15cb5dad0ba67a2ecc1aadbedd54ee6995f98"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-5/contact-sheet.jpg",
+          "sha256": "607dbaf351f73462c382aadf5e224bea33ca3203432506b5929bc419ac6a6fc3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-11/contact-sheet.jpg",
+          "sha256": "9b13ce5489150318cd0967e6c0aa3b5ba9b5e484ce79ce78a9fb9625e08af945"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "实际正反过程推进错位摄影在分类字前后的观看关系，再由作品细看转向摄影者的彩色肖像。手机原始触摸确实推进内容并可反向返回，颜色与姿态变化服务于摄影主题。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-1",
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "reference-44",
+        "reference-46",
+        "reference-48",
+        "reference-54",
+        "reference-55",
+        "reference-56",
+        "reference-57",
+        "reference-59",
+        "reference-60",
+        "reference-62",
+        "reference-64",
+        "reference-74"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.33-2.png",
+          "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-forward-1/contact-sheet.jpg",
+          "sha256": "8e2cf6d1dbece2a7a6ef98bcac3a361f53623cb8c27163c9ea951fedd9efd72c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-reverse-1/contact-sheet.jpg",
+          "sha256": "1f656f7558e37c1c7cbee00c1b38389f631e90e6309e8e8f83308b7262f0b7a3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-start/contact-sheet.jpg",
+          "sha256": "ae16cf220ff5d350cefc7692d9b15cb5dad0ba67a2ecc1aadbedd54ee6995f98"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-5/contact-sheet.jpg",
+          "sha256": "607dbaf351f73462c382aadf5e224bea33ca3203432506b5929bc419ac6a6fc3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-11/contact-sheet.jpg",
+          "sha256": "9b13ce5489150318cd0967e6c0aa3b5ba9b5e484ce79ce78a9fb9625e08af945"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending/contact-sheet.jpg",
+          "sha256": "3b8847a4a52cd6f2cfc6113c3d3eb7f1a4c477b33b57265fe6c0c747843f3dfc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-reverse/contact-sheet.jpg",
+          "sha256": "1f47587f6ebb7a7e23a383c8f68ecd3d33f57cbd0bc289ac2bb9dd88002176a0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-forward-1/contact-sheet.jpg",
+          "sha256": "1ec7982706adf96141373c7e0d564f42d7bc8a3ba35584dbfcc9adc43511feed"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-reverse-1/contact-sheet.jpg",
+          "sha256": "a107d3f39c846fa6da4628b47ea3ae97315085a2669c6a41f3ffc6895b7a0991"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-0/contact-sheet.jpg",
+          "sha256": "15431cdcb4e6811e9c65c01debc2376ca2021ecb1a3d1f2c73272b08883aa368"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "项目中的偏置照片进入居中细看、侧边索引和紧凑观看工具，图片与界面共同重新组织。实际拖动将观看距离改变并返回，细节观看与退出保持稳定，判断依据包含构图交接及摄影内容。",
+      "benchmarkFrames": [
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-53",
+        "reference-30",
+        "reference-36",
+        "reference-37",
+        "reference-40",
+        "reference-41",
+        "reference-42",
+        "reference-43"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-case-arrival/contact-sheet.jpg",
+          "sha256": "086129053da416dc60c5134dfbf8a721075c2e127e90c712dcb64a13fa470610"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-zoom-forward/contact-sheet.jpg",
+          "sha256": "5f19061a321495c8eaaba335acc4e5549745bd605eea1c7b6b46e5b6c8732a12"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-zoom-reverse/contact-sheet.jpg",
+          "sha256": "79fc052bb3c0dadc848d2883abcea31e8828af7a163cbbe5e326b4192f24e448"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "5ab1cf583e7816fb2f8e39cf555f99a4bf746e28e7444a9904eee7c5c338ee66"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-reduced-forward/contact-sheet.jpg",
+          "sha256": "ce71187165fbca51472ad663bef02b5a211f66dbfdd79b25c12c4bb8491e2462"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-reduced-reverse/contact-sheet.jpg",
+          "sha256": "c73c8a3ce01a07398eb485ea7d67bf268aad51229876f88e9211618699b8d77d"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "结尾由作品观看转为彩色剪影中的摄影者，橙蓝绿光线、不同姿态及相机形成独立结果，最后短句落于绿色肖像暗部。完整路径中的联系与人物介绍有明确作用，收束保持摄影身份。",
+      "benchmarkFrames": [
+        "benchmark-3",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "reference-31",
+        "reference-35",
+        "reference-54",
+        "reference-55",
+        "reference-56",
+        "reference-57",
+        "reference-73",
+        "reference-74",
+        "reference-75"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending/contact-sheet.jpg",
+          "sha256": "3b8847a4a52cd6f2cfc6113c3d3eb7f1a4c477b33b57265fe6c0c747843f3dfc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-ending/contact-sheet.jpg",
+          "sha256": "b31fda6b81cba5150115ac93fbffc96f548c5cd6e6debec8324f94cedc4ed789"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-start/contact-sheet.jpg",
+          "sha256": "ae16cf220ff5d350cefc7692d9b15cb5dad0ba67a2ecc1aadbedd54ee6995f98"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-5/contact-sheet.jpg",
+          "sha256": "607dbaf351f73462c382aadf5e224bea33ca3203432506b5929bc419ac6a6fc3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-11/contact-sheet.jpg",
+          "sha256": "9b13ce5489150318cd0967e6c0aa3b5ba9b5e484ce79ce78a9fb9625e08af945"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending/contact-sheet.jpg",
+          "sha256": "3b8847a4a52cd6f2cfc6113c3d3eb7f1a4c477b33b57265fe6c0c747843f3dfc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-start/contact-sheet.jpg",
+          "sha256": "346eaddf36c4a22ff3fbf5f2db266ba1859648244be9e96ecd3aad42c814b023"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-0/contact-sheet.jpg",
+          "sha256": "15431cdcb4e6811e9c65c01debc2376ca2021ecb1a3d1f2c73272b08883aa368"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-2/contact-sheet.jpg",
+          "sha256": "120e80351471d467a74e6de0454244863e642d710943e072a7f3a61634823086"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "手机将作品重排为错位竖幅及完整作品名，细看保留照片比例、观看条和退出位置；人物介绍转为竖向彩色肖像。主要摄影直接可见，触摸替代实际产生了不同观看内容。",
+      "benchmarkFrames": [
+        "benchmark-4",
+        "benchmark-6",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "reference-32",
+        "reference-33",
+        "reference-34",
+        "reference-35",
+        "reference-61",
+        "reference-70",
+        "reference-71",
+        "reference-74"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+          "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-transition/contact-sheet.jpg",
+          "sha256": "1ec7982706adf96141373c7e0d564f42d7bc8a3ba35584dbfcc9adc43511feed"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-middle/contact-sheet.jpg",
+          "sha256": "49224ee97d1e98db7ae064b7fcdb96115ee3899f53c4a5b16f1d9b2c08e40a8a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-ending/contact-sheet.jpg",
+          "sha256": "b31fda6b81cba5150115ac93fbffc96f548c5cd6e6debec8324f94cedc4ed789"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-forward-0/contact-sheet.jpg",
+          "sha256": "e0bafbe2c9ea3c6d5449afacc3b58fe9e84c59cb8cab3563226394110f14b7a8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-touch-gallery-open/contact-sheet.jpg",
+          "sha256": "6eafe2376fa675a7b57b8a773cc8dce33d34472f214aad825281b9ee9d960653"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-touch-gallery-next/contact-sheet.jpg",
+          "sha256": "3a7d980b5a1dcfbaa5a34f9dcff0f4a0a9b7b9ee481b7f8df4afcfe4c24c6827"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-0/contact-sheet.jpg",
+          "sha256": "15431cdcb4e6811e9c65c01debc2376ca2021ecb1a3d1f2c73272b08883aa368"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "staggered-photographic-world",
+      "visualPurpose": "错位摄影围绕分类字形成完整作品空间，真实输入连续推进照片的尺度、前后关系和观看位置，保留作品本身的工艺，而不是普通等宽图库或轻移装饰。",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "referenceFrames": [
+        "reference-28",
+        "reference-29",
+        "reference-32",
+        "reference-33",
+        "reference-44",
+        "reference-46",
+        "reference-48",
+        "reference-60",
+        "reference-62",
+        "reference-64"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-transition/contact-sheet.jpg",
+          "sha256": "74083a96f9f51d8c9a4c08ab7cb7c15b9ca98f757d0ed4ef8a047c4d656acb05"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-transition/contact-sheet.jpg",
+          "sha256": "1ec7982706adf96141373c7e0d564f42d7bc8a3ba35584dbfcc9adc43511feed"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-forward-1/contact-sheet.jpg",
+          "sha256": "8e2cf6d1dbece2a7a6ef98bcac3a361f53623cb8c27163c9ea951fedd9efd72c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-reverse-1/contact-sheet.jpg",
+          "sha256": "1f656f7558e37c1c7cbee00c1b38389f631e90e6309e8e8f83308b7262f0b7a3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-forward-1/contact-sheet.jpg",
+          "sha256": "1ec7982706adf96141373c7e0d564f42d7bc8a3ba35584dbfcc9adc43511feed"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-reverse-1/contact-sheet.jpg",
+          "sha256": "a107d3f39c846fa6da4628b47ea3ae97315085a2669c6a41f3ffc6895b7a0991"
+        }
+      ]
+    },
+    {
+      "name": "photographic-world-to-detail",
+      "visualPurpose": "照片从作品路径连续进入有索引和取景工具的细看构图，主体、工具与返回在进入、操作、离开中共同编排，普通图片放大功能本身不能替代这一视觉交接。",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "referenceFrames": [
+        "reference-53",
+        "reference-30",
+        "reference-34",
+        "reference-36",
+        "reference-37",
+        "reference-40",
+        "reference-41",
+        "reference-70",
+        "reference-71",
+        "reference-72"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-case-arrival/contact-sheet.jpg",
+          "sha256": "086129053da416dc60c5134dfbf8a721075c2e127e90c712dcb64a13fa470610"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-middle/contact-sheet.jpg",
+          "sha256": "49224ee97d1e98db7ae064b7fcdb96115ee3899f53c4a5b16f1d9b2c08e40a8a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-zoom-forward/contact-sheet.jpg",
+          "sha256": "5f19061a321495c8eaaba335acc4e5549745bd605eea1c7b6b46e5b6c8732a12"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-zoom-reverse/contact-sheet.jpg",
+          "sha256": "79fc052bb3c0dadc848d2883abcea31e8828af7a163cbbe5e326b4192f24e448"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "5ab1cf583e7816fb2f8e39cf555f99a4bf746e28e7444a9904eee7c5c338ee66"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-touch-gallery-open/contact-sheet.jpg",
+          "sha256": "6eafe2376fa675a7b57b8a773cc8dce33d34472f214aad825281b9ee9d960653"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-touch-gallery-next/contact-sheet.jpg",
+          "sha256": "3a7d980b5a1dcfbaa5a34f9dcff0f4a0a9b7b9ee481b7f8df4afcfe4c24c6827"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-touch-gallery-return/contact-sheet.jpg",
+          "sha256": "9d1777565a58948ca339a2d8ab3895840bbd4c6a4a7d9d1de3f2b2938d9eb407"
+        }
+      ]
+    },
+    {
+      "name": "chromatic-photographer-sequence",
+      "visualPurpose": "摄影者成为被摄对象，橙、蓝、绿三幅独立光线与姿态的肖像推进人物介绍并完整收束，保持同一人物身份及照片特异性，不用同图换色或通用邮箱页脚代替。",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "referenceFrames": [
+        "reference-54",
+        "reference-55",
+        "reference-56",
+        "reference-31",
+        "reference-73",
+        "reference-74",
+        "reference-75",
+        "reference-35"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-start/contact-sheet.jpg",
+          "sha256": "ae16cf220ff5d350cefc7692d9b15cb5dad0ba67a2ecc1aadbedd54ee6995f98"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-5/contact-sheet.jpg",
+          "sha256": "607dbaf351f73462c382aadf5e224bea33ca3203432506b5929bc419ac6a6fc3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-11/contact-sheet.jpg",
+          "sha256": "9b13ce5489150318cd0967e6c0aa3b5ba9b5e484ce79ce78a9fb9625e08af945"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending/contact-sheet.jpg",
+          "sha256": "3b8847a4a52cd6f2cfc6113c3d3eb7f1a4c477b33b57265fe6c0c747843f3dfc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-start/contact-sheet.jpg",
+          "sha256": "346eaddf36c4a22ff3fbf5f2db266ba1859648244be9e96ecd3aad42c814b023"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-0/contact-sheet.jpg",
+          "sha256": "15431cdcb4e6811e9c65c01debc2376ca2021ecb1a3d1f2c73272b08883aa368"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-2/contact-sheet.jpg",
+          "sha256": "120e80351471d467a74e6de0454244863e642d710943e072a7f3a61634823086"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-ending/contact-sheet.jpg",
+          "sha256": "b31fda6b81cba5150115ac93fbffc96f548c5cd6e6debec8324f94cedc4ed789"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-36",
+        "reference-37",
+        "reference-38",
+        "reference-39",
+        "reference-40",
+        "reference-41",
+        "reference-42",
+        "reference-43"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-zoom-forward/contact-sheet.jpg",
+          "sha256": "5f19061a321495c8eaaba335acc4e5549745bd605eea1c7b6b46e5b6c8732a12"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-pan-forward/contact-sheet.jpg",
+          "sha256": "c73c8a3ce01a07398eb485ea7d67bf268aad51229876f88e9211618699b8d77d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-pan-reverse/contact-sheet.jpg",
+          "sha256": "c73c8a3ce01a07398eb485ea7d67bf268aad51229876f88e9211618699b8d77d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-zoom-reverse/contact-sheet.jpg",
+          "sha256": "79fc052bb3c0dadc848d2883abcea31e8828af7a163cbbe5e326b4192f24e448"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "5ab1cf583e7816fb2f8e39cf555f99a4bf746e28e7444a9904eee7c5c338ee66"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-reduced-forward/contact-sheet.jpg",
+          "sha256": "ce71187165fbca51472ad663bef02b5a211f66dbfdd79b25c12c4bb8491e2462"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-reduced-reverse/contact-sheet.jpg",
+          "sha256": "c73c8a3ce01a07398eb485ea7d67bf268aad51229876f88e9211618699b8d77d"
+        }
+      ]
+    },
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-44",
+        "reference-46",
+        "reference-48",
+        "reference-49",
+        "reference-50",
+        "reference-51",
+        "reference-54",
+        "reference-55",
+        "reference-56",
+        "reference-57",
+        "reference-58",
+        "reference-59",
+        "reference-60",
+        "reference-62",
+        "reference-64",
+        "reference-65",
+        "reference-66",
+        "reference-67",
+        "reference-73",
+        "reference-74",
+        "reference-75",
+        "reference-76",
+        "reference-77",
+        "reference-78"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-forward-1/contact-sheet.jpg",
+          "sha256": "8e2cf6d1dbece2a7a6ef98bcac3a361f53623cb8c27163c9ea951fedd9efd72c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-reverse-1/contact-sheet.jpg",
+          "sha256": "1f656f7558e37c1c7cbee00c1b38389f631e90e6309e8e8f83308b7262f0b7a3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-stop/contact-sheet.jpg",
+          "sha256": "ce529643ec5625fe2cf4740150608a73a8cd9bddddc2d076b980d145b0aa172f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-reduced-forward/contact-sheet.jpg",
+          "sha256": "77bcdd93ccf61912b29b46cb7cd3804c27f1d39c34688bbf0ce6aac37a509bad"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-home-reduced-reverse/contact-sheet.jpg",
+          "sha256": "850a5d2019b747909147558bc57882a1ce8e79f6310588df331521a3f0746483"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-start/contact-sheet.jpg",
+          "sha256": "ae16cf220ff5d350cefc7692d9b15cb5dad0ba67a2ecc1aadbedd54ee6995f98"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-5/contact-sheet.jpg",
+          "sha256": "607dbaf351f73462c382aadf5e224bea33ca3203432506b5929bc419ac6a6fc3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-11/contact-sheet.jpg",
+          "sha256": "9b13ce5489150318cd0967e6c0aa3b5ba9b5e484ce79ce78a9fb9625e08af945"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending/contact-sheet.jpg",
+          "sha256": "3b8847a4a52cd6f2cfc6113c3d3eb7f1a4c477b33b57265fe6c0c747843f3dfc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending-stop/contact-sheet.jpg",
+          "sha256": "0c5c13364281a31b2e109b6faba07ed6f9ea4fad4ec3f4dd9bc4e6e5f7dfe7dc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-reverse/contact-sheet.jpg",
+          "sha256": "1f47587f6ebb7a7e23a383c8f68ecd3d33f57cbd0bc289ac2bb9dd88002176a0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-forward-1/contact-sheet.jpg",
+          "sha256": "1ec7982706adf96141373c7e0d564f42d7bc8a3ba35584dbfcc9adc43511feed"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-reverse-1/contact-sheet.jpg",
+          "sha256": "a107d3f39c846fa6da4628b47ea3ae97315085a2669c6a41f3ffc6895b7a0991"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-stop/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-reduced-forward/contact-sheet.jpg",
+          "sha256": "a20e16fce96020572b47051f0f9b8f92cd5405b53f875668e92be074b5556514"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-home-reduced-reverse/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-start/contact-sheet.jpg",
+          "sha256": "346eaddf36c4a22ff3fbf5f2db266ba1859648244be9e96ecd3aad42c814b023"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-0/contact-sheet.jpg",
+          "sha256": "15431cdcb4e6811e9c65c01debc2376ca2021ecb1a3d1f2c73272b08883aa368"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-2/contact-sheet.jpg",
+          "sha256": "120e80351471d467a74e6de0454244863e642d710943e072a7f3a61634823086"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-ending/contact-sheet.jpg",
+          "sha256": "b31fda6b81cba5150115ac93fbffc96f548c5cd6e6debec8324f94cedc4ed789"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-ending-stop/contact-sheet.jpg",
+          "sha256": "b31fda6b81cba5150115ac93fbffc96f548c5cd6e6debec8324f94cedc4ed789"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-reverse/contact-sheet.jpg",
+          "sha256": "346eaddf36c4a22ff3fbf5f2db266ba1859648244be9e96ecd3aad42c814b023"
+        }
+      ]
+    }
+  ],
+  "nextAction": "admit",
+  "fixTasks": [],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "错位的大小肖像与居中的大衬线分类字形成摄影作品的主要观看对象，照片人物、造型和具体光线需要有辨识度。",
+        "material": "摄影的肤质、发型、服装与明暗必须有真实细节；不同作品的色彩和纹理各有内容，不能以普通头像或统一滤镜充数。",
+        "composition": "纸色空间中三处不同幅面的摄影与分类字有控制的遮叠和间距，手机重排为交错摄影并直接显示作品名，不退回普通等宽卡片。",
+        "role": "默认已呈现摄影作品及身份，主要图片无需进入菜单或先点击才看见，后续连续观看由这些真实作品展开。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-opening .visual",
+            "minimumViewportArea": 0.3,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "原有摄影对象在连续输入中穿越视口，观看位置、幅面及图字关系发生有作用的交接，新的作品观看内容保持清楚。",
+        "material": "照片放大或进入新位置时仍有充分的肤质、造型和服装细节；不得用模糊占位或强遮罩掩盖实际图片工艺。",
+        "composition": "摄影和大字保持前后层次，照片的错位与尺度变化推进观看，主体不能缩成边缘小卡或长时间只留下孤立字形。",
+        "role": "输入实际改变摄影观看，正向、反向和停止均有清楚的当前对象；手机的实际触摸保留同一内容用途，不能只用桌面轮滚推定。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-transition .visual",
+            "minimumViewportArea": 0.3,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "摄影项目进入细看空间，同一作品对象与索引及观看工具共同组成主要构图，必须实际保留照片细节与完整回到作品的路径。",
+        "material": "最终摄影在细看尺度中仍清晰、自然，皮肤、织物与光线层次可辨；放大后的低清或失真的人脸不能以功能通过抵消。",
+        "composition": "从项目摄影进入居中观看及侧边索引的布局交接连续，工具与图片有明确比例，手机照片和退出行动均完整可达。",
+        "role": "指针或触摸操作改变实际摄影取景并可返回，观看器的构图交接与主题耦合；普通放大按钮或倍率数字自身不是签名品质。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-middle .visual",
+            "minimumViewportArea": 0.3,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "独立的人物肖像承担摄影者介绍与收束，同一人物的不同姿态、彩色光线及相机身份形成完整摄影结果，不用纯色联系块替代。",
+        "material": "橙、蓝、绿的独立光线与深色人物轮廓相互区分，肤质、手部与相机结构真实；不能把同一照片换色当作新的摄影。",
+        "composition": "彩色摄影保持足够面积和可辨轮廓，短文字与联系位于合适空间，手机仍有完整人物观看与清楚行动，不再次堆叠巨型标题。",
+        "role": "由观看作品转为观看摄影者及其光线语言，介绍与联系直接可到达，末段具有独立摄影身份与完整结束，不无限循环补长。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-ending .visual",
+            "minimumViewportArea": 0.3,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": []
+  },
+  "visualContractSha256": "9873a249c3e888cccc0cb8b0ac79fc41806233786150b8e2c2c9d2af638fb24a",
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "三处不同幅面的人像围绕Beauty分类字，造型与肤质各有具体细节，顶边短身份和底部导航保持次级，照片与字形之间的遮叠受控。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "蝴蝶眼妆肖像进入中央前景，右侧和底部另有不同作品，照片穿越分类字而保持明确层次，实际输入推动观看对象与幅面交接。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-transition/contact-sheet.jpg",
+          "sha256": "74083a96f9f51d8c9a4c08ab7cb7c15b9ca98f757d0ed4ef8a047c4d656acb05"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "完整肖像居中呈现，左侧细小索引与底部观看条形成新的比例关系，眼部、皮肤和唇部细节清楚，照片及退出行动没有相互遮挡。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "绿色侧面肖像和相机轮廓保持足够尺度，短句处于人物暗部内，人物介绍由此前橙蓝光线推进至独立末态，摄影身份和收束完整。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-ending/contact-sheet.jpg",
+          "sha256": "3b8847a4a52cd6f2cfc6113c3d3eb7f1a4c477b33b57265fe6c0c747843f3dfc"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机以两个交错竖幅肖像及下方下一幅入口建立摄影路径，作品名清楚，分类大字作为后层图形被照片有意遮叠，底部导航没有遮住主要面部。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "近距离眼妆、红色眼部造型和下方肖像形成不同的竖向观看尺度，完整作品名在照片下方，实际触摸推进后的主体与内容仍清楚。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-transition/contact-sheet.jpg",
+          "sha256": "1ec7982706adf96141373c7e0d564f42d7bc8a3ba35584dbfcc9adc43511feed"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机细看以纸色上下空间承托一幅完整比例肖像，主要眼部和唇部细节保持，底部观看工具和退出行动均在视口内，实际触摸可切换观看照片。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-middle/contact-sheet.jpg",
+          "sha256": "49224ee97d1e98db7ae064b7fcdb96115ee3899f53c4a5b16f1d9b2c08e40a8a"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "绿色人物、相机和暗部短句在竖向保持完整观看，较长来源信息处于上方，末段仍由独立摄影完成收束；联系在完整介绍路径中可到达。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-ending/contact-sheet.jpg",
+          "sha256": "b31fda6b81cba5150115ac93fbffc96f548c5cd6e6debec8324f94cedc4ed789"
+        }
+      ]
+    }
+  ],
+  "continuityChecks": [],
+  "reviewReceipt": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/review-queue/14-reference-review-a5da1b26-receipt.json",
+    "sha256": "28d1e85815a075fe6ce1ae303d7a074064ec83e681ba85da92ab13622e28f520"
+  }
+}

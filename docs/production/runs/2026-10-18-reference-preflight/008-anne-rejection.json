@@ -1,0 +1,664 @@
+{
+  "schemaVersion": 1,
+  "phase": "reference-preflight",
+  "id": "008",
+  "sourceUrl": "https://www.anneboysen.dk/",
+  "decision": "reject",
+  "date": "2026-10-18",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "reviewer": {
+    "mode": "current-conversation-direct-inspection",
+    "independent": false,
+    "implementationContextIncluded": true
+  },
+  "capture": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/capture.json",
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 7476,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-opening/contact-sheet.jpg",
+          "sha256": "c0f9f4467c17cf1832df5f7c5f1d614b4444a573699cddbda303e5024224d45a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1646,
+      "layout": {
+        "y": 1646,
+        "documentHeight": 7476,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-transition/contact-sheet.jpg",
+          "sha256": "ccb3ce7fdb724b8f05bd6661f17d572d39b0a84b15f9b44599f93e810a6ae61d"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 6118,
+      "layout": {
+        "y": 6118,
+        "documentHeight": 11098,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-middle/contact-sheet.jpg",
+          "sha256": "409d4e1468d1a7db403569e74bc5a3b78def37fa6dfaa7c8bc174b98cf6c7681"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 10198,
+      "layout": {
+        "y": 10198,
+        "documentHeight": 11098,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-ending/contact-sheet.jpg",
+          "sha256": "d4d3c624467d3f9389322eda8140c97f3a65bc538c4e0449b3200aa8c599be79"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 10514,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-opening/contact-sheet.jpg",
+          "sha256": "a1da1caa3a0673a0d98e99c4f3e9ff8b17efb5eed1d1c9cd12012eb60f0fecb3"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2417,
+      "layout": {
+        "y": 2417,
+        "documentHeight": 10514,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-transition/contact-sheet.jpg",
+          "sha256": "c05a1abf626ca9d65516dddd9a9e816d5155f01d8570ff4ad3ebf9525b97d130"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 11259,
+      "layout": {
+        "y": 11259,
+        "documentHeight": 19608,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-middle/contact-sheet.jpg",
+          "sha256": "c49505c5e2229d15135d26c90d54dc33bf19c2a412bb4d20ce974d0a3fa8c375"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 22551,
+      "layout": {
+        "y": 22551,
+        "documentHeight": 23395,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-ending/contact-sheet.jpg",
+          "sha256": "32794a8712a42d8cb7d65c2973ab81e1397dc6ab33c79bac9145529157dc4d19"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "6cbe26a150614c21d43eea841d4a1820e986fa3c3eb5475bf490cf5d2e3b6fc7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "6eb4d4292a1db326e9e267c67417e994eafd5b22722198791bed72e0db818513"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "8da9de4cd0678d6673b03fb2bc8fec273056c7f4daf54f1da439461e3b29ad23"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "0839e31a900189b24196c37be46ad9e2e14e8fe92f7e7a71d035bb6cf5048d0d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "d4d3c624467d3f9389322eda8140c97f3a65bc538c4e0449b3200aa8c599be79"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "3ef61d846bf5d21ca4eed093dbcb254b8d1ac3c77c7b63ad078cf2aadc7e2bc4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "eb089be4981ca9a9913cd0d7dc68ee72c9645ac08a363eef3f3143fc3dcb7ab7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "2dd86cafff379c6f0b4831bc83a06cad3ea0f81818a2f85b9ac75f3423a310ba"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "edbe469cdd91709e50e7f6d3e95f62b95cb37d7f77dd1a29ec7bc15b6b5d16b5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-reduced/contact-sheet.jpg",
+          "sha256": "8ec41ec7321da536258a0f7e7e591d651327527f0f6ce5184de9cddaf85d0a12"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "69fc7355327dc9334c71a83e9e4e4d804da7bd10c7fc1193485fad5bdb684eff"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "968aa6149ef026cd513ffbe2584e5b1893594feaf79e7bf2148ad88da6887e90"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "c34cd20fa30c2eb5d0ec80424cf3a58b9d2f75ef9b9b32a540f606333af045eb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "e0f284a52e3bd3b8a83e6c7df6f796b9d476e36b37a4531a87909d9eb09bf5fb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "32794a8712a42d8cb7d65c2973ab81e1397dc6ab33c79bac9145529157dc4d19"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-5/contact-sheet.jpg",
+          "sha256": "63696862d6d3326b5ec6af9e0714afcab9bc59155fbe22346370147e9fe3f6f6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "c34cd20fa30c2eb5d0ec80424cf3a58b9d2f75ef9b9b32a540f606333af045eb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-7/contact-sheet.jpg",
+          "sha256": "78f461089bf9787f37ddca8e2fd10b564b174feb048c0bcede0474676710ce36"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "1fb212ffe6b3684d1fbaf238beef184aa3ebeddce3549228e2d2063c8c531436"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-reduced/contact-sheet.jpg",
+          "sha256": "937656585775c8a8fa97301c61fd7a23c84b114f4aebab00736902b7efe28dcd"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "below",
+      "finding": "桌面材质拼贴有质感，但没有直接清楚的主体身份与主张；手机大幅空区与两侧截断的图片使主视觉权威弱于001的完整材料主体。",
+      "sourceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-opening/contact-sheet.jpg",
+          "sha256": "c0f9f4467c17cf1832df5f7c5f1d614b4444a573699cddbda303e5024224d45a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-opening/contact-sheet.jpg",
+          "sha256": "a1da1caa3a0673a0d98e99c4f3e9ff8b17efb5eed1d1c9cd12012eb60f0fecb3"
+        }
+      ],
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6",
+          "state": "opening",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d",
+          "state": "opening",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "桌面深蓝/米灰底、克制无衬线标注与产品摄影关系清晰，照片与标题的比例受控；这一项不能掩盖手机开场和整页收束的损失。",
+      "sourceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-opening/contact-sheet.jpg",
+          "sha256": "c0f9f4467c17cf1832df5f7c5f1d614b4444a573699cddbda303e5024224d45a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-transition/contact-sheet.jpg",
+          "sha256": "ccb3ce7fdb724b8f05bd6661f17d572d39b0a84b15f9b44599f93e810a6ae61d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-opening/contact-sheet.jpg",
+          "sha256": "a1da1caa3a0673a0d98e99c4f3e9ff8b17efb5eed1d1c9cd12012eb60f0fecb3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-transition/contact-sheet.jpg",
+          "sha256": "c05a1abf626ca9d65516dddd9a9e816d5155f01d8570ff4ad3ebf9525b97d130"
+        }
+      ],
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6",
+          "state": "opening",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-0.16-1",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+          "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0",
+          "state": "transition",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d",
+          "state": "opening",
+          "viewport": "mobile"
+        },
+        {
+          "name": "390-scroll-0.33-12",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4",
+          "state": "transition",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "编织、玻璃、木制家具和产品造型的摄影本身完成度高，当前没有可分发替换素材计划，因此也未据此创建成品试片。",
+      "sourceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-transition/contact-sheet.jpg",
+          "sha256": "ccb3ce7fdb724b8f05bd6661f17d572d39b0a84b15f9b44599f93e810a6ae61d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-middle/contact-sheet.jpg",
+          "sha256": "409d4e1468d1a7db403569e74bc5a3b78def37fa6dfaa7c8bc174b98cf6c7681"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-transition/contact-sheet.jpg",
+          "sha256": "c05a1abf626ca9d65516dddd9a9e816d5155f01d8570ff4ad3ebf9525b97d130"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-middle/contact-sheet.jpg",
+          "sha256": "c49505c5e2229d15135d26c90d54dc33bf19c2a412bb4d20ce974d0a3fa8c375"
+        }
+      ],
+      "benchmarkEvidence": [
+        {
+          "name": "1440-scroll-0.16-1",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+          "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0",
+          "state": "transition",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-0.84-5",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.84-5.png",
+          "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b",
+          "state": "middle",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-scroll-0.33-12",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4",
+          "state": "transition",
+          "viewport": "mobile"
+        },
+        {
+          "name": "390-scroll-1-14",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87",
+          "state": "middle",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "below",
+      "finding": "开场拼贴后持续为相近节奏的产品图片/名称网格，原生正反过程未形成与001连续主体交接相当的观看推进；不能通过少取几个卡片伪称保留整页。",
+      "sourceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-transition/contact-sheet.jpg",
+          "sha256": "ccb3ce7fdb724b8f05bd6661f17d572d39b0a84b15f9b44599f93e810a6ae61d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-middle/contact-sheet.jpg",
+          "sha256": "409d4e1468d1a7db403569e74bc5a3b78def37fa6dfaa7c8bc174b98cf6c7681"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-ending/contact-sheet.jpg",
+          "sha256": "d4d3c624467d3f9389322eda8140c97f3a65bc538c4e0449b3200aa8c599be79"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-transition/contact-sheet.jpg",
+          "sha256": "c05a1abf626ca9d65516dddd9a9e816d5155f01d8570ff4ad3ebf9525b97d130"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-middle/contact-sheet.jpg",
+          "sha256": "c49505c5e2229d15135d26c90d54dc33bf19c2a412bb4d20ce974d0a3fa8c375"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-ending/contact-sheet.jpg",
+          "sha256": "32794a8712a42d8cb7d65c2973ab81e1397dc6ab33c79bac9145529157dc4d19"
+        }
+      ],
+      "benchmarkEvidence": [
+        {
+          "name": "1440-scroll-0.16-1",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+          "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0",
+          "state": "transition",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-0.84-5",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.84-5.png",
+          "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b",
+          "state": "middle",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-0-8",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+          "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392",
+          "state": "ending",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-scroll-0.33-12",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4",
+          "state": "transition",
+          "viewport": "mobile"
+        },
+        {
+          "name": "390-scroll-1-14",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87",
+          "state": "middle",
+          "viewport": "mobile"
+        },
+        {
+          "name": "390-scroll-0-15",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+          "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81",
+          "state": "ending",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "evidence-needed",
+      "finding": "本轮只完成普通原生滚动及减少动态，未执行专用主视觉指针过程。不能把开场拼贴漂移或照片变化自动当作指针签名，也不据此给这一维度正面结论。",
+      "sourceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-opening/contact-sheet.jpg",
+          "sha256": "c0f9f4467c17cf1832df5f7c5f1d614b4444a573699cddbda303e5024224d45a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-opening/contact-sheet.jpg",
+          "sha256": "a1da1caa3a0673a0d98e99c4f3e9ff8b17efb5eed1d1c9cd12012eb60f0fecb3"
+        }
+      ],
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6",
+          "state": "opening",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d",
+          "state": "opening",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "below",
+      "finding": "已可靠到达真正终点，桌面为大块深棕空区与邮箱/地址工具列，手机为纵向联系信息；没有与开场材质主题相接的视觉结果，低于001的专属暖光收束。",
+      "sourceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-ending/contact-sheet.jpg",
+          "sha256": "d4d3c624467d3f9389322eda8140c97f3a65bc538c4e0449b3200aa8c599be79"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-ending/contact-sheet.jpg",
+          "sha256": "32794a8712a42d8cb7d65c2973ab81e1397dc6ab33c79bac9145529157dc4d19"
+        }
+      ],
+      "benchmarkEvidence": [
+        {
+          "name": "1440-scroll-0-8",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+          "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392",
+          "state": "ending",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-scroll-0-15",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+          "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81",
+          "state": "ending",
+          "viewport": "mobile"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "below",
+      "finding": "手机开场仅余画幅两侧的摄影切片和大片空区，后续回到长单列产品图及工具页脚；未形成与001同等的完整主体、层级与收束。",
+      "sourceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-opening/contact-sheet.jpg",
+          "sha256": "c0f9f4467c17cf1832df5f7c5f1d614b4444a573699cddbda303e5024224d45a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-transition/contact-sheet.jpg",
+          "sha256": "ccb3ce7fdb724b8f05bd6661f17d572d39b0a84b15f9b44599f93e810a6ae61d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-middle/contact-sheet.jpg",
+          "sha256": "409d4e1468d1a7db403569e74bc5a3b78def37fa6dfaa7c8bc174b98cf6c7681"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/desktop-ending/contact-sheet.jpg",
+          "sha256": "d4d3c624467d3f9389322eda8140c97f3a65bc538c4e0449b3200aa8c599be79"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-opening/contact-sheet.jpg",
+          "sha256": "a1da1caa3a0673a0d98e99c4f3e9ff8b17efb5eed1d1c9cd12012eb60f0fecb3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-transition/contact-sheet.jpg",
+          "sha256": "c05a1abf626ca9d65516dddd9a9e816d5155f01d8570ff4ad3ebf9525b97d130"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-middle/contact-sheet.jpg",
+          "sha256": "c49505c5e2229d15135d26c90d54dc33bf19c2a412bb4d20ce974d0a3fa8c375"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-18/008-anne-reference-01/mobile-ending/contact-sheet.jpg",
+          "sha256": "32794a8712a42d8cb7d65c2973ab81e1397dc6ab33c79bac9145529157dc4d19"
+        }
+      ],
+      "benchmarkEvidence": [
+        {
+          "name": "1440-opening",
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6",
+          "state": "opening",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-0.16-1",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+          "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0",
+          "state": "transition",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-0.84-5",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.84-5.png",
+          "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b",
+          "state": "middle",
+          "viewport": "desktop"
+        },
+        {
+          "name": "1440-scroll-0-8",
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+          "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392",
+          "state": "ending",
+          "viewport": "desktop"
+        },
+        {
+          "name": "390-opening",
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d",
+          "state": "opening",
+          "viewport": "mobile"
+        },
+        {
+          "name": "390-scroll-0.33-12",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4",
+          "state": "transition",
+          "viewport": "mobile"
+        },
+        {
+          "name": "390-scroll-1-14",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87",
+          "state": "middle",
+          "viewport": "mobile"
+        },
+        {
+          "name": "390-scroll-0-15",
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+          "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81",
+          "state": "ending",
+          "viewport": "mobile"
+        }
+      ]
+    }
+  ],
+  "endingReach": [
+    {
+      "viewport": "desktop",
+      "y": 10198,
+      "documentHeight": 11098,
+      "viewportHeight": 900,
+      "atActualEnd": true
+    },
+    {
+      "viewport": "mobile",
+      "y": 22551,
+      "documentHeight": 23395,
+      "viewportHeight": 844,
+      "atActualEnd": true
+    }
+  ],
+  "vetoes": [
+    "默认手机主体与整页收束低于用户当前基准，不能用桌面摄影品质或工程采证通过抵消。"
+  ],
+  "nextAction": "replace-direction",
+  "newPrototype": false,
+  "newArchive": false,
+  "modelApiCalls": 0,
+  "limitations": "A current-conversation preflight rejection, not an independent model quality certificate or a general ranking of the source website."
+}

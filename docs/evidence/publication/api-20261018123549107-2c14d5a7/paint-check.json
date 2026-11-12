@@ -1,0 +1,306 @@
+{
+  "checks": [
+    {
+      "file": "docs/evidence/publication/api-20261018123549107-2c14d5a7/attempt-03/desktop-full.png",
+      "expected": "all-painted",
+      "actual": "all-painted",
+      "images": [
+        {
+          "src": "/collection/001.webp",
+          "expectedVariance": 43.413402175255115,
+          "actualVariance": 40.595524212655285,
+          "missing": false
+        },
+        {
+          "src": "/collection/006.webp",
+          "expectedVariance": 63.50685658039251,
+          "actualVariance": 68.88176347291599,
+          "missing": false
+        },
+        {
+          "src": "/collection/007.webp",
+          "expectedVariance": 74.48523821028508,
+          "actualVariance": 66.21591458421064,
+          "missing": false
+        },
+        {
+          "src": "/collection/008.webp",
+          "expectedVariance": 45.422395922915435,
+          "actualVariance": 54.74405750464595,
+          "missing": false
+        },
+        {
+          "src": "/collection/009.webp",
+          "expectedVariance": 28.470272627048757,
+          "actualVariance": 60.69110174034192,
+          "missing": false
+        },
+        {
+          "src": "/collection/010.webp",
+          "expectedVariance": 33.55372777051964,
+          "actualVariance": 22.723868539244183,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "file": "docs/evidence/publication/api-20261018123549107-2c14d5a7/attempt-03/wide-full.png",
+      "expected": "all-painted",
+      "actual": "all-painted",
+      "images": [
+        {
+          "src": "/collection/001.webp",
+          "expectedVariance": 44.72997557919158,
+          "actualVariance": 43.505705391804455,
+          "missing": false
+        },
+        {
+          "src": "/collection/006.webp",
+          "expectedVariance": 66.95611859586235,
+          "actualVariance": 70.78127989318047,
+          "missing": false
+        },
+        {
+          "src": "/collection/007.webp",
+          "expectedVariance": 78.36264255952612,
+          "actualVariance": 68.96935647788696,
+          "missing": false
+        },
+        {
+          "src": "/collection/008.webp",
+          "expectedVariance": 46.53868004396284,
+          "actualVariance": 56.2758211193175,
+          "missing": false
+        },
+        {
+          "src": "/collection/009.webp",
+          "expectedVariance": 27.016729526338597,
+          "actualVariance": 61.638389826288254,
+          "missing": false
+        },
+        {
+          "src": "/collection/010.webp",
+          "expectedVariance": 41.95079681989593,
+          "actualVariance": 22.199894069536814,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "file": "docs/evidence/publication/api-20261018123549107-2c14d5a7/attempt-02/tablet-full.png",
+      "expected": "missing-image",
+      "actual": "missing-image",
+      "images": [
+        {
+          "src": "/collection/001-small.webp",
+          "expectedVariance": 46.810669502581526,
+          "actualVariance": 39.70561708844993,
+          "missing": false
+        },
+        {
+          "src": "/collection/006-small.webp",
+          "expectedVariance": 61.267801901057794,
+          "actualVariance": 0.00003578503234728569,
+          "missing": true
+        },
+        {
+          "src": "/collection/007-small.webp",
+          "expectedVariance": 70.48310240047539,
+          "actualVariance": 64.25529215534735,
+          "missing": false
+        },
+        {
+          "src": "/collection/008-small.webp",
+          "expectedVariance": 45.03756350497686,
+          "actualVariance": 53.931685424168414,
+          "missing": false
+        },
+        {
+          "src": "/collection/009-small.webp",
+          "expectedVariance": 31.34496871159204,
+          "actualVariance": 59.59586724624138,
+          "missing": false
+        },
+        {
+          "src": "/collection/010-small.webp",
+          "expectedVariance": 31.271772458491988,
+          "actualVariance": 21.926515942019343,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "file": "docs/evidence/publication/api-20261018123549107-2c14d5a7/attempt-03/tablet-full.png",
+      "expected": "all-painted",
+      "actual": "all-painted",
+      "images": [
+        {
+          "src": "/collection/001-small.webp",
+          "expectedVariance": 46.810669502581526,
+          "actualVariance": 39.70561708844993,
+          "missing": false
+        },
+        {
+          "src": "/collection/006-small.webp",
+          "expectedVariance": 61.267801901057794,
+          "actualVariance": 66.25448875514789,
+          "missing": false
+        },
+        {
+          "src": "/collection/007-small.webp",
+          "expectedVariance": 70.48310240047539,
+          "actualVariance": 64.25529215534735,
+          "missing": false
+        },
+        {
+          "src": "/collection/008-small.webp",
+          "expectedVariance": 45.03756350497686,
+          "actualVariance": 53.931685424168414,
+          "missing": false
+        },
+        {
+          "src": "/collection/009-small.webp",
+          "expectedVariance": 31.34496871159204,
+          "actualVariance": 59.59586724624138,
+          "missing": false
+        },
+        {
+          "src": "/collection/010-small.webp",
+          "expectedVariance": 31.271772458491988,
+          "actualVariance": 21.926515942019343,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "file": "docs/evidence/publication/api-20261018123549107-2c14d5a7/attempt-03/mobile-full.png",
+      "expected": "all-painted",
+      "actual": "all-painted",
+      "images": [
+        {
+          "src": "/collection/001-small.webp",
+          "expectedVariance": 47.362819654108,
+          "actualVariance": 40.4922001146897,
+          "missing": false
+        },
+        {
+          "src": "/collection/006-small.webp",
+          "expectedVariance": 63.04773370224125,
+          "actualVariance": 68.22169784470226,
+          "missing": false
+        },
+        {
+          "src": "/collection/007-small.webp",
+          "expectedVariance": 68.6106413886275,
+          "actualVariance": 66.34128240895042,
+          "missing": false
+        },
+        {
+          "src": "/collection/008-small.webp",
+          "expectedVariance": 44.833888285439784,
+          "actualVariance": 54.05748087802519,
+          "missing": false
+        },
+        {
+          "src": "/collection/009-small.webp",
+          "expectedVariance": 32.61104599298532,
+          "actualVariance": 61.55400696611918,
+          "missing": false
+        },
+        {
+          "src": "/collection/010-small.webp",
+          "expectedVariance": 29.349431089757104,
+          "actualVariance": 20.21430387094415,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "file": "docs/evidence/publication/api-20261018123549107-2c14d5a7/attempt-02/narrow-full.png",
+      "expected": "missing-image",
+      "actual": "missing-image",
+      "images": [
+        {
+          "src": "/collection/001-small.webp",
+          "expectedVariance": 37.113359201325316,
+          "actualVariance": 40.01275601230836,
+          "missing": false
+        },
+        {
+          "src": "/collection/006-small.webp",
+          "expectedVariance": 67.0749962388543,
+          "actualVariance": 0.00003578503234728569,
+          "missing": true
+        },
+        {
+          "src": "/collection/007-small.webp",
+          "expectedVariance": 78.97623713046947,
+          "actualVariance": 67.26064260392765,
+          "missing": false
+        },
+        {
+          "src": "/collection/008-small.webp",
+          "expectedVariance": 45.66088811154618,
+          "actualVariance": 55.03012854665903,
+          "missing": false
+        },
+        {
+          "src": "/collection/009-small.webp",
+          "expectedVariance": 25.57639277777622,
+          "actualVariance": 61.53686687631682,
+          "missing": false
+        },
+        {
+          "src": "/collection/010-small.webp",
+          "expectedVariance": 43.35800569327308,
+          "actualVariance": 18.395583642782277,
+          "missing": false
+        }
+      ]
+    },
+    {
+      "file": "docs/evidence/publication/api-20261018123549107-2c14d5a7/attempt-03/narrow-full.png",
+      "expected": "all-painted",
+      "actual": "all-painted",
+      "images": [
+        {
+          "src": "/collection/001-small.webp",
+          "expectedVariance": 37.113359201325316,
+          "actualVariance": 40.25608223736046,
+          "missing": false
+        },
+        {
+          "src": "/collection/006-small.webp",
+          "expectedVariance": 67.0749962388543,
+          "actualVariance": 69.49018216758584,
+          "missing": false
+        },
+        {
+          "src": "/collection/007-small.webp",
+          "expectedVariance": 78.97623713046947,
+          "actualVariance": 67.26064260392765,
+          "missing": false
+        },
+        {
+          "src": "/collection/008-small.webp",
+          "expectedVariance": 45.66088811154618,
+          "actualVariance": 55.03012854665903,
+          "missing": false
+        },
+        {
+          "src": "/collection/009-small.webp",
+          "expectedVariance": 25.57639277777622,
+          "actualVariance": 61.53686687631682,
+          "missing": false
+        },
+        {
+          "src": "/collection/010-small.webp",
+          "expectedVariance": 43.35800569327308,
+          "actualVariance": 18.395583642782277,
+          "missing": false
+        }
+      ]
+    }
+  ],
+  "result": "passed-actual-counterexamples-and-complete-captures"
+}

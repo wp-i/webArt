@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "started": "2026-10-24T13:20:42.590Z",
+  "finished": "2026-10-24T13:20:45.086Z",
+  "before": {
+    "requests": 28,
+    "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+    "archiveSha256": "f374433f4392eaef7acd6a063977de853eba1a9d2f452581ae281fb071adcf0d",
+    "archiveBytes": 2399890
+  },
+  "after": {
+    "requests": 28,
+    "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+    "archiveSha256": "f374433f4392eaef7acd6a063977de853eba1a9d2f452581ae281fb071adcf0d",
+    "archiveBytes": 2399890
+  },
+  "results": [
+    {
+      "id": "009",
+      "status": "published",
+      "publication": "docs/production/runs/api-20261023020510668-730eef15/publication-attempt-03.json",
+      "newModelRequests": 0
+    }
+  ],
+  "result": "passed-identical-published-reuse",
+  "scope": "Actual workflow repeat after final source publication and current-version style supplement; no new design or user visual acceptance"
+}

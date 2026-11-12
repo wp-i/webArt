@@ -1,0 +1,1313 @@
+{
+  "schemaVersion": 2,
+  "phase": "prototype",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+  "reviewer": {
+    "id": "current-conversation:2026-10-19-four-redesigns",
+    "implementationContextIncluded": false,
+    "mode": "evidence-only-current-conversation",
+    "kind": "current-conversation",
+    "independent": false,
+    "contextIsolated": false,
+    "inputScope": "benchmark+negative+reference+candidate",
+    "calibrationRunId": "2026-10-19-four-redesigns"
+  },
+  "decision": "admit",
+  "vetoes": [],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 5400,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "c3ed890b30ac1f7d08fbb1b0481e258acca01ec78c8c7b57c1c10dc5f1f28e51"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 227,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 810,
+      "layout": {
+        "y": 810,
+        "documentHeight": 5400,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "f52ec46bbd85922d836c08f2b09ca746441b7bfb9ed1bacd34bb64a68a2a0db0"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 145,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1755,
+      "layout": {
+        "y": 1755,
+        "documentHeight": 5400,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 226,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9895833333333334
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4500,
+      "layout": {
+        "y": 4500,
+        "documentHeight": 5400,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 138,
+        "subjects": [
+          {
+            "selector": "#scene-ending .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.5739583333333333
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 4937,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 180,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 675,
+      "layout": {
+        "y": 675,
+        "documentHeight": 4937,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-transition/contact-sheet.jpg",
+          "sha256": "76c8a9808a06ef9e3cf8cf41d68fb191819ca1fae39f3fe9ca06d8e97b4d8958"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 126,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1519,
+      "layout": {
+        "y": 1519,
+        "documentHeight": 4937,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-middle/contact-sheet.jpg",
+          "sha256": "339cd2e34e83c29ec86c83f973df631fa0df9242429c8ada45d607be87281c64"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 159,
+        "subjects": [
+          {
+            "selector": ".photo-world.visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4093,
+      "layout": {
+        "y": 4093,
+        "documentHeight": 4937,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-ending/contact-sheet.jpg",
+          "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 138,
+        "subjects": [
+          {
+            "selector": "#scene-ending .visual",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.6299985189573459
+          }
+        ]
+      },
+      "visualFailures": []
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-63",
+        "candidate-67"
+      ],
+      "finding": "不同幅面的红纱近景、白衣红线和蓝天丝绒形成有尺度与前后层次的摄影空间，主对象默认直接可见；纸色和大衬线字作为构图关系，和旧稿渐变单图有实质差异。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "c3ed890b30ac1f7d08fbb1b0481e258acca01ec78c8c7b57c1c10dc5f1f28e51"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-63",
+        "candidate-65",
+        "candidate-67",
+        "candidate-69",
+        "candidate-81",
+        "candidate-82"
+      ],
+      "finding": "红纱网眼、肤质、丝绒光泽和白衣细线保留细节，Bodoni的细笔画与短索引形成摄影编辑层级。桌面底部行动已移至纸色留白，未压住右侧作品和说明；人物文字清楚，手机作品名与工具完整。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "c3ed890b30ac1f7d08fbb1b0481e258acca01ec78c8c7b57c1c10dc5f1f28e51"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-middle/contact-sheet.jpg",
+          "sha256": "339cd2e34e83c29ec86c83f973df631fa0df9242429c8ada45d607be87281c64"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-0/contact-sheet.jpg",
+          "sha256": "160d08fcdcbf6514ca9c000563cfd913049d136206e44a4ce636b048631410af"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-1/contact-sheet.jpg",
+          "sha256": "9052802b5360762ceb3b5c1550d2b4481e729b139be5cd3c40a95953e3d0af58"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-63",
+        "candidate-66",
+        "candidate-81",
+        "candidate-82",
+        "candidate-108",
+        "candidate-109"
+      ],
+      "finding": "作品有近距离纱网、全身细线造型和硬日光丝绒三种具体摄影语言。三色介绍以同一女性的观察侧面、耳机听音及持相机正面承担不同人物状态，皮肤、卷发和手部自然，身份连续。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "c3ed890b30ac1f7d08fbb1b0481e258acca01ec78c8c7b57c1c10dc5f1f28e51"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-0/contact-sheet.jpg",
+          "sha256": "160d08fcdcbf6514ca9c000563cfd913049d136206e44a4ce636b048631410af"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-1/contact-sheet.jpg",
+          "sha256": "9052802b5360762ceb3b5c1550d2b4481e729b139be5cd3c40a95953e3d0af58"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-0/contact-sheet.jpg",
+          "sha256": "8b8e2327a07754548bce2697572711ef824fe377367fdadf145c08eb16c544e8"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-1/contact-sheet.jpg",
+          "sha256": "44b7ccea5f43d41bf50f43a793e5eaa7b10b0c66b1646a49e7f674a35fea98a6"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-63",
+        "candidate-64",
+        "candidate-65",
+        "candidate-72",
+        "candidate-78",
+        "candidate-79",
+        "candidate-81",
+        "candidate-82",
+        "candidate-117",
+        "candidate-118",
+        "candidate-119",
+        "candidate-122"
+      ],
+      "finding": "真实正反滚动推进照片在字形前后穿越，再重新编排成中央摄影、索引与取景工具；三色人物各自对齐视口并可反向返回。手机真实触摸往返至收束，停止后当前摄影与行动稳定。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "c3ed890b30ac1f7d08fbb1b0481e258acca01ec78c8c7b57c1c10dc5f1f28e51"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "f52ec46bbd85922d836c08f2b09ca746441b7bfb9ed1bacd34bb64a68a2a0db0"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "e7aec8c27684869137519d00895f620d62a3d9552192eac51269ae6930f18b4f"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "40f464ef87cce65007b5bb6c83bf8a6b42520c5d51b4c2906b7b5a231990247d"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-0/contact-sheet.jpg",
+          "sha256": "160d08fcdcbf6514ca9c000563cfd913049d136206e44a4ce636b048631410af"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-1/contact-sheet.jpg",
+          "sha256": "9052802b5360762ceb3b5c1550d2b4481e729b139be5cd3c40a95953e3d0af58"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-1/contact-sheet.jpg",
+          "sha256": "60e25f0c8f317ced1466460d724466293b77a236e962c94be9a09c903b1f15d9"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-2/contact-sheet.jpg",
+          "sha256": "da16d9f8861c2d0d4901b50ee9b319b0f9f0840795e07392af9d7334d231851a"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-3/contact-sheet.jpg",
+          "sha256": "d324a611615a355fa68cf67e5204b4beaec9c53c001e08ebe249cbfa0a3d94a5"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-reduced-6/contact-sheet.jpg",
+          "sha256": "c9d1218b4d63cc417aef96ebfcb5bc0b77111001e375217736424b1875b7d0ef"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-65",
+        "candidate-89",
+        "candidate-90",
+        "candidate-91",
+        "candidate-92",
+        "candidate-93",
+        "candidate-97",
+        "candidate-80"
+      ],
+      "finding": "已重新查看本请求实际取景距离前后、指针取景与返回过程；摄影的缩放及取景原点改变了观看对象，退出后恢复开场。手机复位文字上移后与取景条分开，实际键盘焦点及物理复位仍留给新完整控件门逐项复核，不借本次试片授予完整QA。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "5ad669537be30b4de49e85ac3bc973e8f47081b4c96a8aaec3da0d7d6044ec6e"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "8f6764f2b7f5c7d6d493d80e49083257231588ee40b75ed47c94881dfa06689d"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "3eca66233b03d4d941037233bda3182c0c2e9f46163a542c498c61858dba6ccf"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-inspect-3/contact-sheet.jpg",
+          "sha256": "1b9c57799391616f9990978725edcc39ead62aee71aadd254c599b8480d462b4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-inspect-4/contact-sheet.jpg",
+          "sha256": "b6c82d04885055a7ff177570167a50929a0ab62b803142c73e3234a944c14bf1"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "e7452aefe0593f4a264040f1f182522c76f3fb8e3be2883c1ee9f69b749604bb"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-reduced/contact-sheet.jpg",
+          "sha256": "c941ef0d8f612234f00a7d3146f1121fb6f648d22074e2aec625fad65ab1ec31"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-66",
+        "candidate-70",
+        "candidate-81",
+        "candidate-82",
+        "candidate-108",
+        "candidate-109",
+        "candidate-118"
+      ],
+      "finding": "橙色侧面、蓝色听音与绿色持相机形成独立人物叙事，文字随角色由观察陈述收短为联系。结尾有真实摄影对象、相机、联系及返回，不回用首图或堆出同构大字页脚。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-ending/contact-sheet.jpg",
+          "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-0/contact-sheet.jpg",
+          "sha256": "160d08fcdcbf6514ca9c000563cfd913049d136206e44a4ce636b048631410af"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-1/contact-sheet.jpg",
+          "sha256": "9052802b5360762ceb3b5c1550d2b4481e729b139be5cd3c40a95953e3d0af58"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-0/contact-sheet.jpg",
+          "sha256": "8b8e2327a07754548bce2697572711ef824fe377367fdadf145c08eb16c544e8"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-1/contact-sheet.jpg",
+          "sha256": "44b7ccea5f43d41bf50f43a793e5eaa7b10b0c66b1646a49e7f674a35fea98a6"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-2/contact-sheet.jpg",
+          "sha256": "da16d9f8861c2d0d4901b50ee9b319b0f9f0840795e07392af9d7334d231851a"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-67",
+        "candidate-68",
+        "candidate-69",
+        "candidate-70",
+        "candidate-108",
+        "candidate-109",
+        "candidate-118",
+        "candidate-122"
+      ],
+      "finding": "手机将错位照片、完整作品名、中央细看与小索引重新组织；三色人物的头发、耳机、手部和相机保留。联系与返回完整可见，原生触摸及减少动态的正反路径已实证。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-transition/contact-sheet.jpg",
+          "sha256": "76c8a9808a06ef9e3cf8cf41d68fb191819ca1fae39f3fe9ca06d8e97b4d8958"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-middle/contact-sheet.jpg",
+          "sha256": "339cd2e34e83c29ec86c83f973df631fa0df9242429c8ada45d607be87281c64"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-ending/contact-sheet.jpg",
+          "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-0/contact-sheet.jpg",
+          "sha256": "8b8e2327a07754548bce2697572711ef824fe377367fdadf145c08eb16c544e8"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-1/contact-sheet.jpg",
+          "sha256": "44b7ccea5f43d41bf50f43a793e5eaa7b10b0c66b1646a49e7f674a35fea98a6"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-2/contact-sheet.jpg",
+          "sha256": "da16d9f8861c2d0d4901b50ee9b319b0f9f0840795e07392af9d7334d231851a"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-reduced-6/contact-sheet.jpg",
+          "sha256": "c9d1218b4d63cc417aef96ebfcb5bc0b77111001e375217736424b1875b7d0ef"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "staggered-photographic-world",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "错位摄影围绕字形在真实输入中改变幅面、相邻和前后关系，作品主体在过程持续可辨，不退回等宽图库。",
+      "referenceFrames": [
+        "reference-12",
+        "reference-13",
+        "reference-16"
+      ],
+      "candidateFrames": [
+        "candidate-63",
+        "candidate-64",
+        "candidate-67",
+        "candidate-68",
+        "candidate-117"
+      ],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-opening/contact-sheet.jpg",
+          "sha256": "6e4c07e5b4043bfd9a8b4ede11ca9cf09f4253cb7d9a3a1b2f760961fa23b96a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-transition/contact-sheet.jpg",
+          "sha256": "74083a96f9f51d8c9a4c08ab7cb7c15b9ca98f757d0ed4ef8a047c4d656acb05"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-opening/contact-sheet.jpg",
+          "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "c3ed890b30ac1f7d08fbb1b0481e258acca01ec78c8c7b57c1c10dc5f1f28e51"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "f52ec46bbd85922d836c08f2b09ca746441b7bfb9ed1bacd34bb64a68a2a0db0"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-transition/contact-sheet.jpg",
+          "sha256": "76c8a9808a06ef9e3cf8cf41d68fb191819ca1fae39f3fe9ca06d8e97b4d8958"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-1/contact-sheet.jpg",
+          "sha256": "60e25f0c8f317ced1466460d724466293b77a236e962c94be9a09c903b1f15d9"
+        }
+      ]
+    },
+    {
+      "name": "photographic-world-to-detail",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "原有三对象连续重组为选中摄影、小索引和观看工具，实际距离及指针取景与主体耦合，正反、复位和离开保持完整构图。",
+      "referenceFrames": [
+        "reference-14",
+        "reference-21",
+        "reference-24",
+        "reference-18"
+      ],
+      "candidateFrames": [
+        "candidate-64",
+        "candidate-65",
+        "candidate-69",
+        "candidate-89",
+        "candidate-90",
+        "candidate-91",
+        "candidate-92",
+        "candidate-93",
+        "candidate-80"
+      ],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-middle/contact-sheet.jpg",
+          "sha256": "0dbce21ac2302586a5927cdced489ad9a94e9501dc9c790e41a98d8011ff5f82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-zoom-forward/contact-sheet.jpg",
+          "sha256": "5f19061a321495c8eaaba335acc4e5549745bd605eea1c7b6b46e5b6c8732a12"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-pointer-zoom-reverse/contact-sheet.jpg",
+          "sha256": "79fc052bb3c0dadc848d2883abcea31e8828af7a163cbbe5e326b4192f24e448"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-middle/contact-sheet.jpg",
+          "sha256": "49224ee97d1e98db7ae064b7fcdb96115ee3899f53c4a5b16f1d9b2c08e40a8a"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "f52ec46bbd85922d836c08f2b09ca746441b7bfb9ed1bacd34bb64a68a2a0db0"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-middle/contact-sheet.jpg",
+          "sha256": "339cd2e34e83c29ec86c83f973df631fa0df9242429c8ada45d607be87281c64"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "5ad669537be30b4de49e85ac3bc973e8f47081b4c96a8aaec3da0d7d6044ec6e"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "8f6764f2b7f5c7d6d493d80e49083257231588ee40b75ed47c94881dfa06689d"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "3eca66233b03d4d941037233bda3182c0c2e9f46163a542c498c61858dba6ccf"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-inspect-3/contact-sheet.jpg",
+          "sha256": "1b9c57799391616f9990978725edcc39ead62aee71aadd254c599b8480d462b4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-inspect-4/contact-sheet.jpg",
+          "sha256": "b6c82d04885055a7ff177570167a50929a0ab62b803142c73e3234a944c14bf1"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-reduced/contact-sheet.jpg",
+          "sha256": "c941ef0d8f612234f00a7d3146f1121fb6f648d22074e2aec625fad65ab1ec31"
+        }
+      ]
+    },
+    {
+      "name": "chromatic-photographer-sequence",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "同一原创演示摄影者在橙、蓝、绿三种独立光线和姿态中成为主体，短人物介绍推进到持相机的独立联系收束，没有使用同图换色。",
+      "referenceFrames": [
+        "reference-38",
+        "reference-39",
+        "reference-40",
+        "reference-57",
+        "reference-58",
+        "reference-59"
+      ],
+      "candidateFrames": [
+        "candidate-81",
+        "candidate-82",
+        "candidate-66",
+        "candidate-108",
+        "candidate-109",
+        "candidate-70"
+      ],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-start/contact-sheet.jpg",
+          "sha256": "ae16cf220ff5d350cefc7692d9b15cb5dad0ba67a2ecc1aadbedd54ee6995f98"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-5/contact-sheet.jpg",
+          "sha256": "607dbaf351f73462c382aadf5e224bea33ca3203432506b5929bc419ac6a6fc3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/desktop-about-forward-11/contact-sheet.jpg",
+          "sha256": "9b13ce5489150318cd0967e6c0aa3b5ba9b5e484ce79ce78a9fb9625e08af945"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-start/contact-sheet.jpg",
+          "sha256": "346eaddf36c4a22ff3fbf5f2db266ba1859648244be9e96ecd3aad42c814b023"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-0/contact-sheet.jpg",
+          "sha256": "15431cdcb4e6811e9c65c01debc2376ca2021ecb1a3d1f2c73272b08883aa368"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-10/mobile-about-forward-2/contact-sheet.jpg",
+          "sha256": "120e80351471d467a74e6de0454244863e642d710943e072a7f3a61634823086"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-0/contact-sheet.jpg",
+          "sha256": "160d08fcdcbf6514ca9c000563cfd913049d136206e44a4ce636b048631410af"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-1/contact-sheet.jpg",
+          "sha256": "9052802b5360762ceb3b5c1550d2b4481e729b139be5cd3c40a95953e3d0af58"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-0/contact-sheet.jpg",
+          "sha256": "8b8e2327a07754548bce2697572711ef824fe377367fdadf145c08eb16c544e8"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-1/contact-sheet.jpg",
+          "sha256": "44b7ccea5f43d41bf50f43a793e5eaa7b10b0c66b1646a49e7f674a35fea98a6"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-ending/contact-sheet.jpg",
+          "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "candidate-63",
+        "candidate-64",
+        "candidate-65",
+        "candidate-72",
+        "candidate-78",
+        "candidate-79",
+        "candidate-80",
+        "candidate-81",
+        "candidate-82",
+        "candidate-108",
+        "candidate-109",
+        "candidate-111",
+        "candidate-112",
+        "candidate-117",
+        "candidate-118",
+        "candidate-119",
+        "candidate-121",
+        "candidate-122"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "c3ed890b30ac1f7d08fbb1b0481e258acca01ec78c8c7b57c1c10dc5f1f28e51"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "f52ec46bbd85922d836c08f2b09ca746441b7bfb9ed1bacd34bb64a68a2a0db0"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "e7aec8c27684869137519d00895f620d62a3d9552192eac51269ae6930f18b4f"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "40f464ef87cce65007b5bb6c83bf8a6b42520c5d51b4c2906b7b5a231990247d"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "9dbf66a4b678402cc8e9df083bc92edf2890d4d4c8944133402617a6ac8f51a2"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-reduced/contact-sheet.jpg",
+          "sha256": "c941ef0d8f612234f00a7d3146f1121fb6f648d22074e2aec625fad65ab1ec31"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-0/contact-sheet.jpg",
+          "sha256": "160d08fcdcbf6514ca9c000563cfd913049d136206e44a4ce636b048631410af"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-scene-process-1/contact-sheet.jpg",
+          "sha256": "9052802b5360762ceb3b5c1550d2b4481e729b139be5cd3c40a95953e3d0af58"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-0/contact-sheet.jpg",
+          "sha256": "8b8e2327a07754548bce2697572711ef824fe377367fdadf145c08eb16c544e8"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-1/contact-sheet.jpg",
+          "sha256": "44b7ccea5f43d41bf50f43a793e5eaa7b10b0c66b1646a49e7f674a35fea98a6"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-3/contact-sheet.jpg",
+          "sha256": "e909f5baa4c8985b17752fb7ffd5a675b86b5e53be59562bd95311b51a78490d"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-scene-process-4/contact-sheet.jpg",
+          "sha256": "a6361faf769f29af14e9eb77e6fa295742028935d6e5bbf4b4ab4ec7831cb5b7"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-1/contact-sheet.jpg",
+          "sha256": "60e25f0c8f317ced1466460d724466293b77a236e962c94be9a09c903b1f15d9"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-2/contact-sheet.jpg",
+          "sha256": "da16d9f8861c2d0d4901b50ee9b319b0f9f0840795e07392af9d7334d231851a"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-3/contact-sheet.jpg",
+          "sha256": "d324a611615a355fa68cf67e5204b4beaec9c53c001e08ebe249cbfa0a3d94a5"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-reduced-5/contact-sheet.jpg",
+          "sha256": "323385ac49da0c7597a8050ada70bf8a0a5c6c43a87afca4d1c2bf9b51c2236a"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-touch-reduced-6/contact-sheet.jpg",
+          "sha256": "c9d1218b4d63cc417aef96ebfcb5bc0b77111001e375217736424b1875b7d0ef"
+        }
+      ]
+    },
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "candidate-89",
+        "candidate-90",
+        "candidate-91",
+        "candidate-92",
+        "candidate-93",
+        "candidate-94",
+        "candidate-95",
+        "candidate-96",
+        "candidate-97"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "5ad669537be30b4de49e85ac3bc973e8f47081b4c96a8aaec3da0d7d6044ec6e"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "8f6764f2b7f5c7d6d493d80e49083257231588ee40b75ed47c94881dfa06689d"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "3eca66233b03d4d941037233bda3182c0c2e9f46163a542c498c61858dba6ccf"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-inspect-3/contact-sheet.jpg",
+          "sha256": "1b9c57799391616f9990978725edcc39ead62aee71aadd254c599b8480d462b4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-inspect-4/contact-sheet.jpg",
+          "sha256": "b6c82d04885055a7ff177570167a50929a0ab62b803142c73e3234a944c14bf1"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-inspect-5/contact-sheet.jpg",
+          "sha256": "1b9c57799391616f9990978725edcc39ead62aee71aadd254c599b8480d462b4"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-action-6/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        },
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "e7452aefe0593f4a264040f1f182522c76f3fb8e3be2883c1ee9f69b749604bb"
+        }
+      ]
+    }
+  ],
+  "nextAction": "admit",
+  "fixTasks": [],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "错位的大小肖像与居中的大衬线分类字形成摄影作品的主要观看对象，照片人物、造型和具体光线需要有辨识度。",
+        "material": "摄影的肤质、发型、服装与明暗必须有真实细节；不同作品的色彩和纹理各有内容，不能以普通头像或统一滤镜充数。",
+        "composition": "纸色空间中三处不同幅面的摄影与分类字有控制的遮叠和间距，手机重排为交错摄影并直接显示作品名，不退回普通等宽卡片。",
+        "role": "默认已呈现摄影作品及身份，主要图片无需进入菜单或先点击才看见，后续连续观看由这些真实作品展开。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": ".photo-world.visual",
+            "minimumViewportArea": 0.9,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "原有摄影对象在连续输入中穿越视口，观看位置、幅面及图字关系发生有作用的交接，新的作品观看内容保持清楚。",
+        "material": "照片放大或进入新位置时仍有充分的肤质、造型和服装细节；不得用模糊占位或强遮罩掩盖实际图片工艺。",
+        "composition": "摄影和大字保持前后层次，照片的错位与尺度变化推进观看，主体不能缩成边缘小卡或长时间只留下孤立字形。",
+        "role": "输入实际改变摄影观看，正向、反向和停止均有清楚的当前对象；手机的实际触摸保留同一内容用途，不能只用桌面轮滚推定。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": ".photo-world.visual",
+            "minimumViewportArea": 0.9,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "摄影项目进入细看空间，同一作品对象与索引及观看工具共同组成主要构图，必须实际保留照片细节与完整回到作品的路径。",
+        "material": "最终摄影在细看尺度中仍清晰、自然，皮肤、织物与光线层次可辨；放大后的低清或失真的人脸不能以功能通过抵消。",
+        "composition": "从项目摄影进入居中观看及侧边索引的布局交接连续，工具与图片有明确比例，手机照片和退出行动均完整可达。",
+        "role": "指针或触摸操作改变实际摄影取景并可返回，观看器的构图交接与主题耦合；普通放大按钮或倍率数字自身不是签名品质。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": ".photo-world.visual",
+            "minimumViewportArea": 0.9,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "独立的人物肖像承担摄影者介绍与收束，同一人物的不同姿态、彩色光线及相机身份形成完整摄影结果，不用纯色联系块替代。",
+        "material": "橙、蓝、绿的独立光线与深色人物轮廓相互区分，肤质、手部与相机结构真实；不能把同一照片换色当作新的摄影。",
+        "composition": "彩色摄影保持足够面积和可辨轮廓，短文字与联系位于合适空间，手机仍有完整人物观看与清楚行动，不再次堆叠巨型标题。",
+        "role": "由观看作品转为观看摄影者及其光线语言，介绍与联系直接可到达，末段具有独立摄影身份与完整结束，不无限循环补长。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-ending .visual",
+            "minimumViewportArea": 0.3,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": []
+  },
+  "visualContractSha256": "a14c27d6f4aa6cb602c2674fdaf14f7bdeedb96f0023392d2433d326cebe8c48",
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "错位摄影、纸色与字形形成完整摄影观看；行动在留白中，说明和主体保持清楚。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-opening/contact-sheet.jpg",
+          "sha256": "c3ed890b30ac1f7d08fbb1b0481e258acca01ec78c8c7b57c1c10dc5f1f28e51"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "原生输入穿越的摄影仍有充分面积与具体细节，新的观看对象与图字关系清楚。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-transition/contact-sheet.jpg",
+          "sha256": "f52ec46bbd85922d836c08f2b09ca746441b7bfb9ed1bacd34bb64a68a2a0db0"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "选中摄影、两幅索引和取景工具共同重组，主体与退出/复位均完整。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-middle/contact-sheet.jpg",
+          "sha256": "5b18b3ba23499c7f8a5381cce3b64477ef42389bd6396e87abd6d857cf15ea59"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "独立绿光人物、手部和相机构成完整摄影结果，联系与返回可达，没有重复首图。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/desktop-ending/contact-sheet.jpg",
+          "sha256": "0da44ac76cf2bed004841c2d95d1378358039ed1cebc0cf3533a86983c9fd62f"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "错位摄影、纸色与字形形成完整摄影观看；行动在留白中，说明和主体保持清楚。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-opening/contact-sheet.jpg",
+          "sha256": "67dcb15fed52bd6bdceb78d83d16a53b4127317f1aa6cb1bc7d897c21363b177"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "原生输入穿越的摄影仍有充分面积与具体细节，新的观看对象与图字关系清楚。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-transition/contact-sheet.jpg",
+          "sha256": "76c8a9808a06ef9e3cf8cf41d68fb191819ca1fae39f3fe9ca06d8e97b4d8958"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "选中摄影、两幅索引和取景工具共同重组，主体与退出/复位均完整。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-middle/contact-sheet.jpg",
+          "sha256": "339cd2e34e83c29ec86c83f973df631fa0df9242429c8ada45d607be87281c64"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "独立绿光人物、手部和相机构成完整摄影结果，联系与返回可达，没有重复首图。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/prototype-009-4473c9f4d946838c/attempt-0/mobile-ending/contact-sheet.jpg",
+          "sha256": "d7c31bf0344a9aa5325b33b6c5a253fc7c233914a64baaeab489cd85a11fb3c4"
+        }
+      ]
+    }
+  ],
+  "continuityChecks": [],
+  "reviewReceipt": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/review-queue/25-prototype-review-a8965ac2-receipt.json",
+    "sha256": "e338a4646ed27ec62f47e70907a6dfefc7db4bc746e24ec36b2359d5c132dd27"
+  }
+}

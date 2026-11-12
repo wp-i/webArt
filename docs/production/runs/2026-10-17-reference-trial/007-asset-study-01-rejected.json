@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "007",
+  "phase": "asset-study",
+  "decision": "reject",
+  "sourceFiles": [
+    {
+      "path": ".webart/prototypes/007-campo-object-study-20261017/src/core/campo-scene.js",
+      "sha256": "ea6fe8614aa3084e09b49231d712905cba6b61733bff712fb022cf9c180aef6c"
+    },
+    {
+      "path": ".webart/prototypes/007-campo-object-study-20261017/public/assets/hand-right.glb",
+      "sha256": "291790c14f7f88a7f9bd35330c47392ed8e8d395ae6728f4bb7089f1bc1f2b96"
+    },
+    {
+      "path": ".webart/prototypes/007-campo-object-study-20261017/public/assets/coaster.obj",
+      "sha256": "45b47e3161a4bad0546698c14d8f7f8c915a62789052003b57a3890b796c6637"
+    }
+  ],
+  "evidence": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/desktop-opening.jpg",
+          "sha256": "d900301c3c92e119fbe6a9ee57425fb7207ebbe1d7d513ea5ce794a662f2f09c"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/desktop-transition.jpg",
+          "sha256": "f0b47d812cf1f211eacea4349fe3ab3e72484d274c722b9fcb36ef321d2094b3"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/desktop-middle.jpg",
+          "sha256": "3b99f78ccc30cb5a76e8549925c792e4c780abf148e00f48cadd083bd04231c0"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/desktop-ending.jpg",
+          "sha256": "8c0830377cc8ddd8df1d4a4887b44bd1ad10abf39f257c27e4d9d7825b089e8b"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/mobile-opening.jpg",
+          "sha256": "c90a5d3b4c67bb6be02611e3e2478ab1aa60f4e004aaf7667b81df7a8115bd97"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/mobile-transition.jpg",
+          "sha256": "a433646946791bff405beadb36b7ec21e1458dfb708fa6022b0aad5e519ed95b"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/mobile-middle.jpg",
+          "sha256": "9dbd8bbde123bc2056969d8bbc789ebbf71ccea920f3dfb1f141c3071e03d050"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/mobile-ending.jpg",
+          "sha256": "2c535755c372da1dd7e8a76db5d8fb712501db5a9dc6bc9cb7a01cbb48f7f6f9"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "opening",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/tablet-opening.jpg",
+          "sha256": "75e48f97a1470f0e9a9cfcbbea646d0498c9640bc421115c83564f72c25a7410"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "transition",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/tablet-transition.jpg",
+          "sha256": "d112d08dafde09be9089ff217ed9c66476d0bca574d6ef29a52d92f4c999bfd4"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "middle",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/tablet-middle.jpg",
+          "sha256": "0ab2020272da2fa676c49e7c7127914f2235d80a8f2cb21768195bfa7b18ce21"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "ending",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/007-core-01/tablet-ending.jpg",
+          "sha256": "4371c1d2104b3b8a92fcc45ca54205c3bd1fc0bfd3510f07a25511f7f85ceecc"
+        }
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "role": "hand",
+      "result": "reject",
+      "finding": "The WebXR input hand is a low-detail input visualization. Nails and knuckle anatomy are absent; curled fingertips show faceted collapsed forms and the wrist ends as a flat severed cap. This cannot stand in for the source hand at final phone scale."
+    },
+    {
+      "role": "cork",
+      "result": "reject",
+      "finding": "Uniform fine noise and overexposed amber color flatten the coarse/fine cork flakes. The sidewall does not show the required material character; the plate shape alone cannot grant acceptance."
+    },
+    {
+      "role": "beans",
+      "result": "reject",
+      "finding": "The repeated smooth surface and bright candy-like highlights read as plastic beans. A central groove exists but does not compensate for the lack of roasted skin, wrinkling, varied tone and close-up craft."
+    },
+    {
+      "role": "composition",
+      "result": "reject",
+      "finding": "The tablet macro is cropped without a deliberate frame, and desk tools remain visible during the floating material state. The source transition requires an intentional isolated object, not leftover prop geometry."
+    }
+  ],
+  "nextAction": "replace-insufficient-assets-before-page-implementation",
+  "limitations": "Current conversation assisted visual audit, not independent model review or user acceptance.",
+  "pageImplementationAllowed": false,
+  "packagingAllowed": false
+}

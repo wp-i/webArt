@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ivory-woven-v1",
+  "templateId": "006",
+  "status": "internal-qualified-user-pending",
+  "directory": "renderers/ivory-woven-v1",
+  "sourceDirectory": "renderers/ivory-woven-v1/source",
+  "sourceSha256": "da45e281df2afc23861c7c20f678353f8e27acaa2d235feae2d1c6b4469eae1d",
+  "planSha256": "1c6183cb827fa35fda0b3895ee54ee8f8873db0deadbb06ded884de903089832",
+  "requiredContent": [
+    "hero-line-1",
+    "hero-line-2",
+    "intro",
+    "spaces-heading",
+    "materials-heading",
+    "materials-intro",
+    "contact-heading"
+  ],
+  "deliveryReceipt": {
+    "path": "docs/production/runs/api-20261020121901603-234fa897/api-20261020121901603-234fa897-006-archive-receipt.json",
+    "sha256": "558a4d35dfad79aa8f7cf80c916e8198d7672086bb71f74b0146016cadbb5a1f"
+  },
+  "manifest": {
+    "path": "renderers/ivory-woven-v1/manifest.json",
+    "sha256": "ade5824c105f6afb629366a4dbbf6bcb4f96d9317a19d3fffd544e1350ce7a38"
+  },
+  "contract": {
+    "path": "renderers/ivory-woven-v1/contract.json",
+    "sha256": "409906a946121a5fd8227fcc1a9a16dd50164057f620c95eb0ab1168f842405c"
+  },
+  "qualification": {
+    "path": "renderers/ivory-woven-v1/qualification.json",
+    "sha256": "c52d721f3eee13617d4e8712d278cce7062ebe7e34a0a4b53049ce584a6f147f"
+  },
+  "contentRules": {
+    "path": "renderers/ivory-woven-v1/content-rules.json",
+    "sha256": "ce0fb30c9d6ab5bdd8f9aeb4fafce3dc2ec7737a6d61f2a7b09733a96e75b08c"
+  },
+  "limitations": "Internally qualified only; user acceptance is pending. Registration and replay do not create a new design or guarantee user acceptance."
+}

@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-12T11:55:53.644Z",
+  "templates": [
+    {
+      "id": "001",
+      "sourceSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+      "zipSha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0",
+      "unchanged": true
+    },
+    {
+      "id": "006",
+      "sourceSha256": "3be6deb3cc6893ce3a225c43d7cdd330a3aed8b945269cd77056577262e1f99a",
+      "zipSha256": "56c58f16e8fe4fa84b86036bdb59b62ee333f6481808077c3f46343f7890f122",
+      "unchanged": true
+    },
+    {
+      "id": "007",
+      "sourceSha256": "46c7d81838525a79057b4d7a98f030222a2befb44b0b7b8719e63c3224d2121f",
+      "zipSha256": "9aa7e97c355ee902f33ef3199afff7657ea7a54ffdec49709e95e8e301770fcf",
+      "unchanged": true
+    },
+    {
+      "id": "008",
+      "sourceSha256": "31892bf10228f07d305ed4bee795c10bed76c5514a06429ab545d10eaeddcd99",
+      "zipSha256": "f3054f5f8f18982234d039a1a3b4bbef79693ad402a57bba24b88f657341141c",
+      "unchanged": true
+    },
+    {
+      "id": "009",
+      "sourceSha256": "057d1fff49885ed00ccd2bae36abcd33ae87fffc4bd7fdbc13b9b31f0444c147",
+      "zipSha256": "ff3b0b4e3f12ba528866f26e1f1ab667ea9caa3c4497047515456b207be47203",
+      "unchanged": true
+    }
+  ]
+}

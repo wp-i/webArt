@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "007",
+  "phase": "bounded-media-source-scout",
+  "recordedAt": "2026-10-30T05:40:26.307Z",
+  "result": "no-source-admitted-one-evidence-needed-lead",
+  "scope": "Three new source sites only. No final source assets acquired, candidate created, implementation, packaging, publication or user visual acceptance.",
+  "reviewer": {
+    "id": "current-conversation-subagent-source-scout",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "bounds": {
+    "maximumNewSites": 3,
+    "actualNewSites": 3,
+    "actualMainFrames": 72,
+    "finalAssetsDownloaded": 0,
+    "reviewModelCallsMade": 0,
+    "pageCodeAuthorshipCalls": 0
+  },
+  "method": {
+    "browser": "agent-browser 0.27.0 isolated session webart-007-scout-20261030 with explicit installed Chrome; existing BrowserPage helper for matched physical/layout viewport and native input",
+    "normalMediaPreference": "explicit no-preference",
+    "viewports": [
+      [
+        1440,
+        900
+      ],
+      [
+        390,
+        844
+      ]
+    ],
+    "inputs": [
+      "native desktop wheel",
+      "real phone held touchStart/Move/End"
+    ],
+    "viewing": "All 72 main frames viewed through three labelled contact sheets; also full frozen001 opening/ending for both widths. These are bounded observations, not a formal calibrated review.",
+    "notPerformed": [
+      "formal seven-dimension calibrated review",
+      "normal reverse/reentry and settled stop process",
+      "source reduced-motion input",
+      "final-asset licensing/adoption",
+      "prototype or page implementation"
+    ]
+  },
+  "sources": [
+    {
+      "name": "The Magic Bottle",
+      "url": "https://magic.estudionk.com/",
+      "discoveredFrom": "https://www.nk.studio/work/magic-bottle",
+      "decision": "rejected-bounded-screen",
+      "finding": "Default desktop and phone show CLICK/TAP ANYWHERE TO START over the full page after native forward input. Basic content requires entrance interaction; unsuitable for this project default-content requirement. Hidden post-entry content was not judged.",
+      "technicalLimit": "Phone touch command eventually timed out; main run incomplete. This timeout is not the rejection basis; all captured frames show the entrance overlay.",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/path.json",
+        "sha256": "0ffb086608674c0abdc120597589fc48ef0737d9909bc2f91183cd70d0fa6a4b"
+      },
+      "contact": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/contact.jpg",
+        "sha256": "19fe04ee563a63f0318a9b6dc9adb6f6b0965ef3824b5733e8afd3b65b01d7f3"
+      },
+      "actualFrames": 24,
+      "lastActualProgress": {
+        "desktop": {
+          "scrollY": 0,
+          "maxY": 0,
+          "atFiniteMaximum": false
+        },
+        "mobile": {
+          "scrollY": 5450,
+          "maxY": 11971,
+          "atFiniteMaximum": false
+        }
+      },
+      "packageAuthorized": false
+    },
+    {
+      "name": "Koffiracha",
+      "url": "https://koffiracha.com/",
+      "discoveredFrom": "https://www.scottishdesignawards.com/2025/interface-design/koffiracha-hot-sauce/index.html",
+      "decision": "rejected-bounded-screen",
+      "finding": "Bottle-led opening and vivid burger/lifestyle photography are present. Whole path repeats the bottle and large stacked type treatment in POUR and HOT COUPLE/HOTTER SAUCE, before SAUCY ERA and a large brand wordmark/mission at the actual finite ending. Does not supply the required varied short-page rhythm and equally specific media closing.",
+      "limitations": [
+        "Later lazy media readiness was not individually measured; white phone areas are not claimed as loading failure or used as rejection basis.",
+        "Cookie interface remained visible; no consent changed."
+      ],
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/path.json",
+        "sha256": "da566d5b6286d6a5223e5484a04bd5fb0f65e3567defc5c66c10a277e686241c"
+      },
+      "contact": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/contact.jpg",
+        "sha256": "75553ed5de263c00212479f0dfa0d50b429fe2e69b0be3f735b9c72fdeccc2c6"
+      },
+      "actualFrames": 22,
+      "lastActualProgress": {
+        "desktop": {
+          "scrollY": 7328,
+          "maxY": 7328,
+          "atFiniteMaximum": true
+        },
+        "mobile": {
+          "scrollY": 2837,
+          "maxY": 2837,
+          "atFiniteMaximum": true
+        }
+      },
+      "packageAuthorized": false
+    },
+    {
+      "name": "Lando Norris",
+      "url": "https://landonorris.com/",
+      "discoveredFrom": "https://landonorris.com/",
+      "decision": "evidence-needed-not-selected",
+      "finding": "Actual path shows a specific phone portrait, signature over reduced portrait, staggered life/racing photos with dark-to-light ground transition, paired helmet/person composition and helmet collection. This is a concrete media-led lead. Desktop first frame was still loading and current partial path cannot establish admission.",
+      "remainingEvidence": [
+        "Settled desktop opening with loaded portrait/render.",
+        "Actual finite desktop and phone ending and extra native forward input; last captures did not reach measured maximum.",
+        "Actual pointer enter/move/leave/reentry and phone alternative, reverse/stop and reduced-motion in the same scenario."
+      ],
+      "replacementFeasibility": {
+        "status": "not-established",
+        "gaps": [
+          "Same fictional person, outfit and product identity across hero/story/close requires a concrete licensed coherent image set.",
+          "Helmet collection and interactive objects need explicitly redistributable mature models/materials; none selected or acquired.",
+          "Do not substitute generic photo parallax for helmet/portrait coupling or delete the ending before observing it."
+        ]
+      },
+      "supplementFailure": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-supplement/path.json",
+        "sha256": "b412ad6e837c23f49337d9096635efce683bbc720f8583428bae825041fb7017"
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/path.json",
+        "sha256": "70dbb69e993f3df3294b590890afdf01d14fc213520fe5cce793b2de26da9a8e"
+      },
+      "contact": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/contact.jpg",
+        "sha256": "a966aeba1f572fda389c02a87062cdd6c262517b03b941129fe388b1f3d6f247"
+      },
+      "actualFrames": 26,
+      "lastActualProgress": {
+        "desktop": {
+          "scrollY": 9120,
+          "maxY": 12677,
+          "atFiniteMaximum": false
+        },
+        "mobile": {
+          "scrollY": 8662,
+          "maxY": 9235,
+          "atFiniteMaximum": false
+        }
+      },
+      "packageAuthorized": false
+    }
+  ],
+  "nextAction": "No fourth source in this batch. Chief can prioritize Lando completion after revalidating the live but unresponsive browser, or continue another admitted branch. This record grants no reference, asset, prototype or production approval.",
+  "inventoryChanged": false,
+  "showcaseChanged": false,
+  "goalComplete": false
+}

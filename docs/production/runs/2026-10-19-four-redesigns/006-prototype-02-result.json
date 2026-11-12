@@ -1,0 +1,308 @@
+{
+  "decision": "admit",
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "近景织纹与绒面交界形成具体而统一的材质主体，中央衬线字形在深色褶皱上建立身份；相对基准的独立主构图已经成立。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-4"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-41"
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "中央衬线身份与深色织纹有清楚尺度关系，材料索引改用安静的纸色与竖幅比例；空间照片不再叠加大标题，窗框的明暗不吞没文字。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-38",
+        "candidate-42"
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "主视觉、空间与收束沿用同一原创织物身份但采用独立视角，木材、白纱和织纹有明确层次；两幅索引素材提供不同实际观看内容。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-38",
+        "candidate-39",
+        "candidate-40",
+        "candidate-51",
+        "candidate-52"
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "真实纵向输入推进横向相邻空间，正反序列重现窗边和玫瑰色房间；随后缩到白底材料索引，再进入独立光影结尾，节奏不再同构。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-1",
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "candidate-38",
+        "candidate-39",
+        "candidate-40",
+        "candidate-45",
+        "candidate-46",
+        "candidate-47",
+        "candidate-48",
+        "candidate-49"
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "指针在两项索引间往返时，蓝色织物和选材人物主图确实替换；离开返回默认项，减少动态仍可选择，保留了母版改变观看内容的作用。",
+      "benchmarkFrames": [
+        "benchmark-2",
+        "benchmark-6"
+      ],
+      "candidateFrames": [
+        "candidate-51",
+        "candidate-52",
+        "candidate-53",
+        "candidate-54",
+        "candidate-55"
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "结尾采用新的窗帘地面摄影，与开场近景形成材料到空间的闭合，短联系嵌入暗部而非单独邮箱块；桌面手机均保持光线、白纱和地面。",
+      "benchmarkFrames": [
+        "benchmark-3",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-40",
+        "candidate-44",
+        "candidate-47",
+        "candidate-58"
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "手机近景保持织纹与绒面交界，空间段只留下底部局部暗部中的短编号，白底索引与独立窗帘结尾各有完整主体和可读短字，未再出现亮窗上的叠字。",
+      "benchmarkFrames": [
+        "benchmark-4",
+        "benchmark-5",
+        "benchmark-6",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-41",
+        "candidate-42",
+        "candidate-43",
+        "candidate-44"
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "textile-to-spatial-panorama",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "真实纵向输入推进满高空间卷轴，窗边与玫瑰色房间的相邻边界随滚动改变，已保留材料到空间的观看作用。",
+      "referenceFrames": [
+        "reference-13",
+        "reference-21",
+        "reference-23",
+        "reference-32"
+      ],
+      "candidateFrames": [
+        "candidate-38",
+        "candidate-42",
+        "candidate-46",
+        "candidate-48",
+        "candidate-57",
+        "candidate-59"
+      ]
+    },
+    {
+      "name": "index-selects-material-view",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "指针的正向、反向与离开让织物和选材照片直接替换主图，减少动态仍有同一观看内容，未退化为游标和字色反馈。",
+      "referenceFrames": [
+        "reference-26",
+        "reference-27",
+        "reference-28",
+        "reference-29",
+        "reference-30"
+      ],
+      "candidateFrames": [
+        "candidate-39",
+        "candidate-43",
+        "candidate-51",
+        "candidate-52",
+        "candidate-53",
+        "candidate-54",
+        "candidate-55"
+      ]
+    }
+  ],
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "近景主体覆盖视口，织纹与绒面交界清楚，短衬线身份在深色区域成组呈现，未依赖输入才显示主要内容。",
+      "frames": [
+        "candidate-37"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "横向摄影贯穿视口并显露相邻空间的方向，取消多余大标题后主体与窗口保持清楚，局部底部编号提供必要内容定位。",
+      "frames": [
+        "candidate-38"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "白底材料主图与两项轻索引形成不同尺度，默认蓝色织物有清楚细节，指针过程另见选材照片而非微小平移。",
+      "frames": [
+        "candidate-39"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "独立窗帘、白纱与木地面共同收束，联系文字在厚料暗部保持可读，结尾没有重复首图或巨型品牌。",
+      "frames": [
+        "candidate-40"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机近景仍显示织纹、绒面和流动边界，中央两行衬线文字清楚，导航与短用途未遮挡主要材料。",
+      "frames": [
+        "candidate-41"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机过渡保留两处室内空间的完整高度与相邻观看，明亮窗框上不再压字，底部短编号有窄渐变承托而未整体压暗照片。",
+      "frames": [
+        "candidate-42"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机将材料主图与两项选择上下组织，已减少冗余说明，默认织纹细节与可选择标签都在真实正常路径中。",
+      "frames": [
+        "candidate-43"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机收束完整呈现厚料、透光白纱与地面接触，联系和返回在暗部可读，没有通用纯色邮箱段替代摄影结果。",
+      "frames": [
+        "candidate-44"
+      ]
+    }
+  ],
+  "continuityChecks": [],
+  "motion": [
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "candidate-45",
+        "candidate-46",
+        "candidate-47",
+        "candidate-48",
+        "candidate-49",
+        "candidate-50",
+        "candidate-56",
+        "candidate-57",
+        "candidate-58",
+        "candidate-59",
+        "candidate-60",
+        "candidate-61"
+      ]
+    },
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "candidate-51",
+        "candidate-52",
+        "candidate-53",
+        "candidate-54",
+        "candidate-55"
+      ]
+    }
+  ],
+  "nextAction": "admit",
+  "fixTasks": []
+}

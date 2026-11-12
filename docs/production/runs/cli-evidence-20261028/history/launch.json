@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "execution": "actual-codex-cli-calibration",
+  "modelRequestsAuthorized": "one bounded CLI exec; backend request count unknown",
+  "requestedModel": null,
+  "automaticAdapterRetries": 0,
+  "sampleCount": 6,
+  "attachedImageCount": 48,
+  "prompt": {
+    "path": "docs/production/prompts/CALIBRATE_REVIEWER.md",
+    "sha256": "462abf61f4f5ab711442e666e43aec29238d6cb4506f95249397f38a370dd521"
+  },
+  "featureProbePassed": true,
+  "startedAt": "2026-10-25T14:54:40.109Z"
+}

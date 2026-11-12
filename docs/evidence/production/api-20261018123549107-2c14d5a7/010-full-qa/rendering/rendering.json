@@ -1,0 +1,284 @@
+{
+  "result": "captured-not-visually-approved",
+  "checks": [
+    {
+      "mode": "context-unavailable",
+      "width": 1440,
+      "height": 900,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-1440-opening.jpg",
+            "sha256": "a93a156d070f1ed5ae03688440ed3c0b075c76ed5ffbfcd0cc4cbd45fb5fcef5"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-1440-transition.jpg",
+            "sha256": "81dde91c1c269ae5cab627d8191c62192ff6fe28d5057177d75d3ca878335ad3"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-1440-middle.jpg",
+            "sha256": "828879202727cc1c9be9774bef1e3f3e37041bbda250c8b70ad781a3d580af3e"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-1440-ending.jpg",
+            "sha256": "cc8bee4b0214af700f50089356106d7b974c60d9e991912259c65ed4187cd83a"
+          }
+        }
+      ]
+    },
+    {
+      "mode": "context-unavailable",
+      "width": 390,
+      "height": 844,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-390-opening.jpg",
+            "sha256": "e42bebc35a01f87d4a42f9d61e06b0f82d90a4727625847fec0d1bc78876c94f"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-390-transition.jpg",
+            "sha256": "c737f8a211737f47a1125d9d1a8f1299a7819f8e5e42c74c3927229697a1a16a"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-390-middle.jpg",
+            "sha256": "c7f77d963ac685ca773172ba43e59a422f7483b6c842973f87e413ee24cffafe"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-390-ending.jpg",
+            "sha256": "ac550089adec4859ef278c5881110dd8f7c9e3722b17721d164d05a67e66a929"
+          }
+        }
+      ]
+    },
+    {
+      "mode": "context-unavailable",
+      "width": 320,
+      "height": 844,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-320-opening.jpg",
+            "sha256": "7d56b0c4c28786c1c279025e38eb0e4e3dc9d03715d8222fa74170df14ac23a1"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-320-transition.jpg",
+            "sha256": "643d834385c3d8593fd01ce08fb0ceb48b3c36efee5531a075dc37dbac5d24f6"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-320-middle.jpg",
+            "sha256": "e25ab999329d65c7a76fa77cbdab4fc344e41d7d91c9bd7be6c94be745af9791"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-unavailable-320-ending.jpg",
+            "sha256": "a766e8a69c9e8bb5d4a4dd22a70411ad816ef28c1df64aaa1fa0b055c2c12711"
+          }
+        }
+      ]
+    },
+    {
+      "mode": "context-lost",
+      "width": 1440,
+      "height": 900,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-1440-opening.jpg",
+            "sha256": "a93a156d070f1ed5ae03688440ed3c0b075c76ed5ffbfcd0cc4cbd45fb5fcef5"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-1440-transition.jpg",
+            "sha256": "81dde91c1c269ae5cab627d8191c62192ff6fe28d5057177d75d3ca878335ad3"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-1440-middle.jpg",
+            "sha256": "828879202727cc1c9be9774bef1e3f3e37041bbda250c8b70ad781a3d580af3e"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-1440-ending.jpg",
+            "sha256": "cc8bee4b0214af700f50089356106d7b974c60d9e991912259c65ed4187cd83a"
+          }
+        }
+      ]
+    },
+    {
+      "mode": "context-lost",
+      "width": 390,
+      "height": 844,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-390-opening.jpg",
+            "sha256": "e42bebc35a01f87d4a42f9d61e06b0f82d90a4727625847fec0d1bc78876c94f"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-390-transition.jpg",
+            "sha256": "c737f8a211737f47a1125d9d1a8f1299a7819f8e5e42c74c3927229697a1a16a"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-390-middle.jpg",
+            "sha256": "c7f77d963ac685ca773172ba43e59a422f7483b6c842973f87e413ee24cffafe"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-390-ending.jpg",
+            "sha256": "ac550089adec4859ef278c5881110dd8f7c9e3722b17721d164d05a67e66a929"
+          }
+        }
+      ]
+    },
+    {
+      "mode": "context-lost",
+      "width": 320,
+      "height": 844,
+      "trigger": {
+        "observed": true
+      },
+      "states": [
+        {
+          "state": "opening",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-320-opening.jpg",
+            "sha256": "7d56b0c4c28786c1c279025e38eb0e4e3dc9d03715d8222fa74170df14ac23a1"
+          }
+        },
+        {
+          "state": "transition",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-320-transition.jpg",
+            "sha256": "643d834385c3d8593fd01ce08fb0ceb48b3c36efee5531a075dc37dbac5d24f6"
+          }
+        },
+        {
+          "state": "middle",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-320-middle.jpg",
+            "sha256": "e25ab999329d65c7a76fa77cbdab4fc344e41d7d91c9bd7be6c94be745af9791"
+          }
+        },
+        {
+          "state": "ending",
+          "contentVisible": true,
+          "overflow": false,
+          "evidence": {
+            "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-full-qa/rendering/context-lost-320-ending.jpg",
+            "sha256": "a766e8a69c9e8bb5d4a4dd22a70411ad816ef28c1df64aaa1fa0b055c2c12711"
+          }
+        }
+      ]
+    }
+  ],
+  "started": "2026-10-19T03:53:21.761Z",
+  "finished": "2026-10-19T03:53:32.995Z",
+  "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779"
+}

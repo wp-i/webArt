@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-20",
+  "purpose": "Bounded actual quick screening. No full reference admission, no assets, no new prototype or archive.",
+  "nativeSourcesInspected": 5,
+  "admitted": 0,
+  "reviewer": {
+    "kind": "current-conversation",
+    "independent": false,
+    "contextIsolated": false
+  },
+  "sources": [
+    {
+      "name": "Da Pietro 1955",
+      "url": "https://dapietro1955.it/",
+      "from": "https://memesi.it/projects/da-pietro-1955/",
+      "status": "rejected",
+      "reason": "本轮短页用途快筛不选：默认桌面首屏为居中长介绍而非餐饮主体，实际手机亦以多行介绍压在摄影上；末端为普通多列工具页脚。并非判断加载屏或域名失效，未执行完整七维准入。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/dapietro1955.it/01.png",
+          "sha256": "e3a00c1cb7ffabe92b8e31fffafa95ce0a66157c0d8676d8a0429351629f3760"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/dapietro1955.it/02.png",
+          "sha256": "cd9cb446ce0c632c22fe2827ba181fe24cce22dcbe5c1d154834b494c0b6184b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/dapietro1955.it/03.png",
+          "sha256": "796ba7c8f08a4b5dfdba225a98fd5c11c5651ac72492f5c3e465aff2a4c47d60"
+        }
+      ]
+    },
+    {
+      "name": "Tripletta Pizza",
+      "url": "https://www.triplettapizza.com/",
+      "from": "https://www.uicoach.io/inspirations/award-winning/tripletta-pizza",
+      "status": "rejected",
+      "reason": "桌面印刷插画与服务摄影展开有辨识度，但实际390开场的主体缩小居中且大幅空白，终点再次完整重复开场字标与插画。保留该完整路径会违反同页重复支配构图，删掉后尚无已锁定的独立收束，快筛不选，不用奖项或风格差异准入。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/www.triplettapizza.com/01.png",
+          "sha256": "6a2e8874f2cb029e2183e3239f063d5d0016ba0d21cfdd31f4ffed1251bd20da"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/www.triplettapizza.com/02.png",
+          "sha256": "01ed12b224e41c3f1db47c69ed019b392c710fb98ea7672ef003dd6c0cb47e0a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/www.triplettapizza.com/03.png",
+          "sha256": "622961b791ba99d6579bfece852303fd462220752a82d88226eb966f2df5ca72"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/www.triplettapizza.com/04.png",
+          "sha256": "49d9971f7ce49c5c52c6c152fcd1b22cbf3a2c03deb8ea7fcf8224116906ddbc"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/www.triplettapizza.com/05.png",
+          "sha256": "a09c910f02418f98dcc01db60be1858636bca7675bf0f8a99a39b954f1608160"
+        }
+      ]
+    },
+    {
+      "name": "Curate Restaurant",
+      "url": "https://curate-restaurant.com/",
+      "from": "https://www.follow-felix.com/recent-work/curate-fine-dining-elevated-website-development",
+      "status": "evidence-needed",
+      "reason": "已查看加载后的宏观菜品与中央衬线介绍，媒体完整；当前开场关系与刚完成006较近，尚未取得八状态、真实过程、手机与完整替换方案。本批不深入、不授予准入，不据单幅开场判整页优劣。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/curate-restaurant.com/01.png",
+          "sha256": "7b1fadb0fa5cd557f3de7331d09abb39bb2355981839723d86629e06b9f636c1"
+        }
+      ]
+    },
+    {
+      "name": "Escape Coffee",
+      "url": "https://escape.cafe/",
+      "from": "https://www.awwwards.com/sites/escape-coffee",
+      "status": "rejected",
+      "reason": "实际当前默认为超高海浪视频与大字宣言，首视口没有直接的咖啡产品证据；末端为订阅、商店工具信息与回顶条。本轮短模板目标快筛不选，没有完成七维或媒体替换试作，不因旧奖项或原生可滚动批准。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/escape.cafe/01.png",
+          "sha256": "14a286b4864586de615721cd07821e03567eb4b6076b6bea915b8d3221d7f2fb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/escape.cafe/02.png",
+          "sha256": "425dcb924ac72c8464f806504c2c718ea313639abf38836d886c65ddfaaa4883"
+        }
+      ]
+    },
+    {
+      "name": "White Coffee",
+      "url": "https://white-coffee.com/fr/",
+      "from": "https://www.awwwards.com/sites/white-coffee",
+      "status": "evidence-needed",
+      "reason": "已查看当前排版开场、咖啡视频过渡与三列工具联系终点；Cookie拒绝后仍可直接观看。尚未取得完整八状态、商品与唱片指针过程及手机构图，不能从字体、库存视频或电商功能推定准入。本批结束，不取得素材或制作试片。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/white-coffee.com/01.png",
+          "sha256": "75875ab9205e1bf99cd5c84ce8f560718aac1ec3368fb73c8534e51310cdfb15"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/white-coffee.com/02.png",
+          "sha256": "9a2d017d9cdf28a0b5af5e4068a50bc1c7d2e761010792650bf321fd30f4c412"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-20/007-reference-batch-01/white-coffee.com/03.png",
+          "sha256": "69463000e75636e797ffa6b8bb9e779b8b9c1d0f3fa863dd9c5852e73c9953f1"
+        }
+      ]
+    }
+  ]
+}

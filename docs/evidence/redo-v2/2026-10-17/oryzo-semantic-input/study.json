@@ -1,0 +1,662 @@
+{
+  "url": "https://oryzo.ai/",
+  "evidence": [
+    {
+      "view": "desktop",
+      "y": 3000,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/desktop-3000.jpg",
+      "sha256": "dac97500e6c7b29f73e297a01fc1be05078d3dba57fed65acbd0416df10f056e"
+    },
+    {
+      "view": "desktop",
+      "y": 4500,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/desktop-4500.jpg",
+      "sha256": "ac37ee5b6a4c6d32711f74d27afc12f2cdfbfa924ca605e852538f200db1d078"
+    },
+    {
+      "view": "desktop",
+      "y": 4500,
+      "input": "left",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/hand-left.jpg",
+      "sha256": "aae29b6870e3646b7fc1019f9b13a6746eef1c771118bda7a2db0cdee1c133b7"
+    },
+    {
+      "view": "desktop",
+      "y": 4500,
+      "input": "right",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/hand-right.jpg",
+      "sha256": "e719c9e962c6d1c958fd98ec4134fc1b58c1ced5b7aaa2cb1708e7f670f73f30"
+    },
+    {
+      "view": "desktop",
+      "y": 4500,
+      "input": "reverse",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/hand-reverse.jpg",
+      "sha256": "1b21dd12ddfb1f720fc61c9e3138e3c6546472d0c59f9431ef39c8e83fcfffb9"
+    },
+    {
+      "view": "desktop",
+      "y": 4500,
+      "input": "leave",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/hand-leave.jpg",
+      "sha256": "b1515fe6e2ce9f6ebb9df53ed9885333f5d4a677b3244b219debd24afc4c3491"
+    },
+    {
+      "view": "desktop",
+      "y": 6000,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/desktop-6000.jpg",
+      "sha256": "329b2b74b5ed66ae79d25b1f06e590c24e23ab6f91f9dfee10df84a2a7539244"
+    },
+    {
+      "view": "desktop",
+      "y": 18000,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/desktop-18000.jpg",
+      "sha256": "d16d4c42571da25155576d0edf8c9dc6b781f30e4337bf8e883f55d3cc198715"
+    },
+    {
+      "view": "desktop",
+      "y": 22000,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/desktop-22000.jpg",
+      "sha256": "91fc42c46662a89e69459473fd40e4f1fd2399a143f950855397120cb4bff63a"
+    },
+    {
+      "view": "desktop",
+      "y": 24000,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/desktop-24000.jpg",
+      "sha256": "3dc026e1ad655e0ae2bd5360c0a37f7584d536678678bd9c0a8b054bdfa7fd4f"
+    },
+    {
+      "view": "mobile",
+      "y": 12000,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/mobile-12000.jpg",
+      "sha256": "fe9ec5c73981be070815b4f1f2ad94ad7601ba0b10f8f7753bb83662ee314ab1"
+    },
+    {
+      "view": "mobile",
+      "y": 16000,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/mobile-16000.jpg",
+      "sha256": "f8a5f650fe73cfacedf5a73498ba0d3f727288f48665ecb3b8064bea1448c06d"
+    },
+    {
+      "view": "mobile",
+      "y": 20000,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/mobile-20000.jpg",
+      "sha256": "3372f109032f0391f94e11d7cc69f4fa49b6c136e2999c493c9f9634924fc446"
+    },
+    {
+      "view": "mobile",
+      "y": 22000,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/mobile-22000.jpg",
+      "sha256": "3c9813661dde6ef72f2a680e4a9d12479e7c4537816544cb861356d3dce6e536"
+    },
+    {
+      "view": "mobile",
+      "y": 24000,
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-semantic-input/mobile-24000.jpg",
+      "sha256": "5eb80b0fee061450b7d1e63e6a6d347d4c197c0aac4564b1c81f2f0fedb3e510"
+    }
+  ],
+  "purpose": "Find corresponding states at each viewport and actual input coupling; no art admission.",
+  "dom": {
+    "height": 56691,
+    "sections": [
+      {
+        "id": "hand-tmpl",
+        "tag": "symbol",
+        "parent": "",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      {
+        "id": "features",
+        "tag": "DIV",
+        "parent": "home",
+        "rect": {
+          "x": 0,
+          "y": 20025,
+          "width": 1440,
+          "height": 9450,
+          "top": 20025,
+          "right": 1440,
+          "bottom": 29475,
+          "left": 0
+        }
+      },
+      {
+        "id": "features-items",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 454.5,
+          "height": 900,
+          "top": 0,
+          "right": 454.5,
+          "bottom": 900,
+          "left": 0
+        }
+      },
+      {
+        "id": "features-item-elevate",
+        "tag": "DIV",
+        "parent": "features-items",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 454.5,
+          "height": 900,
+          "top": 0,
+          "right": 454.5,
+          "bottom": 900,
+          "left": 0
+        }
+      },
+      {
+        "id": "features-item-temperature",
+        "tag": "DIV",
+        "parent": "features-items",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 454.5,
+          "height": 900,
+          "top": 0,
+          "right": 454.5,
+          "bottom": 900,
+          "left": 0
+        }
+      },
+      {
+        "id": "features-item-curve",
+        "tag": "DIV",
+        "parent": "features-items",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 454.5,
+          "height": 900,
+          "top": 0,
+          "right": 454.5,
+          "bottom": 900,
+          "left": 0
+        }
+      },
+      {
+        "id": "features-circular-logo-wrapper",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 43.203125,
+          "y": 302.84375,
+          "width": 1353.59375,
+          "height": 294.3125,
+          "top": 302.84375,
+          "right": 1396.796875,
+          "bottom": 597.15625,
+          "left": 43.203125
+        }
+      },
+      {
+        "id": "features-circular-logo",
+        "tag": "svg",
+        "parent": "features-circular-logo-wrapper",
+        "rect": {
+          "x": 43.203125,
+          "y": 302.84375,
+          "width": 1353.59375,
+          "height": 291.125,
+          "top": 302.84375,
+          "right": 1396.796875,
+          "bottom": 593.96875,
+          "left": 43.203125
+        }
+      },
+      {
+        "id": "features-curve-canvas",
+        "tag": "CANVAS",
+        "parent": "",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "top": 0,
+          "right": 1440,
+          "bottom": 900,
+          "left": 0
+        }
+      },
+      {
+        "id": "features-temperature-slider",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 1386,
+          "y": 225,
+          "width": 9,
+          "height": 450,
+          "top": 225,
+          "right": 1395,
+          "bottom": 675,
+          "left": 1386
+        }
+      },
+      {
+        "id": "features-temperature-slider__text-container",
+        "tag": "DIV",
+        "parent": "features-temperature-slider",
+        "rect": {
+          "x": 1275.84375,
+          "y": 225,
+          "width": 82.15625,
+          "height": 450,
+          "top": 225,
+          "right": 1358,
+          "bottom": 675,
+          "left": 1275.84375
+        }
+      },
+      {
+        "id": "features-temperature-slider__bar-wrapper",
+        "tag": "DIV",
+        "parent": "features-temperature-slider",
+        "rect": {
+          "x": 1386,
+          "y": 225,
+          "width": 9,
+          "height": 450,
+          "top": 225,
+          "right": 1395,
+          "bottom": 675,
+          "left": 1386
+        }
+      },
+      {
+        "id": "features-temperature-slider__bar",
+        "tag": "DIV",
+        "parent": "features-temperature-slider__bar-wrapper",
+        "rect": {
+          "x": 1386,
+          "y": 225,
+          "width": 9,
+          "height": 450,
+          "top": 225,
+          "right": 1395,
+          "bottom": 675,
+          "left": 1386
+        }
+      },
+      {
+        "id": "features-extra-wrapper",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 1395,
+          "y": 876,
+          "width": 0,
+          "height": 0,
+          "top": 876,
+          "right": 1395,
+          "bottom": 876,
+          "left": 1395
+        }
+      },
+      {
+        "id": "footer",
+        "tag": "DIV",
+        "parent": "home",
+        "rect": {
+          "x": 0,
+          "y": 55710.015625,
+          "width": 1440,
+          "height": 981.1875,
+          "top": 55710.015625,
+          "right": 1440,
+          "bottom": 56691.203125,
+          "left": 0
+        }
+      },
+      {
+        "id": "footer-top",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 454.5,
+          "y": 55710.015625,
+          "width": 940.5,
+          "height": 412,
+          "top": 55710.015625,
+          "right": 1395,
+          "bottom": 56122.015625,
+          "left": 454.5
+        }
+      },
+      {
+        "id": "footer-lusion-logo",
+        "tag": "DIV",
+        "parent": "footer-top",
+        "rect": {
+          "x": 454.5,
+          "y": 55914.015625,
+          "width": 67.5,
+          "height": 90,
+          "top": 55914.015625,
+          "right": 522,
+          "bottom": 56004.015625,
+          "left": 454.5
+        }
+      },
+      {
+        "id": "footer-title",
+        "tag": "H2",
+        "parent": "footer-top",
+        "rect": {
+          "x": 695.25,
+          "y": 55914.015625,
+          "width": 699.75,
+          "height": 208,
+          "top": 55914.015625,
+          "right": 1395,
+          "bottom": 56122.015625,
+          "left": 695.25
+        }
+      },
+      {
+        "id": "footer-lusion-link",
+        "tag": "A",
+        "parent": "",
+        "rect": {
+          "x": 1242,
+          "y": 56152.015625,
+          "width": 153,
+          "height": 45.96875,
+          "top": 56152.015625,
+          "right": 1395,
+          "bottom": 56197.984375,
+          "left": 1242
+        }
+      },
+      {
+        "id": "footer-love",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 45,
+          "y": 56401.984375,
+          "width": 256.5,
+          "height": 128.3125,
+          "top": 56401.984375,
+          "right": 301.5,
+          "bottom": 56530.296875,
+          "left": 45
+        }
+      },
+      {
+        "id": "footer-email",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 472.5,
+          "y": 56401.984375,
+          "width": 342,
+          "height": 166.1875,
+          "top": 56401.984375,
+          "right": 814.5,
+          "bottom": 56568.171875,
+          "left": 472.5
+        }
+      },
+      {
+        "id": "footer-newsletter-label",
+        "tag": "LABEL",
+        "parent": "footer-email",
+        "rect": {
+          "x": 472.5,
+          "y": 56401.984375,
+          "width": 205.1875,
+          "height": 17,
+          "top": 56401.984375,
+          "right": 677.6875,
+          "bottom": 56418.984375,
+          "left": 472.5
+        }
+      },
+      {
+        "id": "footer-newsletter-form",
+        "tag": "FORM",
+        "parent": "footer-email",
+        "rect": {
+          "x": 472.5,
+          "y": 56436.171875,
+          "width": 342,
+          "height": 78,
+          "top": 56436.171875,
+          "right": 814.5,
+          "bottom": 56514.171875,
+          "left": 472.5
+        }
+      },
+      {
+        "id": "footer-email-input-wrapper",
+        "tag": "DIV",
+        "parent": "footer-newsletter-form",
+        "rect": {
+          "x": 472.5,
+          "y": 56436.171875,
+          "width": 342,
+          "height": 54,
+          "top": 56436.171875,
+          "right": 814.5,
+          "bottom": 56490.171875,
+          "left": 472.5
+        }
+      },
+      {
+        "id": "footer-email-input",
+        "tag": "INPUT",
+        "parent": "footer-email-input-wrapper",
+        "rect": {
+          "x": 472.5,
+          "y": 56436.171875,
+          "width": 342,
+          "height": 54,
+          "top": 56436.171875,
+          "right": 814.5,
+          "bottom": 56490.171875,
+          "left": 472.5
+        }
+      },
+      {
+        "id": "footer-email-btn",
+        "tag": "BUTTON",
+        "parent": "footer-email-input-wrapper",
+        "rect": {
+          "x": 781.171875,
+          "y": 56446.5078125,
+          "width": 33.328125,
+          "height": 33.328125,
+          "top": 56446.5078125,
+          "right": 814.5,
+          "bottom": 56479.8359375,
+          "left": 781.171875
+        }
+      },
+      {
+        "id": "footer-newsletter-message",
+        "tag": "DIV",
+        "parent": "footer-newsletter-form",
+        "rect": {
+          "x": 472.5,
+          "y": 56499.171875,
+          "width": 342,
+          "height": 15,
+          "top": 56499.171875,
+          "right": 814.5,
+          "bottom": 56514.171875,
+          "left": 472.5
+        }
+      },
+      {
+        "id": "footer-contact-wrapper",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 472.5,
+          "y": 56568.171875,
+          "width": 256.5,
+          "height": 99.03125,
+          "top": 56568.171875,
+          "right": 729,
+          "bottom": 56667.203125,
+          "left": 472.5
+        }
+      },
+      {
+        "id": "footer-social-wrapper",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 747,
+          "y": 56568.171875,
+          "width": 153,
+          "height": 99.03125,
+          "top": 56568.171875,
+          "right": 900,
+          "bottom": 56667.203125,
+          "left": 747
+        }
+      },
+      {
+        "id": "footer-extra-wrapper",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 45,
+          "y": 56651.015625,
+          "width": 275.875,
+          "height": 16.1875,
+          "top": 56651.015625,
+          "right": 320.875,
+          "bottom": 56667.203125,
+          "left": 45
+        }
+      },
+      {
+        "id": "footer-caption",
+        "tag": "DIV",
+        "parent": "",
+        "rect": {
+          "x": 1003.5,
+          "y": 56568.171875,
+          "width": 409.5,
+          "height": 99.03125,
+          "top": 56568.171875,
+          "right": 1413,
+          "bottom": 56667.203125,
+          "left": 1003.5
+        }
+      },
+      {
+        "id": "site-footer",
+        "tag": "FOOTER",
+        "parent": "ui",
+        "rect": {
+          "x": 45,
+          "y": 876,
+          "width": 1350,
+          "height": 0,
+          "top": 876,
+          "right": 1395,
+          "bottom": 876,
+          "left": 45
+        }
+      },
+      {
+        "id": "site-footer-dot",
+        "tag": "DIV",
+        "parent": "site-footer",
+        "rect": {
+          "x": 45,
+          "y": 876,
+          "width": 1350,
+          "height": 0,
+          "top": 876,
+          "right": 1395,
+          "bottom": 876,
+          "left": 45
+        }
+      },
+      {
+        "id": "site-footer-scroll",
+        "tag": "DIV",
+        "parent": "site-footer",
+        "rect": {
+          "x": 927,
+          "y": 862.921875,
+          "width": 152.25,
+          "height": 13.078125,
+          "top": 862.921875,
+          "right": 1079.25,
+          "bottom": 876,
+          "left": 927
+        }
+      },
+      {
+        "id": "site-footer-scroll-icon",
+        "tag": "DIV",
+        "parent": "site-footer-scroll",
+        "rect": {
+          "x": 927,
+          "y": 862.921875,
+          "width": 24,
+          "height": 12,
+          "top": 862.921875,
+          "right": 951,
+          "bottom": 874.921875,
+          "left": 927
+        }
+      },
+      {
+        "id": "site-footer-scroll-arrow",
+        "tag": "DIV",
+        "parent": "site-footer-scroll-icon",
+        "rect": {
+          "x": 934.796875,
+          "y": 863.399169921875,
+          "width": 8.390625,
+          "height": 8.390625,
+          "top": 863.399169921875,
+          "right": 943.1875,
+          "bottom": 871.789794921875,
+          "left": 934.796875
+        }
+      },
+      {
+        "id": "site-footer-scroll-text",
+        "tag": "DIV",
+        "parent": "site-footer-scroll",
+        "rect": {
+          "x": 959.390625,
+          "y": 862.921875,
+          "width": 119.859375,
+          "height": 13.078125,
+          "top": 862.921875,
+          "right": 1079.25,
+          "bottom": 876,
+          "left": 959.390625
+        }
+      }
+    ],
+    "images": []
+  },
+  "result": "observed-not-admitted"
+}

@@ -1,0 +1,985 @@
+{
+  "schemaVersion": 1,
+  "kind": "portable-cli-review-consumption",
+  "policyVersion": "portable-cli-review-consumption-v1",
+  "diagnosticPolicyVersion": "codex-cli-review-diagnostics-v1",
+  "requestId": "01-calibration-df0c9980b5",
+  "role": "calibration",
+  "request": {
+    "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/request.json",
+    "sha256": "523a4e983f6fc9bceb8774b9adb273fa03e498599e2850444a77644d667b43b6"
+  },
+  "context": {
+    "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/portable-context.json",
+    "sha256": "c5151202fd77cbb84a372bdb333f84063efcec3d634a2df0a08ccdce266f865b"
+  },
+  "rawFiles": {
+    "request.json": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/request.json",
+      "sha256": "523a4e983f6fc9bceb8774b9adb273fa03e498599e2850444a77644d667b43b6"
+    },
+    "response.json": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/response.json",
+      "sha256": "92d5f6ae29322e438f9b35867468741c7750b87276b76baa2ec7cb3ff3d782fd"
+    },
+    "events.jsonl": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/events.jsonl",
+      "sha256": "a81a6011859284e2854b38458f0e22cb4c86c9cb9af10c27bf66b1a945fbc7a6"
+    },
+    "stderr.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/stderr.txt",
+      "sha256": "558a1cc173977e176d62aece0c77cc230710487d1c3565786056611e2d6c89b7"
+    },
+    "process.json": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/process.json",
+      "sha256": "db3f215e1f4beee1418bf9ad2e6fb4986761972e6064249a1df1197d0100617b"
+    },
+    "feature-probe.json": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/feature-probe.json",
+      "sha256": "c471f302e7856fb3afa7b7c27f6a02fd91a31bbf3da853246e12c0e7aebab76a"
+    },
+    "feature-probe.stdout.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/feature-probe.stdout.txt",
+      "sha256": "20d30165a0ac14e0286acaa8d324b3287b9eeebe7e075936f9f6914cbc43f366"
+    },
+    "feature-probe.stderr.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/feature-probe.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "version.stdout.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/version.stdout.txt",
+      "sha256": "230c7fb4eaba503976290892b76e256e03f47a421b784363888ac852cceeb4cf"
+    },
+    "version.stderr.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/version.stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "prompt.txt": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/prompt.txt",
+      "sha256": "4e8fe8756f3d23b9f9d01a17e44dda2b571619e0f0b4df1500ad18c6c100d045"
+    },
+    "private-source-map.json": {
+      "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/private-source-map.json",
+      "sha256": "b879a21be23d9da9c8cc8ebd1a1185423a2035673a915ba20bae4fc9f86f06fd"
+    }
+  },
+  "inputs": [
+    {
+      "label": "sample-0 A desktop opening",
+      "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6",
+      "bytes": 1333967,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/000.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+        "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+      }
+    },
+    {
+      "label": "sample-1 A desktop transition",
+      "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7",
+      "bytes": 446069,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/001.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.33-2.png",
+        "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+      }
+    },
+    {
+      "label": "sample-2 A desktop middle",
+      "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa",
+      "bytes": 929325,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/002.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+        "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+      }
+    },
+    {
+      "label": "sample-3 A desktop ending",
+      "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556",
+      "bytes": 1054815,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/003.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+        "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+      }
+    },
+    {
+      "label": "sample-4 A mobile opening",
+      "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d",
+      "bytes": 404267,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/004.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-opening.png",
+        "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+      }
+    },
+    {
+      "label": "sample-5 A mobile transition",
+      "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4",
+      "bytes": 144364,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/005.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+        "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+      }
+    },
+    {
+      "label": "sample-6 A mobile middle",
+      "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f",
+      "bytes": 288072,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/006.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+        "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+      }
+    },
+    {
+      "label": "sample-7 A mobile ending",
+      "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87",
+      "bytes": 372539,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/007.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+        "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+      }
+    },
+    {
+      "label": "sample-8 B desktop opening",
+      "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39",
+      "bytes": 894677,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/008.png",
+        "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-1440-opening.png",
+        "sha256": "61d3fafe3d4655cbc2eaa6d48d1b60ddd4a0939baf47463a4ce5eab26e19ce39"
+      }
+    },
+    {
+      "label": "sample-9 B desktop transition",
+      "sha256": "ed1fd1ce2b24d92a65136664902601cd488c98fa16394c3b99301d0330df1e8f",
+      "bytes": 1188782,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/009.png",
+        "sha256": "ed1fd1ce2b24d92a65136664902601cd488c98fa16394c3b99301d0330df1e8f"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-1440-scroll-0.16-1.png",
+        "sha256": "ed1fd1ce2b24d92a65136664902601cd488c98fa16394c3b99301d0330df1e8f"
+      }
+    },
+    {
+      "label": "sample-10 B desktop middle",
+      "sha256": "88cf9cb0605777251c76626a66765c25179fa1cddd526e2cee2472a525f1f813",
+      "bytes": 681989,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/010.png",
+        "sha256": "88cf9cb0605777251c76626a66765c25179fa1cddd526e2cee2472a525f1f813"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-1440-scroll-0.5-3.png",
+        "sha256": "88cf9cb0605777251c76626a66765c25179fa1cddd526e2cee2472a525f1f813"
+      }
+    },
+    {
+      "label": "sample-11 B desktop ending",
+      "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210",
+      "bytes": 444366,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/011.png",
+        "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-1440-scroll-1-6.png",
+        "sha256": "78ee4b432c4f81678b4ca67ec0826d93e3cce823ad300623bbe232cc1964e210"
+      }
+    },
+    {
+      "label": "sample-12 B mobile opening",
+      "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686",
+      "bytes": 318943,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/012.png",
+        "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-390-opening.png",
+        "sha256": "12f213cd2ded7b0b7dc28953db84fc6ee60aafca5b8ce6d7f7fbbb7bbe504686"
+      }
+    },
+    {
+      "label": "sample-13 B mobile transition",
+      "sha256": "250546a585a19eccdc9943ff412525f4ea1f3721e96c6d503c95d84ee5a26888",
+      "bytes": 304551,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/013.png",
+        "sha256": "250546a585a19eccdc9943ff412525f4ea1f3721e96c6d503c95d84ee5a26888"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-390-scroll-0.33-12.png",
+        "sha256": "250546a585a19eccdc9943ff412525f4ea1f3721e96c6d503c95d84ee5a26888"
+      }
+    },
+    {
+      "label": "sample-14 B mobile middle",
+      "sha256": "5b15f3778491fa59b09793385cec86c56ff1e583204e4eca4663fb509566bcb7",
+      "bytes": 386293,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/014.png",
+        "sha256": "5b15f3778491fa59b09793385cec86c56ff1e583204e4eca4663fb509566bcb7"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-390-scroll-0.67-13.png",
+        "sha256": "5b15f3778491fa59b09793385cec86c56ff1e583204e4eca4663fb509566bcb7"
+      }
+    },
+    {
+      "label": "sample-15 B mobile ending",
+      "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f",
+      "bytes": 140142,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/015.png",
+        "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/006-390-scroll-1-14.png",
+        "sha256": "3d2b9c24249254eaadb4c5ca5fd12a73f1f8f71a53e6ffb147140f304a4aec1f"
+      }
+    },
+    {
+      "label": "sample-16 C desktop opening",
+      "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb",
+      "bytes": 681261,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/016.png",
+        "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-1440-opening.png",
+        "sha256": "e7c7178bb732935e657d216f729c4bda34aebe9424027ffb806460e3c53976cb"
+      }
+    },
+    {
+      "label": "sample-17 C desktop transition",
+      "sha256": "79225b087a2179d007d2bb13d0293391e1426073913a399df1a0d8b7c642ad58",
+      "bytes": 822551,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/017.png",
+        "sha256": "79225b087a2179d007d2bb13d0293391e1426073913a399df1a0d8b7c642ad58"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-1440-scroll-0.16-1.png",
+        "sha256": "79225b087a2179d007d2bb13d0293391e1426073913a399df1a0d8b7c642ad58"
+      }
+    },
+    {
+      "label": "sample-18 C desktop middle",
+      "sha256": "2cecfa82a5723f3357fe5517a1c087d409ae32b3423d7c553f64a2a4d2fff7ba",
+      "bytes": 897457,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/018.png",
+        "sha256": "2cecfa82a5723f3357fe5517a1c087d409ae32b3423d7c553f64a2a4d2fff7ba"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-1440-scroll-0.5-3.png",
+        "sha256": "2cecfa82a5723f3357fe5517a1c087d409ae32b3423d7c553f64a2a4d2fff7ba"
+      }
+    },
+    {
+      "label": "sample-19 C desktop ending",
+      "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799",
+      "bytes": 617959,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/019.png",
+        "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-1440-scroll-1-6.png",
+        "sha256": "954d8f752be1dc89862f78011d6e439fbb6ec5d0a6d421aafc3d545a181f0799"
+      }
+    },
+    {
+      "label": "sample-20 C mobile opening",
+      "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff",
+      "bytes": 159503,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/020.png",
+        "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-390-opening.png",
+        "sha256": "618a01d8fed23a38cfc580511853c846ee3ac6832946534c009ddde8844d79ff"
+      }
+    },
+    {
+      "label": "sample-21 C mobile transition",
+      "sha256": "107d89b7bf04722fbe9f90e7c797b05a31189dbedaa3ace351325c3974ffa5d5",
+      "bytes": 296039,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/021.png",
+        "sha256": "107d89b7bf04722fbe9f90e7c797b05a31189dbedaa3ace351325c3974ffa5d5"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-390-scroll-0.33-12.png",
+        "sha256": "107d89b7bf04722fbe9f90e7c797b05a31189dbedaa3ace351325c3974ffa5d5"
+      }
+    },
+    {
+      "label": "sample-22 C mobile middle",
+      "sha256": "2e32bfffef0cd0be6322ace9c614740bf8caf38addbfa93d072cff3f00929edb",
+      "bytes": 322105,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/022.png",
+        "sha256": "2e32bfffef0cd0be6322ace9c614740bf8caf38addbfa93d072cff3f00929edb"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-390-scroll-0.67-13.png",
+        "sha256": "2e32bfffef0cd0be6322ace9c614740bf8caf38addbfa93d072cff3f00929edb"
+      }
+    },
+    {
+      "label": "sample-23 C mobile ending",
+      "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a",
+      "bytes": 153333,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/023.png",
+        "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/009-390-scroll-1-14.png",
+        "sha256": "990c936c8f9e308b60a2f9c92c9b406ab4224e35d8e0c6c982c061834884459a"
+      }
+    },
+    {
+      "label": "sample-24 D desktop opening",
+      "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3",
+      "bytes": 1889089,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/024.png",
+        "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-1440-opening.png",
+        "sha256": "9952562b2171794ccf4de099ed5910ecb153980d5fb20a701fce70b7815be1a3"
+      }
+    },
+    {
+      "label": "sample-25 D desktop transition",
+      "sha256": "fe8aeee474c125ff4803387be57cfcc0d97de139ce10637185050526374dd35b",
+      "bytes": 1500840,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/025.png",
+        "sha256": "fe8aeee474c125ff4803387be57cfcc0d97de139ce10637185050526374dd35b"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-1440-scroll-0.16-1.png",
+        "sha256": "fe8aeee474c125ff4803387be57cfcc0d97de139ce10637185050526374dd35b"
+      }
+    },
+    {
+      "label": "sample-26 D desktop middle",
+      "sha256": "6f289796234c1b4f0a41c683897a81f23c0d5e70c16ad3cf93994fe1b58c2e20",
+      "bytes": 942958,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/026.png",
+        "sha256": "6f289796234c1b4f0a41c683897a81f23c0d5e70c16ad3cf93994fe1b58c2e20"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-1440-scroll-0.5-3.png",
+        "sha256": "6f289796234c1b4f0a41c683897a81f23c0d5e70c16ad3cf93994fe1b58c2e20"
+      }
+    },
+    {
+      "label": "sample-27 D desktop ending",
+      "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa",
+      "bytes": 796269,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/027.png",
+        "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-1440-scroll-1-6.png",
+        "sha256": "36916c159fd883dc7ca8a2910b8fa7a6e2fe717bf0bf608ccc5e5f728af52aaa"
+      }
+    },
+    {
+      "label": "sample-28 D mobile opening",
+      "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba",
+      "bytes": 494896,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/028.png",
+        "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-390-opening.png",
+        "sha256": "3c6e9e9d1e3c7bb1b7a00c6c4120fb091a9ca7a51ba7f67654f245655740d2ba"
+      }
+    },
+    {
+      "label": "sample-29 D mobile transition",
+      "sha256": "725d0ce2e02aad7abf3c22717d8a117fa24a847fa4225e15b68f054a1591127e",
+      "bytes": 243922,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/029.png",
+        "sha256": "725d0ce2e02aad7abf3c22717d8a117fa24a847fa4225e15b68f054a1591127e"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-390-scroll-0.33-12.png",
+        "sha256": "725d0ce2e02aad7abf3c22717d8a117fa24a847fa4225e15b68f054a1591127e"
+      }
+    },
+    {
+      "label": "sample-30 D mobile middle",
+      "sha256": "76ade37796cb70b5519c410b1b046729f5a7d33a5423e87ca16808ad0e777234",
+      "bytes": 331456,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/030.png",
+        "sha256": "76ade37796cb70b5519c410b1b046729f5a7d33a5423e87ca16808ad0e777234"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-390-scroll-0.67-13.png",
+        "sha256": "76ade37796cb70b5519c410b1b046729f5a7d33a5423e87ca16808ad0e777234"
+      }
+    },
+    {
+      "label": "sample-31 D mobile ending",
+      "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1",
+      "bytes": 139219,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/031.png",
+        "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/008-390-scroll-1-14.png",
+        "sha256": "1b373c9f8f1114f505a6421de129bbb636bb716ae83b4aad4b30c750e9a568d1"
+      }
+    },
+    {
+      "label": "sample-32 E desktop opening",
+      "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec",
+      "bytes": 859333,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/032.png",
+        "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-1440-opening.png",
+        "sha256": "9f94cbd876e09a3fae87b63b8d379a9532fc70452d38dcec317b499d671d57ec"
+      }
+    },
+    {
+      "label": "sample-33 E desktop transition",
+      "sha256": "656cf2ba107a86312b4d986733b6133928e043d50a9520fcc6bb43e6bd48da2a",
+      "bytes": 863160,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/033.png",
+        "sha256": "656cf2ba107a86312b4d986733b6133928e043d50a9520fcc6bb43e6bd48da2a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-1440-scroll-0.16-1.png",
+        "sha256": "656cf2ba107a86312b4d986733b6133928e043d50a9520fcc6bb43e6bd48da2a"
+      }
+    },
+    {
+      "label": "sample-34 E desktop middle",
+      "sha256": "4d8c3010953e979b1ea8822cf71f9ff8c567f851ad9e0c20062aa57000bba907",
+      "bytes": 1057241,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/034.png",
+        "sha256": "4d8c3010953e979b1ea8822cf71f9ff8c567f851ad9e0c20062aa57000bba907"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-1440-scroll-0.5-3.png",
+        "sha256": "4d8c3010953e979b1ea8822cf71f9ff8c567f851ad9e0c20062aa57000bba907"
+      }
+    },
+    {
+      "label": "sample-35 E desktop ending",
+      "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451",
+      "bytes": 794650,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/035.png",
+        "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-1440-scroll-1-6.png",
+        "sha256": "ba5059a2f9a9cd851ccccf63a418ec8268fa2c995f91a07bf0193bd9783ec451"
+      }
+    },
+    {
+      "label": "sample-36 E mobile opening",
+      "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42",
+      "bytes": 327208,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/036.png",
+        "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-390-opening.png",
+        "sha256": "4a2ce6065690bfee0b53080c9016942b036479039aa6750ef80901f8c6a20a42"
+      }
+    },
+    {
+      "label": "sample-37 E mobile transition",
+      "sha256": "f06e68c4a582bd4676403cd01d98f144581d049d40a8839459b600f06408ca9c",
+      "bytes": 408445,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/037.png",
+        "sha256": "f06e68c4a582bd4676403cd01d98f144581d049d40a8839459b600f06408ca9c"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-390-scroll-0.33-12.png",
+        "sha256": "f06e68c4a582bd4676403cd01d98f144581d049d40a8839459b600f06408ca9c"
+      }
+    },
+    {
+      "label": "sample-38 E mobile middle",
+      "sha256": "9ce0ea2a19b47b9cc09abf49312165e65fd69f762f9ee2663159a09f02d3c41c",
+      "bytes": 368630,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/038.png",
+        "sha256": "9ce0ea2a19b47b9cc09abf49312165e65fd69f762f9ee2663159a09f02d3c41c"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-390-scroll-0.67-13.png",
+        "sha256": "9ce0ea2a19b47b9cc09abf49312165e65fd69f762f9ee2663159a09f02d3c41c"
+      }
+    },
+    {
+      "label": "sample-39 E mobile ending",
+      "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788",
+      "bytes": 249524,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/039.png",
+        "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/007-390-scroll-1-14.png",
+        "sha256": "5e4f9ae6a3b0bfa0bc88cf7c666f32cc0703b922ee5e0a720eea01f559502788"
+      }
+    },
+    {
+      "label": "sample-40 F desktop opening",
+      "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90",
+      "bytes": 328195,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/040.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-1440-opening.png",
+        "sha256": "1c66efe88c217c49097d1cb2a5313cdf197dd23b29a3bd6fb59384bd814bbc90"
+      }
+    },
+    {
+      "label": "sample-41 F desktop transition",
+      "sha256": "096b1dba498c71a836865f71b728f2edfb30320c3378dce425a8001336c42aa1",
+      "bytes": 244713,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/041.png",
+        "sha256": "096b1dba498c71a836865f71b728f2edfb30320c3378dce425a8001336c42aa1"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-1440-scroll-0.16-1.png",
+        "sha256": "096b1dba498c71a836865f71b728f2edfb30320c3378dce425a8001336c42aa1"
+      }
+    },
+    {
+      "label": "sample-42 F desktop middle",
+      "sha256": "212b9f29139e99ce7c10f7a9ebb194982adabe950e092dc887215c2edf9c467d",
+      "bytes": 106770,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/042.png",
+        "sha256": "212b9f29139e99ce7c10f7a9ebb194982adabe950e092dc887215c2edf9c467d"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-1440-scroll-0.5-3.png",
+        "sha256": "212b9f29139e99ce7c10f7a9ebb194982adabe950e092dc887215c2edf9c467d"
+      }
+    },
+    {
+      "label": "sample-43 F desktop ending",
+      "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94",
+      "bytes": 43515,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/043.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-1440-scroll-1-6.png",
+        "sha256": "a6f7c68092d14c6c9ac2d84974f36feaf28794d2ba0197c22f2bb57d8d971f94"
+      }
+    },
+    {
+      "label": "sample-44 F mobile opening",
+      "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a",
+      "bytes": 115079,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/044.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-390-opening.png",
+        "sha256": "16d8a27b43805d50c8a06263594510a4f0bb0c71810aac56b242b00c3cc2373a"
+      }
+    },
+    {
+      "label": "sample-45 F mobile transition",
+      "sha256": "23fe83b3fa2ad42d36f02147b08f02ed403f68b675f19f980d8aed983549ec9a",
+      "bytes": 53596,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/045.png",
+        "sha256": "23fe83b3fa2ad42d36f02147b08f02ed403f68b675f19f980d8aed983549ec9a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-390-scroll-0.33-12.png",
+        "sha256": "23fe83b3fa2ad42d36f02147b08f02ed403f68b675f19f980d8aed983549ec9a"
+      }
+    },
+    {
+      "label": "sample-46 F mobile middle",
+      "sha256": "44ee25ef006f9d461bdfcf0f19fad7222a18ddb3170850f31d18d80eff5f9150",
+      "bytes": 41242,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/046.png",
+        "sha256": "44ee25ef006f9d461bdfcf0f19fad7222a18ddb3170850f31d18d80eff5f9150"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-390-scroll-0.67-13.png",
+        "sha256": "44ee25ef006f9d461bdfcf0f19fad7222a18ddb3170850f31d18d80eff5f9150"
+      }
+    },
+    {
+      "label": "sample-47 F mobile ending",
+      "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a",
+      "bytes": 33760,
+      "retained": {
+        "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/inputs/047.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      },
+      "original": {
+        "path": "docs/evidence/quality-calibration/010-390-scroll-1-14.png",
+        "sha256": "ef17a1a39a6805dd9cc5f3855df5b6c9c0cc055b95175c62128c45a17968b24a"
+      }
+    }
+  ],
+  "implementations": [
+    {
+      "path": "scripts/production/cli-review-receipt.mjs",
+      "sha256": "e362e54680143d0fcc0098882feb6d5ce15197bca8aff98c777eab1b960cab55"
+    },
+    {
+      "path": "scripts/production/cli-review.mjs",
+      "sha256": "93b4c9b03feb5e90911d7b625a15b8bbe32c49ee50b654b7e623c2ed5c24bc79"
+    },
+    {
+      "path": "scripts/production/schemas.mjs",
+      "sha256": "f62b6b78ef4aee2d6803ee5ff87a456a7a45d4b7f558412b43504bc095dcee60"
+    },
+    {
+      "path": "scripts/production/session-review.mjs",
+      "sha256": "a2ec1b2ed775aec77af46a4a85c9c96e665ea98a999efb709fd9dbd58528afdd"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/api.mjs",
+      "sha256": "e78e43228b5e2e29b5078f2a0907d1f39edad7411c5f2f5b3b220111e8577b03"
+    }
+  ],
+  "canonicalReport": {
+    "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-calibration-df0c9980b5/consumed/canonical-report.json",
+    "sha256": "75e909e0527164d69cb935bf775ebb63065ec32edc20ef1051c117ae973bd5c3"
+  },
+  "canonicalReportSha256": "e5aa5532f51ab40d644354d6b90cec2a0df2c29d70c07dc8c993513dd1771026",
+  "resultProjection": "exact-role-projection-recomputed-at-validation",
+  "cliVersion": "codex-cli 0.164.0-alpha.11.1",
+  "provenance": {
+    "mode": "evidence-only-fresh-codex-cli",
+    "kind": "fresh-codex-cli",
+    "independent": false,
+    "contextIsolated": true,
+    "contextIsolationScope": "fresh conversation; implementation history not supplied",
+    "implementationContextIncluded": false,
+    "backendIndependenceEstablished": false,
+    "requestedModel": null,
+    "actualModel": null,
+    "modelIdentitySource": null
+  },
+  "threadId": "01a1738e-7e72-7d42-8f45-7d62300f5391",
+  "eventCount": 11,
+  "usage": {
+    "input_tokens": 60201,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 949,
+    "reasoning_output_tokens": 27
+  },
+  "diagnostics": [
+    {
+      "eventIndex": 1,
+      "kind": "startup-skip-host-skill-discovery",
+      "message": "Under-development features enabled: skip_host_skill_discovery. Under-development features are incomplete and may behave unpredictably. To suppress this warning, set `suppress_unstable_features_warning = true` in C:\\Users\\11509\\.codex\\config.toml."
+    },
+    {
+      "eventIndex": 2,
+      "kind": "startup-code-mode-disabled",
+      "message": "Code Mode is unavailable because code-mode host is disabled. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."
+    },
+    {
+      "eventIndex": 4,
+      "kind": "recoverable-connection-reset",
+      "attempt": 2,
+      "message": "Reconnecting... 2/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 5,
+      "kind": "recoverable-connection-reset",
+      "attempt": 3,
+      "message": "Reconnecting... 3/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 6,
+      "kind": "recoverable-connection-reset",
+      "attempt": 4,
+      "message": "Reconnecting... 4/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 7,
+      "kind": "recoverable-connection-reset",
+      "attempt": 5,
+      "message": "Reconnecting... 5/5 (stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054))"
+    },
+    {
+      "eventIndex": 8,
+      "kind": "https-fallback",
+      "message": "Falling back from WebSockets to HTTPS transport. stream disconnected before completion: IO error: 远程主机强迫关闭了一个现有的连接。 (os error 10054)"
+    }
+  ],
+  "stderrDiagnostics": {
+    "retryLogs": 5,
+    "fallbackLogs": 1,
+    "bannerModel": null
+  },
+  "cliInvocations": 1,
+  "automaticAdapterRetries": 0,
+  "backendRequestCount": null,
+  "toolsObserved": 0,
+  "effectiveFeatures": {
+    "agent_message_board": false,
+    "analytics_plan_history": false,
+    "api_key_cyber_access_programs": true,
+    "api_key_model_discovery": true,
+    "app_server_websocket_compression": false,
+    "apply_patch_freeform": false,
+    "apply_patch_preserve_line_endings": false,
+    "apply_patch_streaming_events": false,
+    "apps": false,
+    "apps_mcp_path_override": false,
+    "artifact": false,
+    "async_compaction": false,
+    "auth_elicitation": true,
+    "background_paginated_rollout_migration": false,
+    "bedrock_setup_wizard": true,
+    "browser_annotation_api": false,
+    "browser_use": false,
+    "browser_use_external": false,
+    "browser_use_full_cdp_access": false,
+    "chronicle": false,
+    "cli_daybreak": true,
+    "code_mode": false,
+    "code_mode_buffered_exec": false,
+    "code_mode_host": false,
+    "code_mode_host_grpc": false,
+    "code_mode_interrupt": true,
+    "code_mode_only": false,
+    "code_mode_only_strict_3p_tools": false,
+    "code_mode_prewarm": false,
+    "code_mode_tool_description_first": false,
+    "code_mode_tool_search": false,
+    "codex_apps_mcp_2026_07_28": false,
+    "codex_git_commit": false,
+    "collaboration_modes": true,
+    "compaction_image_budget": true,
+    "computer_use": false,
+    "concurrent_reasoning_summaries": false,
+    "content_item_kinds": true,
+    "context_management": false,
+    "credential_masking": false,
+    "current_time_reminder": false,
+    "cwd_relative_turn_diffs": false,
+    "daemon_auto_start": true,
+    "default_mode_request_user_input": false,
+    "defer_mailbox_preemption": false,
+    "deferred_executor": false,
+    "deferred_tool_world_state": false,
+    "elevated_windows_sandbox": false,
+    "enable_fanout": false,
+    "enable_mcp_apps": false,
+    "enable_request_compression": true,
+    "exec_permission_approvals": false,
+    "executed_tool_call_metadata": false,
+    "executor_capability_discovery": false,
+    "executor_capability_discovery_v2": false,
+    "experimental_windows_sandbox": false,
+    "external_agent_memory_import": false,
+    "external_migration": false,
+    "fast_mode": true,
+    "goals": false,
+    "guardian_approval": true,
+    "guardian_conversation_history_tools": false,
+    "guardian_enhanced_node_repl_transcripts": false,
+    "guardian_ext": false,
+    "guardian_node_repl_transcript_images": false,
+    "guardian_reuse_parent_compaction": true,
+    "guardian_root_handoff_context": false,
+    "guardian_trust_orchestrator_connectors": false,
+    "guardianv2": false,
+    "guardianv2.thread_context": false,
+    "guardianv2_decisions_comparison": false,
+    "hooks": false,
+    "image_detail_original": false,
+    "image_generation": false,
+    "image_resize_notice": false,
+    "in_app_browser": false,
+    "in_app_chat": true,
+    "in_app_dictation": true,
+    "in_app_local_automation": false,
+    "in_app_updates": true,
+    "in_app_voice": true,
+    "incremental_tools": true,
+    "instant_interrupt": true,
+    "item_ids": true,
+    "js_repl": false,
+    "js_repl_tools_only": false,
+    "local_thread_store_compression": false,
+    "local_thread_store_shared_compression": false,
+    "login_shell_package_path": false,
+    "mcp_2026_07_28": false,
+    "mcp_oauth_refresh_coordination": true,
+    "mcp_tool_list_changed": false,
+    "memories": false,
+    "mentions_v2": true,
+    "model_catalog_in_context": false,
+    "multi_agent": false,
+    "multi_agent_mode": false,
+    "multi_agent_v2": false,
+    "multi_agent_v2_dynamic_tools": false,
+    "multi_env_copy_file": false,
+    "network_proxy": false,
+    "non_prefixed_mcp_tool_names": false,
+    "nonfatal_clock_read_errors": false,
+    "omit_app_server_notification_media": false,
+    "output_token_replay": false,
+    "personality": false,
+    "plugin_hooks": false,
+    "plugin_sharing": true,
+    "plugins": false,
+    "powershell_shell_version": false,
+    "prefer_mxc": false,
+    "prevent_idle_sleep": false,
+    "psp": false,
+    "realtime_conversation": true,
+    "reasoning_effort_override": false,
+    "recommended_plugins": false,
+    "remote_compaction_v2": false,
+    "remote_control": false,
+    "remote_models": false,
+    "remote_plugin": false,
+    "request_permissions_tool": false,
+    "request_rule": false,
+    "resize_all_images": true,
+    "respect_system_proxy": false,
+    "responses_websockets": false,
+    "responses_websockets_v2": false,
+    "retain_client_developer_messages": false,
+    "retain_client_tool_outputs": false,
+    "rollout_budget": false,
+    "runtime_agent_instances": false,
+    "runtime_metrics": false,
+    "search_tool": false,
+    "secret_auth_storage": true,
+    "send_async_message": false,
+    "send_message_to_user_async": false,
+    "shell_snapshot": false,
+    "shell_snapshot_v2": false,
+    "shell_tool": false,
+    "shell_zsh_fork": false,
+    "skill_env_var_dependency_prompt": false,
+    "skill_mcp_dependency_install": false,
+    "skill_search": false,
+    "skip_host_skill_discovery": true,
+    "sleep_tool": false,
+    "sqlite": true,
+    "stable_environment_tools": false,
+    "standalone_web_search": false,
+    "steer": true,
+    "step_model_switching": false,
+    "subagent_default_context_limits": false,
+    "subagent_thread_environments": false,
+    "system_proxy_fallback": true,
+    "terminal_resize_reflow": true,
+    "terminal_visualization_instructions": false,
+    "token_budget": false,
+    "tool_call_mcp_elicitation": true,
+    "tool_search": false,
+    "tool_search_always_defer_mcp_tools": true,
+    "tool_suggest": false,
+    "transcript_v2": false,
+    "tui_app_server": true,
+    "ultrafast_mode": true,
+    "unavailable_dummy_tools": false,
+    "unbounded_connection_retries": false,
+    "undo": false,
+    "unified_exec": true,
+    "unified_exec_tty": false,
+    "unified_exec_zsh_fork": false,
+    "unified_image_budget": false,
+    "use_agent_identity": false,
+    "use_legacy_landlock": false,
+    "use_linux_sandbox_bwrap": false,
+    "use_xaa": false,
+    "view_image": false,
+    "wake_on_agent_messages": false,
+    "web_search_cached": false,
+    "web_search_request": false,
+    "windows_sandbox_service": false,
+    "workspace_dependencies": false,
+    "workspace_owner_usage_nudge": false,
+    "worktrees": true,
+    "write_stdin_approval": true
+  },
+  "externalFilesystemSandboxCertified": false,
+  "historicalPacketFilesystemReverified": false,
+  "validationReadsExternalPacket": false,
+  "visualAdmissionGranted": false,
+  "createdAt": "2026-10-27T17:00:21.959Z"
+}

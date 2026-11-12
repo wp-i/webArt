@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-10-21",
+  "calls": [
+    {
+      "role": "orange",
+      "referencedImagePaths": [],
+      "output": "exec-1d205621-6377-4734-bf46-50fef0afaf19.png",
+      "prompt": "Use case: photorealistic-natural. Create one original editorial studio photograph, vertical 3:4 composition, for the fictional photographer portfolio Near & Far. This is the first portrait of an original fictional adult woman photographer, around 38 years old, medium brown skin, strong natural nose, short tightly curled black hair, small silver hoop earring, simple black high-neck cotton shirt, no makeup glamour. Chest-up side profile looking to the right with thoughtful calm expression, arms below frame. Precise anatomically natural profile, fine skin pores, individual hair curls, textile texture. Art-directed photographic lighting: saturated burnt-orange seamless background, hard warm orange side light from the right outlining forehead, nose, lips and shoulder; deep burgundy shadows but with real face detail, a fine warm rim along hair. Bold graphic negative space to the left, head occupies the middle-right with generous space above, all hair and shoulders inside frame. High-end analogue editorial portrait with controlled film grain and rich warm color, no fake blur, no artificial plastic skin, no text, no watermark, no collage, no camera in this first portrait. Entirely new fictional identity; do not depict a real photographer or copy an existing photograph. This image establishes an identity to preserve in two subsequent different photographic poses."
+    },
+    {
+      "role": "blue",
+      "referencedImagePaths": ["portrait-orange.png"],
+      "output": "exec-5704f3a9-6950-4af0-8960-c2055454c04a.png",
+      "prompt": "Use case: identity-preserve. Input image is an original fictional adult photographer and is the identity reference, not a pose to recolor. Create ONE NEW editorial studio photograph of EXACTLY THE SAME WOMAN: same medium brown skin, roughly38, short tightly curled black hair, strong natural nose, cheek and jaw proportions, small silver hoops, plain black high-neck cotton shirt. Change the actual photographic pose and lighting: she faces nearly front in a three-quarter turn toward the left, eyes softly closed while listening, right hand gently cups a small black over-ear headphone on her right ear, other hand outside frame. Natural anatomically correct hand with five fingers, headphones realistically positioned over hair. Chest-up portrait with all head, hand and shoulders comfortably inside a vertical3:4 frame, subject slightly to the left, empty blue space to the right. Saturated cobalt-blue seamless background and cool electric-blue side light, subtly cyan edge on hair and cheek, deep inky shadows yet real skin texture and shirt weave. A controlled photographic silhouette, thoughtful and musical, not glamour. Preserve facial identity, hairstyle and clothing. This is a DIFFERENT PHOTO, not the original side profile given a color filter. No text, logos, camera, collage, extra fingers, smoothing or watermark."
+    },
+    {
+      "role": "green",
+      "referencedImagePaths": ["portrait-orange.png"],
+      "output": "exec-8de7c408-b993-48a9-9613-7da25b32ccc1.png",
+      "prompt": "Use case: identity-preserve. Input image is an original fictional adult woman photographer and is the identity reference. Make ONE NEW editorial studio photograph of EXACTLY THE SAME woman, preserving her roughly38-year-old medium brown complexion, natural strong nose, jaw proportions, short tightly curled black hair, small silver hoops, plain black high-neck cotton shirt. New photographic pose: nearly frontal chest-up, she holds a realistic compact unbranded black mirrorless camera at chest height using both hands naturally, lens pointing toward viewer and slightly downward. Camera BELOW face so both eyes and full nose and mouth remain visible, calm direct eye contact. Right hand wraps camera grip with index finger on shutter, left hand supports lens from underneath; physically plausible camera and five natural fingers on each hand, no logos or writing. Entire head, both hands, camera and shoulders fit inside a vertical3:4 frame. Subject centered-left, some negative green space on right. Rich forest-to-emerald green seamless studio background with vivid green rim light along hair and shoulder, subtle neutral facial fill and deep ink-green shadow, skin pores and cloth weave preserved. Strong authored photographic lighting rather than a green overlay. This is a distinctly new photographic moment of the same person, not a recolor of her side profile. No headphones, no text, no watermark, no collage, no plastic skin, no duplicate camera."
+    }
+  ],
+  "usageReturned": false,
+  "costClaim": "No actual billing data returned; no cost estimate recorded as actual spend.",
+  "distribution": "Only the six selected WebP files enter the editable template. Raw generation outputs, prompts and internal review evidence remain outside its archive."
+}

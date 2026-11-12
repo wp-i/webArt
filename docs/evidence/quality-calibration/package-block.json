@@ -1,0 +1,6 @@
+{
+  "at": "2026-10-12T13:34:57.2581803Z",
+  "exitCode": 1,
+  "archiveCreated": false,
+  "reason": "Collection: Quality gate: 010 blocked-below-user-benchmark: Unchanged source is a user-calibrated negative; old self-scores and passing QA cannot override it.\nTemplate approval/source gate failed; no archive was written.\nAt D:\\code\\webArt\\scripts\\package-template.ps1:15 char:28\n+ ... DE -ne 0) { throw \"Template approval/source gate failed; no archive w ...\n+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n    + CategoryInfo          : OperationStopped: (Template approv...ve was written.:String) [], RuntimeException\n    + FullyQualifiedErrorId : Template approval/source gate failed; no archive was written.\n "
+}

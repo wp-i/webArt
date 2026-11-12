@@ -1,0 +1,15 @@
+{
+  "slug":"near-and-far",
+  "version":"0.1.0",
+  "output":"public/near-and-far-source.zip",
+  "files":[
+    {"source":"designs/009-near-and-far/index.html","archive":"index.html"},
+    {"source":"designs/009-near-and-far/package.json","archive":"package.json"},
+    {"source":"designs/009-near-and-far/package-lock.json","archive":"package-lock.json"},
+    {"source":"designs/009-near-and-far/src","archive":"src"},
+    {"source":"designs/009-near-and-far/public/assets","archive":"public/assets"},
+    {"source":"designs/009-near-and-far/README.md","archive":"README.md"},
+    {"source":"designs/009-near-and-far/LICENSE.md","archive":"LICENSE.md"},
+    {"source":"designs/009-near-and-far/THIRD_PARTY_NOTICES.md","archive":"THIRD_PARTY_NOTICES.md"}
+  ]
+}

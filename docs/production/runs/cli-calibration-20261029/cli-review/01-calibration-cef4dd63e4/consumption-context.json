@@ -1,0 +1,9 @@
+{
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "runId": "2026-10-29-cli-calibration",
+  "reviewerId": "codex-account-default:2026-10-29-cli-calibration",
+  "order": {
+    "path": "docs/production/runs/cli-calibration-20261029/calibration-order-private.json",
+    "sha256": "1bd46b8b8ac48beedd33fd35f7a1261b66f95472cdc3398e0fd86818421bce5e"
+  }
+}

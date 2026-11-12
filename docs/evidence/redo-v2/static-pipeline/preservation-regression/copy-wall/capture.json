@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-15T16:24:29.394Z",
+  "url": "http://127.0.0.1:4371/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/copy-wall/desktop-opening/contact-sheet.jpg",
+          "sha256": "b75185e8599cd1a873faf54501e7eff41471e2ddfdf0a645f15c96b269e75db6"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 7,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"opening\"]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.56
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 900,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/copy-wall/desktop-transition/contact-sheet.jpg",
+          "sha256": "e01ec807f3fbc2d2829ecd5afeac8b932b68a2315dab1a7f61c89fff95aaea93"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 10,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"transition\"]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.56
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1800,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/copy-wall/desktop-middle/contact-sheet.jpg",
+          "sha256": "06b95bf45312712d592e25df110dd02f79d5d1c720ddf79a91de93ec4522fa33"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 249,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"middle\"]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.56
+          }
+        ]
+      },
+      "visualFailures": [
+        "当前视口文字超过固定预算或缺少实际测量"
+      ]
+    }
+  ],
+  "motion": [],
+  "errors": [],
+  "result": "failed",
+  "visualContractSha256": "838da622781a3864566812f4466102bd01714fe42eef2368306976e2c94f3f62",
+  "failure": "desktop/middle: 当前视口文字超过固定预算或缺少实际测量",
+  "finished": "2026-10-15T16:24:31.189Z"
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "assetId": "p04-wave",
+    "localPath": "assets/owned/pace-instrument/v1/wave.png",
+    "sha256": "cc7e0c3a64f626f2e3608c5935120f25e42d849dd95358501bf899a08b2e1a40",
+    "role": "original wave fallback render",
+    "desktopCrop": "Full square original rendering, aligned with the same instrument scene; no external photograph.",
+    "mobileCrop": "Contain the whole square rendering at viewport width; retain the full subject.",
+    "creator": "WebArt",
+    "source": "Independently authored P–04 instrument scene; native browser render, no reference-site media.",
+    "license": "Original project asset; distribution as part of the complete editable WebArt template.",
+    "verified": "2026-10-16",
+    "distributionBasis": "Original project geometry, display and rendered stills authored for the project owner; distribute only within the complete website source."
+  },
+  {
+    "assetId": "p04-mechanism",
+    "localPath": "assets/owned/pace-instrument/v1/mechanism.png",
+    "sha256": "4a92b14fd187b83034cc33c2fc065d6b86e421e00d3df594628d2117ef2c3f6f",
+    "role": "original mechanism fallback render",
+    "desktopCrop": "Full square original rendering, aligned with the same instrument scene; no external photograph.",
+    "mobileCrop": "Contain the whole square rendering at viewport width; retain the full subject.",
+    "creator": "WebArt",
+    "source": "Independently authored P–04 instrument scene; native browser render, no reference-site media.",
+    "license": "Original project asset; distribution as part of the complete editable WebArt template.",
+    "verified": "2026-10-16",
+    "distributionBasis": "Original project geometry, display and rendered stills authored for the project owner; distribute only within the complete website source."
+  },
+  {
+    "assetId": "p04-matrix",
+    "localPath": "assets/owned/pace-instrument/v1/matrix.png",
+    "sha256": "dc74a61b139993a8487486de68541de318bce0bd69a2b987bcf4911c8cf61016",
+    "role": "original matrix fallback render",
+    "desktopCrop": "Full square original rendering, aligned with the same instrument scene; no external photograph.",
+    "mobileCrop": "Contain the whole square rendering at viewport width; retain the full subject.",
+    "creator": "WebArt",
+    "source": "Independently authored P–04 instrument scene; native browser render, no reference-site media.",
+    "license": "Original project asset; distribution as part of the complete editable WebArt template.",
+    "verified": "2026-10-16",
+    "distributionBasis": "Original project geometry, display and rendered stills authored for the project owner; distribute only within the complete website source."
+  },
+  {
+    "assetId": "p04-spring",
+    "localPath": "assets/owned/pace-instrument/v1/spring.png",
+    "sha256": "df4591c10cb1e3703e7b25c61e82370899de5be617e46d154e848943686c8c32",
+    "role": "original spring fallback render",
+    "desktopCrop": "Full square original rendering, aligned with the same instrument scene; no external photograph.",
+    "mobileCrop": "Contain the whole square rendering at viewport width; retain the full subject.",
+    "creator": "WebArt",
+    "source": "Independently authored P–04 instrument scene; native browser render, no reference-site media.",
+    "license": "Original project asset; distribution as part of the complete editable WebArt template.",
+    "verified": "2026-10-16",
+    "distributionBasis": "Original project geometry, display and rendered stills authored for the project owner; distribute only within the complete website source."
+  }
+]

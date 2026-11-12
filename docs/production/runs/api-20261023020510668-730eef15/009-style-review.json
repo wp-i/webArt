@@ -1,0 +1,28 @@
+{
+  "decision": "distinct",
+  "nearestId": "007",
+  "openingAndAssetBothRepeated": false,
+  "comparisons": [
+    {
+      "dimension": "composition",
+      "different": true,
+      "finding": "三个不同幅面的肖像穿过字形，再重组为中心摄影及两个索引；与001材料舞台、006字标后室内、007两栏田野、008满屏空间及010应用界面不同。"
+    },
+    {
+      "dimension": "typography",
+      "different": true,
+      "finding": "大高对比Bodoni字形置于摄影背后，短作品标题与极小摄影索引形成编辑观看；与007可见的凝缩衬线宣言和大品牌页眉的字形及用途不同。"
+    },
+    {
+      "dimension": "color-media",
+      "different": true,
+      "finding": "纸色上的红纱、白衣细线和蓝天丝绒，随后三种同人彩色光线形成完整人物身份；没有重复收到的其他稿件主图、应用屏幕或室内摄影。"
+    },
+    {
+      "dimension": "rhythm",
+      "different": true,
+      "finding": "错位照片连续穿越、构图交接进入取景，继而橙蓝绿人物介绍和独立联系；与并排营销块、应用演示或空间项目序列的观看节奏不同。"
+    }
+  ],
+  "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6"
+}

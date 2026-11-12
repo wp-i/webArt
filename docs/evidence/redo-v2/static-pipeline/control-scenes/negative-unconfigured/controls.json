@@ -1,0 +1,10 @@
+{
+  "result": "failed-controls",
+  "viewports": [],
+  "started": "2026-10-16T06:07:36.565Z",
+  "failure": {
+    "code": "controls-failed",
+    "message": "实际控件与静态配置不一致"
+  },
+  "finished": "2026-10-16T06:07:37.066Z"
+}

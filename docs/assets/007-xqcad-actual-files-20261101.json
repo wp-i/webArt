@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "007",
+  "phase": "actual-official-asset-acquisition-attempt",
+  "startedAt": "2026-10-31T17:43:57Z",
+  "finishedAt": "2026-10-31T17:46:04.196Z",
+  "result": "official-download-requires-login-no-model-acquired",
+  "source": {
+    "name": "Motorcycle Helmet",
+    "author": "XQCAD",
+    "authorUrl": "https://sketchfab.com/XQCAD",
+    "url": "https://sketchfab.com/3d-models/motorcycle-helmet-dc3894945d474407bbd7a95553acdd31",
+    "modelUid": "dc3894945d474407bbd7a95553acdd31",
+    "metadata": {
+      "path": "docs/evidence/redo-v2/2026-11-01/007-xqcad-download-01/public-metadata.json",
+      "sha256": "433c4bcd7bb1e6a7037f1d5e42fc1c72cf1370af3a709ed61badb323d7b1439b",
+      "bytes": 716
+    }
+  },
+  "authorization": {
+    "referenceGate": {
+      "path": "docs/production/runs/lando-reference-20261031/reference-gate.json",
+      "sha256": "a9c60c7711eebe1eba9c66c1b72a34e03d8709a1817e3f996c518e130e44e002",
+      "bytes": 1083
+    },
+    "gateDecision": "reference-admitted-for-prototype-only",
+    "referenceReview": {
+      "path": "docs/production/runs/lando-reference-20261031/reference-review.json",
+      "sha256": "b603a763ef713d6554b3b23736d1a0faadbb71e61c238898741e54e032275ee2"
+    },
+    "calibrationReview": {
+      "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+      "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+    },
+    "briefingFiles": [
+      {
+        "path": "docs/pages/007-shell-studies.md",
+        "sha256": "9a9afb26d11d41a4a5defd2af6295b08597bca8f318efc99a9e08092693c4aa0",
+        "bytes": 3200
+      },
+      {
+        "path": "docs/references/007-shell-studies.md",
+        "sha256": "6d3b66cb6c7355948abb3319e21c3b2f4aeca5da40726f70cd6a3a7901a816ea",
+        "bytes": 2884
+      },
+      {
+        "path": "docs/assets/007-shell-studies.md",
+        "sha256": "3849ae515af07ad2ee21f0142d70679486a0226ea500f885c9ad6a43086b6cdf",
+        "bytes": 2574
+      }
+    ],
+    "scope": "Final-file acquisition for the locked full-face shell role only, followed by read-only license/geometry/material inspection. No modelling, material edits, page implementation or publication."
+  },
+  "browser": {
+    "session": "webart-xqcad-download-20261101",
+    "executable": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "ownNewSession": true,
+    "accountState": "anonymous; page showed LOGIN and SIGN UP",
+    "actions": [
+      {
+        "type": "native-click",
+        "target": "Download 3D Model",
+        "result": "First click while below viewport produced no observed modal; not treated as download failure or success."
+      },
+      {
+        "type": "scroll-into-view",
+        "target": "Download 3D Model",
+        "result": "Actual button, author and CC Attribution label visible."
+      },
+      {
+        "type": "native-click",
+        "target": "Download 3D Model",
+        "result": "Actual Log in to Sketchfab dialog with Epic Games, social, SSO and email/password controls."
+      }
+    ],
+    "loginAttempted": false,
+    "credentialsReadOrEntered": false,
+    "purchaseAttempted": false,
+    "messagesSent": false,
+    "downloadControlBypassed": false,
+    "sourceViewerFilesExtracted": false
+  },
+  "evidence": [
+    {
+      "path": "docs/evidence/redo-v2/2026-11-01/007-xqcad-download-01/download-button-page.png",
+      "sha256": "b35726b13c0d87051f9ee33702079e020bc3fe378c28adcd533ef0906912731d",
+      "bytes": 212888
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-11-01/007-xqcad-download-01/login-required.png",
+      "sha256": "34561ee073b3b40a9376831f97c7913ce0209b0304e376dfc543552fe3df801d",
+      "bytes": 194616
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-11-01/007-xqcad-download-01/login-snapshot.txt",
+      "sha256": "25a463b36341211c3ed9548e1aca4446eda1fa1de58f9af503c05b5705f6949a",
+      "bytes": 6232
+    }
+  ],
+  "rights": {
+    "directoryLicense": "CC-BY-4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "uploaderPageAndCurrentPublicApiAgree": true,
+    "commercialUseListed": true,
+    "attributionRequired": true,
+    "actualArchiveLicenseInspected": false,
+    "actualFileOwnershipAndNoticesVerified": false,
+    "finalAssetRightsVerified": false,
+    "limitation": "The uploader declaration establishes a source-level lead only. It does not authenticate an unavailable archive or license additional unlisted content. The source preview and cached viewer data were not substituted for an official model download."
+  },
+  "acquisition": {
+    "officialDownloadEntry": "Download 3D Model button on the source page",
+    "resolvedArchiveDownloadUrl": null,
+    "archive": null,
+    "finalFiles": [],
+    "modelFilesDownloaded": 0,
+    "textureFilesDownloaded": 0,
+    "archiveDestinationIfAvailable": ".webart/campo-shell-downloads-20261101",
+    "modelDestinationIfAvailable": "assets/owned/campo-shell-20261101/xqcad",
+    "destinationsCreated": false
+  },
+  "inspection": {
+    "result": "not-performed-no-actual-files",
+    "format": null,
+    "meshHierarchy": null,
+    "independentVisor": null,
+    "closedInnerSurfaces": null,
+    "undersideGeometry": null,
+    "pbrChannels": null,
+    "uvs": null,
+    "textureDimensions": null,
+    "actualTriangleCount": null,
+    "actualVertexCount": null,
+    "sourceMetadataOnly": {
+      "triangles": 89740,
+      "vertices": 44890
+    },
+    "limitations": "89740 triangles and 44890 vertices are current public API labels, not counts parsed from an acquired model. No mesh, binary, texture or material has been inspected and no hidden-surface claim is made."
+  },
+  "reviewer": {
+    "id": "current-conversation-subagent-asset-acquisition",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "nextAction": "Preserve this source-specific access result. Do not bypass account access or scrape viewer assets. Chief can progress other authorized project work or a separately scoped mature-asset route; this result does not reject the Lando mother or stop the whole project.",
+  "assetApproved": false,
+  "materialApproved": false,
+  "prototypeApproved": false,
+  "sourcePackageAuthorized": false,
+  "inventoryChanged": false,
+  "showcaseChanged": false
+}

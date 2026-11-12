@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "009",
+  "identity": "98cd199abbe9fc60d4911255537c8b98220e33a6dbd4c5825a5e4e6b010b157d",
+  "sourceSha256": "f955a16f31e4555b2c68f1ca3f3691f51293024356b5c1df356f3519aa32416b",
+  "dependencies": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-workflow-07.json",
+      "sha256": "4100d1a0c7327721447ba66bb0183c8952061cf94d0581e459b2c94fa9663e4a"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-plan-07.json",
+      "sha256": "deeb6745c328982eee52e76d980a2663c0388da515a9377ba5f8cf68017c4686"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/009-reference-review-02.json",
+      "sha256": "df030f18e11ad2918482ec3ce3104a81ee113cb47941be94e45341649bc94fc2"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/calibration-review.json",
+      "sha256": "5062704d49c1c462e82777e4a02d5f89dd073ff4f7900f0c537b869b1d114eb3"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-21/009-otto-reference-11-grouped/capture.json",
+      "sha256": "6b3587b685023760cdb8e146df7cd3cbbd42098b07220301dfa39781d06e7b75"
+    },
+    {
+      "path": "scripts/capture-production.mjs",
+      "sha256": "1cfb50d967421640ae30328256549434a871366490d83f01431206dc3bd75d40"
+    },
+    {
+      "path": "scripts/production/device-metrics.mjs",
+      "sha256": "d28bd7dbca64f78b778935747de1612c7659fd30d7f74f4c9f714d00a418bbb2"
+    },
+    {
+      "path": "scripts/production/native-scroll.mjs",
+      "sha256": "ac9dd7ca80deba4be8ee2b6a437562765f3cfb59b418f5e4381359a174bd5b55"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/evidence.mjs",
+      "sha256": "c283732dfbf3e7654d70080c21965ab1097681254186e54d72f0e6173154c844"
+    },
+    {
+      "path": "docs/production/prompts/REVIEW_PAIR.md",
+      "sha256": "6010b0ee21174984b4f4b7aab4a9a1972e03baba3be5452e5c84c83c8ca90281"
+    }
+  ],
+  "createdAt": "2026-10-21T15:36:26.717Z",
+  "stages": [
+    {
+      "status": "preparing-dependencies",
+      "at": "2026-10-21T15:36:26.718Z"
+    },
+    {
+      "status": "capturing",
+      "at": "2026-10-21T15:36:37.828Z"
+    },
+    {
+      "status": "reviewing",
+      "at": "2026-10-21T15:37:45.936Z"
+    },
+    {
+      "status": "awaiting-review",
+      "at": "2026-10-21T15:37:47.142Z"
+    },
+    {
+      "status": "reviewing",
+      "at": "2026-10-21T15:40:55.318Z"
+    },
+    {
+      "status": "prototype-admitted",
+      "at": "2026-10-21T15:40:56.093Z"
+    }
+  ],
+  "captures": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-009-98cd199abbe9fc60/capture-0.json",
+      "sha256": "f3df699117fa189d02df7de0c4d6e876495e4f0cf640f121f9ab2eb14f00f51c"
+    }
+  ],
+  "reviews": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-009-98cd199abbe9fc60/review-0.json",
+      "sha256": "75ebfe9eee0d00948006e2f9c0ee7534c14a35a1c0d623e38655ae6c7c0e0951"
+    }
+  ],
+  "modelCodeGenerationCalls": 0,
+  "packageAuthorized": false,
+  "status": "prototype-admitted",
+  "updatedAt": "2026-10-21T15:40:56.093Z",
+  "attempt": 0,
+  "nextAction": "full-implementation-and-full-qa",
+  "review": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-009-98cd199abbe9fc60/review-0.json",
+    "sha256": "75ebfe9eee0d00948006e2f9c0ee7534c14a35a1c0d623e38655ae6c7c0e0951"
+  },
+  "capture": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/prototype-009-98cd199abbe9fc60/capture-0.json",
+    "sha256": "f3df699117fa189d02df7de0c4d6e876495e4f0cf640f121f9ab2eb14f00f51c"
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "started": "2026-10-16T06:14:38.478Z",
+  "origin": "http://127.0.0.1:4323/",
+  "mode": "full",
+  "viewports": [
+    {
+      "name": "desktop",
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 3600,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "wide",
+      "viewport": [
+        2048,
+        912
+      ],
+      "height": 3648,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "tablet",
+      "viewport": [
+        768,
+        1024
+      ],
+      "height": 4096,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "height": 3376,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    },
+    {
+      "name": "narrow",
+      "viewport": [
+        320,
+        844
+      ],
+      "height": 3376,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ],
+      "controlClipping": []
+    }
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "y": 900
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "y": 495
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "y": 2700
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "y": 844
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "y": 464
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "y": 2532
+    }
+  ],
+  "responsive": [
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "state": "opening",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/desktop-responsive-opening.png",
+        "sha256": "feec1793891e7b3eec1d190e3c552158883f2bc2f607faeee53a4232d72b30c8"
+      }
+    },
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "state": "transition",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/desktop-responsive-transition.png",
+        "sha256": "3e54ea652f880c65312bdd7a2a0b68a08682484a2079cd1144ecd0ebbd04a9b4"
+      }
+    },
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "state": "middle",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/desktop-responsive-middle.png",
+        "sha256": "37250248cab3b2341c9168126211a5fd4c3277e2d24b5ac972081cb558c10599"
+      }
+    },
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "state": "ending",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/desktop-responsive-ending.png",
+        "sha256": "6d0b33a7d955cffa57cb937773c8733eda226340ad8a38c36d885b375bc60000"
+      }
+    },
+    {
+      "viewport": "wide",
+      "width": 2048,
+      "height": 912,
+      "state": "opening",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/wide-responsive-opening.png",
+        "sha256": "b720105bd1201fa0339c229735094f0a6b7fe98db83cf52cddb1b43b95fda8ac"
+      }
+    },
+    {
+      "viewport": "wide",
+      "width": 2048,
+      "height": 912,
+      "state": "transition",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/wide-responsive-transition.png",
+        "sha256": "dad0aec46fc6ee38c63c271b71705c6be78e9aab19f63357032c52aac2115367"
+      }
+    },
+    {
+      "viewport": "wide",
+      "width": 2048,
+      "height": 912,
+      "state": "middle",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/wide-responsive-middle.png",
+        "sha256": "532f5d5f62c0bf8ff51ff01a5b786fdc53a228135b31c1be0c6c8138bff623a7"
+      }
+    },
+    {
+      "viewport": "wide",
+      "width": 2048,
+      "height": 912,
+      "state": "ending",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/wide-responsive-ending.png",
+        "sha256": "9b9ce6fbe68e5dea2ccb055df430a8b711e2df8344186f93306bf7995b40d9ce"
+      }
+    },
+    {
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "state": "opening",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/tablet-responsive-opening.png",
+        "sha256": "335ab31f55d91c665ec23defe45e1b16ad02abc820d5c46e6105a3eaba4a0155"
+      }
+    },
+    {
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "state": "transition",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/tablet-responsive-transition.png",
+        "sha256": "d4c641ff1b268c424c300d825abc68cc1e8e2b243fec1ba9f22e09e18a083239"
+      }
+    },
+    {
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "state": "middle",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/tablet-responsive-middle.png",
+        "sha256": "6d83373e629127ece323ad6812a8086a2702d3a07972d6ec33260bf5bb88a6d4"
+      }
+    },
+    {
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "state": "ending",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/tablet-responsive-ending.png",
+        "sha256": "55a9f881d2e756e466cebd1376d2796324f83b23043f5a538ac8a5f3f1bd9f79"
+      }
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "state": "opening",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/mobile-responsive-opening.png",
+        "sha256": "9dce0c320ff548148ddff5d73d09d38171e0dddb93701feab3384851a2787eb7"
+      }
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "state": "transition",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/mobile-responsive-transition.png",
+        "sha256": "f9046e018a773b32cb704fa6fc8c1a9c219bae4775777dc54e632c6a8c733db1"
+      }
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "state": "middle",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/mobile-responsive-middle.png",
+        "sha256": "93d2b40b1acb1d594f45b0251cc1903d0423e9fda815abba69e9936c17fca7fd"
+      }
+    },
+    {
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "state": "ending",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/mobile-responsive-ending.png",
+        "sha256": "656ca21a16332094b63f3be2b2de8d8a523231402800724d94bd0c2b7c4d1572"
+      }
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "height": 844,
+      "state": "opening",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/narrow-responsive-opening.png",
+        "sha256": "eadc89d1920cf1355099b928f6210f88de2ace74b50937f5aa0a0d1bd49b4987"
+      }
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "height": 844,
+      "state": "transition",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/narrow-responsive-transition.png",
+        "sha256": "ee9925202d7f3bee616966b914bced1ad22c855ca982b8df5aa20b8e6cb87bda"
+      }
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "height": 844,
+      "state": "middle",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/narrow-responsive-middle.png",
+        "sha256": "f7e5ce7da1fd7d189d2bfb47c31fb88a0f8e8d76aadd145e5f58c9d197f399bb"
+      }
+    },
+    {
+      "viewport": "narrow",
+      "width": 320,
+      "height": 844,
+      "state": "ending",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/narrow-responsive-ending.png",
+        "sha256": "bc927c0eb159636282e2251a067f72f90ec2b8fce696d6dcf8aed6ce28c35df1"
+      }
+    }
+  ],
+  "transitions": [
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-opening",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-opening",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-opening",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-transition",
+      "fraction": 0.25,
+      "y": 225
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-transition",
+      "fraction": 0.5,
+      "y": 450
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-transition",
+      "fraction": 0.75,
+      "y": 675
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-middle",
+      "fraction": 0.25,
+      "y": 1125
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-middle",
+      "fraction": 0.5,
+      "y": 1350
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-middle",
+      "fraction": 0.75,
+      "y": 1575
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-ending",
+      "fraction": 0.25,
+      "y": 2025
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-ending",
+      "fraction": 0.5,
+      "y": 2250
+    },
+    {
+      "viewport": "desktop",
+      "boundary": "#scene-ending",
+      "fraction": 0.75,
+      "y": 2475
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-opening",
+      "fraction": 0.25,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-opening",
+      "fraction": 0.5,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-opening",
+      "fraction": 0.75,
+      "y": 0
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-transition",
+      "fraction": 0.25,
+      "y": 211
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-transition",
+      "fraction": 0.5,
+      "y": 422
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-transition",
+      "fraction": 0.75,
+      "y": 633
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-middle",
+      "fraction": 0.25,
+      "y": 1055
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-middle",
+      "fraction": 0.5,
+      "y": 1266
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-middle",
+      "fraction": 0.75,
+      "y": 1477
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-ending",
+      "fraction": 0.25,
+      "y": 1899
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-ending",
+      "fraction": 0.5,
+      "y": 2110
+    },
+    {
+      "viewport": "mobile",
+      "boundary": "#scene-ending",
+      "fraction": 0.75,
+      "y": 2321
+    }
+  ],
+  "arbitrary": [
+    {
+      "viewport": "desktop",
+      "fraction": 0.14,
+      "y": 378
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.37,
+      "y": 999
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.61,
+      "y": 1647
+    },
+    {
+      "viewport": "desktop",
+      "fraction": 0.84,
+      "y": 2268
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.14,
+      "y": 354
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.37,
+      "y": 937
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.61,
+      "y": 1545
+    },
+    {
+      "viewport": "mobile",
+      "fraction": 0.84,
+      "y": 2127
+    }
+  ],
+  "checks": {
+    "desktopWheel": true,
+    "mobileWheel": true,
+    "links": [
+      {
+        "href": "#scene-transition",
+        "valid": true
+      },
+      {
+        "href": "#scene-opening",
+        "valid": true
+      }
+    ],
+    "disclosures": 0,
+    "reduced": true,
+    "noScript": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "height": 3600,
+      "overflow": false,
+      "missing": 0,
+      "fonts": [
+        {
+          "family": "Space Grotesk",
+          "status": "loaded"
+        },
+        {
+          "family": "JetBrains Mono",
+          "status": "loaded"
+        }
+      ],
+      "clipped": [],
+      "scenes": [
+        {
+          "selector": "#scene-opening",
+          "visible": true
+        },
+        {
+          "selector": "#scene-transition",
+          "visible": true
+        },
+        {
+          "selector": "#scene-middle",
+          "visible": true
+        },
+        {
+          "selector": "#scene-ending",
+          "visible": true
+        }
+      ]
+    },
+    "touchScroll": 485
+  },
+  "errors": [],
+  "result": "passed-observable-checks",
+  "finished": "2026-10-16T06:15:22.839Z",
+  "sourceSha256": "be63cc3efc3ada19053f19ef3d0d3e7f568d4e367f9b0aeafd8ac3d92740a3de"
+}

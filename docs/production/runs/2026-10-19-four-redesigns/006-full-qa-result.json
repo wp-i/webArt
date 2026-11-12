@@ -1,0 +1,232 @@
+{
+  "decision": "reject",
+  "responsiveComposition": "reject",
+  "responsiveChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "织物与绒面交界清楚，中央字形及短用途没有遮挡主要材料，导航和探索行动位于边缘并保持可读。",
+      "frames": [
+        "responsive-composition-123"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "满高相邻空间保留窗帘、窗和家具的材料尺度，已经取消明亮摄影上的大标题，底部编号有局部暗部承托。",
+      "frames": [
+        "responsive-composition-124"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "纸色材料索引与前段比例不同，织纹主图、两项选择和短标题保持完整，图文之间留有稳定空间且没有遮挡。",
+      "frames": [
+        "responsive-composition-125"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "独立窗帘、透光白纱与木地面形成收束，联系和返回位于暗部，主体和主要行动均没有被裁断。",
+      "frames": [
+        "responsive-composition-126"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "织物与绒面交界清楚，中央字形及短用途没有遮挡主要材料，导航和探索行动位于边缘并保持可读。宽屏没有把照片缩成装饰或拉成浅条。",
+      "frames": [
+        "responsive-composition-127"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "满高相邻空间保留窗帘、窗和家具的材料尺度，已经取消明亮摄影上的大标题，底部编号有局部暗部承托。宽屏没有把照片缩成装饰或拉成浅条。",
+      "frames": [
+        "responsive-composition-128"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "纸色材料索引与前段比例不同，织纹主图、两项选择和短标题保持完整，图文之间留有稳定空间且没有遮挡。宽屏没有把照片缩成装饰或拉成浅条。",
+      "frames": [
+        "responsive-composition-129"
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "独立窗帘、透光白纱与木地面形成收束，联系和返回位于暗部，主体和主要行动均没有被裁断。宽屏没有把照片缩成装饰或拉成浅条。",
+      "frames": [
+        "responsive-composition-130"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "织物与绒面交界清楚，中央字形及短用途没有遮挡主要材料，导航和探索行动位于边缘并保持可读。平板仍保留独立照片幅面与完整字形。",
+      "frames": [
+        "responsive-composition-131"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "满高相邻空间保留窗帘、窗和家具的材料尺度，已经取消明亮摄影上的大标题，底部编号有局部暗部承托。平板仍保留独立照片幅面与完整字形。",
+      "frames": [
+        "responsive-composition-132"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "纸色材料索引与前段比例不同，织纹主图、两项选择和短标题保持完整，图文之间留有稳定空间且没有遮挡。平板仍保留独立照片幅面与完整字形。",
+      "frames": [
+        "responsive-composition-133"
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "独立窗帘、透光白纱与木地面形成收束，联系和返回位于暗部，主体和主要行动均没有被裁断。平板仍保留独立照片幅面与完整字形。",
+      "frames": [
+        "responsive-composition-134"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "织物与绒面交界清楚，中央字形及短用途没有遮挡主要材料，导航和探索行动位于边缘并保持可读。",
+      "frames": [
+        "responsive-composition-135"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "满高相邻空间保留窗帘、窗和家具的材料尺度，已经取消明亮摄影上的大标题，底部编号有局部暗部承托。",
+      "frames": [
+        "responsive-composition-136"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "纸色材料索引与前段比例不同，织纹主图、两项选择和短标题保持完整，图文之间留有稳定空间且没有遮挡。",
+      "frames": [
+        "responsive-composition-137"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "独立窗帘、透光白纱与木地面形成收束，联系和返回位于暗部，主体和主要行动均没有被裁断。",
+      "frames": [
+        "responsive-composition-138"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "lost",
+      "actions": "preserved",
+      "finding": "320实际把第二组标题再次折行，形成三行，与已锁定两行构图不符；虽未横向溢出且主体仍在，但需要缩小此宽度字号再复核。",
+      "frames": [
+        "responsive-composition-139"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "满高相邻空间保留窗帘、窗和家具的材料尺度，已经取消明亮摄影上的大标题，底部编号有局部暗部承托。窄屏的编号、材料选择与联系均可到达。",
+      "frames": [
+        "responsive-composition-140"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "纸色材料索引与前段比例不同，织纹主图、两项选择和短标题保持完整，图文之间留有稳定空间且没有遮挡。窄屏的编号、材料选择与联系均可到达。",
+      "frames": [
+        "responsive-composition-141"
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "独立窗帘、透光白纱与木地面形成收束，联系和返回位于暗部，主体和主要行动均没有被裁断。窄屏的编号、材料选择与联系均可到达。",
+      "frames": [
+        "responsive-composition-142"
+      ]
+    }
+  ],
+  "renderingFallback": "not-applicable",
+  "findings": [
+    "320开场标题实际三行，未保持已锁定的两行构图；只修订该宽度字号并重新采证，不因无溢出就放行。",
+    "键盘、鼠标和真实触摸的材料选择已成立；普通手机横向滑动空间卷轴尚缺直接验证，需要按brief补齐并测试，不能从纵向输入推定。",
+    "白底材料段的浅灰导航仍偏弱，下一版有界提高窄导航底色的深度，保留现有位置、照片和字体。"
+  ]
+}

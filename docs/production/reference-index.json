@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10",
+  "updated": "2026-11-01",
   "scope": "本项目短页/95展示目标，非网站客观评价",
   "references": [
     {
@@ -66,13 +66,17 @@
       "name": "Union Boulangerie",
       "url": "https://unionboulangerie.com/",
       "status": "rejected",
-      "reason": "视频与字体揭示"
+      "reason": "已查看加载后的影片、蓝底介绍、方法、门店及真实终点。默认中段以介绍和普通门店列表为主，终点为小型食材收集/订阅，快筛没有达到本项目完整视觉结果；未将初次影片前的无字状态当作成品。",
+      "date": "2026-10-17",
+      "evidence": "docs/evidence/redo-v2/2026-10-16/union-20261017-path/path.json"
     },
     {
       "name": "ESR Bespoke",
       "url": "https://www.esrbespoke.au/",
-      "status": "rejected",
-      "reason": "拒绝进入本轮，核心技术/媒体复杂"
+      "status": "evidence-needed",
+      "reason": "最终开场为真实驾驶影片，初次黑屏是加载；17个小/离屏canvas不能当车辆3D模型已渲染。实际摄影切换存在，未完成完整母版七维审查，本轮未准入；旧复杂技术判断不再自动有效。",
+      "date": "2026-10-14",
+      "evidence": "docs/production/runs/2026-10-14-reference-recheck/RESULT.md"
     },
     {
       "name": "Origin",
@@ -96,7 +100,9 @@
       "name": "Onoera",
       "url": "https://onoera.com/",
       "status": "evidence-needed",
-      "reason": "待补证，本轮跳过"
+      "reason": "2026-10-17实际开场为黑/青颗粒影像与短字标，DOM含长服务卡片和活动列表；未完成八状态和结尾视觉门，本轮未选，不能当作已准入母版。",
+      "evidence": "docs/evidence/redo-v2/2026-10-17/onoera-20261017-path/path.json",
+      "date": "2026-10-18"
     },
     {
       "name": "Folk",
@@ -119,8 +125,10 @@
     {
       "name": "Hyll",
       "url": "https://hyllhotel.com/",
-      "status": "evidence-needed",
-      "reason": "限时首屏未完成"
+      "status": "rejected",
+      "reason": "实际关闭弹窗后补齐35幅无遮挡1440/390原生路径和额外输入终点；重复照片/说明与订阅后接字标和工具信息，当前短页目标下不选。旧43幅多数有遮挡，错误关闭标签保留，不作为完整判断依据；并非正式七维评审。",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/008-architecture-screen-20261031.json",
+      "date": "2026-10-31"
     },
     {
       "name": "Roxoseco",
@@ -135,28 +143,33 @@
       "reason": "默认媒体未完成"
     },
     {
-      "name": "Anecdota",
+      "name": "Anècdota Rural",
       "url": "https://www.anecdotarural.com/",
       "status": "rejected",
-      "reason": "特殊波动字形和手机默认用途弱"
+      "reason": "2026-10-17已实际补齐桌面开场、中段与终点：大字标、橄榄园及长段落，粉色工具页脚；完整短路径和主体输入不足，快筛不选。此次更新旧超时状态，未授予八状态准入。",
+      "date": "2026-10-18",
+      "evidence": "docs/evidence/redo-v2/2026-10-17/anecdota-20261017-path/path.json"
     },
     {
       "name": "NKORA",
       "url": "https://nkora.co.uk/",
       "status": "rejected",
-      "reason": "首屏视频和99媒体"
+      "reason": "实际开场是咖啡馆影片与居中短标题，结尾为小人物及联系行动和常规导航；视觉结果与001独立收束仍有明显差距，不进入试片。",
+      "date": "2026-10-16",
+      "evidence": "docs/evidence/redo-v2/2026-10-16/source-batch-01/batch.json"
     },
     {
       "name": "Pimpinella",
       "url": "https://www.pimpinella.cooking/",
-      "status": "trial",
-      "reason": "007整页92；删重复图文后体验证据薄"
+      "status": "rejected",
+      "reason": "2026-10-14直接补证5个嵌套Spline面食主体及真实影片/指针，核心已发现；完整路径仍重复黄栏图文、手机长段落/票务遮挡、普通FAQ与订阅收束，低于当前001整页基准。旧92评价失效；新影片/独立3D试片同样拒绝。不得再次因简单或已投入选用。",
+      "review": "docs/production/runs/2026-10-14-campovivo/007-reference-review.json"
     },
     {
       "name": "Amour Liquide",
       "url": "https://amourliquide.com/en/",
-      "status": "rejected",
-      "reason": "canvas及产品状态"
+      "status": "evidence-needed",
+      "reason": "用户允许必要局部3D后已重查，浏览器仍停在黄色加载层且有失败资源；没有取得最终内容。不以旧canvas限制或加载屏判断当前视觉质量。"
     },
     {
       "name": "Focal Glow",
@@ -167,14 +180,19 @@
     {
       "name": "House of Honey",
       "url": "https://www.houseofhoney.com/",
-      "status": "accepted-internal",
-      "reason": "006内部95；用户尚未95验收"
+      "status": "rejected",
+      "reason": "当前桌面/手机8状态及原生过程已复看，开场和字体/摄影成立；指针仅轻微图片缩放及游标反馈，手机末屏以长导航地址为主，低于本项目001的主体输入和完整结果。不是对源站的客观总分评价。",
+      "previousAdmissionRevoked": true,
+      "date": "2026-10-17",
+      "evidence": "docs/production/runs/2026-10-17-reference-trial/006-honey-rejection.json"
     },
     {
-      "name": "Anne Boysen",
+      "name": "Anne Boysen Studio",
       "url": "https://www.anneboysen.dk/",
       "status": "rejected",
-      "reason": "漂浮图编排和9视频"
+      "reason": "已补齐当前桌面/手机8状态和原生正反过程，真实抵达终点；手机开场主体多被切在两侧，整页反复产品网格，深棕工具页脚没有专属视觉收束，当前目标下拒绝。指针维度未专门采证，不据此加分。",
+      "date": "2026-10-18",
+      "evidence": "docs/production/runs/2026-10-18-reference-preflight/008-anne-rejection.json"
     },
     {
       "name": "Faulkner Architects",
@@ -185,8 +203,10 @@
     {
       "name": "Cabalar",
       "url": "https://www.eatcabalar.com/",
-      "status": "rejected",
-      "reason": "首屏电影视频和长媒体路径"
+      "status": "evidence-needed",
+      "reason": "最终影片及三图浏览已加载，初次白屏不是全部默认页；普通品牌介绍的快筛未选，未执行完整八状态品质门，不因影片数量作客观设计评分。",
+      "date": "2026-10-14",
+      "evidence": "docs/production/runs/2026-10-14-reference-recheck/RESULT.md"
     },
     {
       "name": "Celtic Sea Salt",
@@ -198,7 +218,9 @@
       "name": "Folk Kombucha",
       "url": "https://www.folkkombucha.dk/",
       "status": "rejected",
-      "reason": "首屏视频"
+      "reason": "影片最终已加载，蓝色发酵主视觉有具体身份；实际完整中段长正文、商城与普通社区/地址页脚不符合当前短文案与整页完成度目标。不再仅因首屏video拒绝。",
+      "date": "2026-10-14",
+      "evidence": "docs/production/runs/2026-10-14-reference-recheck/RESULT.md"
     },
     {
       "name": "Care of Chan",
@@ -216,7 +238,9 @@
       "name": "HER",
       "url": "https://her.melbourne/",
       "status": "rejected",
-      "reason": "核心canvas"
+      "reason": "用户允许局部3D后直接补证：真实跨视口旋转红/蓝空间存在，但默认页只有房间导航，原生正反滚动没有介绍/作品/联系的普通短页路径。因用途不匹配停止，不再用canvas存在作为拒绝理由。",
+      "date": "2026-10-14",
+      "evidence": "docs/production/runs/2026-10-14-reference-recheck/RESULT.md"
     },
     {
       "name": "Bragg",
@@ -245,8 +269,10 @@
     {
       "name": "Anuc Home",
       "url": "https://www.anuchome.com/",
-      "status": "rejected",
-      "reason": "定制几何字标和长揭示路径"
+      "status": "evidence-needed",
+      "reason": "加载后直接看到几何字标/满幅室内照片及三列服务，快筛未选；没有完整八状态或所有签名输入证据，不能据旧长揭示/字标技术判断授予或否决完整质量。",
+      "date": "2026-10-14",
+      "evidence": "docs/production/runs/2026-10-14-reference-recheck/RESULT.md"
     },
     {
       "name": "SAFEHOUSE",
@@ -257,8 +283,337 @@
     {
       "name": "Arc",
       "url": "https://www.arcprojects.build/",
+      "status": "rejected",
+      "reason": "已在加载层真实退出后补齐当前桌面/手机8状态及原生过程；项目仅裁切/标签反馈，整页反复照片/标题，手机条码与工具列表收束低于当前基准。旧稿确实删掉母版底部图形，但恢复该项仍不能放行。",
+      "previousAdmissionRevoked": true,
+      "date": "2026-10-17",
+      "evidence": "docs/production/runs/2026-10-17-reference-trial/008-arc-rejection.json"
+    },
+    {
+      "name": "COTTA",
+      "url": "https://cotta-studio.com/",
+      "status": "rejected",
+      "reason": "本轮视频/电商长路径，不适合少量静态媒体短模板",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Cristina Gómez",
+      "url": "https://cristinagomezruiz.com/",
+      "status": "evidence-needed",
+      "reason": "长加载及canvas，当前证据不支持轻量实现",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Vero",
+      "url": "https://www.verostudio.com/",
+      "status": "rejected",
+      "reason": "长字形揭示及15,031像素路径，不选",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "TOPIC",
+      "url": "https://www.studio-topic.com/",
+      "status": "rejected",
+      "reason": "默认主体为满屏项目名，作品默认隐藏，不选",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Kai Blamey",
+      "url": "https://kaiblamey.com/",
+      "status": "rejected",
+      "reason": "11视频固定浏览，不选",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Sam Thies",
+      "url": "https://samthies.com/",
+      "status": "evidence-needed",
+      "reason": "默认首屏加载未完成，136图/视频，当前不选",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Tillmann Franzen",
+      "url": "https://tillmannfranzen.com/",
+      "status": "evidence-needed",
+      "reason": "默认加载未完成，长路径；一次不必要deep计入工具时间",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Félix Péault",
+      "url": "https://felixpeault.com/",
       "status": "trial",
-      "reason": "008首屏96整页94；中下段辨识度不足"
+      "reason": "009单母版，摄影/蓝绿渐变/角落身份；原生短页适配，等待用户视觉审核",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "SevenGrid",
+      "url": "https://sevengrid.app/",
+      "status": "evidence-needed",
+      "reason": "本地Pace被用户判约80；旧不同风格/零图片的准入失效。源站客观质量未重打分，若重选须按v2质量基准和核心保真重新验证，不自动复用旧admitted。",
+      "previousAdmissionRevoked": true
+    },
+    {
+      "name": "ScreenTune",
+      "url": "https://screentune.app/",
+      "status": "rejected",
+      "reason": "实际快筛为居中大文字/小界面，75图16视频长路径，媒体成本与本轮风格差异目标不符，不深入。"
+    },
+    {
+      "name": "Cozy Journal",
+      "url": "https://cozyjournal.app/",
+      "status": "evidence-needed",
+      "reason": "浏览器端点失效，未取得有效页面，不评价设计；选定SevenGrid后停止额外搜索。"
+    },
+    {
+      "name": "monopo london",
+      "url": "https://monopo.london/",
+      "status": "rejected",
+      "date": "2026-10-14",
+      "reason": "桌面镜片语言揭示及作品/色场耦合实际成立；最终收束是常规黑色邮件、地址与导航，低于本项目001完整视觉结果。手机部分位置清晰，不能把转场模糊误判加载失败；普通pointer序列误选隐藏h1，完整输入证明未成立。拒绝进入本轮试片，不是对源站客观总分评价。",
+      "evidence": "docs/production/runs/2026-10-14-reference-recheck/RESULT.md"
+    },
+    {
+      "name": "SEATED",
+      "url": "https://seated.nyc/",
+      "status": "rejected",
+      "reason": "本轮实际默认开场为整段32px介绍及满屏重字标，文字负担高于项目短页要求；不以其所获推荐替代本项目默认开场品质，未制作替换素材。",
+      "date": "2026-10-16",
+      "evidence": "docs/evidence/redo-v2/2026-10-16/source-batch-01/batch.json"
+    },
+    {
+      "name": "Arkitektkontoret Vest",
+      "url": "https://arkitektkontoretvest.no/",
+      "status": "evidence-needed",
+      "reason": "本轮页面加载条件超时，没有取得最终画面；不据图库推荐判断质量。",
+      "date": "2026-10-16",
+      "evidence": "docs/evidence/redo-v2/2026-10-16/source-batch-01/batch.json"
+    },
+    {
+      "name": "Studio Nari",
+      "url": "https://www.studionari.co.uk/",
+      "status": "rejected",
+      "reason": "实际首屏为分散品牌作品，滚动后是窄列案例与模糊环境背景，终点为常规联系和订阅。质量主要依赖成套专有品牌素材；当前项目无法用少量独立素材保留这些核心，快筛不选，不创建试片。",
+      "date": "2026-10-17",
+      "evidence": "docs/evidence/redo-v2/2026-10-16/nari-retry-path/path.json"
+    },
+    {
+      "name": "Open Statement",
+      "url": "https://www.openstatement.co/",
+      "status": "rejected",
+      "reason": "实际已加载的开场为介绍与网站案例，连续路径为重复案例列表，终点为轻量导航页脚，没有选出达到当前基准的完整短页路径。部分滚动媒体仍模糊，不据这些帧评价图片工艺；快筛未选，无完整准入结论。",
+      "date": "2026-10-17",
+      "evidence": "docs/evidence/redo-v2/2026-10-16/statement-retry-path/path.json"
+    },
+    {
+      "name": "Basement Studio",
+      "url": "https://basement.studio/",
+      "status": "evidence-needed",
+      "reason": "当前主视觉是含人物、动物和多个物件的完整3D地下室，不是旧记忆中的金属字标。未锁定能保留整个空间身份的合规替换素材；不得用普通金属字标或几何代理制作。",
+      "date": "2026-10-17",
+      "evidence": "docs/evidence/redo-v2/2026-10-16/basement-path/path.json"
+    },
+    {
+      "name": "Vucko",
+      "url": "https://vucko.co/",
+      "status": "rejected",
+      "reason": "实际当前首屏为三列介绍、固定时钟/项目侧栏与品牌案例影片，末段是文章/联系导航。默认构图没有形成当前基准的主体权威，且成套品牌影片替换未成立，快筛不选。",
+      "date": "2026-10-17",
+      "evidence": "docs/evidence/redo-v2/2026-10-16/vucko-20261017-path/path.json"
+    },
+    {
+      "name": "Lusion",
+      "url": "https://lusion.co/",
+      "status": "evidence-needed",
+      "reason": "真实加载后可见精细3D交叉件群；已用250次原生滚轮经过完整自定义路径，结尾含穿屏宇航员、贴纸和宝石，再接工具页脚。整套模型/媒体保留方案未锁定；禁止把普通圆柱堆或缺少宇航员的联系页当作保真。",
+      "date": "2026-10-17",
+      "evidence": "docs/evidence/redo-v2/2026-10-17/lusion-ending-walk/walk.json"
+    },
+    {
+      "name": "Oryzo",
+      "url": "https://oryzo.ai/",
+      "status": "rejected",
+      "reason": "源站四状态品质准入记录保留，但实际替换素材两次模型方案及一次有界收尾均未达到手部工艺/自然接触要求，当前项目候选停止；不继续自行重建复杂资产或用工程通过放行。再次进入须有新的完整可用素材和指纹化依据。",
+      "date": "2026-10-17",
+      "evidence": "docs/production/runs/2026-10-17-reference-trial/007-core-rejection.json"
+    },
+    {
+      "name": "illoca",
+      "url": "https://illoca.unseen.co/",
+      "status": "evidence-needed",
+      "reason": "实际开场和一次原生滚动可见完整人物、办公空间、建筑和统一蓝色手绘材质；核心是成套定制场景，并非一个可直接替换的小组件。DOM为自定义舞台及超过两万像素的功能/价格/FAQ路径；当前未锁完整可分发场景及八状态，本轮不选。不以开场漂亮授予母版准入。",
+      "evidence": "docs/production/runs/2026-10-18-reference-preflight/batch.json",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "Gionatan Nese",
+      "url": "https://www.gionatannese.com/",
+      "status": "rejected",
+      "reason": "已实际查看加载后的默认页和一次原生滚动，默认为小尺度环形作品浏览，普通介绍和行动未直接呈现。当前用途前置不符，快筛停止；未进行八状态品质评分，不将作品展示机制改造成另一普通介绍页后冒称保真。",
+      "evidence": "docs/production/runs/2026-10-18-reference-preflight/batch.json",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "Huy Phan",
+      "url": "https://huyml.co/",
+      "status": "evidence-needed",
+      "reason": "最初黑屏仅为加载诊断，未作审美判断。加载及原生滚动后可见19作品的三维图片浏览和项目文字，当前未完成八状态、收束和完整素材授权/替换方案；本轮不选，不借旧奖项授予质量资格。",
+      "evidence": "docs/production/runs/2026-10-18-reference-preflight/batch.json",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "Atelier North",
+      "url": "https://atelier-north.crnacura.workers.dev/",
+      "status": "evidence-needed",
+      "date": "2026-10-18",
+      "evidence": "docs/production/runs/2026-10-18-reference-preflight/008-atelier-preflight.json",
+      "reason": "实际默认页为大字标/段落/章节索引，完整手机/指针/过程尚未采齐；动态锚点采证主动失败。README的MIT文件链接404且媒体来源未锁。本轮不选、不取得素材，不以开源/易复用授予准入。"
+    },
+    {
+      "name": "Da Pietro 1955",
+      "url": "https://dapietro1955.it/",
+      "status": "rejected",
+      "reason": "本轮短页用途快筛不选：默认桌面首屏为居中长介绍而非餐饮主体，实际手机亦以多行介绍压在摄影上；末端为普通多列工具页脚。并非判断加载屏或域名失效，未执行完整七维准入。",
+      "date": "2026-10-20",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/007-reference-batch-01.json"
+    },
+    {
+      "name": "Tripletta Pizza",
+      "url": "https://www.triplettapizza.com/",
+      "status": "rejected",
+      "reason": "桌面印刷插画与服务摄影展开有辨识度，但实际390开场的主体缩小居中且大幅空白，终点再次完整重复开场字标与插画。保留该完整路径会违反同页重复支配构图，删掉后尚无已锁定的独立收束，快筛不选，不用奖项或风格差异准入。",
+      "date": "2026-10-20",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/007-reference-batch-01.json"
+    },
+    {
+      "name": "Curate Restaurant",
+      "url": "https://curate-restaurant.com/",
+      "status": "evidence-needed",
+      "reason": "已查看加载后的宏观菜品与中央衬线介绍，媒体完整；当前开场关系与刚完成006较近，尚未取得八状态、真实过程、手机与完整替换方案。本批不深入、不授予准入，不据单幅开场判整页优劣。",
+      "date": "2026-10-20",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/007-reference-batch-01.json"
+    },
+    {
+      "name": "Escape Coffee",
+      "url": "https://escape.cafe/",
+      "status": "rejected",
+      "reason": "实际当前默认为超高海浪视频与大字宣言，首视口没有直接的咖啡产品证据；末端为订阅、商店工具信息与回顶条。本轮短模板目标快筛不选，没有完成七维或媒体替换试作，不因旧奖项或原生可滚动批准。",
+      "date": "2026-10-20",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/007-reference-batch-01.json"
+    },
+    {
+      "name": "White Coffee",
+      "url": "https://white-coffee.com/fr/",
+      "status": "evidence-needed",
+      "reason": "已查看当前排版开场、咖啡视频过渡与三列工具联系终点；Cookie拒绝后仍可直接观看。尚未取得完整八状态、商品与唱片指针过程及手机构图，不能从字体、库存视频或电商功能推定准入。本批结束，不取得素材或制作试片。",
+      "date": "2026-10-20",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/007-reference-batch-01.json"
+    },
+    {
+      "name": "CLOU Architects",
+      "url": "https://www.clouarchitects.com/",
+      "reason": "原生滚轮与可信手机触摸已推进真实主页和环形项目舞台。当前六图范围无法保留密集作品环的核心观看，本轮不选；主页尚未审到真实终点，不据未结束加载帧作艺术拒绝或授予完整准入。",
+      "status": "evidence-needed",
+      "date": "2026-10-22",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/2026-10-22-reference-quickscreen.json"
+    },
+    {
+      "name": "Amici",
+      "url": "https://restaurant-amici.com/",
+      "reason": "稳定开场及原生整页/真实手机终点已实看，桌面主要为四行衬线宣言，摄影依赖指针轨迹进入并遮叠文字；中段为餐厅索引、照片组与预约纸卡。原生三次鼠标点击/三次手机触摸确实在末端纸卡追加品牌印章，但作用是装饰性盖章，未推进食物或空间观看。当前短页重做不选，不能以印刷风格或操作成功替代基准的主体权威与内容签名。",
+      "status": "rejected",
+      "date": "2026-10-24",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/007-amici-screen-20261024.json"
+    },
+    {
+      "name": "Fluid Glass",
+      "url": "https://fluid.glass/",
+      "status": "rejected",
+      "date": "2026-10-24",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/008-fluid-screen-20261024.json",
+      "reason": "已实际等待加载结束，查看1440/390原生滚轮/真实手指到可见版权与自动展开菜单的完整有限路径。开场为玻璃建筑实拍影片，后接介绍、四幅产品摄影、展厅影片、项目与客户评价；真实结尾为室内背景上的展开工具菜单。该完整短页替换仍缺等价影片和内容耦合指针方案，不能以普通图库、图片放大或导航岛代替。本轮不选，不是对加载层的审美判断或七维完整准入。"
+    },
+    {
+      "name": "Dopo",
+      "url": "https://mydopo.com/",
+      "status": "rejected",
+      "date": "2026-10-28",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/007-dopo-screen-20261028.json",
+      "reason": "正式源站证据及真实自动审查已完成，五项品质低于基准，手机真实终点裁断主体与毛毡；本轮不选。原自动载荷的基准过程缺口如实保留，不改写拒绝为准入。"
+    },
+    {
+      "name": "AYOCIN Atmos Lamp",
+      "url": "https://ayocin.com/",
+      "status": "rejected",
+      "date": "2026-10-28",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/008-ayocin-screen-20261028.json",
+      "reason": "桌面/手机真实自定义滚动终点与光色拖动已实际查看；重复森林、订购卡和工具收束未形成合格短页方案，本轮不选；不是完整七维准入。"
+    },
+    {
+      "name": "Essence",
+      "url": "https://nebunook.com/demos/visual-landings/essence-perfume/",
+      "status": "evidence-needed",
+      "date": "2026-10-28",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/material-reference-batch-20261028.json",
+      "reason": "已实看桌面及匹配物理屏幕的手机观察，正常动态偏好未完整核验；不把默认减少动态下的无变化当作源站失败，当前未准入。"
+    },
+    {
+      "name": "EIDOLON",
+      "url": "https://eidolon-c.netlify.app/",
+      "status": "evidence-needed",
+      "date": "2026-10-28",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/material-reference-batch-20261028.json",
+      "reason": "已实看桌面及匹配物理屏幕的手机观察，正常动态偏好未完整核验；不把默认减少动态下的无变化当作源站失败，当前未准入。"
+    },
+    {
+      "name": "Tabasco / Hilo Studio",
+      "url": "https://tabasco.hilostudiolab.com/",
+      "status": "rejected",
+      "date": "2026-10-29",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/007-tabasco-screen-20261029.json",
+      "reason": "40幅新证据已核验正常动态及真实桌面/手机终点；稳定主体无已证指针作用，手机默认仍载入层及途中压字，本轮短页筛选不选，不是正式七维准入。"
+    },
+    {
+      "name": "Igloo Inc.",
+      "url": "https://www.igloo.inc/",
+      "status": "reference-admitted",
+      "date": "2026-10-30",
+      "evidence": "docs/production/runs/igloo-reference-20261029-02/reference-gate.json",
+      "reason": "实际八状态/17组输入与七维参考门已通过，仅准入素材/私有试片。替换素材v1/v2实图均拒绝，当前素材候选停止，不等于母版拒绝或成品准入；下一步需角色完整的成熟资产或另行参考准入。",
+      "materialStatus": "rejected-candidate-stopped",
+      "materialStop": "docs/production/runs/2026-10-19-four-redesigns/008-glacial-material-stop-20261030.json"
+    },
+    {
+      "name": "Bélanger Salach 60",
+      "url": "https://60.belangersalach.ca/",
+      "status": "rejected",
+      "date": "2026-10-31",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/008-architecture-screen-20261031.json",
+      "reason": "默认桌面/手机均为60数字、长介绍和点击入口；实际点击后只观察前两段红线建筑时间线，当前直接呈现主体的短页目标下不选。未到终点或测完整签名，不据未见内容作质量判断。"
+    },
+    {
+      "name": "The Magic Bottle",
+      "url": "https://magic.estudionk.com/",
+      "status": "rejected",
+      "date": "2026-10-30",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/007-media-scout-20261030.json",
+      "reason": "桌面/手机实际默认要求点击/触摸进入，基本内容被入口层覆盖；当前短页选择不符。手机后续输入超时另留，不据此判断隐藏内容。"
+    },
+    {
+      "name": "Koffiracha",
+      "url": "https://koffiracha.com/",
+      "status": "rejected",
+      "date": "2026-10-30",
+      "evidence": "docs/production/runs/2026-10-19-four-redesigns/007-media-scout-20261030.json",
+      "reason": "已实际到桌面/手机有限终点；反复巨型标题和同瓶主构图，末段品牌/宣言收束。本轮不选；未单独核查的迟载区域不作为拒绝依据。"
+    },
+    {
+      "name": "Lando Norris",
+      "url": "https://landonorris.com/",
+      "status": "reference-admitted",
+      "date": "2026-11-01",
+      "evidence": "docs/production/runs/lando-reference-20261031/reference-gate.json",
+      "reason": "正常/减少动态、真实连续鼠标/手指、有限终点及正常反向重入完整，实际141源帧经七维及可执行参考门通过。仅允许素材/私有试片；手机集合照片展开仍未证，成熟替换模型、内面/贴合及整页未准入。",
+      "materialStatus": "actual-file-feasibility-in-progress"
     }
   ]
 }

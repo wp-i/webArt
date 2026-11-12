@@ -1,0 +1,642 @@
+{
+  "result": "scouted-not-admitted",
+  "checks": [
+    {
+      "name": "opening",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-case-check-08/opening/contact-sheet.jpg",
+        "sha256": "d932b042559a6526f6cb0ae9b96a08713a326f755e6df2959b48b026c1bbda44"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/beauty/soft-elegance",
+        "text": "Soft Elegance",
+        "controls": [
+          {
+            "cls": "indicator",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              780.5,
+              826,
+              40,
+              40
+            ]
+          },
+          {
+            "cls": "gallery",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "grabber-svg",
+            "tag": "svg",
+            "opacity": "1",
+            "rect": [
+              661.5,
+              835,
+              22,
+              22
+            ]
+          },
+          {
+            "cls": "player",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "range",
+            "tag": "INPUT",
+            "value": "50",
+            "opacity": "1",
+            "rect": [
+              600.5,
+              845,
+              127,
+              2
+            ]
+          },
+          {
+            "cls": "arrows",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "shape",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              579,
+              819.5,
+              222,
+              53
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "forward-0",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-case-check-08/forward-0/contact-sheet.jpg",
+        "sha256": "b5b6662d2b1989c7eff6d1e806bb3896d099da612cffe3d899e7dd48b26c9db6"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/beauty/soft-elegance",
+        "text": "Soft Elegance",
+        "controls": [
+          {
+            "cls": "indicator",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              780.5,
+              826,
+              40,
+              40
+            ]
+          },
+          {
+            "cls": "gallery",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "grabber-svg",
+            "tag": "svg",
+            "opacity": "1",
+            "rect": [
+              661.5,
+              835,
+              22,
+              22
+            ]
+          },
+          {
+            "cls": "player",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "range",
+            "tag": "INPUT",
+            "value": "50",
+            "opacity": "1",
+            "rect": [
+              600.5,
+              845,
+              127,
+              2
+            ]
+          },
+          {
+            "cls": "arrows",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "shape",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              579,
+              819.5,
+              222,
+              53
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "forward-3",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-case-check-08/forward-3/contact-sheet.jpg",
+        "sha256": "2ee1e230418e0c5bfdbc06e19f7803555059a7a66c8c7efb5e8d8e20117ac48a"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/beauty/soft-elegance",
+        "text": "Soft Elegance",
+        "controls": [
+          {
+            "cls": "indicator",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              780.5,
+              826,
+              40,
+              40
+            ]
+          },
+          {
+            "cls": "gallery",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "grabber-svg",
+            "tag": "svg",
+            "opacity": "1",
+            "rect": [
+              661.5,
+              835,
+              22,
+              22
+            ]
+          },
+          {
+            "cls": "player",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "range",
+            "tag": "INPUT",
+            "value": "50",
+            "opacity": "1",
+            "rect": [
+              600.5,
+              845,
+              127,
+              2
+            ]
+          },
+          {
+            "cls": "arrows",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "shape",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              579,
+              819.5,
+              222,
+              53
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "forward-7",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-case-check-08/forward-7/contact-sheet.jpg",
+        "sha256": "a9b4b1811fea17cb9b82adec42faafcdd9daad7f81cca8f4bd1046fcc56fc5b0"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/beauty/soft-elegance",
+        "text": "Soft Elegance",
+        "controls": [
+          {
+            "cls": "indicator",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              780.5,
+              826,
+              40,
+              40
+            ]
+          },
+          {
+            "cls": "gallery",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "grabber-svg",
+            "tag": "svg",
+            "opacity": "1",
+            "rect": [
+              661.5,
+              835,
+              22,
+              22
+            ]
+          },
+          {
+            "cls": "player",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "range",
+            "tag": "INPUT",
+            "value": "50",
+            "opacity": "1",
+            "rect": [
+              600.5,
+              845,
+              127,
+              2
+            ]
+          },
+          {
+            "cls": "arrows",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "shape",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              579,
+              819.5,
+              222,
+              53
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "forward-9",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-case-check-08/forward-9/contact-sheet.jpg",
+        "sha256": "2357b98a09868cb53a57175216923e017538f28301af370c6df0e6d4c1e64706"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/beauty/soft-elegance",
+        "text": "Soft Elegance",
+        "controls": [
+          {
+            "cls": "indicator",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              780.5,
+              826,
+              40,
+              40
+            ]
+          },
+          {
+            "cls": "gallery",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "grabber-svg",
+            "tag": "svg",
+            "opacity": "1",
+            "rect": [
+              661.5,
+              835,
+              22,
+              22
+            ]
+          },
+          {
+            "cls": "player",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "range",
+            "tag": "INPUT",
+            "value": "50",
+            "opacity": "1",
+            "rect": [
+              600.5,
+              845,
+              127,
+              2
+            ]
+          },
+          {
+            "cls": "arrows",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "shape",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              579,
+              819.5,
+              222,
+              53
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "zoom-forward",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-case-check-08/zoom-forward/contact-sheet.jpg",
+        "sha256": "7a45de6096ceca3158dff3a2843e2b474e47aed08e68e7cd44bf0160cf8e50a4"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/beauty/soft-elegance",
+        "text": "Soft Elegance",
+        "controls": [
+          {
+            "cls": "indicator",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              780.5,
+              826,
+              40,
+              40
+            ]
+          },
+          {
+            "cls": "gallery",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "grabber-svg",
+            "tag": "svg",
+            "opacity": "1",
+            "rect": [
+              661.5,
+              835,
+              22,
+              22
+            ]
+          },
+          {
+            "cls": "player",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "range",
+            "tag": "INPUT",
+            "value": "50",
+            "opacity": "1",
+            "rect": [
+              600.5,
+              845,
+              127,
+              2
+            ]
+          },
+          {
+            "cls": "arrows",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              545.5,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "shape",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              579,
+              819.5,
+              222,
+              53
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "zoom-reverse",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-case-check-08/zoom-reverse/contact-sheet.jpg",
+        "sha256": "c63d8263ae4cab3fe6b89e98bab51c43ffea49a47f9e6fe792ae63d7617da323"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/beauty/soft-elegance",
+        "text": "Soft Elegance\nProject\nSoft Elegance",
+        "controls": [
+          {
+            "cls": "indicator",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              810.4993896484375,
+              826,
+              40,
+              40
+            ]
+          },
+          {
+            "cls": "gallery",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              575.4993896484375,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "grabber-svg",
+            "tag": "svg",
+            "opacity": "1",
+            "rect": [
+              691.4993896484375,
+              835,
+              22,
+              22
+            ]
+          },
+          {
+            "cls": "player",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              575.4993896484375,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "range",
+            "tag": "INPUT",
+            "value": "50",
+            "opacity": "1",
+            "rect": [
+              630.4993896484375,
+              845,
+              127,
+              2
+            ]
+          },
+          {
+            "cls": "arrows",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              575.4993896484375,
+              812,
+              289,
+              68
+            ]
+          },
+          {
+            "cls": "shape",
+            "tag": "DIV",
+            "opacity": "1",
+            "rect": [
+              575.4993896484375,
+              812,
+              288.984375,
+              67.984375
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

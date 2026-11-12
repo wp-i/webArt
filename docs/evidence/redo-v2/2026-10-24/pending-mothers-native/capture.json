@@ -1,0 +1,2690 @@
+{
+  "purpose": "Bounded actual path discovery for pending mothers; no quality admission",
+  "sites": [
+    {
+      "label": "curate",
+      "url": "https://curate-restaurant.com/",
+      "viewports": [
+        {
+          "name": "desktop",
+          "frames": [
+            {
+              "state": "opening",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-desktop-opening.jpg",
+              "sha256": "4aba32bd1b43acb30413c063c599ae954dafcae3df17180bd8684c33b25d849a"
+            },
+            {
+              "state": "forward-1",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-desktop-forward-1.jpg",
+              "sha256": "65c25afeb566b44a4bebf16a6bb7b4de58076b0b82a0f071d8e7e5ecb583b5a0"
+            },
+            {
+              "state": "forward-2",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-desktop-forward-2.jpg",
+              "sha256": "52f97677e3c078a5492fe5e8ade5f43c3bee26d91352d38585cd299abe93c472"
+            },
+            {
+              "state": "forward-3",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-desktop-forward-3.jpg",
+              "sha256": "7c5de9be46f9c016a58bdeb0a826921b15a879a512e9b12133b415621f0c97eb"
+            },
+            {
+              "state": "forward-4",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-desktop-forward-4.jpg",
+              "sha256": "1d282a0f99363be4d7a623cc149c2b5dba89650617a1c91130c0af1e5fa98bdc"
+            },
+            {
+              "state": "forward-5",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-desktop-forward-5.jpg",
+              "sha256": "e75d8d77dfadc045f9f64380854f425c6e7bd79ca0a19ebfd42cbf1dbef3166f"
+            },
+            {
+              "state": "forward-6",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-desktop-forward-6.jpg",
+              "sha256": "99e4678e8c3069c8350d3bc1962b371a826080a09dfa6b1b5b0bc0c53ff0ce0d"
+            },
+            {
+              "state": "forward-7",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-desktop-forward-7.jpg",
+              "sha256": "699ad575e0dd4965813c04fb48c305013b803343d4c1b858f8b4bd7b6319fd2b"
+            },
+            {
+              "state": "ending-stopped",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-desktop-ending-stopped.jpg",
+              "sha256": "699ad575e0dd4965813c04fb48c305013b803343d4c1b858f8b4bd7b6319fd2b"
+            }
+          ],
+          "actions": [
+            {
+              "input": "native-wheel",
+              "y": 700,
+              "height": 5152,
+              "max": 4252,
+              "headings": [
+                "WHERE LEGACY IS POURED",
+                "Rooted in Craft,\nInspired by Heritage"
+              ],
+              "footer": [
+                {
+                  "top": 4081.671875,
+                  "bottom": 4451.703125,
+                  "height": 370.03125,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 1400,
+              "height": 5152,
+              "max": 4252,
+              "headings": [
+                "BOTTLED STORIES UNVEILED",
+                "Crafted Elegance\nin Every Bottle"
+              ],
+              "footer": [
+                {
+                  "top": 3381.671875,
+                  "bottom": 3751.703125,
+                  "height": 370.03125,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 2100,
+              "height": 5152,
+              "max": 4252,
+              "headings": [
+                "“Where culinary\nartistry meets the soul\nof South Africa”"
+              ],
+              "footer": [
+                {
+                  "top": 2681.671875,
+                  "bottom": 3051.703125,
+                  "height": 370.03125,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 2800,
+              "height": 5152,
+              "max": 4252,
+              "headings": [
+                "“Where culinary\nartistry meets the soul\nof South Africa”",
+                "CRAFTED CUISINE",
+                "From Raw to Refined: A Journey Through Terroir"
+              ],
+              "footer": [
+                {
+                  "top": 1981.671875,
+                  "bottom": 2351.703125,
+                  "height": 370.03125,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 3500,
+              "height": 5152,
+              "max": 4252,
+              "headings": [
+                "THE INSIDE STORY",
+                "Stories Worth Savouring"
+              ],
+              "footer": [
+                {
+                  "top": 1281.671875,
+                  "bottom": 1651.703125,
+                  "height": 370.03125,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 4200,
+              "height": 5152,
+              "max": 4252,
+              "headings": [],
+              "footer": [
+                {
+                  "top": 581.671875,
+                  "bottom": 951.703125,
+                  "height": 370.03125,
+                  "visible": true
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 4252,
+              "height": 5152,
+              "max": 4252,
+              "headings": [],
+              "footer": [
+                {
+                  "top": 529.671875,
+                  "bottom": 899.703125,
+                  "height": 370.03125,
+                  "visible": true
+                }
+              ]
+            }
+          ],
+          "initial": {
+            "y": 0,
+            "height": 5152,
+            "max": 4252,
+            "headings": [
+              "WELCOME TO CURATE AT ELLERMAN HOUSE",
+              "A Taste of South\nAfrica’s Finest"
+            ],
+            "footer": [
+              {
+                "top": 4781.671875,
+                "bottom": 5151.703125,
+                "height": 370.03125,
+                "visible": false
+              }
+            ],
+            "title": "Curate Restaurant",
+            "actualUrl": "https://curate-restaurant.com/",
+            "text": "BOOK A TABLE\nSEE ELLERMAN HOUSE\nVIEW OUR MENU\nBUY A VOUCHER\nCONTACT US\ncurate@ellerman.co.za\n180 Kloof Road,\nBantry Bay, 8005\nCape Town, South Africa\nTRADING HOURS\nTuesday - Saturday, 18h00 - 22h30\nSeating Time: 18:00 | 18:30 | 19:00\nWELCOME TO CURATE AT ELLERMAN HOUSE\nA Taste of South\nAfrica’s Finest\n\nCURATE at Ellerman House is a sensory dining experience inspired by South African wine. Set within our sculpted wine gallery, it offers refined, terroir-led cuisine paired with rare and vintage wines from a 10,000-bottle collection.\n\nDiscover the Space\nWHERE LEGACY IS POURED\nRooted in Craft,\nInspired by Heritage\n\nCURATE was born from a deep respect for South Africa’s winemaking heritage and a passion for immersive, meaningful experiences. Designed as both a cellar and a showcase, it brings together rare vintages, sculptural design, and curated tastings in an intimate setting. Every detail, from the architecture to the wine selection, reflects a commitment to craftsmanship, storytelling, and the art of living well.\n\nBOTTLED STORIES UNVEILED\nCrafted Elegance\nin Every Bottle\n\nMore than just a cellar, the Wine Gallery at CURATE is a living exhibition of South Africa’s rich winemaking tradition. Set beneath Ellerman House, this subterranean sanctuary houses over 10,000 bottles of vintage and rare wines, each carefully selected for its unique story and exceptional quality. The gallery’",
+            "videos": [
+              {
+                "ready": 4,
+                "width": 1920,
+                "paused": true
+              }
+            ],
+            "controls": []
+          },
+          "end": {
+            "y": 4252,
+            "height": 5152,
+            "max": 4252,
+            "headings": [],
+            "footer": [
+              {
+                "top": 529.671875,
+                "bottom": 899.703125,
+                "height": 370.03125,
+                "visible": true
+              }
+            ],
+            "text": "sculpted wine gallery, it offers refined, terroir-led cuisine paired with rare and vintage wines from a 10,000-bottle collection.\n\nDiscover the Space\nWHERE LEGACY IS POURED\nRooted in Craft,\nInspired by Heritage\n\nCURATE was born from a deep respect for South Africa’s winemaking heritage and a passion for immersive, meaningful experiences. Designed as both a cellar and a showcase, it brings together rare vintages, sculptural design, and curated tastings in an intimate setting. Every detail, from the architecture to the wine selection, reflects a commitment to craftsmanship, storytelling, and the art of living well.\n\nBOTTLED STORIES UNVEILED\nCrafted Elegance\nin Every Bottle\n\nMore than just a cellar, the Wine Gallery at CURATE is a living exhibition of South Africa’s rich winemaking tradition. Set beneath Ellerman House, this subterranean sanctuary houses over 10,000 bottles of vintage and rare wines, each carefully selected for its unique story and exceptional quality. The gallery’s design echoes the organic forms of the vineyard, with handcrafted racks, natural stone, and metalwork that reflect the artistry behind every bottle.\n\nVisitors are invited to embark on a sensory journey, exploring the diverse flavours and histories encapsulated in the collection. Interactive elements and expert tastings deepen the experience, turning each visit into an opportunity to learn, savour, and connect with the legacy of South African wine.\n\n“Where culinary\nartistry meets the soul\nof South Africa”\nEXPERIENCE A DINING MOMENT UNLIKE ANY OTHER\nBOOK A TABLE\nCRAFTED CUISINE\nFrom Raw to Refined: A Journey Through Terroir\n\nAt CURATE, Head Chef Kieran Whyte invites you on a culinary journey through the terroir of the Western Cape. Drawing inspiration from the sculptural Terroir Wall, the menu celebrates South Africa’s finest seasonal ingredients, sourced sustainably and crafted with innovation.\n\nJust as a curator shapes an exhibition, Chef Kieran transforms raw, local produce into refined, artful dishes that reflect the unique character of the region. Each plate is designed to complement the cellar’s exceptional wines, creating a harmonious and personalised dining experience in an intimate setting.\n\nEXPLORE OUR MENU\nTHE INSIDE STORY\nStories Worth Savouring\n\nJoin our mailing list to receive thoughtfully curated updates from Ellerman House — including new culinary experiences at CURATE, seasonal menus, and stories that celebrate the spirit of South African hospitality, fine wine, and inspired living.\n\nSUBSCRIBE\nTRADING HOURS\nTuesday – Saturday, 18h00 – 22h30\nSeating Time: 18:00 | 18:30 | 19:00\nCONTACT US\ncurate@ellerman.co.za\n180 Kloof Road,\nBantry Bay, 8005\nCape Town, South Africa\nEXPERIENCE ELLERMAN HOUSE\nSTAY WITH US\nCOPYRIGHT © CURATE AT ELLERMAN HOUSE. ALL RIGHTS RESERVED."
+          }
+        },
+        {
+          "name": "mobile",
+          "frames": [
+            {
+              "state": "opening",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-opening.jpg",
+              "sha256": "eb88a333969822a3b643fc44d41a37d6484aac1a155596e19114c73efadbf18e"
+            },
+            {
+              "state": "forward-1",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-1.jpg",
+              "sha256": "8788968f57adb5252cf1bbf3ec23e6961f89c5a3750410d5f7f9f5a236f0687f"
+            },
+            {
+              "state": "forward-2",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-2.jpg",
+              "sha256": "118c121dbafcd7facf3045d840b5a40ff9c6c0e4496f4f5b2d6e54ce545aa7b6"
+            },
+            {
+              "state": "forward-3",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-3.jpg",
+              "sha256": "5bc573fca394d71a3af3f8bb039440f1f7082fe1e6e7e6e429e69a65e7b8754c"
+            },
+            {
+              "state": "forward-4",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-4.jpg",
+              "sha256": "79155542ece8c9bc9e93c844863d7cad32555cc257d546b36e18dbed9fb95034"
+            },
+            {
+              "state": "forward-5",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-5.jpg",
+              "sha256": "9deb41b10407301e4978e5cb388a9cb2c788ecfea6df7d94a7d98a7a53d6d877"
+            },
+            {
+              "state": "forward-6",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-6.jpg",
+              "sha256": "196e443b5e96db1f4527562f48016f518047d6420c223467e5c9852675a1397f"
+            },
+            {
+              "state": "forward-7",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-7.jpg",
+              "sha256": "3071ffd691e3e224dc20422fc5efe679f08541f8d100d99c50f7b71a133e9eac"
+            },
+            {
+              "state": "forward-8",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-8.jpg",
+              "sha256": "5484bc8fcd34d9b2d0eeb1f6919d03907277b9f48121b11fa7b6646aa903cdf5"
+            },
+            {
+              "state": "forward-9",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-9.jpg",
+              "sha256": "771d27da5c827b0dcd1d33372d2df0cac5b967e3e84222a07d611f535b2f8bb0"
+            },
+            {
+              "state": "forward-10",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-10.jpg",
+              "sha256": "2782ba82d9cdf2414a413adbe8b12067b87865a45bca0febf2b326aacfc14f0a"
+            },
+            {
+              "state": "forward-11",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-11.jpg",
+              "sha256": "db5f2bdbe6fd4bc31eb0a6d6c66cc58b6ca462dfb992dee243b1bfe25c6c242d"
+            },
+            {
+              "state": "forward-12",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-12.jpg",
+              "sha256": "600940d0116b64b12d6b651040d3f0234d5838d23cb50a86c65dbedf799e5bc9"
+            },
+            {
+              "state": "forward-13",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-13.jpg",
+              "sha256": "16c51a59354c7a6601d33e9b52dbc7aa471f0e9f77aea882fbb83c90ccc4c498"
+            },
+            {
+              "state": "forward-14",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-forward-14.jpg",
+              "sha256": "03620bed54b34fd7dad7db9d412b93f954f19ad7ffb25c3eb804eeb0d87a9dcb"
+            },
+            {
+              "state": "ending-stopped",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/curate-mobile-ending-stopped.jpg",
+              "sha256": "03620bed54b34fd7dad7db9d412b93f954f19ad7ffb25c3eb804eeb0d87a9dcb"
+            }
+          ],
+          "actions": [
+            {
+              "input": "trusted-finger",
+              "y": 505,
+              "height": 7618,
+              "max": 6774,
+              "headings": [
+                "WHERE LEGACY IS POURED",
+                "Rooted in Craft,\nInspired by Heritage"
+              ],
+              "footer": [
+                {
+                  "top": 6621.0625,
+                  "bottom": 7112.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 1010,
+              "height": 7618,
+              "max": 6774,
+              "headings": [
+                "Rooted in Craft,\nInspired by Heritage"
+              ],
+              "footer": [
+                {
+                  "top": 6116.0625,
+                  "bottom": 6607.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 1515,
+              "height": 7618,
+              "max": 6774,
+              "headings": [],
+              "footer": [
+                {
+                  "top": 5611.0625,
+                  "bottom": 6102.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 2020,
+              "height": 7618,
+              "max": 6774,
+              "headings": [],
+              "footer": [
+                {
+                  "top": 5106.0625,
+                  "bottom": 5597.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 2525,
+              "height": 7618,
+              "max": 6774,
+              "headings": [
+                "BOTTLED STORIES UNVEILED",
+                "Crafted Elegance\nin Every Bottle"
+              ],
+              "footer": [
+                {
+                  "top": 4601.0625,
+                  "bottom": 5092.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 3030,
+              "height": 7618,
+              "max": 6774,
+              "headings": [
+                "BOTTLED STORIES UNVEILED",
+                "Crafted Elegance\nin Every Bottle"
+              ],
+              "footer": [
+                {
+                  "top": 4096.0625,
+                  "bottom": 4587.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 3535,
+              "height": 7618,
+              "max": 6774,
+              "headings": [
+                "“Where culinary\nartistry meets the soul\nof South Africa”"
+              ],
+              "footer": [
+                {
+                  "top": 3591.0625,
+                  "bottom": 4082.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 4040,
+              "height": 7618,
+              "max": 6774,
+              "headings": [
+                "“Where culinary\nartistry meets the soul\nof South Africa”",
+                "CRAFTED CUISINE",
+                "From Raw to Refined: A Journey Through Terroir"
+              ],
+              "footer": [
+                {
+                  "top": 3086.0625,
+                  "bottom": 3577.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 4545,
+              "height": 7618,
+              "max": 6774,
+              "headings": [
+                "From Raw to Refined: A Journey Through Terroir",
+                "THE INSIDE STORY"
+              ],
+              "footer": [
+                {
+                  "top": 2581.0625,
+                  "bottom": 3072.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 5050,
+              "height": 7618,
+              "max": 6774,
+              "headings": [
+                "THE INSIDE STORY",
+                "Stories Worth Savouring"
+              ],
+              "footer": [
+                {
+                  "top": 2076.0625,
+                  "bottom": 2567.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 5555,
+              "height": 7618,
+              "max": 6774,
+              "headings": [],
+              "footer": [
+                {
+                  "top": 1571.0625,
+                  "bottom": 2062.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 6060,
+              "height": 7618,
+              "max": 6774,
+              "headings": [],
+              "footer": [
+                {
+                  "top": 1066.0625,
+                  "bottom": 1557.5,
+                  "height": 491.4375,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 6565,
+              "height": 7618,
+              "max": 6774,
+              "headings": [],
+              "footer": [
+                {
+                  "top": 561.0625,
+                  "bottom": 1052.5,
+                  "height": 491.4375,
+                  "visible": true
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 6774,
+              "height": 7618,
+              "max": 6774,
+              "headings": [],
+              "footer": [
+                {
+                  "top": 352.0625,
+                  "bottom": 843.5,
+                  "height": 491.4375,
+                  "visible": true
+                }
+              ]
+            }
+          ],
+          "initial": {
+            "y": 0,
+            "height": 7618,
+            "max": 6774,
+            "headings": [
+              "WELCOME TO CURATE AT ELLERMAN HOUSE",
+              "A Taste of South\nAfrica’s Finest"
+            ],
+            "footer": [
+              {
+                "top": 7126.0625,
+                "bottom": 7617.5,
+                "height": 491.4375,
+                "visible": false
+              }
+            ],
+            "title": "Curate Restaurant",
+            "actualUrl": "https://curate-restaurant.com/",
+            "text": "BOOK A TABLE\nSEE ELLERMAN HOUSE\nVIEW OUR MENU\nBUY A VOUCHER\nCONTACT US\ncurate@ellerman.co.za\n180 Kloof Road,\nBantry Bay, 8005\nCape Town, South Africa\nTRADING HOURS\nTuesday - Saturday, 18h00 - 22h30\nSeating Time: 18:00 | 18:30 | 19:00\nWELCOME TO CURATE AT ELLERMAN HOUSE\nA Taste of South\nAfrica’s Finest\n\nCURATE at Ellerman House is a sensory dining experience inspired by South African wine. Set within our sculpted wine gallery, it offers refined, terroir-led cuisine paired with rare and vintage wines from a 10,000-bottle collection.\n\nDiscover the Space\nWHERE LEGACY IS POURED\nRooted in Craft,\nInspired by Heritage\n\nCURATE was born from a deep respect for South Africa’s winemaking heritage and a passion for immersive, meaningful experiences. Designed as both a cellar and a showcase, it brings together rare vintages, sculptural design, and curated tastings in an intimate setting. Every detail, from the architecture to the wine selection, reflects a commitment to craftsmanship, storytelling, and the art of living well.\n\nBOTTLED STORIES UNVEILED\nCrafted Elegance\nin Every Bottle\n\nMore than just a cellar, the Wine Gallery at CURATE is a living exhibition of South Africa’s rich winemaking tradition. Set beneath Ellerman House, this subterranean sanctuary houses over 10,000 bottles of vintage and rare wines, each carefully selected for its unique story and exceptional quality. The gallery’",
+            "videos": [
+              {
+                "ready": 4,
+                "width": 1920,
+                "paused": true
+              }
+            ],
+            "controls": []
+          },
+          "end": {
+            "y": 6774,
+            "height": 7618,
+            "max": 6774,
+            "headings": [],
+            "footer": [
+              {
+                "top": 352.0625,
+                "bottom": 843.5,
+                "height": 491.4375,
+                "visible": true
+              }
+            ],
+            "text": "sculpted wine gallery, it offers refined, terroir-led cuisine paired with rare and vintage wines from a 10,000-bottle collection.\n\nDiscover the Space\nWHERE LEGACY IS POURED\nRooted in Craft,\nInspired by Heritage\n\nCURATE was born from a deep respect for South Africa’s winemaking heritage and a passion for immersive, meaningful experiences. Designed as both a cellar and a showcase, it brings together rare vintages, sculptural design, and curated tastings in an intimate setting. Every detail, from the architecture to the wine selection, reflects a commitment to craftsmanship, storytelling, and the art of living well.\n\nBOTTLED STORIES UNVEILED\nCrafted Elegance\nin Every Bottle\n\nMore than just a cellar, the Wine Gallery at CURATE is a living exhibition of South Africa’s rich winemaking tradition. Set beneath Ellerman House, this subterranean sanctuary houses over 10,000 bottles of vintage and rare wines, each carefully selected for its unique story and exceptional quality. The gallery’s design echoes the organic forms of the vineyard, with handcrafted racks, natural stone, and metalwork that reflect the artistry behind every bottle.\n\nVisitors are invited to embark on a sensory journey, exploring the diverse flavours and histories encapsulated in the collection. Interactive elements and expert tastings deepen the experience, turning each visit into an opportunity to learn, savour, and connect with the legacy of South African wine.\n\n“Where culinary\nartistry meets the soul\nof South Africa”\nEXPERIENCE A DINING MOMENT UNLIKE ANY OTHER\nBOOK A TABLE\nCRAFTED CUISINE\nFrom Raw to Refined: A Journey Through Terroir\n\nAt CURATE, Head Chef Kieran Whyte invites you on a culinary journey through the terroir of the Western Cape. Drawing inspiration from the sculptural Terroir Wall, the menu celebrates South Africa’s finest seasonal ingredients, sourced sustainably and crafted with innovation.\n\nJust as a curator shapes an exhibition, Chef Kieran transforms raw, local produce into refined, artful dishes that reflect the unique character of the region. Each plate is designed to complement the cellar’s exceptional wines, creating a harmonious and personalised dining experience in an intimate setting.\n\nEXPLORE OUR MENU\nTHE INSIDE STORY\nStories Worth Savouring\n\nJoin our mailing list to receive thoughtfully curated updates from Ellerman House — including new culinary experiences at CURATE, seasonal menus, and stories that celebrate the spirit of South African hospitality, fine wine, and inspired living.\n\nSUBSCRIBE\nTRADING HOURS\nTuesday – Saturday, 18h00 – 22h30\nSeating Time: 18:00 | 18:30 | 19:00\nCONTACT US\ncurate@ellerman.co.za\n180 Kloof Road,\nBantry Bay, 8005\nCape Town, South Africa\nEXPERIENCE ELLERMAN HOUSE\nSTAY WITH US\nCOPYRIGHT © CURATE AT ELLERMAN HOUSE. ALL RIGHTS RESERVED."
+          }
+        }
+      ]
+    },
+    {
+      "label": "mersi-hamelin",
+      "url": "https://www.mersi-architecture.com/projets/hamelin",
+      "viewports": [],
+      "failure": "页面未完成加载，不能当作已审查"
+    },
+    {
+      "label": "kabizzu",
+      "url": "https://kabizzu.vercel.app/",
+      "viewports": [
+        {
+          "name": "desktop",
+          "frames": [
+            {
+              "state": "opening",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-opening.jpg",
+              "sha256": "6fb8d674fe001e2d8080ae323277389641510f5d2fbf5fec353bea1cacf7c182"
+            },
+            {
+              "state": "forward-1",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-1.jpg",
+              "sha256": "15bd339a9f577dffb92e6693d967ba8e27016788217e4733fbefefa71a5a9754"
+            },
+            {
+              "state": "forward-2",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-2.jpg",
+              "sha256": "41623631225555a4af262792eebab357fa618af108e5bd3c491c01e8969a43cb"
+            },
+            {
+              "state": "forward-3",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-3.jpg",
+              "sha256": "277743f88688edf3fd511ac9aaab276649683a8e4874e9a3e22d627571864fa3"
+            },
+            {
+              "state": "forward-4",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-4.jpg",
+              "sha256": "63cfcded448e230b72d1ec637a5d196c1725b9bfe2662e579a5c2665a637b89e"
+            },
+            {
+              "state": "forward-5",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-5.jpg",
+              "sha256": "741a8392675e69f989f87a52c8a389424d3d5cce971456d0b7b25ef23f47d9cb"
+            },
+            {
+              "state": "forward-6",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-6.jpg",
+              "sha256": "c55ff3b8884b4d6a0d3b68ef6940b7833f0441f52378572867d29b09f9a92f4b"
+            },
+            {
+              "state": "forward-7",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-7.jpg",
+              "sha256": "ea8530dbd5ec082838637f18f91171385f96bb7b9d5c9fc858cefab9300856be"
+            },
+            {
+              "state": "forward-8",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-8.jpg",
+              "sha256": "a5fa2544fa6b7947adc955a731418a8a738c844a2e4ebc8398a534b546527ead"
+            },
+            {
+              "state": "forward-9",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-9.jpg",
+              "sha256": "fd22185a28f95b62db8a53373c62214cf8536c5da9597df2ac52f21fad781676"
+            },
+            {
+              "state": "forward-10",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-10.jpg",
+              "sha256": "5a25e53c9310894609adc92d2a52ee8abfadded7f6c38e9822ab99400d56ed52"
+            },
+            {
+              "state": "forward-11",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-11.jpg",
+              "sha256": "e8662e671c50a5add5193705b4cd93652399a483a17c325d56ba31ac008dad61"
+            },
+            {
+              "state": "forward-12",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-12.jpg",
+              "sha256": "cb331ab95a2e208953275952e08f7f2ed9bc834031c8e37ae12139418e7c431a"
+            },
+            {
+              "state": "forward-13",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-13.jpg",
+              "sha256": "38410cfead911ea41d57a2e01f0f4942f799097d572d3f74795f4441ad86e8f4"
+            },
+            {
+              "state": "forward-14",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-14.jpg",
+              "sha256": "6aa42b096eba1d1bc8685a885e3150acd4ff79ee8752452158e3364057a1010d"
+            },
+            {
+              "state": "forward-15",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-15.jpg",
+              "sha256": "11675b7dad5d1fa9cb4b5a64b642af6953fbb963fd8db10269e518fcd111543e"
+            },
+            {
+              "state": "forward-16",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-16.jpg",
+              "sha256": "8129474b5569d189f50d67ffb22eef34bc7408bc1bf17da16033a37ea9b64ac0"
+            },
+            {
+              "state": "forward-17",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-17.jpg",
+              "sha256": "87eef34fdd0da95070f0a9792459d2a0f092bd90b8fcb4a7fb614587ae5fd659"
+            },
+            {
+              "state": "forward-18",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-18.jpg",
+              "sha256": "24eee3092d955b261a7e9791f235fad3136b3d5f626607739b42aa29291c4dc0"
+            },
+            {
+              "state": "forward-19",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-19.jpg",
+              "sha256": "31ca5111b9f9317fd89722ddcc49e05dbe3d4ef7dd91d4dfb6752a6224946c85"
+            },
+            {
+              "state": "forward-20",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-20.jpg",
+              "sha256": "67fdefd92d6bc492adfb0f5968b2a0a371d260b7dee414afc9a45e1344bac471"
+            },
+            {
+              "state": "forward-21",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-21.jpg",
+              "sha256": "4d3be433da397de5dc55d885ec95b8b10df08415e3852759008f6ac1141b390e"
+            },
+            {
+              "state": "forward-22",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-22.jpg",
+              "sha256": "6c1b10588d5355afbe76fe5b3e26be00ce3fb5860db176487027ad38e479ec01"
+            },
+            {
+              "state": "forward-23",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-23.jpg",
+              "sha256": "efe05f03a815051b82ea419fd2e98ed33978a515dff74a623a53bda7648154b0"
+            },
+            {
+              "state": "forward-24",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-24.jpg",
+              "sha256": "ae1de171133e1a599e42bb40852bfe741379e8c52cc001b9a0196a855f083579"
+            },
+            {
+              "state": "forward-25",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-25.jpg",
+              "sha256": "fd9ac06d6e6e6d08219ea9179d4633373b7f053ef59c4f058016a0115a2ee89b"
+            },
+            {
+              "state": "forward-26",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-26.jpg",
+              "sha256": "7427637dc32b8ba4a25daad3f6bda098d3d863a5f863d5b0cfd94b8696dd2d0d"
+            },
+            {
+              "state": "forward-27",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-27.jpg",
+              "sha256": "1a9404c7635afbd582ff08f3927b36228b587cb2b68f005036c6a723025d8e41"
+            },
+            {
+              "state": "forward-28",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-28.jpg",
+              "sha256": "1489b86579654e6117eaa6cb39898fa6ba8fce5ef17c6a27a5f9a1f4bd89e24b"
+            },
+            {
+              "state": "forward-29",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-29.jpg",
+              "sha256": "958139c73be62c43602627c5b99fd232bcb68244dec63772debc9646cf38f394"
+            },
+            {
+              "state": "forward-30",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-30.jpg",
+              "sha256": "419c898f3aad1e7efb7296644c2dad3f8b164c1b9d22605a25eface51cd26fe9"
+            },
+            {
+              "state": "forward-31",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-31.jpg",
+              "sha256": "409fa82b36cb31966f2c46cc6948a25548d80b2ce42b5a1ea9f5667c79345307"
+            },
+            {
+              "state": "forward-32",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-32.jpg",
+              "sha256": "a9f1882a86a5181fe6d795daff30503cfce85aeb6aeda1714f447adea4c2dd28"
+            },
+            {
+              "state": "forward-33",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-33.jpg",
+              "sha256": "9073e6ee36077a591dae8bcb62ab6688e0871378b2bbc49f35c466f1991a99dc"
+            },
+            {
+              "state": "forward-34",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-34.jpg",
+              "sha256": "b7086fee87d452d2624cdb0dff39b18fbe7c70f2020f63a364ff3310975516bb"
+            },
+            {
+              "state": "forward-35",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-35.jpg",
+              "sha256": "02a5e3baa2522e70afa76eaafb35ba23963e77e5f04a579cd90d48010e31ee91"
+            },
+            {
+              "state": "forward-36",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-36.jpg",
+              "sha256": "8bdf3328d1197d7072566f0059aa49c4b773bebe8c507e2570cc41373b9b2727"
+            },
+            {
+              "state": "forward-37",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-37.jpg",
+              "sha256": "f518904b21da55a1669924f828648fc78f929a7040c7368b64f5897dfbf7449f"
+            },
+            {
+              "state": "forward-38",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-38.jpg",
+              "sha256": "1ed95645731411d9a46aacb62e3f3344e994a24f96b8297242e856d1354a9c17"
+            },
+            {
+              "state": "forward-39",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-39.jpg",
+              "sha256": "7c51297b91fcefc2e8c06afb0c44fce389e3c16a8037752720e3f01b639f204d"
+            },
+            {
+              "state": "forward-40",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-forward-40.jpg",
+              "sha256": "9c4c34fc0fad2d786da3d2b7d6fc60a572c3febe52b2731887272c33b2eff0c3"
+            },
+            {
+              "state": "ending-stopped",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-desktop-ending-stopped.jpg",
+              "sha256": "6fdfe9c5ecacfad252f6aec90e16c487b87e0e6fe0240561211c10c63a7210a3"
+            }
+          ],
+          "actions": [
+            {
+              "input": "native-wheel",
+              "y": 0,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mekânın şiiri,\nyaşamın ritmi."
+              ],
+              "footer": [
+                {
+                  "top": 29119.5625,
+                  "bottom": 29890.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 649,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Bir ev,\nbir kompozisyon."
+              ],
+              "footer": [
+                {
+                  "top": 28470.5625,
+                  "bottom": 29241.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 1348,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Bir ev,\nbir kompozisyon."
+              ],
+              "footer": [
+                {
+                  "top": 27771.5625,
+                  "bottom": 28542.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 2044,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Bir ev,\nbir kompozisyon.",
+                "SEÇİLİ MEKÂNLAR"
+              ],
+              "footer": [
+                {
+                  "top": 27075.5625,
+                  "bottom": 27846.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 2748,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 26371.5625,
+                  "bottom": 27142.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 3450,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 25669.5625,
+                  "bottom": 26440.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 4150,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 24969.5625,
+                  "bottom": 25740.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 4850,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 24269.5625,
+                  "bottom": 25040.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 5553,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 23566.5625,
+                  "bottom": 24337.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 6250,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 22869.5625,
+                  "bottom": 23640.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 6953,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 22166.5625,
+                  "bottom": 22937.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 7650,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 21469.5625,
+                  "bottom": 22240.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 8352,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 20767.5625,
+                  "bottom": 21538.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 9050,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 20069.5625,
+                  "bottom": 20840.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 9748,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "Işık\nDairesi.",
+                "Avlu\nEvi.",
+                "Sakin\nKahve.",
+                "Sessiz\nSüit."
+              ],
+              "footer": [
+                {
+                  "top": 19371.5625,
+                  "bottom": 20142.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 10464,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Her adım kontrollü.\nHer detay dingin.",
+                "Birlikte başlarız."
+              ],
+              "footer": [
+                {
+                  "top": 18655.5625,
+                  "bottom": 19426.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 11200,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Birlikte başlarız.",
+                "Bütünü görürüz."
+              ],
+              "footer": [
+                {
+                  "top": 17919.5625,
+                  "bottom": 18690.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 11886,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Her kararı netleştiririz.",
+                "Son dokunuşa kadar."
+              ],
+              "footer": [
+                {
+                  "top": 17233.5625,
+                  "bottom": 18004.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 12598,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Son dokunuşa kadar.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 16521.5625,
+                  "bottom": 17292.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 13249,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 15870.5625,
+                  "bottom": 16641.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 13948,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 15171.5625,
+                  "bottom": 15942.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 14644,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 14475.5625,
+                  "bottom": 15246.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 15343,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 13776.5625,
+                  "bottom": 14547.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 16048,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 13071.5625,
+                  "bottom": 13842.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 16746,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 12373.5625,
+                  "bottom": 13144.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 17446,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 11673.5625,
+                  "bottom": 12444.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 18144,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 10975.5625,
+                  "bottom": 11746.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 18845,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama.",
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 10274.5625,
+                  "bottom": 11045.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 19548,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama.",
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 9571.5625,
+                  "bottom": 10342.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 20246,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 8873.5625,
+                  "bottom": 9644.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 20946,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 8173.5625,
+                  "bottom": 8944.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 21644,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 7475.5625,
+                  "bottom": 8246.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 22346,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 6773.5625,
+                  "bottom": 7544.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 23046,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 6073.5625,
+                  "bottom": 6844.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 23746,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 5373.5625,
+                  "bottom": 6144.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 24448,
+              "height": 29890,
+              "max": 28990,
+              "headings": [],
+              "footer": [
+                {
+                  "top": 4671.5625,
+                  "bottom": 5442.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 25146,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Birlikte, daha bütün.",
+                "Mekâna dair düşünceler."
+              ],
+              "footer": [
+                {
+                  "top": 3973.5625,
+                  "bottom": 4744.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 25848,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Mekâna dair düşünceler.",
+                "Bir odayı ev yapan şey: ışık."
+              ],
+              "footer": [
+                {
+                  "top": 3271.5625,
+                  "bottom": 4042.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 26548,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Bir odayı ev yapan şey: ışık.",
+                "Doğal malzemeler neden zamanla güzelleşir?",
+                "Yavaşlamak için tasarlanmış mekânlar."
+              ],
+              "footer": [
+                {
+                  "top": 2571.5625,
+                  "bottom": 3342.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "native-wheel",
+              "y": 27246,
+              "height": 29890,
+              "max": 28990,
+              "headings": [
+                "Yavaşlamak için tasarlanmış mekânlar.",
+                "Bir çizgiden bir yaşama: bütünü görmek."
+              ],
+              "footer": [
+                {
+                  "top": 1873.5625,
+                  "bottom": 2644.4375,
+                  "height": 770.875,
+                  "visible": false
+                }
+              ]
+            }
+          ],
+          "initial": {
+            "y": 0,
+            "height": 29920,
+            "max": 29020,
+            "headings": [
+              "Mekânın şiiri,\nyaşamın ritmi."
+            ],
+            "footer": [
+              {
+                "top": 29149.265625,
+                "bottom": 29920.140625,
+                "height": 770.875,
+                "visible": false
+              }
+            ],
+            "title": "Kabizzu — Mimarlık & İç Mekân",
+            "actualUrl": "https://kabizzu.vercel.app/",
+            "text": "kabizzu✳\nMimarlık × İç mekân × Yaşam\n\nBir bütün olarak yaşam.\n\nBirbirini tamamlayan çizgiler, size ait mekânlar.\n\nAÇILIŞI GEÇ ↗\nKabizzu açılıyor.\nİçeriğe geç\nMENÜ\nkabizzu✳\nBİR GÖRÜŞME PLANLA ↗\nMimarlık × İç mekân × Yaşam\nMekânın şiiri,\nyaşamın ritmi.\n\nBirbirini tamamlayan çizgiler.\nBir bütün olarak yaşam.\n\nKEŞFETMEK İÇİN KAYDIR\nKABİZZU STUDIO\nDESIGN STUDY / 2026\nBİR BÜTÜN OLARAK\nBir ev,\nbir kompozisyon.\n\nİyi düşünülmüş bir mekânda hiçbir şey tesadüf değildir. Oran, malzeme ve ışık; aynı hikâyenin parçalarıdır.\n\nÖnce nasıl yaşamak istediğinizi düşünürüz. Sonra o hissi, her gün dokunacağınız ayrıntılara dönüştürürüz.\n\n01 / ORAN\n02 / MALZEME\n03 / IŞIK\n04 / HİS\nHER PARÇA, AYNI HİKÂYEYE AİT.\nSEÇİLİ MEKÂNLAR\nKABİZZU KOLEKSİYONU — 01 / 04\nKONUT / KONSEPT\nIşık\nDairesi.\nMEKÂNI İNCELE ↗\nTASARIMIN ÖZÜ\n\nGünün ışığıyla\ndeğişen bir hikâye.\n\nDOĞAL TAŞ · CEVİZ · KETEN\nKONUT / KONSEPT\nAvlu\nEvi.\nMEKÂNI İNCELE ↗\nTASARIMIN ÖZÜ\n\nİçerisi ile dışarısı\narasında bir nefes.\n\nTRAVERTEN · MEŞE · KİREÇ SIVA\nHOSPITALITY / KONSEPT\nSakin\nKahve.\nMEKÂNI İNCELE ↗\nTASARIMIN ÖZÜ\n\nKüçük bir mola.\nKalıcı bir his.\n\nYEŞİL MERMER · CEVİZ · KROM\nKONAKLAMA / KONSEPT\nSessiz\nSüit.\nMEKÂNI İNCELE ↗\nTASARIMIN ÖZÜ\n\nŞehrin ritminden\nuzakta bir sabah.\n\nKETEN · CEVİZ · TRAVERTEN\n01 — 04\nKAYDIRARAK KEŞFET\n\nBir fikrin gerçeğe dönüşmesi, iyi bir tasarım kadar iyi bir süreç de ister. Her aşamayı aynı masada, aynı özenle ele alıyoruz.",
+            "videos": [],
+            "controls": [
+              {
+                "text": "AÇILIŞI GEÇ ↗",
+                "cl": "intro-skip"
+              },
+              {
+                "text": "MENÜ",
+                "cl": "menu-toggle"
+              },
+              {
+                "text": "BİR GÖRÜŞME PLANLA ↗",
+                "cl": "header-link"
+              }
+            ]
+          },
+          "end": {
+            "y": 27296,
+            "height": 29890,
+            "max": 28990,
+            "headings": [
+              "Yavaşlamak için tasarlanmış mekânlar.",
+              "Bir çizgiden bir yaşama: bütünü görmek."
+            ],
+            "footer": [
+              {
+                "top": 1823.5625,
+                "bottom": 2594.4375,
+                "height": 770.875,
+                "visible": false
+              }
+            ],
+            "text": " malzeme ve uygulama kararları aynı fikrin etrafında gelişir. Her disiplin, mekânın bütününe katkıda bulunur.\n\n[ 03 ]\nHer kararı netleştiririz.\n\nSeçimleri görünür, süreci anlaşılır kılarız. Malzemeden takvime kadar her detayı birlikte değerlendiririz.\n\n[ 04 ]\nSon dokunuşa kadar.\n\nTasarımın ilk günkü hissini son ayrıntıya taşırız. Çünkü iyi bir mekân, tüm parçaları bir araya geldiğinde tamamlanır.\n\nAYNI VİZYONUN ÜÇ PARÇASI\nMimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.\n[ 01 ]\nMimarlık.\n\nHer şey bir çizgiyle başlar. Plan, akış ve oran; hayatın doğal biçimde yerini bulduğu mekânların görünmez yapısını oluşturur.\n\n[ 02 ]\nİç mekân.\n\nMalzemenin dokusu, ışığın yönü, rengin tonu. Birbirini tamamlayan seçimlerle yalnızca güzel görünen değil, size ait hissettiren yerler tasarlarız.\n\n[ 03 ]\nUygulama.\n\nİlk eskizden son dokunuşa kadar aynı özen. Tasarım fikrinin her aşamada korunduğu, detayların bir bütün olarak hayata geçtiği bir süreç.\n\nKABİZZU’YA YAKINDAN\nKüçük bir stüdyo.\nGeniş bir bakış.\nTASARIM DİSİPLİNİ\n\n03\n\nKONSEPT MEKÂN\n\n04\n\nMALZEME DENEYİ\n\n24\n\nAYNI VİZYON\n\n01\n\nFİKİRDEN GERÇEĞE, BİR BÜTÜN OLARAK.\nSESSİZ SÜİT / BİR YAŞAM FRAGMANI\n04 — 2026\n\nKabizzu, mimarlığı ve iç mekânı aynı cümlenin parçaları olarak düşünür. Yaşamın ritmine kulak veren, dokunmak ve içinde kalmak isteyeceğiniz yerler hayal ederiz.\n\nBizi bir araya getiren, gösterişli olandan çok kalıcı olana duyduğumuz ilgi. Işığın bir duvarda bıraktığı iz, ahşabın zamanla değişen tonu, doğru yerde duran bir sandalye.\n\nMEKÂNLARI KEŞFET\n↗\nORTAK BİR TASARIM DİLİ\nBirlikte, daha bütün.\nforma.\nATELIER 08\nligne\nmora\nNATURA\nforma.\nATELIER 08\nligne\nmora\nNATURA\nKonsept marka seçkisi\nSTÜDYO NOTLARI\nMekâna dair düşünceler.\n↗\nIŞIK & YAŞAM — 2026\nBir odayı ev yapan şey: ışık.\nYAZIYI OKU ↗\n↗\nMALZEME & DOKU — 2026\nDoğal malzemeler neden zamanla güzelleşir?\nYAZIYI OKU ↗\n↗\nRİTİM & MEKÂN — 2026\nYavaşlamak için tasarlanmış mekânlar.\nYAZIYI OKU ↗\n↗\nMİMARLIK & PERSPEKTİF — 2026\nBir çizgiden bir yaşama: bütünü görmek.\nYAZIYI OKU ↗\nTÜM NOTLAR\n↗\n“İyi tasarım kendini göstermez.\nHayatın içinde,\nyerini bulur.”\n\nDeniz Arın\nKURUCU / MİMAR\n\nİyi bir mekân, iyi bir konuşmayla başlar. Aklınızdaki fikri birlikte keşfedelim.\n\nhello@kabizzu.example\nİstanbul, Türkiye\nBİR GÖRÜŞME PLANLA\n↗\nIG\nP\nIN\nAKLINIZDAKİLER\nBirkaç soruya,\nbirkaç net cevap.\nNereden başlamalıyız?\nHangi tür mekânlarla çalışıyorsunuz?\nTasarım ve uygulama birlikte mi ilerliyor?\nSüreç ne kadar zaman alıyor?\nDAHA FAZLA SORU\n+\nBİR SONRAKİ HİKÂYE\nBir konuşmayla\nbaşlayalım.\n\nMekânınıza ve aklınızdaki fikre birlikte bakalım.\n\nPROJENİZİ ANLATIN\n↗\nHakkımızda\nMekânlar\nYaklaşım\nNotlar\nİletişim\nkabizzu✳\n\n© KABİZZU 2026\n\nInstagram ↗\nPinterest ↗\nLinkedIn ↗\nBİR GÖRÜŞME PLANLA ↗\nGizlilik\nÇerezler\nBAŞA DÖN ↑\n\nBağımsız portföy konsepti. Mekânlar, kişiler ve marka seçkisi kurgusaldır."
+          }
+        },
+        {
+          "name": "mobile",
+          "frames": [
+            {
+              "state": "opening",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-opening.jpg",
+              "sha256": "c9f1cb890106f1ec9a6a1ebbc7a0027fc0d7fb1b077ec05a15b31b294f9cf4b5"
+            },
+            {
+              "state": "forward-1",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-1.jpg",
+              "sha256": "65630894050f976ba50353cfb94f6019f7f01a5c28bdcc899b875d520f071ccb"
+            },
+            {
+              "state": "forward-2",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-2.jpg",
+              "sha256": "75405ede1e0c08eb3720a17b221f569469847efc5a3c619f1ecfe08497c0f51a"
+            },
+            {
+              "state": "forward-3",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-3.jpg",
+              "sha256": "34ed81ec152bb3be9dd4a2d7494532fe3b655b960cbbf5f3b83361f75c3a5bd3"
+            },
+            {
+              "state": "forward-4",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-4.jpg",
+              "sha256": "73fb758392ea96742a122350b65c4a642e098fc5170fb2a5c4fff3c2a0381256"
+            },
+            {
+              "state": "forward-5",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-5.jpg",
+              "sha256": "1115320110e70c1b172d51f9cda26624dd57d6924e9cd465303e8ae14c0552e6"
+            },
+            {
+              "state": "forward-6",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-6.jpg",
+              "sha256": "ca8e41e494c70c1f79bf524bb64e6617eff1aa284d47dcacb598b5fb2af8f16b"
+            },
+            {
+              "state": "forward-7",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-7.jpg",
+              "sha256": "61bf080147e3c1e15f869ad33a810f28ff90426c08babf2ca262d92a511c6261"
+            },
+            {
+              "state": "forward-8",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-8.jpg",
+              "sha256": "ebcbf5ccdfcdeb8c15ea2dd2e7c5b4360394bd54a7429c6e66b127298e43cda0"
+            },
+            {
+              "state": "forward-9",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-9.jpg",
+              "sha256": "28dd41d70bbee50996585c154604868a2980302b2b5d361512e12c19da1c7bbb"
+            },
+            {
+              "state": "forward-10",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-10.jpg",
+              "sha256": "4fc2b20f034380e471f382ff15560d57a3c438474411fe5e82f17a0d8089bee0"
+            },
+            {
+              "state": "forward-11",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-11.jpg",
+              "sha256": "d52c1c52eaa6cac5c0c7e2d627eb628698788ae9180993d2060d52f7f10eec3d"
+            },
+            {
+              "state": "forward-12",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-12.jpg",
+              "sha256": "3a690973648fddedd1191c3a1206ee5b9d8ef28369805e42a5c7a85195307e11"
+            },
+            {
+              "state": "forward-13",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-13.jpg",
+              "sha256": "9ace4ea0af72ffe202861359bdd8be04a5c1867f6e1629710a2a44af0f73a5c2"
+            },
+            {
+              "state": "forward-14",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-14.jpg",
+              "sha256": "9755db1aecd94b2a1bbe70b11c79b76e82368a01c579f36c6382769638d01014"
+            },
+            {
+              "state": "forward-15",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-15.jpg",
+              "sha256": "62bc62d8dd825638ffbd990a64fe596efc6a5069c2fb2f3fb074d573082a7ebf"
+            },
+            {
+              "state": "forward-16",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-16.jpg",
+              "sha256": "015d47b0e409e1d491be5c6b6ef04346f4408fe28c12729f0ee7aaa0baba1673"
+            },
+            {
+              "state": "forward-17",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-17.jpg",
+              "sha256": "1eb28d8af16e34bdd85b20788b28503365975d9923dc720ce4d648b418e23ee6"
+            },
+            {
+              "state": "forward-18",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-18.jpg",
+              "sha256": "1b2eaeb10e424e1696f15555c11ee4e152484abdda068b248fc3840aaf37d2bd"
+            },
+            {
+              "state": "forward-19",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-19.jpg",
+              "sha256": "f48d8a72c6459b1ec6b9ba2efdec5fc2fdc0e474ff1fcee01250ca3b7a0ca71d"
+            },
+            {
+              "state": "forward-20",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-20.jpg",
+              "sha256": "8820c86978b2dab89e9d9f8200d96bf048a46b390756c467bb8c180d724f68cc"
+            },
+            {
+              "state": "forward-21",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-21.jpg",
+              "sha256": "5c73baf4537590fac6e61c585e6094f2ce9f831451cba2df14ccc1f4e4b07f1b"
+            },
+            {
+              "state": "forward-22",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-22.jpg",
+              "sha256": "f178fd99354aa4fa991d0acd0698955fb04f363be1d8e0b4808d98b40a0b8b60"
+            },
+            {
+              "state": "forward-23",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-23.jpg",
+              "sha256": "e0465e60c7c1c18f907ac16f9c9564bded1e760a91427be936fccd84b5fba5d4"
+            },
+            {
+              "state": "forward-24",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-24.jpg",
+              "sha256": "629d39dbb269918ccee32d38a59e81acfbd30fef0e0a088552534942974a67b6"
+            },
+            {
+              "state": "forward-25",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-25.jpg",
+              "sha256": "47c6061c5492c8fdefd1752b4e0259be3f5efa0c84456ca922308909c1836388"
+            },
+            {
+              "state": "forward-26",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-26.jpg",
+              "sha256": "beada3379dae2b62fd760b911e02e70c9a779cde263bb682576701d4e8288559"
+            },
+            {
+              "state": "forward-27",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-27.jpg",
+              "sha256": "822d200ef19833c31cd0df289115c50ad40142d3bc66b1f8671c3d90bf7d0b36"
+            },
+            {
+              "state": "forward-28",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-28.jpg",
+              "sha256": "1f80de513f8195d204baa6f7a38e8e8e9086718347d08d8c1987d8281fe880f3"
+            },
+            {
+              "state": "forward-29",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-29.jpg",
+              "sha256": "957eefcb1e9e3e50eae761d85a49718bae4f4fb33963f511dad8816f9917a32c"
+            },
+            {
+              "state": "forward-30",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-30.jpg",
+              "sha256": "26e682d6fe974e28430ee2e537f8387541f1f0b0c375d30bc2224799bae22846"
+            },
+            {
+              "state": "forward-31",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-31.jpg",
+              "sha256": "be372fd89e7872a7def3b0fbe0b1359db92e3897621097dbf2b3f07dba80d8d4"
+            },
+            {
+              "state": "forward-32",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-32.jpg",
+              "sha256": "5d8654968aba4631344c347c62f2af7f11809c70490833ef33d829b4cdff8b63"
+            },
+            {
+              "state": "forward-33",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-33.jpg",
+              "sha256": "89448e6e8ad3522c6e1fbc5d3af7cf2cf9c7ccbb2a9b37fd3cf8cbe2b197b5b4"
+            },
+            {
+              "state": "forward-34",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-34.jpg",
+              "sha256": "c3d25c21aacbc855c7e6fb0a02c803aa4848060bf912d588d70991df700a4d13"
+            },
+            {
+              "state": "forward-35",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-35.jpg",
+              "sha256": "eaed16a68e28777145ed3510bc0575330b7f14730419fbab01c78f90bb165dee"
+            },
+            {
+              "state": "forward-36",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-36.jpg",
+              "sha256": "96098d7f417a6e5568f6ad6d5baf038e68c8a38f63265f0f5c0c085af4c43fae"
+            },
+            {
+              "state": "forward-37",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-37.jpg",
+              "sha256": "de5787aa2ac26b5f9942d5b94bc72f857d31520caabf5be0aea1c8ba042b8f8e"
+            },
+            {
+              "state": "forward-38",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-38.jpg",
+              "sha256": "40e603e01a846ee30ab9f22385a961bb7b5a496ca4168aa00b99b2bcb535c176"
+            },
+            {
+              "state": "forward-39",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-39.jpg",
+              "sha256": "3ab93b7d220e526bfd524d12da9f6a76617e3141f06e828b1956eb9851ec85f0"
+            },
+            {
+              "state": "forward-40",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-forward-40.jpg",
+              "sha256": "cb9f5cdb9a8f8dcca9b04aa3b3473e7e56b7b14b3758e560caa1c6fd339babf5"
+            },
+            {
+              "state": "ending-stopped",
+              "path": "docs/evidence/redo-v2/2026-10-24/pending-mothers-native/kabizzu-mobile-ending-stopped.jpg",
+              "sha256": "26532097b58baf8f34a3712bb80b1c94083f6d98f6361ffe8be10457d1f02aa8"
+            }
+          ],
+          "actions": [
+            {
+              "input": "trusted-finger",
+              "y": 0,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mekânın şiiri,\nyaşamın ritmi."
+              ],
+              "footer": [
+                {
+                  "top": 27090.765625,
+                  "bottom": 27946.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 505,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mekânın şiiri,\nyaşamın ritmi.",
+                "Bir ev,\nbir kompozisyon."
+              ],
+              "footer": [
+                {
+                  "top": 26585.765625,
+                  "bottom": 27441.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 1010,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Bir ev,\nbir kompozisyon."
+              ],
+              "footer": [
+                {
+                  "top": 26080.765625,
+                  "bottom": 26936.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 1515,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Bir ev,\nbir kompozisyon."
+              ],
+              "footer": [
+                {
+                  "top": 25575.765625,
+                  "bottom": 26431.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 2020,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 25070.765625,
+                  "bottom": 25926.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 2525,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 24565.765625,
+                  "bottom": 25421.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 3030,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 24060.765625,
+                  "bottom": 24916.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 3535,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 23555.765625,
+                  "bottom": 24411.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 4040,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 23050.765625,
+                  "bottom": 23906.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 4545,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 22545.765625,
+                  "bottom": 23401.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 5050,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 22040.765625,
+                  "bottom": 22896.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 5555,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 21535.765625,
+                  "bottom": 22391.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 6060,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 21030.765625,
+                  "bottom": 21886.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 6565,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 20525.765625,
+                  "bottom": 21381.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 7070,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 20020.765625,
+                  "bottom": 20876.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 7575,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 19515.765625,
+                  "bottom": 20371.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 8080,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 19010.765625,
+                  "bottom": 19866.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 8585,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 18505.765625,
+                  "bottom": 19361.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 9090,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "SEÇİLİ MEKÂNLAR",
+                "IşıkDairesi.",
+                "AvluEvi.",
+                "SakinKahve.",
+                "SessizSüit."
+              ],
+              "footer": [
+                {
+                  "top": 18000.765625,
+                  "bottom": 18856.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 9595,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Her adım kontrollü.\nHer detay dingin."
+              ],
+              "footer": [
+                {
+                  "top": 17495.765625,
+                  "bottom": 18351.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 10100,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Her adım kontrollü.\nHer detay dingin.",
+                "Birlikte başlarız."
+              ],
+              "footer": [
+                {
+                  "top": 16990.765625,
+                  "bottom": 17846.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 10605,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Birlikte başlarız.",
+                "Bütünü görürüz."
+              ],
+              "footer": [
+                {
+                  "top": 16485.765625,
+                  "bottom": 17341.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 11110,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Bütünü görürüz.",
+                "Her kararı netleştiririz."
+              ],
+              "footer": [
+                {
+                  "top": 15980.765625,
+                  "bottom": 16836.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 11615,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Her kararı netleştiririz.",
+                "Son dokunuşa kadar."
+              ],
+              "footer": [
+                {
+                  "top": 15475.765625,
+                  "bottom": 16331.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 12120,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Son dokunuşa kadar.",
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 14970.765625,
+                  "bottom": 15826.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 12625,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 14465.765625,
+                  "bottom": 15321.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 13130,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 13960.765625,
+                  "bottom": 14816.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 13635,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 13455.765625,
+                  "bottom": 14311.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 14140,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 12950.765625,
+                  "bottom": 13806.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 14645,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 12445.765625,
+                  "bottom": 13301.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 15150,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 11940.765625,
+                  "bottom": 12796.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 15655,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 11435.765625,
+                  "bottom": 12291.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 16160,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 10930.765625,
+                  "bottom": 11786.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 16665,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 10425.765625,
+                  "bottom": 11281.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 17170,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama."
+              ],
+              "footer": [
+                {
+                  "top": 9920.765625,
+                  "bottom": 10776.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 17675,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama.",
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 9415.765625,
+                  "bottom": 10271.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 18180,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Mimarlık.",
+                "İç mekân.",
+                "Uygulama.",
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 8910.765625,
+                  "bottom": 9766.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 18685,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Mimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.",
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 8405.765625,
+                  "bottom": 9261.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 19190,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 7900.765625,
+                  "bottom": 8756.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            },
+            {
+              "input": "trusted-finger",
+              "y": 19695,
+              "height": 27947,
+              "max": 27103,
+              "headings": [
+                "Küçük bir stüdyo.\nGeniş bir bakış."
+              ],
+              "footer": [
+                {
+                  "top": 7395.765625,
+                  "bottom": 8251.9375,
+                  "height": 856.171875,
+                  "visible": false
+                }
+              ]
+            }
+          ],
+          "initial": {
+            "y": 0,
+            "height": 27947,
+            "max": 27103,
+            "headings": [
+              "Mekânın şiiri,\nyaşamın ritmi."
+            ],
+            "footer": [
+              {
+                "top": 27090.765625,
+                "bottom": 27946.9375,
+                "height": 856.171875,
+                "visible": false
+              }
+            ],
+            "title": "Kabizzu — Mimarlık & İç Mekân",
+            "actualUrl": "https://kabizzu.vercel.app/",
+            "text": "kabizzu✳\nMimarlık × İç mekân × Yaşam\n\nBir bütün olarak yaşam.\n\nBirbirini tamamlayan çizgiler, size ait mekânlar.\n\nAÇILIŞI GEÇ ↗\nKabizzu açılıyor.\nİçeriğe geç\nMENÜ\nkabizzu✳\nBİR GÖRÜŞME PLANLA ↗\nMimarlık × İç mekân × Yaşam\nMekânın şiiri,\nyaşamın ritmi.\n\nBirbirini tamamlayan çizgiler.\nBir bütün olarak yaşam.\n\nKEŞFETMEK İÇİN KAYDIR\nBİR BÜTÜN OLARAK\nBir ev,\nbir kompozisyon.\n\nİyi düşünülmüş bir mekânda hiçbir şey tesadüf değildir. Oran, malzeme ve ışık; aynı hikâyenin parçalarıdır.\n\nÖnce nasıl yaşamak istediğinizi düşünürüz. Sonra o hissi, her gün dokunacağınız ayrıntılara dönüştürürüz.\n\n01 / ORAN\n02 / MALZEME\n03 / IŞIK\n04 / HİS\nHER PARÇA, AYNI HİKÂYEYE AİT.\nSEÇİLİ MEKÂNLAR\nKABİZZU KOLEKSİYONU — 01 / 04\nKONUT / KONSEPT\nIşıkDairesi.\nMEKÂNI İNCELE ↗\n\nGünün ışığıyla\ndeğişen bir hikâye.\n\nDOĞAL TAŞ · CEVİZ · KETEN\nKONUT / KONSEPT\nAvluEvi.\nMEKÂNI İNCELE ↗\n\nİçerisi ile dışarısı\narasında bir nefes.\n\nTRAVERTEN · MEŞE · KİREÇ SIVA\nHOSPITALITY / KONSEPT\nSakinKahve.\nMEKÂNI İNCELE ↗\n\nKüçük bir mola.\nKalıcı bir his.\n\nYEŞİL MERMER · CEVİZ · KROM\nKONAKLAMA / KONSEPT\nSessizSüit.\nMEKÂNI İNCELE ↗\n\nŞehrin ritminden\nuzakta bir sabah.\n\nKETEN · CEVİZ · TRAVERTEN\n01 — 04\nKAYDIRARAK KEŞFET\n\nBir fikrin gerçeğe dönüşmesi, iyi bir tasarım kadar iyi bir süreç de ister. Her aşamayı aynı masada, aynı özenle ele alıyoruz.\n\nDÜŞÜNCEDEN MEKÂNA\nHer adım kontrollü.\nHer detay dingin.\n[ 01 ]\nBirlikte başlarız.\n\nÖnce sizi ",
+            "videos": [],
+            "controls": [
+              {
+                "text": "AÇILIŞI GEÇ ↗",
+                "cl": "intro-skip"
+              },
+              {
+                "text": "MENÜ",
+                "cl": "menu-toggle"
+              },
+              {
+                "text": "BİR GÖRÜŞME PLANLA ↗",
+                "cl": "header-link"
+              }
+            ]
+          },
+          "end": {
+            "y": 19695,
+            "height": 27947,
+            "max": 27103,
+            "headings": [
+              "Küçük bir stüdyo.\nGeniş bir bakış."
+            ],
+            "footer": [
+              {
+                "top": 7395.765625,
+                "bottom": 8251.9375,
+                "height": 856.171875,
+                "visible": false
+              }
+            ],
+            "text": " malzeme ve uygulama kararları aynı fikrin etrafında gelişir. Her disiplin, mekânın bütününe katkıda bulunur.\n\n[ 03 ]\nHer kararı netleştiririz.\n\nSeçimleri görünür, süreci anlaşılır kılarız. Malzemeden takvime kadar her detayı birlikte değerlendiririz.\n\n[ 04 ]\nSon dokunuşa kadar.\n\nTasarımın ilk günkü hissini son ayrıntıya taşırız. Çünkü iyi bir mekân, tüm parçaları bir araya geldiğinde tamamlanır.\n\nAYNI VİZYONUN ÜÇ PARÇASI\nMimari bir bakış.\nTasarım duyarlılığı.\nÖzenli uygulama.\n[ 01 ]\nMimarlık.\n\nHer şey bir çizgiyle başlar. Plan, akış ve oran; hayatın doğal biçimde yerini bulduğu mekânların görünmez yapısını oluşturur.\n\n[ 02 ]\nİç mekân.\n\nMalzemenin dokusu, ışığın yönü, rengin tonu. Birbirini tamamlayan seçimlerle yalnızca güzel görünen değil, size ait hissettiren yerler tasarlarız.\n\n[ 03 ]\nUygulama.\n\nİlk eskizden son dokunuşa kadar aynı özen. Tasarım fikrinin her aşamada korunduğu, detayların bir bütün olarak hayata geçtiği bir süreç.\n\nKABİZZU’YA YAKINDAN\nKüçük bir stüdyo.\nGeniş bir bakış.\nTASARIM DİSİPLİNİ\n\n03\n\nKONSEPT MEKÂN\n\n04\n\nMALZEME DENEYİ\n\n24\n\nAYNI VİZYON\n\n01\n\nFİKİRDEN GERÇEĞE, BİR BÜTÜN OLARAK.\nSESSİZ SÜİT / BİR YAŞAM FRAGMANI\n04 — 2026\n\nKabizzu, mimarlığı ve iç mekânı aynı cümlenin parçaları olarak düşünür. Yaşamın ritmine kulak veren, dokunmak ve içinde kalmak isteyeceğiniz yerler hayal ederiz.\n\nBizi bir araya getiren, gösterişli olandan çok kalıcı olana duyduğumuz ilgi. Işığın bir duvarda bıraktığı iz, ahşabın zamanla değişen tonu, doğru yerde duran bir sandalye.\n\nMEKÂNLARI KEŞFET\n↗\nORTAK BİR TASARIM DİLİ\nBirlikte, daha bütün.\nforma.\nATELIER 08\nligne\nmora\nNATURA\nforma.\nATELIER 08\nligne\nmora\nNATURA\nKonsept marka seçkisi\nSTÜDYO NOTLARI\nMekâna dair düşünceler.\n↗\nIŞIK & YAŞAM — 2026\nBir odayı ev yapan şey: ışık.\nYAZIYI OKU ↗\n↗\nMALZEME & DOKU — 2026\nDoğal malzemeler neden zamanla güzelleşir?\nYAZIYI OKU ↗\n↗\nRİTİM & MEKÂN — 2026\nYavaşlamak için tasarlanmış mekânlar.\nYAZIYI OKU ↗\n↗\nMİMARLIK & PERSPEKTİF — 2026\nBir çizgiden bir yaşama: bütünü görmek.\nYAZIYI OKU ↗\nTÜM NOTLAR\n↗\n“İyi tasarım kendini göstermez.\nHayatın içinde,\nyerini bulur.”\n\nDeniz Arın\nKURUCU / MİMAR\n\nİyi bir mekân, iyi bir konuşmayla başlar. Aklınızdaki fikri birlikte keşfedelim.\n\nhello@kabizzu.example\nİstanbul, Türkiye\nBİR GÖRÜŞME PLANLA\n↗\nIG\nP\nIN\nAKLINIZDAKİLER\nBirkaç soruya,\nbirkaç net cevap.\nNereden başlamalıyız?\nHangi tür mekânlarla çalışıyorsunuz?\nTasarım ve uygulama birlikte mi ilerliyor?\nSüreç ne kadar zaman alıyor?\nDAHA FAZLA SORU\n+\nBİR SONRAKİ HİKÂYE\nBir konuşmayla\nbaşlayalım.\n\nMekânınıza ve aklınızdaki fikre birlikte bakalım.\n\nPROJENİZİ ANLATIN\n↗\nHakkımızda\nMekânlar\nYaklaşım\nNotlar\nİletişim\nkabizzu✳\n\n© KABİZZU 2026\n\nInstagram ↗\nPinterest ↗\nLinkedIn ↗\nBİR GÖRÜŞME PLANLA ↗\nGizlilik\nÇerezler\nBAŞA DÖN ↑\n\nBağımsız portföy konsepti. Mekânlar, kişiler ve marka seçkisi kurgusaldır."
+          }
+        }
+      ]
+    }
+  ]
+}

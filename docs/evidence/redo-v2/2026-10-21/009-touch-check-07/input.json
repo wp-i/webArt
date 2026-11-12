@@ -1,0 +1,1907 @@
+{
+  "result": "input-diagnostic-only",
+  "checks": [
+    {
+      "name": "home",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/home/contact-sheet.jpg",
+        "sha256": "ed27199f23b49de5fb4293f5a8536ecc3938f71d1c05c203413aa97b9d68af58"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/",
+        "y": 0,
+        "events": [],
+        "scrollables": []
+      }
+    },
+    {
+      "name": "home-touch-0",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/home-touch-0/contact-sheet.jpg",
+        "sha256": "260113ffdce9fa439dd5e1559daffa1c129d7066e961520f47c0d69c2b75cc37"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/",
+        "y": 0,
+        "events": [
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "is-four cases"
+          }
+        ],
+        "scrollables": []
+      }
+    },
+    {
+      "name": "home-touch-1",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/home-touch-1/contact-sheet.jpg",
+        "sha256": "8c101a383e02baf28bbfac202259f7ac7a57e6d6c1a9c1d059db3ed0172f1280"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/",
+        "y": 0,
+        "events": [
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "is-four cases"
+          }
+        ],
+        "scrollables": []
+      }
+    },
+    {
+      "name": "home-touch-2",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/home-touch-2/contact-sheet.jpg",
+        "sha256": "9a3507629adac7e16a99d8fd36dced85f82eaa35e0dc425122911dc349d77450"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/",
+        "y": 0,
+        "events": [
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "cover"
+          }
+        ],
+        "scrollables": []
+      }
+    },
+    {
+      "name": "home-reverse",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/home-reverse/contact-sheet.jpg",
+        "sha256": "0c064ed14ab77e5c5d0e881c6f06d0fb97347cc5211f2ed9692de7f16a045dfb"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/",
+        "y": 0,
+        "events": [
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "cover"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "is-four cases"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "is-four cases"
+          }
+        ],
+        "scrollables": []
+      }
+    },
+    {
+      "name": "about",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/about/contact-sheet.jpg",
+        "sha256": "e9169114b871b61e7a39d208cd3de4bae0af909464f11c2935e955264cb578a3"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/about",
+        "y": 0,
+        "events": [],
+        "scrollables": []
+      }
+    },
+    {
+      "name": "about-touch-0",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/about-touch-0/contact-sheet.jpg",
+        "sha256": "18762bcb005e5f6268ee5b48cda4caa70c2a0ac0496ad3519fdfd116ac50e4d0"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/about",
+        "y": 0,
+        "events": [
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "row"
+          }
+        ],
+        "scrollables": []
+      }
+    },
+    {
+      "name": "about-touch-1",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/about-touch-1/contact-sheet.jpg",
+        "sha256": "51ab3132ee3f630a0b9ee999effff803672f652fc10d746bdda0a1aff509ae8a"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/about",
+        "y": 0,
+        "events": [
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "row"
+          }
+        ],
+        "scrollables": []
+      }
+    },
+    {
+      "name": "about-touch-2",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/about-touch-2/contact-sheet.jpg",
+        "sha256": "9b0eff48dfce45825d687ce30117db5b54f2e685a4dc54021e449b67c9d2d6c9"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/about",
+        "y": 0,
+        "events": [
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "content"
+          }
+        ],
+        "scrollables": []
+      }
+    },
+    {
+      "name": "about-touch-3",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/about-touch-3/contact-sheet.jpg",
+        "sha256": "091f56cdf664631e48b9378508398290cc27752dbfcf57911d395af9ce8697cf"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/about",
+        "y": 0,
+        "events": [
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "word"
+          }
+        ],
+        "scrollables": []
+      }
+    },
+    {
+      "name": "about-touch-4",
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-21/009-touch-check-07/about-touch-4/contact-sheet.jpg",
+        "sha256": "21b5f6432d2a4b1f12bf62ab74ebf6b1608c9be8043ba04b02236b08a34c344d"
+      },
+      "measured": {
+        "url": "https://www.ottografie.nl/about",
+        "y": 0,
+        "events": [
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "row"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "word"
+          },
+          {
+            "type": "touchstart",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchmove",
+            "trusted": true,
+            "target": "content"
+          },
+          {
+            "type": "touchend",
+            "trusted": true,
+            "target": "content"
+          }
+        ],
+        "scrollables": []
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "verifiedAt": "2026-10-11T07:58:06.221Z",
-  "sha256": "a4b9ce2124f50d4f80c86972caaffccca04dade2d1082325f09c37609e3e43dc",
+  "verifiedAt": "2026-10-12T13:45:24.908Z",
+  "sha256": "ad12f02a1be056ff87a76d3a1d0bba939dd2000489c5a82e27e787c5b92ebb53",
   "files": [
     "index.html",
     "preview.html",
@@ -25,7 +25,13 @@
     "webart.collection.json",
     "public/collection/favicon.svg",
     "public/collection/fonts/manrope.woff2",
-    "public/collection/fonts/manrope-OFL.txt"
+    "public/collection/fonts/manrope-OFL.txt",
+    "public/collection/009-small.webp",
+    "public/collection/009.webp",
+    "public/collection/010.webp",
+    "public/collection/010-small.webp",
+    "webart.quality.json",
+    "scripts/quality-gate.mjs"
   ],
   "templates": [
     {
@@ -35,20 +41,31 @@
     },
     {
       "id": "006",
-      "sourceSha256": "bc7bccc337e0006d85221c5bcaea996a5b54735b5d08503d826b08c7e8d8fe94",
+      "sourceSha256": "3be6deb3cc6893ce3a225c43d7cdd330a3aed8b945269cd77056577262e1f99a",
       "unchanged": true
     },
     {
       "id": "007",
-      "sourceSha256": "24fbb2470867e4e4350cc44ee75cfb52e719746b0c8313648ecdf613eb51116d",
+      "sourceSha256": "46c7d81838525a79057b4d7a98f030222a2befb44b0b7b8719e63c3224d2121f",
       "unchanged": true
     },
     {
       "id": "008",
-      "sourceSha256": "9553f99f26d612ec00e55d30ed9ce6031733df669c69d14469c8f8036d8a5fed",
+      "sourceSha256": "31892bf10228f07d305ed4bee795c10bed76c5514a06429ab545d10eaeddcd99",
+      "unchanged": true
+    },
+    {
+      "id": "009",
+      "sourceSha256": "057d1fff49885ed00ccd2bae36abcd33ae87fffc4bd7fdbc13b9b31f0444c147",
+      "unchanged": true
+    },
+    {
+      "id": "010",
+      "sourceSha256": "4fcd045081962375d946130e871d1fd95df9e1d91a301aa3471016962436abd4",
       "unchanged": true
     }
   ],
-  "previousSha256": "0eec38b4165ef04622de708ea14216ba2da980256aa9f4e7ede24af54f51aeb3",
-  "fingerprintAlgorithm": "sha256-length-prefixed-path-and-bytes-v1"
+  "previousSha256": "388f1f609bf03529e4ad6a5dd239eccd19a0bbeee388ca66ef6f7d49cdc2fa6b",
+  "fingerprintAlgorithm": "sha256-length-prefixed-path-and-bytes-v1",
+  "qualityPolicy": "v2 calibrated; existing comparison snapshots retained"
 }

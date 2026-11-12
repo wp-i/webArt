@@ -1,0 +1,95 @@
+{
+  "at": "2026-10-12T04:46:11.203Z",
+  "delivery": [
+    {
+      "id": "001",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 5810208,
+      "sha256": "ed7a7ffea0eea250620970e071e4ab878c2bc894b12f3966acd7f67048046ec0",
+      "previewPath": "/designs/001-weight-of-light/",
+      "previewStatus": 200,
+      "assetsChecked": 19
+    },
+    {
+      "id": "006",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 1599284,
+      "sha256": "56c58f16e8fe4fa84b86036bdb59b62ee333f6481808077c3f46343f7890f122",
+      "previewPath": "/designs/006-house-of-ivory/",
+      "previewStatus": 200,
+      "assetsChecked": 9
+    },
+    {
+      "id": "007",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 2313424,
+      "sha256": "9aa7e97c355ee902f33ef3199afff7657ea7a54ffdec49709e95e8e301770fcf",
+      "previewPath": "/designs/007-campovivo/",
+      "previewStatus": 200,
+      "assetsChecked": 8
+    },
+    {
+      "id": "008",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 1740847,
+      "sha256": "f3054f5f8f18982234d039a1a3b4bbef79693ad402a57bba24b88f657341141c",
+      "previewPath": "/designs/008-sill/",
+      "previewStatus": 200,
+      "assetsChecked": 7
+    },
+    {
+      "id": "009",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 1714403,
+      "sha256": "ff3b0b4e3f12ba528866f26e1f1ab667ea9caa3c4497047515456b207be47203",
+      "previewPath": "/designs/009-near-and-far/",
+      "previewStatus": 200,
+      "assetsChecked": 7
+    }
+  ],
+  "activePreview": [
+    {
+      "path": "/",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 8330
+    },
+    {
+      "path": "/preview.html?id=009",
+      "status": 200,
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 4517
+    },
+    {
+      "path": "/designs/009-near-and-far/",
+      "status": 200,
+      "contentType": "text/html",
+      "bytes": 3975
+    },
+    {
+      "path": "/near-and-far-source.zip",
+      "status": 200,
+      "contentType": "application/zip",
+      "bytes": 1714403
+    },
+    {
+      "path": "/collection/009.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 75628
+    },
+    {
+      "path": "/collection/009-small.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 21570
+    }
+  ],
+  "finalHealthCheck": "2026-10-12T04:53:14.398Z",
+  "qaBrowserClosed": true
+}

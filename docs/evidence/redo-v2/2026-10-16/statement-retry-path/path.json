@@ -1,0 +1,683 @@
+{
+  "url": "https://www.openstatement.co/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/statement-retry-path/opening.jpg",
+      "sha256": "789e81722d0feb6c267cd172711b1d696c10615894da7c3c8f00e3c678b79a64"
+    },
+    {
+      "state": "early",
+      "y": 3766,
+      "path": "docs/evidence/redo-v2/2026-10-16/statement-retry-path/early.jpg",
+      "sha256": "9ad4758dc2d61fd14c3d4829fa84b7519de704f2c0e72af6eef508e5dc6cd065"
+    },
+    {
+      "state": "middle",
+      "y": 9885,
+      "path": "docs/evidence/redo-v2/2026-10-16/statement-retry-path/middle.jpg",
+      "sha256": "4aae6aee43a52c0fbd9c6445d186fbab109ed6636d4372e3c36113c7c58e5bf2"
+    },
+    {
+      "state": "late",
+      "y": 17653,
+      "path": "docs/evidence/redo-v2/2026-10-16/statement-retry-path/late.jpg",
+      "sha256": "ade856ab2e5061a0076d99f3414f094ae8de7ea27f647a257114c9239e59f029"
+    },
+    {
+      "state": "ending",
+      "y": 23537,
+      "path": "docs/evidence/redo-v2/2026-10-16/statement-retry-path/ending.jpg",
+      "sha256": "faec5cf61840f9397cd706e80a269ff228fcbcbdd60013450fa0d18e7c00efd5"
+    }
+  ],
+  "metadata": {
+    "height": 24437,
+    "headings": [
+      {
+        "text": "Open Statement",
+        "tag": "H1",
+        "class": "",
+        "parent": "w-50 w-25-l type-regular",
+        "top": 12
+      },
+      {
+        "text": "International design-led web development studio with a focus on creating digital platforms within the fields of art, fashion and culture.",
+        "tag": "H3",
+        "class": "f3 b mb1",
+        "parent": "mt4 mt0-l pt5",
+        "top": 0
+      }
+    ],
+    "sections": [
+      {
+        "tag": "MAIN",
+        "class": "",
+        "id": "",
+        "top": 48,
+        "height": 24119
+      },
+      {
+        "tag": "SECTION",
+        "class": "projects ph3 mb6 lh-title",
+        "id": "",
+        "top": 154,
+        "height": 24013
+      },
+      {
+        "tag": "SECTION",
+        "class": "information fixed top-0 left-0 w-100 h-100 dn overflow-auto",
+        "id": "",
+        "top": 0,
+        "height": 0
+      },
+      {
+        "tag": "FOOTER",
+        "class": "w-100 pa3 bg-light-gray",
+        "id": "",
+        "top": 24263,
+        "height": 174
+      }
+    ],
+    "controls": [
+      {
+        "tag": "A",
+        "text": "Open Statement",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "Inquire",
+        "class": "flex w-fit"
+      },
+      {
+        "tag": "A",
+        "text": "Connect",
+        "class": "flex w-fit"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      },
+      {
+        "tag": "A",
+        "text": "See live",
+        "class": "black pl2"
+      }
+    ]
+  },
+  "inventory": {
+    "images": 0,
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 250.171875,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 250.171875,
+          "right": 1202.84375,
+          "bottom": 805.890625,
+          "left": 222.15625
+        },
+        "ready": 4,
+        "width": 1920,
+        "height": 1088,
+        "paused": false
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 1114.890625,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 1114.890625,
+          "right": 1202.84375,
+          "bottom": 1670.609375,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 1979.609375,
+          "width": 980.6875,
+          "height": 556.734375,
+          "top": 1979.609375,
+          "right": 1202.84375,
+          "bottom": 2536.34375,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 2830.34375,
+          "width": 980.6875,
+          "height": 520.984375,
+          "top": 2830.34375,
+          "right": 1202.84375,
+          "bottom": 3351.328125,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 3660.328125,
+          "width": 980.6875,
+          "height": 529.296875,
+          "top": 3660.328125,
+          "right": 1202.84375,
+          "bottom": 4189.625,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 4498.625,
+          "width": 980.6875,
+          "height": 551.625,
+          "top": 4498.625,
+          "right": 1202.84375,
+          "bottom": 5050.25,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 5374.25,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 5374.25,
+          "right": 1202.84375,
+          "bottom": 5929.96875,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 6238.96875,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 6238.96875,
+          "right": 1202.84375,
+          "bottom": 6794.6875,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 7088.6875,
+          "width": 980.6875,
+          "height": 551.984375,
+          "top": 7088.6875,
+          "right": 1202.84375,
+          "bottom": 7640.671875,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 7949.671875,
+          "width": 980.6875,
+          "height": 551.625,
+          "top": 7949.671875,
+          "right": 1202.84375,
+          "bottom": 8501.296875,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 8825.296875,
+          "width": 980.6875,
+          "height": 551.625,
+          "top": 8825.296875,
+          "right": 1202.84375,
+          "bottom": 9376.921875,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 9685.921875,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 9685.921875,
+          "right": 1202.84375,
+          "bottom": 10241.640625,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 10550.640625,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 10550.640625,
+          "right": 1202.84375,
+          "bottom": 11106.359375,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 11415.359375,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 11415.359375,
+          "right": 1202.84375,
+          "bottom": 11971.078125,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 12280.078125,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 12280.078125,
+          "right": 1202.84375,
+          "bottom": 12835.796875,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 13129.796875,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 13129.796875,
+          "right": 1202.84375,
+          "bottom": 13685.515625,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 13979.515625,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 13979.515625,
+          "right": 1202.84375,
+          "bottom": 14535.234375,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 14844.234375,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 14844.234375,
+          "right": 1202.84375,
+          "bottom": 15399.953125,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 15708.953125,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 15708.953125,
+          "right": 1202.84375,
+          "bottom": 16264.671875,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 16573.671875,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 16573.671875,
+          "right": 1202.84375,
+          "bottom": 17129.390625,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 17438.390625,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 17438.390625,
+          "right": 1202.84375,
+          "bottom": 17994.109375,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 18288.109375,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 18288.109375,
+          "right": 1202.84375,
+          "bottom": 18843.828125,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 19152.828125,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 19152.828125,
+          "right": 1202.84375,
+          "bottom": 19708.546875,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 20017.546875,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 20017.546875,
+          "right": 1202.84375,
+          "bottom": 20573.265625,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 20867.265625,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 20867.265625,
+          "right": 1202.84375,
+          "bottom": 21422.984375,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 21731.984375,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 21731.984375,
+          "right": 1202.84375,
+          "bottom": 22287.703125,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 22581.703125,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 22581.703125,
+          "right": 1202.84375,
+          "bottom": 23137.421875,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 222.15625,
+          "y": 23431.421875,
+          "width": 980.6875,
+          "height": 555.71875,
+          "top": 23431.421875,
+          "right": 1202.84375,
+          "bottom": 23987.140625,
+          "left": 222.15625
+        },
+        "ready": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true
+      }
+    ],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": false
+  },
+  "result": "scouted-not-admitted"
+}

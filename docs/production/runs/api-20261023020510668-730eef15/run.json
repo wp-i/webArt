@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261023020510668-730eef15",
+  "mode": "configuration-driven",
+  "productionMode": "first-style-qualification",
+  "codeGenerationCalls": 0,
+  "execution": "current-conversation-evidence-review",
+  "started": "2026-10-23T02:05:10.669Z",
+  "model": "current-conversation",
+  "ids": [
+    "009"
+  ],
+  "status": "ready-for-user-review",
+  "stage": "packaging",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [
+    {
+      "id": "009",
+      "title": "Near & Far",
+      "directory": ".webart/prototypes/api-20261023020510668-730eef15-009",
+      "archivePath": ".webart/trials/api-20261023020510668-730eef15-009-source.zip",
+      "bytes": 2399890,
+      "sha256": "f374433f4392eaef7acd6a063977de853eba1a9d2f452581ae281fb071adcf0d",
+      "archiveReused": false,
+      "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+      "qaRecord": "docs/qa/api-20261023020510668-730eef15-009.md",
+      "capturePath": "docs/evidence/production/api-20261023020510668-730eef15/009-prototype-0-0/capture.json",
+      "http": {
+        "previewAndAllAssets": "passed",
+        "archiveHttp": "passed"
+      },
+      "quality": "calibrated-review-passed-user-review-pending"
+    }
+  ],
+  "inventoryChanged": false,
+  "visualAcceptance": "pending-user-review",
+  "qualificationContinuationOf": "docs/production/runs/2026-10-19-four-redesigns",
+  "inputIdentity": "2ee3a81f293188c42fc7040d53ba4a1717b10d8db10c61509b950dbdf573b74b",
+  "scope": "Deterministic qualification of an already authored and visually admitted prototype. New-style authoring and actual visual judgments are not zero-LLM.",
+  "resumes": [
+    {
+      "at": "2026-10-23T02:06:05.904Z",
+      "fromStage": "style-review",
+      "previousFailure": null
+    },
+    {
+      "at": "2026-10-23T17:19:45.098Z",
+      "fromStage": "full-qa",
+      "previousFailure": null
+    },
+    {
+      "at": "2026-10-23T17:29:05.691Z",
+      "fromStage": "performance-qa",
+      "previousFailure": null
+    }
+  ],
+  "qaAttempts": [
+    {
+      "id": "009",
+      "attempt": 1,
+      "directory": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa",
+      "binding": "29207961b369c04af1a5cd94b593bc81ba0e9b066694fcf2b8e754f874a15579",
+      "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6"
+    },
+    {
+      "id": "009",
+      "attempt": 2,
+      "directory": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02",
+      "binding": "29207961b369c04af1a5cd94b593bc81ba0e9b066694fcf2b8e754f874a15579",
+      "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6"
+    }
+  ],
+  "finished": "2026-10-23T17:29:21.982Z"
+}

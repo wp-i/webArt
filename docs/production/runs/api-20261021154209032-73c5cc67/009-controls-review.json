@@ -1,0 +1,315 @@
+{
+  "decision": "reject",
+  "responsiveComposition": "pass",
+  "responsiveChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "desktop / 三幅不等幅肖像保持错位与图字遮叠，摄影人物及作品名可辨，顶部导航与底部观看行动未压住关键主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/desktop-responsive-opening.png",
+          "sha256": "b13eead1519b4529cfb17011e8edfa6a287329a498a4336c0863c6eabbc152f2"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "desktop / 摄影在真实连续观看中穿越分类字，当前作品仍具有明确面积与细节，前后图层保持而底部观看入口处于留白。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/desktop-responsive-transition.png",
+          "sha256": "0585947997bbf1679e90d6afc4d48dd84eccb6e1cd06b3ccabe745b3f79f253e"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "desktop / 选中红绒肖像、两幅侧边索引与作品标题共同成立，观看距离及返回行动可见，没有将完整主体误裁成不可理解的片段。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/desktop-responsive-middle.png",
+          "sha256": "9b80bced0eadb5f46283ea564b3a2363c6adb1bb66c34c6593a37be0fe4df8e8"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "desktop / 绿色人物的完整头部、双手及相机得到保留，联系标题与邮箱处于独立文字区域，底部返回行动没有压住摄影主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/desktop-responsive-ending.png",
+          "sha256": "14752fc11a6662ab04a83e6fb67b6b1b1f43c334b6fbc82722545d0376fec949"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "wide / 三幅不等幅肖像保持错位与图字遮叠，摄影人物及作品名可辨，顶部导航与底部观看行动未压住关键主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/wide-responsive-opening.png",
+          "sha256": "89fd4029cecb4b61c75b55c68718937037e05c9d6635e8881a42fe691bdb61a7"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "wide / 摄影在真实连续观看中穿越分类字，当前作品仍具有明确面积与细节，前后图层保持而底部观看入口处于留白。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/wide-responsive-transition.png",
+          "sha256": "777a60af80786e93cf66e4e9b7d068c3721898d935e3c9e1510f1d187b589820"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "wide / 选中红绒肖像、两幅侧边索引与作品标题共同成立，观看距离及返回行动可见，没有将完整主体误裁成不可理解的片段。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/wide-responsive-middle.png",
+          "sha256": "b5e7625b829e1c307dc8d297b36c494889933e16f36a4ac346aa268519322961"
+        }
+      ]
+    },
+    {
+      "viewport": "wide",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "wide / 绿色人物的完整头部、双手及相机得到保留，联系标题与邮箱处于独立文字区域，底部返回行动没有压住摄影主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/wide-responsive-ending.png",
+          "sha256": "cab7fb030d2c0576c11d994258ea44c8c3ccef8d73731dd4af231fef9288f01e"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "tablet / 三幅不等幅肖像保持错位与图字遮叠，摄影人物及作品名可辨，顶部导航与底部观看行动未压住关键主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/tablet-responsive-opening.png",
+          "sha256": "8594862d09cfa4d2b126fc6095e6c8afe02d9bf47f995dc5672a3b69213a786d"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "tablet / 摄影在真实连续观看中穿越分类字，当前作品仍具有明确面积与细节，前后图层保持而底部观看入口处于留白。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/tablet-responsive-transition.png",
+          "sha256": "e0e95fd5e3a83e9fd00eee40d3180bd9782402f0fef38c47a173dbacd3c7106a"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "tablet / 选中红绒肖像、两幅侧边索引与作品标题共同成立，观看距离及返回行动可见，没有将完整主体误裁成不可理解的片段。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/tablet-responsive-middle.png",
+          "sha256": "7af42d5b1b39a519149b7757268866e0bceccc5802c3e7329df1360d1544219f"
+        }
+      ]
+    },
+    {
+      "viewport": "tablet",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "tablet / 绿色人物的完整头部、双手及相机得到保留，联系标题与邮箱处于独立文字区域，底部返回行动没有压住摄影主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/tablet-responsive-ending.png",
+          "sha256": "c193a8f8a188b074f7fa13af5a3fe5bb0a6eadf87e9dd06543caaebf00cc30e2"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "mobile / 三幅不等幅肖像保持错位与图字遮叠，摄影人物及作品名可辨，顶部导航与底部观看行动未压住关键主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/mobile-responsive-opening.png",
+          "sha256": "c340728b05e645be41ad911cc944600ba330c530c91d7e18a16d9161f3412cc1"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "mobile / 摄影在真实连续观看中穿越分类字，当前作品仍具有明确面积与细节，前后图层保持而底部观看入口处于留白。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/mobile-responsive-transition.png",
+          "sha256": "454c53c84ba29c0d6e30b08d5b491e3435ddfd6aaa6271e7b1da08c5466fd104"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "mobile / 选中红绒肖像、两幅侧边索引与作品标题共同成立，观看距离及返回行动可见，没有将完整主体误裁成不可理解的片段。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/mobile-responsive-middle.png",
+          "sha256": "d6e85d52778c9ae52be474b06265e5af2d2f7ab2d7c480a75b0a77e3f5c50404"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "mobile / 绿色人物的完整头部、双手及相机得到保留，联系标题与邮箱处于独立文字区域，底部返回行动没有压住摄影主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/mobile-responsive-ending.png",
+          "sha256": "00451f7ada3099d128169befda6ca7b522b2000aa173ff6e49edbb7360b0c649"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "opening",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "narrow / 三幅不等幅肖像保持错位与图字遮叠，摄影人物及作品名可辨，顶部导航与底部观看行动未压住关键主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/narrow-responsive-opening.png",
+          "sha256": "e19327207d5032527f919342ea7488f6e9a688d2536ad66616d73046cee9c091"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "transition",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "narrow / 摄影在真实连续观看中穿越分类字，当前作品仍具有明确面积与细节，前后图层保持而底部观看入口处于留白。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/narrow-responsive-transition.png",
+          "sha256": "a5a5e813c3009b2069754c5da2783bff59e7f52786d7b32a49abdac41c631cd8"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "middle",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "narrow / 选中红绒肖像、两幅侧边索引与作品标题共同成立，观看距离及返回行动可见，没有将完整主体误裁成不可理解的片段。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/narrow-responsive-middle.png",
+          "sha256": "5792c8815456024b4741fedacfd1840c792d46329483d2153db3f073f240bd7d"
+        }
+      ]
+    },
+    {
+      "viewport": "narrow",
+      "state": "ending",
+      "subject": "preserved",
+      "composition": "preserved",
+      "actions": "preserved",
+      "finding": "narrow / 绿色人物的完整头部、双手及相机得到保留，联系标题与邮箱处于独立文字区域，底部返回行动没有压住摄影主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/narrow-responsive-ending.png",
+          "sha256": "97133e235fd2cdf3e4cbe33640490201e098b7e440932103ae5e1445c3602d6e"
+        }
+      ]
+    }
+  ],
+  "renderingFallback": "not-applicable",
+  "findings": [
+    "当前会话实际查看全部12张联系表及140个去重图像载荷，保留221个上下文；另放大查看mobile及narrow的物理准备/结果原图。审查者非独立、上下文未隔离，不授予总分或用户视觉验收。",
+    "修正后的桌面鼠标及手机触摸复位均先重新建立2.4实际取景，再通过该次原生输入恢复1.0；键盘、取景条前进/返回与无脚本实际导航和原图打开均有本次实证，不沿用取消的请求23。",
+    "局部控件缺陷：control-119 mobile touch-prepared及control-183 narrow touch-prepared中，取景条外扩焦点框的上边压住Reset view文字；同样范围在键盘焦点状态可见。普通静态20构图保持，不以其通过抵消焦点遮挡。源码f955a16f本次不打包或发布；只需在新版本拉开复位按钮与取景条的纵向间距，保留焦点框、全部素材、字体、构图及签名。"
+  ],
+  "sourceSha256": "f955a16f31e4555b2c68f1ca3f3691f51293024356b5c1df356f3519aa32416b",
+  "phase": "full-qa",
+  "reviewer": {
+    "id": "current-conversation:2026-10-19-four-redesigns",
+    "implementationContextIncluded": false,
+    "mode": "evidence-only-current-conversation",
+    "kind": "current-conversation",
+    "independent": false,
+    "contextIsolated": false
+  },
+  "reviewReceipt": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/review-queue/24-controls-review-6903279d-receipt.json",
+    "sha256": "58d665c06171bfc1c3e7984b056bf794ff2c9f450ca9ffe1f24705b453bf248c"
+  },
+  "runtimeEvidence": {
+    "path": "docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/runtime.json",
+    "sha256": "4394ac84a206d08373d9e82cb6d1d762f6bbb29377215f80fa89358efb440e37"
+  },
+  "vetoes": [
+    "当前会话实际查看全部12张联系表及140个去重图像载荷，保留221个上下文；另放大查看mobile及narrow的物理准备/结果原图。审查者非独立、上下文未隔离，不授予总分或用户视觉验收。",
+    "修正后的桌面鼠标及手机触摸复位均先重新建立2.4实际取景，再通过该次原生输入恢复1.0；键盘、取景条前进/返回与无脚本实际导航和原图打开均有本次实证，不沿用取消的请求23。",
+    "局部控件缺陷：control-119 mobile touch-prepared及control-183 narrow touch-prepared中，取景条外扩焦点框的上边压住Reset view文字；同样范围在键盘焦点状态可见。普通静态20构图保持，不以其通过抵消焦点遮挡。源码f955a16f本次不打包或发布；只需在新版本拉开复位按钮与取景条的纵向间距，保留焦点框、全部素材、字体、构图及签名。"
+  ]
+}

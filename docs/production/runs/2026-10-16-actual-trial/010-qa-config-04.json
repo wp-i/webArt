@@ -1,0 +1,29 @@
+{
+  "images": 4,
+  "fonts": [
+    "Space Grotesk",
+    "JetBrains Mono"
+  ],
+  "scenes": [
+    "#scene-opening",
+    "#scene-transition",
+    "#scene-middle",
+    "#scene-ending"
+  ],
+  "clipBounds": [],
+  "composition": {
+    "desktop": "1440×900，标题居左与完整仪表并列，机械展开可斜向进入，不得压住文字和行动。",
+    "wide": "2048×912，主体与标题继续保持左右尺度关系，不因横向宽度拉伸而缩为装饰小图。",
+    "tablet": "768×1024，短标题在上，完整圆形和机械在下方，表圈不可越过右边界，不得碰撞说明。",
+    "mobile": "390×844，标题、说明及完整仪表上下组织，四状态均保留，触摸操控和释放行动可见。",
+    "narrow": "320×844，压缩字号和辅助标签后仍显示完整表圈，短说明不横向溢出，末屏行动不遮住主体。"
+  },
+  "visualStates": {
+    "opening": 0,
+    "transition": 0.3333333333333333,
+    "middle": 0.6666666666666666,
+    "ending": 1
+  },
+  "origin": "http://127.0.0.1:4323/",
+  "output": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04"
+}

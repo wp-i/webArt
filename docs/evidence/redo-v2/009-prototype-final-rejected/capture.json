@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 2,
+  "started": "2026-10-13T06:14:32.145Z",
+  "url": "http://127.0.0.1:4319/",
+  "sourceSha256": null,
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-opening/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1305,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-middle/contact-sheet.jpg",
+          "sha256": "157c35bd3bbf9848db4c9beb1ed7f32fdcb347010e952048f6d32f610f9b38fa"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 864,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-transition/contact-sheet.jpg",
+          "sha256": "67c0fe188a6564e6eba5a3a83ec7e8751131c4af134faca37e22383144d62079"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2700,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-ending/contact-sheet.jpg",
+          "sha256": "7aa2a2a518a94c600be2e40e479803483940a0620723d9a7b78221069a19f96d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-opening/contact-sheet.jpg",
+          "sha256": "c16c3d2310db9a4eb95232d88acecf9a4ffb809d87322a46a11ed90f882e4f58"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1224,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-middle/contact-sheet.jpg",
+          "sha256": "51dd197b9eb0ec88e05a3f1fa85c50bc17e28d514fde02c606578d7c379e6472"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 810,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-transition/contact-sheet.jpg",
+          "sha256": "3490ea2abed94a872f5970137b4cfea91d3010031d16f7d92ab5a80280525bfa"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2532,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-ending/contact-sheet.jpg",
+          "sha256": "e8ad6a2c4db567136f08d7b45fb704739082d2ba721e7d1ebf94e19a96858cea"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "cca5bcba53cb19ad917a4017379e7f1c6753aa56702e519e73c55d41aab78d53"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "f14d795fc4059436156890e5e055099d26b85cd515f9f783998b0c4866946876"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "d6f18fd545fd949d8f04aaa3c78867d6481e8106fc7ff35a0316d4a31758eb6f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "7aa2a2a518a94c600be2e40e479803483940a0620723d9a7b78221069a19f96d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "d0fbc27f1bef6a86821531ee7b1e8c16c18d9ea8c56d263d3bb373b8976e8651"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "f14d795fc4059436156890e5e055099d26b85cd515f9f783998b0c4866946876"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "cca5bcba53cb19ad917a4017379e7f1c6753aa56702e519e73c55d41aab78d53"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-reduced/contact-sheet.jpg",
+          "sha256": "b1894fb3e24d7d12aea8ba6cd7dc0eab6966b890b57387cb372bac7c7bbb3dc8"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "34aae75468893eb518fc42bef26a8f6856537fa008b35c94ec360195d50f6c08"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "62b67a8414f620686fc24c993968e8a3da9361494a9936d6fdf9645657017a94"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "6d5a60b33f8ff6fff7a109ef5be2f9014d94b5c5f6e4dfac1399fd98519fc7a2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "2587452ca1c527721eac7caa27508100dd2bda61cbd574fc723f5415c170fbc1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/desktop-reduced/contact-sheet.jpg",
+          "sha256": "b1894fb3e24d7d12aea8ba6cd7dc0eab6966b890b57387cb372bac7c7bbb3dc8"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": null,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "e2e9ff9212690cb8ddc726f38512e6c438f0ad638fe50756c7b7f4b0a2995435"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "734327d6d4d512f37d19d45bbf8355c8f533eab75d87dfeb217a423ce8519d19"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "4e2185f3a120e79192d500d3556f7c3a592c6e79ba4af477f778dba2a5233eee"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "28315ed7a3243fa7602ed2a195e4e2dd637a39f0183ab07cc714cfc4f5061e30"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "81dd6cec0b956856f873a618ef216767bc7b52d7fa0fab8dc354274f5e3c03ab"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-scroll-5/contact-sheet.jpg",
+          "sha256": "badddf02fae8d8213164d43268df5aa1f7339b954398384486668ad0724d3109"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "61e295c945b34f0e67af5720d053076c8d0f9e1ad2f84642c89ab792cce99f70"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-scroll-7/contact-sheet.jpg",
+          "sha256": "6792b6035a73c29995354e68ae9e308020de30d0521b83839df1d6107d7fedd8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "fb48bc5ef98d38a5400b4f354dd2267919d0982c608a9cba637dc588876d1f22"
+        },
+        {
+          "path": "docs/evidence/redo-v2/009-prototype-final-rejected/mobile-reduced/contact-sheet.jpg",
+          "sha256": "3024400b5ef435de74cde838feef73ae6f501ad28a4c009140d8e5573d446dd8"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "result": "captured-not-scored",
+  "finished": "2026-10-13T06:14:48.421Z"
+}

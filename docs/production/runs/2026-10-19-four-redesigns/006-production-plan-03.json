@@ -1,0 +1,367 @@
+{
+  "id": "006",
+  "status": "locked-for-first-style-qualification",
+  "brief": "docs/pages/006-woven-spaces.md",
+  "referenceMap": "docs/references/006-woven-spaces.md",
+  "assetPlan": {
+    "record": "docs/assets/006-woven-spaces.md",
+    "heroRoleLocked": true,
+    "replacementCompared": true,
+    "rightsVerified": true,
+    "lowCostIsNotMerit": true,
+    "evidence": [
+      {
+        "path": "docs/assets/006-woven-spaces-approval-02.json",
+        "sha256": "3c6f860b5cc1da6dc80d93e0cb2692c5ba67c59ad57c2f91c5fb75ecbcb172b7"
+      }
+    ]
+  },
+  "referenceCapture": {
+    "url": "https://www.durup.com/",
+    "output": "docs/evidence/redo-v2/2026-10-20/006-durup-reference-04",
+    "enterMs": 8000,
+    "ready": "document.documentElement.scrollHeight>9000 && document.fonts.status==='loaded'",
+    "readyTimeoutMs": 20000,
+    "states": {
+      "opening": 0,
+      "transition": 0.26,
+      "middle": {
+        "selector": "main section:nth-of-type(3)",
+        "offset": 0
+      },
+      "ending": 1
+    },
+    "pointer": {
+      "settleMs": 900,
+      "axis": "vertical",
+      "retainPosition": true,
+      "position": 0.76,
+      "selector": "main section:nth-of-type(3) ul"
+    },
+    "settleMs": 550,
+    "deadlineMs": 240000,
+    "initialPointer": {
+      "y": 0.02,
+      "x": 0.98
+    }
+  },
+  "coreSignatures": [
+    {
+      "name": "textile-to-spatial-panorama",
+      "visualPurpose": "从织物近景进入满高空间照片的横向卷轴，原生滚动改变观看位置、邻接关系及空间尺度，保留材料到室内的具体主题，不改成常规三列照片。"
+    },
+    {
+      "name": "index-selects-material-view",
+      "visualPurpose": "右侧索引的指针、聚焦和触摸选择直接改变左侧主图的材料及空间观看，选择、返回及离开具有完整状态，不能仅改变游标、字色或图片微移。"
+    }
+  ],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "完整摄影呈现织物、设计者或材料在室内的具体关系，品牌与一句用途直接叠置；默认不可只剩抽象装饰、导航或缺少主体的文字。",
+        "material": "摄影须保留柔软织物、褶皱、纤维或空间中的触感和光线，黑白人物和室内色彩是可见的源站开场变体，不以统一塑料质感替代。",
+        "composition": "宏观材质占主要画面，衬线身份位于有控制的空隙，窄导航和短用途保持次级；手机仍保留材质交界和可辨字形。",
+        "role": "默认静止已呈现工作室身份和织物主题，首屏不靠滚动或鼠标才显示主体，后续过程由近距离材料自然带向实际空间。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-opening .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "独立室内空间照片以横向卷轴相邻呈现，窗帘、家具和空间深度可辨，不把同一主图切成多张来增加数量。",
+        "material": "织物处于室内光线与木材、金属之间，保留真实材料反差和细节；不使用统一暗罩掩盖普通照片或欠清晰素材。",
+        "composition": "摄影贯穿视口且边界显露相邻空间的方向，侧边短标签给出当前主题；手机以有足够幅面的单幅空间和直接横滑保持主体。",
+        "role": "原生纵向输入推进横向观看和空间尺度的交接，正向、反向、停止和重复进入均稳定，不用普通统一淡入取代卷轴编排。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-transition .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "竖幅材料或空间细节为索引主图，右侧选择项目与画面有具体对应，不以抽象装饰或孤立文字清单承担主要内容。",
+        "material": "主图需保留织纹、光线和周围结构的材质差异，画面选择带来不同材料观看，不能只变色或在同一照片内小幅取景。",
+        "composition": "白底竖幅主图和轻字索引形成与前段满高卷轴不同的观看比例，手机上下组织清楚，短选择项和主图均在正常路径可到达。",
+        "role": "指针进入、离开、选择和返回实际改变主图，触摸和键盘可得到同一内容；主要材料默认有一项清楚可见，不先要求用户点击。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-middle .visual",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "独立的窗帘、木地板与自然光形成完整室内结果，须使用前段没有承担主构图的新画面，避免重复首图充当结尾。",
+        "material": "透光织物、垂坠厚料和地板接触光影共同保持开场材料主题，细节与明暗有层次，不能以通用纯色邮箱块结束。",
+        "composition": "结尾以有空间深度的摄影和紧凑联系形成完整收束，行动不遮住重要褶皱与光线；手机保留窗、地面及材料相接的结构。",
+        "role": "由近景触感最终回到可居住空间，联系与返回行动直接可用；品牌在末段缩小，不再次重复开场巨大字标或加入无功能空段。",
+        "visibleCharacters": {
+          "desktop": 240,
+          "mobile": 200
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-ending .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": []
+  },
+  "referenceObservation": "Actual source opening cycles through textile, interior and designer photography; final replacement uses a fixed licensed textile opening. This removes decorative autoplay, retains photographic role and must be compared in the prototype.",
+  "prototypeCapture": {
+    "ready": "document.documentElement.dataset.ready==='true' && document.fonts.status==='loaded'",
+    "requireVisibleImages": true,
+    "enterMs": 450,
+    "states": {
+      "opening": 0,
+      "transition": 0.36,
+      "middle": {
+        "selector": "#scene-middle",
+        "offset": 0
+      },
+      "ending": 1
+    },
+    "pointer": {
+      "selector": ".index-options",
+      "scene": "#scene-middle",
+      "axis": "vertical",
+      "settleMs": 450
+    },
+    "initialPointer": {
+      "x": 0.98,
+      "y": 0.02
+    },
+    "settleMs": 450,
+    "deadlineMs": 120000
+  },
+  "content": {
+    "hero-line-1": "Softness,",
+    "hero-line-2": "with substance.",
+    "intro": "Spaces that feel as good as they look.",
+    "spaces-heading": "A feeling, made tangible.",
+    "materials-heading": "It begins with a touch.",
+    "materials-intro": "Considered pairings. Personal spaces.",
+    "contact-heading": "Let’s find your feeling."
+  },
+  "requiredContent": [
+    "hero-line-1",
+    "hero-line-2",
+    "intro",
+    "spaces-heading",
+    "materials-heading",
+    "materials-intro",
+    "contact-heading"
+  ],
+  "approval": {
+    "date": "2026-10-20",
+    "record": "docs/DECISIONS.md"
+  },
+  "revision": "03",
+  "assets": [
+    {
+      "assetId": "woven",
+      "localPath": "assets/owned/woven-spaces-v1/woven.webp",
+      "sha256": "1d211aa8d06fb27b466ff0f3b38a5ec792a9f805dc2796f47ec4155066e7d05a",
+      "role": "opening",
+      "desktopCrop": "Cover at 53% x 50%; keep botanical folds and cinnamon velvet boundary.",
+      "mobileCrop": "Cover at 55% x 50%; retain fibre/fringe and velvet in the lower right.",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated asset; no reference website image used",
+      "license": "Original generated asset for this complete template",
+      "verified": "2026-10-20",
+      "distributionBasis": "Original generated image incorporated into an editable website; not a claim of a real completed client project"
+    },
+    {
+      "assetId": "window-room",
+      "localPath": "assets/owned/woven-spaces-v1/window-room.webp",
+      "sha256": "744d6d9fc781f3f1d3a08067b9f7dc4e36773b9448fc9388bcc41f7c778323f6",
+      "role": "spatial panorama",
+      "desktopCrop": "Wide full-height interior opening the panorama; retain window, drapery, table and chair.",
+      "mobileCrop": "Cover at 53% x 50%; table, curtain and chair remain on the native horizontal journey.",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated asset; no reference website image used",
+      "license": "Original generated asset for this complete template",
+      "verified": "2026-10-20",
+      "distributionBasis": "Original generated image incorporated into an editable website; not a claim of a real completed client project"
+    },
+    {
+      "assetId": "last-light",
+      "localPath": "assets/owned/woven-spaces-v1/last-light.webp",
+      "sha256": "56084017dbafa6f216f6189d94209eaf519a24212d69e40bc83c753250724279",
+      "role": "independent closing",
+      "desktopCrop": "Independent curtain/wood-floor view at 50% x 50%; typography in the dark right material.",
+      "mobileCrop": "Cover at 58% x 50%; all three materials and grounded curtain hems stay visible.",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated asset; no reference website image used",
+      "license": "Original generated asset for this complete template",
+      "verified": "2026-10-20",
+      "distributionBasis": "Original generated image incorporated into an editable website; not a claim of a real completed client project"
+    },
+    {
+      "assetId": "rose-room",
+      "localPath": "assets/owned/woven-spaces-v1/rose-room.webp",
+      "sha256": "c52652f989008ab4c407033b5ae379f096b4a62ecdb0f06d03a869ebdd3ffca0",
+      "role": "second spatial panorama",
+      "desktopCrop": "Portrait second panorama; retain tall window, curtains and seating.",
+      "mobileCrop": "Full viewport portrait; keep the window axis, curtains and pink seat.",
+      "creator": "Muhammet Çelebi",
+      "source": "https://www.pexels.com/photo/a-sofa-standing-by-the-window-with-pink-curtains-22145439/",
+      "license": "https://www.pexels.com/license/",
+      "verified": "2026-10-20",
+      "distributionBasis": "Photography within one complete editable website template; not a standalone stock-photo product. No claim of endorsement or actual client work."
+    },
+    {
+      "assetId": "blue-silk",
+      "localPath": "assets/owned/woven-spaces-v1/blue-silk.webp",
+      "sha256": "b5ad287c2dff43e5efc15f5b4389452d274d2ac18c5b8029a35fe8e9ebac1578",
+      "role": "material index",
+      "desktopCrop": "Portrait crop of blue woven material, 50% x 50%; retain visible weave and folds.",
+      "mobileCrop": "43svh image, 50% x 47%; material texture stays at a useful scale.",
+      "creator": "Marina Leonova",
+      "source": "https://www.pexels.com/photo/blue-fabric-in-close-up-photography-7717495/",
+      "license": "https://www.pexels.com/license/",
+      "verified": "2026-10-20",
+      "distributionBasis": "Photography within one complete editable website template; not a standalone stock-photo product. No claim of endorsement or actual client work."
+    },
+    {
+      "assetId": "at-the-atelier",
+      "localPath": "assets/owned/woven-spaces-v1/at-the-atelier.webp",
+      "sha256": "0a4aabf3f636df5413e95f1c644055abd9624361446119e1f6ceb145ccd1cba2",
+      "role": "material selection index",
+      "desktopCrop": "Portrait at 50% x 50%; material selection, swatches and person; no identity/endorsement claim.",
+      "mobileCrop": "Same selection context in a compact portrait; example photography, not claimed staff.",
+      "creator": "Meike",
+      "source": "https://www.pexels.com/photo/woman-looking-at-a-selection-of-curtains-20257991/",
+      "license": "https://www.pexels.com/license/",
+      "verified": "2026-10-20",
+      "distributionBasis": "Photography within one complete editable website template; not a standalone stock-photo product. No claim of endorsement or actual client work."
+    }
+  ],
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "fonts": [
+    {
+      "id": "instrument-serif",
+      "role": "display-headings"
+    },
+    {
+      "id": "manrope",
+      "role": "labels-and-body"
+    }
+  ],
+  "rendering": {
+    "mode": "dom"
+  },
+  "lockedModules": [],
+  "performance": {
+    "schemaVersion": 1,
+    "mode": "dom",
+    "states": {
+      "opening": 0,
+      "transition": 0,
+      "middle": 0,
+      "ending": 0
+    }
+  },
+  "comparison": {
+    "negativeId": "006"
+  },
+  "style": {
+    "requiredDifferences": [
+      "composition",
+      "typography",
+      "color-media",
+      "rhythm"
+    ]
+  },
+  "controls": [
+    {
+      "selector": ".skip"
+    },
+    {
+      "selector": ".identity a"
+    },
+    {
+      "selector": ".rail a"
+    },
+    {
+      "selector": ".opening-foot a"
+    },
+    {
+      "selector": ".contact-link",
+      "scene": "#scene-ending"
+    },
+    {
+      "selector": ".ending footer a",
+      "scene": "#scene-ending"
+    },
+    {
+      "selector": "[data-view=\"material-silk\"]",
+      "scene": "#scene-middle",
+      "activeCheck": "document.querySelector('[data-view=\"material-silk\"]').getAttribute('aria-pressed')==='true' && document.getElementById('material-silk').classList.contains('is-selected')",
+      "mouseCheck": "document.querySelector('[data-view=\"material-silk\"]').getAttribute('aria-pressed')==='true' && document.getElementById('material-silk').classList.contains('is-selected')",
+      "touchCheck": "document.querySelector('[data-view=\"material-silk\"]').getAttribute('aria-pressed')==='true' && document.getElementById('material-silk').classList.contains('is-selected')"
+    },
+    {
+      "selector": "[data-view=\"material-atelier\"]",
+      "scene": "#scene-middle",
+      "activeCheck": "document.querySelector('[data-view=\"material-atelier\"]').getAttribute('aria-pressed')==='true' && document.getElementById('material-atelier').classList.contains('is-selected')",
+      "mouseCheck": "document.querySelector('[data-view=\"material-atelier\"]').getAttribute('aria-pressed')==='true' && document.getElementById('material-atelier').classList.contains('is-selected')",
+      "touchCheck": "document.querySelector('[data-view=\"material-atelier\"]').getAttribute('aria-pressed')==='true' && document.getElementById('material-atelier').classList.contains('is-selected')"
+    }
+  ],
+  "contentBudget": {
+    "totalCharacters": 900,
+    "paragraphCharacters": 120
+  },
+  "qa": {
+    "images": 6,
+    "fonts": [
+      "Instrument Serif",
+      "Manrope"
+    ],
+    "scenes": [
+      "#scene-opening",
+      "#scene-transition",
+      "#scene-middle",
+      "#scene-ending"
+    ],
+    "clipBounds": [],
+    "composition": {
+      "desktop": "1440×900：织物两种触感与中央字形完整，空间卷轴满高，白底竖图索引与独立窗帘收束各有主构图。",
+      "wide": "2048×912：织物纹理与字形维持比例，卷轴空间足够大，材料索引不拉成浅横图，联系留在厚料暗部。",
+      "tablet": "768×1024：字形不越过材质主体，卷轴两处空间可完整观看，材料与索引并列不拥挤，窗帘与地面完整。",
+      "mobile": "390×844：开场材质交界可辨，卷轴照片上没有多余大标题，材料主图与选择上下组织，联系与地面不重叠。",
+      "narrow": "320×844：两行主标题不横向溢出，空间编号和两项材料选择清楚，结尾保持厚料、白纱、木地面和实际联系。"
+    },
+    "galleries": [
+      {
+        "selector": ".panorama",
+        "scene": "#scene-transition",
+        "itemSelector": ".space",
+        "items": 2
+      }
+    ]
+  }
+}

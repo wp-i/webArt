@@ -1,0 +1,19 @@
+{
+  "url": "https://oryzo.ai/",
+  "evidence": [
+    {
+      "state": "failed-readiness-not-approval",
+      "path": "docs/evidence/redo-v2/2026-10-16/oryzo-20261017-path/diagnostic.jpg",
+      "sha256": "2f995ec4bcd4a9a2095822f8dc7cb46b48e3b60154f1caa78202379afa916d87"
+    }
+  ],
+  "result": "evidence-needed",
+  "failure": "页面未完成加载，不能当作已审查",
+  "diagnostic": {
+    "url": "https://oryzo.ai/",
+    "ready": "interactive",
+    "fonts": "loaded",
+    "text": "MADE FOR MUGS. BUILT FOR TABLES.\nDesigned to lift, insulate, and grip\nin all the right ways. Oryzo makes\nthe simplest moment feel\nconsidered.\nDESIGNED\nBY LUSION,\nTHE\nAWARD-WINNING\nDESIGN STUDIO.\nThe world's most\nunnecessarily\nsophisticated cork coaster.\nPLAY\nISN’T JUST\nA COASTER.\nOryzo isn’t just a\ncoaster. It’s the result\nof unprecedented AI*\nbreakthroughs.\nPowered by AI\n*\nORYZO-1\nTRY TO HOVER HAND\nAI FILLS IN THE GAPS.\nWE SAID HIGH FIVE.\nIT HEARD SIX.\n* ADOBE\nILLUSTRATOR\nSO PORTABLE,\nit's wear",
+    "missing": 17
+  }
+}

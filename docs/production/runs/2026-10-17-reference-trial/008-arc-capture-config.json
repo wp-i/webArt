@@ -1,0 +1,28 @@
+{
+  "url": "https://www.arcprojects.build/",
+  "ready": "document.body.classList.contains('loader-complete') && getComputedStyle(document.querySelector('.loader_wrap')).display==='none' && [...document.images].filter(i=>i.getBoundingClientRect().top<innerHeight&&i.getBoundingClientRect().bottom>0).every(i=>i.complete&&i.naturalWidth>0)",
+  "readyTimeoutMs": 30000,
+  "states": {
+    "opening": 0,
+    "transition": {
+      "selector": ".featured-projects_wrap",
+      "offset": 0.1
+    },
+    "middle": {
+      "selector": ".images_list_wrap",
+      "offset": 0.1
+    },
+    "ending": 1
+  },
+  "pointer": {
+    "selector": ".featured-projects_wrap img",
+    "scene": ".featured-projects_wrap"
+  },
+  "imageRequiredStates": [
+    "opening",
+    "transition",
+    "middle"
+  ],
+  "settleMs": 450,
+  "output": "docs/evidence/redo-v2/2026-10-17/008-arc-reference"
+}

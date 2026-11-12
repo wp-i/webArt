@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "pace-precision-v1",
+  "templateId": "010",
+  "status": "internal-qualified-user-pending",
+  "directory": "renderers/pace-precision-v1",
+  "sourceDirectory": "renderers/pace-precision-v1/source",
+  "sourceSha256": "be63cc3efc3ada19053f19ef3d0d3e7f568d4e367f9b0aeafd8ac3d92740a3de",
+  "planSha256": "2fb34f39a7f668e47afb9b32b0a6ae26bf54b1825393fbe1946500d3be85e02d",
+  "requiredContent": [
+    "brand",
+    "study-label",
+    "explore-label",
+    "hero-title",
+    "hero-note",
+    "mechanism-title",
+    "mechanism-note",
+    "matrix-title",
+    "matrix-note",
+    "spring-title",
+    "spring-note",
+    "release-label",
+    "back-label",
+    "drag-label",
+    "scroll-label",
+    "count-1"
+  ],
+  "manifest": {
+    "path": "renderers/pace-precision-v1/manifest.json",
+    "sha256": "80dfbc5dda393fcedabe1a7aa65c3ff464c8e5db1e86be7a96bdbe9d98866ac1"
+  },
+  "contract": {
+    "path": "renderers/pace-precision-v1/contract.json",
+    "sha256": "e15d07a2d2078ded8d5a43fda329d4cfa8d0a06e13b0d8b49fea2e473bcbb908"
+  },
+  "qualification": {
+    "path": "renderers/pace-precision-v1/qualification.json",
+    "sha256": "0fc514f6d2fab85d3398ea57dda4705a47e74bf6eb6dba01cd28ba1f0f474fbf"
+  },
+  "contentRules": {
+    "path": "renderers/pace-precision-v1/content-rules.json",
+    "sha256": "b029f55d0e9945d03e494fc27ed824f568bc9658834d35bfa54d94e1ae867539"
+  },
+  "limitations": "Current-conversation internal qualification only; user acceptance pending. Replaying this renderer is not a new design or a guarantee of a 95 score.",
+  "deliveryReceipt": {
+    "path": "docs/production/runs/2026-10-16-actual-trial/010-delivery-receipt.json",
+    "sha256": "923553b49a8d060be1d61a0dd6aab14fd7d590423a66a51642d1fce74c6b41fd"
+  }
+}

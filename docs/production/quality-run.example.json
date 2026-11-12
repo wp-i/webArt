@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "id": "REPLACE_WITH_REGISTERED_CANDIDATE_ID",
+  "sourceSha256": "REPLACE_WITH_FINAL_PROTOTYPE_FINGERPRINT",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "calibrationReview": "docs/production/runs/REPLACE/reviewer-calibration.json",
+  "referenceReview": "docs/production/runs/REPLACE/reference-review.json",
+  "prototypeReview": "docs/production/runs/REPLACE/prototype-review.json",
+  "assetPlan": {
+    "heroRoleLocked": false,
+    "replacementCompared": false,
+    "rightsVerified": false,
+    "lowCostIsNotMerit": true,
+    "evidence": []
+  },
+  "exampleOnly": true,
+  "note": "Intentionally incomplete; copying this example cannot pass. Reviews use seven pairwise dimensions, eight loaded final-asset PNG states, retained core signatures and normal/reduced input sequences. No self-awarded total score."
+}

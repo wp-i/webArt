@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "decision": "admit",
+  "finding": "仅批准此次性能修订的精密仪表模块视觉：实际五宽度二十状态保持原 v3 完整表圈、暗金属凹面、七层机械线稿和直接弹性圆盘。重复绕组/开槽改为实例，不降部件细节；单表面材质到纸色过渡保留可识别轴体；实体与线稿的双模型叠画已移除。512显示纹理在实际手机及宽屏仍有清楚横线/点阵。原生正反、拖动、释放及备用状态重新采证。用户认可的是原视觉方向，本次性能检查通过不等于所有设备或用户整体验收。",
+  "files": [
+    {
+      "path": "assets/owned/pace-instrument/v4/model.js",
+      "sha256": "58ec94471bd5c08ddd0d6fa772f7fa9b4ec28a73e16330a51046cb30ff50e752"
+    },
+    {
+      "path": "assets/owned/pace-instrument/v4/studio.js",
+      "sha256": "03926e10cc0d809a1bb7c3f3063a1a3a7822ef18b7e05006df256bf87bee731a"
+    },
+    {
+      "path": "assets/owned/pace-instrument/v4/instrument-scene.js",
+      "sha256": "230d1fd5eedb053dd4a6c249a9956aa6a260d4028a1208ef927e06979e317f38"
+    }
+  ],
+  "evidence": [
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/page/desktop-opening/contact-sheet.jpg",
+      "sha256": "044ddd78e51f77e8e127cd9de16cc66b9c60433687a3285078253b9c62391704",
+      "viewport": "desktop",
+      "state": "opening"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/page/desktop-transition/contact-sheet.jpg",
+      "sha256": "209d71f22a660e110b872109ddc3e9d38707550638539907556175a7afcea56d",
+      "viewport": "desktop",
+      "state": "transition"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/page/desktop-middle/contact-sheet.jpg",
+      "sha256": "d9ed6af00b4101473f42bd23fb0675f345c1bcc778f77736ed74b21d62d39ab1",
+      "viewport": "desktop",
+      "state": "middle"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/page/desktop-ending/contact-sheet.jpg",
+      "sha256": "5f5860622f1c28aadec3fbb757b0e2491f93dedddffcef6436f16cf4725e006c",
+      "viewport": "desktop",
+      "state": "ending"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/page/mobile-opening/contact-sheet.jpg",
+      "sha256": "b47d6425224a97de3cf8c7d2ee10793671b3b0ab457b4d8ec0bfb7e98fcc4b67",
+      "viewport": "mobile",
+      "state": "opening"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/page/mobile-transition/contact-sheet.jpg",
+      "sha256": "531d8adc92cfb92c8df1397a0f6c25a19706ac6e70d894316b213ef0bf9a1626",
+      "viewport": "mobile",
+      "state": "transition"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/page/mobile-middle/contact-sheet.jpg",
+      "sha256": "108b32e2c64620029df0f78d212a70bb80a43910e0d65ce9297c6d5041c81cb0",
+      "viewport": "mobile",
+      "state": "middle"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/page/mobile-ending/contact-sheet.jpg",
+      "sha256": "6082756882c21eccfc7b522b9d2b4c6e76c42d2baffc515df4757f3d2bb0a8e4",
+      "viewport": "mobile",
+      "state": "ending"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-opening.png",
+      "sha256": "643e9d4fec0a13014d2aa79409a329a4cbcaef46348af45215a1fdaa29caa6bd",
+      "viewport": "tablet",
+      "state": "opening"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-transition.png",
+      "sha256": "b3522dd47c78fa49b5e36f714bffb3a030793d29fa6b81cd9c9c99e8554709d7",
+      "viewport": "tablet",
+      "state": "transition"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-middle.png",
+      "sha256": "0f023ac4a70cd35c7c4397400be7dd17bba1b86227b2d8eb1071c8e6c3f152f9",
+      "viewport": "tablet",
+      "state": "middle"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/tablet-responsive-ending.png",
+      "sha256": "7180ea52492950887fb870d0fc10cbe01b3de525bb4c6517728ae0d192805fd4",
+      "viewport": "tablet",
+      "state": "ending"
+    }
+  ],
+  "nativeInputs": {
+    "path": "docs/evidence/redo-v2/2026-10-18/010-performance-final/controls/controls.json",
+    "sha256": "2ae5291ca077b8c05ba0da87bd1d5853c3d303fc1725636c8e8cd327950dbb6d"
+  },
+  "performance": {
+    "path": "docs/evidence/redo-v2/2026-10-18/010-performance-budget-03/result.json",
+    "sha256": "300ac8b723c6c0dba2311d99e18941cd010a56c27dc8a47468ef12c3af4d6910"
+  },
+  "execution": "current-conversation-assisted-review",
+  "independentModelCalls": 0
+}

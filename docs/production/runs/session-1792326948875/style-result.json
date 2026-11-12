@@ -1,0 +1,9 @@
+{
+ "decision":"distinct","nearestId":"001","openingAndAssetBothRepeated":false,
+ "comparisons":[
+  {"dimension":"composition","different":true,"finding":"最接近的是同样采用连续主体的001，但候选以右侧完整圆形仪表和左上短标题建立横向关系，001则把衬线字嵌在贯穿画面的斜向材料层内。"},
+  {"dimension":"typography","different":true,"finding":"候选使用几何无衬线重字和微小技术标注，标题保持紧凑短行；001由高对比衬线与错位字形主导，字形本身与材料轮廓相互交错。"},
+  {"dimension":"color-media","different":true,"finding":"候选的彩色刻度、红波形、蓝点阵和荧光绿操控对象属于精密仪表的实时造型，001则以暖金纤维和矿物黑的材料光线构成摄影语言。"},
+  {"dimension":"rhythm","different":true,"finding":"候选从暗底圆壳拆为浅底装配，再回到点阵和内部弹性对象，状态差异由同一机械主体推进；001通过字章、纤维近景与冷暖揭示推进观看。"}
+ ]
+}

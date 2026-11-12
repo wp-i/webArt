@@ -1,0 +1,344 @@
+{
+  "decision": "reject",
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-63",
+        "candidate-67"
+      ],
+      "finding": "红纱、白衣红线与蓝天丝绒在不同幅面中形成有明确摄影对象的开场，纸色和大衬线字组织前后关系。不同于旧稿的渐变和单图，默认即可辨摄影用途。"
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "below",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-63",
+        "candidate-71",
+        "candidate-80"
+      ],
+      "finding": "摄影的红纱纹理、肤质和白衣细线清楚，衬线与细索引具有层级；但桌面右下的Take a closer look行动进入第三幅摄影和图片说明区域，黑色小字缺乏稳定可读的承载位置。属于原构图内可局部修复的行动位置问题，不能以主图工艺抵消。"
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-63",
+        "candidate-66",
+        "candidate-74",
+        "candidate-90"
+      ],
+      "finding": "三幅作品分别展示红纱近距离、白衣细线全身与蓝天丝绒；三色人物拥有一致的短卷发与脸部身份，听音和持相机姿态真实不同，摄影有具体造型和光线内容。"
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-64",
+        "candidate-65",
+        "candidate-72",
+        "candidate-74",
+        "candidate-88",
+        "candidate-90",
+        "candidate-98",
+        "candidate-99",
+        "candidate-101"
+      ],
+      "finding": "原生正反过程改变摄影的幅面、相邻关系和图字遮叠，最后同三对象重新编排为中心摄影及两幅索引。实际手机触摸推进到收束并反向返回，路径内容可辨；彩色人物从作品观看中转出。"
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "below",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-65",
+        "candidate-81",
+        "candidate-82",
+        "candidate-83",
+        "candidate-86",
+        "candidate-80",
+        "candidate-96"
+      ],
+      "finding": "实际观看条改变选中摄影的近距离取景，复位回到中段原图；但减少动态操作后再原生滚回开场，第三幅仍携带放大裁切，和默认开场不同。应在离开细看构图时恢复开场原裁切，保持正反与重复进入稳定。"
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-66",
+        "candidate-70",
+        "candidate-74",
+        "candidate-90",
+        "candidate-99"
+      ],
+      "finding": "绿光持相机肖像与小尺度联系形成独立、具体的摄影收束，色彩和人物身份保持连贯。没有回用首图、重做大字标或添加工具式空页脚；蓝色听音与橙色观察承担不同人物状态。"
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-4",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-67",
+        "candidate-68",
+        "candidate-69",
+        "candidate-70",
+        "candidate-99",
+        "candidate-101"
+      ],
+      "finding": "手机保留错位摄影、完整作品名、居中细看及较小索引，原生触摸已实际正反。收束中的人物、相机、联系与返回均可见；作品标题及工具与主体之间有清楚留白。"
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "staggered-photographic-world",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "错位摄影与大字前后关系随真实输入推进，并重新组织为细看而非普通三列。",
+      "referenceFrames": [
+        "reference-12",
+        "reference-13",
+        "reference-16"
+      ],
+      "candidateFrames": [
+        "candidate-63",
+        "candidate-64",
+        "candidate-67",
+        "candidate-68",
+        "candidate-98"
+      ]
+    },
+    {
+      "name": "photographic-world-to-detail",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "同一组照片由作品世界交接为中央选中照片、索引与工具的完整观看构图；实际距离操作改变摄影取景，退场裁切仍需局部收尾。",
+      "referenceFrames": [
+        "reference-14",
+        "reference-21",
+        "reference-24"
+      ],
+      "candidateFrames": [
+        "candidate-64",
+        "candidate-65",
+        "candidate-69",
+        "candidate-81",
+        "candidate-82",
+        "candidate-83"
+      ]
+    },
+    {
+      "name": "chromatic-photographer-sequence",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "摄影者成为被看对象，橙、蓝、绿新姿态推进观察、听音与持相机收束；需要额外对齐视口证据检查三幅完整人物布局。",
+      "referenceFrames": [
+        "reference-38",
+        "reference-39",
+        "reference-40",
+        "reference-57",
+        "reference-58",
+        "reference-59"
+      ],
+      "candidateFrames": [
+        "candidate-73",
+        "candidate-74",
+        "candidate-66",
+        "candidate-89",
+        "candidate-90",
+        "candidate-70"
+      ]
+    }
+  ],
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "错位摄影、纸色与字形构成完整默认观看，桌面下方行动位置另列局部问题。",
+      "frames": [
+        "candidate-63"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "摄影真实穿越位置与幅面，新的丝绒观看对象仍清楚。",
+      "frames": [
+        "candidate-64"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "同一摄影进入中心细看与两幅索引，观看工具在画面下缘完整呈现。",
+      "frames": [
+        "candidate-65"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "独立绿光肖像、相机及短联系构成完整结束，不复用首图。",
+      "frames": [
+        "candidate-66"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "错位摄影、纸色与字形构成完整默认观看，桌面下方行动位置另列局部问题。",
+      "frames": [
+        "candidate-67"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "摄影真实穿越位置与幅面，新的丝绒观看对象仍清楚。",
+      "frames": [
+        "candidate-68"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "同一摄影进入中心细看与两幅索引，观看工具在画面下缘完整呈现。",
+      "frames": [
+        "candidate-69"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "独立绿光肖像、相机及短联系构成完整结束，不复用首图。",
+      "frames": [
+        "candidate-70"
+      ]
+    }
+  ],
+  "continuityChecks": [],
+  "motion": [
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "candidate-63",
+        "candidate-64",
+        "candidate-65",
+        "candidate-74",
+        "candidate-66",
+        "candidate-78",
+        "candidate-80",
+        "candidate-98",
+        "candidate-99",
+        "candidate-100",
+        "candidate-101",
+        "candidate-102",
+        "candidate-103"
+      ]
+    },
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "candidate-81",
+        "candidate-82",
+        "candidate-83",
+        "candidate-84",
+        "candidate-85",
+        "candidate-86"
+      ]
+    }
+  ],
+  "nextAction": "local-finish",
+  "fixTasks": [
+    "只调整桌面开场底部行动的位置，让它与第三幅摄影及说明无重叠；保留摄影、字形及主构图。",
+    "离开细看阶段时恢复原取景比例，避免原生反向和减少动态操作将放大裁切带入开场。",
+    "补齐三色肖像各自对齐视口的完整过程，并记录放大后实际指针取景的进入、反向和离开。"
+  ]
+}

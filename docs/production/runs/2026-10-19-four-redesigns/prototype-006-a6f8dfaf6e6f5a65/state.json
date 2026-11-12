@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "006",
+  "identity": "a6f8dfaf6e6f5a65cfedbb54a558dd8e507be59b0456c35dd0448232ce8e265c",
+  "sourceSha256": "975e59f91fa554323ef7aad0ba8f373cc30b24844315db7eeb0747b5e7c202bf",
+  "dependencies": [
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/006-workflow.json",
+      "sha256": "e975a2036089e2bae34659dcaa94912acbb11ebe2078cf0d5780224a3501786a"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/006-plan.json",
+      "sha256": "11b5b44e97a31e61e89bb2a568c13d3c4a8b680d5cccea69d82b2142e434834a"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/006-reference-review.json",
+      "sha256": "fbd82233ed947339668cdfe60267671cc04bed5101d306f739e7771247eb8161"
+    },
+    {
+      "path": "docs/production/runs/2026-10-19-four-redesigns/calibration-review.json",
+      "sha256": "5062704d49c1c462e82777e4a02d5f89dd073ff4f7900f0c537b869b1d114eb3"
+    },
+    {
+      "path": "scripts/capture-production.mjs",
+      "sha256": "af3a84691cafd25f4ce49cb20e7cbcecce2213c40ac092ffb3eb802e93a53acd"
+    },
+    {
+      "path": "scripts/production/native-scroll.mjs",
+      "sha256": "0ef85d5bd7767d0db7fa568622768e147f448c67eca3c781e4d46557d04326e0"
+    },
+    {
+      "path": "scripts/production/visual-contract.mjs",
+      "sha256": "4128dc4abb0eac8d3245e4ec893b9f0a451208dbaa142059d5ad700f994d5ed6"
+    },
+    {
+      "path": "scripts/production/evidence.mjs",
+      "sha256": "63133a079c4cceb0f0fdf9fbfcb4239be51a8c436b47a383d5ad397592dfb6e6"
+    },
+    {
+      "path": "docs/production/prompts/REVIEW_PAIR.md",
+      "sha256": "6010b0ee21174984b4f4b7aab4a9a1972e03baba3be5452e5c84c83c8ca90281"
+    }
+  ],
+  "createdAt": "2026-10-20T07:01:32.527Z",
+  "stages": [],
+  "captures": [],
+  "reviews": [],
+  "modelCodeGenerationCalls": 0,
+  "packageAuthorized": false,
+  "attempt": 0,
+  "status": "failed",
+  "updatedAt": "2026-10-20T07:02:19.224Z",
+  "failure": {
+    "code": "stage-failed",
+    "message": "本地检查失败",
+    "diagnostic": "{\"result\":\"failed\",\"states\":7,\"motion\":2,\"failure\":\"mobile/middle: 当前视口文字超过固定预算或缺少实际测量\"}\n"
+  },
+  "nextAction": "repair-recorded-failure"
+}

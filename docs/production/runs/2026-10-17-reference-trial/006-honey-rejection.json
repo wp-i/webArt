@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 2,
+  "phase": "reference",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "reviewer": {
+    "id": "current-task-art-director-2026-10-16",
+    "mode": "blind-evidence-only",
+    "implementationContextIncluded": false,
+    "calibrationRunId": "2026-10-16-current-task-calibration",
+    "inputScope": "benchmark+negative+reference"
+  },
+  "limitations": "Current-conversation assisted comparison of actual source states and native process. The reviewer retains conversation context; no independent API review, score or user acceptance is claimed.",
+  "decision": "reject",
+  "vetoes": [
+    "pointer-finish",
+    "whole-page-resolution",
+    "mobile-composition"
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "ab11ff3d4c61da76e27d51763864c1094593692c9c8a75280bca5477cd5f384c"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1247,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "5181fa9287630e5bddfeab4a44bd41481d7f78209e9d89f469c65e047ab322b1"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2773,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "28ee58f6b9b7504dbf3fc4e1eba57c5c4bfa200693bc380e0773dd961ed3d083"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 6936,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "4e72b258b9a5170cbb8a64a7c7333c929f25fb0e02bb8486bf7f135a4fda9924"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-opening/contact-sheet.jpg",
+          "sha256": "aa0b55d0fc8d1f93757592b9e0bf0a1082ada67ab04460cd278e456fb2458557"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1345,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-transition/contact-sheet.jpg",
+          "sha256": "095faaded3fb072ebaaa8ebedcad3a10a5754f2d9be08bfac82bd3d6fef2a207"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2992,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-middle/contact-sheet.jpg",
+          "sha256": "b98b57e4c4e9cfdab37612096324b77d088eda770f286fb2018e7aafde541413"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 7484,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "87625343f6f358aaee122798dc6c83116f48002147365a72cac00c347a0721a4"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "4d374a3fe63fd4752c7b772f3a56623030f790209b7d5f7e2aa8ffa1bb23a1cd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "7e916dcf94036aff6d05f7701c8c0f7d13fc0bd3c759b92efe56c9f5ca148195"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "b62209667049d5bccf46dda90e0ead3fd3d978d857fccbdd26a2ddaaf545bb82"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "75a9ddd8dc92989b00178ccc289b1671b1ae5472d935425b088814ce8fa91121"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "4e72b258b9a5170cbb8a64a7c7333c929f25fb0e02bb8486bf7f135a4fda9924"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "547da4ba284b39ac6a35161c3615bb07213911d34cd19a76ca05e515f0db4574"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "dd2528abd2f51da835b2fed65d375b10f855e2886c44b71e69740b85407a2daa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "9afd7b97731b029a2918eab599f4f30288eb295d0274eedc31b8768d2c2b2601"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "c39f254d996958524521e7ca41d6e06ddfadf2eccef0fa66084bc806dd7dbe67"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-reduced/contact-sheet.jpg",
+          "sha256": "571955270480819ae7ac20c2738342b5fcac89f3efd8d03ac91fc70c81d26e4d"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": false,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "dd87fa7531088151934f94f2e81aa36f613be52f687e6ee976fa6309d277fc8d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "3e6808e219ede8973a46b44b92dcc7900572cde8f81f0af14aca9ce715373510"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "c9fd758c0eb37e8ddf8e37e36d3be32733591334538b61f5285873a7fb72f8b6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "3d4f582d8b1dd95b4bfc4d381f563599c440bf51634a11fed3b5a839ef2f1131"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-reduced/contact-sheet.jpg",
+          "sha256": "571955270480819ae7ac20c2738342b5fcac89f3efd8d03ac91fc70c81d26e4d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "46f07deb8a2f1c0f5d8b704eaa0e12544ee4e3d7042e2e921442c8d07d0b11df"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "dd99773b4f4033721d38497be66f0fd3f8675277b7efb328acf2cd2bddda98d4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "cf6b433e7cf5d2ee06b39d13317bdcc2ff5179cb0421cbf78cc64d29d5ce6309"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "5f34167f4fa21fc55205a30287aed214a1cd11268a27980826f10a47bd5202c9"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "87625343f6f358aaee122798dc6c83116f48002147365a72cac00c347a0721a4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-scroll-5/contact-sheet.jpg",
+          "sha256": "a6b364a33ccdb1fa133057167f33c708e92754fbfbf2feebf9821aec6ade6dcd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "0fdf7b1fdd873f68ac0a3e899329c6d95b8a7ee57f4e87051e2d9129b4c0a715"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-scroll-7/contact-sheet.jpg",
+          "sha256": "fb01069532af993ac08a48e0a5117fc734b15535bf0c6b9635b788287f69ff3d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "eca66008f167da258366599d48b0883fc15c5085dc52a564aed881099631543f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-reduced/contact-sheet.jpg",
+          "sha256": "146e3d65314bbb1757d1a5900ea703a8b08860c92deecfba970aac39198c5ff0"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "混合粗细字标、杏粉底与完整室内摄影形成明确的尺度和色彩关系，开场的品牌/媒体工艺可与001比较。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "ab11ff3d4c61da76e27d51763864c1094593692c9c8a75280bca5477cd5f384c"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "厚重定制字形、纤细手写和衬线说明在开场具有精确反差，直接作用于页面的身份，不是普通标题卡片。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "ab11ff3d4c61da76e27d51763864c1094593692c9c8a75280bca5477cd5f384c"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "室内色彩、灯具、织物和艺术品具有经过挑选的细节密度，主体构图特定；旧006库图不能自动继承这一评价。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "28ee58f6b9b7504dbf3fc4e1eba57c5c4bfa200693bc380e0773dd961ed3d083"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "巨幅粉色手写字在深棕段中横向穿过，之后摄影网格接回杏粉，原生正反序列显示明确的尺度交接。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "5181fa9287630e5bddfeab4a44bd41481d7f78209e9d89f469c65e047ab322b1"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "below",
+      "finding": "本次真实指针跨图及离开仅观察到很小的图片比例变化和游标反馈，没有001按住/移动时对材料观看的实质改变，不能靠滚动字形补偿。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "ab11ff3d4c61da76e27d51763864c1094593692c9c8a75280bca5477cd5f384c"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "below",
+      "finding": "桌面末段保留巨大品牌图形，但手机最后一屏主要是导航、邮箱、地址及版权，完整主体图形在前一位置；与001手机最终材质场景有明显差距。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+          "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "87625343f6f358aaee122798dc6c83116f48002147365a72cac00c347a0721a4"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "below",
+      "finding": "手机开场与摄影裁切成立，但手机终点的空间分配偏向长工具列表，未保持首屏的视觉主次和收束密度，不能整体记为与001相当。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0-15.png",
+          "sha256": "3a1034489041e3085fcae344f3cbbce8c121b7f5fc50d97f35209b02c9ef6d81"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/006-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "87625343f6f358aaee122798dc6c83116f48002147365a72cac00c347a0721a4"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [],
+  "nextAction": "replace-direction",
+  "fixTasks": []
+}

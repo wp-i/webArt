@@ -1,0 +1,10 @@
+{
+  "tests": 99,
+  "passed": 99,
+  "failed": 0,
+  "command": "node --test --test-reporter=spec <all scripts/*.test.mjs>",
+  "logSha256": "703219735f44ebff1d2ee808f243765778165a8297b25a7f2cebabed95ee41f7",
+  "galleryPaintedImages": 36,
+  "galleryViewports": 5,
+  "nativeDownloads": 6
+}

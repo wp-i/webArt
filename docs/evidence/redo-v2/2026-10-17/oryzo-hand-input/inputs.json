@@ -1,0 +1,64 @@
+{
+  "url": "https://oryzo.ai/",
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 6016,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input/desktop-before.jpg",
+          "sha256": "75875e6cc6760bdcb32e9dda0f4a3337797c9fe320cb9f50d016a8ba4cbeee0d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 5969,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input/mobile-before.jpg",
+          "sha256": "209d64847663cc04d7edd0b31a08ec3494186e8942826a627df0e109a0108304"
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "viewport": "desktop",
+      "input": "palm",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input/desktop-palm.jpg",
+      "sha256": "53dddbfd55a90962bb4ebfd104d3bffb06bdd81c8aff4ca3c70a244bc4773316"
+    },
+    {
+      "viewport": "desktop",
+      "input": "coaster",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input/desktop-coaster.jpg",
+      "sha256": "c727702eb02cc44422353f090fc51d046aafd5027c988df552f4b9cd514b9f8b"
+    },
+    {
+      "viewport": "desktop",
+      "input": "reverse",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input/desktop-reverse.jpg",
+      "sha256": "72a1963334998b966d6471827815d812cd5de5924ce86f3357c62e6d50e08a1e"
+    },
+    {
+      "viewport": "desktop",
+      "input": "leave",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input/desktop-leave.jpg",
+      "sha256": "bb993eda8da049d90b3a955be7012b17489f4d9c25bf768d9a1c462b879dc43b"
+    },
+    {
+      "viewport": "mobile",
+      "input": "real-touch-release",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input/mobile-touch.jpg",
+      "sha256": "45bf92742e69744aac4e185a909334892062fdc2467db238c4ce3660b7323530"
+    }
+  ],
+  "result": "observed-not-admitted"
+}

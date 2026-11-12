@@ -1,0 +1,23 @@
+{
+  "id": "008",
+  "status": "material-required",
+  "blocker": "Igloo实际参考门已通过，但Glacial素材v1及一次有界修订v2实图均拒绝，当前素材候选已停止；尚无可保留四个角色的成熟替换资产。",
+  "nextAction": "不继续第三轮LLM造型/shader修补。取得角色完整的成熟资产并重新实际素材审查，或另行单母版准入；合格素材与试片前不执行完整生产、打包和首页替换。",
+  "referenceReview": "docs/production/runs/igloo-reference-20261029-02/reference-review.json",
+  "calibrationReview": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+  "referencePlan": "docs/production/runs/2026-10-19-four-redesigns/008-glacial-reference-plan-20261029-02.json",
+  "referenceGate": "docs/production/runs/igloo-reference-20261029-02/reference-gate.json",
+  "materialStop": "docs/production/runs/2026-10-19-four-redesigns/008-glacial-material-stop-20261030.json",
+  "materialRejections": [
+    "docs/assets/008-glacial-material-rejection-01.json",
+    "docs/assets/008-glacial-material-rejection-02.json"
+  ],
+  "readinessRecord": "docs/assets/008-glacial-mature-asset-check-20261029.json",
+  "latestBoundedScreen": "docs/production/runs/2026-10-19-four-redesigns/008-architecture-screen-20261031.json",
+  "previousRejectedReferences": {
+    "rejectionReport": "docs/production/runs/2026-10-17-reference-trial/008-arc-rejection.json",
+    "readinessRecord": "docs/production/runs/2026-10-18-reference-preflight/008-anne-rejection.json"
+  },
+  "fullImplementationAuthorized": false,
+  "packageAuthorized": false
+}

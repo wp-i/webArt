@@ -1,0 +1,106 @@
+{
+  "ready": "document.fonts.status==='loaded' && window.__webartReady===true && window.__webartRendering==='ready' && window.__webartFrames>2",
+  "settleMs": 500,
+  "states": {
+    "opening": 0,
+    "transition": 0.3333333333333333,
+    "middle": 0.6666666666666666,
+    "ending": 1
+  },
+  "pointer": {
+    "selector": "#puck",
+    "scene": "#scene-ending",
+    "drag": true,
+    "settleMs": 1400
+  },
+  "url": "http://127.0.0.1:4322/",
+  "manifest": ".webart/prototypes/010-precision-trial-20261016/manifest.json",
+  "slug": "pace",
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "精细仪表是开场的唯一主视觉，保留可辨认的部件和显示面，不能换成无身份的球体。",
+        "material": "金属、玻璃与显示面通过真实光照产生层次，不用普通灰色块或统一描边代替材质。",
+        "composition": "标题与仪表形成明确的主次及交叠关系，桌面与手机均先看到主体而不是大段占位文字。",
+        "role": "开场建立仪表身份并通过指针改变观察角度，不能只用漂浮背景或按钮缩放证明互动。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "同一仪表沿轴线展开，部件结构仍可识别，不能切换成无关的线框或另一件普通几何。",
+        "material": "由实体材质交接到精确轮廓，部件深度和结构依然清晰，不因切换而失去空间层次。",
+        "composition": "展开轴线在新底色中形成独立构图与留白，不能重复开场的标题位置和同一观看节奏。",
+        "role": "滚动推动部件展开和材质交接，正向与反向均连续，转换服务于同一主体的观看。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "仪表显示面内部出现点阵变化，外部壳体持续保留，不能只剩一块脱离主体的点阵平面。",
+        "material": "点阵与显示面具有可辨认的层级和发光关系，壳体仍保留精细材质而非普通灰色代理。",
+        "composition": "点阵展示形成与开场不同的近景构图，短文字仅作参考，不用大段说明占据主画面。",
+        "role": "输入改变显示面的波形或点阵组织，让主视觉承担信息反馈，不以统一淡入代替编排。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "同一仪表内部保留可直接拖动的弹性对象，不能把仪表全部删去并换成圆点或邮箱页脚。",
+        "material": "弹性对象与仪表有完整的颜色、体积和接触关系，材质完成度必须与开场保持一致。",
+        "composition": "结尾以独立且完整的视觉场景收束，并保留简短原生行动，不能退化为通用按钮列表。",
+        "role": "拖动、放开、反向与停止均有清晰的弹性反馈，主体身份贯穿收束而不只是功能成功。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": [
+      {
+        "id": "instrument-identity",
+        "signature": "wave-to-stagger-display",
+        "states": [
+          "opening",
+          "transition",
+          "middle",
+          "ending"
+        ],
+        "identity": "从彩色刻度仪表到可辨认内部部件的精密机械，再回到仪表中的点阵与弹性对象，装配与外壳身份沿整条路径连续存在。"
+      }
+    ]
+  },
+  "output": "docs/evidence/redo-v2/2026-10-16/010-page-02"
+}

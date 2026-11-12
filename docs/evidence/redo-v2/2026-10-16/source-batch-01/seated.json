@@ -1,0 +1,102 @@
+{
+  "label": "seated",
+  "url": "https://seated.nyc/",
+  "evidence": [
+    {
+      "state": "opening",
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-01/seated-opening.jpg",
+      "sha256": "434d7fd0e2157af3fd8fb9164838f992ce5ee393dac370af476083fea529797b"
+    },
+    {
+      "state": "middle",
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-01/seated-middle.jpg",
+      "sha256": "10f3e7836d88cf6863a94b6b32f6bd801af1429af63bb287982519d22630bc5d"
+    },
+    {
+      "state": "ending",
+      "path": "docs/evidence/redo-v2/2026-10-16/source-batch-01/seated-ending.jpg",
+      "sha256": "5389d32aff6d834bafed44a3dea905566904b4fd1cda6b53a9cd00bc8eff6734"
+    }
+  ],
+  "metadata": {
+    "url": "https://seated.nyc/",
+    "height": 900,
+    "text": "S\nE\nA\nT\nE\nD\nCONNECT, \nMENU\n\nSEATED is a creative culinary factory that crafts one-of-a-kind experiences around the world. We bridge the gap between you and your guests, transforming your values and philosophy into edible storytelling. Our team of passionate artisans curates memorable personal, corporate, and brand events — cultivating deeper emotional resonance through all five senses.\n\n50+ COUNTRIES VISITED\n12+ YEARS OF PROVIDING TRUE HOSPITALITY\n100+ COLLABORATIONS\nS\nE\nA\nT\nE\nD\nSERVICES\nCOCKTAILS\nVERSO GALLERY, NYC 2024\nEXPERIENCES\nDINING\nGETAWAYS\nWORKSHOPS\n\n\"THEIR COCKTAILS ARE BRILLIANTLY CRAFTED - CREATIVE, BALANCED, AND DOWNRIGHT DELICIOUS\"\n- AMAURI, CEO OF VERSO\n\nCLASSIC & SIGNATURE COCKTAILS / PREMIUM ICE & INGREDIENTS / CURATED GLASSWARE / PROFESSIONAL BARTENDERS / ELEGANT PRESENTATION / WARM HOSPITALITY\n\nPROJECTS\nZEMYA WINE BAR\nBULGARIA 2023\nAMORY’S BDAY DINNER\nTULESTE GALLERY & NYDW\nMEADOWSWEET RETREAT\nPASTRY BAR\nVERSO GALLERY\nDINNER IN THE VINEYARDS\nBACARDI LEGACY\nLEGO BAR\nMARGARITA EXPRESS\nSEATED STUDIO DINNER\nANGELA BROWN & RUBELLI\nORCHARD BAR\nMARTINI\nLET’S COOK TOGETHER!\nCOCKTAILS \nEXPERIENCES \nDINING \nGETAWAYS \nWORKSHOP\n\nWE AREN’T AFRAID OF CHALLENGES BUT PREFER A DETAILED PLAN, PAIRED WITH A CUSTOM BUDGET AND SEAMLESS EXECUTION, ENSURING YOUR SATISFACTION\n\nSUBMIT\n@SEATED.NYC\nBESEATEDNYC@GMAIL.COM\nPRIVACY POLICY\n\n@2025 SEATED\n\nCONSIDER IT DONE!\n\nAND NOW CHECK YOUR EMAIL,\nWE ARE ALREADY THERE ;)\n\nBACK HOME\n@SEATED.NYC\nBESEATEDNYC@GMAIL.COM\nPRIVACY POLICY\n\n@2025 SEATED",
+    "headings": [
+      {
+        "text": "SERVICES",
+        "parent": "services section",
+        "tag": "SECTION"
+      },
+      {
+        "text": "PROJECTS",
+        "parent": "services section",
+        "tag": "SECTION"
+      },
+      {
+        "text": "LET’S COOK TOGETHER!",
+        "parent": "cook-together__content",
+        "tag": "DIV"
+      },
+      {
+        "text": "CONSIDER IT DONE!",
+        "parent": "cook-together__content",
+        "tag": "DIV"
+      }
+    ],
+    "scenes": [
+      {
+        "tag": "MAIN",
+        "id": "main",
+        "class": "page",
+        "top": 0,
+        "height": 900
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "class": "services section",
+        "top": 900,
+        "height": 900
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "class": "services section",
+        "top": 900,
+        "height": 900
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "class": "cook-together cook-together--black section",
+        "top": 900,
+        "height": 900
+      },
+      {
+        "tag": "SECTION",
+        "id": "",
+        "class": "cook-together cook-together--white hidden-section",
+        "top": 900,
+        "height": 900
+      },
+      {
+        "tag": "FOOTER",
+        "id": "",
+        "class": "footer",
+        "top": 900,
+        "height": 0
+      }
+    ]
+  },
+  "inventory": {
+    "images": 33,
+    "videos": [],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": false
+  },
+  "result": "scouted-not-admitted"
+}

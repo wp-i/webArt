@@ -10,6 +10,38 @@ dist/
 /docs/evidence/**/*.png
 /docs/evidence/**/*.jpg
 !/docs/evidence/**/contact-sheet.jpg
+# Contact sheets from third-party reference captures stay local.
+# Keep contact sheets for the project's own templates, prototypes and test pages.
+/docs/evidence/redo-v2/**/contact-sheet.jpg
+!/docs/evidence/redo-v2/007-prototype-*/**/contact-sheet.jpg
+!/docs/evidence/redo-v2/009-prototype-*/**/contact-sheet.jpg
+!/docs/evidence/redo-v2/010-prototype-*/**/contact-sheet.jpg
+!/docs/evidence/redo-v2/2026-10-16/010-page-*/**/contact-sheet.jpg
+!/docs/evidence/redo-v2/2026-10-18/010-performance-final/**/contact-sheet.jpg
+!/docs/evidence/redo-v2/2026-10-21/009-no-script-actions-01/**/contact-sheet.jpg
+!/docs/evidence/redo-v2/static-pipeline/**/contact-sheet.jpg
+/docs/evidence/production/**/*-reference*/**/contact-sheet.jpg
+# Exact viewport evidence consumed by shared core admission/rejection gates.
+# These compact JPEGs are required inputs, not optional full-page captures.
+!/docs/evidence/redo-v2/2026-10-16/010-core-03/*.jpg
+!/docs/evidence/redo-v2/2026-10-17/007-core-01/*.jpg
+!/docs/evidence/redo-v2/2026-10-17/007-core-02/*.jpg
+!/docs/evidence/redo-v2/2026-10-17/007-core-03/*.jpg
+# Frozen renderer qualification consumes these exact existing proof families.
+# Keep first-party proof available alongside the private reference inputs.
+!/docs/evidence/quality-calibration/*.png
+!/docs/evidence/redo-v2/2026-10-16/010-full-qa-04/*-responsive-*.png
+!/docs/evidence/redo-v2/2026-10-16/010-full-qa-04/controls/*.jpg
+!/docs/evidence/redo-v2/2026-10-16/010-full-qa-04/rendering/*.jpg
+!/docs/evidence/redo-v2/2026-10-18/010-performance-final/full-qa/*-responsive-*.png
+!/docs/evidence/redo-v2/2026-10-18/010-performance-final/controls/*.jpg
+!/docs/evidence/redo-v2/2026-10-18/010-performance-final/rendering/*.jpg
+# Source-bound full-QA rejection and the newly registered woven renderer.
+# Both are executable gate inputs, including when validating older renderers.
+!/docs/evidence/production/api-20261020072406114-a971b81a/006-full-qa-attempt-03/*-responsive-*.png
+!/docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/*-responsive-*.png
+!/docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/controls/*.jpg
+!/docs/evidence/production/api-20261020121901603-234fa897/006-full-qa/galleries/*.jpg
 /docs/evidence/**/*.cpuprofile
 *.log
 *.tmp
@@ -26,3 +58,29 @@ Thumbs.db
 auth.json
 cookies.json
 storage-state.json
+
+# Retain the complete responsive proof for the actual 009 full-QA rejection.
+!docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02/*-responsive-*.png
+# Complete state proof retained for the actual 009 controls-only rejection.
+!docs/evidence/production/api-20261021154209032-73c5cc67/009-full-qa-attempt-03/*-responsive-*.png
+# Source-bound final proof for the registered editorial renderer, including ranges.
+!docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/*-responsive-*.png
+!docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/controls/**/*.jpg
+# First-party Glacial prototype rejection proof, consumed by the asset gate.
+!/docs/evidence/redo-v2/2026-10-29/008-glacial-material-01/*.jpg
+!/docs/evidence/redo-v2/2026-10-29/008-glacial-material-03/*.jpg
+
+# Private review queues and source captures. Keep the project review records.
+/docs/production/runs/**/review-queue/
+/docs/production/runs/**/cli-review/**/*.jpg
+/docs/production/runs/**/cli-review/**/*.jpeg
+/docs/production/runs/**/cli-review/**/*.png
+/docs/production/runs/**/cli-review/**/*.webp
+/docs/production/runs/**/cli-review/**/private-source-map.json
+/docs/production/runs/2026-10-19-four-redesigns/full-path-board-*.jpg
+
+# Unused stock masters and comparison images stay with the local research.
+/assets/candidates/kitchen-film/klaus-nielsen-pasta-6281229.mp4
+/assets/candidates/glass-coherence/*.jpg
+/assets/candidates/woven-20261020/*.jpg
+/assets/owned/editorial-portraits-v1/pexels-*.jpg

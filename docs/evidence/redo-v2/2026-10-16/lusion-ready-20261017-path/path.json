@@ -1,0 +1,258 @@
+{
+  "url": "https://lusion.co/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/lusion-ready-20261017-path/opening.jpg",
+      "sha256": "09892d04425d0b05445e4b412630de1a3491706c4facd9afacaac7f92ef785c5"
+    },
+    {
+      "state": "early",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/lusion-ready-20261017-path/early.jpg",
+      "sha256": "0bf20b8a8cf4d21758808f7663ba67d1d6c13637413212b6c7e6b524869af70d"
+    },
+    {
+      "state": "middle",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/lusion-ready-20261017-path/middle.jpg",
+      "sha256": "b5198448a10464bb68ce68416b0d306cc75bd75d4f6bf8b9a66d2415716a602c"
+    },
+    {
+      "state": "late",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/lusion-ready-20261017-path/late.jpg",
+      "sha256": "73877e6fb5defd5432cf3ed4c703218870c1eed901a26d297d43e93f31c73ca2"
+    },
+    {
+      "state": "ending",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/lusion-ready-20261017-path/ending.jpg",
+      "sha256": "6bdb3c6645d9f0a2d517bf15cc3e01ff8b4fed1173a4fe62d54da1deaa0be339"
+    }
+  ],
+  "metadata": {
+    "height": 900,
+    "headings": [
+      {
+        "text": "Subscribe to\nour newsletter",
+        "tag": "H3",
+        "class": "",
+        "parent": "",
+        "top": 528
+      },
+      {
+        "text": "We create 3D visual storytelling\nand interactive web experiences\nthat help brands stand out",
+        "tag": "H1",
+        "class": "",
+        "parent": "section",
+        "top": 50
+      },
+      {
+        "text": "Bold Ideas, Brought to Life",
+        "tag": "H4",
+        "class": "",
+        "parent": "section",
+        "top": 1094
+      },
+      {
+        "text": "We combine design, motion, 3D, and development to create digital experiences that feel visually striking and technically seamless. From campaign launches to imm",
+        "tag": "H2",
+        "class": "",
+        "parent": "",
+        "top": 1484
+      },
+      {
+        "text": "Featured Work",
+        "tag": "H4",
+        "class": "",
+        "parent": "",
+        "top": 3483
+      }
+    ],
+    "sections": [],
+    "controls": [
+      {
+        "tag": "BUTTON",
+        "text": "LET'S TALK",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "MENU\nCLOSE",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "HOME\nHOME",
+        "class": "header-menu-link --active"
+      },
+      {
+        "tag": "A",
+        "text": "ABOUT US\nABOUT US",
+        "class": "header-menu-link"
+      },
+      {
+        "tag": "A",
+        "text": "PROJECTS\nPROJECTS",
+        "class": "header-menu-link"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "CONTACT\nCONTACT",
+        "class": "header-menu-link"
+      },
+      {
+        "tag": "A",
+        "text": "LABS\nLABS",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "OUR APPROACH",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "CONCEPT • WEB • DESIGN • DEVELOPMENT • 3D • A",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "CONCEPT • WEB • DESIGN • DEVELOPMENT • 3D • A",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "WEB • DESIGN • DEVELOPMENT • 3D\nD\nD\nD\nD\ne\ne\ne",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "WEB • DESIGN • DEVELOPMENT • 3D • ANIMATION\nO",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "CONCEPT • WEB • DESIGN • DEVELOPMENT • 3D • A",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "CONCEPT • 3D ILLUSTRATION • MOGRAPH • VIDEO\nP",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "WEB • DESIGN • DEVELOPMENT • 3D\nS\nS\nS\nS\ny\ny\ny",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "WEB • DESIGN • DEVELOPMENT • 3D\nM\nM\nM\nM\ne\ne\ne",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "WEB • DESIGN • DEVELOPMENT • 3D • WEB3\nS\nS\nS\n",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "WEB • DESIGN • DEVELOPMENT • 3D\nD\nD\nD\nD\nD\nD\nD",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "CONCEPT • WEB • GAME DESIGN • 3D\nC\nC\nC\nC\nh\nh\n",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "AR • DEVELOPMENT • 3D\nS\nS\nS\nS\no\no\no\no\nd\nd\nd\nd",
+        "class": "project-item project-type-website"
+      },
+      {
+        "tag": "A",
+        "text": "SEE ALL PROJECTS",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "Suite 2\n9 Marsh Street\nBristol, BS1 4AA\nUnite",
+        "class": ""
+      }
+    ]
+  },
+  "inventory": {
+    "images": 0,
+    "videos": [],
+    "canvases": [
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "top": 0,
+          "right": 1440,
+          "bottom": 900,
+          "left": 0
+        },
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 1052.8125,
+          "y": 50,
+          "width": 44.796875,
+          "height": 44.796875,
+          "top": 50,
+          "right": 1097.609375,
+          "bottom": 94.796875,
+          "left": 1052.8125
+        },
+        "width": 45,
+        "height": 45
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "width": 1442,
+        "height": 902
+      }
+    ],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [
+      {
+        "src": "https://player.vimeo.com/video/761102167?title=0&byline=0&controls=0&app_id=122963",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      }
+    ],
+    "manualRenderReviewRequired": true
+  },
+  "result": "scouted-not-admitted"
+}

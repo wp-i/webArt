@@ -1,0 +1,1179 @@
+{
+  "schemaVersion": 2,
+  "phase": "reference",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "sourceSha256": null,
+  "reviewer": {
+    "id": "codex-cli:0.164.0-alpha.11.1:default-evidence-v1",
+    "mode": "evidence-only-fresh-codex-cli",
+    "kind": "fresh-codex-cli",
+    "independent": false,
+    "contextIsolated": true,
+    "contextIsolationScope": "fresh conversation; implementation history not supplied",
+    "implementationContextIncluded": false,
+    "backendIndependenceEstablished": false,
+    "requestedModel": null,
+    "actualModel": null,
+    "modelIdentitySource": null,
+    "inputScope": "benchmark+negative+reference",
+    "calibrationRunId": "2026-10-25-cli-calibration"
+  },
+  "decision": "reject",
+  "vetoes": [
+    "退回静态计划修正最终组合：桌面和手机真实有限终点均须完整展示产品顶部、玻璃显示区与毛毡套口，保留视觉收束。",
+    "提高接口暗部与材质细节的可辨性，并使字形遮叠、标签和主体观看关系达到基准的工艺精度。",
+    "补齐色板键盘可达及可见反馈；保留已经证实的金属选择往返和减少动态连续性。",
+    "重审时提供完整六稿人评校准组，以及首次和重复进入、场景交接附近的真实连续位置；当前运动布尔值仅表示相应输入过程有证据，不表示签名质量通过。",
+    "核心视觉特征丢失，不能用总评通过抵消",
+    "核心失败退回静态计划，不进行局部收尾",
+    "存在低于基准的品质维度",
+    "修改静态计划和试片后重新比较，不允许平均补偿",
+    "四状态主体、材质、构图、作用或身份关系未完整保留",
+    "修订已锁定的视觉合同或补齐实际状态证据，不能用局部润色抵消核心失败"
+  ],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 4617,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 900,
+      "layout": {
+        "y": 900,
+        "documentHeight": 4617,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1800,
+      "layout": {
+        "y": 1800,
+        "documentHeight": 4617,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-middle/contact-sheet.jpg",
+          "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 3732,
+      "layout": {
+        "y": 3732,
+        "documentHeight": 4617,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-ending/contact-sheet.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 5178,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-opening/contact-sheet.jpg",
+          "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 844,
+      "layout": {
+        "y": 844,
+        "documentHeight": 5178,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-transition/contact-sheet.jpg",
+          "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2532,
+      "layout": {
+        "y": 2532,
+        "documentHeight": 5178,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-middle/contact-sheet.jpg",
+          "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4334,
+      "layout": {
+        "y": 4334,
+        "documentHeight": 5178,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-ending/contact-sheet.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "基准以巨幅纤维薄片和错位衬线标题建立观看权威；母版以斜置金属主体遮叠宽体标题，主体明确且尺度有力。邻近反例仅以文案和手机界面组织开场，低于此基准。输入未提供完整六稿校准组，不能声称完成六稿人评匹配。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-4"
+      ],
+      "candidateFrames": [
+        "reference-12",
+        "reference-16"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-opening/contact-sheet.jpg",
+          "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "below",
+      "finding": "基准的薄边、透光纤维和标题细粗变化共同服务材料主题；母版金属与玻璃可辨，但接口黑部细节较弱，标签及描边标题更偏产品说明，未达到基准图像与字形相互塑造的精度。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-12",
+        "reference-13",
+        "reference-14"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-middle/contact-sheet.jpg",
+          "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "基准以不规则纤维边缘和悬挂结构形成特定对象；母版保留显示面板、真实接口、品牌位置及毛毡缝线，具有明确物件身份，明显超过邻近反例以通用界面卡片承担主体的素材特异性。",
+      "benchmarkFrames": [
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "reference-13",
+        "reference-14",
+        "reference-29"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-middle/contact-sheet.jpg",
+          "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-3/contact-sheet.jpg",
+          "sha256": "28a65dcc1f95f09734a6c169a5d8d4c78b8b8670b85753ee75eed2cee2ae9218"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "below",
+      "finding": "基准呈现整体、章节停顿、边缘观察和内部空间收束的节奏；母版连续位置可见整体转接口、正面、套入配件，但主要完整场景之间的细密交接仍未呈现，真实终点还破坏了组合完整性，不能由顺序存在认定同等编排。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-1",
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "reference-64",
+        "reference-65",
+        "reference-66",
+        "reference-67",
+        "reference-68",
+        "reference-71"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.33-2.png",
+          "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-opening.jpg",
+          "sha256": "d97f634a6a7a711ce94f42641dd3471f954f82d172c842b677a77c13147b15be"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-0.jpg",
+          "sha256": "fed815397ceaa74dbe5bfb58c97ec8744529ad79360977071fd3d6549920c718"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-1.jpg",
+          "sha256": "d7cf33d42fcf0876c99fde7d933dcef8a3b723bfceea036f2470b0b03c29f2a2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-2.jpg",
+          "sha256": "a1103ebb733e88f1f2c353734f6860f2b6e0fc51acc0dbccb9f486cae36cf108"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-3.jpg",
+          "sha256": "7f8cb876990dc331f22a252bc9e529947d46aec859ed6fb9a5967a1fef7500c4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-same-final-scene-before.jpg",
+          "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "below",
+      "finding": "基准的曝光圆直接强调薄片边缘及透光观察；母版色板确实持续改变同一主体的金属外壳，但移动序列没有额外主构图收益，且已知键盘无法到达色板，材料选择的输入覆盖不完整，不能仅凭换色判为同等完成度。",
+      "benchmarkFrames": [
+        "benchmark-2",
+        "benchmark-6"
+      ],
+      "candidateFrames": [
+        "reference-38",
+        "reference-41",
+        "reference-72",
+        "reference-73",
+        "reference-114"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+          "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "68f4a9b35493fb4763224457110a47848bf60339ea14cdd55c8ef772abe31362"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-pointer-action-3/contact-sheet.jpg",
+          "sha256": "f0ecaa53dd5809dfc361f12ef41ee65415f91aeed3c4428b3406b1ef8f9dc179"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-selected.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-stopped-after-leave.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-selected.jpg",
+          "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "below",
+      "finding": "基准结尾以材料内部空间和中心文字完成视觉收束；母版虽有完整产品与套的组合场景，实际桌面终点明显上移，手机终点裁断产品顶部及套口，商业表单占据收尾，违反完整组合承担结尾的核心期待。",
+      "benchmarkFrames": [
+        "benchmark-3",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "reference-30",
+        "reference-71",
+        "reference-110",
+        "reference-113"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-4/contact-sheet.jpg",
+          "sha256": "a439f8d71c4cc3f9b86a9180bd42487c0192e84869e9318145c0641ee87e8147"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-same-final-scene-before.jpg",
+          "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-4.jpg",
+          "sha256": "9e3fb5abb89c74405787c196a2f27ab153c692b97d0ea77aa8bf9578ac0342c2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-same-final-scene-before.jpg",
+          "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "below",
+      "finding": "基准手机从开场到结尾均重新安排文字与材料观看位置；母版手机接口和尺度标签清楚，但开场主体遮住较多标题，真实结束位置又裁去组合顶部，不能以较早的完整产品帧替代最终手机构图。",
+      "benchmarkFrames": [
+        "benchmark-4",
+        "benchmark-5",
+        "benchmark-6",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "reference-16",
+        "reference-17",
+        "reference-18",
+        "reference-110",
+        "reference-113"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+          "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-opening/contact-sheet.jpg",
+          "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-transition/contact-sheet.jpg",
+          "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-middle/contact-sheet.jpg",
+          "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-4.jpg",
+          "sha256": "9e3fb5abb89c74405787c196a2f27ab153c692b97d0ea77aa8bf9578ac0342c2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-same-final-scene-before.jpg",
+          "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "same-object-viewing-sequence",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "同一蓝色金属物件的显示区、品牌和比例贯穿斜置整体、顶部接口及正面尺度场景，手机另设接口观看，成立为具体部位递进而非无关卡片。",
+      "referenceFrames": [
+        "reference-64",
+        "reference-65",
+        "reference-66",
+        "reference-105",
+        "reference-106",
+        "reference-107",
+        "reference-108"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-opening.jpg",
+          "sha256": "d97f634a6a7a711ce94f42641dd3471f954f82d172c842b677a77c13147b15be"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-0.jpg",
+          "sha256": "fed815397ceaa74dbe5bfb58c97ec8744529ad79360977071fd3d6549920c718"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-1.jpg",
+          "sha256": "d7cf33d42fcf0876c99fde7d933dcef8a3b723bfceea036f2470b0b03c29f2a2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-opening.jpg",
+          "sha256": "f92ceb7598dd1b2ad0fbc01e982542ea323f2d8341089ac109d087f6292527d3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-0.jpg",
+          "sha256": "6db6e1f3ea4711b045796b81976663addf1980feb5607ec5d7343992d313a7b1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-1.jpg",
+          "sha256": "f73274c50a51556f21fbf027b6170b7b231ef7f806801100ee56625e5d9648a3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-2.jpg",
+          "sha256": "caf6018d66f100fd37920107fc51ce980fb7a4ffa71e4c6ac2250fd8e1c0157f"
+        }
+      ]
+    },
+    {
+      "name": "metal-to-felt-assembly",
+      "core": true,
+      "retained": false,
+      "sceneLevel": true,
+      "visualPurpose": "毛毡的纤维、缝边和开口确实形成新增包覆关系，但最终手机有限终点裁掉顶部与套口，使完整组合未能持续承担结尾，核心收束作用发生损失。",
+      "referenceFrames": [
+        "reference-29",
+        "reference-67",
+        "reference-109",
+        "reference-110",
+        "reference-113"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-scene-process-3/contact-sheet.jpg",
+          "sha256": "28a65dcc1f95f09734a6c169a5d8d4c78b8b8670b85753ee75eed2cee2ae9218"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-2.jpg",
+          "sha256": "a1103ebb733e88f1f2c353734f6860f2b6e0fc51acc0dbccb9f486cae36cf108"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-3.jpg",
+          "sha256": "7bddafa3ed3837316ea762e90c757e523c9c5f2062d0f48ffa439e5950c169f2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-4.jpg",
+          "sha256": "9e3fb5abb89c74405787c196a2f27ab153c692b97d0ea77aa8bf9578ac0342c2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-same-final-scene-before.jpg",
+          "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c"
+        }
+      ]
+    },
+    {
+      "name": "persistent-material-choice",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "灰色选择作用于同一金属外壳，并在桌面和手机的反向、重新正向及减少动态路径持续可见；该连续性成立，但不抵消色板键盘不可达的输入缺陷。",
+      "referenceFrames": [
+        "reference-72",
+        "reference-79",
+        "reference-85",
+        "reference-96",
+        "reference-102",
+        "reference-114",
+        "reference-122",
+        "reference-129",
+        "reference-141",
+        "reference-148"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-selected.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-opening-persistent.jpg",
+          "sha256": "1a94a7587f452afedf84d5475a20e5b09c7061cd6c9090cc0fddc5d16aaad5f1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-return-final-persistent.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-opening-persistent.jpg",
+          "sha256": "6bff0adaf4adbb7e4edb5d138ba885b7d24fb8b0ca2e0acce8c5fd087851aa02"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-return-final-persistent.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-selected.jpg",
+          "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-opening-persistent.jpg",
+          "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-return-final-persistent.jpg",
+          "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-opening-persistent.jpg",
+          "sha256": "29d581174b010eaa430db9e8110bef3f833dd837caa111bc8bf9968095d47675"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-return-final-persistent.jpg",
+          "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-71",
+        "reference-72",
+        "reference-73",
+        "reference-86",
+        "reference-87",
+        "reference-89",
+        "reference-90",
+        "reference-103",
+        "reference-113",
+        "reference-114",
+        "reference-115",
+        "reference-130",
+        "reference-131",
+        "reference-133",
+        "reference-134",
+        "reference-149"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-same-final-scene-before.jpg",
+          "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-selected.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-stopped-after-leave.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-blue-selected.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-selected-again.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-selected.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-stopped-after-leave.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-blue-selected.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-same-final-scene-before.jpg",
+          "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-selected.jpg",
+          "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-stopped-after-leave.jpg",
+          "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-blue-selected.jpg",
+          "sha256": "7c16b5a5774d2593c3863b2bbf6c591f7f31f75eee40da0ad6449e755713ac26"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-selected-again.jpg",
+          "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-selected.jpg",
+          "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-stopped-after-leave.jpg",
+          "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-blue-selected.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        }
+      ]
+    },
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-64",
+        "reference-65",
+        "reference-66",
+        "reference-67",
+        "reference-71",
+        "reference-74",
+        "reference-79",
+        "reference-80",
+        "reference-85",
+        "reference-91",
+        "reference-96",
+        "reference-102",
+        "reference-105",
+        "reference-106",
+        "reference-107",
+        "reference-108",
+        "reference-109",
+        "reference-111",
+        "reference-115",
+        "reference-116",
+        "reference-122",
+        "reference-129",
+        "reference-135",
+        "reference-141",
+        "reference-148"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-opening.jpg",
+          "sha256": "d97f634a6a7a711ce94f42641dd3471f954f82d172c842b677a77c13147b15be"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-0.jpg",
+          "sha256": "fed815397ceaa74dbe5bfb58c97ec8744529ad79360977071fd3d6549920c718"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-1.jpg",
+          "sha256": "d7cf33d42fcf0876c99fde7d933dcef8a3b723bfceea036f2470b0b03c29f2a2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-2.jpg",
+          "sha256": "a1103ebb733e88f1f2c353734f6860f2b6e0fc51acc0dbccb9f486cae36cf108"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-same-final-scene-before.jpg",
+          "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-reverse-0.jpg",
+          "sha256": "ce22e0777277c8ca3b325932f06333e51737b98b1a40f8a82c25e81e37cdf048"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-opening-persistent.jpg",
+          "sha256": "1a94a7587f452afedf84d5475a20e5b09c7061cd6c9090cc0fddc5d16aaad5f1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-forward-0.jpg",
+          "sha256": "292b940660bda72b3c69522de4f886528484c8dba79a554b055306deb19049b7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-gray-return-final-persistent.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-reverse-0.jpg",
+          "sha256": "73d4017f6d393af5906628a90080841f1f10d3cbec192252377bb6b8406dae72"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-opening-persistent.jpg",
+          "sha256": "6bff0adaf4adbb7e4edb5d138ba885b7d24fb8b0ca2e0acce8c5fd087851aa02"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-reduced-gray-return-final-persistent.jpg",
+          "sha256": "9c5bb59fe3df9d1be554cf032f338373ae2670a32dc635de0cb2b262c702dd0e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-opening.jpg",
+          "sha256": "f92ceb7598dd1b2ad0fbc01e982542ea323f2d8341089ac109d087f6292527d3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-0.jpg",
+          "sha256": "6db6e1f3ea4711b045796b81976663addf1980feb5607ec5d7343992d313a7b1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-1.jpg",
+          "sha256": "f73274c50a51556f21fbf027b6170b7b231ef7f806801100ee56625e5d9648a3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-2.jpg",
+          "sha256": "caf6018d66f100fd37920107fc51ce980fb7a4ffa71e4c6ac2250fd8e1c0157f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-3.jpg",
+          "sha256": "7bddafa3ed3837316ea762e90c757e523c9c5f2062d0f48ffa439e5950c169f2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-5.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-stopped-after-leave.jpg",
+          "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-reverse-0.jpg",
+          "sha256": "ae527a0f020979dedd164fd9fd13ba85e65b88e616a3ccb379fcb6719cb7cc75"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-opening-persistent.jpg",
+          "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-return-final-persistent.jpg",
+          "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-reverse-0.jpg",
+          "sha256": "2662750d064b9ca5d3cc453dc0472cbc4dae84c0cf120d015cc61967f2bd830d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-opening-persistent.jpg",
+          "sha256": "29d581174b010eaa430db9e8110bef3f833dd837caa111bc8bf9968095d47675"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-reduced-gray-return-final-persistent.jpg",
+          "sha256": "5d8ec23d9cfda1dfdb7de91de10124deb55761582f34ae752be903382eb6717a"
+        }
+      ]
+    }
+  ],
+  "nextAction": "replace-direction",
+  "fixTasks": [
+    "退回静态计划修正最终组合：桌面和手机真实有限终点均须完整展示产品顶部、玻璃显示区与毛毡套口，保留视觉收束。",
+    "提高接口暗部与材质细节的可辨性，并使字形遮叠、标签和主体观看关系达到基准的工艺精度。",
+    "补齐色板键盘可达及可见反馈；保留已经证实的金属选择往返和减少动态连续性。",
+    "重审时提供完整六稿人评校准组，以及首次和重复进入、场景交接附近的真实连续位置；当前运动布尔值仅表示相应输入过程有证据，不表示签名质量通过。",
+    "核心视觉特征丢失，不能用总评通过抵消",
+    "核心失败退回静态计划，不进行局部收尾",
+    "存在低于基准的品质维度",
+    "修改静态计划和试片后重新比较，不允许平均补偿",
+    "四状态主体、材质、构图、作用或身份关系未完整保留",
+    "修订已锁定的视觉合同或补齐实际状态证据，不能用局部润色抵消核心失败"
+  ],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "完整斜置的金属便携物件与玻璃显示面板。",
+        "material": "金属表面方向性高光、厚度和玻璃光泽可辨。",
+        "composition": "大宽体字形与物件有受控遮叠，手机保留主要字形与主体。",
+        "role": "直接展示对象身份、造型和观看主题。"
+      },
+      "transition": {
+        "subject": "同一物件转向真实顶部接口。",
+        "material": "凹入接口、黑色顶部与金属侧面保持区分。",
+        "composition": "接口观看与标签相互对齐，手机可读且不是空场。",
+        "role": "由整体进入结构，解释物件的具体部位。"
+      },
+      "middle": {
+        "subject": "同一物件正面与尺度关系。",
+        "material": "金属、玻璃与接触阴影保持具体工艺。",
+        "composition": "主体和材料/尺度标签的比例与位置清楚，手机不缺关键内容。",
+        "role": "增加关于表面和比例的观看内容。"
+      },
+      "ending": {
+        "subject": "同一物件与毛毡套组成完整收束。",
+        "material": "毛毡纤维、厚度、开口与金属玻璃的区别成立。",
+        "composition": "手机及桌面的最终物件、标签、色板和行动清楚，不以裁断关键部分代替完整构图。",
+        "role": "完整组合承担收束，商业工具不能单独替代视觉结尾。"
+      }
+    },
+    "continuity": [
+      {
+        "id": "single-object-material-identity",
+        "states": [
+          "opening",
+          "transition",
+          "middle",
+          "ending"
+        ],
+        "expectation": "同一主体形态、顶部、显示区和金属表面连续；毛毡是新增配件，不替换主体身份。"
+      }
+    ]
+  },
+  "visualContractSha256": "f9c2d58d77a2658bfb65d550dd7aca787c49dbabf7c9614f099c1de5c573a1b5",
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "斜置物件完整可见，玻璃显示区与蓝色金属外壳清楚区分，宽体标题位于主体之后，直接建立产品身份与大尺度观看。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-opening.jpg",
+          "sha256": "d97f634a6a7a711ce94f42641dd3471f954f82d172c842b677a77c13147b15be"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "同一物件转向顶部接口，黑色顶面、凹入端口与蓝色侧面保持区别，两侧输入输出文字引导结构观察，完成由整体到部位的角色转换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-0.jpg",
+          "sha256": "fed815397ceaa74dbe5bfb58c97ec8744529ad79360977071fd3d6549920c718"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "正面主体保持显示区和品牌位置，金属高光及下方阴影可辨，左右尺度与表面标签形成清晰对应，为观看增加比例信息。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-middle/contact-sheet.jpg",
+          "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-forward-1.jpg",
+          "sha256": "d7cf33d42fcf0876c99fde7d933dcef8a3b723bfceea036f2470b0b03c29f2a2"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "lost",
+      "role": "lost",
+      "finding": "产品与毛毡套仍具具体材质身份，但实际终点将组合推至顶部，套的上缘被裁，完整组合的收束弱于此前场景，主要结束内容变为购买表单与页脚。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-ending/contact-sheet.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/desktop-normal-same-final-scene-before.jpg",
+          "sha256": "2fc742b7264e2fc8fa88b9eb9bf53796729537a32c151fb53231e56486f66d80"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机仍展示完整斜置物件与发光显示区，蓝色金属有方向性高光；标题虽被遮叠较多，主要字形及产品主题仍能识别。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-opening/contact-sheet.jpg",
+          "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-opening.jpg",
+          "sha256": "f92ceb7598dd1b2ad0fbc01e982542ea323f2d8341089ac109d087f6292527d3"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机将输入与输出拆为独立观看，标签居上而顶部接口位于下方，黑色顶面与金属机身仍可区分，并非以空场替代结构内容。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-transition/contact-sheet.jpg",
+          "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-0.jpg",
+          "sha256": "6db6e1f3ea4711b045796b81976663addf1980feb5607ec5d7343992d313a7b1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-1.jpg",
+          "sha256": "f73274c50a51556f21fbf027b6170b7b231ef7f806801100ee56625e5d9648a3"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "正面物件位于右侧，尺度、重量和金属材料标签位于左侧，玻璃显示区及悬浮阴影延续，关键比例信息在手机中完整可读。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-middle/contact-sheet.jpg",
+          "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-2.jpg",
+          "sha256": "caf6018d66f100fd37920107fc51ce980fb7a4ffa71e4c6ac2250fd8e1c0157f"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "lost",
+      "material": "preserved",
+      "composition": "lost",
+      "role": "lost",
+      "finding": "真实有限终点为4334位置，产品顶部、玻璃显示区及毛毡套口被裁断；4220位置的完整组合不能替代终点，因此完整物件组合承担结尾的合同失败。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-ending/contact-sheet.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-5.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-same-final-scene-before.jpg",
+          "sha256": "8e278d702632f88153abf82bac748d118e01ce0bfb90038617976679fab9f35c"
+        }
+      ]
+    }
+  ],
+  "continuityChecks": [
+    {
+      "id": "single-object-material-identity",
+      "viewport": "desktop",
+      "status": "preserved",
+      "finding": "斜置、接口、正面与最终组合中的顶部显示区、长方机身和品牌位置相互对应，毛毡作为新增配件出现；终点裁切损害收束，但未把主体替换成另一物件。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-opening/contact-sheet.jpg",
+          "sha256": "1708baf0273e13d8b2e69b10e472477d4e7694ed7d232cc8fb282e0cbff9b396"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-transition/contact-sheet.jpg",
+          "sha256": "f9aa1e799f0c85d617efe64b679c73f9644a3c1423516591066b8a882c4c777f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-middle/contact-sheet.jpg",
+          "sha256": "e786a1853b1b0e6d0f9dd3c84b4e7588c2926bcff54721beffc4c376c8d8ac49"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/desktop-ending/contact-sheet.jpg",
+          "sha256": "c3b0056510ddfb582919ef10256e73d86b432b8212ad11d18106866cd519d6cf"
+        }
+      ]
+    },
+    {
+      "id": "single-object-material-identity",
+      "viewport": "mobile",
+      "status": "preserved",
+      "finding": "手机整体、两类接口、正面及套的加入均保持同一机身比例与显示区身份，灰色往返路径同样连续；最终裁断属于完整呈现失败，而非材质身份替换。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-opening/contact-sheet.jpg",
+          "sha256": "cc2c6f1d601e8dfd2a634af52673b41f7271e0972a7b0cb40cf8fd2416cba6f3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-transition/contact-sheet.jpg",
+          "sha256": "32235d0cf188d488c14fe087f777746cee306df4398c9b6841e27db3f289ab8a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-1.jpg",
+          "sha256": "f73274c50a51556f21fbf027b6170b7b231ef7f806801100ee56625e5d9648a3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-middle/contact-sheet.jpg",
+          "sha256": "61cd0b41eb40c4933ad8e06b1edfa6ce06ca949a9e487134b2c58bb1d8d478ad"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-forward-3.jpg",
+          "sha256": "7bddafa3ed3837316ea762e90c757e523c9c5f2062d0f48ffa439e5950c169f2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/attempt-02/mobile-ending/contact-sheet.jpg",
+          "sha256": "3b1eb34e592a6e3439657c3e432b91348a0ffae237ea84c7e39c8e55a1a11253"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-opening-persistent.jpg",
+          "sha256": "8f8c07f83f3bf457b94b38f9f3f9f22b1fd1e6e2111510754e5365981562c6d8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-forward-2.jpg",
+          "sha256": "18eef7ea726189a67f7e3d7b17c39cad2939af6512ee761b963d177b4383a090"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-25/007-dopo-reference-01/input-proof-01/mobile-normal-gray-return-final-persistent.jpg",
+          "sha256": "de499125561f7f578921515b9cce633e83a6bbacd19d8066d3cf1d6f9e1fa76e"
+        }
+      ]
+    }
+  ],
+  "reviewReceipt": {
+    "path": "docs/production/runs/cli-evidence-20261028/cli-review/01-reference-review-c68fb060cf/consumed/receipt.json",
+    "sha256": "91e9910583fe2689af5a9b52abf03b81b25c7e422da0784dcff69657c091c996"
+  }
+}

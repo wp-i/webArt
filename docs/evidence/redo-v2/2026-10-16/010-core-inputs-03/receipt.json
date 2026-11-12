@@ -1,0 +1,112 @@
+{
+  "purpose": "actual-native-core-inputs-not-page-admission",
+  "checks": [
+    {
+      "viewport": "desktop",
+      "moved": {
+        "x": 0.35400114988417597,
+        "y": -0.18880064282208206,
+        "vx": 1.1375525804584676,
+        "vy": -0.6066956591526103,
+        "drag": true,
+        "lastX": 904.4749755859375,
+        "lastY": 412.9893798828125,
+        "lastT": 2937.300000011921,
+        "radius": 275.38934976175426
+      },
+      "settled": {
+        "x": -0.0000656755114277186,
+        "y": 0.00003502695373895488,
+        "vx": 0.0004331238818840031,
+        "vy": -0.00023099942042780784,
+        "drag": false,
+        "lastX": 904.4749755859375,
+        "lastY": 412.9893798828125,
+        "lastT": 2937.300000011921,
+        "radius": 275.38169530576874
+      },
+      "reducedMotion": "actual-live-preference-change-passed",
+      "evidence": [
+        {
+          "state": "default",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs-03/desktop-default.jpg",
+          "sha256": "52439c98c88bd36566b2a94ed0f202f8074ca72a3529decae937baca7851ceb9"
+        },
+        {
+          "state": "held",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs-03/desktop-held.jpg",
+          "sha256": "d6b7ca0bad5f73bc82daee71963c50588dd64c7759befa99371fd88ad4845f46"
+        },
+        {
+          "state": "released",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs-03/desktop-released.jpg",
+          "sha256": "136213fe0601c062752d08fb661456c6425759258f22cd18868d89da8ff21f87"
+        },
+        {
+          "state": "keyboard-held",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs-03/desktop-keyboard.jpg",
+          "sha256": "97076469a16fc383734ef7b6c519a1f5a95018dff8c92654d7acf63ebe8c2c40"
+        },
+        {
+          "state": "reduced",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs-03/desktop-reduced.jpg",
+          "sha256": "ae89559a181984c446b4386ea532440a7ce9ae90479bf89624fae5269c8a30cb"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "moved": {
+        "x": 0.354003393727167,
+        "y": -0.18880183890204277,
+        "vx": 1.098052439504461,
+        "vy": -0.5856283264743848,
+        "drag": true,
+        "lastX": 244.80313110351562,
+        "lastY": 419.80499267578125,
+        "lastT": 2928.5999999940395,
+        "radius": 140.72550005468398
+      },
+      "settled": {
+        "x": -0.00010289825665337785,
+        "y": 0.000054879082797072876,
+        "vx": 0.0005884396658564586,
+        "vy": -0.0003138345269684078,
+        "drag": false,
+        "lastX": 244.80313110351562,
+        "lastY": 419.80499267578125,
+        "lastT": 2928.5999999940395,
+        "radius": 140.72183760884064
+      },
+      "reducedMotion": "actual-live-preference-change-passed",
+      "evidence": [
+        {
+          "state": "default",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs-03/mobile-default.jpg",
+          "sha256": "be43cf580bcf1b7227e9b42c599476eb2f4176714d9c9ce9275bd73f334d0d86"
+        },
+        {
+          "state": "held",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs-03/mobile-held.jpg",
+          "sha256": "97004b1f1bb264d99be9b6fe254ec048fb9c3cde5701aad6fbe161f3cc0b934c"
+        },
+        {
+          "state": "released",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs-03/mobile-released.jpg",
+          "sha256": "c68ec5e31201dfc937d87fa7884751c2e64a7e0307d72beec61d8e07d94d97eb"
+        },
+        {
+          "state": "keyboard-held",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs-03/mobile-keyboard.jpg",
+          "sha256": "2ea8a79317bf7f2ba26109b0e4c1a9851968dbab2b45529f9eb15af7ec8d3ffd"
+        },
+        {
+          "state": "reduced",
+          "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs-03/mobile-reduced.jpg",
+          "sha256": "d70c2537145473140df44071eccf58d9a6c4bb0ab220d9d9701c828f99223aad"
+        }
+      ]
+    }
+  ],
+  "result": "passed-native-core-inputs"
+}

@@ -1,0 +1,20 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import {addCapture,FrameSet} from './production/evidence.mjs';
+import {hash} from './production/api.mjs';
+test('named source routes keep intermediate core imagery that canonical even-index sampling would omit',t=>{
+ const root=fs.mkdtempSync(path.join(os.tmpdir(),'webart-route-evidence-'));t.after(()=>{assert.equal(path.dirname(root),os.tmpdir());assert.match(path.basename(root),/^webart-route-evidence-/);fs.rmSync(root,{recursive:true,force:true})});
+ const proof=name=>{const file=name+'.jpg',bytes=Buffer.from('Byte identity fixture: '+name);fs.writeFileSync(path.join(root,file),bytes);return {path:file,sha256:hash(bytes)}};
+ const states=Array.from({length:8},(_,i)=>({viewport:i<4?'desktop':'mobile',state:['opening','transition','middle','ending'][i%4],evidence:[proof('state-'+i)]}));
+ const motion=[{viewport:'desktop',input:'scroll',context:'complete-biography',evidence:['orange','blue','green','ending','stop','reverse'].map(proof)},{viewport:'mobile',input:'scroll',evidence:['start','quarter-orange','middle','three-quarter-blue','end','reverse-blue','reverse-middle','reverse-orange','returned','reduced'].map(proof)}];
+ const frames=new FrameSet(root);addCapture(frames,'reference',{result:'captured-not-scored',errors:[],states,motion});
+ const route=[...frames.frames].filter(([,f])=>f.label.includes('complete-biography'));
+ assert.deepEqual(route.map(([,f])=>f.path),['orange.jpg','blue.jpg','green.jpg','ending.jpg','stop.jpg','reverse.jpg']);
+ assert.deepEqual(frames.resolve([route[1][0]],'reference'),[motion[0].evidence[1]]);
+ assert.throws(()=>frames.resolve([route[1][0]],'candidate'),/错误对象/);
+ const canonical=[...frames.frames].filter(([,f])=>f.label.includes('mobile scroll process'));
+ assert.equal(canonical.length,10);assert.equal(canonical[3][1].path,'three-quarter-blue.jpg');assert.equal(canonical[7][1].path,'reverse-orange.jpg');
+});

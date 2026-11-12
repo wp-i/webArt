@@ -1,26 +1,11 @@
-// Native links and details work without JavaScript. This adds menu dismissal.
-const menu = document.querySelector('.mobile-nav');
-const menuButton = menu.querySelector('summary');
-const closeMenu = (returnFocus = false) => {
-  if (!menu.open) return;
-  menu.open = false;
-  if (returnFocus) menuButton.focus();
-};
-
-menu.querySelectorAll('a').forEach(link => {
-  link.addEventListener('click', () => closeMenu());
-});
-document.addEventListener('keydown', event => {
-  if (event.key === 'Escape') closeMenu(true);
-});
-document.addEventListener('pointerdown', event => {
-  if (!menu.contains(event.target)) closeMenu();
-});
-menu.addEventListener('focusout', event => {
-  if (!menu.contains(event.relatedTarget)) closeMenu();
-});
-const desktop = matchMedia('(min-width: 701px)');
-desktop.addEventListener('change', event => {
-  if (event.matches) closeMenu();
-});
-document.documentElement.classList.add('enhanced');
+const menu=document.querySelector('.mobile-nav');
+menu?.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>menu.open=false));
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu?.open){menu.open=false;menu.querySelector('summary').focus()}});
+document.addEventListener('pointerdown',e=>{if(menu?.open&&!menu.contains(e.target))menu.open=false});
+const reduced=matchMedia('(prefers-reduced-motion:reduce)');
+const fine=matchMedia('(hover:hover) and (pointer:fine)');
+const hero=document.querySelector('.hero');
+const updateHero=()=>{if(reduced.matches){hero.style.removeProperty('--hero-y');return}const studio=document.querySelector('.studio'),sr=studio.getBoundingClientRect();studio.style.setProperty('--quote-colour',Math.max(0,Math.min(100,(innerHeight-sr.top)/(innerHeight*.7)*100))+'%');document.querySelectorAll('.project-image').forEach(frame=>{const fr=frame.getBoundingClientRect(),progress=Math.max(0,Math.min(1,(innerHeight-fr.top)/(innerHeight*.65)));frame.style.setProperty('--reveal',18*(1-progress)+'%')});const r=hero.getBoundingClientRect();hero.style.setProperty('--hero-y',Math.max(-12,Math.min(12,-r.top*.028))+'px')};
+let queued=false;addEventListener('scroll',()=>{if(!queued){queued=true;requestAnimationFrame(()=>{updateHero();queued=false})}},{passive:true});addEventListener('resize',updateHero);reduced.addEventListener('change',updateHero);updateHero();
+hero.addEventListener('pointermove',e=>{if(reduced.matches||!fine.matches)return;const r=hero.getBoundingClientRect();hero.style.setProperty('--hero-x',((e.clientX-r.left)/r.width-.5)*-12+'px')});hero.addEventListener('pointerleave',()=>hero.style.setProperty('--hero-x','0px'));
+document.querySelectorAll('.project-image').forEach(frame=>{frame.addEventListener('pointermove',e=>{if(reduced.matches||!fine.matches)return;const r=frame.getBoundingClientRect(),x=e.clientX-r.left,y=e.clientY-r.top;frame.style.setProperty('--pan-x',-(x/r.width-.5)*12+'px');frame.style.setProperty('--pan-y',-(y/r.height-.5)*12+'px');frame.style.setProperty('--hint-x',Math.max(55,Math.min(r.width-55,x))+'px');frame.style.setProperty('--hint-y',Math.max(32,Math.min(r.height-32,y))+'px')});frame.addEventListener('pointerleave',()=>{frame.style.setProperty('--pan-x','0px');frame.style.setProperty('--pan-y','0px')})});

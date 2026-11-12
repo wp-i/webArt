@@ -1,0 +1,47 @@
+{
+  "result": "same-actual-review-revalidated",
+  "processSpawns": 0,
+  "newCliInvocations": 0,
+  "newModelCalls": 0,
+  "retainedAttemptCount": 1,
+  "afterAttemptCount": 1,
+  "review": {
+    "path": "docs/production/runs/igloo-reference-20261029-02/reference-review.json",
+    "sha256": "fe41730624232abae50de2eadfaa52e359938d0f5b65c82444dcf4b51873ccca"
+  },
+  "reuse": {
+    "kind": "verified-cli-review-reuse",
+    "role": "reference-review",
+    "requestId": "01-reference-review-7cc2572602",
+    "receipt": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/receipt.json",
+      "sha256": "d444581d65e7a9bcc6243153bd29ebd656b6178fb920f0483fd7c3ec575fb262"
+    },
+    "originalStartedAt": "2026-10-29T03:16:15.593Z",
+    "originalCompletedAt": "2026-10-29T03:19:10.478Z",
+    "reusedAt": "2026-10-29T15:52:21.272Z",
+    "originalCliInvocations": 1,
+    "newCliInvocations": 0,
+    "newModelCalls": 0,
+    "backendRequestCount": null,
+    "independent": false,
+    "actualModel": null,
+    "toolsObserved": 0,
+    "visualAdmissionGranted": false
+  },
+  "gate": {
+    "decision": "reference-admitted-for-prototype-only",
+    "referenceReview": {
+      "path": "docs/production/runs/igloo-reference-20261029-02/reference-review.json",
+      "sha256": "fe41730624232abae50de2eadfaa52e359938d0f5b65c82444dcf4b51873ccca"
+    },
+    "calibrationReview": {
+      "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+      "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+    },
+    "reviewerId": "codex-account-default:2026-10-29-cli-calibration",
+    "inventoryChanged": false,
+    "packageAuthorized": false,
+    "limitations": "Checks evidence and the recorded comparison; it does not predict visual quality or authorize full implementation."
+  }
+}

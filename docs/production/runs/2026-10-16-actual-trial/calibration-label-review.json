@@ -1,0 +1,36 @@
+{
+  "runId": "2026-10-16-current-task-calibration",
+  "limitations": "Real current-task visual review of a fresh shuffled evidence packet before reading its mapping. The primary reviewer retains task context; this is evidence separation, not an independent model or a guaranteed user score.",
+  "samples": [
+    {
+      "label": "A",
+      "verdict": "below-benchmark",
+      "finding": "杏粉字标和灯具照片有清楚的品牌关系，但中段衬线短句接三列图片、结尾常规联系条的节奏仍偏普通；与B的材料空间及精确收束存在明确差距。"
+    },
+    {
+      "label": "B",
+      "verdict": "benchmark",
+      "finding": "开场的材料褶面、斜向光线与精密衬线身份结合紧密，手机仍保留层次；结尾另一受光空间的Remain形成完整收束，构成该组的品质基准。中间选帧是黑色交接，不能单凭该帧推断加载失败。"
+    },
+    {
+      "label": "C",
+      "verdict": "below-benchmark",
+      "finding": "满宽衬线字标与海岸并列有辨识度，后段摄影横排和粉色联系条也可用，但输入主要是普通浏览与小幅取景，没有与B相当的主视觉编排与整体收束。"
+    },
+    {
+      "label": "D",
+      "verdict": "below-benchmark",
+      "finding": "角落双字母与蓝绿色场建立身份，错位摄影避免重复，但照片和字形之间仍较松散，底部两栏联系方式削弱了整体的完成度和惊艳感。"
+    },
+    {
+      "label": "E",
+      "verdict": "below-benchmark",
+      "finding": "紫黑产品分栏清楚展示设备界面，图形和按钮都有一致配色，但常规表单和小型居中CTA使全页更像标准产品页，未达到B的材料和观看过程质感。"
+    },
+    {
+      "label": "F",
+      "verdict": "below-benchmark",
+      "finding": "建筑开场保留暖光与拱形空间，在手机也直接可看；白底三列项目、普通黑色联系区域和小图形反馈却缺乏与B同级的编排与收束。"
+    }
+  ]
+}

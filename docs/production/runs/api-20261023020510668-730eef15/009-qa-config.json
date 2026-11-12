@@ -1,0 +1,65 @@
+{
+  "images": 6,
+  "fonts": [
+    "Bodoni Moda",
+    "Inter"
+  ],
+  "scenes": [
+    ".world",
+    "#about",
+    ".portrait-blue",
+    "#scene-ending"
+  ],
+  "clipBounds": [],
+  "composition": {
+    "desktop": "1440×900：三处摄影与字形形成错位观看，底部行动处于纸色留白；中央细看、两幅索引与取景条均清楚，三色人物与独立联系完整。",
+    "wide": "2048×912：摄影维持不同幅面、图字前后层次及素材细节，观看工具不被拉散，人物及相机保持完整，行动在摄影外有稳定承载。",
+    "tablet": "768×1024：摄影与衬线字保持错位关系，细看索引/工具不拥挤；三色人物和短陈述并列，各种头部、手部和相机不被关键裁断。",
+    "mobile": "390×844：照片交错并带完整作品名，进入细看保留主体、小索引和全部取景/返回行动；三色人物改为上图下文，联系直接可达。",
+    "narrow": "320×844：小幅面摄影、作品标题与取景条无重叠，文字不越界；完整头部、手部、相机及末段联系仍有足够面积，首尾行动可用。"
+  },
+  "documentPaths": [
+    "/assets/thread.webp",
+    "/assets/tulle.webp",
+    "/assets/velvet.webp"
+  ],
+  "noScriptControls": [
+    {
+      "selector": ".identity nav a:first-child",
+      "kind": "anchor",
+      "target": "#photographs"
+    },
+    {
+      "selector": ".world-note a",
+      "kind": "anchor",
+      "target": "#photographs"
+    },
+    {
+      "selector": "[data-photo=\"thread\"]",
+      "kind": "image",
+      "path": "/assets/thread.webp"
+    },
+    {
+      "selector": "[data-photo=\"tulle\"]",
+      "kind": "image",
+      "path": "/assets/tulle.webp"
+    },
+    {
+      "selector": "[data-photo=\"velvet\"]",
+      "kind": "image",
+      "path": "/assets/velvet.webp"
+    }
+  ],
+  "visualStates": {
+    "opening": 0,
+    "transition": {
+      "selector": "#scene-transition"
+    },
+    "middle": {
+      "selector": "#scene-middle"
+    },
+    "ending": 1
+  },
+  "origin": "http://127.0.0.1:4652/",
+  "output": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02"
+}

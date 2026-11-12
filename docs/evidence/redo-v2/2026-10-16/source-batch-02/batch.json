@@ -1,0 +1,35 @@
+{
+  "purpose": "Second batch of six sources. Discovery gallery pages do not grant admission.",
+  "sources": [
+    {
+      "label": "sonderdays",
+      "result": "scouted-not-admitted",
+      "height": 6057
+    },
+    {
+      "label": "focalglow",
+      "result": "scouted-not-admitted",
+      "height": 4609
+    },
+    {
+      "label": "durup",
+      "result": "scouted-not-admitted",
+      "height": 11646
+    },
+    {
+      "label": "incommon",
+      "result": "evidence-needed",
+      "failure": "页面未完成加载，不能当作已审查"
+    },
+    {
+      "label": "oracal",
+      "result": "scouted-not-admitted",
+      "height": 900
+    },
+    {
+      "label": "amour",
+      "result": "evidence-needed",
+      "failure": "页面未完成加载，不能当作已审查"
+    }
+  ]
+}

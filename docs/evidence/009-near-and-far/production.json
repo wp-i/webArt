@@ -1,0 +1,43 @@
+{
+  "run": "trial-009",
+  "started": "2026-10-12T04:04:55.840Z",
+  "finished": "2026-10-12T04:51:16.514Z",
+  "wallMinutes": 46.34,
+  "stages": [
+    {
+      "stage": "start",
+      "at": "2026-10-12T04:04:55.840Z"
+    },
+    {
+      "stage": "reference-locked",
+      "at": "2026-10-12T04:12:15.470Z"
+    },
+    {
+      "stage": "assets-ready",
+      "at": "2026-10-12T04:22:26.431Z"
+    },
+    {
+      "stage": "implementation-complete",
+      "at": "2026-10-12T04:36:40.994Z"
+    },
+    {
+      "stage": "qa-complete",
+      "at": "2026-10-12T04:49:41.286Z"
+    },
+    {
+      "stage": "complete",
+      "at": "2026-10-12T04:51:16.514Z"
+    }
+  ],
+  "imageGenerations": 0,
+  "photographs": 3,
+  "localUsageDelta": {
+    "input_tokens": 0,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 0,
+    "reasoning_output_tokens": 0,
+    "total_tokens": 0
+  },
+  "limits": "Local Codex usage is a thread-level observation, not per-response API billing or a measured guaranteed saving. Wall time includes service recovery, rule updates, reference screening, font/asset preparation, implementation, QA tool repairs, packaging and delivery; no user-requested pause occurred."
+}

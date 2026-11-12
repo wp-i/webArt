@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261018123549107-2c14d5a7",
+  "execution": "current-conversation-evidence-review",
+  "sourceRun": "docs/production/runs/api-20261018123549107-2c14d5a7/run.json",
+  "started": "2026-10-19T04:05:18.736Z",
+  "items": [
+    {
+      "id": "010",
+      "rendererId": "pace-precision-v2",
+      "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+      "archiveSha256": "bb150313c0142dd37ee4cdf9cd227cf858d45272a160fabc05d4cd51eed5c351",
+      "items": 6,
+      "newArchives": 0,
+      "comparisonSourceChanged": false
+    }
+  ],
+  "result": "failed-rolled-back",
+  "attempt": 4,
+  "failure": "本地检查失败",
+  "finished": "2026-10-19T04:05:37.336Z"
+}

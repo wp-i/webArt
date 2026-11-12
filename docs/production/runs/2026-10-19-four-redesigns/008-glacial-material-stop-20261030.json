@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "008",
+  "status": "material-candidate-stopped",
+  "recordedAt": "2026-10-30T05:32:37.849Z",
+  "referenceGate": "docs/production/runs/igloo-reference-20261029-02/reference-gate.json",
+  "rejections": [
+    "docs/assets/008-glacial-material-rejection-01.json",
+    "docs/assets/008-glacial-material-rejection-02.json"
+  ],
+  "matureAssetCheck": "docs/assets/008-glacial-mature-asset-check-20261029.json",
+  "boundedCorrectionUsed": true,
+  "fullPageImplemented": false,
+  "prototypeGatePassed": false,
+  "packageAuthorized": false,
+  "inventoryChanged": false,
+  "nextAction": "stop-this-authored-material-candidate; no-third-procedural-repair; preserve-reference-admission-and-rejected-source; obtain-a-role-complete-mature-asset-or-admit-another-mother"
+}

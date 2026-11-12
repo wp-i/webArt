@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "006",
+  "sourceSha256": "510d7c8b1ee2b97988b6fa590a569da0c979f48251198580a2334ee0a9349ae8",
+  "review": "docs/production/runs/2026-10-19-four-redesigns/prototype-006-ea9c1c380ffe67ca/review-0.json",
+  "reviewSha256": "6a5a76f3225953a5d00808a41634591cc2d222d42413df335c8e369cff50c3df",
+  "assets": [
+    {
+      "assetId": "woven",
+      "localPath": "assets/owned/woven-spaces-v1/woven.webp",
+      "sha256": "1d211aa8d06fb27b466ff0f3b38a5ec792a9f805dc2796f47ec4155066e7d05a",
+      "role": "opening",
+      "desktopCrop": "Cover at 53% x 50%; keep botanical folds and cinnamon velvet boundary.",
+      "mobileCrop": "Cover at 55% x 50%; retain fibre/fringe and velvet in the lower right.",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated asset; no reference website image used",
+      "license": "Original generated asset for this complete template",
+      "verified": "2026-10-20",
+      "distributionBasis": "Original generated image incorporated into an editable website; not a claim of a real completed client project"
+    },
+    {
+      "assetId": "window-room",
+      "localPath": "assets/owned/woven-spaces-v1/window-room.webp",
+      "sha256": "744d6d9fc781f3f1d3a08067b9f7dc4e36773b9448fc9388bcc41f7c778323f6",
+      "role": "spatial panorama",
+      "desktopCrop": "Wide full-height interior opening the panorama; retain window, drapery, table and chair.",
+      "mobileCrop": "Cover at 53% x 50%; table, curtain and chair remain on the native horizontal journey.",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated asset; no reference website image used",
+      "license": "Original generated asset for this complete template",
+      "verified": "2026-10-20",
+      "distributionBasis": "Original generated image incorporated into an editable website; not a claim of a real completed client project"
+    },
+    {
+      "assetId": "last-light",
+      "localPath": "assets/owned/woven-spaces-v1/last-light.webp",
+      "sha256": "56084017dbafa6f216f6189d94209eaf519a24212d69e40bc83c753250724279",
+      "role": "independent closing",
+      "desktopCrop": "Independent curtain/wood-floor view at 50% x 50%; typography in the dark right material.",
+      "mobileCrop": "Cover at 58% x 50%; all three materials and grounded curtain hems stay visible.",
+      "creator": "WebArt / OpenAI image generation",
+      "source": "Original generated asset; no reference website image used",
+      "license": "Original generated asset for this complete template",
+      "verified": "2026-10-20",
+      "distributionBasis": "Original generated image incorporated into an editable website; not a claim of a real completed client project"
+    },
+    {
+      "assetId": "rose-room",
+      "localPath": "assets/owned/woven-spaces-v1/rose-room.webp",
+      "sha256": "c52652f989008ab4c407033b5ae379f096b4a62ecdb0f06d03a869ebdd3ffca0",
+      "role": "second spatial panorama",
+      "desktopCrop": "Portrait second panorama; retain tall window, curtains and seating.",
+      "mobileCrop": "Full viewport portrait; keep the window axis, curtains and pink seat.",
+      "creator": "Muhammet Çelebi",
+      "source": "https://www.pexels.com/photo/a-sofa-standing-by-the-window-with-pink-curtains-22145439/",
+      "license": "https://www.pexels.com/license/",
+      "verified": "2026-10-20",
+      "distributionBasis": "Photography within one complete editable website template; not a standalone stock-photo product. No claim of endorsement or actual client work."
+    },
+    {
+      "assetId": "blue-silk",
+      "localPath": "assets/owned/woven-spaces-v1/blue-silk.webp",
+      "sha256": "b5ad287c2dff43e5efc15f5b4389452d274d2ac18c5b8029a35fe8e9ebac1578",
+      "role": "material index",
+      "desktopCrop": "Portrait crop of blue woven material, 50% x 50%; retain visible weave and folds.",
+      "mobileCrop": "43svh image, 50% x 47%; material texture stays at a useful scale.",
+      "creator": "Marina Leonova",
+      "source": "https://www.pexels.com/photo/blue-fabric-in-close-up-photography-7717495/",
+      "license": "https://www.pexels.com/license/",
+      "verified": "2026-10-20",
+      "distributionBasis": "Photography within one complete editable website template; not a standalone stock-photo product. No claim of endorsement or actual client work."
+    },
+    {
+      "assetId": "at-the-atelier",
+      "localPath": "assets/owned/woven-spaces-v1/at-the-atelier.webp",
+      "sha256": "0a4aabf3f636df5413e95f1c644055abd9624361446119e1f6ceb145ccd1cba2",
+      "role": "material selection index",
+      "desktopCrop": "Portrait at 50% x 50%; material selection, swatches and person; no identity/endorsement claim.",
+      "mobileCrop": "Same selection context in a compact portrait; example photography, not claimed staff.",
+      "creator": "Meike",
+      "source": "https://www.pexels.com/photo/woman-looking-at-a-selection-of-curtains-20257991/",
+      "license": "https://www.pexels.com/license/",
+      "verified": "2026-10-20",
+      "distributionBasis": "Photography within one complete editable website template; not a standalone stock-photo product. No claim of endorsement or actual client work."
+    }
+  ],
+  "findings": "Actual desktop/mobile material, spatial panorama, index replacement and independent closing were reviewed. Current-conversation review is not independent and is not a user score.",
+  "date": "2026-10-20"
+}

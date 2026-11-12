@@ -2,6 +2,7 @@
 param(
   [string]$ManifestPath = "webart.package.json",
   [string]$ArchivePath = "",
+  [string]$CandidatePath = "",
   [switch]$SkipBuild,
   [switch]$Trial
 )
@@ -9,8 +10,10 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 $taskWorkspacePath = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot ".."))
-$filesCommand = if ($Trial) { "trial-files-manifest" } else { "files-manifest" }
-$validatedJson = & node (Join-Path $PSScriptRoot "collection.mjs") $filesCommand $ManifestPath
+if ($CandidatePath -and (-not $Trial -or -not $ArchivePath)) { throw "Candidate verification requires explicit private archive and Trial." }
+$filesCommand = if ($CandidatePath) { "candidate-files-manifest" } elseif ($Trial) { "trial-files-manifest" } else { "files-manifest" }
+$validationPath = if ($CandidatePath) { $CandidatePath } else { $ManifestPath }
+$validatedJson = & node (Join-Path $PSScriptRoot "collection.mjs") $filesCommand $validationPath
 if ($LASTEXITCODE -ne 0) { throw "Template approval/source gate failed." }
 $validated = ($validatedJson -join "`n") | ConvertFrom-Json
 if (-not $ArchivePath) { $ArchivePath = Join-Path $taskWorkspacePath $validated.config.output }

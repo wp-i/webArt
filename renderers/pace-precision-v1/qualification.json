@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "010",
+  "manifest": "renderers/pace-precision-v1/manifest.json",
+  "qualityReview": "renderers/pace-precision-v1/contract.json",
+  "records": {
+    "brief": "docs/pages/010-precision-study.md",
+    "reference": "docs/references/010-precision-study.md",
+    "assets": "docs/assets/010-precision-study.md",
+    "qa": "docs/qa/2026-10-16-actual-010.md"
+  },
+  "trialApproval": {
+    "sourceSha256": "be63cc3efc3ada19053f19ef3d0d3e7f568d4e367f9b0aeafd8ac3d92740a3de",
+    "runtime": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/runtime.json"
+  },
+  "controls": {
+    "capture": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/controls/controls.json",
+    "review": "docs/production/runs/2026-10-16-actual-trial/010-controls-review-04.json"
+  },
+  "rendering": {
+    "mode": "local-3d",
+    "capture": "docs/evidence/redo-v2/2026-10-16/010-full-qa-04/rendering/rendering.json"
+  },
+  "styleReview": "docs/production/runs/2026-10-16-actual-trial/010-style-review-04.json"
+}

@@ -1,0 +1,36 @@
+{
+ "decision":"admit",
+ "dimensions":[
+  {"key":"opening-authority","againstBenchmark":"peer","finding":"基准以层叠材料和嵌合衬线建立主体；母版以偏中右仪表、彩色外圈和左侧重字建立同样明确的主次，手机也有完整的圆周与标题关系。","benchmarkFrames":["benchmark-0","benchmark-4"],"candidateFrames":["reference-12","reference-16"]},
+  {"key":"type-media-craft","againstBenchmark":"peer","finding":"母版的短重字、细刻度及暗色显示面相互配合，浅色展开状态的轮廓粗细与空间密度受控；与基准的细字和材料关系采用不同但同样精确的办法。","benchmarkFrames":["benchmark-0","benchmark-2"],"candidateFrames":["reference-12","reference-13"]},
+  {"key":"asset-specificity","againstBenchmark":"peer","finding":"展开轴体可辨认密集的齿槽、壳体和部件层级，彩色刻度及内侧显示组织有专属身份；这些细节承担主体识别，达到基准纤维边缘的具体性。","benchmarkFrames":["benchmark-2"],"candidateFrames":["reference-13","reference-14"]},
+  {"key":"scroll-choreography","againstBenchmark":"peer","finding":"已锁短路径从暗底完整仪表进入浅底斜轴轮廓，再回到点阵及弹性内景，色彩、观看尺度和主体身份相接；正反序列均有对应主体，而非多张无关图片淡入。","benchmarkFrames":["benchmark-0","benchmark-1","benchmark-2","benchmark-3"],"candidateFrames":["reference-12","reference-13","reference-14","reference-15","reference-20","reference-21","reference-23","reference-24"]},
+  {"key":"pointer-finish","againstBenchmark":"peer","finding":"绿色对象在仪表内部随按下、移动及返回改变形态和尺度，松开后回到完整圆形，减少动态仍保留对象与仪表；反馈直接作用于主体，具有与材料揭示相当的观看作用。","benchmarkFrames":["benchmark-2"],"candidateFrames":["reference-26","reference-27","reference-28","reference-29","reference-30"]},
+  {"key":"whole-page-resolution","againstBenchmark":"peer","finding":"审查的是计划明确选定、到弹性仪表结束的四状态短路径，末态保留完整壳体与独立荧光内景，形成可操作的视觉终点；原站后续代码工具及订阅不属于所选页面收束。","benchmarkFrames":["benchmark-3","benchmark-7"],"candidateFrames":["reference-15","reference-19","reference-29"]},
+  {"key":"mobile-composition","againstBenchmark":"peer","finding":"手机将短标题置顶、完整仪表置于中下，浅色展开轴体有独立斜向空间，点阵和绿色末态仍在壳体内；四状态均未依赖桌面横向裁切或鼠标才可理解。","benchmarkFrames":["benchmark-4","benchmark-5","benchmark-6","benchmark-7"],"candidateFrames":["reference-16","reference-17","reference-18","reference-19"]}
+ ],
+ "signatureFeatures":[
+  {"name":"precision-mechanism-and-material-to-linework","core":true,"retained":true,"sceneLevel":true,"visualPurpose":"浅底斜向机械轴体保留齿形、槽和装配层次，实体与轮廓构成不同观看状态，不能用无身份的普通圆柱组替换。","referenceFrames":["reference-12","reference-13","reference-17"],"candidateFrames":[]},
+  {"name":"wave-to-stagger-display","core":true,"retained":true,"sceneLevel":true,"visualPurpose":"红色横线波形与蓝色点阵均处于同一外壳内部，显示组织随过程变化而主体刻度持续存在，形成内容与造型的连续关系。","referenceFrames":["reference-12","reference-14","reference-16","reference-18"],"candidateFrames":[]},
+  {"name":"spring-object-contained-in-instrument","core":true,"retained":true,"sceneLevel":true,"visualPurpose":"绿色弹性对象始终由完整仪表包围，按下、移动和释放实际改变内景，收束保留与开场相同的主体身份及加工精度。","referenceFrames":["reference-15","reference-19","reference-26","reference-27","reference-29","reference-30"],"candidateFrames":[]}
+ ],
+ "stateChecks":[
+  {"viewport":"desktop","state":"opening","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"偏中右的完整仪表与左上短重字形成清楚关系，外圈彩色刻度、暗面和红色波形都可辨认，开场主视觉身份成立。","frames":["reference-12"]},
+  {"viewport":"desktop","state":"transition","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"暖灰背景中的斜向机械轴体显示分层壳体、齿槽及轮廓深度，细线与左上标题有独立留白，承担对内部结构的观看。","frames":["reference-13"]},
+  {"viewport":"desktop","state":"middle","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"蓝色点阵位于仪表显示面内，壳体与彩色刻度保持完整，左下蓝字与显示颜色呼应，主图没有被无关点阵面替代。","frames":["reference-14"]},
+  {"viewport":"desktop","state":"ending","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"荧光绿圆形对象位于完整暗色仪表内，左下短标题与可操控主体形成独立末态，真实拖动和释放延续同一视觉身份。","frames":["reference-15"]},
+  {"viewport":"mobile","state":"opening","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"手机短标题在上、仪表位于中下，圆周完整且红色波形可辨，文字未盖住主要对象，默认加载无需交互即可理解主体。","frames":["reference-16"]},
+  {"viewport":"mobile","state":"transition","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"展开轴体在手机中保留完整斜向关系，细轮廓和层叠部件仍可识别，上方标题与主体之间有足够空间，没有切掉关键结构。","frames":["reference-17"]},
+  {"viewport":"mobile","state":"middle","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"手机蓝色点阵仍被仪表外壳包围，上方标题与蓝点呼应，构图延续精细圆周而改变内部观看内容，显示层级清楚。","frames":["reference-18"]},
+  {"viewport":"mobile","state":"ending","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"手机末态保留完整仪表与内部绿色对象，标题有独立上方区域，直接操控的观看对象清楚，不依赖通用联系块完成结尾。","frames":["reference-19"]}
+ ],
+ "continuityChecks":[
+  {"id":"instrument-identity","viewport":"desktop","status":"preserved","finding":"四态由圆形外壳、内部机械展开、点阵显示及绿色操控对象组成，外圈与装配语言保持同一仪表身份；不同状态的材料和底色承担观看深化。","frames":["reference-12","reference-13","reference-14","reference-15"]},
+  {"id":"instrument-identity","viewport":"mobile","status":"preserved","finding":"手机四态同样以完整仪表为连续主体，只有内部结构和显示组织改变，展开状态的部件语言与圆壳相接，未以无关几何或摄影切断身份。","frames":["reference-16","reference-17","reference-18","reference-19"]}
+ ],
+ "motion":[
+  {"input":"pointer","normal":true,"forward":true,"reverse":true,"leaveOrStop":true,"reduced":true,"primaryVisual":true,"frames":["reference-26","reference-27","reference-28","reference-29","reference-30"]},
+  {"input":"scroll","normal":true,"forward":true,"reverse":true,"leaveOrStop":true,"reduced":true,"primaryVisual":true,"frames":["reference-20","reference-21","reference-23","reference-24","reference-25","reference-31","reference-32","reference-34","reference-35","reference-36"]}
+ ],
+ "nextAction":"admit","fixTasks":[]
+}

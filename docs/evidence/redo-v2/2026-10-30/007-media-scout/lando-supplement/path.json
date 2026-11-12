@@ -1,0 +1,29 @@
+{
+  "url": "https://landonorris.com/",
+  "purpose": "source observation supplement; no quality judgment",
+  "result": "incomplete",
+  "frames": [],
+  "actions": [],
+  "errors": [
+    {
+      "code": "browser-timeout",
+      "message": "BrowserPage.create failed before target creation; WebSocket did not open within 12000ms."
+    }
+  ],
+  "observedAt": "2026-10-30T05:40:25.316Z",
+  "firstDirectoryCreatedAt": "2026-10-30T05:36:02.256Z",
+  "authoritativeChecks": {
+    "browserPid": 21648,
+    "browserVerifiedLive": true,
+    "processResponding": true,
+    "endpointPort": 1110,
+    "portVerifiedListening": true,
+    "doctor": "agent-browser doctor --offline --quick found session webart-007-scout-20261030 pid 41164; no repair requested",
+    "http": "Direct localhost version request timed out after 5005ms without bytes",
+    "restartPerformed": false
+  },
+  "limitations": [
+    "Live process was not treated as terminal from a timeout. No source visual failure inferred from connection failure.",
+    "No settled desktop opening, finite ending, pointer or reduced-motion supplement was captured."
+  ]
+}

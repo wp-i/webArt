@@ -1,0 +1,665 @@
+{
+  "targetId": "846145BDA9ECCD0EC386E3F440A66BED",
+  "records": [
+    {
+      "name": "opening",
+      "observations": {
+        "url": "https://minorstep.com/",
+        "scrollY": 0,
+        "height": 900,
+        "images": [
+          {
+            "alt": "Dior Sauvage Extrait bottle surrounded by translucent amber resin, real oud and natural fragrance ingredients, illuminated from behind.",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": -161.5917510986328,
+              "width": 1440,
+              "height": 900,
+              "top": -161.5917510986328,
+              "right": 1440,
+              "bottom": 738.4082489013672,
+              "left": 0
+            },
+            "transform": "none"
+          },
+          {
+            "alt": "",
+            "loaded": true,
+            "box": {
+              "x": -2880,
+              "y": -1061.591796875,
+              "width": 7200,
+              "height": 4500,
+              "top": -1061.591796875,
+              "right": 4320,
+              "bottom": 3438.408203125,
+              "left": -2880
+            },
+            "transform": "matrix(5, 0, 0, 5, 0, 0)"
+          }
+        ],
+        "transformed": [
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -4.95954)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -4.95954)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -4.95954)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -4.95954)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "pointer-left",
+      "observations": {
+        "url": "https://minorstep.com/",
+        "scrollY": 0,
+        "height": 900,
+        "images": [
+          {
+            "alt": "",
+            "loaded": true,
+            "box": {
+              "x": -2880,
+              "y": -1800,
+              "width": 7200,
+              "height": 4500,
+              "top": -1800,
+              "right": 4320,
+              "bottom": 2700,
+              "left": -2880
+            },
+            "transform": "matrix(5, 0, 0, 5, 0, 0)"
+          }
+        ],
+        "transformed": [
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "pointer-right",
+      "observations": {
+        "url": "https://minorstep.com/",
+        "scrollY": 0,
+        "height": 900,
+        "images": [
+          {
+            "alt": "",
+            "loaded": true,
+            "box": {
+              "x": -2880,
+              "y": -1800,
+              "width": 7200,
+              "height": 4500,
+              "top": -1800,
+              "right": 4320,
+              "bottom": 2700,
+              "left": -2880
+            },
+            "transform": "matrix(5, 0, 0, 5, 0, 0)"
+          }
+        ],
+        "transformed": [
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "pointer-leave",
+      "observations": {
+        "url": "https://minorstep.com/",
+        "scrollY": 0,
+        "height": 900,
+        "images": [
+          {
+            "alt": "",
+            "loaded": true,
+            "box": {
+              "x": -2880,
+              "y": -1800,
+              "width": 7200,
+              "height": 4500,
+              "top": -1800,
+              "right": 4320,
+              "bottom": 2700,
+              "left": -2880
+            },
+            "transform": "matrix(5, 0, 0, 5, 0, 0)"
+          }
+        ],
+        "transformed": [
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -26.4062)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "forward-0",
+      "observations": {
+        "url": "https://minorstep.com/",
+        "scrollY": 0,
+        "height": 900,
+        "images": [
+          {
+            "alt": "",
+            "loaded": true,
+            "box": {
+              "x": -2880,
+              "y": -2664.472900390625,
+              "width": 7200,
+              "height": 4500,
+              "top": -2664.472900390625,
+              "right": 4320,
+              "bottom": 1835.527099609375,
+              "left": -2880
+            },
+            "transform": "matrix(5, 0, 0, 5, 0, 0)"
+          },
+          {
+            "alt": "Extreme low-angle still life of three Dries Van Noten lipstick cases, with an embossed gold base enlarged monumentally in the foreground.",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 35.527099609375,
+              "width": 1440,
+              "height": 900,
+              "top": 35.527099609375,
+              "right": 1440,
+              "bottom": 935.527099609375,
+              "left": 0
+            },
+            "transform": "none"
+          }
+        ],
+        "transformed": [
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -51.788)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -51.788)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -51.788)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -51.788)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "forward-1",
+      "observations": {
+        "url": "https://minorstep.com/",
+        "scrollY": 0,
+        "height": 900,
+        "images": [
+          {
+            "alt": "",
+            "loaded": true,
+            "box": {
+              "x": -2880,
+              "y": -2700,
+              "width": 7200,
+              "height": 4500,
+              "top": -2700,
+              "right": 4320,
+              "bottom": 1800,
+              "left": -2880
+            },
+            "transform": "matrix(5, 0, 0, 5, 0, 0)"
+          },
+          {
+            "alt": "Extreme low-angle still life of three Dries Van Noten lipstick cases, with an embossed gold base enlarged monumentally in the foreground.",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 900,
+              "top": 0,
+              "right": 1440,
+              "bottom": 900,
+              "left": 0
+            },
+            "transform": "none"
+          }
+        ],
+        "transformed": [
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -52.8125)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -52.8125)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -52.8125)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -52.8125)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "forward-2",
+      "observations": {
+        "url": "https://minorstep.com/",
+        "scrollY": 0,
+        "height": 900,
+        "images": [
+          {
+            "alt": "Extreme low-angle still life of three Dries Van Noten lipstick cases, with an embossed gold base enlarged monumentally in the foreground.",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": -864.507568359375,
+              "width": 1440,
+              "height": 900,
+              "top": -864.507568359375,
+              "right": 1440,
+              "bottom": 35.492431640625,
+              "left": 0
+            },
+            "transform": "none"
+          },
+          {
+            "alt": "Extreme macro abstraction of crimson citrus membranes, glossy dark vesicles, translucent amber-red tissue and pitted rind against black.",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 35.492431640625,
+              "width": 1440,
+              "height": 900,
+              "top": 35.492431640625,
+              "right": 1440,
+              "bottom": 935.492431640625,
+              "left": 0
+            },
+            "transform": "none"
+          }
+        ],
+        "transformed": [
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -78.1942)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -78.1942)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -78.1942)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -78.1942)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reverse",
+      "observations": {
+        "url": "https://minorstep.com/",
+        "scrollY": 0,
+        "height": 900,
+        "images": [
+          {
+            "alt": "Extreme macro abstraction of crimson citrus membranes, glossy dark vesicles, translucent amber-red tissue and pitted rind against black.",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 900,
+              "top": 0,
+              "right": 1440,
+              "bottom": 900,
+              "left": 0
+            },
+            "transform": "none"
+          }
+        ],
+        "transformed": [
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -79.2188)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -79.2188)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -79.2188)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          },
+          {
+            "class": "home-module__NoU7wq__info_text_wrapper",
+            "transform": "matrix(1, 0, 0, 1, 0, -79.2188)"
+          },
+          {
+            "class": "OCR_A",
+            "transform": "matrix(1, 0, 0, 1, 0, 1)"
+          },
+          {
+            "class": "",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.25)"
+          }
+        ]
+      }
+    }
+  ]
+}

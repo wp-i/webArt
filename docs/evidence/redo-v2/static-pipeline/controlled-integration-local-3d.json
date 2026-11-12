@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261017182111901-0cf667d7",
+  "mode": "configuration-driven",
+  "productionMode": "frozen-renderer",
+  "codeGenerationCalls": 0,
+  "execution": "controlled-fixture",
+  "started": "2026-10-17T18:21:11.903Z",
+  "model": "controlled-fixture",
+  "ids": [
+    "010"
+  ],
+  "status": "ready-for-user-review",
+  "stage": "packaging",
+  "usage": [],
+  "candidates": [],
+  "deliveries": [
+    {
+      "id": "010",
+      "title": "Pace",
+      "directory": ".webart/prototypes/api-20261017182111901-0cf667d7-010",
+      "archivePath": ".webart/trials/api-20261017182111901-0cf667d7-010-source.zip",
+      "bytes": 36235,
+      "sha256": "11a378ef15f42638f65ff58a645a864a8f3b07f600a2b4ef4cd7f21eaf6c482a",
+      "sourceSha256": "67a54303b5b15cdde2e904620b34e6af8fece3b4b288c6e5fc49b056a9284835",
+      "qaRecord": "docs/qa/api-20261017182111901-0cf667d7-010.md",
+      "capturePath": "docs/evidence/production/api-20261017182111901-0cf667d7/010-prototype-0-0/capture.json",
+      "http": {
+        "previewAndAllAssets": "passed",
+        "archiveHttp": "passed"
+      },
+      "quality": "controlled-fixture-not-art-admitted"
+    }
+  ],
+  "inventoryChanged": false,
+  "visualAcceptance": "not-applicable-engineering-fixture",
+  "finished": "2026-10-17T18:22:41.651Z",
+  "integration": {
+    "purpose": "Controlled engineering test only. No live model calls, real visual admission, new design or public release.",
+    "modelRoleCalls": [
+      "reference-review",
+      "prototype-review",
+      "style-review",
+      "controls-review"
+    ],
+    "preservation": {
+      "changedContract": "correctly-blocked",
+      "openingUsedForEnding": "correctly-blocked"
+    },
+    "rendering": {
+      "realFailureCases": 6,
+      "capturedStates": 24,
+      "tamperedSource": "correctly-blocked",
+      "tamperedImage": "correctly-blocked"
+    }
+  }
+}

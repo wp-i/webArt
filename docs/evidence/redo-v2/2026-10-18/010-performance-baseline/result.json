@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-18",
+  "sourceSha256": "be63cc3efc3ada19053f19ef3d0d3e7f568d4e367f9b0aeafd8ac3d92740a3de",
+  "url": "http://127.0.0.1:4323/",
+  "checks": [
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "cpu": 1,
+      "state": "opening",
+      "gpu": {
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "dpr": 1,
+        "width": 1430,
+        "height": 900
+      },
+      "elapsed": 1802.5,
+      "rafFrames": 117,
+      "rafP95": 25.09999999999991,
+      "rafMax": 25.40000000000009,
+      "renderFrames": 117,
+      "triangles": 340148,
+      "heapBytes": 36977581
+    },
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "cpu": 1,
+      "state": "transition",
+      "gpu": {
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "dpr": 1,
+        "width": 1430,
+        "height": 900
+      },
+      "elapsed": 1804.4999999985102,
+      "rafFrames": 217,
+      "rafP95": 8.5,
+      "rafMax": 8.600000000000364,
+      "renderFrames": 217,
+      "triangles": 622312,
+      "heapBytes": 35660586
+    },
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "cpu": 1,
+      "state": "middle",
+      "gpu": {
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "dpr": 1,
+        "width": 1430,
+        "height": 900
+      },
+      "elapsed": 1811.9999999940392,
+      "rafFrames": 131,
+      "rafP95": 25,
+      "rafMax": 25.200000000000728,
+      "renderFrames": 131,
+      "triangles": 340148,
+      "heapBytes": 37895945
+    },
+    {
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "cpu": 1,
+      "state": "ending",
+      "gpu": {
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "dpr": 1,
+        "width": 1430,
+        "height": 900
+      },
+      "elapsed": 1807.7000000000007,
+      "rafFrames": 131,
+      "rafP95": 25,
+      "rafMax": 25.30000000000109,
+      "renderFrames": 131,
+      "triangles": 340148,
+      "heapBytes": 35983343
+    },
+    {
+      "viewport": "mobile-stress",
+      "width": 390,
+      "height": 844,
+      "cpu": 4,
+      "state": "opening",
+      "gpu": {
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "dpr": 1,
+        "width": 390,
+        "height": 844
+      },
+      "elapsed": 1801.9999999970196,
+      "rafFrames": 171,
+      "rafP95": 16.699999999999818,
+      "rafMax": 16.799999999999272,
+      "renderFrames": 171,
+      "triangles": 340148,
+      "heapBytes": 93531067
+    },
+    {
+      "viewport": "mobile-stress",
+      "width": 390,
+      "height": 844,
+      "cpu": 4,
+      "state": "transition",
+      "gpu": {
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "dpr": 1,
+        "width": 390,
+        "height": 844
+      },
+      "elapsed": 1808.5000000014898,
+      "rafFrames": 187,
+      "rafP95": 16.700000000000728,
+      "rafMax": 16.80000000000109,
+      "renderFrames": 187,
+      "triangles": 622312,
+      "heapBytes": 75837281
+    },
+    {
+      "viewport": "mobile-stress",
+      "width": 390,
+      "height": 844,
+      "cpu": 4,
+      "state": "middle",
+      "gpu": {
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "dpr": 1,
+        "width": 390,
+        "height": 844
+      },
+      "elapsed": 1805.9000000014894,
+      "rafFrames": 173,
+      "rafP95": 16.700000000000728,
+      "rafMax": 16.80000000000109,
+      "renderFrames": 173,
+      "triangles": 340148,
+      "heapBytes": 68462006
+    },
+    {
+      "viewport": "mobile-stress",
+      "width": 390,
+      "height": 844,
+      "cpu": 4,
+      "state": "ending",
+      "gpu": {
+        "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "dpr": 1,
+        "width": 390,
+        "height": 844
+      },
+      "elapsed": 1800.7000000014905,
+      "rafFrames": 171,
+      "rafP95": 16.700000000000728,
+      "rafMax": 16.899999999999636,
+      "renderFrames": 171,
+      "triangles": 340148,
+      "heapBytes": 83073702
+    }
+  ],
+  "meaning": "Observed baseline only, not a performance pass.",
+  "finished": "2026-10-18T04:58:35.164Z"
+}

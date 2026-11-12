@@ -1,0 +1,32 @@
+{
+ "decision":"admit",
+ "dimensions":[
+  {"key":"opening-authority","againstBenchmark":"peer","finding":"基准以层叠材料与细长字形形成主次；母版以完整摄影、居中衬线身份与窄侧栏构成清楚层级，人物所穿的织物和手机室内变体均将触感与空间直接呈现。","benchmarkFrames":["benchmark-0","benchmark-4"],"candidateFrames":["reference-28","reference-32"]},
+  {"key":"type-media-craft","againstBenchmark":"peer","finding":"母版细衬线与完整摄影形成编辑式关系，侧栏和索引的轻无衬线有明确次级尺度；白底索引与满幅空间之间的密度反差受控，采用与基准不同的字形和摄影工艺。","benchmarkFrames":["benchmark-0","benchmark-2"],"candidateFrames":["reference-28","reference-29","reference-30"]},
+  {"key":"asset-specificity","againstBenchmark":"peer","finding":"开场织物、空间内的不同软装以及结尾窗帘接触地板的光影均有具体材质关系，竖幅近景中的织纹和灯光仍清楚，摄影不是任意风景填充。","benchmarkFrames":["benchmark-2"],"candidateFrames":["reference-28","reference-29","reference-30","reference-31"]},
+  {"key":"scroll-choreography","againstBenchmark":"peer","finding":"实际正反过程把近处身份带入横向贯穿的室内视线，再缩到竖幅索引并以窗帘空间结束；相邻空间在同一视口交接，变化服务于材料在空间中的作用。","benchmarkFrames":["benchmark-0","benchmark-1","benchmark-2","benchmark-3"],"candidateFrames":["reference-29","reference-37","reference-38","reference-39","reference-48","reference-49","reference-50"]},
+  {"key":"pointer-finish","againstBenchmark":"peer","finding":"索引进入和返回实际在同一主图位置切换人物持织物与窗帘细节，离开恢复完整图像；输入改变观看内容，具有与基准指针揭示相当的具体观看作用。","benchmarkFrames":["benchmark-2"],"candidateFrames":["reference-42","reference-43","reference-44","reference-45","reference-46"]},
+  {"key":"whole-page-resolution","againstBenchmark":"peer","finding":"独立结尾把透明薄纱、厚织物、木地板和光线置于同一画面，预约行动保持次级，视觉结果继续完成开场的材料与居住关系，没有下降到纯文字工具页脚。","benchmarkFrames":["benchmark-3","benchmark-7"],"candidateFrames":["reference-31","reference-35"]},
+  {"key":"mobile-composition","againstBenchmark":"peer","finding":"手机以窄竖幅保留室内和织物主体，侧栏改为底部短标注，索引转为图上文下；开场、中段和结尾都有完整观看比例，核心主题不依赖桌面横向构图。","benchmarkFrames":["benchmark-4","benchmark-6","benchmark-7"],"candidateFrames":["reference-32","reference-33","reference-34","reference-35"]}
+ ],
+ "signatureFeatures":[
+  {"name":"textile-to-spatial-panorama","core":true,"retained":true,"sceneLevel":true,"visualPurpose":"由具体织物身份进入满高空间摄影，原生滚动横向推进相邻室内的观看和尺度关系，再回到织物与地板光影的空间结果。","referenceFrames":["reference-28","reference-29","reference-31","reference-37","reference-38","reference-48","reference-49"],"candidateFrames":[]},
+  {"name":"index-selects-material-view","core":true,"retained":true,"sceneLevel":true,"visualPurpose":"索引的实际进入、返回和离开在同一主图位置改变人物与材料观看，图像的内容与索引语义相接，不是只有游标、颜色或轻移的装饰。","referenceFrames":["reference-30","reference-34","reference-42","reference-43","reference-44","reference-45","reference-46"],"candidateFrames":[]}
+ ],
+ "stateChecks":[
+  {"viewport":"desktop","state":"opening","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"摄影中的人物、蓬松浅色织物与居中白色衬线建立清楚身份，窄侧栏次级；这是一种实际开场变体，织物与设计者关系直接可见。","frames":["reference-28"]},
+  {"viewport":"desktop","state":"transition","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"相邻室内照片横向接合，窗帘、沙发与木材的色彩和空间层次完整，固定窄侧栏提供当前项目语义，构图实际推进空间观看。","frames":["reference-29"]},
+  {"viewport":"desktop","state":"middle","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"白底中竖幅窗帘与灯光摄影和右侧轻字索引形成独立比例，织纹与暖光细节可辨，与前段满幅照片形成有用的观看变化。","frames":["reference-30"]},
+  {"viewport":"desktop","state":"ending","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"透明薄纱、条纹厚织物与木地板接触形成完整摄影结果，品牌和预约行动处于次级，主题从材质返回实际居住空间。","frames":["reference-31"]},
+  {"viewport":"mobile","state":"opening","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"手机实际开场为窗边与家具的摄影变体，衬线身份位于中央，垂直窗帘、灯和桌面关系完整，底部用途条未遮住主体。","frames":["reference-32"]},
+  {"viewport":"mobile","state":"transition","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"手机横向空间浏览保留椅子织物、墙上绘画与相邻室内边界，单幅有足够面积，底部项目标签提供当前观看对象。","frames":["reference-33"]},
+  {"viewport":"mobile","state":"middle","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"竖幅材质照片居中，索引文字完整置于其下，白色留白与前段满幅摄影形成比例变化，材料主图和选择语义同时可见。","frames":["reference-34"]},
+  {"viewport":"mobile","state":"ending","subject":"preserved","material":"preserved","composition":"preserved","role":"preserved","finding":"末态保留薄纱、条纹织物和地板的交界，预约按钮与短联系在主体上方清楚可见，手机结尾保持独立摄影收束的作用。","frames":["reference-35"]}
+ ],
+ "continuityChecks":[],
+ "motion":[
+  {"input":"scroll","normal":true,"forward":true,"reverse":true,"leaveOrStop":true,"reduced":true,"primaryVisual":true,"frames":["reference-36","reference-37","reference-38","reference-39","reference-40","reference-41","reference-47","reference-48","reference-49","reference-50","reference-51","reference-52"]},
+  {"input":"pointer","normal":true,"forward":true,"reverse":true,"leaveOrStop":true,"reduced":true,"primaryVisual":true,"frames":["reference-42","reference-43","reference-44","reference-45","reference-46"]}
+ ],
+ "nextAction":"admit","fixTasks":[]
+}

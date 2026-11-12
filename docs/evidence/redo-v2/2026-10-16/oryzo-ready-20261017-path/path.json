@@ -1,0 +1,432 @@
+{
+  "url": "https://oryzo.ai/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/oryzo-ready-20261017-path/opening.jpg",
+      "sha256": "ec30cfc523007c91ac12cbc7260027464fd58b825c7a655a57b2f80145a24134"
+    },
+    {
+      "state": "early",
+      "y": 200,
+      "path": "docs/evidence/redo-v2/2026-10-16/oryzo-ready-20261017-path/early.jpg",
+      "sha256": "28c37cec1a8251d2257f67aae4d2d8644430ce5f45b4527059688b528a28b228"
+    },
+    {
+      "state": "middle",
+      "y": 400,
+      "path": "docs/evidence/redo-v2/2026-10-16/oryzo-ready-20261017-path/middle.jpg",
+      "sha256": "02d6b86f5a042d3928bd1df4137eac3eeaa1fa20e1b51e6060bfade5518a3868"
+    },
+    {
+      "state": "late",
+      "y": 600,
+      "path": "docs/evidence/redo-v2/2026-10-16/oryzo-ready-20261017-path/late.jpg",
+      "sha256": "6ed0ff55e57c6ba4a61eb51161b8c299b9483e20d65c9ea19e6e41b5b97a06b5"
+    },
+    {
+      "state": "ending",
+      "y": 800,
+      "path": "docs/evidence/redo-v2/2026-10-16/oryzo-ready-20261017-path/ending.jpg",
+      "sha256": "3fd53d0f198ebd93a7bcbcf1ba1f3499416bdea0b99c676bec4391ec55143d99"
+    }
+  ],
+  "metadata": {
+    "height": 56691,
+    "headings": [
+      {
+        "text": "DESIGNED\nBY LUSION,\nTHE AWARD-WINNING\nDESIGN STUDIO.",
+        "tag": "H4",
+        "class": "",
+        "parent": "",
+        "top": 584
+      },
+      {
+        "text": "",
+        "tag": "H2",
+        "class": "",
+        "parent": "",
+        "top": 399
+      },
+      {
+        "text": "",
+        "tag": "H1",
+        "class": "",
+        "parent": "",
+        "top": 96
+      },
+      {
+        "text": "",
+        "tag": "H4",
+        "class": "",
+        "parent": "",
+        "top": 211
+      },
+      {
+        "text": "",
+        "tag": "H4",
+        "class": "",
+        "parent": "",
+        "top": 289
+      },
+      {
+        "text": "",
+        "tag": "H3",
+        "class": "features-item-title",
+        "parent": "features-item",
+        "top": 724
+      },
+      {
+        "text": "",
+        "tag": "H3",
+        "class": "features-item-title",
+        "parent": "features-item",
+        "top": 724
+      },
+      {
+        "text": "",
+        "tag": "H3",
+        "class": "features-item-title",
+        "parent": "features-item",
+        "top": 724
+      },
+      {
+        "text": "",
+        "tag": "H2",
+        "class": "",
+        "parent": "",
+        "top": 139
+      },
+      {
+        "text": "",
+        "tag": "H2",
+        "class": "",
+        "parent": "",
+        "top": 139
+      },
+      {
+        "text": "",
+        "tag": "H4",
+        "class": "",
+        "parent": "",
+        "top": 36992
+      },
+      {
+        "text": "",
+        "tag": "H2",
+        "class": "",
+        "parent": "",
+        "top": 37000
+      },
+      {
+        "text": "",
+        "tag": "H3",
+        "class": "sustainability-item-title",
+        "parent": "sustainability-item",
+        "top": 41246
+      },
+      {
+        "text": "",
+        "tag": "H4",
+        "class": "sustainability-item-title",
+        "parent": "sustainability-item",
+        "top": 41246
+      },
+      {
+        "text": "",
+        "tag": "H4",
+        "class": "sustainability-item-title",
+        "parent": "sustainability-item",
+        "top": 41246
+      },
+      {
+        "text": "",
+        "tag": "H2",
+        "class": "",
+        "parent": "",
+        "top": 41861
+      },
+      {
+        "text": "",
+        "tag": "H4",
+        "class": "",
+        "parent": "",
+        "top": 51993
+      },
+      {
+        "text": "",
+        "tag": "H4",
+        "class": "",
+        "parent": "",
+        "top": 53070
+      },
+      {
+        "text": "",
+        "tag": "H4",
+        "class": "",
+        "parent": "",
+        "top": 53940
+      },
+      {
+        "text": "",
+        "tag": "H4",
+        "class": "",
+        "parent": "",
+        "top": 53940
+      },
+      {
+        "text": "",
+        "tag": "H4",
+        "class": "",
+        "parent": "",
+        "top": 53940
+      },
+      {
+        "text": "",
+        "tag": "H2",
+        "class": "",
+        "parent": "",
+        "top": 54754
+      },
+      {
+        "text": "WE CAUGHT YOUR ATTENTION WITH A NON-EXISTENT PRODUCT.\nIF WE CAN SELL A COASTER, IMAGINE WHAT WE CAN DO FOR YOUR BRAND.",
+        "tag": "H2",
+        "class": "",
+        "parent": "",
+        "top": 55914
+      }
+    ],
+    "sections": [
+      {
+        "tag": "FOOTER",
+        "class": "",
+        "id": "site-footer",
+        "top": 876,
+        "height": 0
+      }
+    ],
+    "controls": [
+      {
+        "tag": "A",
+        "text": "L\nL\nU\nU\nS\nS\nI\nI\nO\nO\nN\nN\n.\n.\nC\nC\nO\nO",
+        "class": "btn is-dark is-flipper"
+      },
+      {
+        "tag": "A",
+        "text": "LUSION",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "C\nC\nO\nO\nP\nP\nY\nY\n U\nU\nR\nR\nL\nL",
+        "class": "is-flipper"
+      },
+      {
+        "tag": "A",
+        "text": "B\nB\nU\nU\nS\nS\nI\nI\nN\nN\nE\nE\nS\nS\nS\nS\n@\n@\nL\nL\nU\nU\nS",
+        "class": "footer-item-link is-flipper"
+      },
+      {
+        "tag": "A",
+        "text": "H\nH\nE\nE\nL\nL\nL\nL\nO\nO\n@\n@\nL\nL\nU\nU\nS\nS\nI\nI\nO\nO\nN",
+        "class": "footer-item-link is-flipper"
+      },
+      {
+        "tag": "A",
+        "text": "X",
+        "class": "footer-item-link"
+      },
+      {
+        "tag": "A",
+        "text": "I\nI\nN\nN\nS\nS\nT\nT\nA\nA\nG\nG\nR\nR\nA\nA\nM\nM",
+        "class": "footer-item-link is-flipper"
+      },
+      {
+        "tag": "A",
+        "text": "L\nL\nI\nI\nN\nN\nK\nK\nE\nE\nD\nD\nI\nI\nN\nN",
+        "class": "footer-item-link is-flipper"
+      },
+      {
+        "tag": "A",
+        "text": "T\nT\nE\nE\nR\nR\nM\nM\nS\nS\n &\n&\n C\nC\nO\nO\nN\nN\nD\nD\nI\nI",
+        "class": "footer-item-link is-flipper"
+      },
+      {
+        "tag": "A",
+        "text": "P\nP\nR\nR\nI\nI\nV\nV\nA\nA\nC\nC\nY\nY\n P\nP\nO\nO\nL\nL\nI\nI\n",
+        "class": "footer-item-link is-flipper"
+      },
+      {
+        "tag": "A",
+        "text": "I\nI\nN\nN\nT\nT\nR\nR\nO\nO",
+        "class": "is-flipper-target"
+      },
+      {
+        "tag": "A",
+        "text": "F\nF\nE\nE\nA\nA\nT\nT\nU\nU\nR\nR\nE\nE\nS\nS",
+        "class": "is-flipper-target"
+      },
+      {
+        "tag": "A",
+        "text": "P\nP\nR\nR\nO\nO\nD\nD\nU\nU\nC\nC\nT\nT",
+        "class": "is-flipper-target"
+      },
+      {
+        "tag": "A",
+        "text": "C\nC\nO\nO\nN\nN\nT\nT\nA\nA\nC\nC\nT\nT",
+        "class": "is-flipper-target"
+      }
+    ]
+  },
+  "inventory": {
+    "images": 39,
+    "videos": [
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 998.1796875,
+          "y": 90,
+          "width": 558.796875,
+          "height": 720,
+          "top": 90,
+          "right": 1556.9765625,
+          "bottom": 810,
+          "left": 998.1796875
+        },
+        "ready": 4,
+        "width": 832,
+        "height": 1072,
+        "paused": true
+      },
+      {
+        "tag": "VIDEO",
+        "rect": {
+          "x": 3223.6171875,
+          "y": 90,
+          "width": 556.359375,
+          "height": 720,
+          "top": 90,
+          "right": 3779.9765625,
+          "bottom": 810,
+          "left": 3223.6171875
+        },
+        "ready": 4,
+        "width": 850,
+        "height": 1100,
+        "paused": true
+      }
+    ],
+    "canvases": [
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "top": 0,
+          "right": 1440,
+          "bottom": 900,
+          "left": 0
+        },
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 434.8125,
+          "y": 83,
+          "width": 570.359375,
+          "height": 734,
+          "top": 83,
+          "right": 1005.171875,
+          "bottom": 817,
+          "left": 434.8125
+        },
+        "width": 571,
+        "height": 734
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900,
+          "top": 0,
+          "right": 1440,
+          "bottom": 900,
+          "left": 0
+        },
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 387,
+          "y": 41223,
+          "width": 495,
+          "height": 495,
+          "top": 41223,
+          "right": 882,
+          "bottom": 41718,
+          "left": 387
+        },
+        "width": 495,
+        "height": 495
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 986.625,
+          "y": 41309.625,
+          "width": 321.75,
+          "height": 321.75,
+          "top": 41309.625,
+          "right": 1308.375,
+          "bottom": 41631.375,
+          "left": 986.625
+        },
+        "width": 321,
+        "height": 321
+      },
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "width": 1440,
+        "height": 900
+      }
+    ],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [
+      {
+        "src": "https://player.vimeo.com/video/1174820580?h=5aaa6219d2&title=0&byline=0&controls=0&dnt=1&app_id=122963",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      }
+    ],
+    "manualRenderReviewRequired": true
+  },
+  "result": "scouted-not-admitted"
+}

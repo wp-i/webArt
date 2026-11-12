@@ -1,0 +1,4553 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Actual source input observation; no candidate, assets or admission",
+  "url": "https://hyllhotel.com/",
+  "started": "2026-10-30T05:39:57.015Z",
+  "frames": [
+    {
+      "label": "desktop-opening",
+      "at": "2026-10-30T05:40:07.853Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 7651,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "Read more",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          },
+          {
+            "text": "CookieScript",
+            "href": "https://cookie-script.com/privacy-policy.html"
+          },
+          {
+            "text": "report",
+            "href": "https://cookie-script.com/cookie-report?identifier=053e35329e567866a51d180f9ae17e7b"
+          },
+          {
+            "text": "CookieScript",
+            "href": "https://cookie-script.com/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-opening.jpg",
+        "sha256": "7fcfefffa48d20035a7ee365add406e0dd176fb82ec93b55bc80e69d6c09d1d2"
+      }
+    },
+    {
+      "label": "desktop-cookie-details",
+      "at": "2026-10-30T05:40:45.188Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 7651,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "Read more",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          },
+          {
+            "text": "CookieScript",
+            "href": "https://cookie-script.com/privacy-policy.html"
+          },
+          {
+            "text": "Cloudflare Inc.",
+            "href": "https://www.cloudflare.com/privacypolicy"
+          },
+          {
+            "text": "Google Privacy Policy",
+            "href": "https://business.safety.google/privacy/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-cookie-details.jpg",
+        "sha256": "93b074d277759165fd0639f6cadc8424519573e8aff310fad94fbd49276784a5"
+      }
+    },
+    {
+      "label": "desktop-cookie-choice-saved",
+      "at": "2026-10-30T05:41:20.494Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 7651,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "Read more",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          },
+          {
+            "text": "CookieScript",
+            "href": "https://cookie-script.com/privacy-policy.html"
+          },
+          {
+            "text": "Cloudflare Inc.",
+            "href": "https://www.cloudflare.com/privacypolicy"
+          },
+          {
+            "text": "report",
+            "href": "https://cookie-script.com/cookie-report?identifier=053e35329e567866a51d180f9ae17e7b"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-cookie-choice-saved.jpg",
+        "sha256": "3200e5cd2925897a8905b9534141ee0dd5d811de52f367a2566f7a486d352a04"
+      }
+    },
+    {
+      "label": "desktop-forward-1",
+      "at": "2026-10-30T05:41:21.742Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 700,
+        "heightDocument": 7651,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-forward-1.jpg",
+        "sha256": "3c237a494be604d9d33278355bedea700970e37ec2d62fde40a92ceaa3e17874"
+      }
+    },
+    {
+      "label": "desktop-forward-2",
+      "at": "2026-10-30T05:41:22.957Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 1400,
+        "heightDocument": 7716,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-forward-2.jpg",
+        "sha256": "23c71ce9214a3b55ec8960f4f2835468ec0210d9b6ae1b0a57dde5ba2bc2a3a6"
+      }
+    },
+    {
+      "label": "desktop-forward-3",
+      "at": "2026-10-30T05:41:24.147Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 2100,
+        "heightDocument": 8094,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "BOOK A STAY",
+            "href": "mailto:welcome@hyllhotel.com"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-forward-3.jpg",
+        "sha256": "323779fa598b9d6f6038739403dbf2ec3be83061e87da13cb77c3d609a27df5b"
+      }
+    },
+    {
+      "label": "desktop-forward-4",
+      "at": "2026-10-30T05:41:25.339Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 2800,
+        "heightDocument": 8094,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "BOOK A STAY",
+            "href": "mailto:welcome@hyllhotel.com"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "VIEW ALL",
+            "href": "https://hyllhotel.com/stay/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-forward-4.jpg",
+        "sha256": "3a0afe1dfd20ef2a7d95437065b88b152917611393eebb3d808a0a1d94483eda"
+      }
+    },
+    {
+      "label": "desktop-forward-5",
+      "at": "2026-10-30T05:41:26.534Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 3500,
+        "heightDocument": 8094,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-forward-5.jpg",
+        "sha256": "9f889c7da89ebce96ddd66e5c668e6a40cd885183132dc9a90d255c1ff4c1eb8"
+      }
+    },
+    {
+      "label": "desktop-forward-6",
+      "at": "2026-10-30T05:41:27.724Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 4200,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "BOOK A TABLE",
+            "href": "https://booking.resdiary.com/widget/Standard/CharingworthManor/52965"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-forward-6.jpg",
+        "sha256": "35b6d95917b469ef5d837703dbba8563d44addfe511567b070c807a4081ff3eb"
+      }
+    },
+    {
+      "label": "desktop-forward-7",
+      "at": "2026-10-30T05:41:28.908Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 4900,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT US",
+            "href": "https://welcome@hyllhotel.com/"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-forward-7.jpg",
+        "sha256": "a9ddd85f0bfecc757a6d4dd27bb7ed9f97256220c81c46d5f02b03884873fd0b"
+      }
+    },
+    {
+      "label": "desktop-forward-8",
+      "at": "2026-10-30T05:41:30.102Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 5600,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "EXPLORE",
+            "href": "https://hyllhotel.com/do-something/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-forward-8.jpg",
+        "sha256": "2cdf63acadcf002931b7a17fc8a2a18536d0b0640c3c7b0cc21f5687afcd7c28"
+      }
+    },
+    {
+      "label": "desktop-forward-9",
+      "at": "2026-10-30T05:41:31.276Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 6300,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "TAKE IT EASY",
+            "href": "https://hyllhotel.com/do-nothing/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-forward-9.jpg",
+        "sha256": "eb3282689e27b59b1c9a3b090e69aca8da55979ca46081d317e7fd0a74dd1c19"
+      }
+    },
+    {
+      "label": "desktop-to-end-1",
+      "at": "2026-10-30T05:41:56.090Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 7400,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "PRESS",
+            "href": "https://hyllhotel.com/press/"
+          },
+          {
+            "text": "FAQS",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "PRIVACY POLICY",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-to-end-1.jpg",
+        "sha256": "9e4b5e765558070443f201bc99f0ad1e3e672713f5be11055cda71977bc69a10"
+      }
+    },
+    {
+      "label": "desktop-to-end-2",
+      "at": "2026-10-30T05:41:57.261Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 7966,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "PRESS",
+            "href": "https://hyllhotel.com/press/"
+          },
+          {
+            "text": "FAQS",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "PRIVACY POLICY",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-to-end-2.jpg",
+        "sha256": "b27970e9a523f0e57a737e76a09a0b8a1d0bf0a220041feb6e42bce76218820d"
+      }
+    },
+    {
+      "label": "mobile-opening",
+      "at": "2026-10-30T05:42:20.361Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 6349,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-opening.jpg",
+        "sha256": "a5a461303781fab38e2a59562d4e44c477d7cbefa93a7d174befbe4ac996d354"
+      }
+    },
+    {
+      "label": "mobile-forward-1",
+      "at": "2026-10-30T05:42:22.424Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 575,
+        "heightDocument": 6349,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-1.jpg",
+        "sha256": "9bafcd8fa44a10f2be8b767aa4549fd42827adc6195a4af52a4d0639b67ea8ed"
+      }
+    },
+    {
+      "label": "mobile-forward-2",
+      "at": "2026-10-30T05:42:24.442Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 1150,
+        "heightDocument": 6740,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "BOOK A STAY",
+            "href": "mailto:welcome@hyllhotel.com"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-2.jpg",
+        "sha256": "4a06739fe20c4969e6ee173baac73722409d4d0da539b8c0b43654e3dff512a6"
+      }
+    },
+    {
+      "label": "mobile-forward-3",
+      "at": "2026-10-30T05:42:26.480Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 1150,
+        "heightDocument": 6740,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "BOOK A STAY",
+            "href": "mailto:welcome@hyllhotel.com"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-3.jpg",
+        "sha256": "dfe1b1ac104bb7df13ba1bd8ca023c58c4cff3022a47ebbaccfd0a9f693e5f36"
+      }
+    },
+    {
+      "label": "mobile-forward-4",
+      "at": "2026-10-30T05:42:28.492Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 1725,
+        "heightDocument": 6740,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "BOOK A STAY",
+            "href": "mailto:welcome@hyllhotel.com"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "VIEW ALL",
+            "href": "https://hyllhotel.com/stay/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-4.jpg",
+        "sha256": "639c57874e849268411a7f0017c8d9a1f0a527fca63820ff2df4fc0d8c944a8f"
+      }
+    },
+    {
+      "label": "mobile-forward-5",
+      "at": "2026-10-30T05:42:30.512Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 2300,
+        "heightDocument": 6740,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-5.jpg",
+        "sha256": "26dd8359004bdc0decf65bfab651ccf6f7dfa8cf9dfb7b0a49edd49b525bcaf7"
+      }
+    },
+    {
+      "label": "mobile-forward-6",
+      "at": "2026-10-30T05:42:32.496Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 2875,
+        "heightDocument": 7132,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "BOOK A TABLE",
+            "href": "https://booking.resdiary.com/widget/Standard/CharingworthManor/52965"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-6.jpg",
+        "sha256": "26847222c1355afe208a80b96f8c144f548d2a27a31cb821ea31256a3e27d4d0"
+      }
+    },
+    {
+      "label": "mobile-forward-7",
+      "at": "2026-10-30T05:42:34.455Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 3450,
+        "heightDocument": 7132,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT US",
+            "href": "https://welcome@hyllhotel.com/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-7.jpg",
+        "sha256": "f56ae4ec9ffad3e8b2247c098dba109faa27391b0e2ac7be3d7a8daa9458b1a8"
+      }
+    },
+    {
+      "label": "mobile-forward-8",
+      "at": "2026-10-30T05:42:36.441Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 4025,
+        "heightDocument": 7524,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT US",
+            "href": "https://welcome@hyllhotel.com/"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-8.jpg",
+        "sha256": "eaacb10e8f7b6b13a72162c05573e84a832359e9af2403e3cbd86efdebb162d4"
+      }
+    },
+    {
+      "label": "mobile-forward-9",
+      "at": "2026-10-30T05:42:38.382Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 4600,
+        "heightDocument": 7524,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "EXPLORE",
+            "href": "https://hyllhotel.com/do-something/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-9.jpg",
+        "sha256": "449f85bd5236afb88db62419d5908bd9af7bb3a98d5227dcc6e2c9363a6ba309"
+      }
+    },
+    {
+      "label": "mobile-forward-10",
+      "at": "2026-10-30T05:42:40.356Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 5175,
+        "heightDocument": 7524,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "TAKE IT EASY",
+            "href": "https://hyllhotel.com/do-nothing/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-10.jpg",
+        "sha256": "7ed18d1d37e4f4f054ffcf264f4af19170907b480666f7b4d2f7db9a3cf9dbf8"
+      }
+    },
+    {
+      "label": "mobile-forward-11",
+      "at": "2026-10-30T05:42:42.339Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 5750,
+        "heightDocument": 7524,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-11.jpg",
+        "sha256": "48decdd73900c64414824e8fa098ae65e4514e230646516456e4393bf16da6f1"
+      }
+    },
+    {
+      "label": "mobile-forward-12",
+      "at": "2026-10-30T05:42:44.325Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 6325,
+        "heightDocument": 7524,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "PRESS",
+            "href": "https://hyllhotel.com/press/"
+          },
+          {
+            "text": "FAQS",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "PRIVACY POLICY",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-12.jpg",
+        "sha256": "35967180ddb78ef6560ba979d96ac8f74f9778853ef2382e4d1e8a472522c29b"
+      }
+    },
+    {
+      "label": "mobile-forward-13",
+      "at": "2026-10-30T05:42:46.290Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 6680,
+        "heightDocument": 7524,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "PRESS",
+            "href": "https://hyllhotel.com/press/"
+          },
+          {
+            "text": "FAQS",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "PRIVACY POLICY",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-forward-13.jpg",
+        "sha256": "3d05f30273386908e569ac088e26f8355e7f8f08320fc42ff65bc32340282caa"
+      }
+    },
+    {
+      "label": "mobile-end-popup-closed",
+      "at": "2026-10-30T05:43:03.278Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 6680,
+        "heightDocument": 7524,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "PRESS",
+            "href": "https://hyllhotel.com/press/"
+          },
+          {
+            "text": "FAQS",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "PRIVACY POLICY",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-end-popup-closed.jpg",
+        "sha256": "3d05f30273386908e569ac088e26f8355e7f8f08320fc42ff65bc32340282caa"
+      }
+    },
+    {
+      "label": "mobile-extra-forward-end",
+      "at": "2026-10-30T05:43:05.240Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 390,
+        "height": 844,
+        "screen": [
+          390,
+          844
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 6680,
+        "heightDocument": 7524,
+        "ua": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8078.48 Mobile Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourtyard ",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "PRESS",
+            "href": "https://hyllhotel.com/press/"
+          },
+          {
+            "text": "FAQS",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "PRIVACY POLICY",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/mobile-extra-forward-end.jpg",
+        "sha256": "3d05f30273386908e569ac088e26f8355e7f8f08320fc42ff65bc32340282caa"
+      }
+    },
+    {
+      "label": "desktop-unobscured-opening",
+      "at": "2026-10-30T05:43:14.627Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 0,
+        "heightDocument": 7651,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-unobscured-opening.jpg",
+        "sha256": "3ed4ab3e6035d775763e32325ef1289c48c66da937f19afebe9ce0cb2d22e4c1"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-1",
+      "at": "2026-10-30T05:43:15.812Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 700,
+        "heightDocument": 7651,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-1.jpg",
+        "sha256": "11a7f0463e189d4d2caabd675c6e6307666acb34a6ca7cae950e3577752bf038"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-2",
+      "at": "2026-10-30T05:43:16.967Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 1400,
+        "heightDocument": 7716,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-2.jpg",
+        "sha256": "f94fc4a71e4faf59c486a88edaafe7e6b1433a734bfcfec04a46d08c6506e2b3"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-3",
+      "at": "2026-10-30T05:43:18.141Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 2100,
+        "heightDocument": 8094,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "BOOK A STAY",
+            "href": "mailto:welcome@hyllhotel.com"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-3.jpg",
+        "sha256": "323779fa598b9d6f6038739403dbf2ec3be83061e87da13cb77c3d609a27df5b"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-4",
+      "at": "2026-10-30T05:43:19.316Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 2800,
+        "heightDocument": 8094,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "BOOK A STAY",
+            "href": "mailto:welcome@hyllhotel.com"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "VIEW ALL",
+            "href": "https://hyllhotel.com/stay/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-4.jpg",
+        "sha256": "3a0afe1dfd20ef2a7d95437065b88b152917611393eebb3d808a0a1d94483eda"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-5",
+      "at": "2026-10-30T05:43:20.482Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 3500,
+        "heightDocument": 8094,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "VIEW OUR ROOMS",
+            "href": "https://hyllhotel.com/stay/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-5.jpg",
+        "sha256": "9f889c7da89ebce96ddd66e5c668e6a40cd885183132dc9a90d255c1ff4c1eb8"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-6",
+      "at": "2026-10-30T05:43:21.647Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 4200,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "BOOK A TABLE",
+            "href": "https://booking.resdiary.com/widget/Standard/CharingworthManor/52965"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-6.jpg",
+        "sha256": "35b6d95917b469ef5d837703dbba8563d44addfe511567b070c807a4081ff3eb"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-7",
+      "at": "2026-10-30T05:43:22.812Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 4900,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT US",
+            "href": "https://welcome@hyllhotel.com/"
+          },
+          {
+            "text": "FIND OUT MORE",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-7.jpg",
+        "sha256": "4d3be19f9bc69df691c4896cf34421d3c2424f47a6c16efd96d4c5d106b88527"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-8",
+      "at": "2026-10-30T05:43:23.975Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 5600,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "EXPLORE",
+            "href": "https://hyllhotel.com/do-something/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-8.jpg",
+        "sha256": "10262f241024176035288807ea32590180dfafaff7c060180446ed5ee3102a0b"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-9",
+      "at": "2026-10-30T05:43:25.149Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 6300,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "TAKE IT EASY",
+            "href": "https://hyllhotel.com/do-nothing/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-9.jpg",
+        "sha256": "eb3282689e27b59b1c9a3b090e69aca8da55979ca46081d317e7fd0a74dd1c19"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-10",
+      "at": "2026-10-30T05:43:26.314Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 7000,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "TAKE IT EASY",
+            "href": "https://hyllhotel.com/do-nothing/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-10.jpg",
+        "sha256": "a4c1a74b25f55f73f45717056eed716067d2932a1631a9db2b164b349b4dec64"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-11",
+      "at": "2026-10-30T05:43:27.482Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 7700,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "PRESS",
+            "href": "https://hyllhotel.com/press/"
+          },
+          {
+            "text": "FAQS",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "PRIVACY POLICY",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-11.jpg",
+        "sha256": "fce0700ff8412b566217ae864b66e9b906440db5bfd63737f06e9e7bb418db6c"
+      }
+    },
+    {
+      "label": "desktop-clear-forward-12",
+      "at": "2026-10-30T05:43:28.649Z",
+      "state": {
+        "url": "https://hyllhotel.com/",
+        "width": 1440,
+        "height": 900,
+        "screen": [
+          1440,
+          900
+        ],
+        "reduced": false,
+        "visibility": "visible",
+        "focus": true,
+        "y": 7966,
+        "heightDocument": 8866,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+        "text": "HYLL HOTEL\nSKIP TO CONTENT\nBOOK NOW\nROOM\nTABLE\nHYLL IS A HOTEL IN THE COTSWOLDS\n\nThis is a place to SLOW DOWN. Good food, deep sleep, and a well-stocked bar – simple things done well. Wander in, settle down, and MAKE YOURSELF AT HOME.\n\nSTAY WITH US\n\nChristmas and New Year at Hyll are made for LINGERING over. Thoughtful menus, beautifully considered details and a few moments of theatre come together in two seasonal stays designed to make the end of the year feel properly special. Choose Christmas, New Year, or make an occasion of both.\n\nBOOK A STAY\nFIND OUT MORE\nOur rooms\nVIEW ALL\nCourtyard Cosy\n\nSMALL BUT PERFECTLY FORMED ROOMS, OFFERING DIRECT ACCESS TO THE COURTYARD.\n\nVIEW OUR ROOMS\nCourty",
+        "links": [
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "ROOM",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "TABLE",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/"
+          },
+          {
+            "text": "",
+            "href": "https://booking.eu.guestline.app/ERLCHARM/availability?hotel=ERLCHARM"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/stay/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/eat-drink/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/seasonal-stays/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-nothing/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/do-something/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/events/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.guestvoucher.co.uk/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/about-us/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "PRESS",
+            "href": "https://hyllhotel.com/press/"
+          },
+          {
+            "text": "FAQS",
+            "href": "https://hyllhotel.com/faqs/"
+          },
+          {
+            "text": "CONTACT",
+            "href": "https://hyllhotel.com/contact/"
+          },
+          {
+            "text": "PRIVACY POLICY",
+            "href": "https://hyllhotel.com/privacy-policy/"
+          }
+        ]
+      },
+      "evidence": {
+        "path": "docs/evidence/redo-v2/2026-10-30/008-source-hyll-01/desktop-clear-forward-12.jpg",
+        "sha256": "b27970e9a523f0e57a737e76a09a0b8a1d0bf0a220041feb6e42bce76218820d"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "op": "click",
+      "x": 450,
+      "y": 525,
+      "label": "desktop-cookie-details",
+      "type": "native-mouse-click",
+      "at": "2026-10-30T05:40:43.872Z",
+      "newTargets": []
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:41:20.628Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:41:21.844Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:41:23.037Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:41:24.236Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:41:25.421Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:41:26.620Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:41:27.802Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:41:28.994Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:41:30.169Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1100,
+      "at": "2026-10-30T05:41:54.985Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 1100,
+      "at": "2026-10-30T05:41:56.160Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:21.310Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:23.339Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:25.368Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:27.388Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:29.412Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:31.392Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:33.351Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:35.328Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:37.275Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:39.243Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:41.226Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:43.217Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:42:45.179Z"
+    },
+    {
+      "type": "native-finger",
+      "from": [
+        20,
+        730
+      ],
+      "to": [
+        20,
+        140
+      ],
+      "heldBeforeReleaseMs": 220,
+      "at": "2026-10-30T05:43:04.133Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:14.700Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:15.867Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:17.034Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:18.208Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:19.375Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:20.541Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:21.709Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:22.867Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:24.033Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:25.208Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:26.375Z"
+    },
+    {
+      "type": "native-wheel",
+      "deltaY": 700,
+      "at": "2026-10-30T05:43:27.542Z"
+    }
+  ],
+  "errors": [],
+  "result": "bounded-deadline",
+  "finished": "2026-10-30T05:51:57.031Z"
+}

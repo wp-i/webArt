@@ -1,0 +1,73 @@
+{
+  "referenceAdmission": "docs/production/runs/2026-10-17-reference-trial/007-oryzo-reference-review.json",
+  "records": [
+    {
+      "path": "assets/candidates/campo/ORYZO-MIT.txt",
+      "bytes": 1067,
+      "sha256": "39ca337974ba74dedcaf0def993a7e0412cbbbfc76c155c498a8efef5b039d6a",
+      "source": "https://raw.githubusercontent.com/lusionltd/ORYZO-1/9b657bb646d33f070d8610ca48f492d92116aba9/LICENSE",
+      "gitBlobSha": "766d8399d8ffa302067936793438fc14649d1830",
+      "creator": "Lusion",
+      "license": "MIT",
+      "verified": "2026-10-17",
+      "distributionBasis": "MIT permits use, modification and distribution with the original copyright and permission notice included; no source-site private textures, scene, brand or website code are obtained.",
+      "sourceTreeSha": "9b657bb646d33f070d8610ca48f492d92116aba9",
+      "sourceRevisionType": "git-tree"
+    },
+    {
+      "path": "assets/candidates/campo/HAND-MIT.txt",
+      "bytes": 1094,
+      "sha256": "0ef0c87e8ffdd0681f332dc3b39f284dee2166d1f853fabc3853884fe81a6f30",
+      "source": "https://raw.githubusercontent.com/immersive-web/webxr-input-profiles/f4992299601614adbfefd398dc8e281556bb7444/packages/assets/LICENSE.md",
+      "gitBlobSha": "af9f7946cf9dac966b43c2d3d7dbd6144e7661fc",
+      "creator": "WebXR Input Profiles asset contributors",
+      "license": "MIT",
+      "verified": "2026-10-17",
+      "distributionBasis": "MIT permits use, modification and distribution with the original copyright and permission notice included; no source-site private textures, scene, brand or website code are obtained.",
+      "sourceTreeSha": "f4992299601614adbfefd398dc8e281556bb7444",
+      "sourceRevisionType": "git-tree"
+    },
+    {
+      "path": "assets/candidates/campo/coaster.obj",
+      "bytes": 26525,
+      "sha256": "f23e50ee60d0385966d513206349521282868ea6920ff04141928a4487020a00",
+      "source": "https://raw.githubusercontent.com/lusionltd/ORYZO-1/9b657bb646d33f070d8610ca48f492d92116aba9/checkpoints/oryzo-1-26b-a0b.obj",
+      "gitBlobSha": "f06138bc85c2df7a2367b657a748a4a6de9ae7bb",
+      "creator": "Lusion",
+      "license": "MIT",
+      "verified": "2026-10-17",
+      "distributionBasis": "MIT permits use, modification and distribution with the original copyright and permission notice included; no source-site private textures, scene, brand or website code are obtained.",
+      "sourceTreeSha": "9b657bb646d33f070d8610ca48f492d92116aba9",
+      "sourceRevisionType": "git-tree"
+    },
+    {
+      "path": "assets/candidates/campo/hand-right.glb",
+      "bytes": 94004,
+      "sha256": "291790c14f7f88a7f9bd35330c47392ed8e8d395ae6728f4bb7089f1bc1f2b96",
+      "source": "https://raw.githubusercontent.com/immersive-web/webxr-input-profiles/f4992299601614adbfefd398dc8e281556bb7444/packages/assets/profiles/generic-hand/right.glb",
+      "gitBlobSha": "215f50d70fb7a5a884025b508cf5c58230913371",
+      "creator": "WebXR Input Profiles asset contributors",
+      "license": "MIT",
+      "verified": "2026-10-17",
+      "distributionBasis": "MIT permits use, modification and distribution with the original copyright and permission notice included; no source-site private textures, scene, brand or website code are obtained.",
+      "sourceTreeSha": "f4992299601614adbfefd398dc8e281556bb7444",
+      "sourceRevisionType": "git-tree"
+    },
+    {
+      "path": "assets/candidates/campo/coaster-high.obj",
+      "bytes": 351694,
+      "sha256": "45b47e3161a4bad0546698c14d8f7f8c915a62789052003b57a3890b796c6637",
+      "gitBlobSha": "06663f0817ac7205093a1e8fc52fb80fa361aeed",
+      "source": "https://raw.githubusercontent.com/lusionltd/ORYZO-1/9b657bb646d33f070d8610ca48f492d92116aba9/checkpoints/oryzo-1-344b-a0b.obj",
+      "sourceTreeSha": "9b657bb646d33f070d8610ca48f492d92116aba9",
+      "sourceRevisionType": "git-tree",
+      "creator": "Lusion",
+      "license": "MIT",
+      "verified": "2026-10-17",
+      "distributionBasis": "MIT permits modification and distribution with the original copyright and permission notice. Geometry only; no source-site private textures or scene."
+    }
+  ],
+  "visualAcceptance": "rejected-study-01",
+  "selectionNote": "26KB public model remains an unused metadata/sample candidate. The 351KB public geometry is selected for the actual render study; no visual approval is inferred from file size.",
+  "rejectionReport": "docs/production/runs/2026-10-17-reference-trial/007-asset-study-01-rejected.json"
+}

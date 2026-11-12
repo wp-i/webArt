@@ -1,0 +1,219 @@
+{
+  "url": "https://www.arcprojects.build/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-16/arc-ready-20261017-path/opening.jpg",
+      "sha256": "9deabc3da0d4f19b6938c494e8d9168750860f41dd57ddd0484f95934f759cb9"
+    },
+    {
+      "state": "early",
+      "y": 1079,
+      "path": "docs/evidence/redo-v2/2026-10-16/arc-ready-20261017-path/early.jpg",
+      "sha256": "09ce405c6faa79d5dad006acf0ea901b53d11320c3b0a0a5037b127a035d5ef4"
+    },
+    {
+      "state": "middle",
+      "y": 2834,
+      "path": "docs/evidence/redo-v2/2026-10-16/arc-ready-20261017-path/middle.jpg",
+      "sha256": "2bbc97bcd91a522d2a045d99ba6bbe74eb4cecc2ef01fb75f1d72d037dab3198"
+    },
+    {
+      "state": "late",
+      "y": 5059,
+      "path": "docs/evidence/redo-v2/2026-10-16/arc-ready-20261017-path/late.jpg",
+      "sha256": "e66eab1e623b1f1414a8a8f0ec37b41a3bb318831406200ec7cda8e477067098"
+    },
+    {
+      "state": "ending",
+      "y": 6746,
+      "path": "docs/evidence/redo-v2/2026-10-16/arc-ready-20261017-path/ending.jpg",
+      "sha256": "336c6035b11836d78722fe02d65b9fd526e4cac3386eaa5c2619530f021e2a88"
+    }
+  ],
+  "metadata": {
+    "height": 7646,
+    "headings": [
+      {
+        "text": "",
+        "tag": "H2",
+        "class": "",
+        "parent": "g_heading w-richtext u-child-contain u-color-alt u-text-style-h3",
+        "top": 936
+      },
+      {
+        "text": "",
+        "tag": "H2",
+        "class": "",
+        "parent": "g_heading w-richtext u-child-contain u-color-alt u-text-style-h3",
+        "top": 3139
+      }
+    ],
+    "sections": [
+      {
+        "tag": "MAIN",
+        "class": "page_main",
+        "id": "main",
+        "top": 0,
+        "height": 6746
+      },
+      {
+        "tag": "SECTION",
+        "class": "visual_wrap",
+        "id": "",
+        "top": 0,
+        "height": 900
+      },
+      {
+        "tag": "SECTION",
+        "class": "intro_wrap",
+        "id": "",
+        "top": 900,
+        "height": 411
+      },
+      {
+        "tag": "SECTION",
+        "class": "featured-projects_wrap",
+        "id": "",
+        "top": 1311,
+        "height": 892
+      },
+      {
+        "tag": "SECTION",
+        "class": "visual_wrap",
+        "id": "",
+        "top": 2203,
+        "height": 900
+      },
+      {
+        "tag": "SECTION",
+        "class": "intro_wrap",
+        "id": "",
+        "top": 3103,
+        "height": 411
+      },
+      {
+        "tag": "SECTION",
+        "class": "images_list_wrap",
+        "id": "",
+        "top": 3514,
+        "height": 1233
+      },
+      {
+        "tag": "SECTION",
+        "class": "visual_wrap",
+        "id": "",
+        "top": 4748,
+        "height": 900
+      },
+      {
+        "tag": "SECTION",
+        "class": "intro_wrap",
+        "id": "",
+        "top": 5648,
+        "height": 444
+      },
+      {
+        "tag": "SECTION",
+        "class": "images_list_wrap",
+        "id": "",
+        "top": 6092,
+        "height": 654
+      },
+      {
+        "tag": "SECTION",
+        "class": "footer_wrap u-vflex-stretch-top",
+        "id": "",
+        "top": 6746,
+        "height": 900
+      }
+    ],
+    "controls": [
+      {
+        "tag": "A",
+        "text": "Skip to main content",
+        "class": "nav_skip_wrap w-inline-block w--current"
+      },
+      {
+        "tag": "A",
+        "text": "Projects",
+        "class": "nav_links_link w-inline-block"
+      },
+      {
+        "tag": "A",
+        "text": "Profile",
+        "class": "nav_links_link w-inline-block"
+      },
+      {
+        "tag": "A",
+        "text": "Process",
+        "class": "nav_links_link w-inline-block"
+      },
+      {
+        "tag": "A",
+        "text": "Impact",
+        "class": "nav_links_link w-inline-block"
+      },
+      {
+        "tag": "A",
+        "text": "Contact",
+        "class": "nav_links_link w-inline-block"
+      },
+      {
+        "tag": "A",
+        "text": "See All Projects",
+        "class": "g_clickable_link w-inline-block"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Back to the top of the page",
+        "class": "back-to-top_btn u-vflex-center-center"
+      },
+      {
+        "tag": "A",
+        "text": "Instagram",
+        "class": "footer_info_link"
+      },
+      {
+        "tag": "A",
+        "text": "info@arcprojects.build",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "Privacy Policy",
+        "class": "footer_info_link"
+      },
+      {
+        "tag": "A",
+        "text": "Designed For Good",
+        "class": "footer_info_link"
+      }
+    ]
+  },
+  "inventory": {
+    "images": 10,
+    "videos": [],
+    "canvases": [],
+    "viewers": [],
+    "openRoots": 1,
+    "opaqueFrames": [
+      {
+        "src": "https://player.vimeo.com/video/1108311420?api=1&background=1&autoplay=0&loop=1&muted=1",
+        "rect": {
+          "x": -0.007853872142732143,
+          "y": -0.012566301971673965,
+          "width": 1440.015625,
+          "height": 900.025146484375,
+          "top": -0.012566301971673965,
+          "right": 1440.0077711278573,
+          "bottom": 900.0125801824033,
+          "left": -0.007853872142732143
+        }
+      }
+    ],
+    "manualRenderReviewRequired": true
+  },
+  "result": "scouted-not-admitted"
+}

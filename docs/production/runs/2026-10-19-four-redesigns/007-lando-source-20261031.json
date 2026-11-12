@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "id": "007",
+  "phase": "actual-source-completion",
+  "sourceUrl": "https://landonorris.com/",
+  "recordedAt": "2026-10-31T08:22:01.631Z",
+  "decision": "source-evidence-ready-for-chief-review-not-admitted",
+  "reviewer": {
+    "id": "current-conversation-subagent-source-observer",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "priorReport": "docs/production/runs/2026-10-19-four-redesigns/007-media-scout-20261030.json",
+  "scope": "Complete the same existing Lando lead. No fourth source, final asset acquisition, page implementation, packaging, publication or seven-dimension admission.",
+  "captures": [
+    {
+      "kind": "normal",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/observation.json",
+      "sha256": "dcd70bad0317a4950debc16725a9d79db588b37c3d6806880867d8143f0f36d3",
+      "result": "captured-not-admitted",
+      "started": "2026-10-30T16:38:39.407Z",
+      "finished": "2026-10-30T16:41:02.487Z",
+      "frames": 53,
+      "errors": []
+    },
+    {
+      "kind": "inputs",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/observation.json",
+      "sha256": "d24a9aae7d899d6e752cd635c5f022522e112d6fdbfcd6312b8a2461ea87d07b",
+      "result": "captured-not-admitted",
+      "started": "2026-10-30T16:41:52.507Z",
+      "finished": "2026-10-30T16:43:23.672Z",
+      "frames": 38,
+      "errors": []
+    },
+    {
+      "kind": "path-details",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/observation.json",
+      "sha256": "50d65c2120580235954dd24fa8935b5993436a62ad66ea64443e6f115d5b2feb",
+      "result": "captured-not-admitted",
+      "started": "2026-10-30T16:44:41.292Z",
+      "finished": "2026-10-30T16:48:06.606Z",
+      "frames": 44,
+      "errors": []
+    },
+    {
+      "kind": "gallery",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/observation.json",
+      "sha256": "93958e4721d920fd7378f3b7f5257b476a2597fa6326acad4a2e92561e5a7860",
+      "result": "captured-not-admitted",
+      "started": "2026-10-30T16:48:24.905Z",
+      "finished": "2026-10-30T16:48:48.950Z",
+      "frames": 6,
+      "errors": []
+    }
+  ],
+  "verification": {
+    "actualFrames": 141,
+    "uniqueImagePayloads": 138,
+    "sha256ReverifiedNow": 141,
+    "sha256Mismatches": 0,
+    "normalFrames": 104,
+    "reducedMotionFrames": 37,
+    "matchedPhysicalAndLayoutScreen": true,
+    "allFramesVisibleAndFocused": true,
+    "browser": "Chrome/156.0.8078.48",
+    "viewports": [
+      [
+        1440,
+        900
+      ],
+      [
+        390,
+        844
+      ]
+    ],
+    "actualViewing": "All 141 source frames were actually viewed in this agent context: normal53 in five labelled contact sheets, inputs38 in four, path-details44 in four, gallery6 as full images. Their source bytes were reverified unchanged now; recommended states were also inspected full size. This is observation, not an independent calibrated review.",
+    "browserRecovery": "Before capture on 2026-10-31 00:37 local, old PID21648 and port1110 were absent. Only then a new isolated session webart-007-lando-20261031 was created. Old 72-frame scout and failed supplement were preserved."
+  },
+  "observations": {
+    "opening": {
+      "finding": "Stable default shows a specific frontal portrait with spatially fitted transparent helmet wireframe. Continuous mouse paths reveal black reflective visor and decorated helmet bands at the corresponding face location; after leave/stop those bands decay. The signature changes the visible identity between person and racing equipment, rather than just moving an image.",
+      "mechanismEvidence": "Visible fullscreen canvas.gl has data-engine three.js r174. Browser resource metadata records already loaded helmet-21.glb, disco-02.glb, tracks-06-test.glb and HDR environment names; no model, shader or site code was separately requested or copied. This establishes a real Three.js helmet layer and does not establish that the human portrait is a separate 3D head mesh.",
+      "desktopNormalAndReduced": "Both actual media preferences show visor/helmet bands moving with the continuous native pointer trace, with idle, leave and reentry observations. Single slow point-moves mostly allowed the trail to decay; the continuous sequence supplies the actual coupled-effect evidence.",
+      "phoneNormalAndReduced": "Actual short tap near the observed lower-right control followed by held finger x80→310→80 at y450 reveals the visor band at successive face positions. UI changes to BACK TO SCROLL/X during interaction and returns after the final tap. This proves the finger-controlled band and usable return, not a complete full-helmet paint or a precise attribution of the earlier UI transition to one tap.",
+      "unproven": [
+        "The bounded NEXT RACE point-hover did not demonstrate a complete helmet pull-on; do not use those filenames as proof.",
+        "A generic static photo mask or a replacement 3D human head is not established by these observations."
+      ]
+    },
+    "path": {
+      "finding": "Forward path actually goes from portrait to reduced portrait/signature, dark legacy statement, staggered life/racing photography with dark-to-light transition, opposed profile/helmet composition, close person-and-helmet photograph, varied helmet collection, store/partners/social fan and a separately designed portrait-with-helmet closing.",
+      "finiteEnd": {
+        "desktop": {
+          "normalAndReduced": true,
+          "scrollY": 12677,
+          "maxY": 12677,
+          "extraForwardInputStayedAtMaximum": true
+        },
+        "mobile": {
+          "normalAndReduced": true,
+          "scrollY": 9235,
+          "maxY": 9235,
+          "extraHeldFingerStayedAtMaximum": true
+        }
+      },
+      "normalReverseAndReentry": {
+        "desktop": {
+          "returnedToScrollY": 0,
+          "reentryScrollY": 897
+        },
+        "mobile": {
+          "returnedToScrollY": 0,
+          "reentryScrollY": 648
+        }
+      },
+      "reducedMotionLimit": "Reduced preference was truly set before navigation. Same hero input, full forward end, extra input and one reverse/stop were captured on both widths. Source still animates; this is not a claim of stopped rendering, source performance compliance or a full reduced reverse to opening."
+    },
+    "collection": {
+      "finding": "Observed collection cards use paired base/hover WebP images. Native desktop hover on the first Season2025 card replaces the isolated helmet render with a photograph of that same helmet worn by the same person, with border/image treatment; leaving restores the base. Moving within this card changes the crop treatment, not a proven freely rotatable 3D collection object.",
+      "desktopClick": "First-card click left the same URL and no dialog. Its image result matched the hover state; no separate detail page or full collection interaction was established.",
+      "phoneTap": "First-card native taps in normal and reduced motion left the same visible base helmet, same URL and no dialog. Phone photographic hover replacement is not proven; do not mark it passed.",
+      "loadingLimit": "desktop-gallery-first-hover had complete=false while the photo was still arriving. desktop-gallery-first-move and first-click were complete=true with the finished photograph; use these as stable hover evidence and retain the early frame as an honest load transition.",
+      "notEstablished": "No evidence that every collection card requires its own realtime model or opens separate details. Do not remove the collection or its product-to-use identity to reduce asset work."
+    },
+    "ending": {
+      "finding": "Actual finite closing uses an irregular dark-green frame, signature/type composition and the same patterned torso wearing the complete helmet; phone rearranges links above the centered subject. This is a specific media composition, not only contact tools.",
+      "limits": "Late logo-strip movement is ambient. Left/right ending pointer screenshots did not establish a new head-rotation signature. Phone metadata includes a visible pre-rendered portrait/helmet cutout image; do not infer that every closing pixel requires realtime 3D."
+    }
+  },
+  "replacementFeasibility": {
+    "status": "not-established-no-final-assets-acquired",
+    "required": [
+      "A mature explicitly redistributable helmet model/material set with convincing visor, thickness and highlights, accurately fitted to a legally usable person/portrait; do not substitute a primitive or ordinary masked image for the spatial helmet.",
+      "A coherent person/outfit/product image set across hero, life/racing story, profile comparison, contextual gallery photos and closing, or an explicitly reviewed replacement identity plan.",
+      "Varied finished collection designs and their contextual appearance must be supported by permitted media. Model names suggested by the chief are leads, not adopted or license-cleared assets."
+    ],
+    "notRequiredByEvidence": "The current observation does not require fabricating a new human-head mesh or sixteen realtime helmet models. Neither simplification nor those extra requirements should be silently inferred."
+  },
+  "recommendedStableStates": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "label": "desktop-normal-idle-control",
+      "sourceCapture": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/observation.json",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/desktop-normal-idle-control.jpg",
+      "sha256": "91d4893548d42ee21c25a5caa2c71ed28f67c0734f7792d7360c50ef10a1bac5"
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "label": "desktop-forward-05",
+      "sourceCapture": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/observation.json",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-forward-05.jpg",
+      "sha256": "857f822413bba93e39a76df0222a41213770d6bc04c1aea69f0e7c9b7c1d65ea"
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "label": "desktop-gallery-default",
+      "sourceCapture": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/observation.json",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/desktop-gallery-default.jpg",
+      "sha256": "43bea43ed007e4c94e875b5cfff72d500d5be92c3d2d241b136f073633004a73"
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "label": "desktop-ending-stop",
+      "sourceCapture": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/observation.json",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/desktop-ending-stop.jpg",
+      "sha256": "ad769994983fda5ec3686d9897ca18b93bc897e2ee1c0de0eaf140e2ef38f0f5"
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "label": "mobile-normal-idle-control",
+      "sourceCapture": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/observation.json",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/mobile-normal-idle-control.jpg",
+      "sha256": "055584464ff5a451b0b33e892d030ef133eb87207116b7a401e293393fbba74a"
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "label": "mobile-forward-04",
+      "sourceCapture": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/observation.json",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-04.jpg",
+      "sha256": "c728a51a3acd121313c3986335f3aca76fe3cff74e936ffdac334f98ba6e3acd"
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "label": "mobile-forward-08",
+      "sourceCapture": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/observation.json",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-forward-08.jpg",
+      "sha256": "e39741b2e236c480601271ce9bc844dfdb6f75a8f18c16ee14ab7a9d11e1deb2"
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "label": "mobile-ending-stop",
+      "sourceCapture": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/observation.json",
+      "path": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/mobile-ending-stop.jpg",
+      "sha256": "308b17a6c35a8c4a5a0c5846037b72f3de2879a84b6fe01a38febd0f3e0fbf0d"
+    }
+  ],
+  "processGroups": [
+    {
+      "name": "desktop-normal-full-forward",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/observation.json",
+      "labels": [
+        "desktop-opening-settled",
+        "desktop-forward-01",
+        "desktop-forward-02",
+        "desktop-forward-03",
+        "desktop-forward-04",
+        "desktop-forward-05",
+        "desktop-forward-06",
+        "desktop-forward-07",
+        "desktop-forward-08",
+        "desktop-forward-09",
+        "desktop-forward-10",
+        "desktop-forward-11",
+        "desktop-forward-12",
+        "desktop-forward-13",
+        "desktop-forward-14",
+        "desktop-forward-15",
+        "desktop-forward-16",
+        "desktop-forward-17",
+        "desktop-ending-stop",
+        "desktop-ending-extra-input",
+        "desktop-ending-extra-stop"
+      ],
+      "purpose": "Actual full forward sequence; opening intro residue is supplemented by stable idle state."
+    },
+    {
+      "name": "phone-normal-full-forward",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-normal-01/observation.json",
+      "labels": [
+        "mobile-opening-settled",
+        "mobile-forward-01",
+        "mobile-forward-02",
+        "mobile-forward-03",
+        "mobile-forward-04",
+        "mobile-forward-05",
+        "mobile-forward-06",
+        "mobile-forward-07",
+        "mobile-forward-08",
+        "mobile-forward-09",
+        "mobile-forward-10",
+        "mobile-forward-11",
+        "mobile-forward-12",
+        "mobile-forward-13",
+        "mobile-forward-14",
+        "mobile-ending-stop",
+        "mobile-ending-extra-input",
+        "mobile-ending-extra-stop"
+      ],
+      "purpose": "Actual held-finger full forward to finite end."
+    },
+    {
+      "name": "desktop-normal-reverse-and-reentry",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/observation.json",
+      "labels": [
+        "desktop-normal-reverse-1",
+        "desktop-normal-reverse-4",
+        "desktop-normal-reverse-8",
+        "desktop-normal-reverse-12",
+        "desktop-normal-reverse-opening-stop",
+        "desktop-normal-reentry"
+      ],
+      "purpose": "Actual normal reverse to zero, stop and native forward reentry."
+    },
+    {
+      "name": "desktop-normal-hero-input",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/observation.json",
+      "labels": [
+        "desktop-normal-settled",
+        "desktop-normal-idle-control",
+        "desktop-normal-paint-3",
+        "desktop-normal-paint-7",
+        "desktop-normal-paint-11",
+        "desktop-normal-paint-15",
+        "desktop-normal-leave-stop",
+        "desktop-normal-race-hover",
+        "desktop-normal-race-leave",
+        "desktop-normal-reenter"
+      ],
+      "purpose": "Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted."
+    },
+    {
+      "name": "desktop-reduced-hero-input",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/observation.json",
+      "labels": [
+        "desktop-reduced-settled",
+        "desktop-reduced-idle-control",
+        "desktop-reduced-paint-3",
+        "desktop-reduced-paint-7",
+        "desktop-reduced-paint-11",
+        "desktop-reduced-paint-15",
+        "desktop-reduced-leave-stop",
+        "desktop-reduced-race-hover",
+        "desktop-reduced-race-leave",
+        "desktop-reduced-reenter"
+      ],
+      "purpose": "Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted."
+    },
+    {
+      "name": "desktop-reduced-forward-and-reverse-stop",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/observation.json",
+      "labels": [
+        "desktop-reduced-opening",
+        "desktop-reduced-forward-1",
+        "desktop-reduced-forward-4",
+        "desktop-reduced-forward-7",
+        "desktop-reduced-ending-stop",
+        "desktop-reduced-ending-extra",
+        "desktop-reduced-reverse-from-ending",
+        "desktop-reduced-reverse-stop"
+      ],
+      "purpose": "Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop."
+    },
+    {
+      "name": "mobile-normal-reverse-and-reentry",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/observation.json",
+      "labels": [
+        "mobile-normal-reverse-1",
+        "mobile-normal-reverse-4",
+        "mobile-normal-reverse-8",
+        "mobile-normal-reverse-12",
+        "mobile-normal-reverse-opening-stop",
+        "mobile-normal-reentry"
+      ],
+      "purpose": "Actual normal reverse to zero, stop and native forward reentry."
+    },
+    {
+      "name": "mobile-normal-hero-input",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/observation.json",
+      "labels": [
+        "mobile-normal-settled",
+        "mobile-normal-idle-control",
+        "mobile-normal-lock-tap",
+        "mobile-normal-finger-5",
+        "mobile-normal-finger-9",
+        "mobile-normal-finger-14",
+        "mobile-normal-finger-18",
+        "mobile-normal-finger-release-stop",
+        "mobile-normal-unlock-tap"
+      ],
+      "purpose": "Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted."
+    },
+    {
+      "name": "mobile-reduced-hero-input",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-inputs-01/observation.json",
+      "labels": [
+        "mobile-reduced-settled",
+        "mobile-reduced-idle-control",
+        "mobile-reduced-lock-tap",
+        "mobile-reduced-finger-5",
+        "mobile-reduced-finger-9",
+        "mobile-reduced-finger-14",
+        "mobile-reduced-finger-18",
+        "mobile-reduced-finger-release-stop",
+        "mobile-reduced-unlock-tap"
+      ],
+      "purpose": "Actual idle, continuous pointer/held finger, stop and return; race-hover labels are bounded non-proof as noted."
+    },
+    {
+      "name": "mobile-reduced-forward-and-reverse-stop",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-path-details-01/observation.json",
+      "labels": [
+        "mobile-reduced-opening",
+        "mobile-reduced-forward-1",
+        "mobile-reduced-forward-4",
+        "mobile-reduced-forward-7",
+        "mobile-reduced-gallery-default",
+        "mobile-reduced-gallery-click-result",
+        "mobile-reduced-ending-stop",
+        "mobile-reduced-ending-extra",
+        "mobile-reduced-reverse-from-ending",
+        "mobile-reduced-reverse-stop"
+      ],
+      "purpose": "Same reduced-motion scene, actual native forward to end, extra input and one reverse/stop."
+    },
+    {
+      "name": "desktop-collection-image-and-context",
+      "sourcePath": "docs/evidence/redo-v2/2026-10-31/007-lando-gallery-01/observation.json",
+      "labels": [
+        "desktop-gallery-default",
+        "desktop-gallery-first-hover",
+        "desktop-gallery-first-move",
+        "desktop-gallery-first-leave",
+        "desktop-gallery-first-click",
+        "desktop-gallery-first-click-leave"
+      ],
+      "purpose": "Real default/hover/move/leave/click/leave; first hover still loading, later move/click fully loaded."
+    }
+  ],
+  "sourceMetadata": "path-details observation.json inventories retain only visible DOM/media geometry and already loaded resource names; zero cross-origin byte counts are unknown, not proof of failed load.",
+  "nextAction": "Chief reviews the actual evidence and decides a concrete reference/identity/asset plan before calibrated reference admission. No additional source capture is required to restate already proven end/input facts; phone gallery photo reveal and NEXT RACE pull-on remain unproven.",
+  "referenceAdmitted": false,
+  "assetsApproved": false,
+  "candidateCreated": false,
+  "inventoryChanged": false,
+  "showcaseChanged": false
+}

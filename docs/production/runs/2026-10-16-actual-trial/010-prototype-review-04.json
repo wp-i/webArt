@@ -1,0 +1,801 @@
+{
+  "schemaVersion": 2,
+  "phase": "prototype",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "reviewer": {
+    "id": "current-task-art-director-2026-10-16",
+    "mode": "blind-evidence-only",
+    "implementationContextIncluded": false,
+    "calibrationRunId": "2026-10-16-current-task-calibration",
+    "inputScope": "benchmark+negative+reference+candidate"
+  },
+  "limitations": "Actual primary-art-director inspection of page states, ordered scroll and native input evidence. This conversation retains implementation context; this is assisted production, not an independent API model test, user score, or guarantee of user acceptance.",
+  "decision": "admit",
+  "vetoes": [],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "09e36f4197aeb899c8ac0e5d8acd9df3b8b1ae61f86e4e9ec67a81674c9bc54c"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 151,
+        "subjects": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9930555555555556
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 900,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "9ad7682ec8a3d006086b29b56ce7b02a39e9bb8b1bd82af2a55978a0bbdfca1a"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 143,
+        "subjects": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9930555555555556
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1800,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-middle/contact-sheet.jpg",
+          "sha256": "4813fd2bacd4c012dd6701580b72d62cc1b5a0c18c60f5f2e572a221439e36ac"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 151,
+        "subjects": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9930555555555556
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2700,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-ending/contact-sheet.jpg",
+          "sha256": "c6cc82f5c0be674eae29516f5fdcee7ce36f5868424abf191e1e8b917ddba72d"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 153,
+        "subjects": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.9930555555555556
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-opening/contact-sheet.jpg",
+          "sha256": "57c965652dec609b21a6668d283f026fb21b63129d6791f7fe82373b4aea2ed4"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 110,
+        "subjects": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 844,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-transition/contact-sheet.jpg",
+          "sha256": "aca5179c8ff1fbb14aed91721b34c2fcc8d42ac97307abd9a12a0130103aa619"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 102,
+        "subjects": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 1688,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-middle/contact-sheet.jpg",
+          "sha256": "60ede9fcb18edb9479b0111cd5f65a86ecda44d572d188f094798cfca479723b"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 110,
+        "subjects": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 2532,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-ending/contact-sheet.jpg",
+          "sha256": "be9ab9b445a064b680aa882d5a27372e9b480284390d8cb0990f1d90389c7a7a"
+        }
+      ],
+      "visualMeasurement": {
+        "characters": 112,
+        "subjects": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "visibleInstances": 1,
+            "largestViewportArea": 1
+          }
+        ]
+      },
+      "visualFailures": []
+    }
+  ],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "精细仪表是开场的唯一主视觉，保留可辨认的部件和显示面，不能换成无身份的球体。",
+        "material": "金属、玻璃与显示面通过真实光照产生层次，不用普通灰色块或统一描边代替材质。",
+        "composition": "标题与仪表形成明确的主次及交叠关系，桌面与手机均先看到主体而不是大段占位文字。",
+        "role": "开场建立仪表身份并通过指针改变观察角度，不能只用漂浮背景或按钮缩放证明互动。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "同一仪表沿轴线展开，部件结构仍可识别，不能切换成无关的线框或另一件普通几何。",
+        "material": "由实体材质交接到精确轮廓，部件深度和结构依然清晰，不因切换而失去空间层次。",
+        "composition": "展开轴线在新底色中形成独立构图与留白，不能重复开场的标题位置和同一观看节奏。",
+        "role": "滚动推动部件展开和材质交接，正向与反向均连续，转换服务于同一主体的观看。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "仪表显示面内部出现点阵变化，外部壳体持续保留，不能只剩一块脱离主体的点阵平面。",
+        "material": "点阵与显示面具有可辨认的层级和发光关系，壳体仍保留精细材质而非普通灰色代理。",
+        "composition": "点阵展示形成与开场不同的近景构图，短文字仅作参考，不用大段说明占据主画面。",
+        "role": "输入改变显示面的波形或点阵组织，让主视觉承担信息反馈，不以统一淡入代替编排。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "同一仪表内部保留可直接拖动的弹性对象，不能把仪表全部删去并换成圆点或邮箱页脚。",
+        "material": "弹性对象与仪表有完整的颜色、体积和接触关系，材质完成度必须与开场保持一致。",
+        "composition": "结尾以独立且完整的视觉场景收束，并保留简短原生行动，不能退化为通用按钮列表。",
+        "role": "拖动、放开、反向与停止均有清晰的弹性反馈，主体身份贯穿收束而不只是功能成功。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": [
+      {
+        "id": "instrument-identity",
+        "signature": "wave-to-stagger-display",
+        "states": [
+          "opening",
+          "transition",
+          "middle",
+          "ending"
+        ],
+        "identity": "从彩色刻度仪表到可辨认内部部件的精密机械，再回到仪表中的点阵与弹性对象，装配与外壳身份沿整条路径连续存在。"
+      }
+    ]
+  },
+  "visualContractSha256": "49288b2d417d3df36b0755d700db4520dfc9edd4491dc210d7a266222ec50177",
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "短而有密度的标题与右侧完整精密仪表形成直接的大小关系，刻度、边光和凹面是具体记忆点；与001材料悬片及字形的精确组合处于同等完成程度。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "09e36f4197aeb899c8ac0e5d8acd9df3b8b1ae61f86e4e9ec67a81674c9bc54c"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "机械线稿采用细密轮廓、暖灰留白和较短粗体，避免文字压过机械。开场及末屏采用同一网格但标题位置变化，像001一样由媒介安排字形关系。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "9ad7682ec8a3d006086b29b56ce7b02a39e9bb8b1bd82af2a55978a0bbdfca1a"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "部件有齿形、绕组、通风开槽、紧固件及轴承，线稿可识别实际装配，材质进入过渡而非普通圆柱代理；与001特定纤维及褶皱一样具有明确对象身份。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "9ad7682ec8a3d006086b29b56ce7b02a39e9bb8b1bd82af2a55978a0bbdfca1a"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "正反过程实际展示表面倾转、机械展开、实体转线及重新装配后显示更新；过渡留白围绕对象让位，承担观看推进，与001材料及光照交接的作用相当。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "9ad7682ec8a3d006086b29b56ce7b02a39e9bb8b1bd82af2a55978a0bbdfca1a"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "连续实图显示圆盘被拖到右侧、反向返回及释放稳定；另有桌面和触摸原生按住/松手、键盘位移回弹证据，输入直接改变对象，如001按住揭示服务于主体观看。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-ending/contact-sheet.jpg",
+          "sha256": "c6cc82f5c0be674eae29516f5fdcee7ce36f5868424abf191e1e8b917ddba72d"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "结尾保留开场精密外壳并转为明亮可操控对象，形成独立结果和可用的回返行动，没有弱化为邮箱和重复品牌页脚，与001独立受光结尾相当。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0-8.png",
+          "sha256": "58eae535da1f3845038f4ec5f33891d6986d2f5dc0220fd7d77b49d5a893e392"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-ending/contact-sheet.jpg",
+          "sha256": "c6cc82f5c0be674eae29516f5fdcee7ce36f5868424abf191e1e8b917ddba72d"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "手机将短标题和完整仪表上下组织，机械展开也完整适配纵向空间，末屏按钮与主体不重叠；关键对象、细节和行动同001手机保有完整的视觉关系。",
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-opening/contact-sheet.jpg",
+          "sha256": "57c965652dec609b21a6668d283f026fb21b63129d6791f7fe82373b4aea2ed4"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "precision-mechanism-and-material-to-linework",
+      "visualPurpose": "同一精密轴体保留齿形、绕组、轴承、装配和材质层次，滚动从实体进入可辨认同一部件的轮廓，不换成无身份的圆柱组。",
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "eca04738343c6f87eb5ffc9018b2dfd4e80ca3b1bce46296fe2428dbeceb508e"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "9ad7682ec8a3d006086b29b56ce7b02a39e9bb8b1bd82af2a55978a0bbdfca1a"
+        }
+      ]
+    },
+    {
+      "name": "wave-to-stagger-display",
+      "visualPurpose": "横线波形与中段点阵均位于同一仪表的显示面，输入推进显示内容变化，保留主体、边缘刻度与材质的连续身份。",
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "aaa983a44f98e0b305f1011355de97e2eb8206360145e1a2ec1c745adf1857f8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "47fad1e72a7528a8e3aed651d1532ee3fb595f575b64dc8be0923aa7286c7414"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "09e36f4197aeb899c8ac0e5d8acd9df3b8b1ae61f86e4e9ec67a81674c9bc54c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-middle/contact-sheet.jpg",
+          "sha256": "4813fd2bacd4c012dd6701580b72d62cc1b5a0c18c60f5f2e572a221439e36ac"
+        }
+      ]
+    },
+    {
+      "name": "spring-object-contained-in-instrument",
+      "visualPurpose": "收束的真实弹性操控对象始终位于完整仪表内，按下、移动、反向、松手与返回直接改变主视觉，不换成普通组件演示。",
+      "core": true,
+      "retained": true,
+      "role": "signature",
+      "sceneLevel": true,
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "aec997bc8851eda9e8aeb259cf086fa7d58e4888587a5c44475da7e1a25be2cc"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-ending/contact-sheet.jpg",
+          "sha256": "c6cc82f5c0be674eae29516f5fdcee7ce36f5868424abf191e1e8b917ddba72d"
+        }
+      ]
+    }
+  ],
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "哑黑表圈、玻璃凹面、分段边光与珊瑚色横线形成有细节的完整对象。标题与圆形的左右比例明确，静态开场没有依赖进入后才出现内容。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "09e36f4197aeb899c8ac0e5d8acd9df3b8b1ae61f86e4e9ec67a81674c9bc54c"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "斜向展开能辨认开槽壳体、叠片、绕组、齿形和轴端，实体与轮廓来自同一部件，暖灰负空间让机械细线成为主角；底栏已恢复可读对比。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "9ad7682ec8a3d006086b29b56ce7b02a39e9bb8b1bd82af2a55978a0bbdfca1a"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "蓝色点阵位于开场同一显示面内，蓝色短标题与之对应，壳体玻璃和分段刻度连续保留，媒体没有被换成无材质的孤立圆点。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-middle/contact-sheet.jpg",
+          "sha256": "4813fd2bacd4c012dd6701580b72d62cc1b5a0c18c60f5f2e572a221439e36ac"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "酸橙色操控圆盘在完整仪表内部，按住后位移、松手回弹和离开稳定都有真实连续画面，原生Release和返回链接提供清楚行动。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-ending/contact-sheet.jpg",
+          "sha256": "c6cc82f5c0be674eae29516f5fdcee7ce36f5868424abf191e1e8b917ddba72d"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "哑黑表圈、玻璃凹面、分段边光与珊瑚色横线形成有细节的完整对象。标题与圆形的左右比例明确，静态开场没有依赖进入后才出现内容。 手机保留整个主体并压缩辅助标注，画面未裁断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-opening/contact-sheet.jpg",
+          "sha256": "57c965652dec609b21a6668d283f026fb21b63129d6791f7fe82373b4aea2ed4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "斜向展开能辨认开槽壳体、叠片、绕组、齿形和轴端，实体与轮廓来自同一部件，暖灰负空间让机械细线成为主角；底栏已恢复可读对比。 手机保留整个主体并压缩辅助标注，画面未裁断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-transition/contact-sheet.jpg",
+          "sha256": "aca5179c8ff1fbb14aed91721b34c2fcc8d42ac97307abd9a12a0130103aa619"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "蓝色点阵位于开场同一显示面内，蓝色短标题与之对应，壳体玻璃和分段刻度连续保留，媒体没有被换成无材质的孤立圆点。 手机保留整个主体并压缩辅助标注，画面未裁断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-middle/contact-sheet.jpg",
+          "sha256": "60ede9fcb18edb9479b0111cd5f65a86ecda44d572d188f094798cfca479723b"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "酸橙色操控圆盘在完整仪表内部，按住后位移、松手回弹和离开稳定都有真实连续画面，原生Release和返回链接提供清楚行动。 手机保留整个主体并压缩辅助标注，画面未裁断。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-ending/contact-sheet.jpg",
+          "sha256": "be9ab9b445a064b680aa882d5a27372e9b480284390d8cb0990f1d90389c7a7a"
+        }
+      ]
+    }
+  ],
+  "continuityChecks": [
+    {
+      "id": "instrument-identity",
+      "viewport": "desktop",
+      "status": "preserved",
+      "finding": "表圈的分段发光、刻度、凹面与内部轴体连续推进，展开后再次装配，点阵及操控盘始终回到同一仪表，四个状态之间没有替换成无关对象。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-opening/contact-sheet.jpg",
+          "sha256": "09e36f4197aeb899c8ac0e5d8acd9df3b8b1ae61f86e4e9ec67a81674c9bc54c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-transition/contact-sheet.jpg",
+          "sha256": "9ad7682ec8a3d006086b29b56ce7b02a39e9bb8b1bd82af2a55978a0bbdfca1a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-middle/contact-sheet.jpg",
+          "sha256": "4813fd2bacd4c012dd6701580b72d62cc1b5a0c18c60f5f2e572a221439e36ac"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-ending/contact-sheet.jpg",
+          "sha256": "c6cc82f5c0be674eae29516f5fdcee7ce36f5868424abf191e1e8b917ddba72d"
+        }
+      ]
+    },
+    {
+      "id": "instrument-identity",
+      "viewport": "mobile",
+      "status": "preserved",
+      "finding": "表圈的分段发光、刻度、凹面与内部轴体连续推进，展开后再次装配，点阵及操控盘始终回到同一仪表，四个状态之间没有替换成无关对象。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-opening/contact-sheet.jpg",
+          "sha256": "57c965652dec609b21a6668d283f026fb21b63129d6791f7fe82373b4aea2ed4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-transition/contact-sheet.jpg",
+          "sha256": "aca5179c8ff1fbb14aed91721b34c2fcc8d42ac97307abd9a12a0130103aa619"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-middle/contact-sheet.jpg",
+          "sha256": "60ede9fcb18edb9479b0111cd5f65a86ecda44d572d188f094798cfca479723b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-ending/contact-sheet.jpg",
+          "sha256": "be9ab9b445a064b680aa882d5a27372e9b480284390d8cb0990f1d90389c7a7a"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "viewport": "desktop",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "9df99f2cc3a512df69c44686c651889d1cf87b4c137d6a28fcc132adc318433c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-scroll-1/contact-sheet.jpg",
+          "sha256": "f5ab30a9a72e284ec82292c74e16bc6f684ed21aff0e34233c0d0df2b140ad95"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "dc593105931d6f87503015073dbd6ee89f7bca55388d97b8d27e436aae8ae33c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-scroll-3/contact-sheet.jpg",
+          "sha256": "5e404db0343b7b48316e816f57b1fc446164b942f6baf4ae8ecc869caa6298f5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-scroll-4/contact-sheet.jpg",
+          "sha256": "c6cc82f5c0be674eae29516f5fdcee7ce36f5868424abf191e1e8b917ddba72d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-scroll-5/contact-sheet.jpg",
+          "sha256": "0188c1aa2a059bbf8964805eea4da695184ce9b64efa51c2e17d9cc1b4966a7f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "8e0ec17bf14c579e697cd1529664fba33af4bb0195fdc929ea9bb946d5b3c396"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-scroll-7/contact-sheet.jpg",
+          "sha256": "0f7408710c149894add1621e032b0eff9542e41734c696261840a01ee5eab101"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "2feb60bee278e59412912299cb06cfc4fff1ecf70e9e3b8318703d84ca11104d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-reduced/contact-sheet.jpg",
+          "sha256": "2dc6171fac4466504d6cce91a37bdf0c7493b80be9762176c7baa5bdf2757112"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "ab2ad77bb072436ab4bed84e6f2598a3cf0fa7445c33d8a3c7bdebc066abfa69"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "f05b56707c275e0a465549dec1796948b50da2b9321f21fb84592eeaa54fea27"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "b5cad3bc3b3446afc800b53303251b7f90f526b0f5dfec215138c43ea2c8e692"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "01928a9a39d5000234132dcf64b4d96db1fcc4629ce7783df934a0f47310bef3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/desktop-reduced/contact-sheet.jpg",
+          "sha256": "2dc6171fac4466504d6cce91a37bdf0c7493b80be9762176c7baa5bdf2757112"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "input": "scroll",
+      "forward": true,
+      "reverse": true,
+      "normal": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "d726e2ff6da73e3490ca938dcaa007ba8b8268657850fe03c57ebeeb27d5518c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-scroll-1/contact-sheet.jpg",
+          "sha256": "a78eb4e4b3c372472f93d5145837691766cebcf3e0a3d3b04e808a0245ce4a99"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "d70ef73ecf0dd30369e7876473b23356010f636a17a3f322458d307661c434cd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-scroll-3/contact-sheet.jpg",
+          "sha256": "59ed5cbe68062e18b5c1700a4e1435044653f97423208757dd00d566b967c392"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-scroll-4/contact-sheet.jpg",
+          "sha256": "be9ab9b445a064b680aa882d5a27372e9b480284390d8cb0990f1d90389c7a7a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-scroll-5/contact-sheet.jpg",
+          "sha256": "bf07ef38cccc539340da629aa31146598a88ea7fa0b6bc470ad4160b354ce1e2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "07b05c2883dd657485fff23e89492435ac66ad7f979f0f6a015281e864f4eb04"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-scroll-7/contact-sheet.jpg",
+          "sha256": "94862d890312fc96afe122ea7437b1835d4923106868d654016183a4c936b1ce"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "29f668a3e66de783293505182288efcadf7dad8e85af05f73b049a0a9862a720"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-16/010-page-04/mobile-reduced/contact-sheet.jpg",
+          "sha256": "187fe73cd67af8654cdf1f2f49840a92a4eefb081ea87dce6bb6d2b25dce27cc"
+        }
+      ]
+    }
+  ],
+  "nextAction": "admit",
+  "fixTasks": [],
+  "sourceSha256": "be63cc3efc3ada19053f19ef3d0d3e7f568d4e367f9b0aeafd8ac3d92740a3de"
+}

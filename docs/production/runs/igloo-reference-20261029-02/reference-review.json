@@ -1,0 +1,1675 @@
+{
+  "schemaVersion": 2,
+  "phase": "reference",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "sourceSha256": null,
+  "reviewer": {
+    "id": "codex-account-default:2026-10-29-cli-calibration",
+    "mode": "evidence-only-fresh-codex-cli",
+    "kind": "fresh-codex-cli",
+    "independent": false,
+    "contextIsolated": true,
+    "contextIsolationScope": "fresh conversation; implementation history not supplied",
+    "implementationContextIncluded": false,
+    "backendIndependenceEstablished": false,
+    "requestedModel": null,
+    "actualModel": null,
+    "modelIdentitySource": null,
+    "inputScope": "benchmark+negative+reference",
+    "calibrationRunId": "2026-10-29-cli-calibration"
+  },
+  "decision": "admit",
+  "vetoes": [],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening.jpg",
+          "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-12.jpg",
+          "sha256": "06d0487defa7ef994361e864728a66e8e6b43df971a329fa30bedcede4f72854"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 900,
+        "viewportHeight": 900
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-opening.jpg",
+          "sha256": "d23397ae64b1ffe3bd9fe68b81e535650244ec83ec533ff3d9dbd52c6733141c"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-3.jpg",
+          "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-3.jpg",
+          "sha256": "e3354b47dcdb6adb8d67f7cdeb25961b6061957aa16bdf3434cffd0c48ff7102"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "layout": {
+        "y": 0,
+        "documentHeight": 844,
+        "viewportHeight": 844
+      },
+      "sourceUrl": "https://www.igloo.inc/",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-stop.jpg",
+          "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "基准以巨大字形和悬挂纤维建立首屏权威；当前母版以雪地接触、明确入口及冰块内光建立完整空间，建筑始终占据主观看位置，未落入邻近反例的标题配图结构。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-4"
+      ],
+      "candidateFrames": [
+        "reference-49",
+        "reference-53"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening.jpg",
+          "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-opening.jpg",
+          "sha256": "d23397ae64b1ffe3bd9fe68b81e535650244ec83ec533ff3d9dbd52c6733141c"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "基准的衬线字形与纤维薄边具有精细反差；母版的小型测量文字服务冰构场景，霜面、倒角、透射和雪地层次共同成立，但浅色背景上的细白标记辨识余量较小。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-49",
+        "reference-50",
+        "reference-51"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening.jpg",
+          "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-12.jpg",
+          "sha256": "06d0487defa7ef994361e864728a66e8e6b43df971a329fa30bedcede4f72854"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "above",
+      "finding": "基准围绕同一纤维材料展开特写；母版进一步提供具有入口的冰建筑、包裹企鹅及标志的不同冰壳，并将企鹅延续为体积粒子，素材身份贯穿多个空间状态。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "reference-49",
+        "reference-50",
+        "reference-65",
+        "reference-52"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening.jpg",
+          "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-08.jpg",
+          "sha256": "8f555b3983b18d2c41c3e7766bb6c4789ab6f6c78801fb678a1cd395f75ae278"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "above",
+      "finding": "基准实录在多个连续位置接近全黑，主要场景依赖分段呈现；母版实录显示建筑退远、两件冰壳交替、断环穿越及俯视平台落入粒子主体，反向与再次进入也有具体空间交接。",
+      "benchmarkFrames": [
+        "benchmark-9",
+        "benchmark-11",
+        "benchmark-13",
+        "benchmark-15"
+      ],
+      "candidateFrames": [
+        "reference-79",
+        "reference-80",
+        "reference-81",
+        "reference-84",
+        "reference-85",
+        "reference-67",
+        "reference-71",
+        "reference-74",
+        "reference-95"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.16-1.png",
+          "sha256": "e41a0b119d4fa6c6c689a49cba1666061741c96d8430a2494a77857407a898a0"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.5-3.png",
+          "sha256": "108e16a1777bd5b0c8034f94d73aa4e6715646c5a9ed513e1d7eb0ba7c4b6b64"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.84-5.png",
+          "sha256": "801ff4c098704af65ca1db989de0a37a6873949c7763d5454b2c6ad2389b1a7b"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.5-7.png",
+          "sha256": "108e16a1777bd5b0c8034f94d73aa4e6715646c5a9ed513e1d7eb0ba7c4b6b64"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-2.jpg",
+          "sha256": "373006e812bf5eb4f7f8ee5aa23b5bad51b2a025f97adb597e61ce1b803f27ce"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-3.jpg",
+          "sha256": "a7abb7e3e902ef12b258d7de4c3daf4f7ec4c5b1b5f835e6fcbe27cf1bc20220"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-4.jpg",
+          "sha256": "8879fbd6907a594b301f0e347d64d0f56f24ee7432ec925bb60bdd40ccb8b380"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-7.jpg",
+          "sha256": "dee7fc9555bec2d6930f570a4e5b1fff3b67213b32e7f4ff1a9578f74a277ccd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-8.jpg",
+          "sha256": "7d634d19bb43a7dabf0b089701a570ce8504616c730bccce0ca501737f3cdb9f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-10.jpg",
+          "sha256": "7343be014f1cc342e933e8444ef55204cb5fadbb7ed922576b271d4f1eecd210"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-14.jpg",
+          "sha256": "171b49a3ea2fad376bd9b4419b6dee42012e4c29ba25cecb1e6097d1c474746c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-17.jpg",
+          "sha256": "cbdb07deae9a7700720ba744f2fd9bde03e5460dd5a6baad9060ffe4899ea8aa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-next-4.jpg",
+          "sha256": "fc5d0672543245f180c55034654a2f5148c8fce4505771f53353d10bb5840962"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "above",
+      "finding": "基准指针改变纤维照明并提供局部曝光；母版指针使对应冰块抬升、内光显露，离开后重新合拢，末段选择还改变完整体积目标，反馈直接作用于主要观看对象。",
+      "benchmarkFrames": [
+        "benchmark-17",
+        "benchmark-18",
+        "benchmark-19",
+        "benchmark-20"
+      ],
+      "candidateFrames": [
+        "reference-97",
+        "reference-98",
+        "reference-99",
+        "reference-109",
+        "reference-113",
+        "reference-116"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-pointer-0.2.png",
+          "sha256": "3b8132ec2c6c9b369c3baf6b3d81cb602366b7270f1a010531f8beec4abc2415"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-pointer-0.8.png",
+          "sha256": "c80249335437e1ba261da9d1d48fc8400d40865d16618ff342cd76a29bad286c"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-pointer-leave.png",
+          "sha256": "7749114c96da0c658d751e608d01401111f096e71c71a49fecaafb323d75edeb"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-held.png",
+          "sha256": "c6bf01c5915b1f09469707447865c3549e06c0752b749b2f2dedd61ed5f24f41"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-left.jpg",
+          "sha256": "d4b2d119246604a0bcbf73175f4bcd6f2407c29050c6ccd57fbe80b205afffe6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-right.jpg",
+          "sha256": "49233d40a999675333853dd008bb44fda68a5560eb21ee6747a16b26258f9f96"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-leave.jpg",
+          "sha256": "c4c7fd11ac0acc45bcd1bc2c8fd992514cdfefbd2e28c504463c83b8a389446f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-to-second-back-2.jpg",
+          "sha256": "706f5ad243f9cf0903b5e5dcc0edd1fd7f644a645a94c124bdaffffd054eb27a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-next.jpg",
+          "sha256": "22a45a6be6a70fe8c449c12105c169b69ccbf564fccf6b99dd012b3b8bd2a48c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "基准以材料内部空间和Remain形成明确停驻；母版以冰中企鹅转为独立粒子作品，并将形态选择对应社交联系，具有完整收束场景，同时实录明确保留继续滚动返回开场的循环性质。",
+      "benchmarkFrames": [
+        "benchmark-3",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "reference-52",
+        "reference-56",
+        "reference-113",
+        "reference-116",
+        "reference-173",
+        "reference-177",
+        "reference-178"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-stop.jpg",
+          "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-next.jpg",
+          "sha256": "22a45a6be6a70fe8c449c12105c169b69ccbf564fccf6b99dd012b3b8bd2a48c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-09.jpg",
+          "sha256": "84c1e9cdf5a13e5b4ca671abc01f00a14e76e807efe90ec2032cfc0ab26f7338"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-13.jpg",
+          "sha256": "5204c419d6f7b21b60639bbf904aa752a921d39acb775cc2f2393f78738b8478"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-14.jpg",
+          "sha256": "f5ab50b25841f8e79f2d6c79ee09f300d85a47937365e36708701f2339187aa7"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "基准手机重排标题并保留材料大幅特写；母版手机保留建筑接触面、完整冰壳轮廓和粒子体积，触摸可直接选择作品，穿环时边缘虽出框，后续中心与平台仍维持可读空间方向。",
+      "benchmarkFrames": [
+        "benchmark-4",
+        "benchmark-5",
+        "benchmark-6",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "reference-53",
+        "reference-54",
+        "reference-55",
+        "reference-56",
+        "reference-161",
+        "reference-164",
+        "reference-184"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+          "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-opening.jpg",
+          "sha256": "d23397ae64b1ffe3bd9fe68b81e535650244ec83ec533ff3d9dbd52c6733141c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-3.jpg",
+          "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-3.jpg",
+          "sha256": "e3354b47dcdb6adb8d67f7cdeb25961b6061957aa16bdf3434cffd0c48ff7102"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-stop.jpg",
+          "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-2.jpg",
+          "sha256": "4c58d501673bbbe07f7fd6ba4dc7652eaf69c3451a76c6c1444b349f3f88c1fa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-5.jpg",
+          "sha256": "27ab84bf12c85ea737abfa824b6b9e3f22c24f67b154effab2b9b4d8ed78310d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/after.jpg",
+          "sha256": "0a3b15364076ab6883780114414b24423497bbb7d164da6b7b74e49208476352"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "pointer-lifted-ice-construction",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "具体建筑的入口、霜面冰块和雪地接触建立空间身份；左右输入抬起不同部件并暴露内光，桌面离开与手机释放序列均保持建筑可辨，减少动态记录也保留这一观看作用。",
+      "referenceFrames": [
+        "reference-49",
+        "reference-97",
+        "reference-98",
+        "reference-99",
+        "reference-100",
+        "reference-103",
+        "reference-191",
+        "reference-194",
+        "reference-195",
+        "reference-198"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening.jpg",
+          "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-left.jpg",
+          "sha256": "d4b2d119246604a0bcbf73175f4bcd6f2407c29050c6ccd57fbe80b205afffe6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-right.jpg",
+          "sha256": "49233d40a999675333853dd008bb44fda68a5560eb21ee6747a16b26258f9f96"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-leave.jpg",
+          "sha256": "c4c7fd11ac0acc45bcd1bc2c8fd992514cdfefbd2e28c504463c83b8a389446f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-opening.jpg",
+          "sha256": "51a6405ebaf8acc81b00879ae20b8642174173b3b87d7fea8d5a1485fb2dd214"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-pointer-leave.jpg",
+          "sha256": "556bdbb3d19835f642370c884f48f55818405bd7497a65e8153945c35785abd6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening.jpg",
+          "sha256": "87d8945b1303219f7f8874e71d4aafb3962677ea9b5f6061fa6be4ba2b14e4ac"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-released.jpg",
+          "sha256": "948e0b6efbe9f478fd8f0f111849bbfe7cc2149a4ec4bd7c1632cf6cd1acab0d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening.jpg",
+          "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-released.jpg",
+          "sha256": "c5f9cff2b9d1fe2170e42171e9977ed34bcac8e556ebbaa0d0dfaab6e08b4898"
+        }
+      ]
+    },
+    {
+      "name": "frozen-work-spatial-viewing",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "企鹅与标志分别置于不同轮廓的厚冰壳中，破口和折射形成真实前后关系；桌面点击及手机短触摸进入详情，Close返回冰壳，作品观看没有退化为同节奏平面卡片。",
+      "referenceFrames": [
+        "reference-50",
+        "reference-65",
+        "reference-104",
+        "reference-106",
+        "reference-108",
+        "reference-151",
+        "reference-154",
+        "reference-155",
+        "reference-156",
+        "reference-158"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-08.jpg",
+          "sha256": "8f555b3983b18d2c41c3e7766bb6c4789ab6f6c78801fb678a1cd395f75ae278"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-return.jpg",
+          "sha256": "2e1736ce4b4abf5ae3fd7e191153125dd29950c2e5e86e16a2df22a2e01abf8a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-close.jpg",
+          "sha256": "f71d3cf237657c486a5ed7303662a0dd22b4302dc4f1c6ddf25d8dc2a26cc85b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-3.jpg",
+          "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-second-stop.jpg",
+          "sha256": "05751bfe48f6ce8f06d88999344d2bef6ee42b348c6c40479253a6f014619d99"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-open/before.jpg",
+          "sha256": "93ef9965f852ddf874c14e760b2bde99ce492ffdbaa8852423231e5335c235e0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-open/after.jpg",
+          "sha256": "0d65556030f63245255fe94cab4933acae280adb6b54863b96f97245a3b2e274"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-close-02/after.jpg",
+          "sha256": "8f185a3fc6f93b1ad17141f68d7be76328ca9dbd82043d9bc9bf3218504803a4"
+        }
+      ]
+    },
+    {
+      "name": "broken-ice-spatial-aperture",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "断裂厚冰片组织成多层空间开口，连续推进时由分离弧段转向发光内缘并穿越中心，随后显露俯视平台；手机反向和减少动态序列仍能辨认开口边缘、深度及当前位置。",
+      "referenceFrames": [
+        "reference-66",
+        "reference-67",
+        "reference-68",
+        "reference-70",
+        "reference-71",
+        "reference-72",
+        "reference-160",
+        "reference-161",
+        "reference-164",
+        "reference-205",
+        "reference-208",
+        "reference-217"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-09.jpg",
+          "sha256": "809ac220293a27e10f4f2e6ec373a8f2da5db3c802620272292d9e66d9d020f5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-10.jpg",
+          "sha256": "7343be014f1cc342e933e8444ef55204cb5fadbb7ed922576b271d4f1eecd210"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-11.jpg",
+          "sha256": "1b7c3d7e526bdbe5cb6997a8452ed34f3ce532aa5500c78132edbd0d82aaaae0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-13.jpg",
+          "sha256": "c1c3564773d574e2e6ea6a2f84bd1ce213723d9de7a8726425073b43377d3ca1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-14.jpg",
+          "sha256": "171b49a3ea2fad376bd9b4419b6dee42012e4c29ba25cecb1e6097d1c474746c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-15.jpg",
+          "sha256": "1853cf150fdca995da7cad968840c21e6250276ffa25a04d08168dfdc46bedda"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-1.jpg",
+          "sha256": "9ede5a10f3e762d658b0c794fe05f32d710af352c758e0a3ed003932129c368c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-2.jpg",
+          "sha256": "4c58d501673bbbe07f7fd6ba4dc7652eaf69c3451a76c6c1444b349f3f88c1fa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-5.jpg",
+          "sha256": "27ab84bf12c85ea737abfa824b6b9e3f22c24f67b154effab2b9b4d8ed78310d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-6.jpg",
+          "sha256": "75e1c53576f05f5ba06f79f651dda071f900b7cc5f0c525acc43de204481e9f1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-9.jpg",
+          "sha256": "d0be9364e0fa6af70584bf73e9acdbd911050bae1443187502f4ea5b1e3207de"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-4.jpg",
+          "sha256": "7a300fe507003ede7e82116c9ea1d89841dd33fb1b0e3169655d844929d72ee7"
+        }
+      ]
+    },
+    {
+      "name": "volumetric-work-contact-resolution",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "粒子企鹅保留前段内件的头身比例及轮廓，在平台光线中显示体积和表面密度；真实选择使其转为具有厚度的X并返回企鹅，手机及减少动态记录均显示对应联系与形态交接。",
+      "referenceFrames": [
+        "reference-50",
+        "reference-52",
+        "reference-109",
+        "reference-113",
+        "reference-115",
+        "reference-116",
+        "reference-183",
+        "reference-184",
+        "reference-186",
+        "reference-187",
+        "reference-189",
+        "reference-190"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-to-second-back-2.jpg",
+          "sha256": "706f5ad243f9cf0903b5e5dcc0edd1fd7f644a645a94c124bdaffffd054eb27a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-next.jpg",
+          "sha256": "22a45a6be6a70fe8c449c12105c169b69ccbf564fccf6b99dd012b3b8bd2a48c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev.jpg",
+          "sha256": "f50cbff4fd2cf003f267658093da53940d8c7c415711470d94dd8262dc966552"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/before.jpg",
+          "sha256": "863112d3c7040689f305a37da5ece0259b4744bfbefda31a027d9eb1f5c34ed1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/after.jpg",
+          "sha256": "0a3b15364076ab6883780114414b24423497bbb7d164da6b7b74e49208476352"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/after.jpg",
+          "sha256": "0fc90c491640f40670a9a7a718cbd3ace159433618aa208d2b4793e74c638b0d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-next/before.jpg",
+          "sha256": "496495bdc01954aab06b481edcd155980e5692d467a905b889d394b0f63740b7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/before.jpg",
+          "sha256": "174572d443820a42f5086f851dd2d11eb752493d0ccbcf8595cb3a5c3d2a09c2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/after.jpg",
+          "sha256": "f551ad52bd141b524640e299aea9db871fef290105069b504623f3ba52d6bb21"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-97",
+        "reference-98",
+        "reference-99",
+        "reference-100",
+        "reference-101",
+        "reference-102",
+        "reference-103",
+        "reference-109",
+        "reference-113",
+        "reference-116",
+        "reference-142",
+        "reference-146",
+        "reference-147"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-left.jpg",
+          "sha256": "d4b2d119246604a0bcbf73175f4bcd6f2407c29050c6ccd57fbe80b205afffe6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-right.jpg",
+          "sha256": "49233d40a999675333853dd008bb44fda68a5560eb21ee6747a16b26258f9f96"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-leave.jpg",
+          "sha256": "c4c7fd11ac0acc45bcd1bc2c8fd992514cdfefbd2e28c504463c83b8a389446f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-opening.jpg",
+          "sha256": "51a6405ebaf8acc81b00879ae20b8642174173b3b87d7fea8d5a1485fb2dd214"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-pointer-left.jpg",
+          "sha256": "abd2695c572e46cb7f7c52e0d9ffab404ee6727a31f72d94b891181bddb25e2d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-pointer-right.jpg",
+          "sha256": "cf189b7bc3daf2c928f99f58b382f007e76461dd4e729072f05835ae3817a918"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-pointer-leave.jpg",
+          "sha256": "556bdbb3d19835f642370c884f48f55818405bd7497a65e8153945c35785abd6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-to-second-back-2.jpg",
+          "sha256": "706f5ad243f9cf0903b5e5dcc0edd1fd7f644a645a94c124bdaffffd054eb27a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-next.jpg",
+          "sha256": "22a45a6be6a70fe8c449c12105c169b69ccbf564fccf6b99dd012b3b8bd2a48c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-stop.jpg",
+          "sha256": "dec957daaf021f0a30acd1bb5fbe0e8ddafcb95b17bbf5a4b698657f1d5e5d27"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-next.jpg",
+          "sha256": "492b7b99714f51a0d83bcba978a243448772b573039b3235e0ed092afa6ca66b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-prev.jpg",
+          "sha256": "5777404411f42ec6e3f3ec6d4c281c4fc053416eb287a328ac7438bd6c1a5c4b"
+        }
+      ]
+    },
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-191",
+        "reference-192",
+        "reference-193",
+        "reference-194",
+        "reference-195",
+        "reference-196",
+        "reference-197",
+        "reference-198",
+        "reference-183",
+        "reference-184",
+        "reference-186",
+        "reference-187",
+        "reference-189",
+        "reference-190"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening.jpg",
+          "sha256": "87d8945b1303219f7f8874e71d4aafb3962677ea9b5f6061fa6be4ba2b14e4ac"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-forward.jpg",
+          "sha256": "adeb442b8b959a127e689dd7fccedb7937f400edee3099b20a2753d41f186a3e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-reverse.jpg",
+          "sha256": "9c98dc57700dc13ae77bdbefd3325ae40269796d6a88aedd2d48a2799604e3e3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-released.jpg",
+          "sha256": "948e0b6efbe9f478fd8f0f111849bbfe7cc2149a4ec4bd7c1632cf6cd1acab0d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening.jpg",
+          "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-held-forward.jpg",
+          "sha256": "2bf04a349116db2fda00e6b01c76a6db9ec94997c5f2243123d74d786cd4308a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-held-reverse.jpg",
+          "sha256": "869d08b09abd812aecc9122e2eb0469a6a726ac5108affda3e5f8fa659e442e4"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-released.jpg",
+          "sha256": "c5f9cff2b9d1fe2170e42171e9977ed34bcac8e556ebbaa0d0dfaab6e08b4898"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/before.jpg",
+          "sha256": "863112d3c7040689f305a37da5ece0259b4744bfbefda31a027d9eb1f5c34ed1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/after.jpg",
+          "sha256": "0a3b15364076ab6883780114414b24423497bbb7d164da6b7b74e49208476352"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/after.jpg",
+          "sha256": "0fc90c491640f40670a9a7a718cbd3ace159433618aa208d2b4793e74c638b0d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-next/before.jpg",
+          "sha256": "496495bdc01954aab06b481edcd155980e5692d467a905b889d394b0f63740b7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/before.jpg",
+          "sha256": "174572d443820a42f5086f851dd2d11eb752493d0ccbcf8595cb3a5c3d2a09c2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/after.jpg",
+          "sha256": "f551ad52bd141b524640e299aea9db871fef290105069b504623f3ba52d6bb21"
+        }
+      ]
+    },
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-57",
+        "reference-62",
+        "reference-65",
+        "reference-66",
+        "reference-69",
+        "reference-73",
+        "reference-76",
+        "reference-77",
+        "reference-84",
+        "reference-89",
+        "reference-90",
+        "reference-96",
+        "reference-117",
+        "reference-128",
+        "reference-134",
+        "reference-137",
+        "reference-141"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-opening.jpg",
+          "sha256": "5e23cf293ccf97a21eec82291d1f744adcc821a6dfe037335740232431c6e455"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-05.jpg",
+          "sha256": "dff9f460c0bc2c6015037c7c0525dbd6913feb311e47f00c992e3857413e4efb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-08.jpg",
+          "sha256": "8f555b3983b18d2c41c3e7766bb6c4789ab6f6c78801fb678a1cd395f75ae278"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-09.jpg",
+          "sha256": "809ac220293a27e10f4f2e6ec373a8f2da5db3c802620272292d9e66d9d020f5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-12.jpg",
+          "sha256": "06d0487defa7ef994361e864728a66e8e6b43df971a329fa30bedcede4f72854"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-16.jpg",
+          "sha256": "35b4e130872478568a84976e8d13ce40aab623c3665933bfb58638632b62c092"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-stopped.jpg",
+          "sha256": "6303d009b28ea4b2380cf2c8df9375287cec50be24eda614a4d5d45544ddc181"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening.jpg",
+          "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-forward-7.jpg",
+          "sha256": "dee7fc9555bec2d6930f570a4e5b1fff3b67213b32e7f4ff1a9578f74a277ccd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reverse-4.jpg",
+          "sha256": "4537013c9c36ee2015eaf1ae8de3e4c4c1e88e6fd38e3fa5569f1ce69db413b8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-stop.jpg",
+          "sha256": "401c9dfaec9d67190b02af7717406d90b323be147ec055c87fbdd2f2d91ea4fb"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-opening.jpg",
+          "sha256": "51a6405ebaf8acc81b00879ae20b8642174173b3b87d7fea8d5a1485fb2dd214"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-11.jpg",
+          "sha256": "be37c0493d4d998751738e6160c3c2015fd57cc73c3bf721bf1dd173708189e5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-forward-17.jpg",
+          "sha256": "5542566e2bf496cd587291704da5e050e3be6c75de2c29ca4491973538cdae9e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-stop.jpg",
+          "sha256": "dec957daaf021f0a30acd1bb5fbe0e8ddafcb95b17bbf5a4b698657f1d5e5d27"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-4.jpg",
+          "sha256": "6a191cd28c6d41cb4a4a07b83f56675c7be7f9c52f645823bf3316f034f9a963"
+        }
+      ]
+    },
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-148",
+        "reference-151",
+        "reference-154",
+        "reference-159",
+        "reference-161",
+        "reference-164",
+        "reference-168",
+        "reference-172",
+        "reference-173",
+        "reference-178",
+        "reference-182",
+        "reference-199",
+        "reference-202",
+        "reference-206",
+        "reference-210",
+        "reference-213",
+        "reference-216",
+        "reference-218"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-opening.jpg",
+          "sha256": "d23397ae64b1ffe3bd9fe68b81e535650244ec83ec533ff3d9dbd52c6733141c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-3.jpg",
+          "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-second-stop.jpg",
+          "sha256": "05751bfe48f6ce8f06d88999344d2bef6ee42b348c6c40479253a6f014619d99"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-second-closed.jpg",
+          "sha256": "7d19670f06cfe4c259505ddfba3f9091009fe22e7f65c285a892d86c6cfe539c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-2.jpg",
+          "sha256": "4c58d501673bbbe07f7fd6ba4dc7652eaf69c3451a76c6c1444b349f3f88c1fa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-5.jpg",
+          "sha256": "27ab84bf12c85ea737abfa824b6b9e3f22c24f67b154effab2b9b4d8ed78310d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-stop.jpg",
+          "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-reverse-stop.jpg",
+          "sha256": "f2c5a7973fdbb4b5c9b7066e478d4164a43f12791fddc16e33d8019a8b97c3d8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-09.jpg",
+          "sha256": "84c1e9cdf5a13e5b4ca671abc01f00a14e76e807efe90ec2032cfc0ab26f7338"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-forward-14.jpg",
+          "sha256": "f5ab50b25841f8e79f2d6c79ee09f300d85a47937365e36708701f2339187aa7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/mobile-stopped.jpg",
+          "sha256": "cd702f01e1f9f8e74c5cf5147f5774c526c57465f660eeaed8417275eedf8d6f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening.jpg",
+          "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-3.jpg",
+          "sha256": "19bd0ab78c637ac27a6f1e2d8650cca0e633c8d982ab512b5e583d028b05d4b6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-7.jpg",
+          "sha256": "f87547494879a12e85109da1d1df37c9d33e392224011b37a8365e1945aee348"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-11.jpg",
+          "sha256": "5bf7a450b6eba52688c7d4d9c85ae056738df76f8a8ff7ad7a5c6f05443b6548"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-end-stop.jpg",
+          "sha256": "33a2e1d02a0876df8fbfda6818200c6c351f83dd373df6ccf5894b64503eba7f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-3.jpg",
+          "sha256": "15fef3f4d24de26251ed9b550b117187a9a343195b3a63056119059275f78e29"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-stop.jpg",
+          "sha256": "3877195995c5142e305caf879ff4b70d5b7f42f9cfde678f9dbbb3188a4e6ae9"
+        }
+      ]
+    }
+  ],
+  "nextAction": "admit",
+  "fixTasks": [],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "具体冰构建筑与有限雪地构成默认主要观看对象，冰块的组织、入口与内光具有空间身份，不能先以宣言、导航或普通发光盒子占据首屏。",
+        "material": "冰的厚度、倒角、不同尺度霜面和内光透射须与雪地接触共同成立，指针抬升后仍可辨内外表面与真实接缝，不用噪点或暗色掩盖普通几何。",
+        "composition": "建筑、雪地、微小测量标签与简短身份形成有比例的完整空间，手机须独立安排主体尺度及接触面，不能只裁去建筑或将对象缩为文字旁的小装饰。",
+        "role": "默认静止已显示空间和材料研究主题，指针或明确触摸进一步揭示部件与内部光线；进入、离开、返回和减少动态均须保持可理解的当前建筑状态。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-opening .visual",
+            "minimumViewportArea": 0.45,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "正向进入冻结作品的观看状态，两件不同冰形包裹各自可辨的具体内件，当前作品的轮廓、破口与短标签须清楚，不能变成三张同节奏静态产品卡。",
+        "material": "外冰的折射、霜化、透明厚度与内部作品材质同时可辨，破口提供真实纵深与光线变化；不能用统一玻璃球、模糊内件或强发光消除作品区别。",
+        "composition": "由建筑外部进入作品近看时，冰壳边界、内部物件及少量标记共同组织主要构图，手机保留完整辨识轮廓与直接观看入口，不依靠桌面悬停显示内容。",
+        "role": "真实原生输入到达并改变被冻结作品的观看，打开、观看、返回、停止和重复进入须有实际证据；此处还需建立可在末段体积目标中认出的同一作品特征。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-transition .visual",
+            "minimumViewportArea": 0.4,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "断开的冰质表面组织成具有内外关系和可穿行深度的空间开口，开口边缘、断片及其内部光线共同成为当前主体，不重复首屏建筑或冻结作品卡片。",
+        "material": "开口的内外表面须保持冰的厚度、断裂、霜面与透光层次，光线沿空间深度交接；普通圆环、表面噪声或纯白遮罩不能承担材料与空间品质。",
+        "composition": "具有纵深的开口控制视线穿越方向，断片、中心空间与前后尺度形成完整构图；手机须重新组织入口和可见边缘，避免只见环形局部或过场黑白空屏。",
+        "role": "连续正向、反向输入真正推进进入与离开冰质空间，停止和再次进入仍能辨认当前材料及观看位置；此段承担作品与末段之间的真实交接，不以统一淡入代替。",
+        "visibleCharacters": {
+          "desktop": 160,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-middle .visual",
+            "minimumViewportArea": 0.4,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "独立完整的体积粒子作品成为最后主要观看对象，至少一个对应目标保留前段冻结内件的可辨作品身份，其他形态各有独立空间特征，联系行动具有具体对应。",
+        "material": "粒子组织须表达体积、内部密度、表面与空间光线，停止后主体仍精确可认；不能将平面图标撒点、复制源企鹅或提高粒子数量视为材料工艺已经成立。",
+        "composition": "粒子作品、有限形态选择与短联系共同形成区别于冰构开场的完整收束，手机保留足够体积与直接操控空间，不被导航遮挡，不退为通用文字邮箱页脚。",
+        "role": "真实鼠标与短触摸选择使作品在不同体积目标之间交接，前进、返回、停止及减少动态各有清楚结果；粒子重组的过程须由实图核验，新版拟在此有限收束，来源循环差异仍须试片比较。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 140
+        },
+        "subjectSelectors": [
+          {
+            "selector": "#scene-ending .visual",
+            "minimumViewportArea": 0.35,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": [
+      {
+        "id": "featured-work-frozen-to-volume",
+        "identity": "冻结内件与末段对应粒子作品须保持可辨主体身份、轮廓、关键部件和比例；源站以冰中企鹅和末段企鹅成对核验，新版须用同一原创作品延续，不凭同色或无关通用形状宣布保留。",
+        "states": [
+          "transition",
+          "ending"
+        ],
+        "signature": "volumetric-work-contact-resolution"
+      }
+    ]
+  },
+  "visualContractSha256": "e7aa2909bf773d540afc1c6f58c78bf1aaae0e17ff657639b00b87212c8d0cae",
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "冰构建筑具有明确入口、分块接缝和雪地接触，微小测量标签没有夺走主体；左右指针抬升不同冰块，离开后恢复完整建筑，空间与材料研究的开场作用成立。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening.jpg",
+          "sha256": "15340195d7ddf2e27016af4aa9fd8432ab3f43102b842b8d041046be210de076"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-left.jpg",
+          "sha256": "d4b2d119246604a0bcbf73175f4bcd6f2407c29050c6ccd57fbe80b205afffe6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-right.jpg",
+          "sha256": "49233d40a999675333853dd008bb44fda68a5560eb21ee6747a16b26258f9f96"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-opening-pointer-leave.jpg",
+          "sha256": "c4c7fd11ac0acc45bcd1bc2c8fd992514cdfefbd2e28c504463c83b8a389446f"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "企鹅和标志分别被不同破口轮廓的厚冰包裹，内件与外冰具有前后关系；真实点击展开详情并经Close返回作品，Escape未关闭这一限制有记录，不影响主体观看交接。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-08.jpg",
+          "sha256": "8f555b3983b18d2c41c3e7766bb6c4789ab6f6c78801fb678a1cd395f75ae278"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-return.jpg",
+          "sha256": "2e1736ce4b4abf5ae3fd7e191153125dd29950c2e5e86e16a2df22a2e01abf8a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-detail-stable.jpg",
+          "sha256": "935d9a38845b507bbc65f1d9b5d2af72ee3a1ff4cecaea7e8db98533a1b180f8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-close.jpg",
+          "sha256": "f71d3cf237657c486a5ed7303662a0dd22b4302dc4f1c6ddf25d8dc2a26cc85b"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "断开的厚冰弧段具有外侧霜面与发光内缘，尺度推进使视线穿越多层开口并落向平台；减少动态反向记录仍显示具体环段和观看位置，没有以空白遮罩代替空间。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-12.jpg",
+          "sha256": "06d0487defa7ef994361e864728a66e8e6b43df971a329fa30bedcede4f72854"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-09.jpg",
+          "sha256": "809ac220293a27e10f4f2e6ec373a8f2da5db3c802620272292d9e66d9d020f5"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-10.jpg",
+          "sha256": "7343be014f1cc342e933e8444ef55204cb5fadbb7ed922576b271d4f1eecd210"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-13.jpg",
+          "sha256": "c1c3564773d574e2e6ea6a2f84bd1ce213723d9de7a8726425073b43377d3ca1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-28/igloo-native-01/desktop-forward-15.jpg",
+          "sha256": "1853cf150fdca995da7cad968840c21e6250276ffa25a04d08168dfdc46bedda"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-2.jpg",
+          "sha256": "11d6b8c16ca3ca505ba4b4fa4e77bf95958e2b46ea8b95fe90aaeca73ccc6ffd"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-reverse-4.jpg",
+          "sha256": "6a191cd28c6d41cb4a4a07b83f56675c7be7f9c52f645823bf3316f034f9a963"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "完整粒子企鹅悬浮于层叠平台，表面密度和阴影表达体积；右选转成厚实X，左选返回企鹅，有限联系选择与形态对应，停驻画面保持独立收束而非文字页脚。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-to-second-back-2.jpg",
+          "sha256": "706f5ad243f9cf0903b5e5dcc0edd1fd7f644a645a94c124bdaffffd054eb27a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-next.jpg",
+          "sha256": "22a45a6be6a70fe8c449c12105c169b69ccbf564fccf6b99dd012b3b8bd2a48c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev.jpg",
+          "sha256": "f50cbff4fd2cf003f267658093da53940d8c7c415711470d94dd8262dc966552"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-stop.jpg",
+          "sha256": "dec957daaf021f0a30acd1bb5fbe0e8ddafcb95b17bbf5a4b698657f1d5e5d27"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-next.jpg",
+          "sha256": "492b7b99714f51a0d83bcba978a243448772b573039b3235e0ed092afa6ca66b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-reduced-ending-prev.jpg",
+          "sha256": "5777404411f42ec6e3f3ec6d4c281c4fc053416eb287a328ac7438bd6c1a5c4b"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "竖屏保留完整冰建筑、入口和足够雪地接触面，顶部身份文字与主体分离；真实横向触摸改变局部抬升，释放及减少动态序列仍维持同一建筑的可读状态。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-opening.jpg",
+          "sha256": "d23397ae64b1ffe3bd9fe68b81e535650244ec83ec533ff3d9dbd52c6733141c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening.jpg",
+          "sha256": "87d8945b1303219f7f8874e71d4aafb3962677ea9b5f6061fa6be4ba2b14e4ac"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-forward.jpg",
+          "sha256": "adeb442b8b959a127e689dd7fccedb7937f400edee3099b20a2753d41f186a3e"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-held-reverse.jpg",
+          "sha256": "9c98dc57700dc13ae77bdbefd3325ae40269796d6a88aedd2d48a2799604e3e3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/normal-opening-horizontal-released.jpg",
+          "sha256": "948e0b6efbe9f478fd8f0f111849bbfe7cc2149a4ec4bd7c1632cf6cd1acab0d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening.jpg",
+          "sha256": "c77a0b0db5ba922fa9fb38810f75fecdd9f46d359034a0dc7e1948653d98f75f"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-opening-horizontal-released.jpg",
+          "sha256": "c5f9cff2b9d1fe2170e42171e9977ed34bcac8e556ebbaa0d0dfaab6e08b4898"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机中企鹅冰壳与第二件标志冰壳保持完整辨识轮廓，标签围绕对象分布；短触摸实际打开详情并关闭返回，不需要桌面悬停才能获得作品内容和观看入口。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-3.jpg",
+          "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-work-stop.jpg",
+          "sha256": "1884024b05a7c7123a1a88be92ec9832e4e2552a45c33dad3cf5b5943c167b12"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-second-stop.jpg",
+          "sha256": "05751bfe48f6ce8f06d88999344d2bef6ee42b348c6c40479253a6f014619d99"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-open/before.jpg",
+          "sha256": "93ef9965f852ddf874c14e760b2bde99ce492ffdbaa8852423231e5335c235e0"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-open/after.jpg",
+          "sha256": "0d65556030f63245255fe94cab4933acae280adb6b54863b96f97245a3b2e274"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-close-02/before.jpg",
+          "sha256": "e0d6d4bc74c5364121c1731eb23f67a9185898ce348b077a34d75eeda0cfae5b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-second-close-02/after.jpg",
+          "sha256": "8f185a3fc6f93b1ad17141f68d7be76328ca9dbd82043d9bc9bf3218504803a4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "竖屏穿越时外环部分出框，但内外冰面、分离断片与中心光源持续组织方向；前进到俯视平台、反向回环及减少动态停驻均可辨空间位置，并非仅有放大圆环局部。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-3.jpg",
+          "sha256": "e3354b47dcdb6adb8d67f7cdeb25961b6061957aa16bdf3434cffd0c48ff7102"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-1.jpg",
+          "sha256": "9ede5a10f3e762d658b0c794fe05f32d710af352c758e0a3ed003932129c368c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-2.jpg",
+          "sha256": "4c58d501673bbbe07f7fd6ba4dc7652eaf69c3451a76c6c1444b349f3f88c1fa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-4.jpg",
+          "sha256": "8759f99694105a1fc8f2a3704c4d5466e50f5130f079b7a5966216668fa43665"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-5.jpg",
+          "sha256": "27ab84bf12c85ea737abfa824b6b9e3f22c24f67b154effab2b9b4d8ed78310d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-closed-to-end-6.jpg",
+          "sha256": "15097baf5df77fe3a64ea5578c7fa5af06dc98958cc8d7c9b99af9f927c5afc3"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-reverse-stop.jpg",
+          "sha256": "f2c5a7973fdbb4b5c9b7066e478d4164a43f12791fddc16e33d8019a8b97c3d8"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-6.jpg",
+          "sha256": "75e1c53576f05f5ba06f79f651dda071f900b7cc5f0c525acc43de204481e9f1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-reverse-stop.jpg",
+          "sha256": "3877195995c5142e305caf879ff4b70d5b7f42f9cfde678f9dbbb3188a4e6ae9"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "粒子企鹅在竖屏占据主要体积，平台和顶部光环建立空间边界；短触摸选择X及返回企鹅均有实图，减少动态下对应目标仍明确，联系控制没有遮住作品主要轮廓。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-stop.jpg",
+          "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/before.jpg",
+          "sha256": "863112d3c7040689f305a37da5ece0259b4744bfbefda31a027d9eb1f5c34ed1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/after.jpg",
+          "sha256": "0a3b15364076ab6883780114414b24423497bbb7d164da6b7b74e49208476352"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/before.jpg",
+          "sha256": "200fe24198415afef2b8c3b41dd3d3ee6ad89dc6070586bb23cc775bf98844ce"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/after.jpg",
+          "sha256": "0fc90c491640f40670a9a7a718cbd3ace159433618aa208d2b4793e74c638b0d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-next/before.jpg",
+          "sha256": "496495bdc01954aab06b481edcd155980e5692d467a905b889d394b0f63740b7"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-next/after.jpg",
+          "sha256": "a84d1bc81a6a2a6c21eae11b1f70b77c68da4d78c829f34980a1188364dbbe96"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/before.jpg",
+          "sha256": "174572d443820a42f5086f851dd2d11eb752493d0ccbcf8595cb3a5c3d2a09c2"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/after.jpg",
+          "sha256": "f551ad52bd141b524640e299aea9db871fef290105069b504623f3ba52d6bb21"
+        }
+      ]
+    }
+  ],
+  "continuityChecks": [
+    {
+      "id": "featured-work-frozen-to-volume",
+      "viewport": "desktop",
+      "status": "preserved",
+      "finding": "冰壳内企鹅与末段粒子企鹅保持圆头、短肢、宽腹和头身比例，冰壳折射虽弱化细节，仍可对应主体身份；粒子切换返回后同一轮廓重新成立，超过仅有同色物体的连续性。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-hover.jpg",
+          "sha256": "fd224ad13c07cdf2c68f026f1f05c52e71744d06c3a12b1372b5856974cb033c"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-first-close.jpg",
+          "sha256": "f71d3cf237657c486a5ed7303662a0dd22b4302dc4f1c6ddf25d8dc2a26cc85b"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-to-second-back-2.jpg",
+          "sha256": "706f5ad243f9cf0903b5e5dcc0edd1fd7f644a645a94c124bdaffffd054eb27a"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/desktop-ending-prev-stop.jpg",
+          "sha256": "b328b3f0d1f7bb9364e5ded5b58265aea8006ad3916eb8891280eaa28d720992"
+        }
+      ]
+    },
+    {
+      "id": "featured-work-frozen-to-volume",
+      "viewport": "mobile",
+      "status": "preserved",
+      "finding": "手机冻结企鹅的圆头与饱满腹部在末段粒子目标中继续可辨，短肢和整体比例保持一致；选择X后返回企鹅仍恢复相同作品身份，材质从透明冰包裹转为体积粒子有明确区分。",
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-3.jpg",
+          "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-forward-3.jpg",
+          "sha256": "fb7b2cf91bd94c5a4a074548609c867a403f2e7427b1578df41c7bac39b9b7d1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/reduced-forward-3.jpg",
+          "sha256": "19bd0ab78c637ac27a6f1e2d8650cca0e633c8d982ab512b5e583d028b05d4b6"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/mobile-ending-frontal-stop.jpg",
+          "sha256": "64bde5d180245ee7f3473f0e8c8d92b9d8a0044cef4f42556b51a6376137dbfa"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-next/before.jpg",
+          "sha256": "863112d3c7040689f305a37da5ece0259b4744bfbefda31a027d9eb1f5c34ed1"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-ending-prev/after.jpg",
+          "sha256": "0fc90c491640f40670a9a7a718cbd3ace159433618aa208d2b4793e74c638b0d"
+        },
+        {
+          "path": "docs/evidence/redo-v2/2026-10-29/igloo-touch-taps/mobile-reduced-ending-prev/after.jpg",
+          "sha256": "f551ad52bd141b524640e299aea9db871fef290105069b504623f3ba52d6bb21"
+        }
+      ]
+    }
+  ],
+  "reviewReceipt": {
+    "path": "docs/production/runs/igloo-reference-20261029-02/cli-review/01-reference-review-7cc2572602/consumed/receipt.json",
+    "sha256": "663e364a3c195bf179d4b698b5e149cf082a081f3ee5b14cbad5b70d5002b8f0"
+  }
+}

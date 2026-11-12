@@ -1,0 +1,76 @@
+{
+  "url": "https://oryzo.ai/",
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 6005,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-before.jpg",
+          "sha256": "610f4b504dae66f977625a4ea0958412452fb3792101be57be67b68a73d8a560"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 5995,
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/mobile-before.jpg",
+          "sha256": "4d4dbe197f066ebdb68f0ed85aeb0e6c9948b100234ae2d7a230b815a570b714"
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "viewport": "desktop",
+      "input": "palm",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-palm.jpg",
+      "sha256": "6f01e07719151245295e97fdc62c16fee398295ba9ceb03f11fed1aa71f2a6cb"
+    },
+    {
+      "viewport": "desktop",
+      "input": "coaster",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-coaster.jpg",
+      "sha256": "3ace8786649e57bb204b9563260ef99218b88a1085c324da4fa4cf95ddbb30c5"
+    },
+    {
+      "viewport": "desktop",
+      "input": "reverse",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-reverse.jpg",
+      "sha256": "f86ce753abc65966f586e4374ac05fb73cd6221a48890f927c0ab2fa947d670b"
+    },
+    {
+      "viewport": "desktop",
+      "input": "leave",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-leave.jpg",
+      "sha256": "ca56387684179bc87e06e0630b7079564453d7270969a77cfe5535920d740684"
+    },
+    {
+      "viewport": "desktop",
+      "input": "reduced-hand-state",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/desktop-reduced.jpg",
+      "sha256": "a7181647e85edb40b63ce0ad6299fdca98be4e51d9e26ac535a60fcbaf0bb3e5"
+    },
+    {
+      "viewport": "mobile",
+      "input": "real-touch-release",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/mobile-touch.jpg",
+      "sha256": "af6ee9382752a3fdc84fb059d4f6270b9595f19565065201b87c1bee9b327cb7"
+    },
+    {
+      "viewport": "mobile",
+      "input": "reduced-hand-state",
+      "path": "docs/evidence/redo-v2/2026-10-17/oryzo-hand-input-02/mobile-reduced.jpg",
+      "sha256": "17853fcb31b8b1a063d79aa1d4dee0a42839014e02cc3b6c364217972280c968"
+    }
+  ],
+  "result": "observed-not-admitted"
+}

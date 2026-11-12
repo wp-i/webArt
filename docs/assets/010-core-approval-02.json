@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "decision": "admit",
+  "finding": "仅批准本次P–04核心素材及接口：七个命名部件保留可辨认的齿形、铜绕组、轴承与装配；材质独立绑定环境强度后表圈恢复暗色，线稿与实体是同一几何。桌面/手机已直接实看四姿态，原生拖动、键盘移动与释放均作用于仪表内部对象。该批准不授予页面或用户验收资格。 续验补齐运行中切换减少动态的实际响应；普通拖动/松手、触摸与键盘仍通过，关闭惯性并保留直接操作。",
+  "files": [
+    {
+      "path": "assets/owned/pace-instrument/v2/model.js",
+      "sha256": "c14556a73d6d932cfd08dd1640f2a35a99e20e9b41064750c054ad18c3af0575"
+    },
+    {
+      "path": "assets/owned/pace-instrument/v2/studio.js",
+      "sha256": "03926e10cc0d809a1bb7c3f3063a1a3a7822ef18b7e05006df256bf87bee731a"
+    },
+    {
+      "path": "assets/owned/pace-instrument/v2/instrument-scene.js",
+      "sha256": "559c3f2b1f8430e878caddc6182c9a68a8c93339085ae10320286062f39573ff"
+    }
+  ],
+  "evidence": [
+    {
+      "path": "docs/evidence/redo-v2/2026-10-16/010-core/desktop-opening.jpg",
+      "sha256": "d5119a8bed959a4c6f62fafb2cc38f7c2ecfae93178eb3d7b2d64d6bffcff8a7",
+      "viewport": "desktop",
+      "state": "opening"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-16/010-core/desktop-transition.jpg",
+      "sha256": "59090b2e084fa720a01e0427327c16b3235f75400d6745a93ea92fe4e7acc52a",
+      "viewport": "desktop",
+      "state": "transition"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-16/010-core/desktop-middle.jpg",
+      "sha256": "c6615bbb79592dd15c4388f96e032afbbca284c9ca4e07745c2045b9bacaf3d9",
+      "viewport": "desktop",
+      "state": "middle"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-16/010-core/desktop-ending.jpg",
+      "sha256": "52439c98c88bd36566b2a94ed0f202f8074ca72a3529decae937baca7851ceb9",
+      "viewport": "desktop",
+      "state": "ending"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-16/010-core/mobile-opening.jpg",
+      "sha256": "3c2af8a9dfc15d2ae2ca53810412242804c7e9d666a17ae4c3e912bab003460e",
+      "viewport": "mobile",
+      "state": "opening"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-16/010-core/mobile-transition.jpg",
+      "sha256": "77b66cbc81c9216854ec1535ef4b1adf5529f0ea82eaa18f0bb65c2f60adfe79",
+      "viewport": "mobile",
+      "state": "transition"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-16/010-core/mobile-middle.jpg",
+      "sha256": "47fc7a02072b3dee187d6dfceceb7c71a2a364a38bde3f873540461d59bdd7b9",
+      "viewport": "mobile",
+      "state": "middle"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-16/010-core/mobile-ending.jpg",
+      "sha256": "be43cf580bcf1b7227e9b42c599476eb2f4176714d9c9ce9275bd73f334d0d86",
+      "viewport": "mobile",
+      "state": "ending"
+    }
+  ],
+  "nativeInputs": {
+    "path": "docs/evidence/redo-v2/2026-10-16/010-core-inputs/receipt.json",
+    "sha256": "1c50016815809aa3ade169b19dbc4470bcb7b8ec566b7547bdf3ac221c30f98f"
+  },
+  "limitations": "Primary art director asset review; not independent model evaluation or full-page approval."
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "runId": "api-20261021111141201-3d9c5675",
+  "mode": "configuration-driven",
+  "productionMode": "first-style-qualification",
+  "codeGenerationCalls": 0,
+  "execution": "current-conversation-evidence-review",
+  "started": "2026-10-21T11:11:41.202Z",
+  "model": "current-conversation",
+  "ids": [
+    "009"
+  ],
+  "status": "stopped-for-plan-revision",
+  "stage": "engineering-reused",
+  "usage": [],
+  "candidates": [
+    {
+      "id": "009",
+      "stage": "full-qa",
+      "decision": "reject",
+      "nextAction": "stop-for-plan-revision",
+      "fixTasks": [
+        "宽屏结尾的头顶、手部及相机范围不符合已锁定构图，需要有限局部裁切修正。",
+        "另行实际关闭脚本后，桌面Photographs导航改变hash到display:none/height=0的标记，未抵达可见内容，记录在009-no-script-actions-01/actions.json；原生备用入口需要修正。",
+        "本轮已因明确缺陷提前退回；其余控件的133个去重载荷未全部审看，不记为控件视觉通过，不创建包或更新首页。"
+      ]
+    }
+  ],
+  "deliveries": [],
+  "inventoryChanged": false,
+  "visualAcceptance": "pending-user-review",
+  "qualificationContinuationOf": "docs/production/runs/2026-10-19-four-redesigns",
+  "inputIdentity": "0314026482bd02598f4fa9b4b5fe660f73b52215f9ce297e825a17af19d94311",
+  "scope": "Deterministic qualification of an already authored and visually admitted prototype. New-style authoring and actual visual judgments are not zero-LLM.",
+  "resumes": [
+    {
+      "at": "2026-10-21T11:13:16.210Z",
+      "fromStage": "style-review",
+      "previousFailure": null
+    },
+    {
+      "at": "2026-10-21T15:22:14.659Z",
+      "fromStage": "full-qa",
+      "previousFailure": {
+        "code": "stage-failed",
+        "message": "本地检查失败",
+        "diagnostic": "{\"result\":\"failed\",\"failure\":\"Not ready: performance.timeOrigin!==1792581199463.5&&document.readyState==='complete'&&document.images.length===6&&[...document.images].every(i=>i.complete&&i.naturalWidth)&&document.fonts.status==='loaded'\",\"viewports\":[],\"states\":0,\"transitions\":0,\"arbitrary\":0,\"checks\":{},\"errors\":[]}\n"
+      }
+    },
+    {
+      "at": "2026-10-21T15:34:37.601Z",
+      "fromStage": "performance-qa",
+      "previousFailure": null
+    }
+  ],
+  "qaAttempts": [
+    {
+      "id": "009",
+      "attempt": 1,
+      "directory": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa",
+      "binding": "ab89af4aac49db0fe5c8445dbe2d27ca83d716584eee718fdafd0236c4a9102b",
+      "sourceSha256": "c7651ef2df86e8074889cc8778bccafdebcd075e9b8f1aab47c708e61cbc847a"
+    },
+    {
+      "id": "009",
+      "attempt": 2,
+      "directory": "docs/evidence/production/api-20261021111141201-3d9c5675/009-full-qa-attempt-02",
+      "binding": "be206210b43abf4000612318ad3b2f201c1947d313958ef1d0e00d160a818a5b",
+      "sourceSha256": "c7651ef2df86e8074889cc8778bccafdebcd075e9b8f1aab47c708e61cbc847a"
+    }
+  ],
+  "finished": "2026-10-21T15:34:41.744Z"
+}

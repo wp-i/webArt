@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "pace-precision-v2",
+  "templateId": "010",
+  "status": "internal-qualified-user-pending",
+  "directory": "renderers/pace-precision-v2",
+  "sourceDirectory": "renderers/pace-precision-v2/source",
+  "sourceSha256": "b07a2629d1ef621848316d420830890f231b4282bdc65971cd1f4d2ad64b3779",
+  "planSha256": "9b720d7a003eed3f6b10767295bc5ddc1983a69454ba86737f1c0c470fad846b",
+  "requiredContent": [
+    "brand",
+    "study-label",
+    "explore-label",
+    "hero-title",
+    "hero-note",
+    "mechanism-title",
+    "mechanism-note",
+    "matrix-title",
+    "matrix-note",
+    "spring-title",
+    "spring-note",
+    "release-label",
+    "back-label",
+    "drag-label",
+    "scroll-label",
+    "count-1"
+  ],
+  "deliveryReceipt": {
+    "path": "docs/production/runs/2026-10-18-performance/010-delivery-receipt.json",
+    "sha256": "a4a3d7b1e6b3f8a0a348f16539ca36ede96c2d65a53b5e69fcb1dfd57255efc6"
+  },
+  "manifest": {
+    "path": "renderers/pace-precision-v2/manifest.json",
+    "sha256": "a23eef66abef218e13ff5efd685f567f42c94abe939abb71b487775070141ae7"
+  },
+  "contract": {
+    "path": "renderers/pace-precision-v2/contract.json",
+    "sha256": "e1b4f4a39c50a6ea10c82443862aac453159552a1b4091402e72e3da134d0d2b"
+  },
+  "qualification": {
+    "path": "renderers/pace-precision-v2/qualification.json",
+    "sha256": "fbe89b38eaecd9a009fa2967353eeb41890d6257dc102e3d40a5751c71f0b484"
+  },
+  "contentRules": {
+    "path": "renderers/pace-precision-v2/content-rules.json",
+    "sha256": "b029f55d0e9945d03e494fc27ed824f568bc9658834d35bfa54d94e1ae867539"
+  },
+  "limitations": "Internally qualified only; user acceptance is pending. Registration and replay do not create a new design or guarantee user acceptance."
+}

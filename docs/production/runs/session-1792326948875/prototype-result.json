@@ -1,0 +1,336 @@
+{
+  "decision": "admit",
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "候选的左侧短重字、偏右完整仪表和彩色刻度有清楚比例，手机上方文字与中下主体也成立；与基准材料和衬线字形采用不同但同样明确的主视觉关系。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-4"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-41"
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "候选暗玻璃面、外圈细刻度与短重字相互协调，浅底展开的细轮廓与空白有控制；和基准的纤维边缘及字形关系相比，没有用普通组件顶替主图工艺。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-38"
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "展开状态显示壳体、齿圈、绕组与分离板件，彩色细环及显示面身份持续存在；具体部件和材质让主体可辨认，达到基准材料近景所要求的特异性。",
+      "benchmarkFrames": [
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "candidate-38",
+        "candidate-39"
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "同一仪表经浅色展开再回到蓝点阵和绿色内景，正反序列都出现壳体与机械共存的过渡；章节改变观看内容和底色，连续身份没有被无关画布切断。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-1",
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-38",
+        "candidate-39",
+        "candidate-40",
+        "candidate-45",
+        "candidate-46",
+        "candidate-48",
+        "candidate-49"
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "绿色对象在主仪表内部真实横向移动，反向回到中央，松开和减少动态仍保留明确对象；直接操控深化主体观看，作用与基准按住揭示的层次相当。",
+      "benchmarkFrames": [
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "candidate-51",
+        "candidate-52",
+        "candidate-53",
+        "candidate-54",
+        "candidate-55"
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "结尾保留与开场同等完整的壳体与荧光对象，左下短字、释放和返回行动各有位置；手机同样以完整视觉场景结束，没有退化为普通邮箱或按钮列表。",
+      "benchmarkFrames": [
+        "benchmark-3",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-40",
+        "candidate-44"
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "手机四态标题均有独立上方空间，完整圆周、斜向展开结构和末态操控对象均可辨认；主体不被桌面横构图截去，也没有通过长文字填补窄屏。",
+      "benchmarkFrames": [
+        "benchmark-4",
+        "benchmark-5",
+        "benchmark-6",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "candidate-41",
+        "candidate-42",
+        "candidate-43",
+        "candidate-44"
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "precision-mechanism-and-material-to-linework",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "候选沿同一装配轴展开壳体、齿圈、绕组与板件，细轮廓保持具体部件身份；实体到浅底线稿的改变承担观看深化，不以普通几何替换。",
+      "referenceFrames": [
+        "reference-12",
+        "reference-13",
+        "reference-17"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-38",
+        "candidate-42"
+      ]
+    },
+    {
+      "name": "wave-to-stagger-display",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "红色波形与蓝色点阵始终位于同一仪表内部，外圈和暗色显示面保持连续身份，短字颜色与内部显示呼应而不使用独立无关画布。",
+      "referenceFrames": [
+        "reference-12",
+        "reference-14",
+        "reference-16",
+        "reference-18"
+      ],
+      "candidateFrames": [
+        "candidate-37",
+        "candidate-39",
+        "candidate-41",
+        "candidate-43"
+      ]
+    },
+    {
+      "name": "spring-object-contained-in-instrument",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "绿色对象始终由同一仪表壳体包围，拖动、反向、松开及减少动态均可见主体关系，末态保留与开场同等的完整造型和短字构图。",
+      "referenceFrames": [
+        "reference-15",
+        "reference-19",
+        "reference-26",
+        "reference-29"
+      ],
+      "candidateFrames": [
+        "candidate-40",
+        "candidate-44",
+        "candidate-51",
+        "candidate-52",
+        "candidate-53",
+        "candidate-54",
+        "candidate-55"
+      ]
+    }
+  ],
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "桌面完整仪表位于右侧，短标题在左上，红色波形、暗显示面与彩色刻度共同承担开场身份，主次和实际材质都清楚。",
+      "frames": [
+        "candidate-37"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "暖灰状态展开同一仪表的壳体、板件、齿圈和内部结构，斜轴留白与左上短标题独立成立，细线仍具有空间层次。",
+      "frames": [
+        "candidate-38"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "蓝点阵位于完整仪表的显示面内部，壳体及刻度持续可辨，左下蓝色短标题呼应显示内容，观看内容发生变化。",
+      "frames": [
+        "candidate-39"
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "绿色操控对象处于完整壳体内部，左下短字与释放行动提供独立末态，拖动及松开直接改变主图而不是附属演示。",
+      "frames": [
+        "candidate-40"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机上方短标题与中下完整仪表有清楚层级，圆周没有截断，红色波形与暗面可辨，默认主体无需鼠标才可理解。",
+      "frames": [
+        "candidate-41"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机展开状态保留斜向轴体和分离部件，轮廓、齿圈及圆板都有完整边界，标题没有侵入主要机械观看区域。",
+      "frames": [
+        "candidate-42"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机点阵仍位于外壳内部，上方蓝色标题与显示组织呼应，圆周与材质连续保留，没有变成脱离仪表的点阵背景。",
+      "frames": [
+        "candidate-43"
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机绿色对象与圆形壳体保持完整，短标题、释放和返回均有独立位置，结尾仍延续开场的主体加工与颜色关系。",
+      "frames": [
+        "candidate-44"
+      ]
+    }
+  ],
+  "continuityChecks": [
+    {
+      "id": "instrument-identity",
+      "viewport": "desktop",
+      "status": "preserved",
+      "finding": "桌面四态从完整彩色刻度仪表进入可识别的内部装配，再回到内部点阵及绿色对象；外壳、刻度和部件语言沿整个短路径持续存在。",
+      "frames": [
+        "candidate-37",
+        "candidate-38",
+        "candidate-39",
+        "candidate-40"
+      ]
+    },
+    {
+      "id": "instrument-identity",
+      "viewport": "mobile",
+      "status": "preserved",
+      "finding": "手机四态仍围绕同一仪表安排标题与主体，斜向展开结构保持同一外壳身份，点阵和绿色对象都回到内部显示面，没有换成另一主图。",
+      "frames": [
+        "candidate-41",
+        "candidate-42",
+        "candidate-43",
+        "candidate-44"
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "candidate-51",
+        "candidate-52",
+        "candidate-53",
+        "candidate-54",
+        "candidate-55"
+      ]
+    },
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "candidate-45",
+        "candidate-46",
+        "candidate-47",
+        "candidate-48",
+        "candidate-49",
+        "candidate-50",
+        "candidate-56",
+        "candidate-57",
+        "candidate-58",
+        "candidate-59",
+        "candidate-60",
+        "candidate-61"
+      ]
+    }
+  ],
+  "nextAction": "admit",
+  "fixTasks": []
+}

@@ -1,0 +1,23 @@
+{
+  "decision": "reference-admitted-for-prototype-only",
+  "referenceReview": {
+    "path": "docs/production/runs/igloo-reference-20261029-02/reference-review.json",
+    "sha256": "fe41730624232abae50de2eadfaa52e359938d0f5b65c82444dcf4b51873ccca"
+  },
+  "calibrationReview": {
+    "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+    "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+  },
+  "reviewerId": "codex-account-default:2026-10-29-cli-calibration",
+  "inventoryChanged": false,
+  "packageAuthorized": false,
+  "limitations": "Checks evidence and the recorded comparison; it does not predict visual quality or authorize full implementation.",
+  "reference": {
+    "path": "docs/production/runs/igloo-reference-20261029-02/reference-review.json",
+    "sha256": "fe41730624232abae50de2eadfaa52e359938d0f5b65c82444dcf4b51873ccca"
+  },
+  "calibration": {
+    "path": "docs/production/runs/cli-calibration-20261029/calibration-review.json",
+    "sha256": "790fc1df207a1ea6da9e367ceaf93353bb529bad795c86cf349859b83abed9cc"
+  }
+}

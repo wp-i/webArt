@@ -1,0 +1,744 @@
+{
+  "purpose": "Maker-linked restaurant concept actual normal path; no admission or actual-business claim",
+  "url": "https://domstudio.website/about-us/",
+  "status": "captured-bounded-path-not-admitted",
+  "viewports": [
+    {
+      "name": "desktop",
+      "frames": [
+        {
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-opening.jpg",
+          "sha256": "a5db3584759bd160e56c9433419f8e585ebd8c46d9aa38bb8e11b08020f3d1bc"
+        },
+        {
+          "state": "forward-1",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-1.jpg",
+          "sha256": "7f5e3fe5b10204a7fb66e5b790781db5cc730e6c741d20f8400058a253e1a320"
+        },
+        {
+          "state": "forward-2",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-2.jpg",
+          "sha256": "7d1e475e50a1c05ffa080cd44b0238a212c6979d5ad52e08b52dafaf7d9a86d2"
+        },
+        {
+          "state": "forward-3",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-3.jpg",
+          "sha256": "c2ee7ee29f2247df2986d2fdf3c9acca8710188db59f16f765e71b85bfad52b4"
+        },
+        {
+          "state": "forward-4",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-4.jpg",
+          "sha256": "012f4be0e7ba50d94ad252716853c9d361a3079e91632ab81c66abda7276c9b6"
+        },
+        {
+          "state": "forward-5",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-5.jpg",
+          "sha256": "8388dd0f0f50534fffc388e6479d20d0236b48e3d9265ff51125c15d7916f06f"
+        },
+        {
+          "state": "forward-6",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-6.jpg",
+          "sha256": "13a54f14ad7bccd3ecc70e38630714286856e3b1257cde59bccd61e33ba95973"
+        },
+        {
+          "state": "forward-7",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-7.jpg",
+          "sha256": "d4c82b82e09891ef7ec29601d5be44f211036ba0b162993b10cbee7698fcee6c"
+        },
+        {
+          "state": "forward-8",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-8.jpg",
+          "sha256": "aa7629a4fa05db4c6e11424e75452a64729e9c2c72806b0581d01be08777cb3f"
+        },
+        {
+          "state": "forward-9",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-9.jpg",
+          "sha256": "6f9b8c9c803b4310fa999c13c50869ce59346f452546fdad0ed0772d0c2f98ef"
+        },
+        {
+          "state": "forward-10",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-10.jpg",
+          "sha256": "87c707db811dec789b47368df4dd187836985abdf0b09964942b2fd448ca262c"
+        },
+        {
+          "state": "forward-11",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-11.jpg",
+          "sha256": "d935b9a1d7381faf461325a0a400e01e74181bd8c2d6d19275b628579f2c97e0"
+        },
+        {
+          "state": "forward-12",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-12.jpg",
+          "sha256": "2246e17b471deda481b4b1a8d49bedcc7f75ec44942a8472ac00735be5128610"
+        },
+        {
+          "state": "forward-13",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-13.jpg",
+          "sha256": "cf7caed5aa09d51919416047cb94b87d8a4f74a37ff9c56a03df690e0d3036cb"
+        },
+        {
+          "state": "forward-14",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-14.jpg",
+          "sha256": "b9a86fc42669f7625bd5e832862970ad267bc35e25c3700e818d6b41eb25efce"
+        },
+        {
+          "state": "forward-15",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-15.jpg",
+          "sha256": "b7132401b7d4489746fa35823b4c699a241f76b2cc3f1fa7fbdd397287c008a0"
+        },
+        {
+          "state": "forward-16",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-16.jpg",
+          "sha256": "be3146a358774ed3220b75f9fc23a213bbde09831664cd3381437a9308f919c4"
+        },
+        {
+          "state": "forward-17",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-17.jpg",
+          "sha256": "b2e4f7a657419f6f0fea7c40376f6782cf2de688b0c06a2f21a25683f89ca05d"
+        },
+        {
+          "state": "forward-18",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-18.jpg",
+          "sha256": "d8f7557713e40ca4b3413dd3ae97d5708196ac0d1753614b2a47c0dcb0c42fe0"
+        },
+        {
+          "state": "forward-19",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-19.jpg",
+          "sha256": "35c5039730e5f5d0a96947d8f61f4c88896d98895396586eb7cdf5b7dbcfa777"
+        },
+        {
+          "state": "forward-20",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-forward-20.jpg",
+          "sha256": "94727b4c0a559a0640bd1e8069b7492bacc0936aecb3a7749b87fdb5eae97044"
+        },
+        {
+          "state": "ending-stopped",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/desktop-ending-stopped.jpg",
+          "sha256": "94727b4c0a559a0640bd1e8069b7492bacc0936aecb3a7749b87fdb5eae97044"
+        }
+      ],
+      "actions": [
+        {
+          "input": "native-wheel",
+          "y": 750,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 1500,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 2250,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 3000,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 3750,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 4500,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 5250,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 6000,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "ABOUT US",
+            "CLASSIC BURGER"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 6750,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "CLASSIC BURGER"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 7500,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "CLASSIC BURGER"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 8250,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "SMOKY ANGUS"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 9000,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "TRUFFLE MELT"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 9750,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "DOUBLE BEAST"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 10500,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "DOUBLE BEAST"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 11250,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "CRAFTED FOR THE FIRST BITE",
+            "CRAFTED UNDER PRESSURE"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 12000,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "CRAFTED FOR THE FIRST BITE",
+            "CRAFTED UNDER PRESSURE"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 12750,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "CRAFTED FOR THE FIRST BITE",
+            "CRAFTED UNDER PRESSURE"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 13500,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "CRAFTED FOR THE FIRST BITE",
+            "CRAFTED UNDER PRESSURE"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 14250,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "GET IN TOUCH"
+          ]
+        },
+        {
+          "input": "native-wheel",
+          "y": 14869,
+          "max": 14869,
+          "height": 15769,
+          "heads": [
+            "THE FORGE"
+          ]
+        }
+      ],
+      "initial": {
+        "y": 0,
+        "max": 14869,
+        "height": 15769,
+        "heads": [],
+        "title": "about us"
+      },
+      "end": {
+        "y": 14869,
+        "max": 14869,
+        "height": 15769,
+        "heads": [
+          "THE FORGE"
+        ],
+        "text": "Skip to content\nGRILLED TO\nPERFECTION\nTHE FROG\nOUR STORY\nMENU\nEXPERIENCE\nORDER NOW\nANATOMY\nOF FLAVOR\n01\nBRIOCHE BUN\n\nARTISAN GOLD-BRUSHED BUN.\n\n02\nLETTUCE\n\nCRISP HAND-PICKED GREENS.\n\n03\nRED ONION\n\nHAND-SLICED SHARPNESS.\n\n04\nPICKLES\n\nHOUSE-CURED CRUNCH.\n\n05\nCHEESE\n\nAGED MELTED PERFECTION.\n\n06\nPATTY\n\nCHARCOAL-GRILLED BEEF.\n\n07\nSAUCE\n\nSIGNATURE SECRET RECIPE.\n\n08\nBASE\n\nTOASTED BOTTOM BUN.\n\nABOUT US\n\nWE DON’T BELIEVE IN 'FAST FOOD' AS MUCH AS WE BELIEVE IN 'MASTERFULLY CRAFTED MEALS.' OUR JOURNEY BEGAN WITH A SIMPLE PASSION: TO REDEFINE THE BURGER EXPERIENCE. WE BELIEVE THAT EVERY SINGLE LAYER OF THE SANDWICH—FROM THE GOLDEN, FRESHLY BAKED BRIOCHE BUN TO THE PRIME ANGUS BEEF GRILLED OVER NATURAL CHARCOAL FLAMES—IS A CANVAS UPON WHICH WE POUR ALL OF OUR EXPERTISE. WE ARE HERE TO PROVE THAT A BURGER IS AN ART FORM\n\nFROG MENU\nSIGNATURE SELECTION\nDOUBLE BEAST\n\nDouble patties, double cheddar, bold sauce and extra crunch.\n\nCALORIES\n1100 kcal\nPRICE\n$24.00\nORDER NOW\nCRAFTED FOR THE FIRST BITE\nCRAFTED UNDER PRESSURE\nRESERVE A SEAT\n→\nTHE ART OF HEAVY SMOKE\nGET IN TOUCH\n\nEXPERIENCE THE CRAFT\n\n BAGHDAD, AL-MANSOUR STREET\n\n +964 770 000 0000\n\n HELLO@FROGBURGER.COM\n\nINSTAGRAM TIKTOK\nSEND INQUIRY\nTHE FORGE\n\nEST. 2026\n\nTHE ETHOS\nMENU\nRESERVE\nCONTACT\n\nAL-MANSOUR ST, BAGHDAD\n\nHELLO@FROGBURGER.COM\n\nIG TW TT\n\n© 2026 FROG BURGER. ALL RIGHTS RESERVED.\n\nDESIGNED BY SITEBYR.COM"
+      },
+      "reachedEnd": true
+    },
+    {
+      "name": "mobile",
+      "frames": [
+        {
+          "state": "opening",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-opening.jpg",
+          "sha256": "2d7bc7fd33acb8a7759e4124915634b883c0e685d2d059e36561373f68fa2c8e"
+        },
+        {
+          "state": "forward-1",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-1.jpg",
+          "sha256": "de235e6766947a3ad200564b2fe4a4c774de87a8d51b8f6b0238f60dcc76ed2e"
+        },
+        {
+          "state": "forward-2",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-2.jpg",
+          "sha256": "94a481256217952ca8fa424a0bb146bc87959fe47d2ce3a3f8e2e325d782b8ed"
+        },
+        {
+          "state": "forward-3",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-3.jpg",
+          "sha256": "7a70e8cab6ac2402d729b18808badc289df299dee6179ced59126bdc1d19edcc"
+        },
+        {
+          "state": "forward-4",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-4.jpg",
+          "sha256": "07ba2ee5f36fbb7f19e793806b5d0b52b0e556368926ddd4e3b7c17280208923"
+        },
+        {
+          "state": "forward-5",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-5.jpg",
+          "sha256": "e4c1f7187ae4c4f635b779ba016f6a6073fc08d3d80c782756226879b4e96111"
+        },
+        {
+          "state": "forward-6",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-6.jpg",
+          "sha256": "ebb1f2436d9f137b543cc439200de5ded1c395dae6be4e097ae995c68037aa8f"
+        },
+        {
+          "state": "forward-7",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-7.jpg",
+          "sha256": "cf6ebcaa52d1cb4f61aef970ebc91e9f29fc5807f76bff9d51936f99f5a060c1"
+        },
+        {
+          "state": "forward-8",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-8.jpg",
+          "sha256": "17907118e9bd830f9c2c1e417bad6269e5429ba3ff94e93b8ad8301b5aa93a08"
+        },
+        {
+          "state": "forward-9",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-9.jpg",
+          "sha256": "6171b27fb579273fb3587b2de70a735b84164c72614c2a6ab293b8c0d714d74f"
+        },
+        {
+          "state": "forward-10",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-10.jpg",
+          "sha256": "b16e5ab7f61eddc9339c1b66cb09c42a072347e0bed615f7637ec7becb0d5bad"
+        },
+        {
+          "state": "forward-11",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-11.jpg",
+          "sha256": "f1a5b18d29c798a70ae053806d54f2c4a93f6f6580ad98d5455e19659dce14af"
+        },
+        {
+          "state": "forward-12",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-12.jpg",
+          "sha256": "ceac218ce499c28ced19bdce25f48d10568db7b617964e19a41ea5c02427a86c"
+        },
+        {
+          "state": "forward-13",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-13.jpg",
+          "sha256": "7e90c8994d7fac298f2088da9809c1fd7d20cc5c6265f073fbdd8636ba006b31"
+        },
+        {
+          "state": "forward-14",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-14.jpg",
+          "sha256": "4c09993b6d280523986c15b84a4626212ec15a99208203e5e09f87ef12f45610"
+        },
+        {
+          "state": "forward-15",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-15.jpg",
+          "sha256": "150cd581eb53b2cd8e03d6dc58a209d13da49ead924fc2ef0282c1608e7e1659"
+        },
+        {
+          "state": "forward-16",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-16.jpg",
+          "sha256": "b4966e8c6428d4bc41a92007a15969ed101c29dbd9040dbbd02f37d397f8e9ec"
+        },
+        {
+          "state": "forward-17",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-17.jpg",
+          "sha256": "cd1d03655b55b8a2e3f77ced91be2bc9780bf4f7e332d8f4d54654d1762b83a7"
+        },
+        {
+          "state": "forward-18",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-18.jpg",
+          "sha256": "54e541dd09df232580bd55f78ce446859f7d6ea78ab888775a5a6b090a75364f"
+        },
+        {
+          "state": "forward-19",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-19.jpg",
+          "sha256": "102bfc8c1ccbeaee85f2d1f02a410da055152cdb87a733dd1a9d7e1c51082c55"
+        },
+        {
+          "state": "forward-20",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-20.jpg",
+          "sha256": "2f330c06a25e16424d46c45b625845991f6ecd4521bc650900866ce64317ca72"
+        },
+        {
+          "state": "forward-21",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-21.jpg",
+          "sha256": "2b0dd04eb18867f52a537fc1d5b8fad72d71fea73c9e9c82c3cf43a40c30b7e6"
+        },
+        {
+          "state": "forward-22",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-22.jpg",
+          "sha256": "b0a6683e31d02abfb55763b280c5d33c71fe2ffdd00d6a0e1622ee853c47dbf3"
+        },
+        {
+          "state": "forward-23",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-23.jpg",
+          "sha256": "8a9ebea8ae51883b590ea586d591025f824a55c7d40b6751031aa668d7e153b1"
+        },
+        {
+          "state": "forward-24",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-24.jpg",
+          "sha256": "5f98120e54bbe2101eb7780832745e4c96f6342867bfdceebeb9d7cb43245491"
+        },
+        {
+          "state": "forward-25",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-25.jpg",
+          "sha256": "236a3b6c9fa40fdfc9568df9ce7850b801c8c3a50b3cbe3b5640a64d7b98eb6b"
+        },
+        {
+          "state": "forward-26",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-26.jpg",
+          "sha256": "8bf54ed5977039bed2a506ae4d0de93437f6596bbff8a0184d8659d45405fdb7"
+        },
+        {
+          "state": "forward-27",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-forward-27.jpg",
+          "sha256": "55090df43876ea5891cd45760bfb463a4b109008e9548656c590f839eb5b692f"
+        },
+        {
+          "state": "ending-stopped",
+          "path": "docs/evidence/redo-v2/2026-10-25/frog-finite-native-01/mobile-ending-stopped.jpg",
+          "sha256": "55090df43876ea5891cd45760bfb463a4b109008e9548656c590f839eb5b692f"
+        }
+      ],
+      "actions": [
+        {
+          "input": "trusted-finger",
+          "y": 505,
+          "max": 13471,
+          "height": 14315,
+          "heads": []
+        },
+        {
+          "input": "trusted-finger",
+          "y": 1010,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 1515,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 2020,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 2525,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 3030,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 3535,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 4040,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 4545,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "ABOUT US"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 5050,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "CLASSIC BURGER"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 5555,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "CLASSIC BURGER"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 6060,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "SMOKY ANGUS"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 6565,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "SMOKY ANGUS"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 7070,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "SMOKY ANGUS"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 7575,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "TRUFFLE MELT"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 8080,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "TRUFFLE MELT"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 8585,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "DOUBLE BEAST"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 9090,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "DOUBLE BEAST"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 9595,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "DOUBLE BEAST",
+            "CRAFTED FOR THE FIRST BITE"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 10100,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "CRAFTED FOR THE FIRST BITE",
+            "CRAFTED UNDER PRESSURE"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 10605,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "CRAFTED FOR THE FIRST BITE",
+            "CRAFTED UNDER PRESSURE"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 11110,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "CRAFTED FOR THE FIRST BITE",
+            "CRAFTED UNDER PRESSURE"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 11615,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "CRAFTED FOR THE FIRST BITE",
+            "CRAFTED UNDER PRESSURE"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 12120,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "CRAFTED FOR THE FIRST BITE",
+            "CRAFTED UNDER PRESSURE",
+            "GET IN TOUCH"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 12625,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "GET IN TOUCH"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 13130,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "THE FORGE"
+          ]
+        },
+        {
+          "input": "trusted-finger",
+          "y": 13471,
+          "max": 13471,
+          "height": 14315,
+          "heads": [
+            "THE FORGE"
+          ]
+        }
+      ],
+      "initial": {
+        "y": 0,
+        "max": 13471,
+        "height": 14315,
+        "heads": [],
+        "title": "about us"
+      },
+      "end": {
+        "y": 13471,
+        "max": 13471,
+        "height": 14315,
+        "heads": [
+          "THE FORGE"
+        ],
+        "text": "Skip to content\nGRILLED TO\nPERFECTION\nTHE FROG\nOUR STORY\nMENU\nEXPERIENCE\nORDER NOW\nANATOMY\nOF FLAVOR\n01\nBRIOCHE BUN\n\nARTISAN GOLD-BRUSHED BUN.\n\n02\nLETTUCE\n\nCRISP HAND-PICKED GREENS.\n\n03\nRED ONION\n\nHAND-SLICED SHARPNESS.\n\n04\nPICKLES\n\nHOUSE-CURED CRUNCH.\n\n05\nCHEESE\n\nAGED MELTED PERFECTION.\n\n06\nPATTY\n\nCHARCOAL-GRILLED BEEF.\n\n07\nSAUCE\n\nSIGNATURE SECRET RECIPE.\n\n08\nBASE\n\nTOASTED BOTTOM BUN.\n\nABOUT US\n\nWE DON’T BELIEVE IN 'FAST FOOD' AS MUCH AS WE BELIEVE IN 'MASTERFULLY CRAFTED MEALS.' OUR JOURNEY BEGAN WITH A SIMPLE PASSION: TO REDEFINE THE BURGER EXPERIENCE. WE BELIEVE THAT EVERY SINGLE LAYER OF THE SANDWICH—FROM THE GOLDEN, FRESHLY BAKED BRIOCHE BUN TO THE PRIME ANGUS BEEF GRILLED OVER NATURAL CHARCOAL FLAMES—IS A CANVAS UPON WHICH WE POUR ALL OF OUR EXPERTISE. WE ARE HERE TO PROVE THAT A BURGER IS AN ART FORM\n\nFROG MENU\nSIGNATURE SELECTION\nDOUBLE BEAST\n\nDouble patties, double cheddar, bold sauce and extra crunch.\n\nCALORIES\n1100 kcal\nPRICE\n$24.00\nORDER NOW\nCRAFTED FOR THE FIRST BITE\nCRAFTED UNDER PRESSURE\nRESERVE A SEAT\n→\nTHE ART OF HEAVY SMOKE\nGET IN TOUCH\n\nEXPERIENCE THE CRAFT\n\n BAGHDAD, AL-MANSOUR STREET\n\n +964 770 000 0000\n\n HELLO@FROGBURGER.COM\n\nINSTAGRAM TIKTOK\nSEND INQUIRY\nTHE FORGE\n\nEST. 2026\n\nTHE ETHOS\nMENU\nRESERVE\nCONTACT\n\nAL-MANSOUR ST, BAGHDAD\n\nHELLO@FROGBURGER.COM\n\nIG TW TT\n\n© 2026 FROG BURGER. ALL RIGHTS RESERVED.\n\nDESIGNED BY SITEBYR.COM"
+      },
+      "reachedEnd": true
+    }
+  ],
+  "updatedAt": "2026-10-25T04:14:06.328Z"
+}

@@ -1,0 +1,523 @@
+{
+  "url": "https://www.anecdotarural.com/",
+  "evidence": [
+    {
+      "state": "opening",
+      "y": 0,
+      "path": "docs/evidence/redo-v2/2026-10-17/anecdota-20261017-path/opening.jpg",
+      "sha256": "0b3c227272f68866c5147c83013b4209b8cfe235736f08aac466f0afbdf8c763"
+    },
+    {
+      "state": "early",
+      "y": 809,
+      "path": "docs/evidence/redo-v2/2026-10-17/anecdota-20261017-path/early.jpg",
+      "sha256": "cfdf3ab8d07ef00131462c78aa2a6db2e87c721bb9ec632235c47297eb690c31"
+    },
+    {
+      "state": "middle",
+      "y": 2122,
+      "path": "docs/evidence/redo-v2/2026-10-17/anecdota-20261017-path/middle.jpg",
+      "sha256": "8a85dd9efb88a81efcf37f521d2151ff0c76ddea7e0234639d067af341fafff3"
+    },
+    {
+      "state": "late",
+      "y": 3803,
+      "path": "docs/evidence/redo-v2/2026-10-17/anecdota-20261017-path/late.jpg",
+      "sha256": "50c76338574371c4ec6f259263bc12a104623fd2f5f692d0f7055b947a3d6428"
+    },
+    {
+      "state": "ending",
+      "y": 5102,
+      "path": "docs/evidence/redo-v2/2026-10-17/anecdota-20261017-path/ending.jpg",
+      "sha256": "440cd30cb948c2e72a7d1564caafe14f86575679294a7b018e527a9462de7b5e"
+    }
+  ],
+  "metadata": {
+    "height": 5954,
+    "headings": [
+      {
+        "text": "COMERÇOS I RESTAURANTS ON ES POT TROBAR EL NOSTRE PRODUCTE",
+        "tag": "H2",
+        "class": "MapModal-module-scss-module__3PzY7q__shopsListTitle",
+        "parent": "",
+        "top": 916
+      },
+      {
+        "text": "S'Abril",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1011
+      },
+      {
+        "text": "Cal delme",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1061
+      },
+      {
+        "text": "Forn Panarra",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1112
+      },
+      {
+        "text": "Lo Raconet del Mosset",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1162
+      },
+      {
+        "text": "Delsams",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1213
+      },
+      {
+        "text": "La Gramatica del Vermut",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1264
+      },
+      {
+        "text": "El Cau de Guimerà",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1314
+      },
+      {
+        "text": "Cal Quintana",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1365
+      },
+      {
+        "text": "Tramuntana Girona",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1415
+      },
+      {
+        "text": "El Truc",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1466
+      },
+      {
+        "text": "Agrobotiga Cristina",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1516
+      },
+      {
+        "text": "La Cistella de Montgai",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1567
+      },
+      {
+        "text": "Gourmet Pallars",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1618
+      },
+      {
+        "text": "Maison Marcel",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1668
+      },
+      {
+        "text": "Gra de Gracia",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1719
+      },
+      {
+        "text": "CaLagneta",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1769
+      },
+      {
+        "text": "Mas Gourmets",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1820
+      },
+      {
+        "text": "El Celler de montsonis",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1871
+      },
+      {
+        "text": "CASA TAOS",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1921
+      },
+      {
+        "text": "Forno bomba",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 1972
+      },
+      {
+        "text": "Cap al Forn",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2030
+      },
+      {
+        "text": "Yes Future",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2087
+      },
+      {
+        "text": "Meccanic Pizza",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2145
+      },
+      {
+        "text": "Restaurante Bona Brasa",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2203
+      },
+      {
+        "text": "Primate Bakehouse - Manso",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2254
+      },
+      {
+        "text": "Sisè",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2304
+      },
+      {
+        "text": "SAFO",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2355
+      },
+      {
+        "text": "Braseria Llobregat",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2405
+      },
+      {
+        "text": "Colmado Múrria",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2456
+      },
+      {
+        "text": "Cal Basté",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2507
+      },
+      {
+        "text": "Fruteria Dcampo",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2557
+      },
+      {
+        "text": "Les Cols",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2608
+      },
+      {
+        "text": "Bis a Vis",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2658
+      },
+      {
+        "text": "Goig",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2709
+      },
+      {
+        "text": "L'Home dels Nassos",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2759
+      },
+      {
+        "text": "Barbara bakery",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2810
+      },
+      {
+        "text": "L'Espai",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2861
+      },
+      {
+        "text": "Sula",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2911
+      },
+      {
+        "text": "Pastora",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 2962
+      },
+      {
+        "text": "Super by DOT",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 3012
+      },
+      {
+        "text": "Cal Ma",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 3063
+      },
+      {
+        "text": "Fem Cadena",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 3114
+      },
+      {
+        "text": "La Luciérnaga",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 3164
+      },
+      {
+        "text": "Mur Mur",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 3215
+      },
+      {
+        "text": "Pibernat",
+        "tag": "H3",
+        "class": "MapModal-module-scss-module__3PzY7q__shopTitle",
+        "parent": "MapModal-module-scss-module__3PzY7q__titleSection",
+        "top": 3265
+      }
+    ],
+    "sections": [
+      {
+        "tag": "MAIN",
+        "class": "page-module-scss-module__WbkgCG__page",
+        "id": "",
+        "top": 0,
+        "height": 5246
+      },
+      {
+        "tag": "FOOTER",
+        "class": "Footer-module-scss-module__DkSkqG__desktopFooter",
+        "id": "",
+        "top": 5246,
+        "height": 708
+      },
+      {
+        "tag": "FOOTER",
+        "class": "Footer-module-scss-module__DkSkqG__mobileFooter",
+        "id": "",
+        "top": 0,
+        "height": 0
+      }
+    ],
+    "controls": [
+      {
+        "tag": "BUTTON",
+        "text": "BUIDAR CISTELL",
+        "class": "Cart-module-scss-module__z-dLFW__emptyCartButton"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "TRAMITAR COMANDA",
+        "class": "Cart-module-scss-module__z-dLFW__processOrderButton"
+      },
+      {
+        "tag": "A",
+        "text": "hola@anecdotarural.com",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "(+34) 662 628 999",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Botiga",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Localitzador",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Cistella (0)",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "CA",
+        "class": "LanguageSwitcher-module-scss-module__zYlswW__languageButton LanguageSwitcher-module-scss-module__zYlswW__active"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "ES",
+        "class": "LanguageSwitcher-module-scss-module__zYlswW__languageButton "
+      },
+      {
+        "tag": "BUTTON",
+        "text": "EN",
+        "class": "LanguageSwitcher-module-scss-module__zYlswW__languageButton "
+      },
+      {
+        "tag": "BUTTON",
+        "text": "PRODUCTES",
+        "class": "page-module-scss-module__WbkgCG__moreProducts"
+      },
+      {
+        "tag": "A",
+        "text": "COMPRAR",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "ENTRADES",
+        "class": "page-module-scss-module__WbkgCG__eventTickets"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "ENTRADES",
+        "class": "page-module-scss-module__WbkgCG__eventTickets"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "ENTRADES",
+        "class": "page-module-scss-module__WbkgCG__eventTickets"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "ENTRADES",
+        "class": "page-module-scss-module__WbkgCG__eventTickets"
+      },
+      {
+        "tag": "A",
+        "text": "Termes i condicions",
+        "class": "Form-module-scss-module__mzILVG__termsLink"
+      },
+      {
+        "tag": "A",
+        "text": "BOTIGA",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "HISTÒRIA",
+        "class": ""
+      },
+      {
+        "tag": "A",
+        "text": "ESPAI ANÈCDOTA",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "LOCALITZACIÓ",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "CISTELLA (0)",
+        "class": ""
+      }
+    ]
+  },
+  "inventory": {
+    "images": 17,
+    "videos": [],
+    "canvases": [
+      {
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 900,
+          "width": 792,
+          "height": 900,
+          "top": 900,
+          "right": 792,
+          "bottom": 1800,
+          "left": 0
+        },
+        "width": 792,
+        "height": 900
+      }
+    ],
+    "viewers": [],
+    "openRoots": 2,
+    "opaqueFrames": [],
+    "manualRenderReviewRequired": true
+  },
+  "result": "scouted-not-admitted"
+}

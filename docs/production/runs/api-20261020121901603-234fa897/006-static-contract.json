@@ -1,0 +1,51 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "characters": 624,
+      "paragraphs": [
+        24,
+        38,
+        17,
+        37,
+        23
+      ],
+      "media": [
+        "http://127.0.0.1:5284/assets/woven.webp",
+        "http://127.0.0.1:5284/assets/window-room.webp",
+        "http://127.0.0.1:5284/assets/rose-room.webp",
+        "http://127.0.0.1:5284/assets/blue-silk.webp",
+        "http://127.0.0.1:5284/assets/last-light.webp"
+      ],
+      "unconfiguredControls": 0,
+      "missingScenes": [],
+      "contentMismatches": [],
+      "result": "passed-static-contract",
+      "failures": []
+    },
+    {
+      "width": 390,
+      "characters": 570,
+      "paragraphs": [
+        24,
+        38,
+        17,
+        37,
+        23
+      ],
+      "media": [
+        "http://127.0.0.1:5284/assets/woven.webp",
+        "http://127.0.0.1:5284/assets/window-room.webp",
+        "http://127.0.0.1:5284/assets/rose-room.webp",
+        "http://127.0.0.1:5284/assets/blue-silk.webp",
+        "http://127.0.0.1:5284/assets/last-light.webp"
+      ],
+      "unconfiguredControls": 0,
+      "missingScenes": [],
+      "contentMismatches": [],
+      "result": "passed-static-contract",
+      "failures": []
+    }
+  ],
+  "result": "passed-static-contract"
+}

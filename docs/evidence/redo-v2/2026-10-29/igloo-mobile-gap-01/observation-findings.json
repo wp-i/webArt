@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "recordedAt": "2026-10-29T03:08:16.603Z",
+  "purpose": "Actual source mobile observation gap findings only; no candidate implementation, asset acquisition, quality admission or user acceptance",
+  "source": {
+    "url": "https://www.igloo.inc/",
+    "observation": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/observation.json",
+    "sha256": "01c5c2d7c4da401b3e9a688e6e4d9da4b2204eb50e7bf2184915ed0b5bc81619",
+    "started": "2026-10-29T03:02:27.325Z",
+    "finished": "2026-10-29T03:05:27.335Z",
+    "terminalResult": "bounded-deadline",
+    "frameCount": 27,
+    "frameLimit": 42,
+    "deadlineMs": 180000,
+    "captureErrors": [],
+    "viewport": [390, 844],
+    "screen": [390, 844],
+    "allFramesVisibleAndFocused": true,
+    "allFramesScrollY": 0,
+    "allFramesDocumentHeight": 844,
+    "normalFrames": 4,
+    "reducedFrames": 23,
+    "reducedPreferenceVerifiedByMatchMedia": true,
+    "session": "igloo-gap-subagent",
+    "ownSessionClosed": true,
+    "rerunAfterInterruption": false
+  },
+  "actualReview": {
+    "reviewer": "Current delegated agent, with capture instructions and prior surrounding context; not an independent blind model reviewer",
+    "method": "Viewed all 27 retained originals through three labelled contact sheets, and all 27 originals at full mobile size across the capture and completion turns. Contact sheet builder verified each original SHA-256 against the observation ledger.",
+    "request": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/observation-view-request.json",
+    "sheets": [
+      "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/observation-view-sheet-1.jpg",
+      "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/observation-view-sheet-2.jpg",
+      "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/observation-view-sheet-3.jpg"
+    ],
+    "posesJudgedFromImages": true,
+    "qualityDecision": "none"
+  },
+  "horizontalTouch": {
+    "actions": "Native finger touchStart at [90,450], 14 touchMove steps to [300,450], 220ms hold; reverse in 14 moves back to [90,450] without release, 220ms hold; touchEnd then 1100ms settle. Repeated after enabling reduced motion and reloading.",
+    "normalEvidence": [
+      "normal-opening",
+      "normal-opening-horizontal-held-forward",
+      "normal-opening-horizontal-held-reverse",
+      "normal-opening-horizontal-released"
+    ],
+    "reducedEvidence": [
+      "reduced-opening",
+      "reduced-opening-horizontal-held-forward",
+      "reduced-opening-horizontal-held-reverse",
+      "reduced-opening-horizontal-released"
+    ],
+    "observed": "Both preferences retain the full portrait opening composition: top-left logo/legal text, top-right manifesto, central igloo and terrain, bottom-left scroll prompt/sound label. During forward hold the igloo bricks consolidate; during reverse hold front brick rows and observation lines change; after release the left-front bricks spread and the luminous interior opens again. No project scene or page section replaces the opening during either horizontal gesture.",
+    "limit": "Ambient brick motion continues through the samples. These native-touch before/held/reverse/released frames establish the visible result of that gesture sequence, but do not isolate an exact drag-to-angle law or prove an exact return to the initial geometry. The sound label changes from Off to On after first interaction; this is a visible label observation, not an audible-output test."
+  },
+  "reducedForward": {
+    "actions": "Thirteen actual upward finger gestures from [195,650] to [195,250], each using 14 touchMove steps, a 220ms pre-release hold, and approximately 1100-1200ms settle. No scrollTo, anchors or forced timeline position.",
+    "poseMapping": [
+      {"label": "reduced-forward-1", "meaning": "Still opening: intact igloo and arched entry in the terrain; manifesto remains."},
+      {"label": "reduced-forward-2", "meaning": "Actual departure transition: opening recedes into fog, chromatic separation affects manifesto/terrain, an incoming rock enters from below."},
+      {"label": "reduced-forward-3", "meaning": "Portfolio rock pose: floating dark ice rock with readable PORTFOLIO CO 01 PUDGY PENGUINS and CLICK TO EXPLORE callouts."},
+      {"label": "reduced-forward-4", "meaning": "Travel between floating rocks: outgoing rock is cropped at the top while a tall new rock enters from the lower right."},
+      {"label": "reduced-forward-5", "meaning": "Rock-to-ring transition: outgoing translucent rock at top; bright incoming geometry with chromatic fog below."},
+      {"label": "reduced-forward-6", "meaning": "Segmented concentric rings fill the portrait composition at an oblique angle."},
+      {"label": "reduced-forward-7", "meaning": "Close rings with luminous outer rim and visible triangulated membrane; inner ring still segmented."},
+      {"label": "reduced-forward-8", "meaning": "More frontal ring formation: bright outer rim, segmented inner ring, concentrated luminous particle center."},
+      {"label": "reduced-forward-9", "meaning": "Frontal luminous ring with enclosed bright particle center; large circular silhouette."},
+      {"label": "reduced-forward-10", "meaning": "Overhead circular platform/basin with central blue-white particle mass."},
+      {"label": "reduced-forward-11", "meaning": "Particle mass resolves into a penguin on the circular platform, viewed from above/obliquely."},
+      {"label": "reduced-forward-12", "meaning": "Close particle penguin with halo above, two lateral arrows and visible LinkedIn footer selection."},
+      {"label": "reduced-to-end-1", "meaning": "Ending composition: smaller full penguin floating above a complete circular platform, bright halo overhead, side arrows and footer selection."},
+      {"label": "reduced-end-stop", "meaning": "After 2500ms without a new gesture, clear frontal penguin ending composition persists while particle geometry/scale differs."}
+    ]
+  },
+  "reducedReverse": {
+    "actions": "Four actual downward finger gestures from [195,250] to [195,650], each using 14 touchMove steps, a 220ms pre-release hold and 1400ms settle; then a 2500ms stop observation.",
+    "poseMapping": [
+      {"label": "reduced-reverse-1", "meaning": "Ending penguin remains, larger and closer, with halo, side arrows and LinkedIn footer selection."},
+      {"label": "reduced-reverse-2", "meaning": "Camera returns toward overhead view of the particle penguin and circular platform; ending footer/arrows have left the frame."},
+      {"label": "reduced-reverse-3", "meaning": "Penguin dissolves back to the earlier overhead particle mass in concentric platform rings."},
+      {"label": "reduced-reverse-4", "meaning": "Earlier frontal luminous ring and central particle mass return."},
+      {"label": "reduced-reverse-stop", "meaning": "After 2500ms with no further gesture the frame relaxes to the overhead concentric basin and particle mass; the reduced mode is not frozen at the previous sampled ring pose."}
+    ],
+    "conclusion": "Native downward touch reverses the source scene journey from the ending penguin through overhead particle/platform poses to the earlier luminous ring. All these frames report prefers-reduced-motion: reduce. Reduced motion does not remove the visible 3D journey, particle formation or continued settling in this observed source.",
+    "limit": "Four downward gestures cover this ending-to-ring segment only. They do not prove reversal back through all portfolio scenes to the initial igloo. The post-stop frame differs from the preceding sample, so no claim of an exact static stop or exact deterministic pose is made."
+  },
+  "unobserved": [
+    "The planned seven-gesture re-forward sequence after reduced reverse was never executed or captured before the terminal deadline.",
+    "No reduced-motion loop from the ending back to the opening or re-entry after that loop is established by this observation.",
+    "No candidate, downloaded assets, source redistribution rights, model quality approval, packaging, publication or user acceptance is established."
+  ]
+}

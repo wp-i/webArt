@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "009",
+  "manifest": "renderers/near-and-far-editorial-v1/manifest.json",
+  "qualityReview": "renderers/near-and-far-editorial-v1/contract.json",
+  "records": {
+    "brief": "docs/pages/009-editorial-portraits.md",
+    "reference": "docs/references/009-editorial-portraits.md",
+    "assets": "docs/assets/009-editorial-portraits.md",
+    "qa": "docs/qa/api-20261023020510668-730eef15-009.md"
+  },
+  "trialApproval": {
+    "sourceSha256": "d710630425bbed97658ae67e7acf939bfc3ccc123e776d8645411967a71a71f6",
+    "runtime": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/runtime.json"
+  },
+  "controls": {
+    "capture": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/controls/controls.json",
+    "review": "docs/production/runs/api-20261023020510668-730eef15/009-controls-review.json"
+  },
+  "rendering": {
+    "mode": "dom"
+  },
+  "performance": {
+    "capture": "docs/evidence/production/api-20261023020510668-730eef15/009-full-qa-attempt-02/performance.json",
+    "sha256": "d0b8d94bec885df2ffa1a3c758e9d512016b5eb2b665eeee9be28bd00f0f9cb8"
+  },
+  "styleReview": "docs/production/runs/api-20261023020510668-730eef15/009-style-review.json"
+}

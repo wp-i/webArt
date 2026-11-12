@@ -1,0 +1,261 @@
+{
+  "purpose": "Real native-browser failure regressions; no aesthetic admission, model calls or produced design.",
+  "started": "2026-10-15T16:24:28.858Z",
+  "cases": [
+    {
+      "id": "copy-wall",
+      "result": "correctly-blocked",
+      "viewport": "desktop",
+      "state": "middle",
+      "measurement": {
+        "characters": 249,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"middle\"]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.56
+          }
+        ]
+      },
+      "failures": [
+        "当前视口文字超过固定预算或缺少实际测量"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/copy-wall/desktop-middle/contact-sheet.jpg",
+          "sha256": "06b95bf45312712d592e25df110dd02f79d5d1c720ddf79a91de93ec4522fa33"
+        }
+      ]
+    },
+    {
+      "id": "ordinary-ending",
+      "result": "correctly-blocked",
+      "viewport": "desktop",
+      "state": "ending",
+      "measurement": {
+        "characters": 19,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"ending\"]",
+            "visibleInstances": 0,
+            "largestViewportArea": 0
+          }
+        ]
+      },
+      "failures": [
+        "核心主体缺失、缩成装饰或被重复：[data-subject=\"ending\"]"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/ordinary-ending/desktop-ending/contact-sheet.jpg",
+          "sha256": "8d22649cb3da7655417516ba92022f53b2b6c11ab3cf9c2e1c000a49e704cd10"
+        }
+      ]
+    },
+    {
+      "id": "tiny-subject",
+      "result": "correctly-blocked",
+      "viewport": "desktop",
+      "state": "middle",
+      "measurement": {
+        "characters": 6,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"middle\"]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.002777777777777778
+          }
+        ]
+      },
+      "failures": [
+        "核心主体缺失、缩成装饰或被重复：[data-subject=\"middle\"]"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/tiny-subject/desktop-middle/contact-sheet.jpg",
+          "sha256": "6d4fb27a06ebd4a2e1549add1812a10fa71566da56f62ea76da543a1ab589e25"
+        }
+      ]
+    },
+    {
+      "id": "repeated-subject",
+      "result": "correctly-blocked",
+      "viewport": "desktop",
+      "state": "middle",
+      "measurement": {
+        "characters": 14,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"middle\"]",
+            "visibleInstances": 2,
+            "largestViewportArea": 0.56
+          }
+        ]
+      },
+      "failures": [
+        "核心主体缺失、缩成装饰或被重复：[data-subject=\"middle\"]"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/repeated-subject/desktop-middle/contact-sheet.jpg",
+          "sha256": "8ec072c36f5bf4b1682f9956f1a976eab6d9ba2822a27490c83bbe22391f3ea5"
+        }
+      ]
+    },
+    {
+      "id": "hidden-ancestor",
+      "result": "correctly-blocked",
+      "viewport": "desktop",
+      "state": "transition",
+      "measurement": {
+        "characters": 0,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"transition\"]",
+            "visibleInstances": 0,
+            "largestViewportArea": 0
+          }
+        ]
+      },
+      "failures": [
+        "核心主体缺失、缩成装饰或被重复：[data-subject=\"transition\"]"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/hidden-ancestor/desktop-transition/contact-sheet.jpg",
+          "sha256": "cd83a5748d91bb157cdd19db41c4176b28f735c540bfb523e3802f7fb4e0780e"
+        }
+      ]
+    },
+    {
+      "id": "copy-wall",
+      "result": "correctly-blocked",
+      "viewport": "mobile",
+      "state": "middle",
+      "measurement": {
+        "characters": 249,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"middle\"]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.5599970379146919
+          }
+        ]
+      },
+      "failures": [
+        "当前视口文字超过固定预算或缺少实际测量"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/copy-wall/mobile-middle.jpg",
+          "sha256": "b9fc3b24e6b7dbfc45c7a13cec959a64da5a7f3021e5de126b5e9f5eacac40ae"
+        }
+      ]
+    },
+    {
+      "id": "ordinary-ending",
+      "result": "correctly-blocked",
+      "viewport": "mobile",
+      "state": "ending",
+      "measurement": {
+        "characters": 19,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"ending\"]",
+            "visibleInstances": 0,
+            "largestViewportArea": 0
+          }
+        ]
+      },
+      "failures": [
+        "核心主体缺失、缩成装饰或被重复：[data-subject=\"ending\"]"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/ordinary-ending/mobile-ending.jpg",
+          "sha256": "596efcad2f39c1c8d0883681fe23934b76c283f625f8398aad333bc5b4d1cf86"
+        }
+      ]
+    },
+    {
+      "id": "tiny-subject",
+      "result": "correctly-blocked",
+      "viewport": "mobile",
+      "state": "middle",
+      "measurement": {
+        "characters": 6,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"middle\"]",
+            "visibleInstances": 1,
+            "largestViewportArea": 0.01093693036820999
+          }
+        ]
+      },
+      "failures": [
+        "核心主体缺失、缩成装饰或被重复：[data-subject=\"middle\"]"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/tiny-subject/mobile-middle.jpg",
+          "sha256": "e89f8eb2b5b41d51219d12e1bbce7935703675a3d4cae2aa9c1ee12a8d1a5bd9"
+        }
+      ]
+    },
+    {
+      "id": "repeated-subject",
+      "result": "correctly-blocked",
+      "viewport": "mobile",
+      "state": "middle",
+      "measurement": {
+        "characters": 14,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"middle\"]",
+            "visibleInstances": 2,
+            "largestViewportArea": 0.5599970379146919
+          }
+        ]
+      },
+      "failures": [
+        "核心主体缺失、缩成装饰或被重复：[data-subject=\"middle\"]"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/repeated-subject/mobile-middle.jpg",
+          "sha256": "2782132caf3e700e52c18b71f654e84b13c4387921cb08a24c169fb6607af420"
+        }
+      ]
+    },
+    {
+      "id": "hidden-ancestor",
+      "result": "correctly-blocked",
+      "viewport": "mobile",
+      "state": "transition",
+      "measurement": {
+        "characters": 0,
+        "subjects": [
+          {
+            "selector": "[data-subject=\"transition\"]",
+            "visibleInstances": 0,
+            "largestViewportArea": 0
+          }
+        ]
+      },
+      "failures": [
+        "核心主体缺失、缩成装饰或被重复：[data-subject=\"transition\"]"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/redo-v2/static-pipeline/preservation-regression/hidden-ancestor/mobile-transition.jpg",
+          "sha256": "b228978119d33e7bd33c3d86875446cd4984f36307d8aca1dc6da0034fed43e0"
+        }
+      ]
+    }
+  ],
+  "realModelCalls": 0,
+  "archivesCreated": 0,
+  "officialSourcesUnchanged": true,
+  "result": "passed-rejection-regression",
+  "finished": "2026-10-15T16:24:41.403Z"
+}

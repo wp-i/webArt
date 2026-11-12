@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-30T16:49:27.116Z",
+  "phase": "existing-qualified-homepage-service-restoration",
+  "result": "passed-http-and-existing-bindings",
+  "showcase": {
+    "path": "public/showcase.json",
+    "sha256": "ae394d2b9eb21818810a8cfd0853c9376a7d8a7a25db24b04a9bd0434f19461d"
+  },
+  "service": {
+    "url": "http://127.0.0.1:4180/",
+    "pid": 27360,
+    "directory": "D:\\code\\webArt",
+    "started": "2026-10-31T00:48:45.2493864+08:00",
+    "profile": "collection"
+  },
+  "checks": [
+    {
+      "route": "/",
+      "status": 200,
+      "bytes": 9240,
+      "contentType": "text/html",
+      "sha256": "61f57a3f7ff1fc456fcb2e1a6a46b475d1b015acd3e53e1485835e2d9a7aafe6"
+    },
+    {
+      "route": "/showcase.json",
+      "status": 200,
+      "bytes": 3833,
+      "contentType": "application/json",
+      "sha256": "ae394d2b9eb21818810a8cfd0853c9376a7d8a7a25db24b04a9bd0434f19461d",
+      "matchesLocalBytes": true
+    },
+    {
+      "route": "/designs/006-ivory-woven-v1/",
+      "status": 200,
+      "bytes": 5317,
+      "contentType": "text/html",
+      "sha256": "e072d0324e9fe3ffb9a358b9771ff8127dd3becd704b54cfb9d259d95c81813a"
+    },
+    {
+      "route": "/collection/006.webp",
+      "status": 200,
+      "bytes": 213042,
+      "contentType": "image/webp",
+      "sha256": "e41d372da6a0e85211f1adc52fbdd9142889ffacee5a0819ad8713c34d7af3f5"
+    },
+    {
+      "route": "/collection/006-small.webp",
+      "status": 200,
+      "bytes": 83594,
+      "contentType": "image/webp",
+      "sha256": "f77170c66023b8ff2445ac3f0c4788c21199336e05afae32889159fdfe9e7b0b"
+    },
+    {
+      "route": "/house-of-ivory-source.zip",
+      "status": 200,
+      "bytes": 4415983,
+      "contentType": "application/zip",
+      "sha256": "b6b5d5958a084c3cf0f6c2cbca910c01893e788cbf93f9a3132843b310e9524a",
+      "matchesLocalBytes": true,
+      "matchesManifest": true
+    },
+    {
+      "route": "/designs/009-near-and-far-editorial-v1/",
+      "status": 200,
+      "bytes": 5992,
+      "contentType": "text/html",
+      "sha256": "4ab0c9ec8c23ee58963837f0e841d63d1816a4fcfd55eada2a11233db5f88b00"
+    },
+    {
+      "route": "/collection/009.webp",
+      "status": 200,
+      "bytes": 70044,
+      "contentType": "image/webp",
+      "sha256": "2492c33ce0cc2c28d2f3f203f2921c576c366299a93a93f4325c7cb1815090a9"
+    },
+    {
+      "route": "/collection/009-small.webp",
+      "status": 200,
+      "bytes": 25576,
+      "contentType": "image/webp",
+      "sha256": "3ed32a7b22ac7d1fc81b0c256e814ed6fbd734cb3bb97dd9ea7b0d83e35d2767"
+    },
+    {
+      "route": "/near-and-far-source.zip",
+      "status": 200,
+      "bytes": 2399890,
+      "contentType": "application/zip",
+      "sha256": "f374433f4392eaef7acd6a063977de853eba1a9d2f452581ae281fb071adcf0d",
+      "matchesLocalBytes": true,
+      "matchesManifest": true
+    },
+    {
+      "route": "/designs/010-pace-precision-v2/",
+      "status": 200,
+      "bytes": 2874,
+      "contentType": "text/html",
+      "sha256": "a6b1d5847ed101dd40573ef82dd935653766afa2c22faa2b3f9ae314d9c78239"
+    },
+    {
+      "route": "/collection/010.webp",
+      "status": 200,
+      "bytes": 40104,
+      "contentType": "image/webp",
+      "sha256": "da4a47badaff59e4a585721a7a8dd988a5dff3ea0d9b8139aaa1debff8d42b35"
+    },
+    {
+      "route": "/collection/010-small.webp",
+      "status": 200,
+      "bytes": 17554,
+      "contentType": "image/webp",
+      "sha256": "79dc0adb98b68226cc5aad808753912d0f1846a17ac69ea946f30cfb1ad7a5e2"
+    },
+    {
+      "route": "/pace-source.zip",
+      "status": 200,
+      "bytes": 710412,
+      "contentType": "application/zip",
+      "sha256": "bb150313c0142dd37ee4cdf9cd227cf858d45272a160fabc05d4cd51eed5c351",
+      "matchesLocalBytes": true,
+      "matchesManifest": true
+    }
+  ],
+  "boundaries": [
+    "Restored the already-built existing showcase after authoritative port/HTTP absence, using its registered service script. No rebuild, package, new style or publication was performed.",
+    "HTTP and package equality are availability evidence, not a new full visual/interaction QA or user acceptance.",
+    "007/008 continue to display their previously authorized comparison versions; no failed candidate was published."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "result": "passed-engineering-only",
+  "lateSceneControls": [
+    {
+      "viewport": "desktop",
+      "count": 2
+    },
+    {
+      "viewport": "mobile",
+      "count": 2
+    },
+    {
+      "viewport": "narrow",
+      "count": 2
+    }
+  ],
+  "hiddenUnconfigured": "blocked",
+  "isolatedNativeActions": true,
+  "visualAdmission": false
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-29",
+  "id": "008",
+  "url": "https://www.igloo.inc/",
+  "scope": "actual-source-evidence-preparation-not-admission",
+  "capture": {
+    "path": "docs/evidence/redo-v2/2026-10-29/008-igloo-reference-02/capture.json",
+    "sha256": "d9aa0e2882b966a63d43c80b75736c856494552777994d36c42777d1063d3ffe"
+  },
+  "referencePlan": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/008-glacial-reference-plan-20261029-02.json",
+    "sha256": "53c58e54658c29547e67db819f8b53ef1bad057f44988e8074b879c13764edaa"
+  },
+  "sourceFramesActuallyViewed": 213,
+  "sourceFrameCounts": {
+    "originalNormal": 43,
+    "liveNormalAndReduced": 131,
+    "mobileGap": 27,
+    "shortTapBeforeAfter": 12
+  },
+  "actualReview": {
+    "independent": false,
+    "contextIsolated": false,
+    "method": "Main reviewer viewed all retained source frames through hash-checked labelled contact sheets and full selected poses. Delegated gap reviewer also viewed all 27 at full phone size."
+  },
+  "sourceFacts": [
+    "桌面鼠标使开场不同砖组抬升，内光显露；手机横向手指期间砖块变化与环境动态并存，不宣称精确控制律。",
+    "桌面实际点击进入第一作品，Escape没有关闭，实际Close返回；手机70ms短触摸进入第二作品详情并Close返回，长按未打开。",
+    "桌面与手机在正常/减少动态下均实际将末段企鹅切为X再切回。局部指针驱散不从旋转或哈希变化推断。",
+    "正常手机原生正向穿过末段后循环回开场；减少动态手机真实反向由企鹅回到冰环，停止后仍有调整。减少动态循环未采到。",
+    "虚拟滚动器的文档scrollY始终0，不据文档高度推断路径终点。"
+  ],
+  "rawTerminalResults": [
+    {
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-observe-02/observation.json",
+      "sha256": "8bb849272231592eaa6b60721ac74fb96b95ed3f4cea86a733c01d64d4c1cf29",
+      "result": "bounded-deadline"
+    },
+    {
+      "path": "docs/evidence/redo-v2/2026-10-29/igloo-mobile-gap-01/observation.json",
+      "sha256": "01c5c2d7c4da401b3e9a688e6e4d9da4b2204eb50e7bf2184915ed0b5bc81619",
+      "result": "bounded-deadline"
+    }
+  ],
+  "invalidProbe": {
+    "path": "docs/evidence/redo-v2/2026-10-28/igloo-project-probe-02/probe.json",
+    "sha256": "c9d7e5d23138c467568c9328a194483d11ea6f176b7878f7d6e5ec80bbeb2c51",
+    "reason": "first-frozen-project标签对应实图仍为开场，其点击只改变声音标记；不作为作品打开证据。"
+  },
+  "packet": {
+    "frameContexts": 219,
+    "imagePayloads": 198,
+    "sourceModes": 17,
+    "states": 8,
+    "omittedRepeatedOpeningFrames": 3,
+    "originalsDeleted": 0
+  },
+  "reviewRun": "docs/production/runs/igloo-reference-20261029-02",
+  "visualAdmissionGranted": false,
+  "finalAssetsAcquired": false,
+  "candidateCreated": false,
+  "newArchiveCreated": false
+}

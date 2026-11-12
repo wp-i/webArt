@@ -1,0 +1,1436 @@
+{
+  "schemaVersion": 1,
+  "id": "007",
+  "phase": "bounded-media-source-evidence-preservation",
+  "recordedAt": "2026-10-30T16:42:41.621Z",
+  "result": "original-scout-and-72-main-frames-verified",
+  "auditor": {
+    "id": "current-conversation-subagent-qa-record",
+    "independent": false,
+    "contextIsolated": false,
+    "implementationContextIncluded": true
+  },
+  "scope": "Preserve the immutable 2026-10-30 three-source scout, three path records, three contact sheets and exactly 72 recorded main JPEG frames. This is a byte and ignore-rule audit, not a new visual review or source admission.",
+  "report": {
+    "path": "docs/production/runs/2026-10-19-four-redesigns/007-media-scout-20261030.json",
+    "sha256": "3e0aea8598ebd44386c467026fde57c59e276b86e4cabc902ae64b3aaabc3ee1",
+    "bytes": 7338,
+    "gitIgnored": false
+  },
+  "counts": {
+    "sources": 3,
+    "pathRecords": 3,
+    "contactSheets": 3,
+    "mainFrames": 72,
+    "primaryFiles": 79,
+    "existingHistoricalSupplementFailureJson": 1,
+    "verifiedFilesIncludingHistoricalFailure": 80,
+    "ignoredBeforeScopedExceptions": 75,
+    "ignoredAfterScopedExceptions": 0
+  },
+  "sources": [
+    {
+      "name": "The Magic Bottle",
+      "url": "https://magic.estudionk.com/",
+      "decisionRecordedByScout": "rejected-bounded-screen",
+      "pathRecord": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/path.json",
+        "sha256": "0ffb086608674c0abdc120597589fc48ef0737d9909bc2f91183cd70d0fa6a4b",
+        "bytes": 68315,
+        "gitIgnored": false
+      },
+      "pathResult": "incomplete",
+      "pathErrors": [
+        "Input.dispatchTouchEvent 超时"
+      ],
+      "contact": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/contact.jpg",
+        "sha256": "19fe04ee563a63f0318a9b6dc9adb6f6b0965ef3824b5733e8afd3b65b01d7f3",
+        "bytes": 178779,
+        "gitIgnored": false
+      },
+      "actualFrameCount": 24,
+      "frames": [
+        {
+          "label": "desktop-opening",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-opening.jpg",
+            "sha256": "d52c868a693ae1b9c1a20d170a8553d0b054b3ac3d4ac18c7f537c3c275bda35",
+            "bytes": 40759,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-01",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-01.jpg",
+            "sha256": "86d2e9c5cd3bf43bdfaed138b09491c6e6cf6f50c02cac68eba4873e2d67d943",
+            "bytes": 46320,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-02",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-02.jpg",
+            "sha256": "3bfed74cd91cbd673b3ab83cc81f7eb3edd6c622762421f541ae4e3a1ce46e8f",
+            "bytes": 46078,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-03",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-03.jpg",
+            "sha256": "cb09434bc52e615b29b5f81cc908bc5f15820505952782c090c3828d051d9b41",
+            "bytes": 46286,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-04",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-04.jpg",
+            "sha256": "08e32ef798eae6be99d417869f67d1ee5e1fffc943b02d2e0ccb16e22a121403",
+            "bytes": 46126,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-05",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-05.jpg",
+            "sha256": "14539c4b2c8b34cd2bf9f8b400c7e445ef330084ec65b98e2aede882d48220fc",
+            "bytes": 46240,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-06",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-06.jpg",
+            "sha256": "9f31ce4bce31fcff973cce62c864f59446105c693e3373d8a9fed634c846a669",
+            "bytes": 46128,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-07",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-07.jpg",
+            "sha256": "e300fcdde7ccdc205c836ff9d5420fa8987bc13ad9c0c890e54a4a30369bf1e8",
+            "bytes": 46068,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-08",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-08.jpg",
+            "sha256": "f45fc6541bbf3dc2d45a84806c2f17d4f0f6053763b9ac50b9b20c63ca767513",
+            "bytes": 46253,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-09",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-09.jpg",
+            "sha256": "5ec4cd4845356180681ce25a396cc52764996b1d8a8392098f726784db4b72bd",
+            "bytes": 46052,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-10",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-10.jpg",
+            "sha256": "ec11b3da878010815f0f6fe3452fa1b5be18a996b7ed344db020e0e0c03ac5be",
+            "bytes": 46296,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-11",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-11.jpg",
+            "sha256": "20d4aca0a8bc47b52321094a606b58b4b45426cacadd3b8c63f5c3da7346df01",
+            "bytes": 46093,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-12",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/desktop-forward-12.jpg",
+            "sha256": "6144474da10d88e809dfe8b2bcc6c2a1f3ee982b7ede5ad40fb9cb39173f3049",
+            "bytes": 46254,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-opening",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-opening.jpg",
+            "sha256": "12ca0c2b90b3c7deb3703feb6f1291f87f210c0766a4ee8a96bc9c8cb2afe9a4",
+            "bytes": 12744,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-01",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-forward-01.jpg",
+            "sha256": "bc044bd77d73db86436adb84b381e3191e75cc2eb5d71827373a275f0f78ec42",
+            "bytes": 12820,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-02",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-forward-02.jpg",
+            "sha256": "bc044bd77d73db86436adb84b381e3191e75cc2eb5d71827373a275f0f78ec42",
+            "bytes": 12820,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-03",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-forward-03.jpg",
+            "sha256": "bc044bd77d73db86436adb84b381e3191e75cc2eb5d71827373a275f0f78ec42",
+            "bytes": 12820,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-04",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-forward-04.jpg",
+            "sha256": "bc044bd77d73db86436adb84b381e3191e75cc2eb5d71827373a275f0f78ec42",
+            "bytes": 12820,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-05",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-forward-05.jpg",
+            "sha256": "bc044bd77d73db86436adb84b381e3191e75cc2eb5d71827373a275f0f78ec42",
+            "bytes": 12820,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-06",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-forward-06.jpg",
+            "sha256": "bc044bd77d73db86436adb84b381e3191e75cc2eb5d71827373a275f0f78ec42",
+            "bytes": 12820,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-07",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-forward-07.jpg",
+            "sha256": "bc044bd77d73db86436adb84b381e3191e75cc2eb5d71827373a275f0f78ec42",
+            "bytes": 12820,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-08",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-forward-08.jpg",
+            "sha256": "bc044bd77d73db86436adb84b381e3191e75cc2eb5d71827373a275f0f78ec42",
+            "bytes": 12820,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-09",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-forward-09.jpg",
+            "sha256": "bc044bd77d73db86436adb84b381e3191e75cc2eb5d71827373a275f0f78ec42",
+            "bytes": 12820,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-10",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/mobile-forward-10.jpg",
+            "sha256": "bc044bd77d73db86436adb84b381e3191e75cc2eb5d71827373a275f0f78ec42",
+            "bytes": 12820,
+            "gitIgnored": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Koffiracha",
+      "url": "https://koffiracha.com/",
+      "decisionRecordedByScout": "rejected-bounded-screen",
+      "pathRecord": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/path.json",
+        "sha256": "da566d5b6286d6a5223e5484a04bd5fb0f65e3567defc5c66c10a277e686241c",
+        "bytes": 62557,
+        "gitIgnored": false
+      },
+      "pathResult": "captured-not-admitted",
+      "pathErrors": [],
+      "contact": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/contact.jpg",
+        "sha256": "75553ed5de263c00212479f0dfa0d50b429fe2e69b0be3f735b9c72fdeccc2c6",
+        "bytes": 338137,
+        "gitIgnored": false
+      },
+      "actualFrameCount": 22,
+      "frames": [
+        {
+          "label": "desktop-opening",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-opening.jpg",
+            "sha256": "5773470385e80a28a8d76450e5e1e8d04030644f79ded40c231abde274b84806",
+            "bytes": 144124,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-01",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-01.jpg",
+            "sha256": "1151bc7a1a9d1035a291b7a601be3400af1703d1c5a10fb0a4e7f69c76348e70",
+            "bytes": 187524,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-02",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-02.jpg",
+            "sha256": "8b3c289f8290233d704ca70cc7d9511cb66abadbe456243321efd8e1c7b373f5",
+            "bytes": 188253,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-03",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-03.jpg",
+            "sha256": "07a212f696b653de1069f3981b6fbd91ac7f2a6ec6a0395880218ba7a6a2b5cd",
+            "bytes": 125694,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-04",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-04.jpg",
+            "sha256": "ddaec469302f25f1dee435551b1dbb00e5c9e8f47970aa4338a657a1bcd49758",
+            "bytes": 141527,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-05",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-05.jpg",
+            "sha256": "198c18a2e05bee7eb521f0fcff1f81e189a5105a8f4956f3e8f04a62232bad42",
+            "bytes": 169620,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-06",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-06.jpg",
+            "sha256": "75df43167d3764cb38777526088111a994ac013b748150ac8171d9d3462e2f43",
+            "bytes": 284813,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-07",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-07.jpg",
+            "sha256": "3da48e1d8717141a11d847c7082130eeb174e1d1c153c2da5a5935beb231f761",
+            "bytes": 104387,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-08",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-08.jpg",
+            "sha256": "93512c67c4c0c87d7b478162a0ad6a54d8c291702347eb939db714ef6481ac7f",
+            "bytes": 196639,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-09",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-09.jpg",
+            "sha256": "71dbd6a47be23c62ab4d692434d9d55b3286032edb58c73c1ea8a0c69181d96e",
+            "bytes": 110053,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-10",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-10.jpg",
+            "sha256": "d13bb5645732632c0d20254fb05ba5f54711fa1e259ea4d4072a05f9a7fab155",
+            "bytes": 117064,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-11",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/desktop-forward-11.jpg",
+            "sha256": "d13bb5645732632c0d20254fb05ba5f54711fa1e259ea4d4072a05f9a7fab155",
+            "bytes": 117064,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-opening",
+          "viewport": [
+            1536,
+            3325
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/mobile-opening.jpg",
+            "sha256": "74e8f4ee5a11c6fbc863597580f21d27e96bcbc2eec7ca8ded714fd3c399d5c9",
+            "bytes": 52447,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-01",
+          "viewport": [
+            1536,
+            3325
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/mobile-forward-01.jpg",
+            "sha256": "738727beb377242da12197db238531676c6e2b798f575ece76357b26a5e63ebf",
+            "bytes": 52054,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-02",
+          "viewport": [
+            1536,
+            3325
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/mobile-forward-02.jpg",
+            "sha256": "d08fdb14f2b69f66b13c1a7dad13080c828892636542ccea1078f7eced33c3b8",
+            "bytes": 78502,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-03",
+          "viewport": [
+            1536,
+            3325
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/mobile-forward-03.jpg",
+            "sha256": "7ad4e1d8094e5735825af5f4321cdc1b776aa137ec42012188716eaf3b1a430e",
+            "bytes": 32131,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-04",
+          "viewport": [
+            1536,
+            3325
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/mobile-forward-04.jpg",
+            "sha256": "62003cb5700187cc4f6b00a489ec26de926f4f9ba6659816616badd7ea7f113c",
+            "bytes": 35760,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-05",
+          "viewport": [
+            1536,
+            3325
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/mobile-forward-05.jpg",
+            "sha256": "6f80d51caae749177ebacd76117ef3c70c96853a257937484be57330119d69c3",
+            "bytes": 79871,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-06",
+          "viewport": [
+            1536,
+            3325
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/mobile-forward-06.jpg",
+            "sha256": "55a200e5bd11edd81ed444150a1af7df4980d493d117166a5594a40cf232b0f7",
+            "bytes": 30730,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-07",
+          "viewport": [
+            1536,
+            3325
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/mobile-forward-07.jpg",
+            "sha256": "de3d81fca8d9f97960b47d1d07ee68804b92f14c94f8255b64fbaf0ef024ff44",
+            "bytes": 43829,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-08",
+          "viewport": [
+            1536,
+            3325
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/mobile-forward-08.jpg",
+            "sha256": "4c40e425933a1124f48705fc85078ae31096e43bc9f8189dd9fa432ac231a508",
+            "bytes": 54494,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-09",
+          "viewport": [
+            1536,
+            3325
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/mobile-forward-09.jpg",
+            "sha256": "4c40e425933a1124f48705fc85078ae31096e43bc9f8189dd9fa432ac231a508",
+            "bytes": 54494,
+            "gitIgnored": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lando Norris",
+      "url": "https://landonorris.com/",
+      "decisionRecordedByScout": "evidence-needed-not-selected",
+      "pathRecord": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/path.json",
+        "sha256": "70dbb69e993f3df3294b590890afdf01d14fc213520fe5cce793b2de26da9a8e",
+        "bytes": 66229,
+        "gitIgnored": false
+      },
+      "pathResult": "captured-not-admitted",
+      "pathErrors": [],
+      "contact": {
+        "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/contact.jpg",
+        "sha256": "a966aeba1f572fda389c02a87062cdd6c262517b03b941129fe388b1f3d6f247",
+        "bytes": 338121,
+        "gitIgnored": false
+      },
+      "actualFrameCount": 26,
+      "frames": [
+        {
+          "label": "desktop-opening",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-opening.jpg",
+            "sha256": "1d40ad8119c2156e7e619f6b59dd20e8e46ba1ac8678b54a4da5216961d46980",
+            "bytes": 12216,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-01",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-01.jpg",
+            "sha256": "faeab257a0d6472b2efd7bf130c4085e24548231fce998a3a0a84bab515ebe36",
+            "bytes": 103442,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-02",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-02.jpg",
+            "sha256": "b4a3570845c3621b351e9d4a6d5d4324b0eabf385cbdbfddd601636c37118bdf",
+            "bytes": 114950,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-03",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-03.jpg",
+            "sha256": "8df4394df554687e937ba5127f909bffadeee4917e8c175efe728ff34d07a99d",
+            "bytes": 115124,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-04",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-04.jpg",
+            "sha256": "02459c8259d8c0a7a764b04e57d5b1a0436469077a4262fc4af45e991ee2ee1f",
+            "bytes": 138208,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-05",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-05.jpg",
+            "sha256": "53a184e3e8b556e3e83c5844e5e85067f1257040492d1fd6ca524039be8a8577",
+            "bytes": 122940,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-06",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-06.jpg",
+            "sha256": "bbc14bad5e582e31464ba778ab72014681d987e31449b503ad549ef9d31d7bdf",
+            "bytes": 134595,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-07",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-07.jpg",
+            "sha256": "2a3d2622667b2ebfba74b54d01fe5ea38ce44393c514dc826cf00049bc42136b",
+            "bytes": 139289,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-08",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-08.jpg",
+            "sha256": "280629a6d8a92552afeb01c39c2ef666ca1ee821941d6f09b00cd8b1dd7d22d7",
+            "bytes": 195489,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-09",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-09.jpg",
+            "sha256": "e8bdbd6f08d15521f07b96f0b5ce1363a495f8510a41aafa20160d0bc11570f5",
+            "bytes": 259549,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-10",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-10.jpg",
+            "sha256": "d47a938c39379c1d909d09eb0d5db899abeff39e023c275f079dd3de9bcf7519",
+            "bytes": 145799,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-11",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-11.jpg",
+            "sha256": "716feedddd2a2ef115c5e1a60f2ee53ff5571602e21d0e19ba10eb63555d1c07",
+            "bytes": 174668,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "desktop-forward-12",
+          "viewport": [
+            1440,
+            900
+          ],
+          "screen": [
+            1440,
+            900
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/desktop-forward-12.jpg",
+            "sha256": "2e7fa48accefe4c0b202407bd7b29bf4e9794e8f1e3790e2db57e439158ec88d",
+            "bytes": 105306,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-opening",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-opening.jpg",
+            "sha256": "41b57675a813286075e0cbd4a7e5b0ac09f52a05c2d80e0ce7a62568436413f3",
+            "bytes": 82331,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-01",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-01.jpg",
+            "sha256": "3e0260b152c84f54bbd03ae30a07ffd364ba0bb01bb075b5a22ccd0e94f54f2c",
+            "bytes": 37651,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-02",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-02.jpg",
+            "sha256": "de3dcbf3e044af982d34de7894561b3c5954011fda87f77ccae13543d188112c",
+            "bytes": 54260,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-03",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-03.jpg",
+            "sha256": "b2bd152cd0ba0b7c1e2629fa9c10bca129ba5df265f8a1146478ac226014883d",
+            "bytes": 50633,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-04",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-04.jpg",
+            "sha256": "774741861ba93eda3f0d79c6d605efd91244085dc2c39a4b97ff81b1e3ce6ca8",
+            "bytes": 51114,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-05",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-05.jpg",
+            "sha256": "6ddfc7cfdb5ff47d18cb42808436406a6f6769b35e8f57711173b0f9e800cb87",
+            "bytes": 54274,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-06",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-06.jpg",
+            "sha256": "5d26b0c974106847ee0f832573c9e53ccbf44a0d42d59d3db1b9a80bfc9c222c",
+            "bytes": 70597,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-07",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-07.jpg",
+            "sha256": "60bc2b0c80b03d1895028764c60418b480a3cef03bb58bc1085572f77d52c331",
+            "bytes": 69062,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-08",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-08.jpg",
+            "sha256": "c825cd99366dae493e5f448577df0524e46a18a5100a63c210f21a0997b6a138",
+            "bytes": 45251,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-09",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-09.jpg",
+            "sha256": "2475a27cc5af905df1ba58165c7470d5a12137e6e88ac2d488031b0d02bbf69a",
+            "bytes": 37129,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-10",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-10.jpg",
+            "sha256": "e2b39270e2d63bc7605d26b591b74bc969d8c24570d508349e132b31f404f5c6",
+            "bytes": 49154,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-11",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-11.jpg",
+            "sha256": "bbb21481c1dff5ed3a798f0b2f60f9a6f232964f2433f1b500971608c9efeea7",
+            "bytes": 35999,
+            "gitIgnored": false
+          }
+        },
+        {
+          "label": "mobile-forward-12",
+          "viewport": [
+            390,
+            844
+          ],
+          "screen": [
+            390,
+            844
+          ],
+          "reduced": false,
+          "evidence": {
+            "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/mobile-forward-12.jpg",
+            "sha256": "e2d49cf6c561d64b8b6763d2c7762e56fefbe2e82e59bf0ed189d7bd0f31cdf6",
+            "bytes": 60222,
+            "gitIgnored": false
+          }
+        }
+      ]
+    }
+  ],
+  "historicalSupplementFailureReferences": [
+    {
+      "path": "docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-supplement/path.json",
+      "sha256": "b412ad6e837c23f49337d9096635efce683bbc720f8583428bae825041fb7017",
+      "bytes": 1110,
+      "gitIgnored": false,
+      "scope": "Existing 2026-10-30 failed supplement JSON cited by the original report; no 2026-10-31 supplement included."
+    }
+  ],
+  "gitIgnore": {
+    "command": "git check-ignore --no-index --stdin",
+    "exitCode": 1,
+    "stdout": "",
+    "stderr": "",
+    "allRequiredFilesNotIgnored": true,
+    "scopedExceptions": [
+      "!/docs/evidence/redo-v2/2026-10-30/007-media-scout/magic-bottle/*.jpg",
+      "!/docs/evidence/redo-v2/2026-10-30/007-media-scout/koffiracha/*.jpg",
+      "!/docs/evidence/redo-v2/2026-10-30/007-media-scout/lando-norris/*.jpg"
+    ],
+    "scope": "Only the three JPEG families; existing 008 and other exceptions retained. No broader evidence exception added."
+  },
+  "excluded": [
+    "All 2026-10-31 Lando supplement files still being written by another agent.",
+    "Any unlisted screenshot, final media/model or candidate source."
+  ],
+  "originalReportModified": false,
+  "newScreenshotsCaptured": 0,
+  "newVisualDecisions": 0,
+  "newModelCalls": 0,
+  "referenceAdmissionGranted": false,
+  "packageAuthorized": false,
+  "inventoryChanged": false,
+  "showcaseChanged": false,
+  "limitations": [
+    "Hashes establish exact retained bytes and required-file availability, not aesthetic quality or an actual remote page state on 2026-10-31.",
+    "Magic Bottle remains an incomplete bounded path; its original failure and entrance-overlay finding were not rewritten.",
+    "Lando remains evidence-needed in the original report; current work in another evidence family is outside this snapshot."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "purpose": "actual-native-core-inputs-not-page-admission",
+  "checks": [
+    {
+      "viewport": "desktop",
+      "moved": {
+        "x": 0.3539963710455245,
+        "y": -0.1887980941074346,
+        "vx": 1.1614010543272253,
+        "vy": -0.6194148651235187,
+        "drag": true,
+        "lastX": 899.4749755859375,
+        "lastY": 412.9893798828125,
+        "lastT": 4302.5999999940395,
+        "radius": 275.4000000000001
+      },
+      "settled": {
+        "x": 0,
+        "y": 0,
+        "vx": 0,
+        "vy": 0,
+        "drag": false,
+        "lastX": 899.4749755859375,
+        "lastY": 412.9893798828125,
+        "lastT": 4302.5999999940395,
+        "radius": 275.4000000000001
+      },
+      "reducedMotion": "actual-live-preference-change-passed",
+      "evidence": [
+        {
+          "state": "default",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-native-inputs/desktop-default.jpg",
+          "sha256": "5f5860622f1c28aadec3fbb757b0e2491f93dedddffcef6436f16cf4725e006c"
+        },
+        {
+          "state": "held",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-native-inputs/desktop-held.jpg",
+          "sha256": "345e1f45115751ad3ebe889580ebfc03bf6e1228af38f4681b9e46bf981ce016"
+        },
+        {
+          "state": "released",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-native-inputs/desktop-released.jpg",
+          "sha256": "5f5860622f1c28aadec3fbb757b0e2491f93dedddffcef6436f16cf4725e006c"
+        },
+        {
+          "state": "keyboard-held",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-native-inputs/desktop-keyboard.jpg",
+          "sha256": "b901a8e3ac49f5038f792c547685080a803ca9ba7c528f099cea4f0538d9fd3c"
+        },
+        {
+          "state": "reduced",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-native-inputs/desktop-reduced.jpg",
+          "sha256": "6661511518a2ad7feb3737ada17743e30479bae0d1197a0a5912ab6893db43ca"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "moved": {
+        "x": 0.35399954060483685,
+        "y": -0.1887997839026101,
+        "vx": 1.066265636010608,
+        "vy": -0.5686753542261048,
+        "drag": true,
+        "lastX": 244.80313110351562,
+        "lastY": 419.80499267578125,
+        "lastT": 3954.6999999955297,
+        "radius": 140.73113207547175
+      },
+      "settled": {
+        "x": 0,
+        "y": 0,
+        "vx": 0,
+        "vy": 0,
+        "drag": false,
+        "lastX": 244.80313110351562,
+        "lastY": 419.80499267578125,
+        "lastT": 3954.6999999955297,
+        "radius": 140.73113207547175
+      },
+      "reducedMotion": "actual-live-preference-change-passed",
+      "evidence": [
+        {
+          "state": "default",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-native-inputs/mobile-default.jpg",
+          "sha256": "6082756882c21eccfc7b522b9d2b4c6e76c42d2baffc515df4757f3d2bb0a8e4"
+        },
+        {
+          "state": "held",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-native-inputs/mobile-held.jpg",
+          "sha256": "1fb6f218314e8379d55dbec9014156ea490fd0164797c27fb87daca58d646b3f"
+        },
+        {
+          "state": "released",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-native-inputs/mobile-released.jpg",
+          "sha256": "6082756882c21eccfc7b522b9d2b4c6e76c42d2baffc515df4757f3d2bb0a8e4"
+        },
+        {
+          "state": "keyboard-held",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-native-inputs/mobile-keyboard.jpg",
+          "sha256": "e8e7eaed072fd70efd648a3cebc8073166e947e94ba94ebef6ed4a10e0094952"
+        },
+        {
+          "state": "reduced",
+          "path": "docs/evidence/redo-v2/2026-10-18/010-performance-native-inputs/mobile-reduced.jpg",
+          "sha256": "fd70ad85d80f9960125893bf3816cecc28c24cd41c3b6232498cea376478cad8"
+        }
+      ]
+    }
+  ],
+  "result": "passed-native-core-inputs"
+}

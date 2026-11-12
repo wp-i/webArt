@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "recipe": {
+    "path": "docs/assets/recipes/campo-02.json",
+    "sha256": "2b333eb295f8c006c6dd990cf26fb8a19cb60fd3b277ff72440db892dd0d8d6d"
+  },
+  "converter": {
+    "path": ".webart/tools/blender-4.5.3/blender-4.5.3-windows-x64/blender.exe",
+    "sha256": "bd9d0d31051b9c54c7651ae65d97bb3cd443624ea8e0691497df591b34805510"
+  },
+  "inputs": [
+    {
+      "path": ".webart/asset-preparation/human-base-meshes-v1.4.1/human-base-meshes-bundle-v1.4.1/human_base_meshes_bundle.blend",
+      "sha256": "3c121505651140ceb4d69fd1d8923f7788ffadd81672f5be14845a5f2c75c137"
+    },
+    {
+      "path": "assets/candidates/campo/coaster-high.obj",
+      "sha256": "45b47e3161a4bad0546698c14d8f7f8c915a62789052003b57a3890b796c6637"
+    },
+    {
+      "path": ".webart/asset-preparation/Cork001/Cork001_2K-JPG_Color.jpg",
+      "sha256": "de8fb6a641619a12135f3e3fa51c7f5378e1e828bcd1be705bd881e651ee96c0"
+    },
+    {
+      "path": ".webart/asset-preparation/Cork001/Cork001_2K-JPG_NormalGL.jpg",
+      "sha256": "75a5ace445753703076136dd43fab7b422f0d6bece0036f094643932124fb158"
+    },
+    {
+      "path": ".webart/asset-preparation/Cork001/Cork001_2K-JPG_Roughness.jpg",
+      "sha256": "0223930135cb116826749fd77837d9ad332dd4571ea950475937f6c7ba5194ea"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "assets/candidates/campo-v2/hand-realistic-rigged.glb",
+      "sha256": "dcba3f127d3ec6b8d871faf2e71bf6dd38ea169eb0767b5ab0eb5ac4ba37ffaa",
+      "bytes": 890696,
+      "extension": ".glb",
+      "kind": "self-contained-local-model"
+    },
+    {
+      "path": "assets/candidates/campo-v2/cork-plate.glb",
+      "sha256": "9d9b9501075e10e8f018ffe7be64db30a05a1f17cbcab783ce69691ed6d23f64",
+      "bytes": 14463408,
+      "extension": ".glb",
+      "kind": "self-contained-local-model"
+    }
+  ],
+  "visualAdmission": false,
+  "limitation": "Deterministic preparation is an engineering result; final render, deformation and replacement review remain required."
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "totalCharacters": 300,
+  "fields": {
+    "hero-line-1": {
+      "editable": false
+    },
+    "hero-line-2": {
+      "editable": false
+    },
+    "intro": {
+      "editable": false
+    },
+    "spaces-heading": {
+      "editable": false
+    },
+    "materials-heading": {
+      "editable": false
+    },
+    "materials-intro": {
+      "editable": false
+    },
+    "contact-heading": {
+      "editable": false
+    }
+  }
+}

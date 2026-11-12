@@ -1,0 +1,62 @@
+[
+  {
+    "repo": "lusionltd/ORYZO-1",
+    "commit": "9b657bb646d33f070d8610ca48f492d92116aba9",
+    "files": [
+      {
+        "path": "LICENSE",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "766d8399d8ffa302067936793438fc14649d1830",
+        "size": 1067,
+        "url": "https://api.github.com/repos/lusionltd/ORYZO-1/git/blobs/766d8399d8ffa302067936793438fc14649d1830"
+      },
+      {
+        "path": "checkpoints/oryzo-1-26b-a0b.obj",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "f06138bc85c2df7a2367b657a748a4a6de9ae7bb",
+        "size": 26525,
+        "url": "https://api.github.com/repos/lusionltd/ORYZO-1/git/blobs/f06138bc85c2df7a2367b657a748a4a6de9ae7bb"
+      }
+    ]
+  },
+  {
+    "repo": "immersive-web/webxr-input-profiles",
+    "commit": "f4992299601614adbfefd398dc8e281556bb7444",
+    "files": [
+      {
+        "path": "LICENSE.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "32a27c21fdfa6a2b0b9660115f57bc632650d7f8",
+        "size": 216,
+        "url": "https://api.github.com/repos/immersive-web/webxr-input-profiles/git/blobs/32a27c21fdfa6a2b0b9660115f57bc632650d7f8"
+      },
+      {
+        "path": "packages/assets/LICENSE.md",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "af9f7946cf9dac966b43c2d3d7dbd6144e7661fc",
+        "size": 1094,
+        "url": "https://api.github.com/repos/immersive-web/webxr-input-profiles/git/blobs/af9f7946cf9dac966b43c2d3d7dbd6144e7661fc"
+      },
+      {
+        "path": "packages/assets/profiles/generic-hand/left.glb",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "670ec9bed67d3e509859641d2194a9cab7d9fc29",
+        "size": 94572,
+        "url": "https://api.github.com/repos/immersive-web/webxr-input-profiles/git/blobs/670ec9bed67d3e509859641d2194a9cab7d9fc29"
+      },
+      {
+        "path": "packages/assets/profiles/generic-hand/right.glb",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "215f50d70fb7a5a884025b508cf5c58230913371",
+        "size": 94004,
+        "url": "https://api.github.com/repos/immersive-web/webxr-input-profiles/git/blobs/215f50d70fb7a5a884025b508cf5c58230913371"
+      }
+    ]
+  }
+]

@@ -1,0 +1,942 @@
+{
+  "schemaVersion": 2,
+  "phase": "reference",
+  "calibrationRevision": "2026-10-12-user-calibration-v2",
+  "benchmarkSha256": "8cbf6f99bdb1391dcb5ab13bbc929a72a81dfbf45e3b55bcbb8a716ce5ede5d0",
+  "sourceSha256": null,
+  "reviewer": {
+    "id": "current-conversation:api-20261018123549107-2c14d5a7",
+    "mode": "evidence-only-current-conversation",
+    "implementationContextIncluded": false,
+    "kind": "current-conversation",
+    "independent": false,
+    "contextIsolated": false,
+    "inputScope": "benchmark+negative+reference",
+    "calibrationRunId": "api-20261018123549107-2c14d5a7"
+  },
+  "decision": "admit",
+  "vetoes": [],
+  "states": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 21142,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "6b29671b65333aeb67287b3ff84c29d5f79850421cb137a6f4b19ff7fe1b262b"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4251,
+      "layout": {
+        "y": 4251,
+        "documentHeight": 21142,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "26c87a51189efb6aefec883ff4a0dd9b5c405ef6f6e93b4861ca02b4cc99f0f1"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 9000,
+      "layout": {
+        "y": 9000,
+        "documentHeight": 21142,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "1590fe065254b23edca3e0c60200c4aae33d22ccbc9913400874330add4b69ca"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 10800,
+      "layout": {
+        "y": 10800,
+        "documentHeight": 21142,
+        "viewportHeight": 900
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "979a44e6ff45e1934686e8730d4c7637596da83df28d322761976f164a79b9e7"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 0,
+      "layout": {
+        "y": 0,
+        "documentHeight": 20202,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-opening/contact-sheet.jpg",
+          "sha256": "0c8c19372b8a371b90cae69c2ff577b13279bffeb475b248482105ac68c2e6d4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 4065,
+      "layout": {
+        "y": 4065,
+        "documentHeight": 20202,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-transition/contact-sheet.jpg",
+          "sha256": "55cc389bff988ce69b3f78b49b1136a3da5b4dc4fc8920564106219dd4fbedc4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 8440,
+      "layout": {
+        "y": 8440,
+        "documentHeight": 20202,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-middle/contact-sheet.jpg",
+          "sha256": "42d0c506722c935d5e2b577fb8c7d2f0232701209d1670b6ded0bfbc018d06fe"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "finalAssets": true,
+      "loaded": true,
+      "y": 10128,
+      "layout": {
+        "y": 10128,
+        "documentHeight": 20202,
+        "viewportHeight": 844
+      },
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "79b9daac8600e0384f210962dde261a8fcdae038e89859d3703cf09690fbc59b"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "key": "opening-authority",
+      "againstBenchmark": "peer",
+      "finding": "基准以层叠材料和嵌合衬线建立主体；母版以偏中右仪表、彩色外圈和左侧重字建立同样明确的主次，手机也有完整的圆周与标题关系。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-4"
+      ],
+      "candidateFrames": [
+        "reference-12",
+        "reference-16"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "6b29671b65333aeb67287b3ff84c29d5f79850421cb137a6f4b19ff7fe1b262b"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-opening/contact-sheet.jpg",
+          "sha256": "0c8c19372b8a371b90cae69c2ff577b13279bffeb475b248482105ac68c2e6d4"
+        }
+      ]
+    },
+    {
+      "key": "type-media-craft",
+      "againstBenchmark": "peer",
+      "finding": "母版的短重字、细刻度及暗色显示面相互配合，浅色展开状态的轮廓粗细与空间密度受控；与基准的细字和材料关系采用不同但同样精确的办法。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-12",
+        "reference-13"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "6b29671b65333aeb67287b3ff84c29d5f79850421cb137a6f4b19ff7fe1b262b"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "26c87a51189efb6aefec883ff4a0dd9b5c405ef6f6e93b4861ca02b4cc99f0f1"
+        }
+      ]
+    },
+    {
+      "key": "asset-specificity",
+      "againstBenchmark": "peer",
+      "finding": "展开轴体可辨认密集的齿槽、壳体和部件层级，彩色刻度及内侧显示组织有专属身份；这些细节承担主体识别，达到基准纤维边缘的具体性。",
+      "benchmarkFrames": [
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-13",
+        "reference-14"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "26c87a51189efb6aefec883ff4a0dd9b5c405ef6f6e93b4861ca02b4cc99f0f1"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "1590fe065254b23edca3e0c60200c4aae33d22ccbc9913400874330add4b69ca"
+        }
+      ]
+    },
+    {
+      "key": "scroll-choreography",
+      "againstBenchmark": "peer",
+      "finding": "已锁短路径从暗底完整仪表进入浅底斜轴轮廓，再回到点阵及弹性内景，色彩、观看尺度和主体身份相接；正反序列均有对应主体，而非多张无关图片淡入。",
+      "benchmarkFrames": [
+        "benchmark-0",
+        "benchmark-1",
+        "benchmark-2",
+        "benchmark-3"
+      ],
+      "candidateFrames": [
+        "reference-12",
+        "reference-13",
+        "reference-14",
+        "reference-15",
+        "reference-20",
+        "reference-21",
+        "reference-23",
+        "reference-24"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-opening.png",
+          "sha256": "d0fc847e515520e58b9103c2dc1aa8297b3ee0e6b769b0804a7daa83286806f6"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.33-2.png",
+          "sha256": "334ccd5ff6536cd3da1e94bebf4d9344840a04069ee6eb4b01550bcd079eb4c7"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "6b29671b65333aeb67287b3ff84c29d5f79850421cb137a6f4b19ff7fe1b262b"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "26c87a51189efb6aefec883ff4a0dd9b5c405ef6f6e93b4861ca02b4cc99f0f1"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "1590fe065254b23edca3e0c60200c4aae33d22ccbc9913400874330add4b69ca"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "979a44e6ff45e1934686e8730d4c7637596da83df28d322761976f164a79b9e7"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "c26eadc23d60d31ddf184f9df1590a1ce86e0135fb311b21dc6b5d703caba14c"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "396dc4078a774f13c4db8462fccfaa4af553678747faa23b3afdd1954f3908ae"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "a641c9f07c2cf968faf4dcd3cf33f6b688c4262821676aa0d64e825db578d70f"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "046ed8e2fdfc1390d10caa2d4d5fa9f0bedf5837a831181614eb0acd5144b7f5"
+        }
+      ]
+    },
+    {
+      "key": "pointer-finish",
+      "againstBenchmark": "peer",
+      "finding": "绿色对象在仪表内部随按下、移动及返回改变形态和尺度，松开后回到完整圆形，减少动态仍保留对象与仪表；反馈直接作用于主体，具有与材料揭示相当的观看作用。",
+      "benchmarkFrames": [
+        "benchmark-2"
+      ],
+      "candidateFrames": [
+        "reference-26",
+        "reference-27",
+        "reference-28",
+        "reference-29",
+        "reference-30"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-0.67-4.png",
+          "sha256": "0da42faa92cbef31e7fd6d913abaf97f84b80f95e80096ffc760a10087a2ebaa"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "08776251d7d6657499d2db21568e71e6508318a093c91dc1d932fe586202a5f4"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "c61604fa14a82cdd682c19b8190ddf1f23d73b2f7823e8bd79226e7f00505632"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "e36d1bd105f3cff05ad3c79f6097cdee64786047ea99c2be4b11a4b632b4aafa"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "41d1d12a25b7d3ec1e3b23a5edc92c1d27daee2690e8569cb167824e53460886"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "a767362a10c2d0444447c14d69e3faadeca82504f891f04715ca327c2d68bb2d"
+        }
+      ]
+    },
+    {
+      "key": "whole-page-resolution",
+      "againstBenchmark": "peer",
+      "finding": "审查的是计划明确选定、到弹性仪表结束的四状态短路径，末态保留完整壳体与独立荧光内景，形成可操作的视觉终点；原站后续代码工具及订阅不属于所选页面收束。",
+      "benchmarkFrames": [
+        "benchmark-3",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "reference-15",
+        "reference-19",
+        "reference-29"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-1440-scroll-1-6.png",
+          "sha256": "e0dec97b152b54f3278962674baff48a85b6b9a2cea058efd291811e91519556"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "979a44e6ff45e1934686e8730d4c7637596da83df28d322761976f164a79b9e7"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "79b9daac8600e0384f210962dde261a8fcdae038e89859d3703cf09690fbc59b"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "41d1d12a25b7d3ec1e3b23a5edc92c1d27daee2690e8569cb167824e53460886"
+        }
+      ]
+    },
+    {
+      "key": "mobile-composition",
+      "againstBenchmark": "peer",
+      "finding": "手机将短标题置顶、完整仪表置于中下，浅色展开轴体有独立斜向空间，点阵和绿色末态仍在壳体内；四状态均未依赖桌面横向裁切或鼠标才可理解。",
+      "benchmarkFrames": [
+        "benchmark-4",
+        "benchmark-5",
+        "benchmark-6",
+        "benchmark-7"
+      ],
+      "candidateFrames": [
+        "reference-16",
+        "reference-17",
+        "reference-18",
+        "reference-19"
+      ],
+      "benchmarkEvidence": [
+        {
+          "path": "docs/evidence/quality-calibration/001-390-opening.png",
+          "sha256": "45959d88c830a22801062d15d45792a504d1daf8a4d2cf539b47218cad1a917d"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.33-12.png",
+          "sha256": "9d3cbf3ee3bfd265da5b4d031889d0a05117e1246e994d5b7036030bba8d2fa4"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-0.67-13.png",
+          "sha256": "55a7e39e6062c03b371b89cb7343a710aac1ec43049644566f67dcec5fe7dc9f"
+        },
+        {
+          "path": "docs/evidence/quality-calibration/001-390-scroll-1-14.png",
+          "sha256": "520e4277f56438bc93666f28d7028d9ca61d8bccfa9736ff37e3792b13ac2c87"
+        }
+      ],
+      "candidateEvidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-opening/contact-sheet.jpg",
+          "sha256": "0c8c19372b8a371b90cae69c2ff577b13279bffeb475b248482105ac68c2e6d4"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-transition/contact-sheet.jpg",
+          "sha256": "55cc389bff988ce69b3f78b49b1136a3da5b4dc4fc8920564106219dd4fbedc4"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-middle/contact-sheet.jpg",
+          "sha256": "42d0c506722c935d5e2b577fb8c7d2f0232701209d1670b6ded0bfbc018d06fe"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "79b9daac8600e0384f210962dde261a8fcdae038e89859d3703cf09690fbc59b"
+        }
+      ]
+    }
+  ],
+  "signatureFeatures": [
+    {
+      "name": "precision-mechanism-and-material-to-linework",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "浅底斜向机械轴体保留齿形、槽和装配层次，实体与轮廓构成不同观看状态，不能用无身份的普通圆柱组替换。",
+      "referenceFrames": [
+        "reference-12",
+        "reference-13",
+        "reference-17"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "6b29671b65333aeb67287b3ff84c29d5f79850421cb137a6f4b19ff7fe1b262b"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "26c87a51189efb6aefec883ff4a0dd9b5c405ef6f6e93b4861ca02b4cc99f0f1"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-transition/contact-sheet.jpg",
+          "sha256": "55cc389bff988ce69b3f78b49b1136a3da5b4dc4fc8920564106219dd4fbedc4"
+        }
+      ]
+    },
+    {
+      "name": "wave-to-stagger-display",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "红色横线波形与蓝色点阵均处于同一外壳内部，显示组织随过程变化而主体刻度持续存在，形成内容与造型的连续关系。",
+      "referenceFrames": [
+        "reference-12",
+        "reference-14",
+        "reference-16",
+        "reference-18"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "6b29671b65333aeb67287b3ff84c29d5f79850421cb137a6f4b19ff7fe1b262b"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "1590fe065254b23edca3e0c60200c4aae33d22ccbc9913400874330add4b69ca"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-opening/contact-sheet.jpg",
+          "sha256": "0c8c19372b8a371b90cae69c2ff577b13279bffeb475b248482105ac68c2e6d4"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-middle/contact-sheet.jpg",
+          "sha256": "42d0c506722c935d5e2b577fb8c7d2f0232701209d1670b6ded0bfbc018d06fe"
+        }
+      ]
+    },
+    {
+      "name": "spring-object-contained-in-instrument",
+      "core": true,
+      "retained": true,
+      "sceneLevel": true,
+      "visualPurpose": "绿色弹性对象始终由完整仪表包围，按下、移动和释放实际改变内景，收束保留与开场相同的主体身份及加工精度。",
+      "referenceFrames": [
+        "reference-15",
+        "reference-19",
+        "reference-26",
+        "reference-27",
+        "reference-29",
+        "reference-30"
+      ],
+      "candidateFrames": [],
+      "role": "signature",
+      "referenceEvidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "979a44e6ff45e1934686e8730d4c7637596da83df28d322761976f164a79b9e7"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "79b9daac8600e0384f210962dde261a8fcdae038e89859d3703cf09690fbc59b"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "08776251d7d6657499d2db21568e71e6508318a093c91dc1d932fe586202a5f4"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "c61604fa14a82cdd682c19b8190ddf1f23d73b2f7823e8bd79226e7f00505632"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "41d1d12a25b7d3ec1e3b23a5edc92c1d27daee2690e8569cb167824e53460886"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "a767362a10c2d0444447c14d69e3faadeca82504f891f04715ca327c2d68bb2d"
+        }
+      ]
+    }
+  ],
+  "motion": [
+    {
+      "input": "pointer",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-26",
+        "reference-27",
+        "reference-28",
+        "reference-29",
+        "reference-30"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-start/contact-sheet.jpg",
+          "sha256": "08776251d7d6657499d2db21568e71e6508318a093c91dc1d932fe586202a5f4"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-1/contact-sheet.jpg",
+          "sha256": "c61604fa14a82cdd682c19b8190ddf1f23d73b2f7823e8bd79226e7f00505632"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-2/contact-sheet.jpg",
+          "sha256": "e36d1bd105f3cff05ad3c79f6097cdee64786047ea99c2be4b11a4b632b4aafa"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-leave/contact-sheet.jpg",
+          "sha256": "41d1d12a25b7d3ec1e3b23a5edc92c1d27daee2690e8569cb167824e53460886"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-pointer-reduced/contact-sheet.jpg",
+          "sha256": "a767362a10c2d0444447c14d69e3faadeca82504f891f04715ca327c2d68bb2d"
+        }
+      ]
+    },
+    {
+      "input": "scroll",
+      "normal": true,
+      "forward": true,
+      "reverse": true,
+      "leaveOrStop": true,
+      "reduced": true,
+      "primaryVisual": true,
+      "frames": [
+        "reference-20",
+        "reference-21",
+        "reference-23",
+        "reference-24",
+        "reference-25",
+        "reference-31",
+        "reference-32",
+        "reference-34",
+        "reference-35",
+        "reference-36"
+      ],
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-0/contact-sheet.jpg",
+          "sha256": "c26eadc23d60d31ddf184f9df1590a1ce86e0135fb311b21dc6b5d703caba14c"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-2/contact-sheet.jpg",
+          "sha256": "396dc4078a774f13c4db8462fccfaa4af553678747faa23b3afdd1954f3908ae"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-6/contact-sheet.jpg",
+          "sha256": "a641c9f07c2cf968faf4dcd3cf33f6b688c4262821676aa0d64e825db578d70f"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-scroll-8/contact-sheet.jpg",
+          "sha256": "046ed8e2fdfc1390d10caa2d4d5fa9f0bedf5837a831181614eb0acd5144b7f5"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-reduced/contact-sheet.jpg",
+          "sha256": "301353e095648acbf801a9038062670748d51f1c7700b58b975d26f98de5f055"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-0/contact-sheet.jpg",
+          "sha256": "cdeea125710cd637578e7d8ec6d1fb1b34453e27b934b552471d5fb29b3b63a6"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-2/contact-sheet.jpg",
+          "sha256": "95ed5e91bb476576fdd9c99d8da32ff8c1350ffaea6743a75c376d29727f7da5"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-6/contact-sheet.jpg",
+          "sha256": "ac867026a9b756f1b27357d2cdf6e6eb83ab54b40301100f2094ec9361efaeea"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-scroll-8/contact-sheet.jpg",
+          "sha256": "3416cc1678686f616851c04e20e6de0a5b91ff76e6f1f15ddbd48b8437c99033"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-reduced/contact-sheet.jpg",
+          "sha256": "95312f7312e3acdc57e4e11abc018194ff4de40eec33a9e21d623e5845b4a25c"
+        }
+      ]
+    }
+  ],
+  "nextAction": "admit",
+  "fixTasks": [],
+  "visualContract": {
+    "schemaVersion": 1,
+    "states": {
+      "opening": {
+        "subject": "精细仪表是开场的唯一主视觉，保留可辨认的部件和显示面，不能换成无身份的球体。",
+        "material": "金属、玻璃与显示面通过真实光照产生层次，不用普通灰色块或统一描边代替材质。",
+        "composition": "标题与仪表形成明确的主次及交叠关系，桌面与手机均先看到主体而不是大段占位文字。",
+        "role": "开场建立仪表身份并通过指针改变观察角度，不能只用漂浮背景或按钮缩放证明互动。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "transition": {
+        "subject": "同一仪表沿轴线展开，部件结构仍可识别，不能切换成无关的线框或另一件普通几何。",
+        "material": "由实体材质交接到精确轮廓，部件深度和结构依然清晰，不因切换而失去空间层次。",
+        "composition": "展开轴线在新底色中形成独立构图与留白，不能重复开场的标题位置和同一观看节奏。",
+        "role": "滚动推动部件展开和材质交接，正向与反向均连续，转换服务于同一主体的观看。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "middle": {
+        "subject": "仪表显示面内部出现点阵变化，外部壳体持续保留，不能只剩一块脱离主体的点阵平面。",
+        "material": "点阵与显示面具有可辨认的层级和发光关系，壳体仍保留精细材质而非普通灰色代理。",
+        "composition": "点阵展示形成与开场不同的近景构图，短文字仅作参考，不用大段说明占据主画面。",
+        "role": "输入改变显示面的波形或点阵组织，让主视觉承担信息反馈，不以统一淡入代替编排。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      },
+      "ending": {
+        "subject": "同一仪表内部保留可直接拖动的弹性对象，不能把仪表全部删去并换成圆点或邮箱页脚。",
+        "material": "弹性对象与仪表有完整的颜色、体积和接触关系，材质完成度必须与开场保持一致。",
+        "composition": "结尾以独立且完整的视觉场景收束，并保留简短原生行动，不能退化为通用按钮列表。",
+        "role": "拖动、放开、反向与停止均有清晰的弹性反馈，主体身份贯穿收束而不只是功能成功。",
+        "visibleCharacters": {
+          "desktop": 180,
+          "mobile": 120
+        },
+        "subjectSelectors": [
+          {
+            "selector": "canvas[data-primary-instrument]",
+            "minimumViewportArea": 0.18,
+            "maxInstances": 1
+          }
+        ]
+      }
+    },
+    "continuity": [
+      {
+        "id": "instrument-identity",
+        "signature": "wave-to-stagger-display",
+        "states": [
+          "opening",
+          "transition",
+          "middle",
+          "ending"
+        ],
+        "identity": "从彩色刻度仪表到可辨认内部部件的精密机械，再回到仪表中的点阵与弹性对象，装配与外壳身份沿整条路径连续存在。"
+      }
+    ]
+  },
+  "visualContractSha256": "49288b2d417d3df36b0755d700db4520dfc9edd4491dc210d7a266222ec50177",
+  "stateChecks": [
+    {
+      "viewport": "desktop",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "偏中右的完整仪表与左上短重字形成清楚关系，外圈彩色刻度、暗面和红色波形都可辨认，开场主视觉身份成立。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "6b29671b65333aeb67287b3ff84c29d5f79850421cb137a6f4b19ff7fe1b262b"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "暖灰背景中的斜向机械轴体显示分层壳体、齿槽及轮廓深度，细线与左上标题有独立留白，承担对内部结构的观看。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "26c87a51189efb6aefec883ff4a0dd9b5c405ef6f6e93b4861ca02b4cc99f0f1"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "蓝色点阵位于仪表显示面内，壳体与彩色刻度保持完整，左下蓝字与显示颜色呼应，主图没有被无关点阵面替代。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "1590fe065254b23edca3e0c60200c4aae33d22ccbc9913400874330add4b69ca"
+        }
+      ]
+    },
+    {
+      "viewport": "desktop",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "荧光绿圆形对象位于完整暗色仪表内，左下短标题与可操控主体形成独立末态，真实拖动和释放延续同一视觉身份。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "979a44e6ff45e1934686e8730d4c7637596da83df28d322761976f164a79b9e7"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "opening",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机短标题在上、仪表位于中下，圆周完整且红色波形可辨，文字未盖住主要对象，默认加载无需交互即可理解主体。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-opening/contact-sheet.jpg",
+          "sha256": "0c8c19372b8a371b90cae69c2ff577b13279bffeb475b248482105ac68c2e6d4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "transition",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "展开轴体在手机中保留完整斜向关系，细轮廓和层叠部件仍可识别，上方标题与主体之间有足够空间，没有切掉关键结构。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-transition/contact-sheet.jpg",
+          "sha256": "55cc389bff988ce69b3f78b49b1136a3da5b4dc4fc8920564106219dd4fbedc4"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "middle",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机蓝色点阵仍被仪表外壳包围，上方标题与蓝点呼应，构图延续精细圆周而改变内部观看内容，显示层级清楚。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-middle/contact-sheet.jpg",
+          "sha256": "42d0c506722c935d5e2b577fb8c7d2f0232701209d1670b6ded0bfbc018d06fe"
+        }
+      ]
+    },
+    {
+      "viewport": "mobile",
+      "state": "ending",
+      "subject": "preserved",
+      "material": "preserved",
+      "composition": "preserved",
+      "role": "preserved",
+      "finding": "手机末态保留完整仪表与内部绿色对象，标题有独立上方区域，直接操控的观看对象清楚，不依赖通用联系块完成结尾。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "79b9daac8600e0384f210962dde261a8fcdae038e89859d3703cf09690fbc59b"
+        }
+      ]
+    }
+  ],
+  "continuityChecks": [
+    {
+      "id": "instrument-identity",
+      "viewport": "desktop",
+      "status": "preserved",
+      "finding": "四态由圆形外壳、内部机械展开、点阵显示及绿色操控对象组成，外圈与装配语言保持同一仪表身份；不同状态的材料和底色承担观看深化。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-opening/contact-sheet.jpg",
+          "sha256": "6b29671b65333aeb67287b3ff84c29d5f79850421cb137a6f4b19ff7fe1b262b"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-transition/contact-sheet.jpg",
+          "sha256": "26c87a51189efb6aefec883ff4a0dd9b5c405ef6f6e93b4861ca02b4cc99f0f1"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-middle/contact-sheet.jpg",
+          "sha256": "1590fe065254b23edca3e0c60200c4aae33d22ccbc9913400874330add4b69ca"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/desktop-ending/contact-sheet.jpg",
+          "sha256": "979a44e6ff45e1934686e8730d4c7637596da83df28d322761976f164a79b9e7"
+        }
+      ]
+    },
+    {
+      "id": "instrument-identity",
+      "viewport": "mobile",
+      "status": "preserved",
+      "finding": "手机四态同样以完整仪表为连续主体，只有内部结构和显示组织改变，展开状态的部件语言与圆壳相接，未以无关几何或摄影切断身份。",
+      "evidence": [
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-opening/contact-sheet.jpg",
+          "sha256": "0c8c19372b8a371b90cae69c2ff577b13279bffeb475b248482105ac68c2e6d4"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-transition/contact-sheet.jpg",
+          "sha256": "55cc389bff988ce69b3f78b49b1136a3da5b4dc4fc8920564106219dd4fbedc4"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-middle/contact-sheet.jpg",
+          "sha256": "42d0c506722c935d5e2b577fb8c7d2f0232701209d1670b6ded0bfbc018d06fe"
+        },
+        {
+          "path": "docs/evidence/production/api-20261018123549107-2c14d5a7/010-reference/mobile-ending/contact-sheet.jpg",
+          "sha256": "79b9daac8600e0384f210962dde261a8fcdae038e89859d3703cf09690fbc59b"
+        }
+      ]
+    }
+  ],
+  "reviewReceipt": {
+    "path": "docs/production/runs/session-1792326948875/review-queue/02-reference-review-5b681f8b-receipt.json",
+    "sha256": "6ca0a6ad8c1d689c25aa40d46f6c5e3123ba18c3e211fb5fbcb0c96e5e69bec4"
+  }
+}
